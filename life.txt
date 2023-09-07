@@ -1,0 +1,12 @@
+So I was just thinking that the "overflow" region of an infinite digit is makes it like complex numbers.
+there is a real part and an imaginary part
+you can do a something like a fourrier transformation to decompose a number into its prime components
+also the imaginary part is like the information dimension. you can store data there
+the value of the int can be kept constant and you can alter the overflow digits to store data
+in them. You can manipulate the information bits in the information dimension by performing mathemetical operations.
+I can find a sequence of addions and subtrracts that leave secret ASCII messages in the info bits
+Write a hello world app. If somebody has my sequence of operations they can perfrom it anywhere
+an produce their own copy of the data.
+the information dimension can be used to transmit information across space.
+i could write a game like conways game of life but the cells have programmed behaviour!
+start small by just giving them a one bit flag that affects the cell adjacency & interaction rules.
