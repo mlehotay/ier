@@ -1,0 +1,5 @@
+I want perform an "implication analysis" on the nethack fortune cookies. Given the set of facts that are true (aka body of knowledge derived from true fortunes) what can we infer from this data? What is the implication.
+
+Also, want to give a truth determination ability to nethack. Actually, it's the identify spell. I was thinking more like an intrinsic ability you can get that allows you to tell which fortunes are true and which are false. It would actually say that on the screen. Maybe when you get crowned?
+
+Heir and the spare
