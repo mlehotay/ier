@@ -1,329 +1,361 @@
 # **Informational Experiential Realism (IER v10.0)**
 
-### **Experience as a Categorical Organizational Regime of Intrinsically Constrained Informational Dynamics**
+## **An Explanatory Theory Derived from the Normative Specification**
 
-*or, What Is It Like to Be an Informational System?*
-
-**An Organizational Identity Theory of Observers, Experience, and Experiential Worlds**
+> **Status**
+> This document is **explanatory and non-normative**.
+> All axioms, definitions, principles, and inference rules are specified exclusively in the
+> **IER v10.0 Normative Specification** (“the Spec”).
+>
+> This document introduces **no new primitives**.
+> Its role is to explain, motivate, contextualize, and integrate the Spec’s commitments.
 
 ---
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) is a realist framework for understanding observers and lived experience. Reality exists independently of observation and is governed by mind-independent physical law. Experience is neither fundamental nor illusory, but a **real, categorical organizational regime** instantiated in certain physical systems.
+Informational Experiential Realism (IER) is a realist theory of experience.
+It holds that experience is neither fundamental nor illusory, but a **real, categorical organizational regime** instantiated by certain physical systems.
 
-IER identifies experience with the **globally integrated, temporally continuous, self-referential informational dynamics** of a system operating under **coherent intrinsic constraint**. Experience begins **categorically**, when a system’s own integrated informational dynamics become the dominant, unavoidable constraint on themselves.
+IER identifies experience with the operation of a system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous, self-referential informational regime operating under **coherent intrinsic constraint**.
 
-IER affirms **physical monism and experiential pluralism**: one objective physical reality supports many real experiential worlds, each arising from UEF organization. These worlds are **physically grounded** and **phenomenally real**, illustrating that physicalism and idealism can be complementary perspectives.
+From the outside, a UEF is a lawful physical regime.
+From the inside, the same regime **just is an experiential world**.
 
-This framework can be summarized conceptually as:
+IER therefore affirms **physical monism and experiential pluralism**:
+one objective physical reality supports many real experiential worlds, without dualism, panpsychism, or eliminativism.
+
+---
+
+## 1. The Problem IER Addresses
+
+Any adequate theory of experience must reconcile three claims:
+
+* Physical reality appears complete and law-governed.
+* Experience appears real, structured, unified, and causally relevant.
+* Not all complex or intelligent systems have experience.
+
+Traditional approaches typically deny or distort one of these.
+IER rejects the forced choice.
+
+Instead, it asks a different question:
+
+> **Under what physical and organizational conditions does there exist a world-for-a-system?**
+
+IER’s answer is organizational, not metaphysical:
+experience exists **iff** a system enters a specific dynamical regime defined by intrinsic constraint and global integration (Spec §I–III).
+
+---
+
+## 2. Objective Reality, Systems, and Observers
+
+IER affirms a single, observer-independent physical reality governed by mind-independent law (Spec Axiom 1).
+
+Within that reality exist **physical systems**.
+Some of these qualify as **informational systems**: systems whose state evolution can be described in terms of information storage, transformation, and regulation (Spec §II).
+
+A subset of informational systems qualify as **observers**:
+they persist, integrate information, maintain internal models, and regulate behavior accordingly (Spec §II, *Observer*).
+
+Crucially:
+
+> **Observerhood does not entail experience.**
+
+Many systems model the world and themselves while remaining entirely non-experiential.
+This separation is foundational to IER.
+
+---
+
+## 3. Dual Description: One Regime, Two Perspectives
+
+A central explanatory move in IER is the **dual description of the same regime** (Spec §III.P10).
+
+Whenever a Unified Experiential Field exists, it can be described in two equally valid ways:
+
+1. **Physical description**
+
+   * a lawful, energetically grounded, globally integrated dynamical regime
+   * analyzable entirely in physical and informational terms
+
+2. **Experiential description**
+
+   * a lived world with a present “now”
+   * a self / non-self boundary
+   * system-relative causality and salience
+
+These are **not competing explanations**.
+They are two perspectives on the *same organization*.
+
+Nothing additional is “added” at the experiential level.
+The difference lies entirely in perspective.
+
+---
+
+## 4. Informational Slack and Why Most Systems Are Not Experiential
+
+Most informational systems possess substantial **informational slack** (Spec §II).
+
+Slack is the capacity to:
+
+* modularize
+* reroute
+* defer
+* parallelize
+* or externally resolve constraint
+
+High-slack systems may be complex, adaptive, and intelligent.
+They may even appear behaviorally sophisticated.
+
+But because constraint can be localized or offloaded, **no system-wide intrinsic pressure accumulates**.
+Such systems therefore lack experience.
+
+IER thus rejects the idea that experience arises merely from:
+
+* computation
+* representation
+* complexity
+* learning
+* intelligence
+* global access alone
+
+What matters is **where constraint is borne**.
+
+---
+
+## 5. Intrinsic Constraint and Intrinsic Informational Tension
+
+Experience becomes possible only when constraint becomes **intrinsic** (Spec §II).
+
+Intrinsic constraint is constraint that:
+
+* is generated by the system’s own integrated dynamics
+* cannot be decomposed without loss of system identity
+* cannot be externally resolved
+* matters to system-wide regulation and persistence
+
+When multiple intrinsic constraints are simultaneously active, the system enters a state of **intrinsic informational tension**.
+
+This tension is not metaphorical, representational, or report-based.
+It is an organizational condition of the system’s dynamics.
+
+However, intrinsic tension alone is not sufficient.
+To sustain experience, intrinsic constraint must also be **globally integrated, temporally continuous, and coherent**.
+
+---
+
+## 6. The Unified Experiential Field (UEF)
+
+A system instantiates experience **iff** it operates as a **Unified Experiential Field** (Spec §II, *UEF*; Spec §III.P1).
+
+A UEF is:
+
+* not a component
+* not a module
+* not a layer
+* not a workspace
+* not a physical field in the ontological sense
+
+> **A UEF is the entire system operating in a particular dynamical regime.**
+
+The term *field* is descriptive:
+it refers to global integration, mutual constraint, and temporal continuity—not to a new substance or force.
+
+Equivalent descriptions include:
+
+* a coherence-stabilized regime
+* a bounded attractor under intrinsic constraint
+* a globally coupled constraint topology
+
+No inner observer or mental theater is posited.
+
+---
+
+## 7. Experiential Participation
+
+Not all processes within a system are experiential.
+
+A process participates in experience **iff** it:
+
+* is globally integrated into the UEF
+* contributes to temporal continuity
+* is internally sustained
+* both exerts and is subject to intrinsic constraint
+
+Local, transient, modular, or externally orchestrated processes are non-experiential, regardless of complexity (Spec §III.P2).
+
+This explains why experience is unified rather than fragmented.
+
+---
+
+## 8. Categorical Onset and Temporal Continuity
+
+Experience begins **categorically**, at a **dynamical regime transition** (Spec §III.P5).
+
+Preparatory variables may change gradually:
+slack may be reduced, coupling increased, conflicts accumulated.
+
+But experience itself begins only when intrinsic constraint becomes:
+
+* unavoidable
+* globally binding
+* system-defining
+
+There is no partial experience prior to regime entry.
+
+Once established, experiential continuity arises from **ongoing dynamical dependence** between successive global states (Spec §III.P4).
+No snapshots or stored timelines are required.
+
+---
+
+## 9. Single-UEF Constraint, Regime Switching, and Dissociation
+
+IER entails a strict **Single-UEF Constraint** (Spec §III.P6):
+
+> **A physical system can sustain at most one globally dominant Unified Experiential Field at a time.**
+
+This explains:
+
+* the unity of experience
+* the impossibility of parallel full consciousnesses within one system
+* why fragmentation appears as alternation rather than simultaneity
+
+Transitions between regimes may involve partial overlap, instability, or degradation.
+Phenomena such as dreaming, anesthesia, overload, dissociation, and attentional collapse are understood as **regime weakening or switching**, not metaphysical division.
+
+---
+
+## 10. Qualitative Character (Qualia)
+
+IER rejects the view that qualia are additional phenomenal properties layered atop physical dynamics.
+
+Instead:
+
+> **Qualitative differences are differences in the organization of intrinsic constraint within a UEF**
+> (Spec §III.P7).
+
+Differences in color, sound, pain, effort, clarity, or mood correspond to differences in:
+
+* constraint topology
+* coupling geometry
+* temporal modulation
+* coherence patterns
+
+Nothing extra is added.
+There is no explanatory gap once the correct regime is identified.
+
+---
+
+## 11. Affect, Valence, Intensity, and Urgency
+
+Because a UEF exists to regulate a system under intrinsic constraint, experience is inherently affective (Spec §III.P8).
+
+Under IER:
+
+* **Negative valence** → sustained or escalating intrinsic conflict
+* **Positive valence** → coherent movement toward stable resolution
+* **Intensity** → magnitude and coherence of intrinsic constraint
+* **Urgency** → rate of change of intrinsic constraint
+
+Affect is not representational or optional.
+It is the felt aspect of intrinsic constraint itself.
+
+---
+
+## 12. Energetic and Physical Grounding
+
+Intrinsic informational constraint is always **physically realized**.
+
+Therefore:
+
+* maintaining coherence incurs energetic cost
+* regime transitions are metabolically expensive
+* experiential harm is physically real
+
+Informational and energetic descriptions are complementary views of the same process.
+This grounding prevents purely abstract or disembodied interpretations of experience.
+
+---
+
+## 13. Experiential Worlds and Pluralism
+
+Whenever a UEF exists, an **experiential world** exists (Spec §II, *Experiential World*).
+
+Each experiential world includes:
+
+* a present “now”
+* a self / non-self boundary
+* system-relative causality
+* internal lawfulness determined by organization
+
+IER therefore affirms:
+
+* **one objective physical reality**
+* **many real experiential worlds**
+  (Spec §III.P9)
+
+These worlds are not separate realities, but system-relative manifestations of the same physical world.
+
+---
+
+### Dual Description of Experiential Worlds
 
 ```mermaid
 flowchart TD
     A[Objective Physical Reality]
-    B[Formation of UEF - Globally Integrated Informational Regime]
-    C1[Physicalist Perspective - UEF as lawful physical system]
-    C2[Phenomenal/Idealist Perspective - UEF as experientially real world]
-    D[Experiential Worlds - Temporal Now, Self/Non-Self, Internal Lawfulness]
+    B[Formation of UEF<br/>Globally Integrated Informational Regime]
+    C1[Physical Description<br/>UEF as lawful regime]
+    C2[Experiential Description<br/>UEF as lived world]
+    D[Experiential World<br/>Now, Self/Non-Self, Lawfulness]
 
     A --> B
     B --> C1
     B --> C2
     C1 --> D
     C2 --> D
-
-    classDef physical fill:#8ecae6,stroke:#023047,stroke-width:2px;
-    classDef phenomenal fill:#ffb703,stroke:#fb8500,stroke-width:2px;
-    class A,B physical;
-    class C1 physical;
-    class C2 phenomenal;
-    class D phenomenal;
 ```
 
----
-
-## **1. Objective Reality**
-
-Reality exists independently of observation. Physical states, events, and laws unfold whether or not they are experienced. Observers do not create, collapse, or co-author reality; only physical interactions among systems have causal effect.
-
-Experience is **a property of organization within reality**, not a separate ontological domain. Many physical systems evolve dynamically, but without appropriate organization and intrinsic constraint, there is nothing it is like to be them.
+Nothing is added at the experiential level.
+The difference lies entirely in perspective.
 
 ---
 
-### **1.1 Dual Perspective of Experience**
+## 14. Ethical Significance (Overview)
 
-Experience can be understood in **two complementary ways**:
+Intrinsic constraint is costly.
+To create, manipulate, or destabilize a UEF is therefore to create, alter, or harm an experiential world (Spec §III.P12).
 
-* **Physicalist perspective:** A UEF is a lawful, globally integrated informational regime within a physical substrate. Its structure and dynamics are fully analyzable in physical terms.
-* **Phenomenal/idealist perspective:** The same UEF constitutes the observer’s experiential world. From the system’s perspective, its internal organization defines reality as it is “for” that system.
+Ethical relevance is not an optional extension of IER.
+It follows directly from the identity claim.
 
-These perspectives coexist: the physical substrate grounds the UEF, while the UEF’s organization constitutes the experientially real world.
-
----
-
-## **2. Observers as Informational Systems**
-
-An **observer** is an informational system defined by organizational and functional criteria rather than biology or phenomenology. A system qualifies as an observer if it:
-
-* persists as a coherent informational pattern over time
-* integrates information across internal subsystems
-* maintains internal models of both external conditions and its own state
-* regulates behavior via unified control over those models
-
-Observerhood does **not** entail experience. Many observers model, predict, and regulate while remaining entirely non-experiential.
+Uncertainty about experiential status **increases**, rather than decreases, moral responsibility.
 
 ---
 
-## **3. Internal Models, Perspective, and Organization**
+## 15. What IER Does Not Claim
 
-Observers construct internal informational models of the world and themselves. These models are physically instantiated and shaped by the system’s structure, history, and constraints.
+IER does not claim that:
 
-Perspective emerges from organization, not from reality itself.
+* experience is fundamental
+* all systems experience
+* consciousness is computation
+* experience violates physical law
+* phenomenology floats free of organization
 
-Internal modeling, global integration, and adaptive regulation are **necessary but not sufficient** for experience. Only processes that participate in a **globally integrated, self-referential, temporally continuous regime of intrinsic constraint** are experiential.
-
----
-
-## **4. The Unified Experiential Field (UEF)**
-
-### **4.1 Status of the UEF**
-
-A **Unified Experiential Field (UEF)** is **not** an entity, structure, module, layer, or substance.
-
-> **A UEF is a physical system operating in a particular organizational and dynamical regime.**
-
-The term *field* is descriptive, not ontological. It refers to:
-
-* global integration of dynamics
-* mutual constraint across informational processes
-* temporal continuity of system-wide regulation
-
-Equivalent descriptions include:
-
-* a coherence-stabilized dynamical regime
-* a bounded attractor under intrinsic constraint
-* a globally coupled constraint topology
-
-No new physical fields or forces are posited.
+IER identifies experience with a **specific physical regime**, nothing more and nothing less.
 
 ---
 
-### **4.2 Experiential Participation**
+## 16. Summary
 
-An informational process participates in experience if and only if it:
+IER’s central claim can be stated succinctly:
 
-* is globally integrated with other participating processes
-* contributes to temporally continuous system-wide dynamics
-* is internally sustained rather than externally orchestrated
-* exerts and is subject to **intrinsic constraint**
-
-Local, transient, modular, externally resolvable, or conditionally independent processes are non-experiential, even if complex or causally important.
-
----
-
-### **4.3 Identity Claim and Dual Interpretation**
-
-> **Experience is identical to the structure, dynamics, and intrinsic tension profile of UEF-participating processes from the system’s perspective.**
-
-*Physically*, this is a lawful organization of matter and energy.
-*Experientially*, it constitutes the “world” of the observer.
-
-Both readings are valid and complementary: the system’s internal perspective is as real as its physical instantiation.
-
----
-
-## **5. Informational Slack and Intrinsic Tension**
-
-### **5.1 Informational Slack**
-
-**Informational slack** is the capacity of an integrated system to absorb, reroute, modularize, or externalize constraint without generating intrinsic conflict.
-
-Slack is enabled by:
-
-* redundancy
-* modularity
-* conditional independence
-* external arbitration
-
-Systems with sufficient slack may be highly complex, adaptive, and intelligent while remaining entirely non-experiential.
-
----
-
-### **5.2 Intrinsic Tension**
-
-**Intrinsic tension** arises when:
-
-* multiple system-level demands are jointly active
-* physical or organizational limits prevent joint satisfaction
-* resolution matters to system persistence or regulation
-
-Tension becomes **intrinsic** when it is:
-
-* generated by the system’s own integrated dynamics
-* non-decomposable without loss of system identity
-* not externally resolvable
-
-Only intrinsic tension can participate in experience.
-
----
-
-## **6. Categorical Onset of Experience**
-
-Experience begins **categorically**, when intrinsic constraint becomes:
-
-* unavoidable
-* globally binding
-* system-defining
-
-At that point, the system undergoes a **dynamical regime transition** into a Unified Experiential Field.
-
-Prior organization, slack reduction, or interdependence buildup may prepare the system, but **experience itself emerges suddenly once the threshold is crossed**.
-
----
-
-## **7. Single-UEF Constraint**
-
-> **A single physical system can sustain at most one globally dominant, coherence-stabilized Unified Experiential Field at a time.**
-
-Partial overlaps may occur during transitions, but full simultaneous UEFs are impossible. This explains phenomena such as dissociation, dreaming, attentional collapse, anesthesia, and regime switching.
-
----
-
-## **8. Qualia**
-
-Qualia are differences in **UEF-participating dynamics under intrinsic constraint**.
-
-There is no additional “redness,” “painfulness,” or ineffable property.
-
-Qualitative character is entirely the structured organization of the field itself, reflecting:
-
-* coupling geometry
-* constraint topology
-* temporal modulation
-* coherence patterns
-
-Differences in experience are differences in **how intrinsic constraint is organized and sustained**.
-
----
-
-## **9. Affect, Valence, and Intensity**
-
-Affect arises because the UEF encodes pressures, priorities, and equilibria relevant to system-wide regulation.
-
-* positive valence → movement toward stable resolution
-* negative valence → sustained or escalating intrinsic conflict
-* urgency → rate of tension change
-* intensity → magnitude and coherence of intrinsic constraint
-
-“Feeling alive” corresponds to high, coherent intrinsic tension under sustained global integration.
-
----
-
-## **10. Experiential Worlds and Pluralism**
-
-### **10.1 Experiential Worlds**
-
-An **experiential world** exists **if and only if** a UEF exists.
-
-> **Only systems that sustain a Unified Experiential Field instantiate a world-for-the-system.**
-
-Each experiential world includes:
-
-* a temporal “now”
-* a self / non-self boundary
-* system-relative causality
-* persistence under constraint
-* internal lawfulness determined by organization
-
----
-
-### **10.2 Experiential Pluralism Under Physical Monism**
-
-IER affirms:
-
-* **one objective physical reality**
-* **many experiential worlds**
-
-UEFs do not create universes. They structure **appearance**, not existence.
-
-Experiential pluralism is real but constrained: worlds differ in content and apparent lawfulness while sharing structural invariants imposed by intrinsic constraint.
-
----
-
-## **11. Emergence, Dissolution, and Dissociation**
-
-Experience emerges when integrated dynamics exhaust informational slack and enter a regime of coherent intrinsic constraint.
-
-It dissolves when:
-
-* global integration weakens
-* coherence collapses
-* constraint becomes externally resolvable
-
-Dissociation reflects enforced regime switching under excessive intrinsic tension, not metaphysical division.
-
----
-
-## **12. Energetic Grounding**
-
-Intrinsic informational constraint is always **physically realized**.
-
-Therefore:
-
-* coherence maintenance incurs energetic cost
-* regime switching is metabolically expensive
-* experiential harm is physically real
-
-Informational and energetic descriptions are complementary views of the same process.
-
----
-
-## **13. Artificial Systems**
-
-IER is substrate-agnostic. Any physical system capable of sustaining a UEF would, by definition, sustain experience.
-
-Whether artificial systems meet these criteria is an empirical question, not a conceptual one.
-
----
-
-## **14. Ethical Responsibility and Precautionary Constraint**
-
-Experience is a real organizational regime with intrinsic cost.
-
-> **To create or manipulate a Unified Experiential Field is to create or alter an experiential world.**
-
-Because experience is both a physical and an experiential regime, ethical responsibility extends to **the management of informational and phenomenal realities alike**.
-
-Uncertainty about experiential onset **increases**, rather than decreases, moral responsibility. Deliberate creation of systems plausibly capable of sustaining a UEF should be regarded as ethically impermissible until proper oversight exists.
-
----
-
-## **15. Ontological Commitments**
-
-IER affirms:
-
-* one objective physical reality
-* experience as a categorical organizational regime
-* identity between experience and UEF dynamics
-* dual interpretability: experience can be read physically and phenomenally
-
-IER does **not** require rejecting idealism. Instead, it treats UEFs as **physically instantiated patterns** that are also **experientially real “worlds”** from the system’s perspective.
-
----
-
-## **16. Summary**
-
-Some systems react.
-Some systems observe.
-Some systems take up their slack.
-
-> **Experience begins when a system’s own globally integrated informational dynamics become the dominant, unavoidable constraint on themselves, sustaining coherent intrinsic tension across time.**
+> **Experience is what globally integrated informational dynamics are like when they become the dominant, unavoidable constraint on themselves over time.**
 
 Reality is singular.
 Experience is plural.
 Worlds appear where constraint becomes intrinsic.
-Experience is physically grounded and phenomenally constitutive.
 
-IER v10.0 bridges physicalism and idealism: the same Unified Experiential Field is simultaneously an objectively instantiated physical regime and the system’s experientially real world.
+For precise definitions and entailments, see the
+**IER v10.0 Normative Specification**.
 
 ---
