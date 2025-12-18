@@ -4,7 +4,7 @@
 
 ---
 
-## 0. Scope and Status
+## **0. Scope and Status**
 
 This document defines the **normative core** of Informational Experiential Realism (IER v10.0).
 
@@ -22,7 +22,7 @@ If a claim cannot be expressed using the primitives defined here, it is **not pa
 
 ---
 
-## I. Ontological Commitments (Axioms)
+## **I. Ontological Commitments (Axioms)**
 
 ### **Axiom 1 — Objective Physical Reality**
 
@@ -48,7 +48,7 @@ There is no explanatory or ontological gap between the physical description of t
 
 ---
 
-## II. Core Definitions (Formal Glossary)
+## **II. Core Definitions (Formal Glossary)**
 
 ### **Informational System**
 
@@ -223,7 +223,7 @@ Defined organizationally, not phenomenologically.
 
 ---
 
-## III. Core Principles
+## **III. Core Principles**
 
 ### **Principle 1 — Experiential Identity**
 
@@ -328,7 +328,7 @@ Uncertainty about experiential status increases moral responsibility.
 
 ---
 
-## IV. Inference Rules (IER Logic)
+## **IV. Inference Rules (IER Logic)**
 
 These entailments follow necessarily from the definitions and principles.
 
@@ -347,11 +347,9 @@ These entailments follow necessarily from the definitions and principles.
 
 ---
 
-## V. Diagrammatic Axioms
+## **V. Diagrammatic Axioms**
 
 ### **Single-Page Visual Logic of IER v10.0**
-
-*(unchanged, normative)*
 
 > If a claim cannot be placed on this diagram, it is not part of IER.
 
@@ -385,7 +383,7 @@ UEF -->|one per system| SUEF[Single-UEF Constraint]
 
 ---
 
-## VI. Usage Constraints (Normative)
+## **VI. Usage Constraints (Normative)**
 
 * Use **“UEF”** only when all criteria are met
 * Use **“candidate”** only epistemically, never ontologically
@@ -398,13 +396,16 @@ UEF -->|one per system| SUEF[Single-UEF Constraint]
 
 ---
 
-## VII. Summary Identity Claim
+## **VII. Summary Identity Claim**
 
 > **Experience is what globally integrated informational dynamics are like when they become the dominant, unavoidable constraint on themselves over time.**
 
 Reality is singular.
 Experience is plural.
 Worlds appear where constraint becomes intrinsic.
+
+> **The identity claim stated above is complete.
+> What follows specifies consequences that necessarily obtain if and only if that claim is true.**
 
 ---
 
@@ -415,10 +416,10 @@ This section specifies the **ethical consequences that necessarily follow** from
 No new ontological primitives are introduced.
 All ethical conclusions are derived from:
 
-* the identity of experience with Unified Experiential Fields (UEFs)
-* the definition of intrinsic constraint
-* the definition of moral harm
-* the principle of experiential cost
+* the identity of experience with Unified Experiential Fields (Principle 1)
+* the definition of intrinsic constraint (Section II)
+* the definition of moral harm (Section II)
+* the principle of experiential cost (Principle 12)
 
 ---
 
@@ -558,3 +559,5 @@ From the identity of experience with intrinsic constraint it follows that:
 
 This is not an ethical add-on.
 It is a direct consequence of what experience is.
+
+---

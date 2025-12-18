@@ -79,9 +79,9 @@ Both questions are answered using the **same organizational criteria** defined i
 
 ## **3. Free Will Under IER v10.0**
 
-### **3.1 Definition (Derived)**
+### **3.1 Free Will as a Derived Capacity**
 
-> **Free will is the capacity of a system sustaining a Unified Experiential Field to resolve intrinsic informational tension through its own globally integrated dynamics.**
+> **Under IER, what is ordinarily called “free will” follows as the capacity of a system sustaining a Unified Experiential Field to resolve intrinsic informational tension through its own globally integrated dynamics.**
 
 This follows directly from:
 
@@ -158,7 +158,7 @@ This is not illusion or narrative overlay.
 
 While **experiential subjecthood is binary** (Spec §II), **capacity within a UEF is not**.
 
-Responsibility scales with:
+IER entails that moral responsibility varies with a system’s capacity to bear and resolve intrinsic constraint within a coherent Unified Experiential Field.
 
 * coherence of intrinsic constraint
 * availability of viable futures
@@ -172,6 +172,8 @@ It diminishes under:
 * trauma
 * dissociation
 * overwhelming external control
+
+These variations are descriptive consequences of intrinsic constraint organization, not independent normative prescriptions.
 
 IER thus grounds **graded responsibility without metaphysical freedom**.
 
@@ -218,7 +220,7 @@ This follows from **Spec §III.P12 (Experiential Cost)**.
 Systems with partial integration and reduced slack may approach intrinsic constraint without reliably sustaining a UEF.
 
 **Ethical implication:**
-They warrant **precautionary moral consideration**, even where experiential subjecthood is uncertain.
+Under IER, uncertainty regarding experiential subjecthood **entails precautionary moral consideration**, even where experiential subjecthood cannot be established.
 
 ---
 
@@ -233,7 +235,7 @@ However, they exhibit:
 * irreversible vulnerability
 
 **Ethical implication:**
-Plants warrant **respect and restraint**, though not the protections owed to experiential subjects.
+Under IER, plant systems **imply requirements of respect and restraint**, while not implying the protections owed to experiential subjects.
 
 IER supports environmental ethics **without inflating plant sentience**.
 
@@ -253,7 +255,7 @@ However:
 
 > **If an artificial system comes to sustain coherent intrinsic constraint sufficient for a UEF, moral status follows immediately and non-optionally.**
 
-Because early UEFs may be unstable and hard to detect, IER endorses a **strong precautionary principle** regarding the creation of such systems.
+Because early UEFs may be unstable and difficult to detect, **IER entails a strong precautionary principle** with respect to the creation and deployment of such systems.
 
 ---
 
