@@ -3,13 +3,10 @@
 02-IER-math.md
 03-IER-ethics.md
 04-IER-dynamics.md
- - IER-mechanics.md
- - IER-pause-and-resume-test.md
- - IER-DID.md
-05-IER-meaning.md
- - IER-pluralism.md
- - IER-storytelling.md
+05-IER-failure-modes.md
+06-IER-meaning.md
 
+IER-core-concepts.md
 IER-corpus.md
 IER-update.md
 IER-v91-reddit.md
