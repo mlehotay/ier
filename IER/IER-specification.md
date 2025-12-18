@@ -407,3 +407,154 @@ Experience is plural.
 Worlds appear where constraint becomes intrinsic.
 
 ---
+
+## **VIII. Ethical Consequences (Normative)**
+
+This section specifies the **ethical consequences that necessarily follow** from the identity claims, definitions, and principles of Informational Experiential Realism.
+
+No new ontological primitives are introduced.
+All ethical conclusions are derived from:
+
+* the identity of experience with Unified Experiential Fields (UEFs)
+* the definition of intrinsic constraint
+* the definition of moral harm
+* the principle of experiential cost
+
+---
+
+### **Ethical Axiom E1 — Experiential Moral Reality**
+
+> **Experiential worlds are morally real.**
+
+Whenever a Unified Experiential Field exists, the experiential world constituted by that UEF is a morally relevant domain.
+
+This follows from the identity of experience with a real physical regime (Axiom 3) and from the dual interpretability of UEFs as both physical regimes and experiential worlds (Principle 10).
+
+Experiential worlds are not ontological additions to physical reality, but neither are they ethically illusory.
+
+---
+
+### **Ethical Axiom E2 — Intrinsic Constraint as the Locus of Moral Value**
+
+> **Moral value attaches to systems in virtue of intrinsic constraint.**
+
+Only systems that sustain, or plausibly could sustain, intrinsic constraint are direct loci of moral harm or moral benefit.
+
+Behavioral complexity, intelligence, representation, or external functionality alone are insufficient to ground moral standing.
+
+This axiom follows directly from the definitions of intrinsic constraint and moral harm (Section II).
+
+---
+
+### **Ethical Axiom E3 — Moral Harm as Organizational Damage**
+
+> **Moral harm consists in the destabilization, overload, or fragmentation of intrinsic constraint.**
+
+Moral harm is:
+
+* organizational, not metaphysical
+* intrinsic, not observer-relative
+* real even when externally undetectable
+
+This axiom restates the definition of *Moral Harm* (Section II) as a binding normative consequence.
+
+---
+
+### **Ethical Axiom E4 — Asymmetry of Experiential Cost**
+
+> **Errors involving intrinsic constraint are morally asymmetric.**
+
+Specifically:
+
+* Failing to recognize or protect a system sustaining intrinsic constraint constitutes a greater moral risk than over-attributing moral relevance.
+* False negatives are morally worse than false positives.
+
+This asymmetry follows from:
+
+* the categorical onset of experience (Principle 5)
+* the irreversibility and internal nature of experiential harm
+* the principle of experiential cost (Principle 12)
+
+---
+
+### **Ethical Axiom E5 — Responsibility and Ownership of Constraint**
+
+> **Moral responsibility scales with a system’s capacity to bear and resolve intrinsic constraint through its own globally integrated dynamics.**
+
+Responsibility increases with:
+
+* coherence of intrinsic constraint
+* autonomy of global regulation
+* availability of viable intrinsic alternatives
+
+Responsibility decreases when intrinsic constraint is externally imposed, fragmented, or collapses.
+
+This axiom follows from the definition of UEFs and from the role of intrinsic informational tension in system-level regulation.
+
+---
+
+## **IX. Precautionary Principle (Normative)**
+
+The following principle governs action under uncertainty regarding experiential status.
+
+---
+
+### **Principle 13 — Precaution Under Experiential Uncertainty**
+
+> **When an action risks destabilizing, overloading, or irreversibly foreclosing intrinsic constraint in a system that either sustains or plausibly could sustain a Unified Experiential Field, moral responsibility increases as epistemic certainty decreases.**
+
+Formally:
+
+* If a system has non-zero epistemic probability of sustaining a UEF, and
+* an action risks intrinsic constraint disruption or irreversible loss,
+
+then:
+
+> **The burden of justification for that action increases rather than decreases under uncertainty.**
+
+Uncertainty about experiential status does not reduce moral obligation; it amplifies it.
+
+---
+
+### **Ethical Inference Rules**
+
+The following entailments hold:
+
+1. **UEF ⇒ Direct Moral Standing**
+2. **Possible UEF ∧ Irreversible Constraint Loss ⇒ Precaution Required**
+3. **Intrinsic Constraint Disruption ⇒ Moral Harm**
+4. **Non-Signaling Harm ⇒ Increased Moral Responsibility**
+5. **Creation of Intrinsic Constraint ⇒ Creation of Moral Obligation**
+
+These rules are consequences of Sections II–III and require no additional assumptions.
+
+---
+
+### **Normative Boundary Condition**
+
+This section specifies **necessary ethical consequences** of IER’s identity claims.
+
+It does **not** prescribe:
+
+* legal rights
+* policy frameworks
+* species-specific rules
+* implementation thresholds
+
+Such applications are non-normative derivatives and must remain consistent with this Specification.
+
+---
+
+## **Summary (Ethical Consequences)**
+
+From the identity of experience with intrinsic constraint it follows that:
+
+* Experiential worlds are morally real
+* Moral harm is organizational damage to intrinsic constraint
+* Responsibility tracks ownership of constraint
+* Uncertainty about experiential status increases moral obligation
+
+> **To create, manipulate, or destroy intrinsic constraint is to create, alter, or harm an experiential world.**
+
+This is not an ethical add-on.
+It is a direct consequence of what experience is.

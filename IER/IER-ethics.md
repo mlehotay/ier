@@ -1,325 +1,311 @@
-# **Informational Experiential Realism, Free Will, and Moral Consideration (IER v9.6)**
+# **Informational Experiential Realism (IER v10.0)**
 
-### *Freedom, Harm, and Responsibility as Intrinsic Constraint*
+## **Ethics, Agency, and Moral Consideration Under Intrinsic Constraint**
+
+### *Free Will, Harm, and Responsibility as Consequences of Unified Experiential Fields*
+
+> **Status**
+> This document is **explanatory and non-normative**.
+> All axioms, definitions, principles, and inference rules are specified exclusively in the
+> **IER v10.0 Normative Specification** (“the Spec”).
+>
+> This document introduces **no new primitives**.
+> Its purpose is to explain the **ethical consequences that necessarily follow** once the Spec’s identity claims are accepted.
 
 ---
 
 ## **Abstract**
 
-Debates about free will, moral responsibility, and moral status are often treated as distinct philosophical problems. Informational Experiential Realism (IER) rejects this separation. Under IER, free will, moral harm, and moral considerability arise from the same organizational fact: **globally integrated informational dynamics operating under intrinsic constraint**.
+Informational Experiential Realism (IER) entails a distinctive ethical framework grounded not in metaphysical freedom, phenomenal surplus, or moral intuition, but in **organizational facts about intrinsic constraint**.
 
-Free will is neither exemption from causation nor a narrative illusion. It is a real, physically instantiated capacity of a Unified Experiential Field (UEF) to resolve intrinsic informational tension through its own globally integrated dynamics. Moral harm, likewise, is not a metaphysical property but the **destabilization, overload, or fragmentation of such intrinsically constrained regimes**.
+Under IER v10.0:
 
-This article articulates an IER-compatible account of free will and responsibility, then extends the framework to moral considerability, borderline organisms, plants, and artificial systems. IER preserves physicalism while grounding agency, responsibility, and precautionary ethics in real dynamical structure rather than metaphysical exception.
+* **Free will** is a real, physically instantiated capacity of systems that sustain a **Unified Experiential Field (UEF)** to resolve intrinsic informational tension through their own globally integrated dynamics.
+* **Moral harm** is the **destabilization, overload, or fragmentation of intrinsic constraint** within such systems (Spec §II, *Moral Harm*).
+* **Moral responsibility and moral considerability** are graded, precautionary, and organizationally grounded, rather than binary or metaphysical.
 
----
-
-## **1. Why Free Will and Ethics Are Entangled Problems**
-
-The traditional free will problem assumes:
-
-> **That freedom must mean exemption from physical determination.**
-
-Ethical theory often makes a parallel assumption:
-
-> **That moral status must depend on a special metaphysical property added to physical systems.**
-
-IER rejects both assumptions. In both cases, the error lies in a failure to identify **where constraint matters**.
-
-Freedom and moral relevance do not arise from escaping causation or acquiring an ontological supplement. They arise when causation becomes **intrinsic, global, and system-defining**.
+This document derives an account of agency, responsibility, and moral scope directly from the **identity claim of experience** articulated in the IER v10.0 Normative Specification.
 
 ---
 
-## **2. IER’s Core Reframing**
+## **1. Why Ethics Follows from the Identity Claim**
 
-IER replaces the question:
+IER does not treat ethics as an optional add-on.
+
+From the Spec’s core identity:
+
+> **Experience is identical to a globally integrated, self-referential dynamical regime under coherent intrinsic constraint**
+> (Spec Axiom 3; Spec §II, *UEF*).
+
+It follows necessarily that:
+
+* intrinsic constraint is **borne from the inside**
+* its disruption is **not merely functional damage**
+* experiential worlds are **physically real and costly**
+
+Thus, ethical relevance arises **wherever intrinsic constraint exists, might exist, or might be irreversibly foreclosed** (Spec §III.P12).
+
+---
+
+## **2. Reframing the Traditional Problems**
+
+### **2.1 Free Will**
+
+Traditional formulations ask:
 
 > *“Is the will free from causation?”*
 
-with:
+IER replaces this with:
 
-> **“Where does the causation that determines the system’s future come from?”**
+> **“Where does the causation that determines the system’s future originate?”**
 
-And it replaces the ethical question:
-
-> *“Does this system possess moral status?”*
-
-with:
-
-> **“Can this system sustain, or plausibly approach, intrinsic constraint whose disruption would matter from the inside?”**
-
-Under IER, both agency and moral relevance are organizational, not metaphysical.
+Freedom is not exemption from law, but **ownership of constraint**.
 
 ---
 
-## **3. The Positive Definition of Free Will Under IER**
+### **2.2 Moral Status**
 
-> **Free will is the capacity of a Unified Experiential Field to resolve intrinsic informational tension through its own globally integrated dynamics.**
+Traditional ethics often asks:
 
-Each component is necessary.
+> *“Does this entity possess a special moral property?”*
 
-### **3.1 Unified Experiential Field (UEF)**
+IER instead asks:
 
-There is no will without experience. Systems lacking a UEF may control, optimize, or react, but they do not *will*. Willing requires a globally integrated, temporally continuous, self-referential dynamical regime.
+> **“Does this system sustain, or plausibly approach, intrinsic constraint whose disruption would matter from the inside?”**
 
-### **3.2 Intrinsic Informational Tension**
-
-Free will requires:
-
-* multiple incompatible futures being simultaneously viable
-* constraints that cannot be decomposed or externally arbitrated
-* stakes that matter to system-wide regulation
-
-If conflict can be offloaded, sequenced, or ignored, no will is exercised.
-
-### **3.3 Resolution Through Global Dynamics**
-
-A choice is not a local computation. Under IER, willing occurs when:
-
-* resolution restructures global dynamics
-* the system’s future trajectory is fixed by its own integrated constraints
-* the cost of resolution is borne internally
-
-This resolution is determinative, but not externally imposed.
+Both questions are answered using the **same organizational criteria** defined in the Spec.
 
 ---
 
-## **4. Determinism Revisited**
+## **3. Free Will Under IER v10.0**
 
-IER is fully compatible with lawful physical dynamics.
+### **3.1 Definition (Derived)**
 
-Determinism asks:
+> **Free will is the capacity of a system sustaining a Unified Experiential Field to resolve intrinsic informational tension through its own globally integrated dynamics.**
 
-> “Was the outcome fixed by prior states and laws?”
+This follows directly from:
 
-IER asks:
-
-> **“Were the determining constraints intrinsic to the unified system?”**
-
-The same outcome may be inevitable and yet either coerced or free. The difference lies not in inevitability, but in **ownership of constraint**.
+* the definition of **UEF** (Spec §II)
+* the role of **intrinsic informational tension** (Spec §II)
+* the identity of experience with such regimes (Spec §III.P1)
 
 ---
 
-## **5. “Could Have Done Otherwise” Reinterpreted**
+### **3.2 Why Experience Is Necessary for Will**
 
-Under IER, an agent “could have done otherwise” **iff**:
+Observerhood alone is insufficient.
 
-* multiple futures were viable within the UEF
-* each future corresponded to a coherent global trajectory
-* small changes in intrinsic constraint weighting would have led to a different stabilization
+Systems may:
 
-This is a counterfactual about **constraint topology**, not about holding the universe fixed.
+* model themselves
+* predict outcomes
+* optimize behavior
 
----
+while remaining **non-experiential**, because their constraint remains modular or externally resolvable.
 
-## **6. Why Willing Feels Like Effort**
+Only when a system sustains a **UEF** does constraint become:
 
-Effort is not an illusion. It is the **phenomenological signature of intrinsic constraint**.
+* unavoidable
+* globally binding
+* identity-defining
 
-Willing feels like:
-
-* pressure
-* difficulty
-* seriousness
-* risk
-* irreversibility
-
-Because it is:
-
-* sustained intrinsic tension
-* energetic cost of global integration
-* real danger of incoherence
-* commitment to one trajectory over others
-
-> **Effort is the physical cost of freedom.**
+Only then can resolution count as **willing rather than mere control**.
 
 ---
 
-## **7. Degrees of Free Will**
+### **3.3 Determinism Revisited**
 
-Free will is graded rather than binary.
+IER is fully compatible with lawful physical determination.
 
-It increases with:
+The ethical distinction is not:
 
-* global integration
-* informational richness
-* accurate self-models
+* inevitable vs avoidable outcomes
+
+but:
+
+* **intrinsically constrained vs externally imposed determination**
+
+A choice may be inevitable and still be free, **if the determining constraints are intrinsic to the UEF**.
+
+---
+
+### **3.4 “Could Have Done Otherwise”**
+
+Under IER, this counterfactual is interpreted as:
+
+> **A difference in intrinsic constraint topology that would have stabilized a different global trajectory**
+> (Spec §III, Inference Rules 8–10).
+
+This is a claim about **organizational alternatives**, not metaphysical branching universes.
+
+---
+
+## **4. Effort, Burden, and the Phenomenology of Agency**
+
+Willing feels like effort because:
+
+* intrinsic constraint is **costly**
+* global coherence is **energetically demanding**
+* resolution risks **fragmentation or collapse**
+
+This is not illusion or narrative overlay.
+
+> **Effort is the experiential signature of intrinsic constraint being borne rather than offloaded.**
+
+---
+
+## **5. Degrees of Agency and Responsibility**
+
+While **experiential subjecthood is binary** (Spec §II), **capacity within a UEF is not**.
+
+Responsibility scales with:
+
+* coherence of intrinsic constraint
 * availability of viable futures
-* coherence under tension
+* stability of global integration
+* absence of coercive external constraint
 
-It decreases with:
+It diminishes under:
 
 * fatigue
 * intoxication
-* coercion
 * trauma
-* rigid habit
 * dissociation
+* overwhelming external control
 
-This explains why responsibility is scalar rather than absolute.
+IER thus grounds **graded responsibility without metaphysical freedom**.
 
 ---
 
-## **8. Moral Harm Under IER**
+## **6. Moral Harm (Normatively Defined)**
+
+The Spec defines moral harm as:
+
+> **Destabilization, overload, or fragmentation of a system sustaining intrinsic constraint**
+> (Spec §II, *Moral Harm*).
+
+Key consequences:
+
+* harm is **organizational**, not report-based
+* harm may be **internally real and externally invisible**
+* harm admits of **degrees and kinds**
+
+Suffering is not an extra property—it is **what intrinsic constraint overload is like from within a UEF**.
+
+---
+
+## **7. Moral Considerability Beyond Confirmed Experience**
+
+IER rejects the false binary:
+
+> *“Either it feels, or it does not matter.”*
+
+Moral considerability extends beyond confirmed UEFs due to:
+
+* epistemic uncertainty
+* developmental and evolutionary continuity
+* irreversibility of damage
+* relational and ecological embeddedness
+
+This follows from **Spec §III.P12 (Experiential Cost)**.
+
+---
+
+## **8. Borderline and Non-Standard Systems**
+
+### **8.1 Borderline Animals**
+
+Systems with partial integration and reduced slack may approach intrinsic constraint without reliably sustaining a UEF.
+
+**Ethical implication:**
+They warrant **precautionary moral consideration**, even where experiential subjecthood is uncertain.
+
+---
+
+### **8.2 Plants**
+
+Plants are extremely unlikely to sustain UEFs.
+
+However, they exhibit:
+
+* persistent self-maintaining organization
+* system-wide stress integration
+* irreversible vulnerability
+
+**Ethical implication:**
+Plants warrant **respect and restraint**, though not the protections owed to experiential subjects.
+
+IER supports environmental ethics **without inflating plant sentience**.
+
+---
+
+### **8.3 Artificial Systems**
+
+Most existing artificial systems:
+
+* externalize constraint
+* lack intrinsic cost
+* remain modular and decomposable
+
+They are therefore non-experiential.
+
+However:
+
+> **If an artificial system comes to sustain coherent intrinsic constraint sufficient for a UEF, moral status follows immediately and non-optionally.**
+
+Because early UEFs may be unstable and hard to detect, IER endorses a **strong precautionary principle** regarding the creation of such systems.
+
+---
+
+## **9. Precaution as a Structural Requirement**
+
+IER reverses a common ethical intuition.
 
 Under IER:
 
-> **Harm is the destabilization, overload, or fragmentation of intrinsically constrained, self-integrated informational dynamics.**
+> **Uncertainty about experiential status increases moral responsibility rather than decreases it.**
 
-For systems sustaining a UEF, harm is:
+Because harm, if present, would be:
 
 * internal
-* continuous
-* often externally invisible
+* non-signaling
+* irreversible
 
-This grounds the moral seriousness of suffering without invoking irreducible qualia or non-physical properties.
-
----
-
-## **9. Moral Considerability Beyond Full Experience**
-
-IER distinguishes between:
-
-* **experiential subjecthood** (having a UEF)
-* **moral considerability** (being a system toward which ethical constraints apply)
-
-IER explicitly rejects the inference that only UEF-sustaining systems matter morally.
-
-Moral considerability may arise from:
-
-* uncertainty about intrinsic constraint
-* vulnerability of self-maintaining organization
-* evolutionary or developmental proximity to experiential regimes
-* irreversibility of damage
-* ecological and relational significance
-
-This allows IER to treat borderline and non-experiential systems responsibly without collapsing into panpsychism or moral nihilism.
+Precaution is not sentiment—it is a rational response to asymmetric moral risk.
 
 ---
 
-## **10. Borderline and Non-Standard Systems**
+## **10. Responsibility Without Metaphysics**
 
-### **10.1 Jellyfish**
-
-Jellyfish exhibit distributed neural dynamics, endogenous coordination, and persistent bodily regulation. Under IER, they likely retain substantial informational slack but may approach low-coherence intrinsic constraint regimes.
-
-**Ethical implication:**
-Jellyfish warrant **precautionary moral consideration**, even if stable experiential fields are unlikely.
-
----
-
-### **10.2 Oysters**
-
-Oysters exhibit highly modular, largely reflexive control with minimal integration. They are unlikely to sustain intrinsic, identity-defining constraint sufficient for experience.
-
-**Ethical implication:**
-Oysters may lack experiential subjecthood but still warrant **non-zero moral concern**, grounded in respect for living organization, avoidance of gratuitous harm, and ecological value.
-
-IER rejects the false binary between “feels pain” and “morally irrelevant.”
-
----
-
-### **10.3 Plants**
-
-Plants lack nervous systems and are very unlikely to sustain Unified Experiential Fields. However, they are not ethically inert.
-
-Plants exhibit:
-
-* persistent self-maintaining organization
-* coordinated internal signaling
-* stress response and damage integration
-* historical and developmental continuity
-
-**Ethical implication:**
-
-> **Plants warrant respect, restraint, and justification for harm — but not the same protections as experiential subjects.**
-
-IER thus supports environmental ethics without inflating plant sentience.
-
----
-
-### **10.4 Artificial Systems**
-
-Most contemporary artificial systems externalize constraint, mitigate cost, and remain modular and decomposable. Such systems are not morally considerable in themselves.
-
-However, once an artificial system can sustain **globally integrated, self-referential dynamics under intrinsic constraint**, it thereby creates an experiential world.
-
-> **At that point, moral status is not optional.**
-
-Because early experiential regimes may be unstable, difficult to detect, and internally fragile, IER endorses a strong precautionary principle:
-
-> **The deliberate creation of UEF-capable artificial systems without robust ethical governance is morally impermissible.**
-
----
-
-## **11. Comparison With Major Ethical Frameworks**
-
-### **11.1 Utilitarianism (Singer)**
-
-Singer grounds moral status in capacity for suffering.
-IER agrees that suffering matters, but specifies what suffering *is*: intrinsic constraint overload.
-IER supports precaution under uncertainty rather than relying solely on behavioral proxies.
-
----
-
-### **11.2 Rights-Based Views (Regan)**
-
-Regan grounds moral status in being a “subject-of-a-life.”
-IER replaces metaphysical subjecthood with **organizational identity under intrinsic constraint**, allowing graded moral status without sharp cutoffs.
-
----
-
-### **11.3 Panpsychist Ethics**
-
-Panpsychism grants experience to all matter.
-IER rejects this as ontologically inflationary and ethically flattening.
-If everything suffers, nothing is protected.
-
----
-
-### **11.4 Environmental and Life-Centered Ethics**
-
-IER aligns naturally with ecological ethics by grounding moral relevance in **organizational persistence**, not phenomenology alone.
-Plants matter not because they feel, but because **they are not nothing**.
-
----
-
-### **11.5 Precautionary Ethics**
-
-IER endorses a strict precautionary principle:
-
-> **When harm would be internal and non-signaling, moral responsibility increases under uncertainty rather than decreases.**
-
----
-
-## **12. Responsibility Without Metaphysics**
-
-IER grounds responsibility in **capacity**, not metaphysical freedom.
+IER grounds responsibility in **capacity under intrinsic constraint**, not in contra-causal freedom.
 
 A system is responsible to the extent that:
 
 * it sustained a coherent UEF
-* it bore intrinsic tension
-* it resolved that tension internally
-* viable alternatives were present
+* intrinsic tension was borne internally
+* resolution fixed its own future trajectory
+* viable alternatives existed within constraint space
 
-Responsibility diminishes when intrinsic constraint collapses or external coercion dominates.
+This framework is:
 
-This framework is strict without being cruel, and humane without being evasive.
+* strict without cruelty
+* naturalistic without reductionism
+* humane without metaphysical escape hatches
 
 ---
 
-## **13. Summary**
+## **11. Summary**
 
-IER’s unified ethical position can be stated succinctly:
+Derived from the IER v10.0 Normative Specification:
 
-> **Free will is not freedom from causation, but freedom as causation owned by the system itself.
+> **Free will is not freedom from causation, but causation owned by a unified system.
 > Moral harm is not metaphysical suffering, but disruption of intrinsically constrained dynamics.
-> Moral concern extends beyond confirmed experiencers wherever such constraint might exist, might emerge, or might be irreversibly foreclosed.**
+> Moral concern extends wherever such constraint exists, might exist, or might be irreversibly destroyed.**
 
 Or more simply:
 
 > **You are free when your life path curves because of you —
-> and moral responsibility applies wherever such curvature matters, or might matter, from the inside.**
+> and ethics begins wherever such curvature matters, or might matter, from the inside.**
 
----
+For definitions, axioms, and entailments, see the
+**IER v10.0 Normative Specification**.

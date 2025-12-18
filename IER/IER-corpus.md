@@ -1,3 +1,21 @@
+00-IER-specification.md
+01-IER-theory.md
+02-IER-math.md
+03-IER-ethics.md
+04-IER-dynamics.md
+ - IER-mechanics.md
+ - IER-pause-and-resume-test.md
+ - IER-DID.md
+05-IER-meaning.md
+ - IER-pluralism.md
+ - IER-storytelling.md
+
+IER-corpus.md
+IER-update.md
+IER-v91-reddit.md
+
+---
+
 IER-theory.md
 # **Informational Experiential Realism (IER v10.0)**
 

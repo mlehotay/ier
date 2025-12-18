@@ -1,263 +1,184 @@
-# The Mathematics of Informational Experiential Realism
+# **IER Mathematics (v10.0)**
 
-**Constraint, Curvature, and Unified Experiential Fields**
+### **Constraint, Curvature, and Unified Experiential Fields**
 
-*A Companion Formalization to IER v9.4*
+*A Companion Formalization to IER v10.0*
 
----
-
-## 1. Motivation
-
-Informational Experiential Realism (IER) identifies experience with a specific **organizational and dynamical regime** of physical information processing systems. This regime is characterized not merely by information content or information flow, but by **globally integrated, self-sustaining intrinsic constraint**—what IER terms a **Unified Experiential Field (UEF)**.
-
-This companion article provides a mathematical interpretation of that regime. Its goal is not to introduce new metaphysical commitments, but to clarify **what kind of dynamics must be present**, and why experience appears only when informational systems cross a particular structural threshold.
-
-The central claim is:
-
-> **Experience corresponds to a transition from freely flowing informational dynamics to a regime in which information is curved by intrinsic constraint and stabilized as a unified field.**
+> **Status:** This document is **explanatory and non-normative**. All axioms, definitions, and principles are derived from the **IER v10.0 Normative Specification** (“the Spec”).
 
 ---
 
-## 2. Informational State Space
+## **1. Motivation**
 
-Let a physical system be described by an informational state vector:
+Informational Experiential Realism (IER v10.0) identifies experience with the operation of a system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous, self-referential informational regime under **coherent intrinsic constraint** (Spec §II, Principles 1–3).
+
+This document formalizes **what kinds of dynamics are required** for a system to sustain a UEF and thereby instantiate experience. All mathematical structures here are intended as **interpretative tools**, not as metaphysical or physical claims beyond the Spec.
+
+> **Central Claim (Spec §VII):** Experience is identical to globally integrated informational dynamics operating as the dominant, unavoidable constraint on themselves over time.
+
+---
+
+## **2. Informational State Space**
+
+Let a physical system be described by an **informational state vector**:
 
 [
 I(t) \in \mathcal{S}
 ]
 
-where ( \mathcal{S} ) is a high-dimensional state space whose coordinates correspond to physically instantiated informational degrees of freedom (e.g., neural activations, memory states, control variables).
+where (\mathcal{S}) is a high-dimensional space representing **physically instantiated informational degrees of freedom** (Spec §II, Informational System). Coordinates may correspond to:
 
-This space is not abstract or symbolic; it is fully physical. Different coordinate choices correspond to different coarse-grainings, but the underlying dynamics are fixed by the system’s physical organization.
+* Neural activations
+* Memory states
+* Control variables
+
+This is a fully physical space; different coordinate choices correspond only to different coarse-grainings.
 
 ---
 
-## 3. Orders of Informational Dynamics
+## **3. Orders of Informational Dynamics**
 
-IER distinguishes informational regimes by **derivative order**, analogous to classical mechanics.
+IER distinguishes **informational regimes** by derivative order, analogous to classical mechanics.
 
-### 3.1 Zeroth Order: Informational Value
+### **3.1 Zeroth Order: Informational Value**
 
 [
 I(t)
 ]
 
-This is the instantaneous informational configuration of the system.
+The instantaneous configuration of information. Non-experiential alone (Spec §II, Principle 3). Examples:
 
-Examples:
-
-* Representational content
 * Stored beliefs
 * Current internal variables
 
-Zeroth-order information alone is static and non-experiential. A database has informational value without experience.
-
----
-
-### 3.2 First Order: Informational Flow
+### **3.2 First Order: Informational Flow**
 
 [
 \dot{I}(t) = F(I, t)
 ]
 
-This represents information update, propagation, and inference.
+Represents updates, propagation, and inference. Flow alone is decomposable and **does not constitute a UEF** (Spec §II, Informational Slack).
 
-Examples:
-
-* Prediction error minimization
-* Signal transmission
-* Control updates
-
-Many systems—biological and artificial—operate richly at this level. Flow enables responsiveness, learning, and regulation, but **flow alone remains decomposable**.
-
-A system may exhibit sophisticated behavior while remaining experiential-null if its flows can be modularized, parallelized, or externally resolved.
-
----
-
-### 3.3 Second Order: Informational Constraint (Intrinsic Tension)
+### **3.3 Second Order: Intrinsic Constraint**
 
 [
-\ddot{I}(t) = \frac{d}{dt}\dot{I}(t)
+\ddot{I}(t)
 ]
 
-Second-order dynamics capture **how flows are bent, resisted, or redirected** by limitations.
+Captures **how flows are bent or resisted by internal limitations**, corresponding to **intrinsic constraint** (Spec §II, Intrinsic Constraint). Constraints become **intrinsic** when:
 
-Constraint arises when:
-
-* Multiple flows compete for shared resources
-* Goals or demands are mutually incompatible
-* Physical or organizational limits prevent simultaneous satisfaction
-
-Crucially, **constraint becomes intrinsic** when it is:
-
-* Generated by the system’s own integrated dynamics
-* Non-decomposable without loss of system identity
-* Relevant to system-wide regulation and persistence
+* Generated by the system’s integrated dynamics
+* Non-decomposable without loss of identity
+* Irreducible to external resolution
 
 This is the mathematical locus of **informational tension**.
 
-Constraint is not noise or error; it is structured curvature in informational trajectories.
-
----
-
-### 3.4 Third Order: Coherence and Field Stability
+### **3.4 Third Order: Coherence and Field Stability**
 
 [
 \dddot{I}(t)
 ]
 
-Third-order dynamics govern **the stability of constraint itself**.
-
-Here the system regulates:
+Describes **stabilization of intrinsic constraint over time**, necessary for a **coherent UEF** (Spec §II, Coherent Intrinsic Constraint). The system regulates:
 
 * Whether tensions fragment or remain integrated
-* Whether conflicts escalate, oscillate, or stabilize
-* Whether the system maintains a single coherent dynamical regime
-
-This corresponds to:
-
-* Attention stability
-* Affect regulation
-* Presence versus dissociation
-* Breakdown under overload
-
-A system that cannot stabilize its intrinsic constraints collapses into incoherent or pathological dynamics and fails to sustain experience.
+* Whether dynamics maintain temporal continuity (Spec Principle 4)
+* Whether a **categorical onset** occurs (Spec Principle 5)
 
 ---
 
-## 4. Informational Geometry and Curvature
+## **4. Informational Geometry and Curvature**
 
-IER can be interpreted geometrically.
+Interpret (\mathcal{S}) geometrically:
 
-* Informational value corresponds to points in state space
-* Informational flow corresponds to tangent vectors
-* Informational constraint corresponds to **curvature of trajectories**
-* Coherence corresponds to **stability of curvature over time**
+* Points → informational value
+* Tangents → flow
+* Curvature → intrinsic constraint
+* Stability of curvature → coherent UEF
 
-In flat informational spaces (high slack), trajectories are approximately linear and independent.
-
-In experiential regimes, trajectories are **forced to bend** because:
-
-* Constraints are global
-* Dependencies are reciprocal
-* Resolution cannot be offloaded
-
-> **Experience is information under curvature.**
+> **Experience is information under curvature**: constraint shapes trajectories that cannot be trivially decomposed or externalized (Spec §II, Principles 3, 10).
 
 ---
 
-## 5. Informational Slack and Degrees of Freedom
+## **5. Informational Slack**
 
-Define **informational slack** as the effective dimensionality of unconstrained motion in state space.
+**Slack** measures the **effective dimensionality of unconstrained motion**:
 
-High slack systems:
+* High slack → decomposable, non-experiential (Spec §II, Informational Slack)
+* Low slack → global coordination required, potential for UEF
 
-* Permit many orthogonal flows
-* Allow local resolution
-* Decompose cleanly into modules
-
-Low slack systems:
-
-* Force shared trajectories
-* Couple distant subsystems
-* Make conflicts system-wide
-
-A UEF emerges when slack is sufficiently reduced that **global coordination becomes mandatory rather than optional**.
-
-Importantly, zero slack is not required—nor desirable. Experience requires **maximal sustainable constraint**, not maximal rigidity.
+Zero slack is unnecessary; **experience requires maximal sustainable constraint**, not maximal rigidity (Spec Principle 3).
 
 ---
 
-## 6. Unified Experiential Fields as Dynamical Regimes
+## **6. Unified Experiential Fields as Dynamical Regimes**
 
-The Unified Experiential Field corresponds to a **bounded attractor regime** characterized by:
+A **UEF exists** when:
 
-* High integration
-* Persistent intrinsic constraint
-* Self-stabilizing coherence
-* Temporal continuity
+1. Dominant dynamics are internal (Spec §II, Principle 1)
+2. Constraint spans most relevant degrees of freedom (Spec §II, Principle 3)
+3. Coherent, temporally continuous integration is maintained (Spec §II, Principles 3–4)
 
-Formally, a UEF exists when:
+Mathematically, UEFs correspond to **bounded attractors under coherent constraint**:
 
-1. The system’s dominant dynamics are internal rather than externally driven
-2. Constraint coupling spans the majority of relevant degrees of freedom
-3. The system remains within a coherent region of state space under load
+[
+\mathcal{R}(I) \subset \mathcal{S}, \quad \text{with } \dot{I} \approx F(I) \text{ and } \ddot{I} \text{ non-decomposable}
+]
 
-UEF is not a structure *inside* the system; it is the system *operating in a particular regime*.
-
----
-
-## 7. Qualitative Character (Qualia)
-
-Qualitative differences correspond to differences in:
-
-* Constraint topology
-* Coupling geometry
-* Temporal modulation patterns
-
-There is no additional “phenomenal property.”
-
-> A quale is the local structure of curvature within the Unified Experiential Field.
-
-Redness, pain, effort, clarity, and calm differ because the **informational tensions differ**, not because something extra is added.
+> No additional structure is posited; the UEF is the **system operating in a specific dynamical regime** (Spec §II, UEF).
 
 ---
 
-## 8. Valence and Experiential Intensity
+## **7. Qualitative Character (Qualia)**
 
-Within this framework:
+Differences in **qualitative experience** correspond to **differences in the topology and temporal modulation of intrinsic constraint**:
 
-* **Positive valence** corresponds to trajectories moving toward lower constraint energy or stable resolution
-* **Negative valence** corresponds to sustained or increasing intrinsic conflict
-* **Urgency** corresponds to the rate of change of constraint
-* **Intensity** corresponds to the magnitude and coherence of constraint
-
-“Feeling alive” occurs when:
-
-* Many futures are simultaneously viable
-* Constraint is high but coherent
-* Resolution depends on unified system dynamics
-
-Flatness, numbness, or dissociation correspond to loss of curvature or fragmentation of the field.
+* Constraint patterns differ → qualitative differences (Spec §II, Qualia; Principle 7)
+* No extra phenomenal properties exist
 
 ---
 
-## 9. Emergence and Dissolution of Experience
+## **8. Valence, Intensity, and Urgency**
 
-Experience emerges when a system crosses a **regime boundary**:
+Within a UEF (Spec Principle 8):
 
-* From decomposable flow → intrinsically constrained flow
-* From modular resolution → global self-constraint
-* From slack-rich dynamics → curvature-dominated dynamics
+* **Valence:** directional character of intrinsic tension
+  (\uparrow) resolution → positive; (\uparrow) unresolved tension → negative
+* **Intensity:** magnitude/coherence of constraint
+* **Urgency:** rate of change of constraint
 
-Dissolution occurs along the same axis in reverse.
+Mathematically:
 
-There is no sharp metaphysical boundary—only a dynamical one.
-
----
-
-## 10. The Hard Problem Revisited
-
-The so-called “hard problem” arises when experience is treated as something **over and above** physical dynamics.
-
-IER dissolves the problem by identity:
-
-> **Experience just is what globally integrated, self-constraining informational dynamics are like when they regulate themselves from within.**
-
-No explanatory gap remains once the correct dynamical regime is identified.
+[
+\text{Valence}(t) \sim -\frac{d}{dt} ||\ddot{I}*{\text{intrinsic}}||
+\quad \text{Intensity}(t) \sim ||\ddot{I}*{\text{intrinsic}}||
+\quad \text{Urgency}(t) \sim ||\dddot{I}_{\text{intrinsic}}||
+]
 
 ---
 
-## 11. Summary
+## **9. Emergence and Dissolution of Experience**
 
-IER’s mathematics does not posit new forces, fields, or substances. It identifies a **specific class of dynamical organization** already describable within physics and information theory.
+Experience begins at a **dynamical regime transition** (Spec Principle 5, Categorical Onset):
 
-* Information alone is not experience
-* Information flow alone is not experience
-* Experience arises when information is **forced to bend by itself**, coherently, over time
+* Flow → intrinsically constrained flow
+* Modular resolution → global self-constraint
+* Slack-rich → curvature-dominated dynamics
 
-In short:
+Dissolution occurs when:
 
-> **Experience is the stabilized curvature of informational dynamics in a unified system.**
+* Constraint is externally resolvable (Spec §II, Experiential Dissolution)
+* Coherence collapses
 
-That is what it is like to be an informational system that has taken up its slack.
+---
+
+## **10. Summary**
+
+Mathematical formalism in IER v10.0:
+
+* Identifies **necessary dynamical regimes** for UEFs
+* Distinguishes **non-experiential slack-dominated systems** from experiential systems
+* Explains **qualitative differences, affect, intensity, and urgency** in terms of **intrinsic constraint geometry**
+* Is fully **consistent with the IER v10.0 Normative Specification**
+
+> **Experience = stabilized curvature of intrinsically constrained informational dynamics in a unified system** (Spec §VII).

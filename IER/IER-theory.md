@@ -1,6 +1,10 @@
 # **Informational Experiential Realism (IER v10.0)**
 
-## **An Explanatory Theory Derived from the Normative Specification**
+### **Experience as a Categorical Organizational Regime of Intrinsically Constrained Informational Dynamics**
+
+*or, What Is It Like to Be an Informational System?*
+
+**An Organizational Identity Theory of Observers, Experience, and Experiential Worlds**
 
 > **Status**
 > This document is **explanatory and non-normative**.
