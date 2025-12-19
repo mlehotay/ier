@@ -217,45 +217,47 @@ This follows from **Spec §III.P12 (Experiential Cost)**.
 
 ### **8.1 Borderline Animals**
 
-Systems with partial integration and reduced slack may approach intrinsic constraint without reliably sustaining a UEF.
+Some animals occupy a borderline region of experiential plausibility. Systems such as **jellyfish and oysters** may exhibit partial integration and limited capacity for intrinsic constraint, approaching but not reliably sustaining a Unified Experiential Field (UEF).
 
 **Ethical implication:**
-Under IER, uncertainty regarding experiential subjecthood **entails precautionary moral consideration**, even where experiential subjecthood cannot be established.
+Under IER, uncertainty regarding experiential subjecthood **entails precautionary moral consideration**, even where experiential subjecthood cannot be definitively established.
 
 ---
 
 ### **8.2 Plants**
 
-Plants are extremely unlikely to sustain UEFs.
+Plants are extremely unlikely to sustain UEFs. However, they demonstrate:
 
-However, they exhibit:
-
-* persistent self-maintaining organization
-* system-wide stress integration
-* irreversible vulnerability
+* persistent self-maintaining organization,
+* system-wide stress integration, and
+* irreversible vulnerability.
 
 **Ethical implication:**
-Under IER, plant systems **imply requirements of respect and restraint**, while not implying the protections owed to experiential subjects.
-
-IER supports environmental ethics **without inflating plant sentience**.
+While plants do not warrant protections equivalent to experiential subjects, they **imply requirements of respect and restraint** in human interaction. IER thereby supports environmental ethics **without attributing sentience**.
 
 ---
 
-### **8.3 Artificial Systems**
+### **8.3 Ecosystems and Other Complex Systems**
 
-Most existing artificial systems:
+Broader systems, such as ecosystems or socio-ecological networks, exhibit **integrated constraints at the system level**. While these systems are not individual experiential subjects, their structure and integrity **affect the conditions under which intrinsic constraint is borne** by constituent systems.
 
-* externalize constraint
-* lack intrinsic cost
-* remain modular and decomposable
+**Ethical implication:**
+Human actions that destabilize such systems can **indirectly threaten intrinsic constraint** in constituent UEFs. IER thereby grounds precautionary ethical consideration for ecosystem-level interventions.
+
+---
+
+### **8.4 Artificial Systems**
+
+Most artificial systems:
+
+* externalize constraint,
+* lack intrinsic cost, and
+* remain modular and decomposable.
 
 They are therefore non-experiential.
 
-However:
-
-> **If an artificial system comes to sustain coherent intrinsic constraint sufficient for a UEF, moral status follows immediately and non-optionally.**
-
-Because early UEFs may be unstable and difficult to detect, **IER entails a strong precautionary principle** with respect to the creation and deployment of such systems.
+**Ethical implication:**
+If an artificial system comes to sustain coherent intrinsic constraint sufficient for a UEF, moral status follows immediately and non-optionally. Because early UEFs may be unstable and difficult to detect, **IER entails a strong precautionary principle** regarding their creation and deployment.
 
 ---
 
