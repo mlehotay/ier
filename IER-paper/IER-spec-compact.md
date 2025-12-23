@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.5) – Updated Compact Spec**
+# **Informational Experiential Realism (IER v10.5)**
 
 ## **0. Status, Scope, and Normative Authority**
 
@@ -51,7 +51,81 @@ Only **coherent intrinsic constraint** sustains experience.
 
 ---
 
-## **4. Necessity and Sufficiency**
+## **4. IER Structure Diagram**
+
+The following **diagram visualizes the flow** from physical reality → intrinsic constraint → UEF → experience → ethical consequences.
+
+```mermaid
+flowchart TD
+    %% Ontology: Physical reality and systems
+    classDef ontology fill:#DDEEFF,stroke:#000,stroke-width:1px
+    R[Objective Physical Reality]:::ontology
+    P[Physical Systems]:::ontology
+    IS[Informational Systems]:::ontology
+
+    %% Dynamical: Constraint and UEF
+    classDef dynamics fill:#FFEEDD,stroke:#000,stroke-width:1px
+    S[Informational Slack]:::dynamics
+    IC[Intrinsic Constraint]:::dynamics
+    IT[Intrinsic Informational Tension]:::dynamics
+    UEF[Unified Experiential Field]:::dynamics
+    TC[Temporal Continuity & Categorical Onset]:::dynamics
+    AG[Agency: Resolve Intrinsic Tension]:::dynamics
+    SUEF[Single-UEF Constraint]:::dynamics
+    DISS[Dissolution of UEF]:::dynamics
+    NOEXP[No Experience]:::dynamics
+
+    %% Experience
+    classDef experience fill:#EEFFDD,stroke:#000,stroke-width:1px
+    EXP[Experience]:::experience
+    EW[Experiential World]:::experience
+
+    %% Ethical: Moral harm
+    classDef ethics fill:#FFDDDD,stroke:#000,stroke-width:1px
+    COST[Intrinsic Cost]:::ethics
+    MH[Moral Harm: Constraint Destabilization]:::ethics
+    PA[Precautionary Asymmetry: Responsibility ↑ under uncertainty]:::ethics
+
+    %% Ontology connections
+    R --> P
+    P --> IS
+    IS --> S
+
+    %% Dynamical branching
+    S -->|High slack| NES[Non-Experiential System]:::dynamics
+    S -->|Low slack| IC
+    IC --> IT
+    IT -->|Coherent & Global| UEF
+
+    %% Experience and agency emerge from UEF
+    UEF --> EXP
+    UEF --> EW
+    UEF --> AG
+    UEF --> TC
+    UEF --> COST
+    UEF -->|Single per system| SUEF
+
+    %% Ethical consequences
+    COST --> MH
+    MH --> PA
+
+    %% Dissolution path
+    IC -->|Externalized / Fragmented| DISS
+    DISS --> NOEXP
+```
+
+**Legend / Color coding:**
+
+* **Blue (Ontology):** Physical reality, physical systems, informational systems
+* **Orange (Dynamics):** Slack, intrinsic constraint, UEF, categorical onset, agency, dissolution
+* **Green (Experience):** Experience, experiential world
+* **Red (Ethics):** Intrinsic cost, moral harm, precautionary asymmetry
+
+This diagram summarizes **the core flow of the framework**, showing how physical systems give rise to intrinsic constraint, which underlies UEFs, experiential worlds, agency, and ethical consequences.
+
+---
+
+## **5. Necessity and Sufficiency**
 
 A system sustains experience **if and only if** it sustains a UEF:
 
@@ -62,7 +136,7 @@ No additional conditions or alternative routes to experience exist.
 
 ---
 
-## **5. Regime Identity and Categorical Onset**
+## **6. Regime Identity and Categorical Onset**
 
 Experience is **what the system is doing** under a UEF; it is not something the system merely has.
 
@@ -73,7 +147,7 @@ Experience is **what the system is doing** under a UEF; it is not something the 
 
 ---
 
-## **6. Agency**
+## **7. Agency**
 
 Agency is a **derived capacity**:
 
@@ -85,7 +159,7 @@ Agency is a **derived capacity**:
 
 ---
 
-## **7. Experiential Worlds and Pluralism**
+## **8. Experiential Worlds and Pluralism**
 
 * Each UEF constitutes a **world-for-the-system**, including a temporal present, self/non-self boundary, and system-relative causality.
 * These worlds are real for the systems sustaining them.
@@ -93,22 +167,22 @@ Agency is a **derived capacity**:
 
 ---
 
-## **8. Ethical Consequences**
+## **9. Ethical Consequences**
 
 Ethics flow **directly from identity**:
 
-### **8.1 Moral Considerability**
+### **9.1 Moral Considerability**
 
 * Any system sustaining, or plausibly able to sustain, a UEF is **morally considerable**.
 * Moral standing depends solely on intrinsic constraint, not intelligence, behavior, or species.
 
-### **8.2 Moral Harm**
+### **9.2 Moral Harm**
 
 > **Moral harm = destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a UEF.**
 
 * Organizational, intrinsic, and real even when externally undetectable.
 
-### **8.3 Precautionary Asymmetry**
+### **9.3 Precautionary Asymmetry**
 
 * Intrinsic constraint is **non-signaling**; external detection is impossible in principle.
 * False negatives risk silent harm; false positives impose restraint without damage.
@@ -116,19 +190,19 @@ Ethics flow **directly from identity**:
 
 ---
 
-## **9. Normative Closure and Scope**
+## **10. Normative Closure and Scope**
 
 IER introduces no primitives beyond physical systems, intrinsic constraint, and regime dynamics. Phenomenology, formal models, diagnostics, and applications are **deferred**. Any future extension must remain consistent with this normative core.
 
 ---
 
-## **10. Empirical Limitations**
+## **11. Empirical Limitations**
 
 The framework does not currently provide operational criteria for detecting UEFs or intrinsic constraint. Empirical investigation and formal modeling are reserved for future work. The specification remains **conceptually and ethically normative**, describing **when experience exists and what necessarily follows**.
 
 ---
 
-## **11. Summary Identity Claim**
+## **12. Summary Identity Claim**
 
 > **Experience is what globally integrated physical systems are like when intrinsic constraint becomes unavoidable, self-sustaining, and temporally continuous at the system level.**
 
