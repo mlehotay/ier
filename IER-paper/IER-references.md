@@ -1,5 +1,3 @@
-# References (Suggested)
-
 ## Identity Theory & Physicalism
 
 1. **Smart, J. J. C. (1959).**
@@ -95,15 +93,3 @@
     *Philosophical Review, 83*(4), 435–450.
     **Tag:** **OPTIONAL**
     **Why:** Classic subjectivity paper. Helpful for readers, but your framework does not depend on it.
-
-## Minimal Set Recommendation
-
-1. Smart (1959) — identity theory
-2. Place (1956) — identity theory
-3. Thompson (2007) — organizational/dynamical mind
-4. Moreno & Mossio (2015) — intrinsic constraint / autonomy
-5. Baars (1988) — global workspace (contrast)
-6. Dennett (1991) — eliminativism (contrast)
-7. Chalmers (1996) — property dualism (contrast)
-8. Kastrup (2018) — analytical idealism (contrast)
-9. Birch (2017/2020) — precautionary ethics
