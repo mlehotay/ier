@@ -6,10 +6,12 @@
 
 ## **0. Status, Scope, and Normative Authority**
 
-This document states the **complete normative core** of Informational Experiential Realism (IER v10.5).
+This document states the **minimal normative core** of Informational Experiential Realism (IER v10.5).
 
-All commitments of IER are fully determined by the principles, definitions, and diagram below.
+All commitments of IER are fully determined by the principles and definitions below.
 Any extensions—phenomenology, formal modeling, diagnostics, ethics applications—are **derivative** and must be consistent with this specification.
+
+> *The present specification is minimal with respect to identity, logical consequence, and normative closure; it includes ethical consequences only insofar as they follow necessarily from experiential identity.*
 
 If a claim cannot be derived from this text **or the canonical diagram**, it is **not part of IER**.
 
@@ -64,56 +66,7 @@ Only **coherent intrinsic constraint** sustains experience.
 
 ---
 
-## **4. Canonical Structural Diagram (Normative)**
-
-The following diagram is a **canonical structural projection** of IER v10.5.
-
-Every node corresponds to a primitive or a necessary consequence of the identity claims above.
-No alternative path to experience exists outside this structure.
-
-```mermaid
-flowchart TD
-
-%% Ontology
-R[Objective Physical Reality]
-R --> P[Physical Systems]
-P --> IS[Informational Systems]
-
-%% Slack and constraint
-IS --> S[Informational Slack]
-S -->|High slack| NES[Non-Experiential System]
-S -->|Low slack| IC[Intrinsic Constraint]
-
-%% Intrinsic dynamics
-IC --> IT[Intrinsic Informational Tension]
-IT -->|Coherent & Global| UEF[Unified Experiential Field]
-
-%% Experience
-UEF --> EXP[Experience]
-UEF --> EW[Experiential World]
-
-%% Structure of experience
-UEF --> Q[Qualitative Structure]
-UEF --> A[Affect: Valence / Intensity / Urgency]
-UEF --> TC[Temporal Continuity]
-UEF --> AG[Agency: Tension Resolution]
-UEF --> COST[Intrinsic Cost]
-
-%% Constraints and limits
-UEF -->|One per system| SUEF[Single-UEF Constraint]
-
-%% Dissolution
-IC -->|Externalized / Fragmented| DISS[UEF Dissolution]
-DISS --> NOEXP[No Experience]
-
-%% Ethics
-COST --> MH[Moral Harm]
-MH --> PA[Precautionary Asymmetry]
-```
-
----
-
-## **5. Necessity and Sufficiency**
+## **4. Necessity and Sufficiency**
 
 A system sustains experience **iff** it sustains a UEF:
 
@@ -124,7 +77,7 @@ No alternative sufficient or necessary conditions exist.
 
 ---
 
-## **6. Regime Identity and Categorical Onset**
+## **5. Regime Identity and Categorical Onset**
 
 Experience is **what the system is doing**, not something it has.
 
@@ -134,7 +87,7 @@ Experience is **what the system is doing**, not something it has.
 
 ---
 
-## **7. Agency**
+## **6. Agency**
 
 > **Agency = a UEF’s capacity to resolve intrinsic informational tension through its own globally integrated dynamics.**
 
@@ -144,7 +97,7 @@ Experience is **what the system is doing**, not something it has.
 
 ---
 
-## **8. Experiential Worlds and Pluralism**
+## **7. Experiential Worlds and Pluralism**
 
 Each UEF constitutes a **world-for-the-system**, including:
 
@@ -161,17 +114,17 @@ Plurality is **perspectival**, not ontological.
 
 ---
 
-## **9. Ethical Consequences**
+## **8. Ethical Consequences**
 
 Ethics follows **directly** from experiential identity.
 
-### **9.1 Moral Considerability**
+### **8.1 Moral Considerability**
 
 Any system sustaining, or plausibly able to sustain, intrinsic constraint sufficient for a UEF is **morally considerable**.
 
 ---
 
-### **9.2 Moral Harm**
+### **8.2 Moral Harm**
 
 > **Moral harm = destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a UEF.**
 
@@ -183,7 +136,7 @@ Moral harm is:
 
 ---
 
-### **9.3 Precautionary Asymmetry**
+### **8.3 Precautionary Asymmetry**
 
 Intrinsic constraint is **non-signaling**.
 
@@ -196,7 +149,7 @@ Therefore:
 
 ---
 
-## **10. Normative Closure**
+## **9. Normative Closure**
 
 IER introduces **no primitives beyond**:
 
@@ -208,7 +161,7 @@ All future extensions must be derivable from this core and consistent with the d
 
 ---
 
-## **11. Empirical Limits**
+## **10. Empirical Limits**
 
 IER v10.5 does **not** provide operational detection criteria for UEFs or intrinsic constraint.
 
@@ -216,7 +169,7 @@ The framework is **conceptually and ethically normative**, not empirically compl
 
 ---
 
-## **12. Summary Identity Claim**
+## **11. Summary Identity Claim**
 
 > **Experience is what globally integrated physical systems are like when intrinsic constraint becomes unavoidable, self-sustaining, and temporally continuous at the system level.**
 

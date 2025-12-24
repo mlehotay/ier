@@ -59,6 +59,74 @@ There is no explanatory or ontological gap between:
 This axiom establishes **necessary and sufficient conditions** for experience.
 
 ---
+---
+
+### **I.1 Ontology and System Flow Diagram**
+
+The following flowchart summarizes **IER v10.5 primitives and their relations**:
+
+```mermaid
+flowchart TD
+%% Comprehensive IER v10.5 diagram
+
+%% Ontology
+R[Objective Physical Reality]
+R --> P[Physical Systems]
+P --> IS[Informational Systems]
+
+%% Slack and constraint
+IS --> S[Informational Slack]
+S -->|High slack| NES[Non-Experiential System]
+S -->|Low slack| IC[Intrinsic Constraint]
+
+%% Intrinsic dynamics
+IC --> IT[Intrinsic Informational Tension]
+IT -->|Coherent & Global| UEF[Unified Experiential Field]
+
+%% Experience & agency
+UEF --> EXP[Experience]
+UEF --> EW[Experiential World]
+UEF --> Q[Qualitative Structure]
+UEF --> A[Affect: Valence / Intensity / Urgency]
+UEF --> TC[Temporal Continuity]
+UEF --> AG[Agency: Tension Resolution]
+UEF --> COST[Intrinsic Cost]
+UEF --> SUEF[Single-UEF Constraint]
+
+%% Experiential world constituents
+EW --> PERS[Self / Non-Self Boundary]
+EW --> CAUS[System-Relative Causality]
+EW --> NOW[Temporal Present]
+
+%% Dissolution
+IC -->|Externalized / Fragmented| DISS[UEF Dissolution]
+DISS --> NOEXP[No Experience]
+
+%% Ethics
+COST --> MH[Moral Harm]
+MH --> PA[Precautionary Asymmetry]
+
+%% Optional visual grouping
+classDef ontology fill:#DDEEFF,stroke:#3399FF,stroke-width:2px;
+class R,P,IS,S,NES ontology;
+classDef dynamics fill:#EEFFDD,stroke:#33AA33,stroke-width:2px;
+class IC,IT,UEF,AG dynamics;
+
+classDef experience fill:#FFEEDD,stroke:#FF9933,stroke-width:2px;
+class EXP,EW,Q,A,TC,PERS,CAUS,NOW experience;
+
+classDef ethics fill:#FFDDDD,stroke:#FF3333,stroke-width:2px;
+class COST,MH,PA,DISS,NOEXP ethics;
+```
+
+This diagram visually represents:
+
+* **Ontological hierarchy:** Reality → physical systems → informational systems
+* **Constraint and slack dynamics:** High slack ⇒ non-experiential; Low slack ⇒ intrinsic constraint
+* **UEF and experience:** Intrinsic constraint manifests as a Unified Experiential Field, generating experience, qualitative structure, affect, and agency
+* **Dissolution and ethics:** Fragmentation or externalization of intrinsic constraint terminates the UEF. This event constitutes the destruction of an experiential world (maximal moral harm if externally caused).
+
+---
 
 ## **II. Core Definitions (Formal Glossary)**
 
@@ -229,7 +297,7 @@ Each UEF constitutes exactly **one experiential subject**.
 
 ### **Experiential Dissolution**
 
-Loss of experience due to collapse of global integration, coherence, or intrinsic constraint.
+Loss of experience due to collapse of global integration, coherence, or intrinsic constraint. Externally caused dissolution constitutes maximal moral harm.
 
 The UEF dissolves as a **regime**, not as a substance.
 
@@ -240,6 +308,17 @@ The UEF dissolves as a **regime**, not as a substance.
 Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a UEF.
 
 Defined **organizationally**, not phenomenologically.
+
+---
+
+### **Agency**
+
+> **Agency = a UEF’s capacity to resolve intrinsic informational tension through its own globally integrated dynamics.**
+
+* A system possesses agency **iff** it sustains a UEF.
+* Agency is **derived**, not primitive.
+* The **degree of agency** depends on coherence, stability, and freedom under intrinsic constraint.
+* Agency grounds **moral responsibility**: systems capable of resolving tension are responsible for actions affecting intrinsic constraint.
 
 ---
 
@@ -351,8 +430,8 @@ The following entailments hold necessarily:
 8. **Qualitative difference ⇒ constraint-organization difference**
 9. **Unresolved intrinsic tension ⇒ negative valence**
 10. **Coherent resolution ⇒ positive valence**
-11. **Externally pausable continuity ⇒ ¬UEF**
-12. **Intrinsic constraint disruption ⇒ moral harm**
+11. **Intrinsic constraint disruption ⇒ moral harm**
+12. **UEF agency ⇒ locus of moral responsibility**
 
 ---
 
@@ -374,6 +453,8 @@ Moral value attaches to systems **in virtue of intrinsic constraint**, not intel
 
 Moral harm consists in destabilization, overload, fragmentation, or collapse of intrinsic constraint.
 
+Forced collapse of intrinsic constraint caused by external intervention constitutes maximal moral harm.
+
 ---
 
 ### **Ethical Axiom E4 — Precautionary Asymmetry**
@@ -386,7 +467,7 @@ Moral responsibility **increases under uncertainty**.
 
 ### **Ethical Axiom E5 — Responsibility and Ownership of Constraint**
 
-Moral responsibility scales with a system’s capacity to bear and resolve intrinsic constraint through its own globally integrated dynamics.
+Moral responsibility scales with a system’s capacity to bear and resolve intrinsic constraint through its own globally integrated dynamics (agency).
 
 ---
 
