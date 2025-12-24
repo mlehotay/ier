@@ -2,9 +2,9 @@
 
 ## **A Minimal Identity Framework for Experience, Agency, and Moral Responsibility**
 
-**Author:** Michael Lehotay  
-**Affiliation:** Independent Researcher  
-**Date:** December 2025  
+**Author:** Michael Lehotay
+**Affiliation:** Independent Researcher
+**Date:** December 2025
 
 ---
 
@@ -14,7 +14,7 @@ Informational Experiential Realism (IER) is a naturalistic identity framework sp
 
 Experience exists **if and only if** such a regime exists. No additional primitives—phenomenal, representational, computational, or informational—are introduced beyond physical systems, intrinsic constraint, and regime dynamics. Each UEF constitutes a system-relative world, grounding experiential pluralism under a single objective physical reality. Agency arises from the system’s capacity to resolve intrinsic informational tension, and moral considerability applies wherever intrinsic constraint is internally sustained. Moral harm consists in destabilization, fragmentation, overload, or irreversible collapse of such constraint.
 
-This paper presents the **minimal normative core** of IER v10.5, leaving applied models, empirical diagnostics, and extensions for future work.
+This paper presents the **minimal normative core** of IER v10.5, **deferring phenomenology, applied models, empirical diagnostics, and extensions to future publications**.
 
 ---
 
@@ -32,7 +32,7 @@ IER dissolves this dilemma by **identifying experience with system-level physica
 
 > **Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF).**
 
-The focus is therefore not on how experience “emerges” from matter, but on **which physical organizations are experiential and why**. IER specifies the minimal structural and dynamical conditions that are both necessary and sufficient for experience, agency, and moral responsibility.
+The focus is therefore not on how experience “emerges” from matter, but on **which physical organizations are experiential and why**. IER specifies the minimal structural and dynamical conditions that are both necessary and sufficient for experience, agency, and moral responsibility. Phenomenology, diagnostics, and extensions are **deferred to a separate work**.
 
 ---
 
@@ -113,7 +113,7 @@ MH --> PA[Precautionary Asymmetry]
 
 *Figure 1. Canonical Structural Diagram of IER v10.5.*
 
-**Interpretive Notes:**
+**Notes:**
 
 * Diagram represents **identity claims**, not additional assumptions.
 * UEF onset is categorical; experience and agency occur only under coherent intrinsic constraint.
@@ -173,7 +173,7 @@ Intrinsic constraint is **non-signaling**. Therefore:
 * False negatives risk silent experiential harm
 * False positives impose restraint without internal damage
 
-Moral responsibility increases under uncertainty.
+Moral responsibility increases under uncertainty, following precautionary reasoning (Birch 2017).
 
 ---
 
@@ -199,7 +199,7 @@ Reality is singular; experience is plural; ethics begins wherever intrinsic cons
 
 ## **11. Relation to Prior Work**
 
-IER builds on **identity theory** (Place 1956; Smart 1959), extending it from neural states to **system-level dynamical regimes**. It incorporates insights from **cognitive and enactive frameworks**: Baars (1988) emphasizes global integration, while Thompson (2007) highlights autonomous, self-organizing dynamics. IER also aligns with precautionary reasoning in ethics (Birch 2020), grounding moral consideration wherever intrinsic constraint sustains experience.
+IER builds on **identity theory** (Place 1956; Smart 1959), extending it from neural states to **system-level dynamical regimes**. It incorporates insights from **cognitive and enactive frameworks**: Baars (1988) emphasizes global integration, while Thompson (2007) highlights autonomous, self-organizing dynamics. IER also aligns with precautionary reasoning in ethics (Birch 2017), grounding moral consideration wherever intrinsic constraint sustains experience.
 
 ---
 
@@ -210,6 +210,6 @@ IER builds on **identity theory** (Place 1956; Smart 1959), extending it from ne
 * Chalmers, D. (1996). *The Conscious Mind.* Oxford University Press.
 * Baars, B. J. (1988). *A Cognitive Theory of Consciousness.* Cambridge University Press.
 * Thompson, E. (2007). *Mind in Life.* Harvard University Press.
-* Birch, J. (2020). *Ethical Uncertainty and Nonhuman Consciousness.* Journal of Ethics.
+* Birch, J. (2017). *Animal sentience and the precautionary principle.* Animal Sentience.
 
 ---
