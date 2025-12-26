@@ -1,7 +1,7 @@
 # **Informational Experiential Realism (IER)**
 
-**Current Version:** **v10.5**
-**Status:** **Normatively closed; explanatorily extensible**
+**Current Version:** **v10.5**  
+**Status:** **Normatively closed; explanatorily extensible**  
 
 ---
 
