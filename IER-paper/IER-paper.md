@@ -2,9 +2,9 @@
 
 ## **A Minimal Identity Framework for Experience, Agency, and Moral Responsibility**
 
-**Author:** Michael Lehotay
-**Affiliation:** Independent Researcher
-**Date:** December 2025
+**Author:** Michael Lehotay  
+**Affiliation:** Independent Researcher  
+**Date:** December 2025  
 
 ---
 
