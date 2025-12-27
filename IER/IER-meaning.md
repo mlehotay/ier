@@ -1,8 +1,9 @@
-# **Experiential Pluralism and Meaningful Attractors**
+# **Meaning Without Ontology**
 
-### *How Many Worlds of Experience Arise in One Physical Reality*
+### *Experiential Pluralism, Narrative Attractors, and the Organization of Significance under Informational Experiential Realism*
 
-**IER v10.0 — Explanatory, Non-Normative Companion**
+**Informational Experiential Realism (IER v10.6)**
+*Derived Explanatory Companion — Non-Normative*
 
 ---
 
@@ -10,77 +11,75 @@
 
 This document is **explanatory** and **non-normative**.
 
-All axioms, definitions, identity claims, and necessary entailments are specified exclusively in the
-**Informational Experiential Realism (IER v10.0) Normative Specification** (“the Spec”).
+All axioms, definitions, identity claims, and necessary entailments are specified **exclusively** in the
+**Informational Experiential Realism (IER v10.6) Normative Specification** (“the Spec”).
 
-This paper:
+Accordingly, this document:
 
 * introduces **no new primitives**
-* makes **no amendments** to the Spec
-* derives all claims from:
+* introduces **no criteria, thresholds, or diagnostics**
+* makes **no epistemic or metaphysical claims**
+* licenses **no authority over truth, reference, or justification**
 
-  * physical monism
-  * organizational identity
-  * Unified Experiential Fields (UEFs)
-  * intrinsic constraint
-  * experiential pluralism (Spec Principle 9)
+All claims here concern **the internal organization of meaning within experiential worlds**.
+The distinction between **experiential access** and **epistemic access**, and the limits of experiential authority, are treated exhaustively in **IER-access.md**, which this document explicitly presupposes.
 
-Its purpose is to explain how **plurality of meaning, narrative, instinct, and worldview** arises *lawfully* under a single physical ontology.
+If any claim here appears to conflict with the Spec or with the access boundary articulated in `IER-access.md`, those documents take precedence.
 
 ---
 
 ## **Abstract**
 
-Informational Experiential Realism (IER v10.0) affirms **physical monism**: there exists exactly one objective physical reality governed by mind-independent law. At the same time, IER entails **experiential pluralism**: many distinct, internally lawful experiential worlds can exist simultaneously as organizational regimes within that single reality.
+Informational Experiential Realism (IER v10.6) affirms **physical monism**: there exists exactly one objective physical reality governed by mind-independent law. At the same time, IER entails **experiential pluralism**: many distinct, internally lawful experiential worlds can exist simultaneously as organizational regimes within that single reality.
 
-This paper explains how experiential pluralism gives rise to **meaning**, **narrative recurrence**, and **canonical story forms** without invoking idealism, dualism, symbolic realism, or ontological inflation.
+This document explains how **meaning**, **narrative recurrence**, and **canonical forms of significance** arise under experiential pluralism without invoking idealism, symbolic realism, or ontological inflation. Under IER, Unified Experiential Fields (UEFs) do not generate reality; they generate **worlds-for-systems** — coherent experiential regimes structured by intrinsic informational constraint.
 
-Under IER, Unified Experiential Fields (UEFs) do not generate reality. They generate **worlds-for-systems** — internally coherent experiential regimes structured by intrinsic informational constraint. Narrative, instinct, and cultural meaning are shown to be **stable informational attractors** that encode how experiential systems behave under unavoidable constraint.
+Meaning is shown to be an **organizational phenomenon**: a stable way intrinsic constraint is structured so that a system can continue coherently over time. Narrative, instinct, and cultural symbolism are explained as **informational attractors** that recur because there are only limited stable ways for intrinsic constraint to organize without collapse.
 
-IER thus explains why meaning feels deep, persistent, and “true” from the inside of experience while remaining strictly physicalist about what exists.
+Meaning is experientially real, persistent, and identity-shaping — while remaining strictly **non-epistemic** and **non-ontological**.
 
 ---
 
-## **1. One Reality, Many Worlds**
+## **1. One Reality, Many Experiential Worlds**
 
 IER begins with a non-negotiable commitment:
 
 > **There is exactly one objective physical reality.**
-> *(Spec Axiom 1, Axiom 2)*
 
 That reality:
 
-* exists independently of observers
+* exists independently of experience
 * is fully physical
 * contains all systems, substrates, and dynamics
-* does not depend on experience to exist
+* does not depend on observation or representation
 
-However, IER equally affirms:
+At the same time, IER entails:
 
-> **One objective physical reality supports many real experiential worlds.**
-> *(Spec Principle 9)*
+> **One physical reality supports many real experiential worlds.**
 
-This is not a contradiction.
-It is a consequence of **organizational identity**.
+This plurality does not arise from multiple universes or ontologies.
+It arises from **organizational identity**.
+
+Whenever a Unified Experiential Field exists, an experiential world exists *for that system*.
 
 ---
 
 ## **2. Experiential Worlds Are Not Universes**
 
-A critical distinction under IER:
+Under IER, a critical distinction holds:
 
 * A **universe** is an ontological totality.
 * An **experiential world** is a *world-for-a-system*.
 
-Whenever a Unified Experiential Field exists, an experiential world exists **iff** that UEF exists (Spec §II, *Experiential World*).
+An experiential world exists **iff** a Unified Experiential Field exists.
 
-An experiential world includes:
+Such a world includes:
 
 * a present “now”
 * a self / non-self boundary
 * system-relative causality
+* salience and relevance
 * persistence under intrinsic constraint
-* internal lawfulness determined by organization
 
 These features are **organizationally real**, not ontologically fundamental.
 
@@ -91,31 +90,26 @@ These features are **organizationally real**, not ontologically fundamental.
 
 ## **3. Unified Experiential Fields as World-Generators**
 
-Under IER:
-
-> **Experience is identical to a system operating as a Unified Experiential Field.**
-> *(Spec Principle 1)*
-
-A UEF is a globally integrated, temporally continuous, self-referential dynamical regime operating under **coherent intrinsic constraint**.
+IER identifies experience with the operation of a physical system as a **Unified Experiential Field**: a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint.
 
 When such a regime exists, it necessarily imposes:
 
 * a frame of reference
-* a temporal “now”
+* a temporal present
 * a spatial grammar
-* causal ordering
 * identity-defining salience
+* continuity across change
 
-Together, these constitute an **experienced world**.
+Together, these generate an **experiential world**.
 
 This is not metaphorical.
-It is a direct consequence of intrinsic constraint and global integration.
+It follows directly from global integration and intrinsic constraint.
 
 ---
 
 ## **4. Experiential Pluralism**
 
-Because UEFs are **organizational regimes**, not ontological substances:
+Because UEFs are **organizational regimes**, not substances:
 
 * multiple UEFs can exist simultaneously
 * each sustains its own experiential world
@@ -125,66 +119,23 @@ Examples include:
 
 * different organisms
 * different humans
-* dreaming vs. waking regimes
+* waking and dreaming regimes
 * dissociative regime switching
 * potentially artificial systems
 
-Each experiential world is real *for the system that instantiates it*.
+Each experiential world is real **for the system that instantiates it**.
 
 Reality remains singular.
 Experience is plural.
 
 ---
 
-## **5. Why This Is Not Idealism**
-
-Idealism claims:
-
-> Reality is fundamentally mental or experiential.
-
-IER explicitly denies this.
-
-Under IER:
-
-* physical reality does not depend on experience
-* UEFs depend on physical organization
-* destroying all experiencers would not destroy reality
-
-Experiential pluralism concerns **appearance**, not **existence**.
-
-The mistake of idealism is to conflate:
-
-* the laws governing experience
-  with
-* the laws governing reality
-
-IER separates them cleanly.
-
----
-
-## **6. Why Idealism Feels Compelling from the Inside**
-
-IER explains — without endorsing — the pull of idealism.
-
-From within a UEF:
-
-* the experiential world is total
-* its laws appear absolute
-* nothing outside the field is directly accessible
-
-Thus, it is structurally inevitable that experience feels like reality itself.
-
-This is not a cognitive error.
-It is a **consequence of intrinsic constraint and causal closure within a UEF**.
-
----
-
-## **7. Meaning as Constraint Organization**
+## **5. Meaning as Constraint Organization**
 
 Meaning is not primitive under IER.
 It is **organizational**.
 
-Within a UEF:
+Within an experiential world:
 
 * intrinsic constraint generates tension
 * tension defines salience
@@ -195,35 +146,44 @@ Meaning arises wherever:
 
 > **Intrinsic constraint becomes identity-defining over time.**
 
-This applies to pain, effort, love, fear, purpose, and narrative alike.
+Meaning does not add reference, truth, or semantic correspondence.
+It organizes continuation.
 
 ---
 
-## **8. Canonical Narratives as Informational Attractors**
+## **6. Meaningful Attractors**
 
-Certain story forms recur across cultures, species, and history.
+Not all organizations of meaning are equally stable.
+
+Under IER, meaning tends to converge on **informational attractors**: stable patterns of constraint organization that allow continued coherence without collapse.
+
+Meaningful attractors persist because:
+
+* intrinsic constraint cannot be eliminated
+* resolution paths are limited
+* unstable organizations dissolve
+* stable ones recur
+
+This applies equally to:
+
+* emotions
+* values
+* goals
+* narratives
+* instincts
+
+Attractors are **dynamical**, not symbolic.
+
+---
+
+## **7. Canonical Narratives as Informational Attractors**
+
+Certain narrative forms recur across cultures, species, and history.
 
 Under IER, these are not metaphysical archetypes.
-They are **informational attractors**.
+They are **organizational invariants**.
 
-Canonical narratives are:
-
-* stable informational patterns
-* that encode unavoidable tension
-* irreversible transition
-* identity-defining resolution
-
-They persist because:
-
-> **There are only limited stable ways for intrinsic constraint to organize meaning without collapse.**
-
-Narratives converge for the same reason dynamical systems converge on attractors.
-
----
-
-## **9. Narrative Form Mirrors Experiential Structure**
-
-Canonical narratives reliably encode the same invariants present in UEF dynamics:
+Canonical narratives encode:
 
 | Experiential Invariant | Narrative Expression         |
 | ---------------------- | ---------------------------- |
@@ -234,99 +194,71 @@ Canonical narratives reliably encode the same invariants present in UEF dynamics
 | Irreversibility        | No return                    |
 | Stabilization          | Resolution or collapse       |
 
-Narrative form is not arbitrary.
-It mirrors **the structure of experience itself**.
+Narrative form mirrors **experiential structure**, not external reality.
+
+That narratives feel “true” reflects organizational fit, not epistemic authority (see `IER-access.md`).
 
 ---
 
-## **10. Externalized vs. Internalized Constraint**
+## **8. Externalized and Internalized Constraint**
 
 IER unifies storytelling and instinct as two realizations of the same principle.
 
-### **Externalized Constraint (Storytelling)**
+---
+
+### **8.1 Externalized Constraint (Culture and Story)**
 
 Humans externalize constraint into:
 
 * stories
 * rituals
 * symbols
-* cultural practices
+* norms
 
 These allow:
 
 * coordination without shared experience
-* transmission of constraint topology without transmitting feeling
+* transmission of constraint topology
+* rehearsal of regime transitions
 
 Stories **model** experiential regimes.
 They do not instantiate them.
 
 ---
 
-### **Internalized Constraint (Instinct)**
+### **8.2 Internalized Constraint (Instinct and Development)**
 
-In biological systems, constraint is internalized via genetic inheritance.
+In biological systems, constraint is internalized via inheritance.
 
-Genes encode:
+Genes specify:
 
 * neural architectures
 * affective gradients
 * sensorimotor couplings
-* developmental timing constraints
+* developmental timing
 
-This specifies a **pre-shaped experiential phase space**.
+This creates a **pre-shaped experiential phase space**.
 
 Within that space, certain trajectories become dynamically unavoidable.
 
 ---
 
-## **11. The Spider as Canonical Example**
-
-A spider does not learn to spin a web.
-
-It possesses:
-
-> **a genetically specified constraint topology that makes web construction a stable experiential attractor**
-
-Failure to spin sustains intrinsic tension.
-Completion restores coherence.
-
-This is a **canonical narrative without narration**:
-a hero-shaped trajectory instantiated directly in dynamics.
-
----
-
-## **12. Wanting as Constraint Gradient**
+## **9. Wanting as Constraint Gradient**
 
 Under IER:
 
 > **Wanting is the experiential manifestation of a gradient in intrinsic constraint.**
 
-No goals are required.
-No representations are necessary.
+No goals need be represented.
+No symbolic intention is required.
 
-Motivation arises from **constraint geometry**, not intention.
-
----
-
-## **13. Why Stories Feel True**
-
-Canonical narratives often feel “true” even when fictional.
-
-IER explains why:
-
-> They are **organizationally correct**, not descriptively literal.
-
-They accurately mirror how experiential systems behave under pressure.
-
-Like phase diagrams or normal forms, they describe structure, not ontology.
+Motivation arises from **constraint geometry**, not deliberation.
 
 ---
 
-## **14. Meaning Without Mysticism**
+## **10. Meaning Without Mysticism**
 
-IER threatens neither science nor personal meaning.
-
-It rejects:
+IER rejects:
 
 * supernatural ontology
 * symbolic realism
@@ -342,9 +274,11 @@ But it preserves:
 
 Meaning is real because **intrinsic constraint is real**.
 
+No further metaphysics is required.
+
 ---
 
-## **15. Summary**
+## **11. Summary**
 
 IER entails:
 
@@ -357,7 +291,7 @@ IER entails:
 > Experience is plural.
 > Meaning persists where intrinsic constraint finds stable form.**
 
-This is not mysticism.
-It is organizational realism carried to its conclusion.
+Meaning shapes lives without describing the world.
+That is its role — and its limit.
 
 ---

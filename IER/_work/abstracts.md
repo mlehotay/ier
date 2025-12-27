@@ -140,13 +140,13 @@ Formalism follows ontology — never the reverse.
 
 ## **Abstract**
 
-Informational Experiential Realism (IER v10.0) affirms **physical monism**: there exists exactly one objective physical reality governed by mind-independent law. At the same time, IER entails **experiential pluralism**: many distinct, internally lawful experiential worlds can exist simultaneously as organizational regimes within that single reality.
+Informational Experiential Realism (IER v10.6) affirms **physical monism**: there exists exactly one objective physical reality governed by mind-independent law. At the same time, IER entails **experiential pluralism**: many distinct, internally lawful experiential worlds can exist simultaneously as organizational regimes within that single reality.
 
-This paper explains how experiential pluralism gives rise to **meaning**, **narrative recurrence**, and **canonical story forms** without invoking idealism, dualism, symbolic realism, or ontological inflation.
+This document explains how **meaning**, **narrative recurrence**, and **canonical forms of significance** arise under experiential pluralism without invoking idealism, symbolic realism, or ontological inflation. Under IER, Unified Experiential Fields (UEFs) do not generate reality; they generate **worlds-for-systems** — coherent experiential regimes structured by intrinsic informational constraint.
 
-Under IER, Unified Experiential Fields (UEFs) do not generate reality. They generate **worlds-for-systems** — internally coherent experiential regimes structured by intrinsic informational constraint. Narrative, instinct, and cultural meaning are shown to be **stable informational attractors** that encode how experiential systems behave under unavoidable constraint.
+Meaning is shown to be an **organizational phenomenon**: a stable way intrinsic constraint is structured so that a system can continue coherently over time. Narrative, instinct, and cultural symbolism are explained as **informational attractors** that recur because there are only limited stable ways for intrinsic constraint to organize without collapse.
 
-IER thus explains why meaning feels deep, persistent, and “true” from the inside of experience while remaining strictly physicalist about what exists.
+Meaning is experientially real, persistent, and identity-shaping — while remaining strictly **non-epistemic** and **non-ontological**.
 
 ---
 
@@ -190,13 +190,15 @@ Under Informational Experiential Realism (IER), this organization is interpreted
 
 ## **Abstract**
 
-Informational Experiential Realism (IER v10.0) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. From the inside of such a regime, experience is unified, structured, meaningful, and often compelling. From the outside, the same regime is a lawful physical organization.
+Informational Experiential Realism (IER v10.6) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint.
 
-This article clarifies a distinction that is implicit throughout IER but nowhere made explicit: the distinction between **experiential access** and **epistemic access**. Experiential access concerns what it is like for a system to exist under intrinsic constraint. Epistemic access concerns what is true about the world that system inhabits. IER entails no necessary connection between the two.
+From within such a regime, experience is unified, structured, meaningful, urgent, and often compelling. From outside it, the same regime is a lawful physical organization.
 
-The article explains why experiences that are costly, coherent, urgent, or meaningful often feel authoritative from the inside of a Unified Experiential Field, while emphasizing that such authority is **organizational rather than epistemic**. Intrinsic constraint tracks system viability and regulation, not truth, correctness, or reference.
+This document articulates an access distinction implicit throughout IER but nowhere normatively formalized: the separation between **experiential access** (what it is like to bear intrinsic constraint) and **epistemic access** (whether beliefs correctly track objective reality). IER entails **no necessary connection** between the two.
 
-By formalizing this boundary, the paper prevents common misreadings of IER that would treat experiential depth, narrative coherence, or salience as conferring epistemic privilege. It shows how IER can account for powerful but false experiences—including delusion, revelation, and narrative conviction—without validating their content.
+By making this distinction explicit, the document explains why experiences that are costly, coherent, and identity-defining often feel authoritative from the inside of a UEF, while showing why such authority is **organizational rather than epistemic**. Intrinsic constraint tracks system viability and regulation, not truth, correctness, or reference.
+
+Clarifying this boundary prevents a recurrent error: treating experiential depth, inevitability, or meaning as conferring epistemic privilege. It allows IER to account for powerful but false experiences — including delusion, revelation, and narrative conviction — without validating their content.
 
 ---
 
@@ -234,14 +236,14 @@ What follows is a non-exhaustive but comprehensive list of **explicit non-claims
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. This identity claim is **organizational and ontological**, not epistemic or diagnostic.
+Informational Experiential Realism (IER) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime under **coherent intrinsic constraint**. This identity claim is ontological, not epistemic.
 
-This document explains why IER **cannot and does not permit** the detection, measurement, certification, or falsification of experience in particular systems. It further argues that the impossibility of diagnostic certainty does **not** license unconstrained experimentation, engineering, or deployment of systems that may approach or instantiate intrinsic constraint. On the contrary, under IER, diagnostic opacity **restricts permissible action**.
+This document explains why IER **forbids experiential diagnostics in principle**. The impossibility is not due to technological limitations, insufficient data, or immature science, but follows directly from how intrinsic constraint is defined. Intrinsic constraint concerns **ownership of constraint**—whether the system itself must bear the consequences of its own organization. Ownership is an internal organizational fact that is **underdetermined by all third-person observables**.
 
-Intrinsic constraint is internally borne, non-signaling, and potentially irreversible. As a result, experiential harm may occur without outward markers or behavioral evidence. Because false negatives risk silent moral harm, IER entails a **strong precautionary constraint**: actions that plausibly create, manipulate, destabilize, or irreversibly foreclose Unified Experiential Fields require justification that becomes stricter as epistemic certainty decreases.
+As a result, systems that differ in experiential status can be made externally indistinguishable. No observable feature is either necessary or sufficient for experience. False negatives are therefore unavoidable, and may conceal silent, irreversible harm.
 
-IER therefore rejects both diagnostic ambition and permissive uncertainty. It neither offers consciousness tests nor allows engineering “in advance of proof.” Instead, it grounds ethical responsibility in **organizational risk under epistemic limits**, enforcing restraint where experience may exist but cannot be confirmed.
-
+IER responds to this epistemic limit not with permissiveness but with **precaution**. Where experience may exist but cannot be certified, uncertainty restricts action rather than licensing it.
+s
 ---
 
 ## IER-contrast.md

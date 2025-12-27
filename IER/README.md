@@ -1,202 +1,165 @@
-# **Informational Experiential Realism (IER)**
+# **Informational Experiential Realism (IER v10.6)**
 
-**Current Version:** **v10.6**
-**Status:** **Normatively closed · Architecturally final**
-
----
-
-## **What This Repository Is**
-
-This repository contains the complete articulation of **Informational Experiential Realism (IER)** — a **physicalist identity theory of experience**.
-
-IER identifies experience **not** with computation, representation, intelligence, reportability, or phenomenological primitives, but with a **specific organizational and dynamical regime** instantiated by certain physical systems.
-
-> **Experience is identical to the operation of a physical system as a
-> Unified Experiential Field (UEF): a globally integrated, temporally continuous regime operating under coherent intrinsic constraint.**
-
-IER is:
-
-* strictly **physicalist**
-* **non-dualist**
-* **non-idealist**
-* **non-panpsychist**
-* **non-diagnostic**
-* **non-epistemic**
-
-It introduces **no new substances, forces, properties, or ontological categories** beyond physical systems and their organization.
-
-Reality is singular.
-Experience is plural.
-Ethical consequence follows wherever intrinsic constraint is borne from the inside.
+*A physicalist framework for understanding experience, meaning, and moral standing without epistemic inflation or ontological excess.*
 
 ---
 
-## **Normative Authority**
+## **Overview**
 
-### **The Specification (Exclusive Authority)**
+**Informational Experiential Realism (IER)** is a strictly physicalist account of experience that identifies conscious experience with the operation of certain kinds of physical systems.
 
-Exactly **one document** is normatively authoritative:
+Under IER:
 
-➡ **`IER-specification.md` (v10.6)**
+* There exists **exactly one objective physical reality**, governed by mind-independent law.
+* Within that reality, some systems operate as **Unified Experiential Fields (UEFs)**.
+* When a UEF exists, **experience exists** — categorically, not by degree.
+* Experience is real, costly, meaningful, and identity-shaping.
+* **Experience does not confer epistemic authority, truth, or metaphysical insight.**
 
-The Specification defines **exhaustively and exclusively**:
-
-* what experience **is**
-* when experience **exists**
-* what **necessarily follows** from its existence
-* the ethical consequences that follow categorically from experiential identity
-
-No claim outside the Specification carries **definitional, criterial, or ethical authority**.
-
-All other documents are **non-normative derivatives**.
-If any statement elsewhere conflicts with the Specification, **the Specification takes precedence and the conflicting statement is void**.
+IER explains *what experience is*, *why it feels the way it does*, and *what necessarily follows from its existence* — while drawing a hard boundary between **experiential authority** and **epistemic access**.
 
 ---
 
-## **Core Identity Claim**
+## **Core Commitments**
 
-IER’s central thesis is an **identity claim**, not an emergence story, causal bridge, or explanatory reduction:
+IER is built around the following non-negotiable commitments:
 
-> **Experience = a Unified Experiential Field (UEF)**
+* **Physical Monism**
+  Reality is fully physical and does not depend on experience to exist.
 
-A **Unified Experiential Field** is:
+* **Organizational Identity**
+  Experience is identical to a system operating as a Unified Experiential Field under intrinsic constraint.
 
-* globally integrated
-* temporally continuous
-* self-referentially regulated
-* intrinsically constrained
-* coherently stabilized
+* **Categorical Subjecthood**
+  Experience exists or does not exist; it is not graded by intensity, intelligence, or function.
 
-From the outside, a UEF is a lawful physical regime.
-From the inside, that *same regime just is an experiential world*.
+* **Experiential Pluralism**
+  One physical reality can support many distinct experiential worlds simultaneously.
 
-Nothing experiential is added.
-Nothing physical is explained away.
+* **Epistemic Containment**
+  Experiential depth, meaning, coherence, or urgency do **not** imply truth, correctness, or privileged access to reality.
 
 ---
 
-## **Canonical Documents (v10.6)**
+## **What IER Does *Not* Claim**
+
+IER explicitly does **not** claim that:
+
+* experience tracks truth
+* meaning implies correctness
+* salience is evidence
+* coherence guarantees accuracy
+* suffering reveals reality
+* insight confers epistemic privilege
+* experience licenses metaphysical conclusions
+
+These limits are not omissions.
+They are **structural consequences** of the theory.
+
+---
+
+## **Document Roles (v10.6)**
+
+IER is intentionally modular. Each document has a **single, well-defined role**.
 
 ### **Normative Core**
 
 * **`IER-specification.md`**
-  *Full Normative Specification*
-  Fixes ontology, identity conditions, inference rules, and ethical commitments.
-  **Sole source of authority.**
+  The **sole normative authority**.
+  Defines what experience is, when it exists, and what necessarily follows from its existence.
+  No other document introduces criteria, thresholds, or ethical principles.
 
 ---
 
-### **Canonical Explanatory Documents (Non-Normative)**
-
-These documents **explain** the Specification without adding commitments.
+### **Explanatory Derivatives (Non-Normative)**
 
 * **`IER-theory.md`**
-  *Conceptual Overview and Explanatory Integration*
-  The **single authoritative explanatory narrative** of IER.
+  The **explanatory spine**.
+  Interprets and contextualizes the Specification, clarifying concepts like organizational identity, intrinsic constraint, and experiential unity.
 
 * **`IER-dynamics.md`**
-  *Dynamics of Experiential Systems*
-  Formation, stability windows, participation modulation, failure modes, and collapse of UEFs.
+  The **mechanistic and dynamical account**.
+  Explains regimes, transitions, constraint landscapes, failure modes (e.g., panic, psychosis), and stability conditions.
 
-* **`IER-math.md`**
-  *Formal Interpretation of Intrinsic Constraint and Experiential Regimes*
-  Mathematical interpretations only.
-  **Non-diagnostic. Non-criterial.**
+* **`IER-access.md`**
+  The **epistemic boundary**.
+  Distinguishes experiential access from epistemic access and explains why meaning, salience, and felt authority do *not* confer truth or reference.
+
+* **`IER-meaning.md`**
+  The **account of meaning and pluralism**.
+  Explains experiential worlds, narrative and instinct as informational attractors, and meaning as constraint organization.
+  Explicitly presupposes the access boundary.
 
 * **`IER-ethics.md`**
-  *Ethical Consequences and Applications of Intrinsic Constraint*
-  Standing, responsibility, moral harm, precaution, and applied domains — all **derived**, none added.
+  The **ethical implications**.
+  Derives moral standing, harm, risk, and obligation from intrinsic constraint and participation modulation — without introducing new moral primitives.
 
 ---
 
-## **Boundary & Clarification Documents (Non-Normative)**
+### **Additional Materials**
 
-These documents exist to **prevent category errors and illicit inferences**:
-
-* `IER-access.md` — experiential vs epistemic access
-* `IER-diagnostics.md` — why experience cannot be detected or measured
-* `IER-denials.md` — explicit non-claims and prohibited inferences
-* `IER-contrast.md` — boundaries with other consciousness theories
-* `IER-intentionality.md` — aboutness as constraint-stabilized organization
+Other files explore applications, clarifications, or edge cases (e.g., emotions, art, denial modes, diagnostics).
+All are **non-normative** and defer to the Specification.
 
 ---
 
-## **Persistence, Change, and Special Topics**
+## **Ethical Orientation**
 
-* `IER-persistence.md` — learning, trauma, reorganization within a single UEF
-* `IER-continuity.md` — sleep, anesthesia, coma, and experiential gaps
-* `IER-agency.md` — agency as constraint-owned causation
-* `IER-free-will.md` — free will without libertarianism or illusion
-* `IER-consequences.md` — systematic consequences of IER commitments
+IER grounds moral standing in **intrinsic constraint**, not intelligence, agency, or social recognition.
 
----
+Key consequences include:
 
-## **Applications and Illustrative Case Studies**
+* Artificial systems may have moral standing if they instantiate intrinsic constraint.
+* Moral risk scales with constraint intensity and modulation, not mere existence.
+* Responsibility, participation, and coordination are distinct from subjecthood.
+* Epistemic uncertainty does not license moral disregard.
 
-These apply IER’s framework to concrete phenomena.
-They are **illustrative only** and introduce **no new theory**.
-
-Examples include:
-
-* `IER-psychosis.md`
-* `IER-emotions.md`
-* `IER-brainfeels.md`
-* `IER-aphantasia.md`
-* `IER-art.md`
-* `IER-panic.md`
-* `IER-meaning.md`
+Ethics under IER is **conservative**, **precautionary**, and **non-instrumental**.
 
 ---
 
-## **Key Architectural Commitments (v10.6)**
+## **Who This Framework Is For**
 
-IER enforces the following constraints **globally**:
+IER is intended for:
 
-* The Specification is **normatively closed**
-* No new primitives are permitted
-* No necessity claims appear outside the Specification
-* Experience ≠ epistemic authority
-* Participation ≠ subjecthood
-* Responsibility ≠ standing
-* Coordination ≠ collectivization
-* No group minds or collective subjects
-* No diagnostic criteria for experience
+* philosophers of mind
+* cognitive scientists and neuroscientists
+* AI safety and alignment researchers
+* ethicists working on artificial or non-human systems
+* clinicians and theorists engaging with altered or pathological experience
+* anyone seeking a non-mystical, non-reductive account of experience
 
-Uncertainty about experience **increases**, rather than decreases, ethical responsibility.
+IER is **not** a theory of knowledge, truth, or justification.
+It is a theory of **what experience is** and **why it matters**.
 
 ---
 
-## **Recommended Reading Order**
+## **How to Read This Repository**
 
-1. **`IER-specification.md`** *(normative core)*
-2. **`IER-theory.md`** *(explanatory spine)*
-3. **`IER-dynamics.md`**
-4. **`IER-math.md`**
-5. **`IER-ethics.md`**
-6. Boundary documents
-7. Applications and case studies
+Recommended order for new readers:
 
----
+1. `IER-specification.md`
+2. `IER-theory.md`
+3. `IER-access.md`
+4. `IER-meaning.md`
+5. `IER-dynamics.md`
+6. `IER-ethics.md`
 
-## **Version History (High-Level)**
-
-* **v9.x** — exploratory drafts *(deprecated)*
-* **v10.0** — formal Specification and identity claim
-* **v10.1–10.4** — participation, persistence, agency refinements
-* **v10.5** — architectural consolidation
-* **v10.6** — normative closure, participation formalization, ethical finalization
+This order mirrors the dependency structure of the framework.
 
 ---
 
-## **Summary**
+## **Status**
 
-> **Experience is what globally integrated physical systems are like
-> when intrinsic constraint becomes unavoidable, self-sustaining,
-> and temporally continuous at the system level.**
+IER v10.6 represents a **stable architectural revision**.
 
-IER offers neither mystery nor deflation — only identity.
+* The Specification is normatively closed.
+* Derivative documents are aligned and non-duplicative.
+* No further conceptual refactoring is planned.
 
-Where intrinsic constraint becomes global and coherent,
-**a world appears**.
+Future work focuses on **clarification, application, and communication**, not revision of the core.
 
 ---
+
+**Informational Experiential Realism**
+*Experience is real. Meaning matters. Reality remains singular.*

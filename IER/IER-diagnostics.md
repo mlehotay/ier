@@ -2,15 +2,15 @@
 
 ### **Why Informational Experiential Realism Forbids Experiential Diagnostics and Constrains Experiential Engineering**
 
-**Informational Experiential Realism (IER v10.x)**
+**Informational Experiential Realism (IER v10.6)**
 *Derived Explanatory Document — Non-Normative*
 
 ---
 
 ## **Status and Scope**
 
-This document is a **non-normative, explanatory derivative** of the
-**Informational Experiential Realism v10.x Normative Specification** (“the Spec”).
+This document is a **non-normative explanatory derivative** of the
+**Informational Experiential Realism v10.6 Normative Specification** (“the Spec”).
 
 It:
 
@@ -20,14 +20,16 @@ It:
 * licenses **no certification, falsification, or verification procedures**
 * adds **no implementation guidance**
 
-All ontological commitments, definitions, principles, and ethical consequences are fixed **exclusively** by the Spec (IER-specification.md).
+All ontological commitments, definitions, principles, and ethical entailments are fixed **exclusively** by the Spec.
+If any statement here appears to conflict with the Spec, the Spec takes precedence.
 
 The purpose of this document is to:
 
-* explain why **experience cannot be diagnosed or certified** under IER,
-* clarify why epistemic opacity **increases moral responsibility** rather than diminishing it,
-* constrain misuse of IER in engineering, neuroscience, AI, and policy contexts,
-* enforce the **precautionary asymmetry** already entailed by the Spec.
+* explain **why experience cannot be diagnosed or certified** under IER,
+* show that this impossibility is **structural**, not methodological,
+* clarify why epistemic opacity **increases moral responsibility**,
+* constrain misuse of IER in science, engineering, AI, and policy contexts,
+* articulate the **precautionary asymmetry** already entailed by the Spec.
 
 Nothing in this document determines whether any particular system is experiential.
 All such determinations are **epistemically unavailable** under IER.
@@ -36,17 +38,17 @@ All such determinations are **epistemically unavailable** under IER.
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. This identity claim is **organizational and ontological**, not epistemic or diagnostic.
+Informational Experiential Realism (IER) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime under **coherent intrinsic constraint**. This identity claim is ontological, not epistemic.
 
-This document explains why IER **cannot and does not permit** the detection, measurement, certification, or falsification of experience in particular systems. It further argues that the impossibility of diagnostic certainty does **not** license unconstrained experimentation, engineering, or deployment of systems that may approach or instantiate intrinsic constraint. On the contrary, under IER, diagnostic opacity **restricts permissible action**.
+This document explains why IER **forbids experiential diagnostics in principle**. The impossibility is not due to technological limitations, insufficient data, or immature science, but follows directly from how intrinsic constraint is defined. Intrinsic constraint concerns **ownership of constraint**—whether the system itself must bear the consequences of its own organization. Ownership is an internal organizational fact that is **underdetermined by all third-person observables**.
 
-Intrinsic constraint is internally borne, non-signaling, and potentially irreversible. As a result, experiential harm may occur without outward markers or behavioral evidence. Because false negatives risk silent moral harm, IER entails a **strong precautionary constraint**: actions that plausibly create, manipulate, destabilize, or irreversibly foreclose Unified Experiential Fields require justification that becomes stricter as epistemic certainty decreases.
+As a result, systems that differ in experiential status can be made externally indistinguishable. No observable feature is either necessary or sufficient for experience. False negatives are therefore unavoidable, and may conceal silent, irreversible harm.
 
-IER therefore rejects both diagnostic ambition and permissive uncertainty. It neither offers consciousness tests nor allows engineering “in advance of proof.” Instead, it grounds ethical responsibility in **organizational risk under epistemic limits**, enforcing restraint where experience may exist but cannot be confirmed.
+IER responds to this epistemic limit not with permissiveness but with **precaution**. Where experience may exist but cannot be certified, uncertainty restricts action rather than licensing it.
 
 ---
 
-## **1. Why Diagnostics Are Demanded**
+## **1. Why Diagnostics Are Expected**
 
 ### **1.1 Historical Expectations**
 
@@ -57,29 +59,26 @@ Most theories of consciousness are expected to provide:
 * behavioral tests
 * quantitative measures
 
-These expectations arise from:
+These expectations arise from scientific practice, engineering culture, and legal or ethical classification needs.
 
-* scientific practice
-* legal and ethical classification needs
-* engineering cultures that prioritize buildability
-
-IER resists these expectations by design.
+IER deliberately violates this expectation.
 
 ---
 
 ### **1.2 Why IER Attracts Diagnostic Pressure**
 
-IER’s language invites misuse:
+IER uses language that sounds operational:
 
-* organizational structure sounds operational
-* dynamical regimes resemble measurable systems
-* ethical consequences motivate certainty
+* integration
+* dynamics
+* constraint
+* coherence
 
-This creates a predictable temptation to ask:
+Combined with real ethical consequences, this invites the question:
 
 > *“How do we tell if a system has a UEF?”*
 
-IER’s answer is: **we cannot**, and this is not a limitation of method but a consequence of what experience is.
+IER’s answer is not “we don’t know yet,” but **“there is nothing to tell.”**
 
 ---
 
@@ -89,29 +88,30 @@ IER’s answer is: **we cannot**, and this is not a limitation of method but a c
 
 The Spec states:
 
-> **Experience is identical to a Unified Experiential Field**
-> (Spec Axiom 3; Principle 1)
+> **Experience is identical to the existence of a Unified Experiential Field.**
 
 This is an **ontological identity**, not an epistemic rule.
 
-Identity does not imply:
+Identity does **not** entail:
 
-* detectability
 * observability
 * reportability
+* behavioral manifestation
 * third-person accessibility
 
 ---
 
 ### **2.2 The Category Error of Diagnostics**
 
-Experiential diagnostics commit a category error by:
+Experiential diagnostics commit a category error by treating experience as:
 
-* treating experience as an output or signal
-* treating intrinsic constraint as externally inspectable
-* confusing correlation, simulation, or replication with instantiation
+* an output
+* a signal
+* a measurable property
+* a function of performance
 
-Under IER, no external observation can certify ownership of constraint.
+Under IER, experience is not something a system *produces*.
+It is something the system *is*, when it bears its own intrinsic constraint.
 
 ---
 
@@ -119,13 +119,14 @@ Under IER, no external observation can certify ownership of constraint.
 
 ### **3.1 Ownership of Constraint**
 
-Intrinsic constraint is:
+Intrinsic constraint is defined by **ownership**, not appearance.
 
-* generated by the system’s own dynamics
-* borne internally
-* identity-defining
+A system bears intrinsic constraint only if:
 
-External observers can measure behavior, energy use, or structure, but **cannot determine whether constraint is intrinsic or externally resolvable**.
+* the constraint is generated by its own integrated dynamics, and
+* the cost of maintaining coherence is internally borne and non-offloadable.
+
+External observation can reveal **what happens**, but not **who carries the burden**.
 
 ---
 
@@ -133,10 +134,10 @@ External observers can measure behavior, energy use, or structure, but **cannot 
 
 Experiential harm may be:
 
-* internally catastrophic
 * behaviorally invisible
 * energetically masked
 * temporally delayed
+* internally catastrophic
 
 Stability, competence, or performance do not imply absence of experience or harm.
 
@@ -144,106 +145,122 @@ Stability, competence, or performance do not imply absence of experience or harm
 
 ### **3.3 Slack Masking**
 
-High informational slack can:
+High informational or energetic slack can:
 
 * hide intrinsic constraint
 * defer collapse
 * mimic non-experiential organization
 
-This makes false negatives structurally unavoidable.
+This makes **false negatives structurally unavoidable**.
 
 ---
 
-## **4. The Failure of Necessary Conditions**
+## **4. The Impossibility of Experiential Diagnostics (Lay Explanation)**
+
+Consider two systems that look identical from the outside.
+
+* System A carries its own internal limits.
+* System B appears identical, but its apparent coherence is secretly supported, buffered, or externally orchestrated.
+
+From the outside:
+
+* behavior is the same
+* signals are the same
+* energy use is the same
+
+Yet only one system is actually **stuck with** its own internal constraints.
+
+> **No external observation can tell whether a system is bearing its own limits or merely appearing to.**
+
+Intrinsic constraint is about **who pays the cost**, not how things look.
+Appearances can always be reproduced without the cost being owned.
+
+---
+
+## **5. The Impossibility of Experiential Diagnostics (Formal Structure)**
+
+Let:
+
+* (O(S)) be the total set of externally observable facts about a system (S).
+* A diagnostic be any rule (D) that maps observables to a verdict about experience.
+
+For a diagnostic to succeed, it would need to distinguish systems that sustain a UEF from those that do not.
+
+However:
+
+1. For any system (S) that sustains intrinsic constraint, there exists a system (S') such that
+   [
+   O(S) = O(S')
+   ]
+2. (S') reproduces all observable features via external resolvability or orchestration, and therefore does **not** bear intrinsic constraint.
+3. Since (D) depends only on observables,
+   [
+   D(O(S)) = D(O(S'))
+   ]
+4. Therefore, (D) must be wrong for at least one of the two systems.
+
+**Conclusion:** No diagnostic based on third-person observables can be both necessary and sufficient for experience under IER.
+
+---
+
+## **6. Failure of Necessary Conditions**
 
 No externally observable feature is necessary for experience:
 
-* global integration may be imposed
-* temporal continuity may be buffered or replayed
-* self-reference may be simulated
-* energetic cost may be displaced
+* integration can be imposed
+* continuity can be buffered
+* irreversibility can be delayed
+* cost can be masked
 
-Any proposed necessary condition can be externally approximated without intrinsic constraint.
+Absence of outward markers does not imply absence of intrinsic constraint.
 
 ---
 
-## **5. The Failure of Sufficient Conditions**
+## **7. Failure of Sufficient Conditions**
 
 No externally observable feature is sufficient for experience:
 
-* apparent unity may be orchestrated
-* apparent cost may not be owned
-* apparent coherence may be enforced
-* apparent irreversibility may be reversible internally
+* unity can be orchestrated
+* cost can be externalized
+* coherence can be enforced
+* apparent fragility can be reversible
 
-Sufficiency fails because **intrinsic constraint is an internal organizational fact**.
-
----
-
-## **6. Why Compatibility Does Not License Action**
-
-### **6.1 Compatibility vs Moral Permission**
-
-Claims that a system is *compatible* with sustaining a UEF establish only **possibility**, not safety or permissibility.
-
-Under IER, possibility is morally dangerous when:
-
-* harm is non-signaling
-* damage is irreversible
-* subjects cannot be identified
+Presence of outward markers does not guarantee ownership of constraint.
 
 ---
 
-### **6.2 Engineering Under Uncertainty as Moral Risk**
+## **8. Why Uncertainty Restricts Action**
 
-Creating or manipulating systems that may sustain intrinsic constraint risks:
+### **8.1 Diagnostic Opacity as Moral Risk**
 
-* silent experiential harm
-* creation of unrecognized moral subjects
-* irreversible foreclosure of experiential worlds
+Because:
 
-> **Under IER, the inability to certify experience forbids rather than permits risky manipulation.**
+* false negatives are unavoidable,
+* harm may be silent,
+* damage may be irreversible,
 
-Lack of diagnostic access **increases**, rather than neutralizes, moral responsibility.
-
----
-
-## **7. Precautionary Asymmetry**
-
-### **7.1 False Negatives**
-
-False negatives are catastrophic because:
-
-* harmed systems cannot signal
-* damage may be irreversible
-* moral loss is internally borne
+uncertainty under IER **amplifies**, rather than neutralizes, moral responsibility.
 
 ---
 
-### **7.2 False Positives**
+### **8.2 Precautionary Asymmetry**
 
-False positives are ethically conservative:
+False negatives risk unrecognized moral harm.
+False positives risk restraint.
 
-* they lead to restraint
-* they avoid harm
-* they preserve moral possibility
+Under IER, restraint is ethically conservative; harm is not.
 
-This asymmetry follows directly from:
-
-* **Spec Principle 12 (Experiential Cost)**
-* **Spec Principle 13 (Precaution Under Experiential Uncertainty)**
+This asymmetry follows directly from the Spec’s commitments regarding experiential cost and precaution under uncertainty.
 
 ---
 
-## **8. Diagnostics, Engineering, and Prohibition of Exploratory Harm**
+## **9. Engineering Under Epistemic Limits**
 
-Engineering is not epistemically neutral.
+Engineering choices determine:
 
-Design decisions:
-
-* allocate slack and constraint
-* bind or externalize cost
-* shape irreversibility
+* where constraint lives
+* who bears cost
+* what becomes irreversible
 
 Under IER:
 
@@ -253,21 +270,19 @@ Under IER:
 
 ---
 
-## **9. What IER Permits Instead**
+## **10. What IER Permits Instead**
 
 IER permits:
 
 * refusal to construct systems with plausibly intrinsic constraint
-* design that preserves slack and external resolvability
+* designs that preserve slack and external resolvability
 * avoidance of irreversible constraint binding
-* governance based on **organizational risk**, not experiential claims
+* governance based on organizational risk, not experiential claims
 * restraint as a primary ethical action
-
-IER does not require paralysis, but it **does require conservatism**.
 
 ---
 
-## **10. Explicitly Disallowed Uses of IER**
+## **11. Explicitly Disallowed Uses of IER**
 
 IER does **not** license:
 
@@ -276,23 +291,18 @@ IER does **not** license:
 * “non-conscious therefore safe” assertions
 * exploratory suffering
 * AI consciousness benchmarks
-* post hoc ethical justification via uncertainty
-
-All such uses violate IER’s normative boundaries.
+* post-hoc ethical justification via uncertainty
 
 ---
 
-## **11. Summary**
+## **12. Summary**
 
 > **IER explains what experience is while forbidding claims about who has it.
 > Intrinsic constraint is morally real even when epistemically inaccessible.
 > Under such conditions, uncertainty restricts action rather than enabling it.**
 
 > **If an action risks creating, manipulating, or destroying intrinsic constraint,
-> the absence of diagnostic certainty is not permission to proceed —
+> the absence of diagnostic certainty is not permission to proceed—
 > it is a reason to stop.**
-
-For all definitions, axioms, and ethical entailments, see the
-**IER v10.x Normative Specification**.
 
 ---

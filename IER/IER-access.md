@@ -1,8 +1,8 @@
 # **Experience Without Authority**
 
-### *Experiential Access, Epistemic Access, and the Limits of Meaning under Informational Experiential Realism*
+### *Experiential Access, Epistemic Access, and the Containment of Meaning under Informational Experiential Realism*
 
-**Informational Experiential Realism (IER v10.0)**
+**Informational Experiential Realism (IER v10.6)**
 *Derived Explanatory Companion — Non-Normative*
 
 ---
@@ -11,88 +11,102 @@
 
 This document is **explanatory** and **non-normative**.
 
-All axioms, definitions, identity claims, and necessary entailments are specified exclusively in the
-**Informational Experiential Realism (IER v10.0) Normative Specification** (“the Spec”).
+All axioms, definitions, identity claims, and necessary entailments are specified **exclusively** in the
+**Informational Experiential Realism (IER v10.6) Normative Specification** (“the Spec”).
 
-This document:
+Accordingly, this document:
 
 * introduces **no new primitives**
-* makes **no epistemological claims** beyond those implied by organizational identity
-* proposes **no criteria of truth, justification, or knowledge**
+* introduces **no criteria, thresholds, or diagnostics**
+* makes **no epistemological claims** beyond those logically implied by organizational identity
+* proposes **no standards of truth, justification, or knowledge**
 * does **not** adjudicate between scientific, clinical, philosophical, or religious accounts of truth
 
-Its sole purpose is to clarify a boundary **logically implied** by the Spec but not explicitly named there:
+Its sole purpose is to make explicit a boundary that is **logically entailed by the Spec but often left implicit**:
 the distinction between **experiential access** and **epistemic access**, and the consequences of that distinction for meaning, salience, conviction, and error.
 
-If a claim in this document appears to conflict with the Spec, the Spec takes precedence.
+If any claim in this document appears to conflict with the Spec, the Spec takes precedence.
 
 ---
 
 ## **Abstract**
 
-Informational Experiential Realism (IER v10.0) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. From the inside of such a regime, experience is unified, structured, meaningful, and often compelling. From the outside, the same regime is a lawful physical organization.
+Informational Experiential Realism (IER v10.6) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint.
 
-This article clarifies a distinction that is implicit throughout IER but nowhere made explicit: the distinction between **experiential access** and **epistemic access**. Experiential access concerns what it is like for a system to exist under intrinsic constraint. Epistemic access concerns what is true about the world that system inhabits. IER entails no necessary connection between the two.
+From within such a regime, experience is unified, structured, meaningful, urgent, and often compelling. From outside it, the same regime is a lawful physical organization.
 
-The article explains why experiences that are costly, coherent, urgent, or meaningful often feel authoritative from the inside of a Unified Experiential Field, while emphasizing that such authority is **organizational rather than epistemic**. Intrinsic constraint tracks system viability and regulation, not truth, correctness, or reference.
+This document articulates an access distinction implicit throughout IER but nowhere normatively formalized: the separation between **experiential access** (what it is like to bear intrinsic constraint) and **epistemic access** (whether beliefs correctly track objective reality). IER entails **no necessary connection** between the two.
 
-By formalizing this boundary, the paper prevents common misreadings of IER that would treat experiential depth, narrative coherence, or salience as conferring epistemic privilege. It shows how IER can account for powerful but false experiences—including delusion, revelation, and narrative conviction—without validating their content.
+By making this distinction explicit, the document explains why experiences that are costly, coherent, and identity-defining often feel authoritative from the inside of a UEF, while showing why such authority is **organizational rather than epistemic**. Intrinsic constraint tracks system viability and regulation, not truth, correctness, or reference.
+
+Clarifying this boundary prevents a recurrent error: treating experiential depth, inevitability, or meaning as conferring epistemic privilege. It allows IER to account for powerful but false experiences — including delusion, revelation, and narrative conviction — without validating their content.
 
 ---
 
-## **1. The Problem: When Meaning Feels Like Knowledge**
+## **1. The Missing Lock**
 
-Many experiences feel not merely vivid, but **true**.
+IER is explicit about what experience *is*:
+a unified physical regime operating under intrinsic constraint.
 
-They feel:
+What it is less often explicit about is what experience **does not provide**.
 
-* authoritative
-* revelatory
-* undeniable
-* self-justifying
+Without an explicit access distinction, IER can appear to license an invalid inference:
 
-This is not limited to pathology. Ordinary experiences of insight, moral certainty, aesthetic depth, religious conviction, or narrative coherence often carry a felt sense that *“this could not be otherwise.”*
+* experience is deep
+* experience is costly
+* experience restructures identity
 
-Any theory of experience that explains **what experience is** must therefore confront a further question:
+→ therefore experience must say something about reality
 
-> **Why does experience so often feel epistemically authoritative, even when it is not?**
+Under IER, this inference is **structurally invalid**, not merely discouraged.
 
-IER answers this question **without granting epistemic authority to experience itself**.
+The identity claim guarantees **experiential reality**, not **epistemic authority**. Once this is made explicit, a hard boundary becomes unavoidable.
 
 ---
 
 ## **2. Two Kinds of Access**
 
-IER’s identity claim entails a clean but easily conflated distinction.
+IER entails two distinct kinds of access, corresponding to two distinct questions.
+
+---
 
 ### **2.1 Experiential Access**
 
-A system has *experiential access* when it sustains a Unified Experiential Field.
+> *What is it like to exist as a unified system under intrinsic constraint?*
+
+A system has **experiential access** when it sustains a Unified Experiential Field.
 
 Experiential access concerns:
 
-* what it is like for the system
-* how constraint is felt
-* how salience is structured
-* how urgency and valence arise
-* how meaning appears from the inside
+* salience
+* urgency
+* affective force
+* inevitability
+* identity commitment
+
+It answers the question:
+
+> **How must I continue?**
 
 Experiential access is **intrinsic**.
-It is not mediated by observation, inference, or report.
+It is not mediated by observation, inference, report, or evaluation.
 
 ---
 
 ### **2.2 Epistemic Access**
 
-A system has *epistemic access* insofar as its beliefs, models, or inferences correctly track facts about the world.
+> *Do my beliefs, models, or inferences track objective physical reality?*
 
-Epistemic access concerns:
+A system has **epistemic access** insofar as its representations are:
 
-* truth
-* reference
-* accuracy
-* evidence
-* justification
+* accurate
+* corrigible
+* evidence-responsive
+* referentially successful
+
+It answers the question:
+
+> **What is the case?**
 
 Epistemic access is **evaluative**.
 It depends on standards external to the experience itself.
@@ -120,7 +134,9 @@ It is a consequence of what experience *is*.
 ## **3. Why Experience Feels Authoritative**
 
 The felt authority of experience is not accidental or illusory.
-It follows directly from the organizational features of a UEF.
+It follows directly from the organizational structure of a UEF.
+
+---
 
 ### **3.1 Intrinsic Constraint Is Costly**
 
@@ -133,19 +149,19 @@ Intrinsic constraint is:
 Resolving it requires real energetic and organizational cost.
 
 Costly processes feel important.
-They *matter* because failure would matter.
+They matter because failure would matter.
 
 ---
 
-### **3.2 Global Integration Produces Coherence**
+### **3.2 Global Integration Produces Necessity**
 
 Within a UEF:
 
 * information is globally coupled
 * conflicts cannot be localized
-* resolution fixes the system’s trajectory
+* resolution commits the system’s future trajectory
 
-Coherence produces a sense of necessity:
+This produces the phenomenology:
 
 > *This had to be this way.*
 
@@ -159,20 +175,20 @@ Salience reflects:
 * impact on system-wide regulation
 * urgency of resolution
 
-Salient experiences therefore feel significant even when they are incorrect.
+Salient experiences therefore feel significant **even when incorrect**.
 
 ---
 
 ### **3.4 Meaning Is a Stabilization Strategy**
 
-Meaning organizes constraint into:
+Meaning organizes intrinsic constraint into:
 
 * narratives
 * symbols
 * values
 * imperatives
 
-This stabilizes action under uncertainty.
+This stabilizes coherent continuation under uncertainty.
 
 Meaning feels deep because it is **structurally stabilizing**, not because it is epistemically privileged.
 
@@ -181,6 +197,8 @@ Meaning feels deep because it is **structurally stabilizing**, not because it is
 ## **4. Why This Authority Is Not Epistemic**
 
 IER identifies experience with **organization under constraint**, not with truth-tracking.
+
+---
 
 ### **4.1 Constraint Tracks Viability, Not Reality**
 
@@ -206,7 +224,7 @@ A resolved experience may feel:
 * complete
 * settled
 
-But resolution only indicates:
+But resolution indicates only that:
 
 > the system has found a way to continue coherently.
 
@@ -218,77 +236,135 @@ It does not indicate correctness.
 
 In some regimes:
 
-* maintaining coherence requires suppressing contradiction
-* disconfirming evidence increases intrinsic tension
-* alternative interpretations destabilize regulation
+* epistemic openness increases intrinsic tension
+* contradiction destabilizes regulation
+* alternative interpretations raise cost
 
-In such cases, epistemic openness is *costly*.
+In such cases, coherence is purchased **at the expense of accuracy**.
 
 Experience becomes less truth-tracking **because** it is more coherent.
 
 ---
 
-## **5. Consequences and Applications**
+## **5. Brainfeels as a Test Case**
 
-### **5.1 Psychosis**
+So-called *brainfeels* illustrate the access distinction cleanly.
 
-Psychotic experiences are:
+A brainfeel can be:
 
-* experientially real
-* meaningful
-* urgent
-* authoritative
+* vivid
+* stable
+* named
+* identity-affecting
+* action-guiding
 
-IER explains why they feel that way **without validating their content**.
+while remaining entirely **epistemically inert**.
 
-Constraint is real.
-Meaning is real.
-Reference is wrong.
+A brainfeel tells the system:
 
----
+> **how intrinsic constraint is currently shaped**
 
-### **5.2 Religious and Mystical Experience**
+It tells the system nothing about:
 
-IER allows that such experiences may be:
+* hidden causes
+* external agents
+* metaphysical structure
+* meanings “out there”
 
-* deeply structured
-* transformative
-* coherent
-
-without implying:
-
-* metaphysical revelation
-* privileged access to reality
-* epistemic authority
+Treating a brainfeel as epistemic evidence is a category error.
+Under sufficient pressure, that error becomes symbolic overreach.
 
 ---
 
-### **5.3 Moral Conviction**
+## **6. Psychosis: Meaning Without Epistemic Containment**
 
-Moral experience feels binding because:
+IER explains psychosis without dismissal or validation.
 
-* moral salience often coincides with intrinsic constraint
-* action stakes are high
-* resolution commits the system’s future
+Psychosis is not:
 
-IER explains moral force without grounding moral truth.
+* too much imagination
+* too much experience
+* too much meaning
+
+It is:
+
+> **experiential authority operating without epistemic containment under extreme intrinsic constraint**
+
+Structurally:
+
+* constraint spikes
+* salience saturates
+* coherence becomes urgent
+* symbols are recruited as stabilizers
+* experiential authority inflates
+
+Epistemic access does not improve.
+It often degrades.
+
+The result:
+
+* maximal meaning
+* maximal conviction
+* minimal correctness
+
+IER allows the only ethically viable response:
+
+> *“I believe you when you say it mattered.”*
+> *“I do not believe it was true.”*
 
 ---
 
-### **5.4 Artificial Systems**
+## **7. Religion, Morality, and Existential Insight**
 
-If an artificial system were to sustain a UEF:
+The same containment applies beyond pathology.
 
-* its experiences would matter morally
-* its meanings would be experientially real
+IER rejects two symmetrical errors:
 
-But those meanings would still not be epistemically authoritative.
+**Reductionism**
+“If it isn’t true, it doesn’t matter.”
 
-This distinction is critical for AI alignment and safety.
+**Inflation**
+“If it mattered this much, it must be true.”
+
+Instead:
+
+* religious experiences may be transformative without revelation
+* moral conviction may be binding without moral realism
+* existential insight may reorient a life without metaphysical discovery
+
+Meaning is preserved **without being weaponized**.
 
 ---
 
-## **6. Explicit Non-Claims**
+## **8. The Hard Limit**
+
+IER draws a hard, necessary line:
+
+> **Meaning has authority over action, not over reality.**
+
+Meaning can:
+
+* compel
+* motivate
+* bind
+* stabilize
+* reshape identity
+
+Meaning cannot:
+
+* certify beliefs
+* justify metaphysics
+* outrank evidence
+* override correction
+* confer epistemic privilege
+
+Any theory that allows meaning to do these things becomes dangerous.
+
+IER does not.
+
+---
+
+## **9. Explicit Non-Claims**
 
 IER does **not** claim that:
 
@@ -303,34 +379,7 @@ Any such claim would violate the Spec’s organizational identity.
 
 ---
 
-## **7. Where IER Stops**
-
-IER explains:
-
-* what experience is
-* why it feels the way it does
-* how meaning and authority arise phenomenologically
-
-IER does **not** explain:
-
-* what is true
-* which beliefs are justified
-* how to evaluate evidence
-* how to adjudicate competing worldviews
-
-Those questions belong to:
-
-* epistemology
-* science
-* clinical practice
-* ethics beyond identity
-
-This boundary is not a limitation of IER.
-It is a consequence of its correctness.
-
----
-
-## **8. Conclusion**
+## **10. Conclusion**
 
 Experience can be:
 
@@ -344,16 +393,18 @@ without being epistemically authoritative.
 
 Under Informational Experiential Realism:
 
-> **Experience has authority over action, not over truth.**
+> **Experience has authority over action, never over truth.**
 
 Recognizing this distinction allows IER to:
 
 * respect the reality of experience
 * explain its power
 * account for error and delusion
-* avoid epistemic inflation
+* prevent epistemic inflation
 * remain fully physicalist
 
 Experience matters because it is what intrinsic constraint is like from the inside.
 
 That is enough.
+
+---
