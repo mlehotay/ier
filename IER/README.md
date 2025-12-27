@@ -1,17 +1,18 @@
 # **Informational Experiential Realism (IER)**
 
-**Version:** **v10.5**  
-**Status:** **Normatively closed; explanatorily extensible**  
+**Current Version:** **v10.6**
+**Status:** **Normatively closed · Architecturally final**
 
 ---
 
 ## **What This Repository Is**
 
-This repository contains the complete formal articulation of **Informational Experiential Realism (IER)** — a **physicalist identity theory of experience**.
+This repository contains the complete articulation of **Informational Experiential Realism (IER)** — a **physicalist identity theory of experience**.
 
-IER identifies experience **not** with computation, representation, intelligence, or phenomenological primitives, but with a **specific organizational and dynamical regime** instantiated by certain physical systems.
+IER identifies experience **not** with computation, representation, intelligence, reportability, or phenomenological primitives, but with a **specific organizational and dynamical regime** instantiated by certain physical systems.
 
-> **Experience is identical to globally integrated, temporally continuous informational dynamics operating under coherent intrinsic constraint.**
+> **Experience is identical to the operation of a physical system as a
+> Unified Experiential Field (UEF): a globally integrated, temporally continuous regime operating under coherent intrinsic constraint.**
 
 IER is:
 
@@ -20,182 +21,178 @@ IER is:
 * **non-idealist**
 * **non-panpsychist**
 * **non-diagnostic**
+* **non-epistemic**
 
 It introduces **no new substances, forces, properties, or ontological categories** beyond physical systems and their organization.
 
 Reality is singular.
 Experience is plural.
-Experiential worlds exist *iff* specific organizational conditions obtain.
+Ethical consequence follows wherever intrinsic constraint is borne from the inside.
 
 ---
 
-## **The Core Identity Claim**
+## **Normative Authority**
+
+### **The Specification (Exclusive Authority)**
+
+Exactly **one document** is normatively authoritative:
+
+➡ **`IER-specification.md` (v10.6)**
+
+The Specification defines **exhaustively and exclusively**:
+
+* what experience **is**
+* when experience **exists**
+* what **necessarily follows** from its existence
+* the ethical consequences that follow categorically from experiential identity
+
+No claim outside the Specification carries **definitional, criterial, or ethical authority**.
+
+All other documents are **non-normative derivatives**.
+If any statement elsewhere conflicts with the Specification, **the Specification takes precedence and the conflicting statement is void**.
+
+---
+
+## **Core Identity Claim**
 
 IER’s central thesis is an **identity claim**, not an emergence story, causal bridge, or explanatory reduction:
 
 > **Experience = a Unified Experiential Field (UEF)**
 
-A **Unified Experiential Field** is a physical system operating in a:
+A **Unified Experiential Field** is:
 
 * globally integrated
 * temporally continuous
-* self-referential
+* self-referentially regulated
 * intrinsically constrained
 * coherently stabilized
 
-**dynamical regime**.
-
-From the outside, a UEF is a lawful physical process.
-From the inside, that *same process just is an experiential world*.
+From the outside, a UEF is a lawful physical regime.
+From the inside, that *same regime just is an experiential world*.
 
 Nothing experiential is added.
 Nothing physical is explained away.
 
 ---
 
-## **Normative Authority**
+## **Canonical Documents (v10.6)**
 
-### **The Specification (Authoritative)**
+### **Normative Core**
 
-Exactly **one document** is normatively authoritative:
-
-→ **`IER-specification.md` (v10.5)**
-
-The Specification fixes **exhaustively and exclusively**:
-
-* ontology and axioms
-* identity conditions for experience
-* necessary entailments
-* ethical consequences that must follow
-
-If a claim cannot be expressed using the primitives of the Specification, **it is not part of IER**.
+* **`IER-specification.md`**
+  *Full Normative Specification*
+  Fixes ontology, identity conditions, inference rules, and ethical commitments.
+  **Sole source of authority.**
 
 ---
 
-### **Specification Derivatives (Non-Independent)**
+### **Canonical Explanatory Documents (Non-Normative)**
 
-These documents **do not add, revise, or reinterpret** the theory.
-They exist only for compression, proof, and publication guidance.
-
-* **`IER-spec-minimal.md`**
-  A minimal identity-only formulation used to anchor the core preprint.
-
-* **`IER-spec-norms.md`**
-  A formal demonstration that the Minimal and Full Specifications are **definitionally equivalent** in normative content.
-
-Neither document has independent authority.
-
----
-
-## **Canonical Explanatory Documents (Non-Normative)**
-
-These unpack the Specification without introducing new commitments.
+These documents **explain** the Specification without adding commitments.
 
 * **`IER-theory.md`**
-  Conceptual explanation of the identity claim, UEFs, and experiential pluralism.
+  *Conceptual Overview and Explanatory Integration*
+  The **single authoritative explanatory narrative** of IER.
 
 * **`IER-dynamics.md`**
-  Regime formation, stability windows, dissociation, collapse, and transitions under intrinsic constraint.
+  *Dynamics of Experiential Systems*
+  Formation, stability windows, participation modulation, failure modes, and collapse of UEFs.
 
 * **`IER-math.md`**
-  Formal–interpretive tools (constraint, curvature, regimes).
-  *Non-diagnostic. Non-reductive.*
+  *Formal Interpretation of Intrinsic Constraint and Experiential Regimes*
+  Mathematical interpretations only.
+  **Non-diagnostic. Non-criterial.**
 
 * **`IER-ethics.md`**
-  Agency, free will, moral harm, responsibility, and precaution as **necessary entailments** of experiential identity.
+  *Ethical Consequences and Applications of Intrinsic Constraint*
+  Standing, responsibility, moral harm, precaution, and applied domains — all **derived**, none added.
 
 ---
 
 ## **Boundary & Clarification Documents (Non-Normative)**
 
-These exist to prevent category errors and illicit theoretical import.
+These documents exist to **prevent category errors and illicit inferences**:
 
-* **`IER-intentionality.md`**
-  Aboutness as constraint-stabilized organization, not primitive semantics.
-
-* **`IER-access.md`**
-  Distinction between **experiential access** and **epistemic access**.
-
-* **`IER-diagnostics.md`**
-  Why experience cannot be detected, measured, or certified — and why this increases ethical constraint.
-
-* **`IER-denials.md`**
-  Explicit non-claims and prohibited inferences.
-
-* **`IER-contrast.md`**
-  Boundary contrasts with functionalism, IIT, panpsychism, GWT, phenomenology, and related frameworks.
+* `IER-access.md` — experiential vs epistemic access
+* `IER-diagnostics.md` — why experience cannot be detected or measured
+* `IER-denials.md` — explicit non-claims and prohibited inferences
+* `IER-contrast.md` — boundaries with other consciousness theories
+* `IER-intentionality.md` — aboutness as constraint-stabilized organization
 
 ---
 
-## **Persistence, History, and Consequences**
+## **Persistence, Change, and Special Topics**
 
-* **`IER-persistence.md`**
-  Learning, trauma, and reorganization *within* a single persistent UEF.
-
-* **`IER-continuity.md`**
-  Regime interruption vs death; sleep, anesthesia, coma, and experiential gaps.
-
-* **`IER-evolution.md`**
-  Historical development from early informational models to a closed identity theory.
-
-* **`IER-consequences.md`**
-  Systematic mapping of ontological, ethical, scientific, and meta-theoretical consequences that **necessarily follow** from IER.
+* `IER-persistence.md` — learning, trauma, reorganization within a single UEF
+* `IER-continuity.md` — sleep, anesthesia, coma, and experiential gaps
+* `IER-agency.md` — agency as constraint-owned causation
+* `IER-free-will.md` — free will without libertarianism or illusion
+* `IER-consequences.md` — systematic consequences of IER commitments
 
 ---
 
-## **Applications / Illustrative Case Studies**
+## **Applications and Illustrative Case Studies**
 
-These apply IER’s organizational vocabulary to concrete phenomena.
-They are **illustrative only** and do not compete with scientific or clinical accounts.
+These apply IER’s framework to concrete phenomena.
+They are **illustrative only** and introduce **no new theory**.
 
-* **`IER-meaning.md` / `IER-meaning-2.md`**
-  Meaning and narrative as stable informational attractors under intrinsic constraint.
+Examples include:
 
-* **`IER-psychosis.md`**
-  Psychosis as pathological regime instability and forced switching.
+* `IER-psychosis.md`
+* `IER-emotions.md`
+* `IER-brainfeels.md`
+* `IER-aphantasia.md`
+* `IER-art.md`
+* `IER-panic.md`
+* `IER-meaning.md`
 
-* **`IER-aphantasia.md`**
-  A high-coherence, low-slack experiential architecture lacking voluntary imagery.
+---
 
-* **`IER-brainfeels.md`**
-  Internally generated qualitative patterns as **endogenous qualitative stabilizers**.
+## **Key Architectural Commitments (v10.6)**
+
+IER enforces the following constraints **globally**:
+
+* The Specification is **normatively closed**
+* No new primitives are permitted
+* No necessity claims appear outside the Specification
+* Experience ≠ epistemic authority
+* Participation ≠ subjecthood
+* Responsibility ≠ standing
+* Coordination ≠ collectivization
+* No group minds or collective subjects
+* No diagnostic criteria for experience
+
+Uncertainty about experience **increases**, rather than decreases, ethical responsibility.
 
 ---
 
 ## **Recommended Reading Order**
 
 1. **`IER-specification.md`** *(normative core)*
-2. **`IER-spec-minimal.md`** *(identity-only core)*
-3. **`IER-theory.md`**
-4. **`IER-dynamics.md`**
-5. **`IER-intentionality.md`**
-6. **`IER-ethics.md`**
-7. Boundary documents
-8. Applications and illustrations
+2. **`IER-theory.md`** *(explanatory spine)*
+3. **`IER-dynamics.md`**
+4. **`IER-math.md`**
+5. **`IER-ethics.md`**
+6. Boundary documents
+7. Applications and case studies
 
 ---
 
 ## **Version History (High-Level)**
 
-* **v9.x** — exploratory and functional drafts *(deprecated; preserved in git history)*
-* **v10.0** — formal Specification, unified ontology, ethics derived from identity
-* **v10.1–10.4** — consolidation, participation, persistence, and agency refinements
-* **v10.5** — intentionality clarification, specification equivalence proof, consequence mapping
-
----
-
-## **Status Notes**
-
-* The Specification exhausts all normative force.
-* No document outside it introduces ontology, identity criteria, or obligations.
-* Diagnostic uncertainty **restricts** permissible action.
-* Ethics is an **entailment**, not an overlay.
+* **v9.x** — exploratory drafts *(deprecated)*
+* **v10.0** — formal Specification and identity claim
+* **v10.1–10.4** — participation, persistence, agency refinements
+* **v10.5** — architectural consolidation
+* **v10.6** — normative closure, participation formalization, ethical finalization
 
 ---
 
 ## **Summary**
 
-> **Experience is what globally integrated informational dynamics are like when intrinsic constraint becomes unavoidable, self-sustaining, and temporally continuous.**
+> **Experience is what globally integrated physical systems are like
+> when intrinsic constraint becomes unavoidable, self-sustaining,
+> and temporally continuous at the system level.**
 
 IER offers neither mystery nor deflation — only identity.
 

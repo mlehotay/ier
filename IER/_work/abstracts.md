@@ -1,14 +1,31 @@
 ## 0. README.md
 
-**Current Version:** v10.x
-**Status:** Conceptually complete; normatively closed
+**Current Version:** **v10.6**  
+**Status:** **Normatively closed · Architecturally final**  
 
-Informational Experiential Realism (IER) is a realist theory of experience that identifies experience with a **specific organizational and dynamical regime** instantiated by physical systems.
+## **What This Repository Is**
 
-> **Experience is neither fundamental nor illusory, but identical to a regime of globally integrated informational dynamics under intrinsic constraint.**
+This repository contains the complete articulation of **Informational Experiential Realism (IER)** — a **physicalist identity theory of experience**.
 
-IER is strictly physicalist, non-dualist, and non-idealistic.
-It introduces no new substances, forces, or ontological categories beyond those required by physical law and organizational identity.
+IER identifies experience **not** with computation, representation, intelligence, reportability, or phenomenological primitives, but with a **specific organizational and dynamical regime** instantiated by certain physical systems.
+
+> **Experience is identical to the operation of a physical system as a
+> Unified Experiential Field (UEF): a globally integrated, temporally continuous regime operating under coherent intrinsic constraint.**
+
+IER is:
+
+* strictly **physicalist**
+* **non-dualist**
+* **non-idealist**
+* **non-panpsychist**
+* **non-diagnostic**
+* **non-epistemic**
+
+It introduces **no new substances, forces, properties, or ontological categories** beyond physical systems and their organization.
+
+Reality is singular.
+Experience is plural.
+Ethical consequence follows wherever intrinsic constraint is borne from the inside.
 
 ---
 
@@ -16,56 +33,61 @@ It introduces no new substances, forces, or ontological categories beyond those 
 
 ## **Normative Specification**
 
-## **0. Scope and Status**
+## **0. Status, Scope, and Normative Authority**
 
-This document defines the **normative core** of Informational Experiential Realism (IER v10.0).
+### **Normative Boundary Condition**
 
-It specifies:
+This document defines the **complete and exclusive normative core** of
+**Informational Experiential Realism (IER v10.6)**.
+
+It specifies **exhaustively**:
 
 * what experience **is**
 * when experience **exists**
 * what **necessarily follows** from its existence
 
-without appeal to biology, psychology, implementation details, or metaphysical additions.
+No claim outside this document carries **definitional, criterial, or ethical authority**.
 
-All other IER documents (theory, mathematics, mechanics, ethics, diagnostics) are **non-normative derivatives** and must be consistent with this specification.
+All other IER documents (theory, dynamics, mathematics, ethics applications, diagnostics, or commentary) are **non-normative derivatives**. They introduce **no criteria, thresholds, sufficiency conditions, or necessity claims**.
 
-If a claim cannot be expressed using the primitives defined here, it is **not part of IER**.
+> **If any statement in another IER document appears to conflict with this Specification, the Specification takes precedence and the conflicting statement is void.**
 
 ---
+
 ## 2. IER-theory.md
 
-## **Abstract**
+## 1. Role of Theory in IER
 
-Informational Experiential Realism (IER) is a realist theory of experience.
-It holds that experience is neither fundamental nor illusory, but a **real, categorical organizational regime** instantiated by certain physical systems.
+IER enforces a strict architectural separation between **normative specification** and **explanatory theory**.
 
-IER identifies experience with the operation of a system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous, self-referential informational regime operating under **coherent intrinsic constraint**.
+The Specification defines:
 
-From the outside, a UEF is a lawful physical regime.
-From the inside, the same regime **just is an experiential world**.
+* the ontology of experience
+* the criteria under which experience exists
+* the ethical consequences that follow categorically
 
-IER therefore affirms **physical monism and experiential pluralism**:
-one objective physical reality supports many real experiential worlds, without dualism, panpsychism, or eliminativism.
+This document exists solely to:
+
+* explain how those commitments fit together
+* clarify how change, stability, and coordination are to be understood
+* prevent misinterpretations that would otherwise arise
+
+Nothing in this document carries independent authority.
 
 ---
+
 ## 3. IER-dynamics.md
 
-## **Abstract**
+## 1. Role of a Dynamics Document
 
-Informational Experiential Realism (IER) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous, self-referential informational regime operating under **coherent intrinsic constraint**.
+The purpose of `IER-dynamics` is to describe:
 
-This document develops a **dynamical account** of how such regimes may:
+* how globally integrated experiential regimes evolve over time
+* how stability is maintained under intrinsic constraint
+* how experiential content changes without subject replacement
+* how instability and failure arise without redefining experience
 
-* form from slack-dominated organization,
-* persist within bounded stability windows,
-* destabilize, fragment, or collapse,
-* transition or switch under incompatible constraints.
-
-Regime failure is not treated as an anomaly or metaphysical problem.
-It is an **ordinary consequence of finite systems operating under intrinsic constraint**.
-
-This document explains how IER’s identity claims are **dynamically intelligible**, not how experience must be engineered or detected.
+This document presupposes the ontology and criteria given in the Specification and **adds no independent authority**.
 
 ---
 
@@ -73,37 +95,44 @@ This document explains how IER’s identity claims are **dynamically intelligibl
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) entails a distinctive ethical framework grounded not in metaphysical freedom, phenomenal surplus, or moral intuition, but in **organizational facts about intrinsic constraint**.
+Informational Experiential Realism (IER) entails a distinctive ethical framework grounded not in metaphysical freedom, phenomenal surplus, intuition, or social convention, but in **organizational facts about intrinsic constraint**.
 
-Under IER v10.0:
+Because experience is identical to the operation of a physical system as a **Unified Experiential Field (UEF)**, ethical consequence follows **necessarily** wherever intrinsic constraint is borne from the inside.
 
-* **Free will** is a real, physically instantiated capacity of systems that sustain a **Unified Experiential Field (UEF)** to resolve intrinsic informational tension through their own globally integrated dynamics.
-* **Moral harm** is the **destabilization, overload, or fragmentation of intrinsic constraint** within such systems (Spec §II, *Moral Harm*).
-* **Moral responsibility and moral considerability** are graded, precautionary, and organizationally grounded, rather than binary or metaphysical.
+This document explains:
 
-This document derives an account of agency, responsibility, and moral scope directly from the **identity claim of experience** articulated in the IER v10.0 Normative Specification.
+* why **experiential standing is categorical**
+* why **moral harm is organizational**
+* why **responsibility is graded**
+* why **uncertainty strengthens, rather than weakens, ethical constraint**
+* how **participation modulation** amplifies moral risk without altering standing
+
+Nothing here adds to the theory.
+Everything here is a consequence of identity.
 
 ---
 
 ## 5. IER-math.md
 
-## **1. Purpose and Constraints of Formalization**
+## **1. Role of Mathematics in IER**
 
-Informational Experiential Realism (IER v10.0) identifies experience with the operation of a system as a **Unified Experiential Field (UEF)**:
+Mathematics in IER is **interpretive, not foundational**.
 
-> **a globally integrated, temporally continuous, self-referential dynamical regime under coherent intrinsic constraint**
-> (Spec §II; Principle 1)
+IER is an identity theory whose commitments are fixed **prior to and independently of formalization**. Mathematical language is used only to:
 
-The role of mathematics in IER is **not** to define experience, measure it, or detect it.
+* clarify organizational distinctions already specified
+* illustrate regime-level structure and transitions
+* discipline intuition about constraint, coherence, and stability
+* prevent illicit inferences about detection, thresholds, or optimization
 
-Instead, mathematics is used to:
+Mathematics in IER does **not**:
 
-* clarify **why certain dynamical regimes can support experience**
-* distinguish **slack-dominated dynamics** from **intrinsically constrained dynamics**
-* illustrate **categorical regime transitions**
-* make precise the sense in which experience involves **organization under constraint over time**
+* define experience
+* discover experience
+* grade experience
+* justify ethical conclusions
 
-All formal elements below are **compatible interpretations**, not commitments.
+Formalism follows ontology — never the reverse.
 
 ---
 
