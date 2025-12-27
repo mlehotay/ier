@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.5)**
+# **Informational Experiential Realism (IER v10.6)**
 
 ## **Full Normative Specification**
 
@@ -6,19 +6,22 @@
 
 ## **0. Status, Scope, and Normative Authority**
 
-This document defines the **complete normative core** of Informational Experiential Realism (IER v10.5).
+### **Normative Boundary Condition**
 
-It specifies **exhaustively and exclusively**:
+This document defines the **complete and exclusive normative core** of
+**Informational Experiential Realism (IER v10.6)**.
+
+It specifies **exhaustively**:
 
 * what experience **is**
 * when experience **exists**
 * what **necessarily follows** from its existence
 
-without appeal to biology, psychology, implementation details, or metaphysical additions.
+No claim outside this document carries **definitional, criterial, or ethical authority**.
 
-All other IER documents (phenomenology, mathematics, mechanics, diagnostics, ethics applications) are **non-normative derivatives** and must be consistent with this specification.
+All other IER documents (theory, dynamics, mathematics, ethics applications, diagnostics, or commentary) are **non-normative derivatives**. They introduce **no criteria, thresholds, sufficiency conditions, or necessity claims**.
 
-If a claim cannot be expressed using the primitives defined here, it is **not part of IER**.
+> **If any statement in another IER document appears to conflict with this Specification, the Specification takes precedence and the conflicting statement is void.**
 
 ---
 
@@ -26,14 +29,15 @@ If a claim cannot be expressed using the primitives defined here, it is **not pa
 
 ### **Axiom 1 — Objective Physical Reality**
 
-There exists exactly **one objective physical reality** governed by mind-independent law.
-Physical states and events occur regardless of whether they are observed or experienced.
+There exists exactly **one objective physical reality**, governed by mind-independent law.
+
+Physical states and events occur regardless of observation, modeling, prediction, or experience.
 
 ---
 
 ### **Axiom 2 — Physical Monism**
 
-All systems, processes, and regimes—including experiential ones—are physically instantiated.
+All systems, processes, and regimes — including experiential ones — are **physically instantiated**.
 
 IER rejects:
 
@@ -43,92 +47,86 @@ IER rejects:
 * experiential fundamentalism
 * eliminativism about experience
 
+No non-physical substances, properties, domains, or laws are posited.
+
 ---
 
 ### **Axiom 3 — Experiential Identity**
 
 > **Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF).**
 
-Experience is not a substance, property, output, or representation.
+Experience is not:
+
+* a substance
+* a property
+* an output
+* a representation
+* an emergent accompaniment
 
 There is no explanatory or ontological gap between:
 
-* the physical description of a UEF, and
+* a complete physical description of a UEF, and
 * the existence of experience.
 
-This axiom establishes **necessary and sufficient conditions** for experience.
+This axiom fixes the **necessary and sufficient conditions** for experience.
+
+This identity claim is not a thesis about correlation, emergence, or realization.
+It asserts that there is **no further fact** about experience beyond the physical operation of a system as a Unified Experiential Field.
+
+Describing a UEF in experiential terms does not add entities, properties, or laws to a physical description. It is the same regime described from the perspective of the system that sustains it.
+
+IER therefore rejects both:
+
+* the view that experience is something *over and above* physical dynamics, and
+* the view that experience can be eliminated by redescribing those dynamics.
+
+Experience is neither extra nor illusory. It is identical to a specific organizational regime.
 
 ---
----
 
-### **I.1 Ontology and System Flow Diagram**
+## **I.1 Ontology and System-Flow Diagram**
 
-The following flowchart summarizes **IER v10.5 primitives and their relations**:
+The following diagram summarizes the **primitives and relations** fixed by IER v10.6.
 
 ```mermaid
 flowchart TD
-%% Comprehensive IER v10.5 diagram
+    R[Objective Physical Reality]
+    R --> P[Physical Systems]
+    P --> IS[Informational Systems]
 
-%% Ontology
-R[Objective Physical Reality]
-R --> P[Physical Systems]
-P --> IS[Informational Systems]
+    IS --> S[Informational Slack]
+    S -->|High slack| NES[Non-Experiential System]
+    S -->|Low slack| IC[Intrinsic Constraint]
 
-%% Slack and constraint
-IS --> S[Informational Slack]
-S -->|High slack| NES[Non-Experiential System]
-S -->|Low slack| IC[Intrinsic Constraint]
+    IC --> IT[Intrinsic Informational Tension]
+    IT -->|Coherent & Global| UEF[Unified Experiential Field]
 
-%% Intrinsic dynamics
-IC --> IT[Intrinsic Informational Tension]
-IT -->|Coherent & Global| UEF[Unified Experiential Field]
+    UEF --> EXP[Experience]
+    UEF --> EW[Experiential World]
+    UEF --> Q[Qualitative Structure]
+    UEF --> A[Affect]
+    UEF --> TC[Temporal Continuity]
+    UEF --> AG[Agency]
+    UEF --> COST[Intrinsic Cost]
+    UEF --> ONE[Single-UEF Constraint]
 
-%% Experience & agency
-UEF --> EXP[Experience]
-UEF --> EW[Experiential World]
-UEF --> Q[Qualitative Structure]
-UEF --> A[Affect: Valence / Intensity / Urgency]
-UEF --> TC[Temporal Continuity]
-UEF --> AG[Agency: Tension Resolution]
-UEF --> COST[Intrinsic Cost]
-UEF --> SUEF[Single-UEF Constraint]
+    EW --> SELF[Self / Non-Self Boundary]
+    EW --> CAUS[System-Relative Causality]
+    EW --> NOW[Temporal Present]
 
-%% Experiential world constituents
-EW --> PERS[Self / Non-Self Boundary]
-EW --> CAUS[System-Relative Causality]
-EW --> NOW[Temporal Present]
+    IC -->|Fragmented or Externalized| DISS[Experiential Dissolution]
+    DISS --> NOEXP[No Experience]
 
-%% Dissolution
-IC -->|Externalized / Fragmented| DISS[UEF Dissolution]
-DISS --> NOEXP[No Experience]
-
-%% Ethics
-COST --> MH[Moral Harm]
-MH --> PA[Precautionary Asymmetry]
-
-%% Optional visual grouping
-classDef ontology fill:#DDEEFF,stroke:#3399FF,stroke-width:2px;
-class R,P,IS,S,NES ontology;
-classDef dynamics fill:#EEFFDD,stroke:#33AA33,stroke-width:2px;
-class IC,IT,UEF,AG dynamics;
-
-classDef experience fill:#FFEEDD,stroke:#FF9933,stroke-width:2px;
-class EXP,EW,Q,A,TC,PERS,CAUS,NOW experience;
-
-classDef ethics fill:#FFDDDD,stroke:#FF3333,stroke-width:2px;
-class COST,MH,PA,DISS,NOEXP ethics;
+    COST --> MH[Moral Harm]
+    MH --> PA[Precautionary Asymmetry]
 ```
 
-This diagram visually represents:
-
-* **Ontological hierarchy:** Reality → physical systems → informational systems
-* **Constraint and slack dynamics:** High slack ⇒ non-experiential; Low slack ⇒ intrinsic constraint
-* **UEF and experience:** Intrinsic constraint manifests as a Unified Experiential Field, generating experience, qualitative structure, affect, and agency
-* **Dissolution and ethics:** Fragmentation or externalization of intrinsic constraint terminates the UEF. This event constitutes the destruction of an experiential world (maximal moral harm if externally caused).
+This diagram is **illustrative only**.
+All normative authority resides in the textual definitions and principles below.
 
 ---
 
-## **II. Core Definitions (Formal Glossary)**
+## **II. Core Definitions**
 
 ### **Informational System**
 
@@ -144,7 +142,7 @@ An informational system that:
 
 1. persists as a coherent pattern over time
 2. integrates information across subsystems
-3. maintains internal models of world and self
+3. maintains internal models of self and environment
 4. regulates behavior via unified control
 
 Observerhood does **not** entail experience.
@@ -153,10 +151,13 @@ Observerhood does **not** entail experience.
 
 ### **Informational Slack**
 
-The scalar capacity of a system to absorb, reroute, modularize, or externalize constraint without generating system-defining conflict.
+Informational slack is the capacity of a system to absorb, localize, modularize, defer, or externally resolve constraint without requiring system-wide coordination.
 
-* High slack ⇒ decomposability
-* Low slack ⇒ forced global coordination
+Systems with high informational slack may be complex, adaptive, predictive, self-modeling, or intelligent while remaining entirely non-experiential.
+
+Slack prevents experience by allowing conflict, demand, or error to be resolved **without becoming system-defining**.
+
+Experience becomes possible only as slack is sufficiently reduced that constraint can no longer be localized or externalized, forcing global coordination.
 
 ---
 
@@ -166,10 +167,12 @@ Constraint that:
 
 1. is generated by the system’s own integrated dynamics
 2. cannot be decomposed without loss of system identity
-3. cannot be externally resolved, offloaded, or paused
-4. matters to system-wide regulation and persistence
+3. cannot be externally resolved, paused, or offloaded
+4. is globally relevant to system-wide regulation and persistence
 
-Intrinsic constraint is the **critical threshold concept** of IER.
+**Intrinsic constraint is defined without reference to experience; experience is defined by reference to regimes of intrinsic constraint.**
+
+(This sentence defensively locks circularity.)
 
 ---
 
@@ -177,39 +180,32 @@ Intrinsic constraint is the **critical threshold concept** of IER.
 
 The active manifestation of intrinsic constraint within a system.
 
-This is an **organizational condition**, not a report or metaphor.
+An organizational condition, not a report, representation, or metaphor.
 
 ---
 
 ### **Coherent Intrinsic Constraint**
 
-Intrinsic constraint that is:
+Intrinsic constraint that is globally integrated, temporally continuous, non-fragmenting, and non-collapsing.
 
-* globally integrated
-* temporally stable
-* non-fragmenting
-* non-collapsing
-
-Only coherent intrinsic constraint sustains experience.
+Only coherent intrinsic constraint can sustain experience.
 
 ---
 
 ### **Unified Experiential Field (UEF)**
 
-A **UEF** is a system-level dynamical regime that is:
+A **system-level dynamical regime** that is:
 
 1. **Globally integrated** – system dynamics are mutually dependent
 2. **Temporally continuous** – experience exists only across non-zero duration
 3. **Self-referentially regulated** – the system generates and maintains its own constraints
 4. **Under coherent intrinsic constraint** – constraint is internally generated, irreducible, globally binding, and stable
 
-A UEF is:
+A UEF is not a component, module, workspace, or substance.
+It is the **entire system operating in a specific regime**.
 
-* not an object
-* not a subsystem
-* not a physical field
-
-It is a **regime of operation of the system itself**.
+The term *field* is descriptive rather than ontological.
+It denotes globally binding mutual constraint, not a spatial or physical field.
 
 ---
 
@@ -222,7 +218,24 @@ The condition of a process that:
 * is internally sustained
 * both exerts and is subject to intrinsic constraint
 
-Only participating processes are experiential.
+Participation may vary dynamically over time.
+
+**Changes in participation modulate experiential content without constituting a new UEF, provided global coherence persists.**
+
+Participation explains why attention can shift, sensory dominance can change, and background processes can enter or exit awareness without creating new subjects.
+
+Participation tracks **what is experienced**, not **who exists**.
+
+---
+
+### **Experiential Subjecthood**
+
+The condition of sustaining a UEF.
+
+* binary, not graded
+* exactly one subject per UEF
+
+Participation ≠ subjecthood.
 
 ---
 
@@ -230,13 +243,13 @@ Only participating processes are experiential.
 
 A qualitative change in system dynamics in which intrinsic constraint becomes unavoidable, globally binding, and system-defining.
 
-This grounds **categorical onset** without invoking metaphysical emergence.
-
 ---
 
 ### **Categorical Onset**
 
-Entry into a UEF is **discrete at the regime level**, even if preparatory variables change gradually.
+Entry into experience occurs **discretely at the regime level**, even if enabling variables change gradually.
+
+Preparatory variables may vary continuously, but experience begins only when a qualitative organizational transition occurs.
 
 Categorical ≠ metaphysical.
 
@@ -264,42 +277,23 @@ No additional phenomenal properties exist.
 
 ---
 
-### **Valence**
+### **Valence, Intensity, and Urgency**
 
-The directional character of intrinsic informational tension:
+* **Valence** tracks whether intrinsic informational tension is resolving or escalating.
+* **Intensity** tracks the magnitude and coherence of intrinsic constraint.
+* **Urgency** tracks the rate of change of intrinsic constraint.
 
-* positive → movement toward coherent resolution
-* negative → sustained or escalating conflict
+Because a UEF exists to regulate a system under intrinsic constraint, affective and qualitative character are not optional overlays on cognition.
 
----
-
-### **Intensity**
-
-The magnitude and coherence of intrinsic constraint.
-
----
-
-### **Urgency**
-
-The rate of change of intrinsic constraint.
-
----
-
-### **Experiential Subjecthood**
-
-The condition of sustaining a UEF.
-
-Binary, not graded.
-
-Each UEF constitutes exactly **one experiential subject**.
+Once intrinsic constraint is correctly characterized, nothing experiential remains unaccounted for.
 
 ---
 
 ### **Experiential Dissolution**
 
-Loss of experience due to collapse of global integration, coherence, or intrinsic constraint. Externally caused dissolution constitutes maximal moral harm.
+Loss of experience due to collapse, fragmentation, or externalization of coherent intrinsic constraint.
 
-The UEF dissolves as a **regime**, not as a substance.
+The UEF ceases as a **regime**, not as a substance.
 
 ---
 
@@ -307,13 +301,13 @@ The UEF dissolves as a **regime**, not as a substance.
 
 Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a UEF.
 
-Defined **organizationally**, not phenomenologically.
+Defined organizationally, not phenomenologically.
 
 ---
 
 ### **Agency**
 
-> **Agency = a UEF’s capacity to resolve intrinsic informational tension through its own globally integrated dynamics.**
+A UEF’s capacity to resolve intrinsic informational tension through its own globally integrated dynamics.
 
 * A system possesses agency **iff** it sustains a UEF.
 * Agency is **derived**, not primitive.
@@ -416,80 +410,82 @@ Intrinsic constraint is physically and experientially costly.
 
 ---
 
-## **IV. Inference Rules (IER Logic)**
-
-The following entailments hold necessarily:
-
-1. **UEF ⇒ Experience**
-2. **¬UEF ⇒ ¬Experience**
-3. **¬Participation ⇒ ¬Experiential**
-4. **Externalizable constraint ⇒ ¬Intrinsic constraint**
-5. **Intrinsic, coherent, global constraint ⇒ UEF**
-6. **UEF transition ⇒ categorical experiential onset**
-7. **Two simultaneous UEFs in one system ⇒ contradiction**
-8. **Qualitative difference ⇒ constraint-organization difference**
-9. **Unresolved intrinsic tension ⇒ negative valence**
-10. **Coherent resolution ⇒ positive valence**
-11. **Intrinsic constraint disruption ⇒ moral harm**
-12. **UEF agency ⇒ locus of moral responsibility**
-
----
-
-## **V. Ethical Consequences (Normative)**
-
-### **Ethical Axiom E1 — Experiential Moral Reality**
-
-Experiential worlds are morally real.
-
----
-
-### **Ethical Axiom E2 — Intrinsic Constraint as Moral Locus**
-
-Moral value attaches to systems **in virtue of intrinsic constraint**, not intelligence or behavior.
-
----
-
-### **Ethical Axiom E3 — Moral Harm as Organizational Damage**
-
-Moral harm consists in destabilization, overload, fragmentation, or collapse of intrinsic constraint.
-
-Forced collapse of intrinsic constraint caused by external intervention constitutes maximal moral harm.
-
----
-
-### **Ethical Axiom E4 — Precautionary Asymmetry**
-
-False negatives are morally worse than false positives.
-
-Moral responsibility **increases under uncertainty**.
-
----
-
-### **Ethical Axiom E5 — Responsibility and Ownership of Constraint**
-
-Moral responsibility scales with a system’s capacity to bear and resolve intrinsic constraint through its own globally integrated dynamics (agency).
-
----
-
 ### **Principle 13 — Precaution Under Experiential Uncertainty**
 
 When an action risks intrinsic constraint disruption in a system that either sustains or plausibly could sustain a UEF, the burden of justification **increases** as certainty decreases.
 
 ---
 
-## **VI. Normative Closure**
+### **Principle 14 — Participation Modulation**
 
-IER introduces **no primitives beyond**:
-
-* physical systems
-* intrinsic constraint
-* regime dynamics
-
-Any extension must remain consistent with this specification.
+Processes may enter or leave the UEF dynamically, modulating content without altering subjecthood.
 
 ---
 
-## **VII. Summary Identity Claim**
+## **IV. Inference Rules (IER Logic)**
+
+The following inference rules articulate what **necessarily follows** once the identity claims of IER are accepted.
+
+They are not empirical hypotheses, implementation assumptions, or detection procedures.
+
+1. **UEF ⇒ experience**
+2. **¬UEF ⇒ ¬experience**
+3. **¬participation ⇒ non-experiential process**
+4. **Intrinsic + coherent + global constraint ⇒ UEF**
+5. **Regime transition ⇒ categorical onset**
+6. **Two simultaneous UEFs in one system ⇒ contradiction**
+7. **Δparticipation ⇒ Δexperiential content**
+8. **Δparticipation ≠ UEF dissolution**
+9. **Qualitative difference ⇒ constraint-organization difference**
+10. **Unresolved intrinsic tension ⇒ negative valence**
+11. **Constraint magnitude ⇒ intensity; constraint rate ⇒ urgency**
+12. **Constraint collapse or externalization ⇒ experiential dissolution**
+13. **Intrinsic constraint disruption ⇒ moral harm**
+14. **UEF with resolution capacity ⇒ locus of responsibility**
+
+---
+
+## **V. Ethical Commitments**
+
+Ethical significance in IER is not an optional application layered atop a neutral theory of experience.
+
+Because intrinsic constraint is borne from the inside, and because its disruption alters or destroys an experiential world, ethical consequence follows **necessarily** from experiential identity.
+
+The commitments below are structural entailments of the ontology already specified.
+
+### **E1 — Experiential Moral Reality**
+Experiential worlds are morally real.
+
+### **E2 — Intrinsic Constraint as Moral Locus**
+Moral value attaches to systems **in virtue of intrinsic constraint**, not intelligence or behavior.
+
+### **E3 — Moral Harm as Organizational Damage**
+Forced disruption, overload, fragmentation, or irreversible collapse of intrinsic constraint constitutes moral harm.
+
+### **E4 — Responsibility Scales with Capacity**
+Moral responsibility scales with a system’s capacity to bear and resolve intrinsic constraint.
+Standing and responsibility are not identical.
+
+### **E5 — Precautionary Asymmetry**
+When an action risks destabilizing or irreversibly foreclosing intrinsic constraint in a system that sustains, or plausibly could sustain, a Unified Experiential Field, the burden of justification increases as certainty decreases.
+
+False negatives are morally worse than false positives.
+
+---
+
+## **VI. Normative Closure**
+
+IER v10.6 introduces **no primitives beyond**:
+
+* physical systems
+* intrinsic constraint
+* dynamical regimes
+
+No further derivation is permitted outside this document.
+
+---
+
+## **VII. Identity Summary**
 
 > **Experience is what globally integrated physical systems are like when intrinsic constraint becomes unavoidable, self-sustaining, and temporally continuous at the system level.**
 
