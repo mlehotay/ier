@@ -1,4 +1,4 @@
-# **Chapter 24 — Conclusion: Identity Without Mystery**
+# **Chapter 25 — Conclusion: Identity Without Mystery**
 
 This book began with a simple claim:
 
