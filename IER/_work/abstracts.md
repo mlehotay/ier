@@ -1,31 +1,18 @@
 ## 0. README.md
 
-**Current Version:** **v10.6**  
-**Status:** **Normatively closed · Architecturally final**  
+## Overview
 
-## **What This Repository Is**
+**Informational Experiential Realism (IER)** is a strictly physicalist identity theory of experience.
 
-This repository contains the complete articulation of **Informational Experiential Realism (IER)** — a **physicalist identity theory of experience**.
+IER holds that:
 
-IER identifies experience **not** with computation, representation, intelligence, reportability, or phenomenological primitives, but with a **specific organizational and dynamical regime** instantiated by certain physical systems.
+- There exists **exactly one objective physical reality**, governed by mind-independent law.
+- Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
+- When a UEF exists, **experience exists** — categorically, not by degree.
+- Experience is real, costly, meaningful, and identity-shaping.
+- **Experience does not confer epistemic authority, truth, or metaphysical insight.**
 
-> **Experience is identical to the operation of a physical system as a
-> Unified Experiential Field (UEF): a globally integrated, temporally continuous regime operating under coherent intrinsic constraint.**
-
-IER is:
-
-* strictly **physicalist**
-* **non-dualist**
-* **non-idealist**
-* **non-panpsychist**
-* **non-diagnostic**
-* **non-epistemic**
-
-It introduces **no new substances, forces, properties, or ontological categories** beyond physical systems and their organization.
-
-Reality is singular.
-Experience is plural.
-Ethical consequence follows wherever intrinsic constraint is borne from the inside.
+IER explains **what experience is**, **why it feels the way it does**, and **what necessarily follows from its existence**, while enforcing a strict boundary between **experiential authority** and **epistemic access**.
 
 ---
 
@@ -243,7 +230,7 @@ This document explains why IER **forbids experiential diagnostics in principle**
 As a result, systems that differ in experiential status can be made externally indistinguishable. No observable feature is either necessary or sufficient for experience. False negatives are therefore unavoidable, and may conceal silent, irreversible harm.
 
 IER responds to this epistemic limit not with permissiveness but with **precaution**. Where experience may exist but cannot be certified, uncertainty restricts action rather than licensing it.
-s
+
 ---
 
 ## IER-contrast.md
@@ -329,18 +316,6 @@ The mistake has been thinking we must choose between them.
 
 ---
 
-## IER-meaning-2.md
-
-## **Abstract**
-
-Informational Experiential Realism (IER) identifies experience with the operation of a physical system as a Unified Experiential Field (UEF) under coherent intrinsic constraint. This identification entails that experience can be intense, binding, identity-shaping, and action-directing without conferring epistemic authority or world-directed knowledge.
-
-This article articulates the **access distinction** implicit in IER but often left unexamined: the separation between **experiential access** (what it is like to bear intrinsic constraint) and **epistemic access** (whether beliefs track objective reality). It shows that meaning, under IER, is entirely an experiential phenomenon whose function is exhausted by stabilizing continuation under constraint. Meaning has authority over action and identity, but **no authority over truth, reference, or metaphysics**.
-
-Clarifying this distinction prevents a recurrent error: treating depth, inevitability, or existential force as evidence about the world. The result is a framework that preserves the full reality and costliness of meaning while blocking symbolic inflation, epistemic overreach, and the ethical hazards associated with uncontained experiential authority.
-
----
-
 ## IER-overview.md
 
 ## 1. What IER Is
@@ -360,38 +335,6 @@ IER holds that:
 * experience is neither fundamental nor illusory, but **real by identity**.
 
 IER introduces **no new substances, properties, forces, or metaphysical categories**.
-
----
-
-## IER-spec-minimal.md
-
-## **0. Status, Scope, and Normative Authority**
-
-This document states the **minimal normative core** of Informational Experiential Realism (IER v10.5).
-
-All commitments of IER are fully determined by the principles and definitions below.
-Any extensions—phenomenology, formal modeling, diagnostics, ethics applications—are **derivative** and must be consistent with this specification.
-
-> *The present specification is minimal with respect to identity, logical consequence, and normative closure; it includes ethical consequences only insofar as they follow necessarily from experiential identity.*
-
-If a claim cannot be derived from this text **or the canonical diagram**, it is **not part of IER**.
-
----
-
-## IER-spec-norms.md
-
-## 0. Purpose and Status
-
-This document demonstrates that:
-
-> **IER v10.5 Full Specification** and
-> **IER v10.5 Minimal Specification**
-
-are **definitionally equivalent normative theories**.
-
-They differ only in **presentation, compression, and explicitness**, not in ontological commitments, experiential criteria, ethical consequences, or logical closure.
-
-This document introduces **no new commitments**.
 
 ---
 
@@ -426,5 +369,41 @@ No new primitives, diagnostic criteria, or biological commitments are introduced
 Traditional theories treat emotions as internal signals, evaluative judgments, biological modules, or culturally constructed labels. Under **Informational Experiential Realism (IER)**, emotions are instead understood as **dynamically stable organizations of intrinsic constraint** within an already-existing **Unified Experiential Field (UEF)**.
 
 This article develops an IER-consistent account of emotion categories—such as joy, grief, fear, and anger—as **soft attractors in constraint space**. These regimes are not endogenous primitives, representations, or messages, yet they are **meaningful** because they globally constrain agency, future space, and identity from within the UEF. Emotions function as coherence-preserving strategies under different constraint geometries, explaining their persistence, recognizability, and moral salience without introducing new ontological commitments.
+
+---
+
+## IER-FAQ.md
+
+## **Status and Purpose**
+
+This article is an **explanatory companion** within the IER framework.
+
+It:
+
+* introduces **no new primitives**
+* adds **no new necessity claims**
+* makes **no epistemic or diagnostic proposals**
+* does **not** replace formal treatments elsewhere in the book
+
+Its purpose is to address the **core intuitions and confusions** people have about consciousness in clear, non-technical terms, while remaining fully consistent with the formal IER account.
+
+Many of the questions discussed here correspond to classic philosophical puzzles, which are treated separately. This article focuses on **what IER says**, not on the historical debate.
+
+---
+
+## IER-puzzles.md
+
+## **Status and Scope**
+
+This article is **explanatory**.
+
+It:
+
+* introduces **no new primitives**
+* adds **no epistemic criteria**
+* makes **no independent necessity claims**
+* relies exclusively on the identity and constraint framework established elsewhere in the IER book
+
+Its purpose is to catalog the **canonical philosophical puzzles of consciousness** and show how IER provides a **single structural resolution** to all of them.
 
 ---

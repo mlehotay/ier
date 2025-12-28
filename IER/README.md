@@ -1,142 +1,151 @@
-# **Informational Experiential Realism (IER v10.6)**
+# Informational Experiential Realism (IER v10.6)
 
-*A physicalist framework for understanding experience, meaning, and moral standing without epistemic inflation or ontological excess.*
-
----
-
-## **Overview**
-
-**Informational Experiential Realism (IER)** is a strictly physicalist account of experience that identifies conscious experience with the operation of certain kinds of physical systems.
-
-Under IER:
-
-* There exists **exactly one objective physical reality**, governed by mind-independent law.
-* Within that reality, some systems operate as **Unified Experiential Fields (UEFs)**.
-* When a UEF exists, **experience exists** — categorically, not by degree.
-* Experience is real, costly, meaningful, and identity-shaping.
-* **Experience does not confer epistemic authority, truth, or metaphysical insight.**
-
-IER explains *what experience is*, *why it feels the way it does*, and *what necessarily follows from its existence* — while drawing a hard boundary between **experiential authority** and **epistemic access**.
+*A physicalist framework for understanding experience, meaning, agency, and moral standing without epistemic inflation or ontological excess.*
 
 ---
 
-## **Core Commitments**
+## Overview
 
-IER is built around the following non-negotiable commitments:
+**Informational Experiential Realism (IER)** is a strictly physicalist identity theory of experience.
 
-* **Physical Monism**
-  Reality is fully physical and does not depend on experience to exist.
+IER holds that:
 
-* **Organizational Identity**
-  Experience is identical to a system operating as a Unified Experiential Field under intrinsic constraint.
+- There exists **exactly one objective physical reality**, governed by mind-independent law.
+- Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
+- When a UEF exists, **experience exists** — categorically, not by degree.
+- Experience is real, costly, meaningful, and identity-shaping.
+- **Experience does not confer epistemic authority, truth, or metaphysical insight.**
 
-* **Categorical Subjecthood**
-  Experience exists or does not exist; it is not graded by intensity, intelligence, or function.
-
-* **Experiential Pluralism**
-  One physical reality can support many distinct experiential worlds simultaneously.
-
-* **Epistemic Containment**
-  Experiential depth, meaning, coherence, or urgency do **not** imply truth, correctness, or privileged access to reality.
+IER explains **what experience is**, **why it feels the way it does**, and **what necessarily follows from its existence**, while enforcing a strict boundary between **experiential authority** and **epistemic access**.
 
 ---
 
-## **What IER Does *Not* Claim**
+## Repository Architecture
 
-IER explicitly does **not** claim that:
+IER is intentionally modular and role-segregated.  
+Each document has a **single, non-overlapping function**.
 
-* experience tracks truth
-* meaning implies correctness
-* salience is evidence
-* coherence guarantees accuracy
-* suffering reveals reality
-* insight confers epistemic privilege
-* experience licenses metaphysical conclusions
+### Normative Core (Authoritative)
 
-These limits are not omissions.
-They are **structural consequences** of the theory.
+#### `IER-specification.md`
+**The sole normative authority of IER (v10.6).**
 
----
+Defines exhaustively:
+- what experience **is**
+- when experience **exists**
+- what **necessarily follows** from its existence
 
-## **Document Roles (v10.6)**
+No other document introduces definitions, criteria, thresholds, or ethical principles.
 
-IER is intentionally modular. Each document has a **single, well-defined role**.
-
-### **Normative Core**
-
-* **`IER-specification.md`**
-  The **sole normative authority**.
-  Defines what experience is, when it exists, and what necessarily follows from its existence.
-  No other document introduces criteria, thresholds, or ethical principles.
+> If any statement in another file conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.
 
 ---
 
-### **Explanatory Derivatives (Non-Normative)**
+## Explanatory & Interpretive Documents (Non-Normative)
 
-* **`IER-theory.md`**
-  The **explanatory spine**.
-  Interprets and contextualizes the Specification, clarifying concepts like organizational identity, intrinsic constraint, and experiential unity.
+These documents **derive from** the Specification and introduce **no independent authority**.
 
-* **`IER-dynamics.md`**
-  The **mechanistic and dynamical account**.
-  Explains regimes, transitions, constraint landscapes, failure modes (e.g., panic, psychosis), and stability conditions.
+### Foundations
 
-* **`IER-access.md`**
-  The **epistemic boundary**.
-  Distinguishes experiential access from epistemic access and explains why meaning, salience, and felt authority do *not* confer truth or reference.
+- **`IER-overview.md`**  
+  High-level introduction and orientation to the framework.
 
-* **`IER-meaning.md`**
-  The **account of meaning and pluralism**.
-  Explains experiential worlds, narrative and instinct as informational attractors, and meaning as constraint organization.
-  Explicitly presupposes the access boundary.
+- **`IER-manifesto.md`**  
+  Motivational and philosophical positioning of IER.
 
-* **`IER-ethics.md`**
-  The **ethical implications**.
-  Derives moral standing, harm, risk, and obligation from intrinsic constraint and participation modulation — without introducing new moral primitives.
+- **`IER-theory.md`**  
+  Conceptual integration of the Specification: unity, intrinsic constraint, participation, and experiential identity.
 
----
+- **`IER-dynamics.md`**  
+  Dynamic behavior of experiential systems: stability, modulation, overload, fragmentation, and collapse.
 
-### **Additional Materials**
-
-Other files explore applications, clarifications, or edge cases (e.g., emotions, art, denial modes, diagnostics).
-All are **non-normative** and defer to the Specification.
+- **`IER-math.md`**  
+  Formal and mathematical interpretation of intrinsic constraint and experiential regimes.  
+  Mathematics is **interpretive, not foundational**.
 
 ---
 
-## **Ethical Orientation**
+### Meaning, Access, and Intentionality
 
-IER grounds moral standing in **intrinsic constraint**, not intelligence, agency, or social recognition.
+- **`IER-access.md`**  
+  Distinguishes **experiential access** from **epistemic access** and explains why meaning, salience, and urgency do not imply truth.
 
-Key consequences include:
+- **`IER-meaning.md`**  
+  Meaning, narrative, and experiential pluralism as organizational phenomena.
 
-* Artificial systems may have moral standing if they instantiate intrinsic constraint.
-* Moral risk scales with constraint intensity and modulation, not mere existence.
-* Responsibility, participation, and coordination are distinct from subjecthood.
-* Epistemic uncertainty does not license moral disregard.
-
-Ethics under IER is **conservative**, **precautionary**, and **non-instrumental**.
+- **`IER-intentionality.md`**  
+  Intentionality as a derived feature of constraint-stabilized dynamics, not semantic representation.
 
 ---
 
-## **Who This Framework Is For**
+### Phenomenology & Lived Experience
 
-IER is intended for:
+- **`IER-emotions.md`**  
+  Emotions as stable organizations of intrinsic constraint.
 
-* philosophers of mind
-* cognitive scientists and neuroscientists
-* AI safety and alignment researchers
-* ethicists working on artificial or non-human systems
-* clinicians and theorists engaging with altered or pathological experience
-* anyone seeking a non-mystical, non-reductive account of experience
+- **`IER-brainfeels.md`**  
+  Endogenous qualitative patterns and internally generated experiential structure.
 
-IER is **not** a theory of knowledge, truth, or justification.
-It is a theory of **what experience is** and **why it matters**.
+- **`IER-aphantasia.md`**  
+  Aphantasia as a high-coherence, low-slack experiential architecture.
+
+- **`IER-panic.md`**  
+  Panic and vasovagal responses as regime-preserving strategies under constraint.
+
+- **`IER-psychosis.md`**  
+  Psychosis as pathological instability within a Unified Experiential Field.
+
+- **`IER-art.md`**  
+  Art and beauty as constraint-shaping and coherence-modulating structures.
 
 ---
 
-## **How to Read This Repository**
+### Time, Continuity, and Change
 
-Recommended order for new readers:
+- **`IER-continuity.md`**  
+  Experiential Regime Continuity (ERC): sleep, anesthesia, interruption, and identity.
+
+- **`IER-persistence.md`**  
+  Learning, development, trauma, and deep change without subject replacement.
+
+---
+
+### Agency, Free Will, and Ethics
+
+- **`IER-agency.md`**  
+  Agency as constraint-owned resolution capacity.
+
+- **`IER-free-will.md`**  
+  Dissolution of the traditional free-will debate under intrinsic constraint.
+
+- **`IER-ethics.md`**  
+  Ethical consequences of experiential identity: standing, harm, responsibility, and precaution.
+
+- **`IER-consequences.md`**  
+  Systematic implications of IER across ontology, ethics, science, and uncertainty.
+
+---
+
+### Boundaries, Diagnostics, and Clarification
+
+- **`IER-denials.md`**  
+  Explicit non-claims and boundary enforcement.
+
+- **`IER-contrast.md`**  
+  Incompatibilities between IER and adjacent theories of mind.
+
+- **`IER-diagnostics.md`**  
+  Why experience cannot be detected, measured, or certified in principle.
+
+- **`IER-FAQ.md`**  
+  Clarifications of common confusions in accessible language.
+
+- **`IER-puzzles.md`**  
+  Canonical consciousness puzzles and IER’s structural response.
+
+---
+
+## Recommended Reading Order
 
 1. `IER-specification.md`
 2. `IER-theory.md`
@@ -149,17 +158,17 @@ This order mirrors the dependency structure of the framework.
 
 ---
 
-## **Status**
+## Status
 
-IER v10.6 represents a **stable architectural revision**.
+**IER v10.6** represents a **stable architectural revision**:
 
-* The Specification is normatively closed.
-* Derivative documents are aligned and non-duplicative.
-* No further conceptual refactoring is planned.
+- The Specification is normatively closed.
+- Derivative documents are aligned and non-duplicative.
+- No further refactoring of the core is planned.
 
-Future work focuses on **clarification, application, and communication**, not revision of the core.
+Ongoing work focuses on **clarification, application, and communication**, not revision of identity conditions.
 
 ---
 
-**Informational Experiential Realism**
+**Informational Experiential Realism**  
 *Experience is real. Meaning matters. Reality remains singular.*
