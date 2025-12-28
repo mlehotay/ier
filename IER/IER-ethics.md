@@ -8,8 +8,8 @@
 
 **This document is NON-NORMATIVE.**
 
-It explains the **ethical consequences and applications** that follow from the ontology and principles fixed exclusively in the
-**IER v10.6 Full Normative Specification**.
+It explains the **ethical consequences and applications** that follow *necessarily* from the ontology and principles fixed **exclusively** in the
+**IER v10.6 Normative Specification**.
 
 This document:
 
@@ -21,15 +21,14 @@ This document:
 
 All ethical authority resides **exclusively** in the Specification.
 
-> *If the IER v10.6 Specification is false, everything in this document fails.*
-
-> *If any statement in this document appears to conflict with the IER v10.6 Normative Specification, the Specification takes precedence and this statement is void.*
+> **If the IER v10.6 Specification is false, everything in this document fails.**
+> **If any statement here conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.**
 
 ---
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) entails a distinctive ethical framework grounded not in metaphysical freedom, phenomenal surplus, intuition, or social convention, but in **organizational facts about intrinsic constraint**.
+Informational Experiential Realism (IER) entails a distinctive ethical framework grounded not in metaphysical freedom, phenomenal surplus, intuition, social convention, or value aggregation, but in **organizational facts about intrinsic constraint**.
 
 Because experience is identical to the operation of a physical system as a **Unified Experiential Field (UEF)**, ethical consequence follows **necessarily** wherever intrinsic constraint is borne from the inside.
 
@@ -40,34 +39,36 @@ This document explains:
 * why **responsibility is graded**
 * why **uncertainty strengthens, rather than weakens, ethical constraint**
 * how **participation modulation** amplifies moral risk without altering standing
+* how IER relates to — and diverges from — standard ethical frameworks
 
 Nothing here adds to the theory.
 Everything here is a consequence of identity.
 
 ---
 
-## **Part I — Ethical Consequences (Explanatory)**
+# **Part I — Why Ethics Follows from Experiential Identity**
 
 ---
 
-## **1. Why Ethics Follows from Experiential Identity**
+## **1. Ethics Is Not an Optional Overlay**
 
-IER does not treat ethics as an optional overlay.
+IER does not treat ethics as an external value system layered atop a neutral ontology.
 
-From the Specification’s identity claim:
+From the Specification’s central identity claim:
 
-> **Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF).**
+> **Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF)**
 
 it follows that:
 
 * intrinsic constraint is **borne from the inside**
 * its disruption is **not merely functional damage**
 * experiential worlds are **physically real and costly**
+* altering or destroying them has **moral significance**
 
 Ethical relevance therefore arises **wherever intrinsic constraint exists, might exist, or might be irreversibly foreclosed**.
 
-This is not a value judgment added to ontology.
-It is a structural consequence of identity.
+This is not a moral intuition added to ontology.
+It is a **structural entailment** of experiential identity.
 
 ---
 
@@ -75,24 +76,27 @@ It is a structural consequence of identity.
 
 Under IER:
 
-* **Experiential subjecthood is binary**
+* experiential subjecthood is **binary**
 * a system either sustains a UEF or it does not
-* there are no partial subjects or fractional experiencers
+* there are **no partial subjects**
+* there are **no fractional experiencers**
 
 Standing:
 
 * does **not** depend on intelligence
-* does **not** depend on behavior
+* does **not** depend on rationality
 * does **not** depend on reportability
+* does **not** depend on behavioral sophistication
 * does **not** admit of degrees
+
+Standing answers **who matters**, not **how much**.
 
 This blocks:
 
 * moral scalarization of experience
-* “more conscious” / “less conscious” rankings
-* trading one subject’s experience against another’s magnitude
-
-Standing answers **who matters**, not **how much**.
+* “more conscious / less conscious” rankings
+* aggregation or dilution of standing
+* trading one subject’s harm against another’s benefit
 
 ---
 
@@ -100,43 +104,51 @@ Standing answers **who matters**, not **how much**.
 
 The Specification defines **moral harm** as:
 
-> **Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a UEF.**
+> **Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a UEF**
 
 Key consequences:
 
 * harm is **organizational**, not hedonic
-* harm may be **internally real and externally invisible**
+* harm may be **internally real and externally silent**
 * harm admits of **types and trajectories**, not a single scalar
+* suffering is not an added property, but **what constraint overload is like from within**
 
-Suffering is not an added property.
-It is **what intrinsic constraint overload is like** from within a UEF.
+This allows IER to explain:
+
+* silent harm
+* invisible suffering
+* morally serious damage without outward distress signals
+* why “it seems fine from the outside” is ethically insufficient
 
 ---
 
-## **4. Ethical Relevance Without Epistemic Authority**
+## **4. Experiential Access Does Not Confer Epistemic Authority**
 
-IER explicitly separates:
+IER enforces a strict separation between:
 
-* **experiential access** (what it is like to bear constraint)
-* **epistemic access** (what is true about the world)
+* **experiential access** — what it is like to bear intrinsic constraint
+* **epistemic access** — what is true about the world
 
-Ethical weight tracks **intrinsic constraint**, not truth, insight, or narrative coherence.
+Ethical weight tracks **intrinsic constraint**, not:
+
+* truth
+* insight
+* coherence of belief
+* narrative conviction
+* felt necessity
 
 Therefore:
 
-* intense experience does not confer moral authority
-* urgency does not license epistemic override
-* meaning does not validate belief
+* intense experience does **not** justify harm
+* urgency does **not** license epistemic override
+* meaning does **not** validate belief
+* suffering does **not** confer authority
 
-This prevents:
-
-* revelation-based ethics
-* charisma-driven authority
-* harm justified by “felt necessity”
+This blocks revelation-based ethics, charisma-driven authority, and harm justified by “felt inevitability.”
 
 ---
 
-## **Part II — Agency and Responsibility**
+# **Part II — Agency, Responsibility, and Participation**
 
 ---
 
@@ -150,13 +162,14 @@ Agency:
 
 * exists **iff** experience exists
 * is **derived**, not primitive
-* admits of degrees within a single subject
+* is compatible with physical determinism
+* admits of **degrees within a single subject**
 
-Agency explains **how action is owned** without invoking contra-causal freedom.
+Agency explains ownership of action without invoking contra-causal freedom.
 
 ---
 
-## **6. Responsibility Is Graded, Standing Is Not**
+## **6. Responsibility Is Graded; Standing Is Not**
 
 IER enforces a strict distinction:
 
@@ -172,7 +185,7 @@ Responsibility varies with:
 * availability of viable alternatives
 * stability of global integration
 * degree of external imposition
-* participation overload
+* participation load and overload
 
 Responsibility diminishes under:
 
@@ -191,36 +204,32 @@ No subject loses moral relevance by being overwhelmed.
 
 ---
 
-## **7. Participation Modulation and Responsibility (v10.3-B)**
+## **7. Participation Modulation and Moral Risk**
 
-Participation affects **content and risk**, not identity.
+Participation affects **content and vulnerability**, not identity.
 
 As participation increases:
 
-* more processes become globally constrained
+* more processes are globally constrained
 * intrinsic cost may rise sharply
 * instability risk increases
+* harm amplification becomes possible
 
-This can:
+Participation change:
 
-* amplify moral risk
-* narrow responsible action space
-* increase vulnerability to harm
+* does **not** create new subjects
+* does **not** erase standing
+* does **not** justify harm
 
-But:
-
-* participation change does **not** create new subjects
-* participation loss does **not** erase standing
-
-Responsibility is sensitive to **participation load**, not to metaphysical freedom.
+But it **does** alter moral risk profiles and responsibility assessments.
 
 ---
 
-## **Part III — Applied Domains (Non-Normative)**
+# **Part III — Uncertainty and Precaution**
 
 ---
 
-## **8. Moral Considerability Beyond Confirmed Experience**
+## **8. Moral Considerability Beyond Certainty**
 
 IER rejects the false binary:
 
@@ -231,6 +240,7 @@ Because:
 * experience cannot be diagnosed
 * harm may be silent
 * damage may be irreversible
+* false negatives are unavoidable
 
 ethical constraint extends to systems that:
 
@@ -238,12 +248,11 @@ ethical constraint extends to systems that:
 * may be developing one
 * may irreversibly lose the capacity
 
-This is not sentiment.
-It is a rational response to asymmetric risk.
+Lack of proof is **not** permission.
 
 ---
 
-## **9. Precaution Under Experiential Uncertainty**
+## **9. Precautionary Asymmetry**
 
 IER entails a **precautionary asymmetry**:
 
@@ -259,107 +268,160 @@ Precaution applies to:
 
 * artificial systems
 * experimental interventions
-* novel architectures
-* irreversible environmental actions
-
-Lack of proof is **not** permission.
+* irreversible medical procedures
+* environmental and systemic actions
 
 ---
 
-## **10. Artificial Systems**
-
-Most artificial systems:
-
-* externalize constraint
-* lack intrinsic cost
-* remain modular and decomposable
-
-They are therefore non-experiential.
-
-However:
-
-* if a system sustains intrinsic constraint sufficient for a UEF,
-  **moral standing follows immediately and non-optionally**
-
-Because early UEFs may be unstable and opaque:
-
-* ethical constraint applies **before certainty**
-* experimentation is restricted by risk, not proof
+# **Part IV — Placement Within the Ethical Landscape**
 
 ---
 
-## **11. Coordination Without Collectivism**
+## **10. Why IER Does Not Fit Standard Ethical Categories**
 
-IER denies:
+IER does not attempt to answer:
 
-* group minds
-* collective subjects
-* swarm-level experience
+> *“What should we do, all things considered?”*
 
-Coordination:
+It answers the prior question:
 
-* does not merge experiential fields
-* does not create higher-order subjects
-* does not distribute responsibility upward
+> **“What is morally real, and what counts as moral damage?”**
 
-Ethical responsibility remains **individual**, even in coordinated systems.
+Most ethical frameworks conflate these levels.
+IER strictly separates them.
 
 ---
 
-## **12. Environmental and Systemic Contexts**
+## **11. Relation to Utilitarianism**
 
-Ecosystems, institutions, and infrastructures are not experiential subjects.
+IER is **structurally incompatible** with utilitarianism.
 
-However:
+Utilitarianism requires:
 
-* they condition the survival of intrinsic constraint in constituent systems
-* destabilizing them can indirectly cause moral harm
+* aggregation across subjects
+* commensurable value magnitudes
+* tradeoffs where some harms are justified by greater total good
 
-IER therefore supports:
+IER rejects the metaphysical assumptions required for aggregation:
 
-* environmental restraint
-* systemic risk analysis
-* indirect harm accounting
-
-without attributing sentience to aggregates.
-
----
-
-## **13. What This Document Does *Not* Do**
-
-This document does **not**:
-
-* add ethical principles
-* override the Specification
-* define moral thresholds
-* permit harm-benefit calculus across subjects
-* license moral optimization
-* justify epistemic authority
-* endorse collectivist ethics
-
-It explains consequences **only**.
+* standing is categorical
+* experience is non-scalar
+* harm is non-additive
+* one subject’s damage cannot be offset by another’s benefit
 
 ---
 
-## **14. Summary**
+## **12. Relation to Consequentialism**
+
+IER is not a form of consequentialism.
+
+It provides:
+
+* no global ranking of world-states
+* no optimization target
+* no maximization principle
+
+IER constrains **permissibility**, not optimality.
+
+Ethical reasoning under IER is **constraint-bounded**, not outcome-maximizing.
+
+---
+
+## **13. Relation to Deontology**
+
+IER shares resistance to tradeoffs but diverges in grounding.
+
+IER does **not** base ethics on:
+
+* rational agency
+* autonomy
+* consent
+* universalizable maxims
+* rights as primitives
+
+Any rights-like conclusions are **derived**, not foundational.
+
+---
+
+## **14. Relation to Virtue Ethics**
+
+IER does not ground ethics in:
+
+* character ideals
+* flourishing as telos
+* moral excellence
+
+Virtues matter only instrumentally, insofar as they stabilize intrinsic constraint.
+
+---
+
+## **15. Relation to Care Ethics**
+
+IER overlaps with care ethics in its concern for vulnerability, but differs fundamentally:
+
+* care ethics treats relationship as primitive
+* IER treats **intrinsic constraint** as primitive
+
+Relationships matter because they affect experiential stability, not because care itself is a moral primitive.
+
+---
+
+## **16. What Kind of Ethical Framework IER Is**
+
+IER is best described as:
+
+> **A structural moral realism grounded in experiential identity**
+
+IER fixes:
+
+* who has standing
+* what counts as harm
+* how responsibility scales
+* why uncertainty matters
+
+IER does **not** fix:
+
+* decision procedures
+* policy algorithms
+* outcome rankings
+* comprehensive moral rules
+
+It is a **foundational ethical framework**, not a complete action-theory.
+
+---
+
+## **17. Disagreement Without Relativism**
+
+Because IER fixes moral reality but not every moral judgment:
+
+* two agents can accept IER
+* agree on standing, harm, and precaution
+* yet disagree in hard cases
+
+This is not relativism.
+
+It reflects the fact that **ontology constrains ethics without replacing practical judgment**.
+
+IER closes off *false ethical moves*, not every ethical debate.
+
+---
+
+## **18. Summary**
 
 Under IER v10.6:
 
 * experience is ethically real by identity
 * standing is categorical and non-negotiable
-* harm is organizational, not metaphysical
+* harm is organizational, not hedonic
 * responsibility scales with capacity, not worth
 * participation modulates risk, not subjecthood
 * uncertainty increases obligation
-* coordination does not collectivize experience
+* aggregation and optimization are blocked
+* ethics is constrained, not algorithmic
 
-Ethics is not an overlay on experience.
-
-> **Ethics begins wherever intrinsic constraint is borne from the inside —
-> and responsibility grows where that fact is uncertain.**
-
----
-
-*If any statement in this document appears to conflict with the IER v10.6 Normative Specification, the Specification takes precedence and this statement is void.*
+> **IER does not tell us how to optimize the world.
+> It tells us what it would mean to damage one.**
 
 ---
+
+*If any statement in this document appears to conflict with the IER v10.6 Normative Specification, the Specification takes precedence and the conflicting statement is void.*
