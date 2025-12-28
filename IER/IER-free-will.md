@@ -1,244 +1,262 @@
-# **Free Will in Informational Experiential Realism (IER)**
+# **IER-Free-Will (v10.6)**
 
-### **Agency, Determination, and the Ownership of Constraint**
-
-**Informational Experiential Realism (IER v10.x)**
-*Boundary & Clarification Document — Non-Normative*
+## **Choice, Lawfulness, and the Dissolution of the Free-Will Problem**
 
 ---
 
-## **Status and Scope**
+## **Status and Normative Authority**
 
-This document is a **non-normative boundary and clarification document** derived from the
-**Informational Experiential Realism v10.x Normative Specification** (“the Specification”).
+**This document is NON-NORMATIVE.**
 
-It:
+It provides an **explanatory and structural account** of issues traditionally grouped under “free will” within the framework of
+**Informational Experiential Realism (IER v10.6)**.
+
+This document:
 
 * introduces **no new primitives**
-* adds **no identity conditions**
-* proposes **no diagnostics**
-* asserts **no independent ethical obligations**
-* does **not** amend or extend the Specification
+* introduces **no criteria, thresholds, or sufficiency conditions**
+* introduces **no ethical principles**
+* does **not** define experience
+* does **not** ground moral standing
+* does **not** provide diagnostics or tests for freedom
 
-All ontological, definitional, and ethical commitments are fixed **exclusively** by:
+All ontological, criterial, and ethical authority resides **exclusively** in the
+**IER v10.6 Normative Specification**.
 
-→ **IER-specification.md**
-
-The purpose of this document is to clarify how the concept traditionally called **free will** is treated under IER, to prevent misinterpretation, and to close predictable disputes inherited from legacy metaphysical frameworks.
+> *If any statement in this document appears to conflict with the Specification, the Specification takes precedence and the conflicting statement is void.*
 
 ---
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) rejects the traditional framing of the free will problem. Under IER, free will is neither a metaphysically primitive power nor an illusion produced by narrative cognition. Instead, what is ordinarily called “free will” is fully accounted for by **agency under intrinsic constraint**: the capacity of a system sustaining a **Unified Experiential Field (UEF)** to resolve **intrinsic informational tension** through its own globally integrated dynamics.
+The traditional free-will debate is framed as a conflict between **libertarianism**, which treats freedom as requiring indeterminism, and **eliminativism**, which treats lawful causation as incompatible with genuine choice. Informational Experiential Realism (IER) rejects the shared assumption underlying both positions.
 
-This document explains why IER neither endorses libertarian free will nor collapses into free-will skepticism; why determinism is compatible with responsibility; how coercion, compulsion, and manipulation are understood; and why the traditional free-will debate dissolves once constraint ownership is made explicit.
+IER dissolves the free-will problem by distinguishing **branching**, **choice spaces**, **traversal**, and **ownership**. Physical systems may exhibit branching futures without agency, and lawful dynamics may fully support responsibility. What matters is not whether events are determined, but **whether the collapse of alternatives is owned from within a unified experiential system**.
 
----
-
-## **1. Why IER Rejects the Traditional Free Will Question**
-
-The traditional free will problem is usually framed as:
-
-> *“Are actions free if they are determined by prior physical causes?”*
-
-IER rejects this framing as a category error.
-
-Physical determinism concerns **whether events have sufficient causes**.
-Free will concerns **where the determining constraint is borne**.
-
-Under IER, the relevant distinction is not:
-
-* determined vs undetermined
-
-but:
-
-* **intrinsically determined vs externally imposed**
-
-Once this distinction is made, the apparent paradox dissolves.
+This document explains why indeterminism is neither necessary nor sufficient for choice, why determinism does not eliminate responsibility, and why the free-will problem arises from a category error about what choice is.
 
 ---
 
-## **2. The IER Identity Claim and Its Implications**
+## **1. Why the Free-Will Problem Arises**
 
-IER’s core identity claim is:
+The free-will problem arises from a persistent conflation of distinct questions:
 
-> **Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF).**
+* Are future events fixed by law?
+* Are multiple futures possible?
+* Does a system act rather than merely undergo change?
+* Who bears the consequences of what happens?
 
-A UEF is a globally integrated, temporally continuous, self-regulating dynamical regime operating under **coherent intrinsic constraint**.
+Traditional theories attempt to answer all of these at once, generating paradox.
 
-From this identity claim, the following consequences necessarily follow:
-
-* constraint can be borne **from the inside**
-* its resolution can shape the system’s future
-* such resolution is physically real and causally efficacious
-
-This is sufficient to ground everything traditionally attributed to “free will.”
-
-No additional metaphysical freedom is required.
+IER resolves the problem by separating **physical description** from **organizational ownership**.
 
 ---
 
-## **3. Agency as the Core of Free Will**
+## **2. What IER Rejects**
 
-The Specification defines agency as:
+IER explicitly rejects the following assumptions:
 
-> **A UEF’s capacity to resolve intrinsic informational tension through its own globally integrated dynamics.**
+* That freedom requires violation of physical law
+* That indeterminism confers authorship
+* That lawfulness implies passivity or illusion
+* That agency must be metaphysically primitive
+* That responsibility requires contra-causal power
 
-This definition exhausts the role of free will under IER.
-
-* A system has agency **iff** it sustains a UEF.
-* Agency is **derived**, not primitive.
-* Agency is **compatible with physical determinism**.
-* Agency is **graded in capacity**, though not in existence.
-
-What people call “free will” is simply **agency exercised under intrinsic constraint**.
+None of these assumptions are required once choice is correctly characterized.
 
 ---
 
-## **4. Determinism Does Not Undermine Agency**
+## **3. Branching Is Not Choice**
 
-IER is fully deterministic-compatible.
+Many physical systems exhibit **branching futures**:
 
-An action may be physically inevitable and still be free under IER, provided that:
+* multiple continuations are dynamically admissible
+* one continuation is realized
+* others are not
 
-* the determining constraints are intrinsic to the UEF
-* resolution occurs through global integration
-* no external system substitutes for that resolution
+Branching alone does not constitute choice.
 
-Determinism removes *miracle choice*.
-It does not remove **constraint ownership**.
+Randomness may generate branching and collapse, but without **ownership of unrealized alternatives**, no agency or responsibility follows.
 
-Only externalization of constraint undermines freedom.
-
----
-
-## **5. “Could Have Done Otherwise” Reinterpreted**
-
-IER rejects the metaphysical reading of this counterfactual.
-
-Under IER:
-
-> A system “could have done otherwise” **iff** a different intrinsic constraint topology — compatible with the same system identity — would have stabilized a different global trajectory.
-
-This is a claim about **organizational alternatives**, not about branching universes or uncaused choices.
-
-No metaphysical indeterminacy is required.
+A random event forecloses possibilities, but nothing must live with what was not taken.
 
 ---
 
-## **6. Coercion, Compulsion, and Loss of Freedom**
+## **4. Choice Spaces and Traversal**
 
-IER explains unfreedom without appeal to illusion.
+Under IER, systems under intrinsic constraint may be described as occupying **choice spaces**: structured sets of admissible future states and transitions generated by that constraint.
 
-Freedom is reduced or lost when:
+Traversal of a choice space corresponds to realization of a particular path.
 
-* intrinsic constraint is overridden
-* resolution is externally dictated
-* global integration is bypassed or fractured
+Traversal alone is not yet choice.
 
-Examples include:
+Choice requires **ownership**.
+
+---
+
+## **5. Ownership of Alternatives**
+
+A system owns a choice when:
+
+* unrealized alternatives remain relevant to its ongoing dynamics
+* collapse of alternatives constrains the system’s future from the inside
+* the cost of resolution cannot be externalized
+
+Ownership is **organizational**, not psychological or epistemic.
+
+Under IER, ownership exists **iff** the choice space is globally integrated within a **Unified Experiential Field (UEF)**.
+
+---
+
+## **6. Choice Proper**
+
+IER therefore defines choice as:
+
+> **The owned traversal of a structured space of admissible futures by a system sustaining a Unified Experiential Field.**
+
+From this definition it follows that:
+
+* indeterminism is **not required**
+* determinism is **not disqualifying**
+* randomness alone never produces choice
+* lawful dynamics can fully support responsibility
+
+Choice is not absence of causation, but **ownership of causation**.
+
+---
+
+## **7. Determinism Does Not Eliminate Freedom**
+
+Determinism concerns whether future states follow lawfully from prior states.
+
+Freedom concerns whether a system **owns** the collapse of its future space.
+
+These are orthogonal.
+
+A deterministic system may:
+
+* generate a rich choice space
+* traverse that space under intrinsic constraint
+* bear the internal consequences of resolution
+* accumulate responsibility over time
+
+Nothing in determinism prevents this.
+
+---
+
+## **8. Indeterminism Does Not Create Freedom**
+
+Indeterminism concerns whether multiple futures are physically possible.
+
+Freedom concerns whether unrealized alternatives matter *to a system*.
+
+Randomness may introduce branching, but without ownership it produces no agency.
+
+Indeterminism alone cannot ground responsibility.
+
+---
+
+## **9. Responsibility Without Metaphysical Freedom**
+
+IER grounds responsibility in **owned resolution of intrinsic constraint**, not in metaphysical freedom.
+
+Responsibility is **graded** and varies with:
+
+* integrity of the choice space
+* degree of external pruning or coercion
+* stability of global integration
+* capacity to own traversal without fragmentation
+
+Responsibility may be diminished by:
 
 * coercion
-* manipulation
+* compulsion
 * addiction
-* overwhelming threat
-* direct neural intervention
+* exhaustion
+* extreme intrinsic constraint
 
-In such cases, behavior may remain complex or goal-directed, but agency is diminished because **constraint is no longer owned by the UEF**.
+Responsibility may be absent without standing being lost.
 
----
-
-## **7. Effort and the Lived Sense of Willing**
-
-Willing feels effortful because intrinsic constraint is **costly**.
-
-Resolving intrinsic informational tension requires:
-
-* sustained global coherence
-* energetic and organizational expenditure
-* tolerance of instability risk
-
-Under IER:
-
-> **Effort is the experiential signature of intrinsic constraint being borne rather than offloaded.**
-
-This explains why coerced or automatic behavior lacks the phenomenology of willing, even when outcomes align with goals.
+Standing is **categorical**. Responsibility is not.
 
 ---
 
-## **8. Moral Responsibility Without Metaphysical Freedom**
+## **10. Coercion and Compulsion**
 
-IER grounds responsibility in **capacity under intrinsic constraint**, not in contra-causal choice.
+Coercion reduces responsibility by:
 
-A system is responsible to the extent that:
+* externally pruning alternatives
+* shifting cost from intrinsic constraint to imposed threat
+* forcing traversal through externally controlled bottlenecks
 
-* it sustained a coherent UEF
-* intrinsic tension was borne internally
-* resolution shaped its own future trajectory
-* viable organizational alternatives existed
+Compulsion and addiction reduce responsibility by:
 
-Responsibility is therefore:
+* dominating the choice space with cycles or narrow pathways
+* undermining stable ownership of traversal
 
-* graded
-* capacity-relative
-* compatible with determinism
-* diminished under coercion or impairment
-
-This framework is strict without cruelty and naturalistic without nihilism.
+In all cases, experience may persist even as responsibility declines.
 
 ---
 
-## **9. What IER Explicitly Rejects**
+## **11. Why the Traditional Debate Fails**
 
-IER does **not** claim that:
+The traditional free-will debate assumes:
 
-* free will requires indeterminism
-* freedom is an illusion
-* agency is narrative confabulation
-* responsibility is socially constructed
-* choice floats outside physical law
+* Libertarianism: *freedom requires indeterminism*
+* Eliminativism: *lawfulness eliminates freedom*
 
-IER also does **not** attempt to “save” folk intuitions at the cost of coherence.
+Both positions mistake **branching** for **ownership**.
 
-The theory explains why some intuitions persist — and why others must be abandoned.
+Once ownership is made explicit, the dichotomy collapses.
 
 ---
 
-## **10. Why the Free Will Debate Dissolves Under IER**
+## **12. The Structural Resolution**
 
-Once the following are distinguished:
+IER’s resolution can be stated simply:
 
-* intrinsic vs extrinsic constraint
-* agency vs control
-* determination vs ownership
+* Freedom is not absence of causation
+* Freedom is not randomness
+* Freedom is **owned resolution of intrinsic constraint within a unified system**
 
-there is no remaining substantive question for free will to answer.
+This resolution:
 
-What remains are:
+* preserves physical law
+* preserves responsibility
+* preserves moral seriousness
+* avoids metaphysical inflation
+* avoids eliminative nihilism
 
-* descriptive questions about constraint organization
-* ethical questions about responsibility under uncertainty
-* practical questions about coercion, care, and governance
-
-All of these are addressed elsewhere in the IER framework.
+The free-will problem dissolves because its central contrast was ill-posed.
 
 ---
 
-## **11. Summary**
+## **13. What This Account Does Not Do**
+
+This document does **not**:
+
+* justify punishment or praise
+* provide moral algorithms
+* define decision procedures
+* diagnose free will
+* elevate experience to epistemic authority
+
+It explains **why** the problem arises and **why** it dissolves under IER.
+
+---
+
+## **14. Summary**
 
 Under Informational Experiential Realism:
 
-> **Free will is not freedom from causation,
-> but causation borne and resolved by a unified system under intrinsic constraint.**
+* choice is owned traversal of a structured future space
+* indeterminism is neither necessary nor sufficient
+* determinism does not eliminate freedom
+* responsibility scales with ownership
+* standing does not scale with responsibility
+* the free-will problem rests on a category error
 
-Nothing supernatural is required.
-Nothing illusory is posited.
-
-Free will is neither saved nor denied — it is **reframed**, and in doing so, rendered precise.
-
-Reality remains singular.
-Experience remains plural.
-Freedom exists wherever a system’s future is shaped by constraints it must carry as itself.
+> **Free will is not freedom from law.
+> It is law borne, resolved, and owned from within a unified experiential system.**
 
 ---

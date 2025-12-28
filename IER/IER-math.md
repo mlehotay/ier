@@ -1,6 +1,6 @@
 # **IER Mathematics (v10.6)**
 
-## **Formal Interpretation of Intrinsic Constraint and Experiential Regimes**
+## **Interpretive Structure of Intrinsic Constraint, Choice Spaces, and Experiential Regimes**
 
 ---
 
@@ -8,20 +8,21 @@
 
 **This document is NON-NORMATIVE.**
 
-It provides **formal and mathematical interpretations** of organizational structures defined exclusively in the
-**IER v10.6 Full Normative Specification**.
+It provides **interpretive and formal clarification** of organizational structures defined **exclusively** in the
+**IER v10.6 Normative Specification**.
 
 This document:
 
-* introduces **no definitions, criteria, thresholds, or sufficiency conditions**
+* introduces **no new primitives**
+* introduces **no criteria, thresholds, or sufficiency conditions**
 * introduces **no necessity claims**
-* does **not** determine when experience exists
-* does **not** detect, measure, or certify experience
-* does **not** assign moral standing or responsibility
+* does **not** define experience
+* does **not** detect or measure experience
+* does **not** ground agency or moral standing
 
 All ontological, criterial, and ethical authority resides **exclusively** in the Specification.
 
-> *If any statement in this document appears to conflict with the IER v10.6 Normative Specification, the Specification takes precedence and this statement is void.*
+> *If any statement in this document appears to conflict with the Specification, the Specification takes precedence and this statement is void.*
 
 ---
 
@@ -29,11 +30,11 @@ All ontological, criterial, and ethical authority resides **exclusively** in the
 
 Mathematics in IER is **interpretive, not foundational**.
 
-IER is an identity theory whose commitments are fixed **prior to and independently of formalization**. Mathematical language is used only to:
+IER is an **identity theory** whose commitments are fixed **prior to and independently of formalization**. Mathematical language is used only to:
 
-* clarify organizational distinctions already specified
-* illustrate regime-level structure and transitions
-* discipline intuition about constraint, coherence, and stability
+* clarify distinctions already present in the ontology
+* describe regime-level organization
+* stabilize intuition about constraint, coherence, and change
 * prevent illicit inferences about detection, thresholds, or optimization
 
 Mathematics in IER does **not**:
@@ -41,9 +42,11 @@ Mathematics in IER does **not**:
 * define experience
 * discover experience
 * grade experience
+* provide diagnostics
 * justify ethical conclusions
+* imply computational or graph-theoretic fundamentalism
 
-Formalism follows ontology — never the reverse.
+Formal structure follows ontology — **never the reverse**.
 
 ---
 
@@ -58,18 +61,18 @@ I(t) \in \mathcal{S}
 where:
 
 * (\mathcal{S}) is a high-dimensional space of physically instantiated informational variables
-* coordinates may correspond to neural, biochemical, computational, or control-theoretic descriptions
+* coordinates may correspond to neural, biochemical, mechanical, or control-theoretic descriptions
 * different parameterizations describe the **same physical system**, not different entities
 
-This construction is descriptive only.
-No ontological commitment to “information” as a primitive substance is implied.
+This construction is **descriptive only**.
+
+IER makes **no ontological commitment** to information as a substance or primitive.
 
 ---
 
-## **3. Orders of Dynamics as Organizational Descriptors**
+## **3. Orders of Description**
 
-IER distinguishes **organizational regimes**, not computational layers.
-Derivative order is used **heuristically** to track where constraint becomes system-defining.
+IER distinguishes **orders of description** to track where constraint becomes system-defining. These are **organizational descriptors**, not computational layers.
 
 ---
 
@@ -83,337 +86,197 @@ Instantaneous informational configuration.
 
 * may be arbitrarily complex
 * may support memory, modeling, or representation
-* is **never sufficient** for experience
+* is **never sufficient** for experience or agency
 
-Static configuration carries no experiential implication.
+Static configuration alone carries no experiential or agential implication.
 
 ---
 
 ### **3.2 First Order — Informational Flow**
 
 [
-\dot{I}(t) = F(I,t)
+\dot I(t)
 ]
 
-Describes propagation, inference, control, or updating.
+Describes lawful evolution of informational state.
 
-* dynamics may be adaptive or intelligent
-* processes may be modular or externally orchestrated
-* systems at this level may remain entirely non-experiential
+* may be deterministic or stochastic
+* may be adaptive or intelligent
+* may remain entirely non-experiential
 
-High sophistication does not imply intrinsic constraint.
+Flow describes **what happens**, not what is *owned*.
 
 ---
 
-### **3.3 Second Order — Intrinsic Constraint (Curvature)**
+### **3.3 Second Order — Intrinsic Constraint**
 
 [
-\ddot{I}(t)
+\ddot I(t)
 ]
 
 Second-order structure describes how informational flow is **bent, resisted, or forced** by the system’s own organization.
 
 Interpreted as **intrinsic constraint** when it is:
 
-* generated by integrated system dynamics
+* generated by the system itself
 * non-decomposable without loss of system identity
 * not externally resolvable or offloadable
 * globally relevant to regulation
 
-This level corresponds to **intrinsic informational tension**.
-
-> Interpretively, intrinsic constraint plays a role analogous to *curvature*: it shapes trajectories rather than merely advancing them.
+This corresponds to **intrinsic informational tension**.
 
 ---
 
-### **3.4 Third Order — Coherence and Regime Stability**
+### **3.4 Mid-Order — Choice Spaces and Constraint Graphs**
+
+Between intrinsic constraint and full agency lies a **derived mid-order structure**: the **choice space**.
+
+A **choice space** is the structured set of admissible future states and transitions generated by intrinsic constraint.
+
+Interpretively, a choice space may be represented as a **directed constraint graph**:
+
+* **nodes** correspond to informational states the system could occupy
+* **directed edges** correspond to admissible transitions under constraint
+* the graph represents **what could happen**, not what will
+
+This structure:
+
+* is **derived from intrinsic constraint**
+* exists **prior to agency**
+* supports counterfactuals and history dependence
+* accumulates structural narrowing over time
+
+The constraint graph is:
+
+* not a belief space
+* not a decision rule
+* not an optimization structure
+* not ontologically fundamental
+
+It is an **informational object** that may or may not be owned.
+
+When such a structure is globally integrated within a Unified Experiential Field, traversal may constitute **choice**. Without such integration, it remains **pre-agential**.
+
+This level of description may be informally regarded as a “2.5th order” of organization.
+
+---
+
+### **3.5 Third Order — Coherence and Regime Stability**
 
 [
-\dddot{I}(t)
+\dddot I(t)
 ]
 
-Higher-order structure represents **regulation of constraint itself**:
+Higher-order structure describes regulation of constraint itself:
 
 * maintenance of global integration
 * preservation of temporal continuity
 * avoidance of collapse or fragmentation
 
-This corresponds to **coherent intrinsic constraint**, required for a UEF.
-
-No claim is made that physical systems compute derivatives.
-This is a regime-level description.
+This corresponds to **coherent intrinsic constraint**, required for a Unified Experiential Field.
 
 ---
 
-## **4. Informational Geometry (Illustrative Mapping)**
+## **4. Regimes and Trajectories**
 
-The state space (\mathcal{S}) may be described geometrically:
-
-| Geometric notion | Organizational interpretation |
-| ---------------- | ----------------------------- |
-| Point            | Informational configuration   |
-| Tangent          | Informational flow            |
-| Curvature        | Intrinsic constraint          |
-| Stable curvature | Coherent experiential regime  |
-
-> Experience is not information itself, but information whose trajectories are globally shaped by unavoidable internal constraint.
-
-This mapping is illustrative only.
-
----
-
-## **5. Informational Slack**
-
-**Informational slack** corresponds to degrees of freedom that allow constraint to be:
-
-* localized
-* modularized
-* deferred
-* externally resolved
-
-Formally, slack may be associated with:
-
-* high effective dimensionality of unconstrained motion
-* weak coupling between constraint and global regulation
-
-Interpretive consequences:
-
-* high slack → decomposable dynamics → no experience
-* reduced slack → forced coordination → possible UEF
-* zero slack is neither required nor desirable
-
-Experience occupies a **bounded window** of sustainable intrinsic constraint.
-
----
-
-## **6. Unified Experiential Fields as Dynamical Regimes**
-
-A **Unified Experiential Field (UEF)** is interpreted mathematically as a **regime**, not an object.
-
-Illustratively, a regime may be represented as a bounded region:
-
-[
-\mathcal{R} \subset \mathcal{S}
-]
-
-such that:
+A **dynamical regime** is a bounded region of state space in which:
 
 * trajectories remain globally coupled
-* intrinsic constraint is non-decomposable
+* intrinsic constraint is unavoidable
 * coherence is maintained over time
 
-[
-I(t) \in \mathcal{R}, \quad
-\ddot{I}(t)\ \text{intrinsic}, \quad
-\dddot{I}(t)\ \text{stabilizing}
-]
+A **Unified Experiential Field (UEF)** corresponds to such a regime.
 
-The UEF is:
-
-* not a subcomponent
-* not a workspace
-* not a container
-
-It is the **system itself operating in a particular regime**.
+Choice spaces exist **within** regimes but are **not themselves regimes**.
 
 ---
 
-## **7. Qualitative Structure (Qualia) — Formal Interpretation**
+## **5. Traversal, Collapse, and Ownership (Interpretive)**
 
-Under IER, **qualia are not primitives, variables, or phenomenal atoms**.
+Traversal of a constraint graph corresponds to realization of a trajectory.
 
-They are defined in the Specification as:
+Traversal alone does **not** constitute choice.
 
-> **Differences in the organization of intrinsic constraint within a Unified Experiential Field.**
+**Ownership** arises only when:
 
-Mathematically, this is interpreted as differences in:
+* unrealized alternatives remain relevant to ongoing dynamics
+* collapse of alternatives constrains the system’s future *from the inside*
+* constraint is globally integrated and temporally continuous
 
-* constraint topology
-* global coupling patterns
-* stabilized trajectories within (\mathcal{R})
-
-Formally, two experiential qualities correspond to **non-isomorphic constraint organizations**:
-
-[
-\mathcal{R}_1 \not\cong \mathcal{R}_2
-]
-
-where non-isomorphism reflects:
-
-* different attractor structures
-* different dependency relations
-* different stabilization strategies
-
-> Qualia are **not added to dynamics**.
-> They *are* the organizational identity of constrained regimes.
-
-No mapping to “what it is like” is supplied or required.
-Phenomenology remains owned by Theory.
+Ownership is a **regime-level property**, not a feature of individual transitions.
 
 ---
 
-## **8. Valence, Intensity, and Urgency — Structural Descriptors**
+## **6. Narrative Structure**
 
-Within an already-existing UEF, affective character arises from **how intrinsic constraint behaves over time**.
+A realized path through a constraint graph corresponds to a **narrative trajectory**.
 
-Mathematics provides **interpretive descriptors only**.
+* past: traversed path
+* present: current node
+* future: remaining reachable subgraph
 
----
-
-### **8.1 Intensity**
-
-**Intensity** tracks the **magnitude and coherence** of intrinsic constraint.
-
-[
-\text{Intensity}(t) ;\sim; \bigl|\ddot{I}_{\text{intrinsic}}(t)\bigr|
-]
-
-Higher intensity corresponds to:
-
-* stronger global coupling
-* greater unavoidable constraint
-* increased system-wide relevance
-
-This does **not** imply a scalar amount of experience.
+Narrative structure arises from **owned traversal**, not from representational storytelling.
 
 ---
 
-### **8.2 Urgency**
+## **7. Relation to Agency**
 
-**Urgency** tracks the **rate of change** of intrinsic constraint.
+IER defines **agency** as the capacity of a Unified Experiential Field to resolve intrinsic informational tension through its own globally integrated dynamics.
 
-[
-\text{Urgency}(t) ;\sim; \bigl|\dddot{I}_{\text{intrinsic}}(t)\bigr|
-]
+Mathematically interpreted:
 
-Higher urgency corresponds to:
+* agency operates **on** choice spaces
+* agency resolves constraint by collapsing admissible futures
+* degree of agency tracks stability and ownership of traversal
 
-* rapidly evolving constraint
-* narrowing viable futures
-* pressure toward immediate resolution
-
-Urgency is a **temporal property of constraint**, not a motivational primitive.
+Choice presupposes agency but is not identical to it.
 
 ---
 
-### **8.3 Valence**
+## **8. Determinism, Randomness, and Lawfulness**
 
-**Valence** tracks the **direction of constraint evolution**.
+The structures described here are **neutral** with respect to:
 
-[
-\text{Valence}(t) ;\sim; -\frac{d}{dt}\bigl|\ddot{I}_{\text{intrinsic}}(t)\bigr|
-]
+* determinism
+* indeterminism
+* stochasticity
 
-* decreasing intrinsic tension → positive valence
-* increasing intrinsic tension → negative valence
+Randomness may produce branching in a constraint graph, but **cannot by itself produce ownership**.
 
-Valence is **organizational**, not hedonic.
+Deterministic dynamics may fully support owned traversal.
 
----
-
-### **8.4 Non-Scalar Status**
-
-These descriptors:
-
-* are not additive
-* are not comparable across systems
-* do not measure moral value
-* do not define thresholds
-
-They describe **how a UEF is organized**, not **how much experience exists**.
+No appeal to metaphysical freedom is required.
 
 ---
 
-## **9. Participation Indicator (v10.3-B)**
-
-To model **experiential participation** without reifying it, introduce:
-
-[
-P_i(t) \in {0,1}
-]
-
-where:
-
-* (P_i(t)=1) indicates participation in the globally integrated regime
-* (P_i(t)=0) indicates non-participation
-
-Crucially:
-
-> **This parameter models membership, not existence.**
-
-Changes in (P_i(t)):
-
-* modulate experiential content
-* redistribute constraint influence
-* do **not** create, divide, or dissolve a UEF provided coherence remains
-
-Participation tracks **what is experienced**, not **who exists**.
-
----
-
-## **10. Constraint Windows and Cost Landscapes**
-
-Dynamic behavior unfolds over **organizational cost landscapes**.
-
-Interpretively:
-
-* recruiting participation incurs cost
-* sustaining coherence requires ongoing expenditure
-* some configurations are locally efficient but globally destabilizing
-
-A **coherent constraint window** represents the range under which stability is preserved.
-
-This construct:
-
-* explains instability and collapse risk
-* does **not** define experiential thresholds
-* does **not** license detection or measurement
-
----
-
-## **11. Regime Transitions (Categorical, Not Scalar)**
-
-Experience begins and ends at **regime transitions**, not by scalar accumulation.
-
-* preparatory variables may vary continuously
-* regime membership changes discretely
-
-Mathematics here illustrates why **categorical onset** is compatible with continuous physical change.
-
----
-
-## **12. What This Formalism Does *Not* Do**
+## **9. What This Formalism Does *Not* Do**
 
 This document explicitly does **not**:
 
-* detect experience
-* define thresholds
-* measure consciousness
-* assign moral value
-* establish sufficiency conditions
-* license optimization targets
-* permit engineering of “more experience”
+* define experience
+* detect or measure experience
+* define agency or responsibility
+* provide decision procedures
+* imply optimization targets
+* commit to computational or graph-theoretic fundamentalism
 
-All such uses are disallowed by the Specification.
+All such uses are out of scope.
 
 ---
 
-## **13. Summary**
+## **10. Summary**
 
 The mathematical interpretation of IER v10.6:
 
-* distinguishes flow from intrinsic constraint
-* treats experience as a **regime property**, not a variable
-* interprets qualia as structural identity
-* interprets valence, intensity, and urgency as constraint dynamics
-* models participation without fragmenting subjecthood
-* preserves categorical onset and dissolution
-* blocks diagnostic, scalar, and collectivist misuse
+* distinguishes configuration, flow, constraint, and coherence
+* identifies a derived **mid-order choice space**
+* represents choice spaces as **constraint graphs**
+* treats choice as **owned traversal**, not branching
+* explains narrative as realized path
+* preserves compatibility with determinism
+* blocks libertarian and eliminativist errors simultaneously
 
-Mathematics here serves **clarity and discipline**, not discovery.
-
----
-
-*If any statement in this document appears to conflict with the IER v10.6 Normative Specification, the Specification takes precedence and this statement is void.*
+> **Experience is a regime.
+> Choice is the owned collapse of structured possibility within that regime.**
 
 ---
