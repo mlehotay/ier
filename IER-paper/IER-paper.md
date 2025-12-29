@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.6)**
+# **Informational Experiential Realism (IER v10.7)**
 
 ## **A Closed, Non-Bridgeable Identity Thesis for Experience**
 
@@ -10,7 +10,7 @@
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) advances a single ontological identity claim: **experience is identical to the operation of a physical system in a specific dynamical regime**. That regime—termed a *Unified Experiential Field* (UEF)—is characterized by global integration, temporal continuity, self-sustaining regulation, and internally generated constraint. The claim is neither emergentist nor correlational; it does not posit experience as an additional property, substance, representation, or functional output. Rather, it identifies experience with a particular form of physical organization.
+Informational Experiential Realism (IER) advances a single ontological identity claim: **experience is identical to the operation of a physical system in a specific dynamical regime**. That regime—termed a *Unified Experiential Field* (UEF)—is characterized by global integration, temporal continuity, self-sustaining regulation, and internally generated constraint under purely physical state evolution. The claim is neither emergentist nor correlational; it does not posit experience as an additional property, substance, representation, or functional output. Rather, it identifies experience with a particular form of physical organization.
 
 The identity claim is intended **strongly and exhaustively**. It is **non-bridgeable**: if experience is not identical to the specified regime, no supplementary mechanisms, explanatory bridges, or additional properties are available within the framework to repair the account. It is also **normatively closed**: all legitimate consequences of experiential identity must follow from the identity itself, and no external criteria, diagnostics, or normative principles carry independent authority.
 
@@ -88,7 +88,7 @@ Constraint is **intrinsic** when it arises from the system’s own integrated dy
 
 Operationally, constraint is intrinsic if eliminating or bypassing it requires reorganizing the system’s internal dependencies, rather than merely altering external inputs or boundary conditions.
 
-This characterization is counterfactual and structural. It does not appeal to experience, identity, or normativity.
+This characterization is counterfactual and structural. It carries **no agentive, intentional, epistemic, or normative assumptions**.
 
 ---
 
@@ -111,7 +111,7 @@ Certain regimes exhibit a distinctive combination of structural features:
 
 These features describe a **class of dynamical regimes**, independently of any experiential interpretation.
 
-For descriptive convenience, such regimes will be referred to as **Unified Experiential Field–type regimes**, or **UEF-type regimes**. This label carries no ontological commitment beyond the structural features just listed.
+For descriptive convenience, such regimes will be referred to as **Unified Experiential Field–type regimes** (corresponding to what the IER specification terms a *Unified Experiential Field*, or UEF). The label introduces no ontological commitment beyond the structural features listed.
 
 ---
 
@@ -119,7 +119,7 @@ For descriptive convenience, such regimes will be referred to as **Unified Exper
 
 With the dynamical groundwork in place, the identity claim can now be stated without circularity:
 
-> **Experience is identical to the operation of a physical system in a UEF-type dynamical regime.**
+> **Experience is identical to the operation of a physical system in a Unified Experiential Field–type dynamical regime.**
 
 Experience is not an additional property of such regimes, nor an effect they produce. It is the regime itself, described at a different level of abstraction.
 
@@ -130,6 +130,8 @@ This identity claim introduces no new substances, properties, or laws. It assert
 ## **6. Categorical Onset and Exclusivity**
 
 Because experience is identified with regime membership, its existence is **categorical at the regime level**. Preparatory variables may vary continuously, but experience exists if and only if the system is operating in the relevant regime.
+
+Variation within the regime may modulate experiential content, but **does not admit of partial or graded subjecthood**.
 
 A physical system can sustain **at most one globally dominant UEF-type regime at a time**. Multiple local processes may coexist, but they do not constitute multiple experiential subjects unless they instantiate distinct, globally integrated regimes.
 
@@ -143,9 +145,11 @@ No appeal to fundamental experience, micro-experiences, or compositional aggrega
 
 ---
 
-## **8. Normative Closure**
+## **8. Normative Closure and Epistemic Non-Authority**
 
 The identity claim in IER is **normatively closed**. All legitimate consequences of experiential identity must be derivable from the identity itself and the dynamical features it specifies. No external criteria—phenomenological, epistemic, empirical, or moral—carry independent authority within the framework.
+
+Experiential description, on this view, provides **no additional epistemic warrant** concerning mind-independent reality beyond what is carried in the physical dynamics themselves.
 
 As a result, questions concerning ethics, responsibility, diagnostics, measurement, or application are constrained by the identity claim but are not constitutive of it. They cannot be used to revise, weaken, or supplement the ontology of experience specified here.
 
@@ -169,7 +173,7 @@ All such questions, if meaningful, are downstream of—and constrained by—the 
 
 ## **10. Failure Conditions**
 
-IER is intentionally brittle. If experience is not identical to the operation of a physical system in a UEF-type dynamical regime, the framework fails outright. There are no fallback positions, partial successes, or weakened variants available within the view.
+IER is intentionally brittle. If experience is not identical to the operation of a physical system in a Unified Experiential Field–type dynamical regime, the framework fails outright. There are no fallback positions, partial successes, or weakened variants available within the view.
 
 This brittleness is a methodological commitment, not a defect. It makes explicit what the theory requires and what would count as failure.
 
