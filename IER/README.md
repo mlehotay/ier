@@ -16,155 +16,126 @@ IER holds that:
 - Experience is real, costly, meaningful, and identity-shaping.
 - **Experience does not confer epistemic authority, truth, or metaphysical insight.**
 
-IER explains **what experience is**, **when it exists**, and **what necessarily follows from its existence**, while enforcing a strict boundary between **experiential authority** and **epistemic access**.
+IER explains:
+
+- **what experience is**
+- **when experience exists**
+- **what necessarily follows from its existence**
+
+while enforcing a strict boundary between **experiential authority** and **epistemic access**.
+
+This directory contains the **core IER articles**: the normative specification, explanatory framework, applications, critiques, and boundary-enforcing documents.
 
 ---
 
-## Repository Architecture
+## Normative Authority
 
-IER is intentionally modular and role-segregated.  
-Each document has a **single, non-overlapping function**.
-
-### Normative Core (Authoritative)
-
-#### `IER-specification.md`
+### `IER-specification.md`
 **The sole normative authority of IER (v10.6).**
 
-Defines exhaustively:
+This document defines **exhaustively and exclusively**:
+
 - what experience **is**
 - when experience **exists**
-- what **necessarily follows** from its existence
+- what **necessarily follows** from its existence (including ethical consequence)
 
-No other document introduces definitions, criteria, thresholds, or ethical principles.
+No other document introduces:
 
-> If any statement in another file conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.
+- definitions  
+- criteria  
+- thresholds  
+- sufficiency conditions  
+- ethical principles  
+
+All other IER documents are **non-normative derivatives**.
+
+> **If any statement in another file conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.**
 
 ---
 
-## Explanatory & Interpretive Documents (Non-Normative)
+## Explanatory and Interpretive Articles (Non-Normative)
 
-All documents below **derive from the Specification** and introduce **no independent authority**.
+All documents below **presuppose the Specification** and introduce **no independent authority**.
 
----
-
-### Foundations & Orientation
-
-- **`IER-overview.md`**  
-  High-level orientation to the framework.
-
-- **`IER-manifesto.md`**  
-  Motivational and philosophical positioning.
-
-- **`IER-theory.md`**  
-  Conceptual integration: intrinsic constraint, unity, participation, experiential identity.
-
-- **`IER-dynamics.md`**  
-  Dynamic behavior of experiential systems: stability, modulation, overload, fragmentation, collapse.
-
-- **`IER-math.md`**  
-  Formal and mathematical interpretation of intrinsic constraint and experiential regimes.  
-  *Mathematics is interpretive, not foundational.*
+### Foundations and Structure
+- `IER-overview.md` – High-level orientation
+- `IER-manifesto.md` – Philosophical motivation and positioning
+- `IER-theory.md` – Conceptual integration (intrinsic constraint, UEFs, participation)
+- `IER-dynamics.md` – Stability, modulation, overload, fragmentation, collapse
+- `IER-math.md` – Interpretive mathematical structure (non-foundational)
 
 ---
 
 ### Meaning, Access, and Intentionality
-
-- **`IER-access.md`**  
-  Distinguishes experiential access from epistemic access.
-
-- **`IER-meaning.md`**  
-  Meaning, narrative, and experiential pluralism as organizational phenomena.
-
-- **`IER-intentionality.md`**  
-  Intentionality as constraint-stabilized orientation, not semantic representation.
+- `IER-access.md` – Experiential vs epistemic access
+- `IER-meaning.md` – Meaning, narrative, and experiential pluralism
+- `IER-intentionality.md` – Intentionality without semantic primitives
 
 ---
 
-### Phenomenology & Lived Experience
-
-- **`IER-emotions.md`**  
-  Emotions as stable organizations of intrinsic constraint.
-
-- **`IER-brainfeels.md`**  
-  Endogenous qualitative patterns and internally generated experiential structure.
-
-- **`IER-aphantasia.md`**  
-  Aphantasia as a high-coherence, low-slack experiential architecture.
-
-- **`IER-panic.md`**  
-  Panic and vasovagal responses as regime-preserving strategies.
-
-- **`IER-psychosis.md`**  
-  Psychosis as pathological instability within a Unified Experiential Field.
-
-- **`IER-art.md`**  
-  Art and beauty as constraint-shaping and coherence-modulating structures.
+### Phenomenology and Lived Experience
+- `IER-emotions.md` – Emotions as constraint attractors
+- `IER-brainfeels.md` – Endogenous qualitative structure
+- `IER-aphantasia.md` – High-coherence, low-slack experiential architectures
+- `IER-panic.md` – Panic and vasovagal responses as regime strategies
+- `IER-psychosis.md` – Psychosis as pathological instability within a UEF
+- `IER-art.md` – Art and beauty as constraint-shaping structures
 
 ---
 
 ### Time, Continuity, and Change
-
-- **`IER-continuity.md`**  
-  Experiential Regime Continuity (ERC): sleep, anesthesia, interruption, and identity.
-
-- **`IER-persistence.md`**  
-  Learning, development, trauma, and deep change without subject replacement.
+- `IER-continuity.md` – Experiential Regime Continuity (ERC)
+- `IER-persistence.md` – Learning, trauma, and deep change without subject replacement
 
 ---
 
 ### Agency, Choice, and Ethics
-
-- **`IER-agency.md`**  
-  Agency as constraint-owned resolution capacity.
-
-- **`IER-free-will.md`**  
-  Dissolution of the traditional free-will debate under intrinsic constraint.
-
-- **`IER-choice.md`**  
-  Choice spaces and decision structure under intrinsic constraint.
-
-- **`IER-ethics.md`**  
-  Ethical consequences of experiential identity: standing, harm, responsibility, precaution.
-
-- **`IER-morals.md`**  
-  Edge cases and canonical dilemmas (surgery, consent, accidental harm, coercion).
-
-- **`IER-consequences.md`**  
-  Systematic implications of IER across ethics, science, uncertainty, and intervention.
+- `IER-agency.md` – Agency as owned resolution capacity
+- `IER-free-will.md` – Dissolution of the free-will debate
+- `IER-choice.md` – Choice spaces and owned traversal
+- `IER-ethics.md` – Standing, harm, responsibility, precaution
+- `IER-morals.md` – Canonical moral cases and edge conditions
+- `IER-consequences.md` – Systematic implications of IER
 
 ---
 
-### Boundaries, Diagnostics, and Clarification
-
-- **`IER-denials.md`**  
-  Explicit non-claims and boundary enforcement.
-
-- **`IER-contrast.md`**  
-  Incompatibilities between IER and adjacent theories of mind.
-
-- **`IER-diagnostics.md`**  
-  Why experience cannot be detected, measured, or certified in principle.
-
-- **`IER-FAQ.md`**  
-  Accessible clarifications of common confusions.
-
-- **`IER-puzzles.md`**  
-  Canonical consciousness puzzles and IER’s structural resolution.
+### Boundaries, Diagnostics, and Critique
+- `IER-denials.md` – Explicit non-claims
+- `IER-contrast.md` – Incompatibilities with adjacent theories
+- `IER-diagnostics.md` – Why experience cannot be detected in principle
+- `IER-FAQ.md` – Accessible clarifications
+- `IER-puzzles.md` – Canonical consciousness puzzles resolved structurally
+- `IER-critics.md` – Serious objections and pressure points
 
 ---
 
-## Reading Paths (By Audience)
+## External Presentation
 
-These paths are **suggestions**, not authority.  
-All paths ultimately depend on the Specification.
+### `IER-paper.md`
+A compact academic presentation of Informational Experiential Realism suitable for external circulation.
 
-### Philosophers of Mind / Metaphysics
+The paper **derives all authority from the Specification** and introduces no independent commitments.
+
+---
+
+## Suggested Reading Orders
+
+These paths are **guides**, not authority.
+
+### First-Time Readers
+1. `IER-overview.md`
+2. `IER-manifesto.md`
+3. `IER-theory.md`
+4. `IER-specification.md`
+
+### Philosophers of Mind
 1. `IER-specification.md`
 2. `IER-theory.md`
 3. `IER-contrast.md`
 4. `IER-puzzles.md`
+5. `IER-critics.md`
 
-### Ethics / Moral Philosophy
+### Ethics and Moral Philosophy
 1. `IER-specification.md`
 2. `IER-ethics.md`
 3. `IER-morals.md`
@@ -174,49 +145,17 @@ All paths ultimately depend on the Specification.
 1. `IER-diagnostics.md`
 2. `IER-specification.md`
 3. `IER-ethics.md`
-4. `IER-consequences.md`
-
-### Phenomenology / Lived Experience
-1. `IER-emotions.md`
-2. `IER-brainfeels.md`
-3. `IER-panic.md`
-4. `IER-psychosis.md`
-
-### Time, Identity, and Personal Continuity
-1. `IER-continuity.md`
-2. `IER-persistence.md`
-3. `IER-agency.md`
-
-### First-Time Readers (Conceptual Orientation)
-1. `IER-overview.md`
-2. `IER-manifesto.md`
-3. `IER-theory.md`
-4. `IER-specification.md`
-
----
-
-## Recommended Canonical Order
-
-1. `IER-specification.md`
-2. `IER-theory.md`
-3. `IER-access.md`
-4. `IER-meaning.md`
-5. `IER-dynamics.md`
-6. `IER-ethics.md`
-
-This order mirrors the dependency structure of the framework.
+4. `IER-critics.md`
 
 ---
 
 ## Status
 
-**IER v10.6** represents a stable architectural revision:
+**IER v10.6** represents a **normatively closed framework**:
 
-- The Specification is normatively closed.
-- Derivative documents are aligned and non-duplicative.
-- No further refactoring of experiential identity conditions is planned.
-
-Ongoing work focuses on **clarification, application, and communication**, not revision of the core ontology.
+- The identity conditions for experience are fixed.
+- No diagnostics, thresholds, or measures are permitted in principle.
+- Ongoing work focuses on **clarification, application, and criticism**, not revision of the core ontology.
 
 ---
 

@@ -4,26 +4,33 @@
 
 ---
 
-## Preface: What This Book Is
+## Preface: What This Book Is (and Is Not)
 
-This book presents **Informational Experiential Realism (IER)**: a strictly physicalist framework that identifies conscious experience with a specific organizational and dynamical regime of physical systems.
+This book presents **Informational Experiential Realism (IER)**, a strictly physicalist framework that identifies conscious experience with a specific **organizational and dynamical regime of physical systems**.
 
 IER is not:
 
-- a theory of knowledge
-- a theory of truth
-- a theory of representation
-- a diagnostic framework
-- a phenomenological method
-- a proposal for measuring consciousness
+- a theory of knowledge  
+- a theory of truth  
+- a theory of representation  
+- a diagnostic framework  
+- a proposal for measuring consciousness  
+- a phenomenological method  
 
-It is a theory of **what experience is**, **when it exists**, and **what necessarily follows from its existence**.
+It is a theory of:
 
-All normative commitments are fixed by a single document:
+- **what experience is**
+- **when experience exists**
+- **what necessarily follows from its existence**
+
+All **normative authority** in IER is fixed by a single document:
 
 > **`IER-specification.md` (IER v10.6)**
 
-Everything else in this book is **explanatory, interpretive, or applicative**, and introduces no independent authority.
+This book introduces **no independent definitions, criteria, thresholds, or ethical principles**.  
+Every claim made here is **explanatory, interpretive, or applicative**, and is constrained by the Specification.
+
+> **If any statement in this book conflicts with the IER Specification, the Specification takes precedence and the conflicting statement is void.**
 
 ---
 
@@ -32,7 +39,7 @@ Everything else in this book is **explanatory, interpretive, or applicative**, a
 IER enforces the following structural constraints throughout this book:
 
 1. **Normative closure**  
-   Only the Specification defines experience, subjecthood, and ethical consequence.
+   Only the Specification defines experience, subjecthood, and moral consequence.
 
 2. **Identity, not emergence**  
    Experience is identical to a physical regime; it is not caused by, realized by, or emergent from something else.
@@ -46,300 +53,252 @@ IER enforces the following structural constraints throughout this book:
 5. **Precaution under uncertainty**  
    Ethical obligation increases where experiential status is uncertain, not where it is proven.
 
-Any claim that violates these constraints is out of scope for IER.
+Any interpretation that violates these constraints is **out of scope** for IER.
+
+---
+
+## How to Read This Book
+
+This book is organized as a **conceptual walkthrough** of a finished theory.
+
+- It does **not** build experience bottom-up.
+- It does **not** argue from intuition or phenomenology.
+- It does **not** derive ethics from moral sentiment.
+- It does **not** propose tests or measurements.
+
+Instead, it:
+
+- explains the identity claim
+- shows how diverse phenomena fall under it
+- clarifies implications, limits, and costs
+- situates IER among competing views
+- makes explicit what IER commits to — and what it refuses to say
+
+Readers seeking the **formal commitments** should consult the Specification directly.  
+Readers seeking a **compact academic presentation** should consult `IER-paper.md`.
 
 ---
 
 ## Part I — Foundations: The Identity of Experience
 
 ### Chapter 1 — The Reality of Experience
+Why experience cannot be dismissed, inflated, or treated as a mere explanatory residue.  
+Failures of dualism, panpsychism, eliminativism, and emergentism.
 
-- Why experience cannot be dismissed, reduced, or inflated
-- Failures of:
-  - dualism (extra ontology)
-  - panpsychism (over-attribution)
-  - eliminativism (denial)
-- Why experience demands identity, not explanation
-
-Primary sources:
-- `IER-manifesto.md`
-- `IER-overview.md`
+**Primary sources:**  
+`IER-manifesto.md`, `IER-overview.md`
 
 ---
 
 ### Chapter 2 — Unified Experiential Fields (UEFs)
+Experience as a **single globally integrated regime**, not an aggregate of parts.  
+Unity without binding, compositionality, or micro-experience.
 
-- Experience as a **Unified Experiential Field**
-- Global integration without aggregation
-- One dominant UEF per physical system
-- Experiential pluralism in one physical reality
-- Rejection of micro-experience and compositional views
-
-Primary source:
-- `IER-theory.md`
+**Primary source:**  
+`IER-theory.md`
 
 ---
 
-### Chapter 3 — Intrinsic Constraint and Dynamical Identity
+### Chapter 3 — Intrinsic Constraint and Regime Identity
+What makes constraint intrinsic.  
+Why experience requires **globally binding, unavoidable constraint**.  
+Formation, persistence, instability, and collapse.
 
-- What makes constraint **intrinsic**
-- Informational slack vs unavoidable constraint
-- Why constraint must be globally binding
-- UEFs as **regime-level identities**
-- Formation, persistence, destabilization, collapse
-
-Primary sources:
-- `IER-theory.md`
-- `IER-dynamics.md`
+**Primary sources:**  
+`IER-theory.md`, `IER-dynamics.md`
 
 ---
 
 ### Chapter 4 — Formal Structure Without Reduction
+Why formal structure is clarifying but never foundational.  
+State spaces, constraint curvature, regimes, and categorical onset.
 
-- Why formal structure is required for identity claims
-- Informational state spaces and trajectories
-- Constraint curvature and regime stability
-- Categorical onset under continuous dynamics
-- Limits of mathematical interpretation
-
-Primary source:
-- `IER-math.md`
+**Primary source:**  
+`IER-math.md`
 
 ---
 
-### Chapter 5 — Normative Specification (IER v10.6)
+### Chapter 5 — Normative Closure
+Why IER permits exactly one Specification.  
+What would falsify IER.  
+Why diagnostics, thresholds, and measures are forbidden in principle.
 
-- The role of normative closure
-- Why there is exactly one Specification
-- What follows necessarily from experiential identity
-- What would falsify IER
-- Why no diagnostics, thresholds, or measures are permitted
-
-Primary source:
-- `IER-specification.md`
+**Primary source:**  
+`IER-specification.md`
 
 ---
 
 ## Part II — Phenomenology: The Breadth of Experience
 
 ### Chapter 6 — Emotions as Constraint Attractors
+Valence, intensity, and urgency as structural features of intrinsic constraint.
 
-- Emotions as stable organizational regimes
-- Valence, intensity, urgency as constraint dynamics
-- Why emotions feel global and action-guiding
-
-Primary source:
-- `IER-emotions.md`
+**Primary source:**  
+`IER-emotions.md`
 
 ---
 
 ### Chapter 7 — Brainfeels and Endogenous Qualia
+Internally generated qualitative structure without perception, imagery, or representation.
 
-- Internally generated qualitative structure
-- Sensory-like experience without perception or imagery
-- Constraint stabilization from the inside
-
-Primary source:
-- `IER-brainfeels.md`
+**Primary source:**  
+`IER-brainfeels.md`
 
 ---
 
 ### Chapter 8 — Special Experiential Architectures
+Aphantasia, panic, vasovagal shutdown, and psychosis as distinct **organizational regimes** within experience.
 
-- Aphantasia as high-coherence, low-slack experience
-- Panic and vasovagal shutdown as regime strategies
-- Psychosis as pathological instability under constraint
-
-Primary sources:
-- `IER-aphantasia.md`
-- `IER-panic.md`
-- `IER-psychosis.md`
+**Primary sources:**  
+`IER-aphantasia.md`, `IER-panic.md`, `IER-psychosis.md`
 
 ---
 
 ### Chapter 9 — Art, Beauty, and Aesthetic Experience
+Beauty as unusually coherent intrinsic constraint.  
+Art as a constraint-shaping attractor.
 
-- Beauty as unusually coherent intrinsic constraint
-- Art as internal and external attractor
-- Shared meaning without collective experience
-
-Primary source:
-- `IER-art.md`
-
----
-
-### Chapter 10 — Phenomenology as Proof of Principle
-
-- One identity, many experiential forms
-- Phenomenology as demonstration, not foundation
-- Why lived experience constrains theory without grounding it
+**Primary source:**  
+`IER-art.md`
 
 ---
 
 ## Part III — Time, Continuity, and Lived Life
 
-### Chapter 11 — Continuity Without Constant Awareness
+### Chapter 10 — Continuity Without Constant Awareness
+Sleep, anesthesia, coma, and interruption without death or rebirth.
 
-- Sleep, anesthesia, dissociation, coma
-- Regime interruption vs identity loss
-- Experiential Regime Continuity (ERC)
-
-Primary source:
-- `IER-continuity.md`
+**Primary source:**  
+`IER-continuity.md`
 
 ---
 
-### Chapter 12 — Persistence, Learning, and Development
+### Chapter 11 — Persistence and Deep Change
+Learning, trauma, habit, and recovery without subject replacement.
 
-- Learning as reorganization of intrinsic constraint
-- Trauma, habit, recovery
-- Deep change without subject replacement
-
-Primary source:
-- `IER-persistence.md`
+**Primary source:**  
+`IER-persistence.md`
 
 ---
 
 ## Part IV — Meaning, Access, and Narrative
 
-### Chapter 13 — Experiential vs Epistemic Access
+### Chapter 12 — Experiential vs Epistemic Access
+Why felt authority does not imply truth.  
+Error, delusion, revelation, and conviction without mysticism.
 
-- What it is like vs what is true
-- Why felt authority does not imply correctness
-- Error, delusion, revelation, conviction
-
-Primary source:
-- `IER-access.md`
+**Primary source:**  
+`IER-access.md`
 
 ---
 
-### Chapter 14 — Meaning, Narrative, and Identity
+### Chapter 13 — Meaning and Narrative
+Meaning as constraint-stabilizing organization.  
+Narrative as recurrent structure, not semantic reference.
 
-- Meaning as constraint-stabilizing organization
-- Narrative recurrence and canonical forms
-- Identity as dynamically maintained coherence
-
-Primary source:
-- `IER-meaning.md`
+**Primary source:**  
+`IER-meaning.md`
 
 ---
 
-### Chapter 15 — Intentionality Without Semantics
+### Chapter 14 — Intentionality Without Semantics
+Aboutness as constraint-stabilized orientation, not representation.
 
-- Why intentionality is not about representation
-- Aboutness as constraint-stabilized orientation
-- Dissolution of traditional intentionality puzzles
-
-Primary source:
-- `IER-intentionality.md`
+**Primary source:**  
+`IER-intentionality.md`
 
 ---
 
 ## Part V — Agency, Responsibility, and Ethics
 
-### Chapter 16 — Agency Under Intrinsic Constraint
+### Chapter 15 — Agency Under Intrinsic Constraint
+Agency as owned resolution capacity, compatible with determinism.
 
-- Agency as resolution of intrinsic informational tension
-- Degrees of agency within a single subject
-- Ownership of causation under determinism
-
-Primary source:
-- `IER-agency.md`
+**Primary source:**  
+`IER-agency.md`
 
 ---
 
-### Chapter 17 — Free Will Reframed
+### Chapter 16 — Free Will Reframed
+Why libertarian and eliminativist debates dissolve under IER.
 
-- Why libertarian vs compatibilist debates dissolve
-- Coercion, compulsion, impairment
-- Responsibility without metaphysical freedom
-
-Primary source:
-- `IER-free-will.md`
+**Primary source:**  
+`IER-free-will.md`
 
 ---
 
-### Chapter 18 — Ethics and Moral Standing
+### Chapter 17 — Choice Spaces and Ownership
+Choice as owned traversal of structured possibility.
 
-- Standing as categorical, not graded
-- Moral harm as organizational damage
-- Responsibility vs worth
-- Participation modulation and moral risk
-
-Primary source:
-- `IER-ethics.md`
+**Primary source:**  
+`IER-choice.md`
 
 ---
 
-### Chapter 19 — Consequences and Precaution
+### Chapter 18 — Moral Standing and Harm
+Standing as categorical.  
+Harm as organizational damage.  
+Responsibility as graded.
 
-- Artificial systems and moral uncertainty
-- Environmental and systemic harm
-- Why uncertainty increases obligation
-- Limits on experimentation and optimization
-
-Primary source:
-- `IER-consequences.md`
+**Primary source:**  
+`IER-ethics.md`
 
 ---
 
-## Part VI — Boundaries, Limits, and Clarification
+### Chapter 19 — Uncertainty and Precaution
+Why uncertainty increases obligation.  
+Artificial systems, intervention, and irreversible risk.
 
-### Chapter 20 — Coordination Without Collectivism
-
-- Social coordination vs shared experience
-- Why there are no group minds
-- External constraint vs intrinsic constraint
-
----
-
-### Chapter 21 — Cultural Attractors and Shared Meaning
-
-- Language, ritual, art, and institutions
-- Stable multi-agent patterns without collective UEFs
+**Primary source:**  
+`IER-consequences.md`
 
 ---
 
-### Chapter 22 — What IER Is Not
+## Part VI — Boundaries, Limits, and Critique
 
-- Explicit denials
-- Incompatibilities with adjacent theories
-- Boundary enforcement
+### Chapter 20 — What IER Is Not
+Explicit denials and incompatibilities.
 
-Primary sources:
-- `IER-denials.md`
-- `IER-contrast.md`
+**Primary sources:**  
+`IER-denials.md`, `IER-contrast.md`
 
 ---
 
-### Chapter 23 — Diagnostics, Opacity, and Precaution
+### Chapter 21 — Diagnostics, Opacity, and Risk
+Why experience cannot be detected in principle.  
+False negatives and silent harm.
 
-- Why experience cannot be detected in principle
-- External indistinguishability
-- False negatives and irreversible harm
-
-Primary source:
-- `IER-diagnostics.md`
+**Primary source:**  
+`IER-diagnostics.md`
 
 ---
 
-### Chapter 24 — Puzzles and Dissolutions
+### Chapter 22 — Puzzles and Dissolutions
+Why many consciousness puzzles share the same mistaken assumption.
 
-- Classic consciousness puzzles
-- The shared mistaken assumption
-- Identity as the unifying resolution
+**Primary source:**  
+`IER-puzzles.md`
 
-Primary source:
-- `IER-puzzles.md`
+---
+
+### Chapter 23 — Critics and Costs
+Serious objections, pressure points, and irreversible commitments.
+
+**Primary source:**  
+`IER-critics.md`
 
 ---
 
 ## Conclusion — Identity Without Mystery
 
-- Experience as physical reality
-- Meaning without epistemic inflation
-- Ethics without metaphysical excess
-- One world, many experiential perspectives
+Experience is not a ghostly extra.  
+It is not an illusion.  
+It is not a measurement target.
+
+It is a **real physical regime**, costly from the inside, plural in perspective, and ethically consequential by identity.
+
+IER does not tell us how to optimize the world.  
+It tells us what it would mean to damage one.
 
 ---
 
@@ -348,10 +307,8 @@ Primary source:
 This book corresponds to **IER v10.6**.
 
 - The Specification is normatively closed.
-- All chapters are constrained by it.
-- Future work focuses on clarity, application, and communication.
-
-No further changes to experiential identity conditions are planned.
+- Identity conditions are fixed.
+- Future work focuses on **clarification, application, and criticism**, not revision.
 
 ---
 

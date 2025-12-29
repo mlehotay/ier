@@ -54,13 +54,13 @@ Formal structure follows ontology — **never the reverse**.
 
 Let a physical system be described, under some coarse-graining, by an informational state:
 
-[
+$$
 I(t) \in \mathcal{S}
-]
+$$
 
 where:
 
-* (\mathcal{S}) is a high-dimensional space of physically instantiated informational variables
+* $\mathcal{S}$ is a high-dimensional space of physically instantiated informational variables
 * coordinates may correspond to neural, biochemical, mechanical, or control-theoretic descriptions
 * different parameterizations describe the **same physical system**, not different entities
 
@@ -94,9 +94,9 @@ Static configuration alone carries no experiential or agential implication.
 
 ### **3.2 First Order — Informational Flow**
 
-[
-\dot I(t)
-]
+$$
+\dot{I}(t)
+$$
 
 Describes lawful evolution of informational state.
 
@@ -110,9 +110,9 @@ Flow describes **what happens**, not what is *owned*.
 
 ### **3.3 Second Order — Intrinsic Constraint**
 
-[
-\ddot I(t)
-]
+$$
+\ddot{I}(t)
+$$
 
 Second-order structure describes how informational flow is **bent, resisted, or forced** by the system’s own organization.
 
@@ -163,9 +163,9 @@ This level of description may be informally regarded as a “2.5th order” of o
 
 ### **3.5 Third Order — Coherence and Regime Stability**
 
-[
-\dddot I(t)
-]
+$$
+\dddot{I}(t)
+$$
 
 Higher-order structure describes regulation of constraint itself:
 

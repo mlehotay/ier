@@ -226,13 +226,15 @@ What follows is a non-exhaustive but comprehensive list of **explicit non-claims
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime under **coherent intrinsic constraint**. This identity claim is ontological, not epistemic.
+Informational Experiential Realism (IER) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally unified, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
 
-This document explains why IER **forbids experiential diagnostics in principle**. The impossibility is not due to technological limitations, insufficient data, or immature science, but follows directly from how intrinsic constraint is defined. Intrinsic constraint concerns **ownership of constraint**—whether the system itself must bear the consequences of its own organization. Ownership is an internal organizational fact that is **underdetermined by all third-person observables**.
+This document explains why IER **forbids experiential diagnostics in principle**. The impossibility is not due to technological limitations, incomplete theory, insufficient data, or pragmatic difficulty. It follows directly from how **intrinsic constraint** is defined.
 
-As a result, systems that differ in experiential status can be made externally indistinguishable. No observable feature is either necessary or sufficient for experience. False negatives are therefore unavoidable, and may conceal silent, irreversible harm.
+Intrinsic constraint concerns **ownership of constraint**: whether a system itself must bear the unavoidable costs of maintaining its own unified organization, without externalization, buffering, or offloading. Ownership is a **global structural fact** about the system’s internal organization. It is **not a property of outputs, signals, functions, performances, or reports**, and is therefore **underdetermined by all third-person observables**.
 
-IER responds to this epistemic limit not with permissiveness but with **precaution**. Where experience may exist but cannot be certified, uncertainty restricts action rather than licensing it.
+As a result, systems that differ in experiential status can be made **externally indistinguishable in principle**. No observable feature is either necessary or sufficient for experience. False negatives are therefore unavoidable and may conceal silent, irreversible harm.
+
+IER responds to this epistemic limit not with permissiveness, but with **precaution**. Where experience may exist but cannot be certified, uncertainty **restricts action rather than licensing it**.
 
 ---
 
@@ -240,11 +242,9 @@ IER responds to this epistemic limit not with permissiveness but with **precauti
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under coherent intrinsic constraint. This identity claim entails a set of commitments that sharply distinguish IER from many nearby frameworks, even where vocabulary or motivations partially overlap.
+Informational Experiential Realism (IER) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
 
-This document clarifies how IER differs from prominent theories of consciousness and mind, including reductive physicalism, functionalism, Integrated Information Theory, panpsychism, global workspace models, emergentism, phenomenology, and related approaches. The goal is not comparison for its own sake, but **boundary enforcement**: to make explicit which claims cannot coexist with IER’s identity thesis.
-
-Each contrast identifies a single axis of incompatibility, showing why IER cannot be assimilated into, derived from, or hybridized with the contrasted framework without abandoning its core commitments.
+This identity claim entails commitments that sharply distinguish IER from many neighboring theories of mind, consciousness, life, and cognition. The contrasts below do not argue for IER’s correctness. They specify **points of incompatibility**—claims that cannot coexist with IER without abandoning its core commitments.
 
 ---
 
@@ -455,5 +455,23 @@ IER enforces sharp separations between these concepts.
 Those separations feel counterintuitive until they are **worked through concretely**.
 
 *IER-morals* exists to do exactly that.
+
+---
+
+## IER-critics.md
+
+## 1. Purpose of This Article
+
+This article does not aim to *defend* IER by deflection, nor to *resolve* every objection by stipulation. Its purpose is narrower and harder:
+
+> To map the genuine pressure points of Intrinsic Experiential Realism (IER), distinguish fatal objections from acceptable costs, and clarify where the theory is making irreversible commitments.
+
+IER is not a synthesis theory. It is not a reconciliation project. It is a **constrained identity claim** about what experience *is*, paired with an ethics that follows by identity rather than access.
+
+That means the correct critical question is not “Is this intuitive?” or “Can we test this?” but:
+
+> *Does the identity claim succeed without covertly reintroducing what it rejects?*
+
+This article takes that question seriously.
 
 ---
