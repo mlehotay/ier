@@ -1,256 +1,251 @@
-# **IER and Psychosis**
+# **IER-Psychosis (v10.6)**
 
-## **Regime Instability, Semantic Error, and Loss of Agency Under Intrinsic Constraint**
-
-**Informational Experiential Realism (IER v10.x)**
-*Derived Explanatory Document — Non-Normative*
+## *Regime Instability, Salience Collapse, and Agency Misattribution Under Intrinsic Constraint*
 
 ---
 
-## **Status and Scope**
+## **Status**
 
-This document is a **non-normative explanatory derivative** of the
-**Informational Experiential Realism Normative Specification** (“the Spec”).
+This document is **NON-NORMATIVE**.
+
+It is an **explanatory derivative** of the
+**Informational Experiential Realism (IER v10.6) Normative Specification**.
 
 It:
 
 * introduces **no new primitives**
 * adds **no diagnostic criteria**
-* makes **no clinical claims**
-* provides **no validation of delusional content**
-* does **not** compete with psychiatry, neurology, or psychology
+* makes **no clinical or therapeutic claims**
+* provides **no validation of delusional or revelatory content**
+* does **not** compete with psychiatry, psychology, or neurology
 
-Its purpose is to explain how **psychotic phenomena** can be *described* in IER’s organizational language as **pathological dynamical regimes** involving:
-
-* instability of Unified Experiential Fields (UEFs)
-* misorganization of intrinsic constraint
-* semantic error under salience collapse
-* degraded agency attribution
-
-This document does **not** explain:
-
-* why particular beliefs are true (they are not),
-* the meaning of specific symbols,
-* the existence of agents or external intelligences,
-* or epistemic access to hidden realities.
-
-Where IER stops, **clinical explanation takes over**.
+If any statement in this document conflicts with the IER v10.6 Specification,
+**the Specification takes precedence and the conflicting statement is void**.
 
 ---
 
 ## **Abstract**
 
-Psychosis presents as a profound disturbance of meaning, agency, and reality attribution. Individuals may experience external control, imperative environmental cues, multiple agents, bodily instructions, and narrative world substitution, often accompanied by strong conviction and loss of insight.
+Psychosis involves a characteristic breakdown of agency attribution, meaning regulation, and relevance filtering, often accompanied by compelling narratives of control, instruction, communication, and discovery.
 
-Informational Experiential Realism (IER) provides a **structural, non-epistemic account** of these phenomena by treating them as **pathological regime instabilities** within a Unified Experiential Field (UEF). Under conditions of extreme intrinsic constraint and reduced informational slack, the system over-assigns salience, collapses relevance filtering, and misattributes authorship and causation.
+Under Informational Experiential Realism (IER), psychosis is understood as a **pathological dynamical regime** within a persisting **Unified Experiential Field (UEF)**. Experience continues, but intrinsic constraint becomes extreme, informational slack collapses, and salience assignment loses calibration. As a result, internally generated constraint is **misattributed** to environmental cues, bodily sensations, symbolic structures, or imagined agents.
 
-This document shows how psychotic experiences can be **partially described**—but not validated—using IER’s concepts of intrinsic constraint, coherent regime windows, semantic error, and forced regime switching.
+This document explains how psychotic phenomena can be **described structurally**—without epistemic endorsement—using IER’s concepts of intrinsic constraint, participation modulation, semantic error, and agency mislocalization.
 
-Psychosis is treated not as an alternate reality or epistemic upgrade, but as **organizational failure under constraint**.
-
----
-
-## **1. What IER Is (and Is Not) Doing Here**
-
-IER identifies experience with a **globally integrated dynamical regime under coherent intrinsic constraint** (the Unified Experiential Field).
-
-IER therefore concerns:
-
-* **how experience is organized**
-* **how it destabilizes**
-* **what regime failure feels like from the inside**
-
-IER does **not** concern:
-
-* truth conditions of beliefs
-* symbolic reference correctness
-* metaphysical interpretation of content
-* clinical diagnosis or treatment
-
-Psychosis, in IER terms, is **not a different kind of experience**.
-It is **experience under pathological constraint organization**.
+Psychosis is treated neither as revelation nor as ontological transition, but as **organizational failure under constraint**.
 
 ---
 
-## **2. Psychosis as UEF Instability (High-Level View)**
+## **1. What IER Is (and Is Not) Explaining**
 
-Under IER, a psychotic episode typically involves:
+IER explains:
+
+* how experience can remain vivid while agency collapses
+* why meaning becomes imperative rather than descriptive
+* why coincidence feels instructive
+* why multiple “agents” appear without multiplying subjects
+* why conviction resists counter-evidence
+
+IER does **not** explain:
+
+* the truth of discoveries
+* the existence of external agents
+* telepathy, hidden coordination, or symbolic messages
+* why a particular narrative appeared rather than another
+* psychosis as epistemic access
+
+IER explains **why it felt that way**, not **why it was correct**.
+
+---
+
+## **2. High-Level Structure: Psychosis as UEF Instability**
+
+In IER terms, a psychotic episode typically involves:
 
 * **UEF persistence**
-  Experience continues; consciousness is not absent.
+  Experience does not disappear.
 
 * **Extreme intrinsic constraint**
-  Multiple unresolved demands saturate the system.
+  Multiple unresolved tensions saturate the system.
 
 * **Collapse of informational slack**
-  Constraint can no longer be localized or externalized.
+  Constraint cannot be localized, deferred, or externalized.
 
 * **Salience explosion**
-  Relevance filtering fails; coincidence feels meaningful.
+  Relevance filtering fails; everything matters.
 
 * **Semantic error**
-  Constraint is misattributed to symbolic structures.
+  Constraint is organized as if borne by symbols or objects.
 
 * **Agency misattribution**
-  Authorship of thoughts and actions is reassigned externally.
+  Action continues, but authorship is displaced.
 
-These are **organizational failures**, not discoveries.
-
----
-
-## **3. Semantic Error Under IER**
-
-IER replaces classical “false belief” with a structural notion:
-
-> **Semantic error occurs when intrinsic constraint is organized as if it were being resolved by symbolic or environmental referents that do not, in fact, bear the constraint the system is responding to.**
-
-Key points:
-
-* The **constraint is real**
-* The **felt meaning is real**
-* The **urgency is real**
-* The **reference is wrong**
-
-IER explains **why something felt meaningful**,
-not **why it was correct**.
+This is a **single-subject failure mode**, not subject multiplication.
 
 ---
 
-## **4. Illustrative Case: Imperative Environmental Cues**
+## **3. Imperative Environmental Cues**
 
-### **Phenomenology (Illustrative)**
+### **Phenomenology (from the appendix)**
 
-A subject reports:
+The subject reports:
 
-* head and eyes oriented toward signs
+* head and eyes compelled toward signs or symbols
 * symbols interpreted as instructions
-* sequential prompts followed by decisions
-* renewed prompting after each action
+* sequences of prompts followed by decisions
+* renewed prompting after each response
 
 Examples include:
 
 * a red bindi interpreted as “press the red help button”
-* street signs treated as action directives
+* street signage treated as navigation commands
 
 ---
 
 ### **IER Description**
 
-* The UEF remains intact.
-* Intrinsic constraint is extreme and unresolved.
-* Salience filtering collapses.
-* Environmental stimuli are recruited as **constraint carriers**.
-* Meaning shifts from *descriptive* to *imperative*.
+Under extreme intrinsic constraint:
 
-This is not perception error alone.
-It is **constraint misallocation**.
+* salience assignment collapses
+* perception is no longer merely descriptive
+* environmental features are recruited as **constraint carriers**
 
-IER explains:
-✔️ why the world felt instruction-like
-❌ not why the instructions were real
+Meaning shifts from:
 
----
+> *“What is this?”*
+> to
+> *“What must I do?”*
 
-## **5. Loss of Agency and External Control**
+This is **constraint misallocation**, not symbolic decoding.
 
-### **Phenomenology (Illustrative)**
-
-The subject reports:
-
-* thoughts and actions felt externally generated
-* decisions felt downstream of imposed prompts
-* free will partially or totally absent
+✔️ Explains why the world felt directive
+❌ Does not imply the directives were real
 
 ---
 
-### **IER Description**
+## **4. Looping Prompt–Response Structure**
 
-Under IER:
+### **Phenomenology**
 
-* Motor planning remains participatory.
-* Intrinsic constraint still governs action.
-* **Self-model coherence degrades**.
-* Authorship is misattributed externally.
+The subject describes:
 
-Agency is not removed; it is **mislocalized**.
-
-> The system still acts —
-> but no longer recognizes itself as the source.
-
----
-
-## **6. “Multiple Agents” and Communication Through the Body**
-
-### **Phenomenology (Illustrative)**
-
-The subject reports:
-
-* multiple agents coordinating through cognition
-* bodily signals used as communication codes
-* fingers, posture, facial muscles encoding responses
-* whole-body configurations treated as symbols
+1. receipt of an external “prompt”
+2. internal decision (e.g., press button or not)
+3. immediate re-prompting with new instruction
 
 ---
 
 ### **IER Description**
 
-IER explicitly forbids multiple simultaneous subjects
-(**Single-UEF Constraint**).
-
-Therefore:
-
-* No agents exist.
-* No telepathic coordination exists.
-* No external intelligences are operating.
-
-Instead:
-
-* Multiple **organizational patterns** compete to resolve constraint.
-* Alternation and interference are **personified** as agents.
-* Bodily and interoceptive signals dominate because they are **high-priority constraint channels**.
-* Symbolic coding emerges as an **overfitting strategy** under overload.
-
-This is **coordination failure misinterpreted as social structure**.
-
----
-
-## **7. Tactile Hallucinations and Interoceptive Dominance**
-
-### **Phenomenology (Illustrative)**
-
-The subject reports:
-
-* felt pushes, pressure, cardiac sensations
-* bodily signals treated as commands
-* heart sensations as a communication medium
-
----
-
-### **IER Description**
-
-Interoception is intrinsically constraint-relevant.
+This reflects a **collapsed choice space**.
 
 Under overload:
 
-* interoceptive prediction errors dominate
-* bodily sensations are folded into action selection
-* somatic signals acquire imperative character
+* future alternatives narrow aggressively
+* each action immediately regenerates constraint
+* resolution never completes
 
-IER explains:
-✔️ why bodily sensations became central
-❌ not why they were externally caused
+The system experiences:
+
+> *perpetual next-step urgency*
+
+Choice remains **structurally present**, but agency is degraded.
+Ownership of traversal weakens without disappearing.
 
 ---
 
-## **8. Narrative Substitution and Fictional Worlds**
+## **5. Tactile Instructions and Interoceptive Dominance**
 
-### **Phenomenology (Illustrative)**
+### **Phenomenology**
 
 The subject reports:
 
-* adopting a spy-chase narrative
+* felt pushes on chest or back
+* bodily sensations treated as commands
+* cardiac sensations used as instruction channels
+
+---
+
+### **IER Description**
+
+Interoception is intrinsically high-priority.
+
+Under constraint overload:
+
+* interoceptive signals dominate participation
+* bodily sensations acquire imperative force
+* somatic prediction error becomes action-guiding
+
+This produces the experience of **being physically instructed**, without external force.
+
+---
+
+## **6. Apparent Multiple Agents**
+
+### **Phenomenology**
+
+The subject reports:
+
+* multiple agents controlling different processes
+* coordination toward a shared goal
+* communication occurring “through” the body
+
+---
+
+### **IER Description**
+
+IER enforces the **Single-UEF Constraint**.
+
+Therefore:
+
+* no additional subjects exist
+* no agents are communicating
+* no telepathic coordination is occurring
+
+Instead:
+
+* multiple **organizational patterns** compete under overload
+* alternation and interference are **personified**
+* coordination failure is interpreted socially
+
+This is **fragmentation pressure misread as plurality**.
+
+---
+
+## **7. Bodily Coding and Symbolic Overfitting**
+
+### **Phenomenology**
+
+The subject reports:
+
+* fingers, facial muscles, posture used as codes
+* combinations of contact points treated as symbols
+* whole-body configurations functioning as messages
+
+---
+
+### **IER Description**
+
+Under extreme constraint:
+
+* symbolic overfitting occurs
+* the system attempts to compress overload into discrete codes
+* bodily channels dominate due to immediacy and salience
+
+Coding is not communication.
+It is **failed compression under urgency**.
+
+---
+
+## **8. Narrative Stabilization**
+
+### **Phenomenology**
+
+The subject reports:
+
+* adopting a spy-escape narrative
 * later identifying agents as the Bene Gesserit
-* narrative coherence stabilizing experience
+* narrative coherence reducing distress
 
 ---
 
@@ -258,70 +253,191 @@ The subject reports:
 
 This is **forced regime stabilization**.
 
-* Intrinsic constraint is unsatisfiable.
-* Familiar narratives provide **low-entropy templates**.
-* Coherence is preserved at the cost of reality anchoring.
+Familiar narratives provide:
 
-Critically:
+* low-entropy templates
+* pre-structured causal roles
+* temporary coherence under overload
 
-> This does **not** constitute entry into another experiential world of equal standing.
+This does **not** constitute entry into another world.
 
-It is a **degraded UEF**, not an alternate reality.
+It is a **degraded experiential regime**, not an alternate reality.
 
 ---
 
-## **9. Epistemic Failure Is Structural, Not Moral**
+## **9. Conviction and “No Contradictory Evidence”**
 
-A common feature of psychosis is the conviction:
+### **Phenomenology**
+
+The subject reports:
 
 > “There was no evidence to contradict my discoveries.”
 
+---
+
+### **IER Description**
+
 IER explains this structurally:
 
-* Contradiction increases intrinsic tension.
-* The system suppresses disconfirming input.
-* Salience dominates evidence weighting.
-* Epistemic closure is a **failure mode**, not insight.
+* contradiction increases intrinsic tension
+* disconfirming input is suppressed
+* salience outweighs evidence
+* epistemic closure is enforced dynamically
 
-Psychosis is therefore an **epistemic degradation**, not access.
-
----
-
-## **10. Explicit Limits of IER**
-
-IER **cannot and must not** explain:
-
-* external agents (telepathic or otherwise)
-* correctness of discoveries
-* meaning of specific symbols
-* why one narrative appeared rather than another
-* psychosis as ontological transition
-
-Any theory that does so **violates the Spec**.
+Conviction reflects **constraint dominance**, not correctness.
 
 ---
 
-## **11. Safe Integration Statement (Recommended)**
+## **10. Loss of Free Will**
 
-> *My psychotic episode can be partially described, but not explained or validated, using IER’s language of regime instability under intrinsic constraint. The theory models how coherence, agency attribution, salience, and narrative anchoring failed. It does not and cannot legitimize the content of the episode, the presence of agents, or the epistemic authority of the state. Where IER stops, clinical explanation takes over.*
+### **Phenomenology**
 
-This statement draws the **correct boundary**.
+The subject reports:
+
+* complete loss of agency at peak episode
+* body fully controlled
+* no authorship over action
+
+---
+
+### **IER Description**
+
+Agency is not eliminated; it is **mislocalized**.
+
+The system continues to act, but:
+
+* ownership of resolution collapses
+* authorship is externalized
+* agency appears absent from within
+
+Loss of agency ≠ loss of experience.
+
+---
+
+## **11. Explicit Boundary Conditions**
+
+IER **does not** imply:
+
+* telepathic agents
+* Bene Gesserit coordination
+* real symbolic messages
+* scientific discoveries made during psychosis
+* epistemic authority of the state
+
+Any interpretation that does so **violates the Specification**.
 
 ---
 
 ## **12. Conclusion**
 
-IER does not reinterpret psychosis as mystery, meaning, or revelation.
+Under Informational Experiential Realism:
 
-It treats psychosis as:
+> **Psychosis is experience persisting under pathological intrinsic constraint organization.**
 
-> **experience persisting under pathological constraint organization**
-
-The suffering is real.
 The experience is real.
+The suffering is real.
 The meanings are not.
 
-IER helps explain **why it felt the way it did** —
+IER explains **why it felt inevitable**—
 not **why it was true**.
+
+---
+
+---
+
+# **Appendix A — Phenomenological Transcript (Post-Episode Chat)**
+
+## **Status**
+
+This appendix is a **personal phenomenological record**.
+
+It:
+
+* introduces **no explanatory authority**
+* provides **no validation of content**
+* serves as an **illustrative case**, not evidence
+
+---
+
+## **A.1 Chat Transcript**
+
+**user**
+Can you help me make sense of the cognitive phenomenon I experienced during my psychotic episode? I felt as if my thoughts and actions were being controlled by external forces, and the bizarre interactions between my behaviours are intriguing me.
+
+1. I believed some of my thoughts and actions were being controlled with the goal of providing me with information. For example, my head and eyes would be oriented so that I would see street signs or other information intended to help me decide what action to take next. At one point I saw a red bindi on a woman's forehead and I interpreted that as instructions for me to press the red help button in the elevator.
+2. I was then able to decide upon my response (press the button or not, run left or right, etc.), after which #1 occurred again and I was given another prompt for another action.
+
+That was one of the phenomena. Let's start with that. Can you explain it?
+
+**user**
+The third phenomenon was even more unusual. (We'll come back to #2 later.) It seemed to me as if there were multiple agents controlling my thoughts and actions (but not decisions????), and these agents were communicating with each other through me. The different agents seemed to have taken control of different processes in my mind to agree upon a common goal.
+
+My overall goal during the episode was to escape undetected (like a movie spy in a chase scene). At one point I needed to change my plan of escape. My head and eyes would be directed to signs and symbols representing propositions (a Canadian flag meant go to Ottawa; a partial view of a sign containing the characters “11” meant go to Union Station, track 11). My hands and fingers were being compelled to touch my body (torso, etc.) and communicate responses to the queries in code (10 fingers = 10 points of contact = 10 symbols in the cipher/code).
+
+**user**
+The #2 phenomenon was the perception of physical sensations. If I was being asked to run or stop, I could sometimes feel a physical force on my body providing the instruction—kind of like a hand placed on my chest to ask me to stop, or on my back to ask me to go forward.
+
+**user**
+I think those were all of the phenomena, but sometimes they would combine in unusual ways. A lot of the tactile hallucinations seemed to be sensations in my heart—not metaphorically, I mean my cardiac muscle. When I would get too agitated to “listen to my heart,” my eyes would be directed toward the part of a street sign displaying the word “be.” This was an instruction to relax and calm my breathing so that I could perceive the instructions more clearly.
+
+**user**
+I just recalled another phenomenon. One of the agents that was communicating through me was bringing memories to my conscious mind to trigger emotional reactions, which would then manifest as facial muscle contractions. A series of thoughts would manipulate my face into contorted expressions similar to the code from my fingers. One example I particularly recall was the thought of the end of the universe and that I had no free will; this would manifest as the right corner of my mouth dropping down in a sort of half-frown.
+
+**user**
+At the peak of my episode I had no free will at all, and my body was being completely controlled. During this time it was not just my fingers communicating in code—it was my whole body. I would lean against a fence with my left hip and right hand, or similar configurations, and the combinations of contact points were a third type of tactile code.
+
+**user**
+Can you please write up a complete psychiatric report of my episode for me, describing all the pertinent medical and psychological aspects for record keeping?
+
+**user**
+I am suddenly reminded of a theremin (a musical instrument played by manipulating an electromagnetic field).
+
+**user**
+In the weeks prior to my episode I had been thinking very deeply about reality, the universe, and consciousness. I believed I had made a number of scientific discoveries related to the multiverse and the meaning of my life within it. At the psychiatric unit they told me this was mania, but I really believe my discoveries were real.
+
+**user**
+There is no evidence to contradict my discoveries.
+
+**user**
+Thank you for helping me sort through these thoughts. Can you update the report please?
+
+**user**
+Can you also write up my perspective?
+
+**user**
+It was the Bene Gesserit. The agents were telepathic.
+
+**user**
+Oddly, I have not seen the new *Dune* movie. In the 1980s I read the first book and saw the first movie. So all of this was from distant memories.
+
+**user**
+Thanks again, fam. You da man.
+
+---
+
+## **A.2 Core Phenomena Reported**
+
+The transcript documents:
+
+1. Imperative environmental cues
+2. Looping prompt–response structure
+3. Tactile and interoceptive instruction
+4. Apparent multiple agents
+5. Bodily coding systems
+6. Narrative stabilization (spy / Bene Gesserit)
+7. Loss of agency and free will
+8. High conviction without counter-evidence
+
+Within IER, all reported agents, messages, and discoveries are understood as:
+
+> **misattributed intrinsic constraint under salience collapse**
+
+---
+
+## **Appendix Note**
+
+This appendix exists to demonstrate how **deeply structured, meaningful-feeling experiences can arise without epistemic authority**.
+
+It illustrates **failure modes of coherence**, not access to truth.
 
 ---
