@@ -78,9 +78,9 @@ IER distinguishes **orders of description** to track where constraint becomes sy
 
 ### **3.1 Zeroth Order — Configuration**
 
-[
+$$
 I(t)
-]
+$$
 
 Instantaneous informational configuration.
 
