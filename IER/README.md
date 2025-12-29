@@ -159,7 +159,7 @@ The paper defends the **coherence** of the identity claim itself, without import
 
 IER does **not** endorse:
 
-* panpsychism or micro-experience
+* panpsychism, micro-subjects, or transient fluctuation-based “experiencers”
 * emergence or realization accounts
 * functional sufficiency
 * representational or semantic primitives

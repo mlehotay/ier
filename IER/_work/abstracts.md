@@ -1,24 +1,20 @@
 ## 0. README.md
 
-**Informational Experiential Realism (IER)** is a strictly physicalist identity theory of experience.
+## Overview
+
+**Informational Experiential Realism (IER)** is a strictly physicalist **identity theory of experience**.
 
 IER holds that:
 
-- There exists **exactly one objective physical reality**, governed by mind-independent law.
-- Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
-- When a UEF exists, **experience exists** — categorically, not by degree.
-- Experience is real, costly, meaningful, and identity-shaping.
-- **Experience does not confer epistemic authority, truth, or metaphysical insight.**
+* There exists **exactly one objective physical reality**, governed by mind-independent law.
+* Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
+* When a UEF exists, **experience exists** — **categorically**, not by degree.
+* Experience is **real by identity**, not an emergent accompaniment or functional output.
+* **Experience confers no epistemic authority** about mind-independent reality.
+* Ethical significance follows **necessarily** wherever intrinsic constraint is borne from the inside.
 
-IER explains:
-
-- **what experience is**
-- **when experience exists**
-- **what necessarily follows from its existence**
-
-while enforcing a strict boundary between **experiential authority** and **epistemic access**.
-
-This directory contains the **core IER articles**: the normative specification, explanatory framework, applications, critiques, and boundary-enforcing documents.
+IER is not a theory of representation, cognition, intelligence, reportability, or measurement.
+It is a theory of **what experience is**, **when it exists**, and **what necessarily follows from its existence**.
 
 ---
 

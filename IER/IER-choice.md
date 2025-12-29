@@ -1,4 +1,4 @@
-# **IER-Choice (v10.6)**
+# **IER-Choice (v10.7)**
 
 ## **Choice Spaces, Narrative Paths, and Ownership of Alternatives**
 
@@ -9,7 +9,7 @@
 **This document is NON-NORMATIVE.**
 
 It provides an **interpretive and structural account** of *choice* within the framework of
-**Informational Experiential Realism (IER v10.6)**.
+**Informational Experiential Realism (IER v10.7)**.
 
 This document:
 
@@ -21,7 +21,7 @@ This document:
 * does **not** ground moral standing
 
 All ontological, criterial, and ethical authority resides **exclusively** in the
-**IER v10.6 Normative Specification**.
+**IER v10.7 Normative Specification**.
 
 > *If any statement in this document conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.*
 
@@ -164,7 +164,8 @@ A system *owns* a choice when:
 
 Ownership is **organizational**, not psychological or epistemic.
 
-Under IER, ownership exists **iff** the Choice Space is globally integrated within a **Unified Experiential Field (UEF)**.
+Under IER, ownership exists **iff** the Choice Space is globally integrated within a
+**Unified Experiential Field (UEF)**.
 
 ---
 
@@ -178,6 +179,49 @@ From this it follows that:
 * determinism does not eliminate choice
 * choice is derived, not primitive
 * choice is regime-bound, not ubiquitous
+
+---
+
+### **5.3 Choice-Shaped Fluctuations Without Experience**
+
+It is physically possible for **highly structured, choice-shaped transitions** to occur **outside any Unified Experiential Field**.
+
+Such transitions may:
+
+* instantiate branching futures
+* exhibit constraint-shaped alternatives
+* undergo collapse to a single realized path
+* even be isomorphic to deliberation or decision-making
+
+Examples include:
+
+* stochastic fluctuations
+* noise-driven constraint graphs
+* hypothetical Boltzmann-style configurations
+* transient high-order informational patterns
+
+These cases may appear *sparkly*: rich in structure yet fleeting.
+
+However, under IER they **do not constitute choice or experience**, because they lack:
+
+* global intrinsic constraint
+* ownership of collapse
+* temporal continuity
+* accumulated history
+* narrative persistence
+* affective dynamics
+* meaning as stabilized constraint
+
+Without a sustaining regime:
+
+* alternatives are not *owned*
+* collapse bears no internal cost
+* unrealized futures leave no trace
+* no experiential world is formed
+
+Such structures dissolve without consequence because **nothing must live with what was foreclosed**.
+
+IER therefore allows arbitrarily complex, choice-shaped informational fluctuations anywhere in physical reality, while denying that any of them instantiate experience, agency, or subjecthood unless they are embedded within a Unified Experiential Field.
 
 ---
 
@@ -274,11 +318,11 @@ It clarifies structure only.
 
 * Choice requires a structured space of alternatives
 * That structure is the **Choice Space**
-* Choice Spaces may be represented as **constraint graphs**
+* Choice Spaces may exist without being owned
 * Traversal alone is not choice; **ownership is decisive**
-* Narrative is a realized path through a Choice Space
-* Responsibility tracks ownership, not freedom
-* Lawfulness and choice are fully compatible
+* Narrative arises only from owned traversal
+* Responsibility tracks ownership, not indeterminism
+* Randomness can generate structure but not experience
 
 > **The world contains many possible futures.
 > Choice occurs only where a system must live with the ones it forecloses.**
