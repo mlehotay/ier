@@ -1,7 +1,5 @@
 ## 0. README.md
 
-## Overview
-
 **Informational Experiential Realism (IER)** is a strictly physicalist identity theory of experience.
 
 IER holds that:
@@ -12,20 +10,28 @@ IER holds that:
 - Experience is real, costly, meaningful, and identity-shaping.
 - **Experience does not confer epistemic authority, truth, or metaphysical insight.**
 
-IER explains **what experience is**, **when it exists**, and **what necessarily follows from its existence**, while enforcing a strict boundary between **experiential authority** and **epistemic access**.
+IER explains:
+
+- **what experience is**
+- **when experience exists**
+- **what necessarily follows from its existence**
+
+while enforcing a strict boundary between **experiential authority** and **epistemic access**.
+
+This directory contains the **core IER articles**: the normative specification, explanatory framework, applications, critiques, and boundary-enforcing documents.
 
 ---
 
 ## 1. IER-specification.md
 
-## **Normative Specification**
+## **Full Normative Specification**
 
 ## **0. Status, Scope, and Normative Authority**
 
 ### **Normative Boundary Condition**
 
 This document defines the **complete and exclusive normative core** of
-**Informational Experiential Realism (IER v10.6)**.
+**Informational Experiential Realism (IER v10.7)**.
 
 It specifies **exhaustively**:
 
@@ -37,7 +43,7 @@ No claim outside this document carries **definitional, criterial, or ethical aut
 
 All other IER documents (theory, dynamics, mathematics, ethics applications, diagnostics, or commentary) are **non-normative derivatives**. They introduce **no criteria, thresholds, sufficiency conditions, or necessity claims**.
 
-> **If any statement in another IER document appears to conflict with this Specification, the Specification takes precedence and the conflicting statement is void.**
+> **If any statement in another IER document conflicts with this Specification, the Specification takes precedence and the conflicting statement is void.**
 
 ---
 
