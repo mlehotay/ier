@@ -434,14 +434,18 @@ This document explains how IER answers that question.
 
 ---
 
-## IER-future.md
+## IER-futures.md
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) identifies experience with a specific kind of physically instantiated, globally integrated dynamical regime. Where such a regime exists, experiential standing is **categorical and non-comparable**. At the same time, IER entails persistent **epistemic uncertainty** about where such regimes are instantiated, particularly in biological systems.
+Informational Experiential Realism (IER) identifies experience with a specific kind of physically instantiated, globally integrated dynamical regime and treats experiential standing as **categorical and non-comparable** wherever experience exists. At the same time, IER entails persistent **epistemic uncertainty** about where such regimes are instantiated, particularly in biological systems.
 
-This article is a **thought experiment about a possible future**: one in which IER’s core claims are broadly accepted as a background ontology, even while uncertainty about particular cases remains unresolved.
+This article compares **three possible cultural equilibria** that could arise under these shared assumptions:
 
-The central claim is not that moral life would be radically transformed, but that certain **forms of moral confidence and dismissal would gradually become harder to sustain**, while everyday practices continue under conditions of acknowledged uncertainty.
+1. a **conservative equilibrium**, in which everyday practices continue with softened moral confidence
+2. a **utopian equilibrium**, in which precautionary pressure gradually reshapes civilization toward harm-avoidance
+3. a **dystopian equilibrium**, in which uncertainty is culturally neutralized and ethical force collapses without denial
+
+The comparison illustrates that **IER constrains moral reality but does not determine cultural outcomes**.
 
 ---
