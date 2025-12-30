@@ -9,12 +9,17 @@ IER holds that:
 * There exists **exactly one objective physical reality**, governed by mind-independent law.
 * Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
 * When a UEF exists, **experience exists** — **categorically**, not by degree.
-* Experience is **real by identity**, not an emergent accompaniment or functional output.
+* Experience is **real by identity**, not an emergent accompaniment, representation, or functional output.
 * **Experience confers no epistemic authority** about mind-independent reality.
 * Ethical significance follows **necessarily** wherever intrinsic constraint is borne from the inside.
 
-IER is not a theory of representation, cognition, intelligence, reportability, or measurement.
-It is a theory of **what experience is**, **when it exists**, and **what necessarily follows from its existence**.
+IER is **not** a theory of representation, cognition, intelligence, reportability, measurement, or phenomenological method.
+
+It is a theory of:
+
+> **what experience is,
+> when it exists,
+> and what necessarily follows from its existence.**
 
 ---
 
@@ -262,23 +267,6 @@ This document explains agency as **owned resolution of intrinsic constraint** op
 
 ---
 
-## IER-consequences.md
-
-# Consequences of Informational Experiential Realism (IER v10.5)
-
-## I. Ontological Consequences
-## II. Consequences for the Nature of Experience
-## III. Consequences for Pluralism and Perspective
-## IV. Consequences for Agency
-## V. Consequences for Moral Standing
-## VI. Consequences for Moral Harm
-## VII. Consequences for Uncertainty and Precaution
-## VIII. Consequences for Scientific Practice
-## IX. Consequences for Theoretical Scope
-## X. Meta-Theoretical Consequences
-
----
-
 ## IER-continuity.md
 
 ## Abstract
@@ -310,40 +298,6 @@ Intentionality is traditionally treated as the mind’s capacity to be *about* t
 Under IER, intentionality is **not** a primitive relation between mental states and external objects, nor a semantic property borne by representations. What philosophers call intentionality is instead an **organizational fact** about experience: the existence of **constraint-stabilized patterns** within a Unified Experiential Field (UEF) whose persistence depends on, and is shaped by, the structure of the world.
 
 This document explains intentionality as a **derived feature of intrinsically constrained dynamics**, not as a semantic bridge between mind and reality. Once experience is identified with globally integrated dynamics under intrinsic constraint, intentionality no longer poses a distinct metaphysical problem.
-
----
-
-## IER-manifesto.md
-
-# **Informational Experiential Realism (IER): A Manifesto**
-
-Experience is real.
-The physical world is real.
-The mistake has been thinking we must choose between them.
-
-**Informational Experiential Realism (IER)** rejects both mysticism and dismissal. It holds that experience is neither a ghostly extra nor a convenient fiction, but **a real, physical phenomenon with a precise identity**.
-
----
-
-## IER-overview.md
-
-## 1. What IER Is
-
-**Informational Experiential Realism (IER)** is a **physicalist identity theory of experience**.
-
-Its central claim is not explanatory, causal, or emergent, but **ontological**:
-
-> **Experience is identical to a specific organizational and dynamical regime of physical systems.**
-
-That regime is called a **Unified Experiential Field (UEF)**.
-
-IER holds that:
-
-* there is **one objective physical reality**, governed by mind-independent law;
-* some physical systems, when organized in a particular way, *are experiential*;
-* experience is neither fundamental nor illusory, but **real by identity**.
-
-IER introduces **no new substances, properties, forces, or metaphysical categories**.
 
 ---
 
@@ -477,5 +431,17 @@ Accordingly, the correct critical question is not “Is this intuitive?” or �
 > **Does the identity claim succeed without collapsing into what it rejects or relying on what it denies?**
 
 This document explains how IER answers that question.
+
+---
+
+## IER-future.md
+
+## **Abstract**
+
+Informational Experiential Realism (IER) identifies experience with a specific kind of physically instantiated, globally integrated dynamical regime. Where such a regime exists, experiential standing is **categorical and non-comparable**. At the same time, IER entails persistent **epistemic uncertainty** about where such regimes are instantiated, particularly in biological systems.
+
+This article is a **thought experiment about a possible future**: one in which IER’s core claims are broadly accepted as a background ontology, even while uncertainty about particular cases remains unresolved.
+
+The central claim is not that moral life would be radically transformed, but that certain **forms of moral confidence and dismissal would gradually become harder to sustain**, while everyday practices continue under conditions of acknowledged uncertainty.
 
 ---
