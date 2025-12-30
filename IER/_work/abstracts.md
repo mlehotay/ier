@@ -464,16 +464,18 @@ Those separations feel counterintuitive until they are **worked through concrete
 
 ## 1. Purpose of This Article
 
-This article does not aim to *defend* IER by deflection, nor to *resolve* every objection by stipulation. Its purpose is narrower and harder:
+This article does not aim to *defend* Intrinsic Experiential Realism (IER) by evasion, nor to *win* disputes by redefining terms. Its aim is narrower and more demanding:
 
-> To map the genuine pressure points of Intrinsic Experiential Realism (IER), distinguish fatal objections from acceptable costs, and clarify where the theory is making irreversible commitments.
+> To explain how IER responds to its main critics, distinguish objections that threaten the theory from those it accepts as costs, and clarify where disagreement reflects incompatible metaphysical starting points rather than mistakes.
 
-IER is not a synthesis theory. It is not a reconciliation project. It is a **constrained identity claim** about what experience *is*, paired with an ethics that follows by identity rather than access.
+IER is not a synthesis theory.  
+It is not a reconciliation between functionalism and phenomenology.  
+It is a **constrained identity claim** about what experience *is*, paired with an ethical framework that follows from that identity rather than from epistemic access.
 
-That means the correct critical question is not “Is this intuitive?” or “Can we test this?” but:
+Accordingly, the correct critical question is not “Is this intuitive?” or “Can we test this?” but rather:
 
-> *Does the identity claim succeed without covertly reintroducing what it rejects?*
+> **Does the identity claim succeed without collapsing into what it rejects or relying on what it denies?**
 
-This article takes that question seriously.
+This document explains how IER answers that question.
 
 ---
