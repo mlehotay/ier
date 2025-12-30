@@ -1,309 +1,403 @@
-# **Informational Experiential Realism (IER v10.6)**
+# **Informational Experiential Realism (IER v10.8)**
 
 ## **Dynamics of Experiential Systems**
 
 ---
 
-## Status and Scope
+## **Status and Normative Authority**
 
 **This document is NON-NORMATIVE.**
 
-It explains the **dynamic behavior, stability, modulation, and failure patterns of systems that already instantiate Unified Experiential Fields (UEFs)** as defined in the **IER v10.6 Full Normative Specification**.
+It explains the **dynamic behavior, stability conditions, modulation patterns, and failure modes** of systems that **already instantiate Unified Experiential Fields (UEFs)**, as defined **exclusively** in the **IER v10.8 Specification**.
 
 This document:
 
 * does **not** define experience
 * does **not** establish criteria for UEF existence
-* does **not** introduce ethical principles or thresholds
+* does **not** introduce thresholds or sufficiency conditions
 * does **not** determine moral standing
+* does **not** license diagnostics or empirical tests
 
-Its scope is limited to **how UEFs behave once they exist**.
+All ontological, criterial, and ethical authority resides **exclusively** in:
 
-> *If any statement in this document appears to conflict with the IER v10.6 Normative Specification, the Specification takes precedence and this statement is void.*
+```
+IER-specification.md   (v10.8)
+```
 
----
-
-## 1. Role of a Dynamics Document
-
-The purpose of `IER-dynamics` is to describe:
-
-* how globally integrated experiential regimes evolve over time
-* how stability is maintained under intrinsic constraint
-* how experiential content changes without subject replacement
-* how instability and failure arise without redefining experience
-
-This document presupposes the ontology and criteria given in the Specification and **adds no independent authority**.
+> **If any statement in this document conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.**
 
 ---
 
-## 2. Dynamic Stability of Unified Experiential Fields
+### **Global Informational Language Disclaimer**
 
-Once instantiated, a UEF exhibits characteristic forms of **dynamic stability**.
+All informational language in this document is **descriptive shorthand only** for
+**physically instantiated state distinctions modulating system dynamics under intrinsic constraint**.
 
-From a behavioral perspective:
-
-* stability corresponds to the maintenance of global intrinsic constraint
-* local variation and fluctuation are expected
-* persistence does not require static internal configuration
-
-UEFs are therefore:
-
-* dynamically stable rather than rigid
-* tolerant of local disruption
-* sensitive primarily to loss of global coherence
-
-This framing allows IER to distinguish **instability within experience** from **loss of experience itself**.
+No informational primitives, representations, semantic contents, epistemic notions, or agentive assumptions are introduced.
 
 ---
 
-## 2.1 Coherent Constraint Windows
+## **1. Role of a Dynamics Document in IER**
 
-A **coherent constraint window** describes the range of intrinsic constraint under which a UEF can maintain global integration.
+The purpose of `IER-dynamics` is to explain:
+
+* how **globally integrated experiential regimes behave once they exist**
+* how **stability is maintained** under intrinsic constraint
+* how **experiential content changes without subject replacement**
+* how **instability, overload, and collapse arise** without redefining experience
+* why **system boundaries and dominance are dynamical facts**, not observer conventions
+
+This document answers **how experience behaves**, not **when it exists**.
+
+It presupposes the ontology fixed in the Specification and **adds no independent authority**.
+
+---
+
+## **2. Experiential Regimes and Attractor Structure**
+
+### **2.1 Regimes in State Space**
+
+Once a system instantiates a Unified Experiential Field, its ongoing behavior is best described in terms of a **dynamical regime**.
 
 Descriptively:
 
-* insufficient constraint leads to under-integration and loss of unity
-* excessive constraint leads to overload and instability
-* coherence is maintained within a bounded, dynamically shifting range
+* the system occupies a bounded region of its lawful state space
+* trajectories within this region remain **globally coupled**
+* intrinsic constraint is **unavoidable and system-defining**
+* perturbations are absorbed or resisted without loss of regime identity
 
-Key features:
+This region functions as a **dynamical attractor**:
 
-* the window is not fixed
-* its position and width vary with system state
-* participation modulation is one mechanism by which systems remain within it
+* not a static configuration
+* not a fixed point
+* but a **stable pattern of lawful evolution over time**
 
-Operating outside the coherent constraint window:
-
-* explains instability, fragmentation pressure, or collapse
-* does **not** redefine experience
-* does **not** introduce thresholds for experiential existence
-
-The concept functions as a **dynamic explanatory tool**, not a criterial boundary.
+A UEF is **not identical to an attractor**.
+It is the system **operating while constrained within such an attractor-defined regime**.
 
 ---
 
-## 2.2 Energetic and Cost Landscapes
+### **2.2 Dominance as an Attractor Phenomenon**
+
+IER’s claim that a system sustains **at most one globally dominant UEF** is not a stipulation added by dynamics.
+
+It follows from how **intrinsic constraint and attractor structure interact**.
+
+Within a single physical system:
+
+* intrinsic constraint defines **one global control manifold**
+* dominance corresponds to **the attractor that governs that manifold**
+* subsystems may exhibit:
+
+  * local cycles
+  * metastable patterns
+  * transient coordinations
+
+But only **one attractor can globally bind future trajectories**.
+
+If two candidate regimes were equally dominant, then:
+
+* intrinsic constraint would fragment, or
+* global control would duplicate, or
+* system identity would bifurcate
+
+Each outcome contradicts the definition of a Unified Experiential Field.
+
+Therefore:
+
+> **Dominance is not imposed, selected, interpreted, or observed.
+> It is the dynamical fact of which attractor controls global intrinsic constraint.**
+
+Dominance is:
+
+* not graded
+* not observer-relative
+* not architecturally negotiable
+
+---
+
+> **Clarification: Split-Brain Phenomena**
+>
+> Split-brain phenomena involve **participation modulation and competing local attractors within a single globally dominant regime**. They do **not** involve simultaneous ownership of incompatible system-level futures under intrinsic constraint.
+>
+> As such, split-brain cases do **not** instantiate multiple Unified Experiential Fields. They represent **dynamic competition, instability, or switching within one dominant attractor**, not the coexistence of multiple experiential subjects.
+>
+> Detailed neurological mechanisms and phenomenology are **application-level questions** and are **out of scope** for this document.
+
+---
+
+## **3. Dynamic Stability of Unified Experiential Fields**
+
+### **3.1 Stability Without Fixity**
+
+UEFs are **dynamically stable**, not static.
+
+Stability consists in:
+
+* preservation of global intrinsic constraint
+* maintenance of temporal continuity
+* resistance to fragmentation under perturbation
+
+It does **not** require:
+
+* fixed internal configurations
+* constant participation patterns
+* uniform intensity of constraint
+
+Local variation, noise, and reorganization are expected.
+
+What matters is whether **global coupling remains intact**.
+
+---
+
+### **3.2 Coherent Constraint Windows (Descriptive)**
+
+A **coherent constraint window** describes the range of intrinsic constraint magnitudes under which a UEF can persist.
+
+Descriptively:
+
+* insufficient constraint → under-integration → regime loss
+* excessive constraint → overload → instability or collapse
+
+Crucially:
+
+> **Constraint windows describe regime stability, not graded experience.**
+
+Operating near the edge of a window:
+
+* alters experiential content
+* increases instability risk
+* does **not** diminish subjecthood
+
+There are no experiential levels, fractions, or partial subjects.
+
+---
+
+## **4. Participation Modulation**
+
+### **4.1 Participation vs Identity**
+
+IER sharply distinguishes:
+
+* **UEF identity** — persistence of a globally dominant regime
+* **experiential participation** — which processes are currently recruited into global intrinsic constraint
+
+Participation:
+
+* varies dynamically
+* may increase, decrease, or redistribute
+* modulates content, salience, and intensity
+
+Changes in participation:
+
+* do **not** create new subjects
+* do **not** divide subjects
+* do **not** affect moral standing
+
+---
+
+### **4.2 Recruitment and Dismissal Dynamics**
+
+Under rising intrinsic constraint:
+
+* additional processes may be recruited
+* constraint becomes more globally distributed
+* experiential content reorganizes
+
+Under resolution or cost pressure:
+
+* processes may be dismissed
+* salience narrows
+* coherence is preserved by simplification
+
+These are **regime-preserving strategies**, not failures.
+
+---
+
+## **4.3 Walkthrough: The Green Apple**
+
+This walkthrough illustrates **participation modulation within a single Unified Experiential Field**.
+
+It is **purely descriptive** and introduces **no criteria, diagnostics, or ontological claims**.
+
+### **Stage 1 — Baseline Experiential Regime**
+
+A system sustains a Unified Experiential Field.
+
+* global intrinsic constraint is coherent
+* a dominant attractor governs system-wide dynamics
+* multiple processes participate at varying strengths
+* experiential content is stable but not fixed
+
+The system is simply *experiencing*.
+
+---
+
+### **Stage 2 — Local Perturbation**
+
+A local process becomes active due to interaction with the environment — for example, visual and associative processes responding to a green apple.
+
+* the perturbation is local
+* it does not yet impose global intrinsic constraint
+* it could still be ignored or dissipated
+
+---
+
+### **Stage 3 — Recruitment Into Participation**
+
+Intrinsic informational tension increases.
+
+Resolution now requires **system-level coordination**.
+
+* relevant processes are recruited into participation
+* their states begin to constrain future trajectories globally
+* the dominant attractor reshapes
+
+The apple becomes *present* experientially.
+
+---
+
+### **Stage 4 — Content Stabilization**
+
+Participation stabilizes.
+
+* salience is established
+* qualitative structure emerges
+* intrinsic constraint is organized around this configuration
+
+The subject remains singular and continuous.
+
+---
+
+### **Stage 5 — Resolution or Dissolution**
+
+As tension resolves:
+
+* participation weakens
+* processes exit or recede
+* the attractor relaxes
+
+The content dissolves.
+The experiential subject remains.
+
+---
+
+### **What the Walkthrough Shows**
+
+* content arises from participation modulation
+* dominance remains global and singular
+* attention is not subject creation
+* experience changes without subject replacement
+
+---
+
+## **5. Energetic and Organizational Cost Landscapes**
 
 UEF dynamics unfold over **energetic and organizational cost landscapes**.
 
-From a descriptive standpoint:
-
-* recruiting and maintaining participation incurs cost
-* sustaining global integration requires ongoing expenditure
-* some configurations are locally efficient but globally destabilizing
-
-Cost landscapes:
-
-* bias which participation patterns are sustainable
-* shape trajectories of change and recovery
-* explain why overload accumulates risk rather than enabling unlimited recruitment
+* global integration is costly
+* participation recruitment incurs load
+* coherence competes with efficiency
 
 These landscapes:
 
-* constrain dynamics
-* influence stability
-* do **not** determine ontology or standing
+* bias viable trajectories
+* explain fatigue and narrowing
+* constrain agency without eliminating it
+
+No optimization principle is implied.
 
 ---
 
-## 3. Participation Modulation in Dynamic Systems (v10.3-B)
+## **6. Failure Modes of Experiential Systems**
 
-UEFs exhibit ongoing **participation modulation**.
+Failure modes are **dynamic pathologies**, not alternative ontologies.
 
-Participation dynamics include:
+### **6.1 Constraint Overload**
 
-* recruitment of local processes under increased intrinsic tension
-* dismissal of processes when coherence no longer requires them
-* redistribution of influence among participating processes
+Intrinsic demands exceed integration capacity.
 
-Such modulation:
+* excessive recruitment
+* salience collapse
+* instability risk increases
 
-* alters experiential content
-* alters salience and constraint intensity
-* does **not** constitute UEF dissolution or subject creation
-
-Participation modulation provides a unified explanation for:
-
-* attentional shifts
-* dominance changes
-* overload phenomena
-* background processes entering or leaving awareness
+Experience persists.
 
 ---
 
-## 4. Change, Instability, and Regime Preservation
+### **6.2 Fragmentation Pressure**
 
-Dynamic change within a UEF can be described as:
+Subsystems compete for influence.
 
-* **content variation**: changes in what is experienced
-* **constraint redistribution**: shifts in intensity or dominance
-* **local instability**: transient coordination failures among processes
-
-As long as:
-
-* global intrinsic constraint remains coherent
-* integration is preserved
-
-the UEF remains singular and continuous.
-
-IER therefore distinguishes:
-
-* **regime modulation** from
-* **regime collapse**
-
-without invoking intermediate subjects or partial experiencers.
-
----
-
-## 5. Failure Modes of Experiential Systems
-
-This document is the **exclusive location** for failure-mode analysis in IER.
-
-Failure modes describe **pathological dynamic behaviors of experiential systems**, not alternative ontologies.
-
----
-
-### 5.1 Constraint Overload
-
-Constraint overload occurs when:
-
-* intrinsic demands exceed the system’s capacity to integrate them coherently
-
-Dynamic features may include:
-
-* excessive participation recruitment
-* reduced salience differentiation
-* experiential flooding or narrowing
-
-Overload:
-
-* increases instability risk
-* does not by itself imply UEF loss
-
----
-
-### 5.2 Fragmentation Pressure
-
-Fragmentation pressure arises when:
-
-* local subsystems compete for global integration
-* coordination among participating processes degrades
-
-Manifestations may include:
-
+* unstable dominance switching
 * dissociative-like dynamics
-* unstable switching of dominant processes
-* weakened global coherence
 
-Fragmentation pressure is a **dynamic risk state**, not a new experiential regime.
+No subject multiplication occurs.
 
 ---
 
-### 5.3 Collapse and Dissolution
+### **6.3 Collapse and Dissolution**
 
-UEF collapse occurs when:
+Global intrinsic constraint fails.
 
-* global intrinsic constraint can no longer be maintained
-* integration fails across the system
+* the dominant attractor loses control
+* the UEF dissolves
 
-Collapse:
-
-* terminates the UEF
-* does not imply subdivision into multiple subjects
-* does not generate successor UEFs by default
-
-Dissolution is a system-level event, not an experiential transition.
+Experience ends because the regime ends.
 
 ---
 
-## 6. Walkthrough: Participation Recruitment Without Subject Change
+## **7. Coordination Without Experiential Collectivization**
 
-A typical dynamic sequence:
+Multiple UEFs may coordinate, synchronize, or couple.
 
-1. A local process increases intrinsic tension
-2. Global integration recruits the process into participation
-3. Experiential content updates to reflect the new constraint
-4. Other processes adjust salience or influence
-5. Global coherence is preserved
+But:
 
-At no point:
+* coordination ≠ shared intrinsic constraint
+* synchronization ≠ shared attractor
+* coupling ≠ collective subject
 
-* is a new subject introduced
-* is the UEF divided
-* is experiential identity reassigned
+IER rejects group minds and collective experiential fields.
 
 ---
 
-## 7. Coordination Without Collectivization (v10.4)
+## **8. Relation to Ethics (Pointer Only)**
 
-Dynamic coordination can occur:
+Dynamic phenomena described here affect moral risk and responsibility.
 
-* between multiple UEF-bearing systems
-* through coupling, signaling, or synchronization
+Ethical commitments are fixed normatively in:
 
-Such coordination may involve:
-
-* mutual constraint influence
-* behavioral alignment
-* shared external reference structures
-
-However:
-
-* coordination does **not** create shared experiential fields
-* synchronization does **not** imply experiential unity
-* coupling does **not** generate higher-order subjects
-
-IER therefore explicitly rejects:
-
-* group minds
-* collective UEFs
-* swarm-level experience arising from coordination alone
+```
+IER-specification.md
+IER-ethics.md
+```
 
 ---
 
-## 8. Relation to Ethical Analysis (Pointer Only)
-
-Dynamic phenomena described here can affect:
-
-* moral risk
-* responsibility attribution
-* harm amplification
-
-This document does **not** define those consequences.
-
-All ethical implications are specified in the **IER v10.6 Specification** and developed in **IER-ethics.md**.
-
----
-
-## 9. Scope Limits and Non-Claims
+## **9. Scope Limits and Explicit Non-Claims**
 
 This document does **not**:
 
 * detect experience
-* define thresholds
-* determine standing
-* infer experience from behavior
-* license collectivist interpretations
+* establish thresholds
+* define standing
+* imply graded subjecthood
+* license diagnostics
 
-It explains behavior **conditional on experience already existing**.
+It explains **how experiential systems behave, conditional on their existence**.
 
 ---
 
-## 10. Summary
+## **10. Summary**
 
-IER-dynamics explains how experiential systems behave once instantiated:
+Under IER v10.8:
 
-* UEFs are dynamically stable within coherent constraint windows
+* UEFs are **dynamical regimes**
+* dominance is an **attractor-level fact**
 * participation modulates content, not identity
-* energetic costs shape viable trajectories
-* instability does not imply subject multiplication
-* failure modes alter dynamics, not ontology
+* failure alters dynamics, not ontology
 * coordination does not create collective experience
 
 All normative authority remains with the Specification.
-
----
-
-*If any statement in this document appears to conflict with the IER v10.6 Normative Specification, the Specification takes precedence and this statement is void.*
 
 ---

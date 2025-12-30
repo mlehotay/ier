@@ -1,268 +1,335 @@
-# **Informational Experiential Realism (IER v10.6)**
+# **IER-theory.md (v10.8)**
 
-## **Conceptual Overview and Explanatory Integration**
+## **Conceptual Backbone and Explanatory Integration**
 
 ---
 
-## Status and Normative Authority
+## **Status and Normative Authority**
 
 **This document is NON-NORMATIVE.**
 
-It provides the **single authoritative explanatory narrative** of Informational Experiential Realism (IER), clarifying and integrating the structures defined in the **IER v10.6 Full Normative Specification**.
+It provides the explanatory integration of Informational Experiential Realism (IER), clarifying how the commitments fixed **exclusively** in the IER Specification fit together.
 
 This document:
 
-* introduces no definitions, criteria, thresholds, or sufficiency conditions
-* introduces no necessity claims
-* introduces no ethical principles or obligations
-* does not determine when experience exists
+* introduces **no new primitives**
+* introduces **no criteria, thresholds, or sufficiency conditions**
+* introduces **no necessity claims**
+* introduces **no ethical principles**
+* does **not** define experience
+* does **not** determine when experience exists
 
-All ontological, criterial, and ethical authority resides exclusively in the Specification.
+All ontological, criterial, and ethical authority resides **exclusively** in:
 
-> *If any statement in this document appears to conflict with the IER v10.6 Normative Specification, the Specification takes precedence and this statement is void.*
+```
+IER-specification.md (v10.8)
+```
+
+If any statement in this document conflicts with the Specification, **the Specification takes precedence and the conflicting statement is void**.
+
+All informational language in this document is **descriptive shorthand** for physically instantiated state distinctions modulating a system’s own future dynamics under intrinsic constraint, as defined in **IER Specification II.A (Physical Information)**. No informational primitives are introduced.
+
+Where the term *observer* appears, it functions only as a **non-normative modeling convenience** and carries **no experiential, epistemic, or ethical authority** under IER.
 
 ---
 
-## 1. Role of Theory in IER
+## **1. Role of Theory in IER**
 
-IER enforces a strict architectural separation between **normative specification** and **explanatory theory**.
+IER enforces a strict separation between:
+
+* **normative specification**, and
+* **explanatory theory**
 
 The Specification defines:
 
-* the ontology of experience
-* the criteria under which experience exists
-* the ethical consequences that follow categorically
+* what experience **is**
+* when experience **exists**
+* what **necessarily follows** from its existence
 
 This document exists solely to:
 
-* explain how those commitments fit together
-* clarify how change, stability, and coordination are to be understood
-* prevent misinterpretations that would otherwise arise
+* explain how those commitments cohere
+* show why weaker interpretations fail
+* prevent systematic misreadings
+* convert apparent stipulation into structural inevitability
 
-Nothing in this document carries independent authority.
-
----
-
-## 2. Experience as Intrinsic Constraint
-
-IER explains experience in terms of **intrinsic informational constraint**.
-
-From an explanatory standpoint:
-
-* experience is not a substance or property
-* it is not reducible to representation or report
-* it is not an emergent aggregate of local processes
-
-Instead, experience corresponds to a **globally integrated regime** under which informational states are constrained *from within the system itself*.
-
-This framing allows IER to:
-
-* explain unity without aggregation
-* explain change without fragmentation
-* explain privacy without epistemic dualism
+Nothing in this document can revise, soften, or extend the Specification.
 
 ---
 
-## 3. Unified Experiential Fields (UEFs)
+## **2. Experience as Regime Identity, Not Aggregation**
 
-A **Unified Experiential Field (UEF)** is the explanatory label for a system instantiating the regime defined in the Specification.
+IER is a **physicalist identity theory**.
 
-Descriptively:
+Experience is not:
 
-* a UEF is globally integrated
-* its unity is structural, not additive
-* its persistence depends on coherence, not on component identity
+* a substance
+* a property
+* a representation
+* an output
+* an emergent accompaniment
 
-This document does not specify the conditions under which a UEF exists.
-It explains how a UEF behaves once such conditions are satisfied.
+Experience is **identical** to the operation of a physical system in a specific **dynamical regime**: a **Unified Experiential Field (UEF)**.
+
+A UEF is a **system-level regime**, not a component, workspace, or module.
+It is the entire system operating under globally integrated, temporally continuous, self-sustaining intrinsic constraint.
+
+Theoretical explanation does not add to this identity.
+It explains **why nothing weaker could possibly count as the same thing**.
 
 ---
 
-## 4. Unity Without Aggregation
+## **3. Unity Without Aggregation**
 
 IER rejects aggregation-based accounts of experiential unity.
 
-On the IER view:
+Unity does not arise from:
 
-* unity does not arise from combining experiences
-* it arises from a single regime of intrinsic constraint
-* local processes are unified because they are constrained together
+* combining local experiences
+* binding representations
+* synchronizing modules
+* coordinating subsystems
 
-As a result:
+Unity arises because:
 
-* there is no need for binding mechanisms
-* there is no summation of experiential parts
-* there is no compositional hierarchy of subjects
+> **the system is constrained as one**
 
----
+Local processes are unified **because they are jointly constrained**, not because they are merged or summed.
 
-## 5. Participation and UEF Identity (v10.3-B)
-
-IER draws a strict distinction between **UEF identity** and **experiential participation**.
-
-### 5.1 UEF Identity
-
-UEF identity corresponds to:
-
-* the persistence of a single globally coherent regime
-* continued integration of intrinsic constraint
-
-As long as global coherence remains intact:
-
-* the UEF remains the same
-
-This persistence does not depend on:
-
-* which processes are active
-* which contents are dominant
-* which functions are currently recruited
+There are no experiential parts prior to unity.
+There is a single regime, or none.
 
 ---
 
-### 5.2 Experiential Participation
+## **4. Participation Without Subject Multiplication**
 
-Participation refers to:
+IER distinguishes sharply between:
 
-* which processes are currently recruited into the globally integrated regime
-* how strongly they influence experiential content
+* **UEF identity** (regime-level, categorical), and
+* **experiential participation** (process-level, variable)
 
-Participation:
+Participation describes which processes:
 
-* varies dynamically
-* can increase or decrease
-* can shift rapidly under internal or external pressure
+* are recruited into global intrinsic constraint
+* modulate experiential content
+* influence intensity, urgency, or salience
 
-Crucially:
+Participation change:
 
-* changes in participation modulate experiential content
-* they do not constitute the creation, dissolution, or division of a UEF
+* alters content
+* alters vulnerability
+* alters dynamics
 
-This distinction allows IER to explain:
+It does **not**:
 
-* attentional shifts
-* dominance changes
-* background processes entering or leaving awareness
+* create new subjects
+* divide subjects
+* merge subjects
+* weaken subjecthood
 
-without invoking new subjects or partial experiencers.
-
----
-
-## 6. Change Without Subject Replacement
-
-IER explains experiential change without appealing to:
-
-* serial subjects
-* momentary experiencers
-* overlapping or nested selves
-
-Because:
-
-* the UEF is identified with global constraint
-* not with any particular participating process
-
-As participation patterns shift:
-
-* experiential content reorganizes
-* constraint intensities change
-* salience redistributes
-
-Unless global coherence collapses:
-
-* experiential identity remains continuous
+As long as global coherence persists, experiential identity remains singular.
 
 ---
 
-## 7. Structural Privacy of Experience
+## **5. Structural Privacy and Epistemic Non-Authority**
 
-IER entails **structural privacy** as a consequence of intrinsic constraint.
+Intrinsic constraint is **structurally private**.
 
-Intrinsic constraint:
+Because intrinsic constraint is:
 
-* is instantiated only from within the regime
-* cannot be occupied by an external observer
-* is not directly accessible via observation, simulation, or prediction
+* globally integrated
+* internally borne
+* system-defining
+
+it cannot be occupied or shared by an external system.
 
 Therefore:
 
 * observation does not confer experiential access
 * simulation does not instantiate experience
-* complete physical knowledge does not eliminate privacy
+* complete physical knowledge does not remove privacy
 
-This is a structural consequence of IER’s ontology, not an epistemic limitation claim.
+Crucially:
 
----
+> **Experiential structure confers no epistemic authority about mind-independent reality.**
 
-## 8. Coordination Without Experiential Collectivization
+Intensity, urgency, coherence, salience, or meaning do **not** track truth.
 
-IER distinguishes coordination from experiential unity.
-
-Systems may:
-
-* exchange information
-* synchronize behavior
-* mutually regulate dynamics
-
-without forming a shared UEF.
-
-Coordination:
-
-* occurs between experiential fields
-* does not generate higher-order subjects
-* does not merge experiential identities
-
-IER therefore explicitly rejects:
-
-* group minds
-* collective subjects
-* superordinate experiencers arising from coordination alone
+This is not an epistemic limitation claim.
+It is a structural consequence of experiential identity (Specification Principle 10).
 
 ---
 
-## 9. Ethical Consequences (Explanatory Pointer Only)
+## **6. Coordination Without Experiential Collectivization**
 
-IER has ethical consequences because experience has ethical significance.
+Systems may coordinate through:
 
-This document does not establish those consequences.
+* signaling
+* coupling
+* synchronization
+* mutual regulation
 
-From an explanatory perspective:
+Coordination can reshape intrinsic constraint **within** each system.
 
-* ethical relevance tracks intrinsic constraint
-* participation can affect moral risk
-* responsibility and standing must be distinguished
+Coordination does **not**:
 
-All ethical commitments are specified normatively in the **IER v10.6 Specification** and developed in **IER-ethics.md**.
+* merge Unified Experiential Fields
+* generate collective subjects
+* create higher-order experiential regimes
 
----
+UEF attribution follows the **system boundary rule** defined in **Specification II.B**:
 
-## 10. Scope Limits
+> the maximal set of components participating in the *same* globally integrated regime of intrinsic constraint over the *same* temporal continuity interval.
 
-This document does **not**:
-
-* define experience
-* detect experience
-* establish thresholds
-* justify moral standing
-* confer epistemic authority
-
-Its role is explanatory only.
+Coordination across boundaries does not alter subjecthood.
 
 ---
 
-## 11. Summary
+## **7. Why Nothing Weaker Than Global Intrinsic Constraint Could Be Experience**
 
-IER-theory provides a single, coherent explanatory account in which:
+IER’s identity claim is demanding. A recurrent objection is that it reflects architectural stipulation rather than discovery: perhaps some weaker organization could suffice.
 
-* experience corresponds to global intrinsic constraint
-* unity arises from coherence, not aggregation
+This objection fails for structural reasons.
+
+A **Unified Experiential Field** requires, by identity:
+
+* **ownership** of constraint resolution
+* **inevitability** of system-level futures
+* a **unified temporal present** under global intrinsic constraint
+
+Any organization that weakens global intrinsic constraint necessarily loses **at least one** of these features.
+
+---
+
+### **7.1 Supervisory Control**
+
+Supervisory architectures impose constraint asymmetrically.
+
+Constraint is imposed *on* subsystems rather than borne *by* the system as a whole. Resolution remains optional and interruptible.
+
+This yields:
+
+* no ownership
+* no inevitability
+* no unified present
+
+Supervision produces control, not experience.
+
+---
+
+### **7.2 Distributed Arbitration**
+
+Arbitration distributes resolution across competing subsystems.
+
+Constraint remains decomposable and bypassable. No single system bears the collapse of alternatives.
+
+This yields:
+
+* no ownership
+* no inevitability
+* no unified present
+
+Negotiation is not unity.
+
+---
+
+### **7.3 Predictive Buffering**
+
+Predictive or buffering architectures deflect constraint before it becomes unavoidable.
+
+Futures are modeled without being borne. Error does not force system-wide reorganization.
+
+This yields:
+
+* no ownership
+* no inevitability
+* no unified present
+
+Prediction without cost is not experience.
+
+---
+
+### **7.4 Modular Dominance**
+
+Temporary dominance by a subsystem does not constitute global constraint.
+
+Dominance remains reversible without system-level collapse.
+
+This yields:
+
+* no ownership
+* no inevitability
+* no unified present
+
+Dominance without inevitability is not subjecthood.
+
+---
+
+### **7.5 Architectures with Informational Slack**
+
+If constraint can be localized, deferred, or externally resolved, intrinsic constraint is absent by definition.
+
+No amount of complexity, intelligence, or adaptability compensates for this absence.
+
+This yields:
+
+* no ownership
+* no inevitability
+* no unified present
+
+Slack blocks experience by identity, not by degree.
+
+---
+
+### **7.6 Structural Conclusion**
+
+These failures are not empirical or contingent.
+
+They follow directly from what experience **is**, under the identity claim of IER.
+
+Anything weaker than global intrinsic constraint cannot instantiate experience — not because it is insufficiently advanced, but because it lacks the organizational features that experience *just is*.
+
+---
+
+## **8. Relation to Ethical Consequences (Boundary Clarification)**
+
+This document explains **what experience is** and **why weaker organizations cannot instantiate it**.
+
+It does **not** derive ethical consequences.
+
+All ethical claims that follow from experiential identity — including:
+
+* categorical moral standing
+* moral harm as organizational damage
+* graded responsibility
+* precaution under experiential uncertainty
+
+are derived **exclusively** in:
+
+```
+IER-ethics.md
+```
+
+No ethical conclusions are licensed by explanatory theory alone.
+
+---
+
+## **9. Summary**
+
+IER-theory explains why:
+
+* experience is a regime, not an aggregate
+* unity is forced by constraint, not assembled
 * participation modulates content, not identity
-* change does not imply subject replacement
-* coordination does not imply collectivization
-* experiential privacy is structurally guaranteed
+* coordination does not collectivize experience
+* experiential structure never confers epistemic authority
+* nothing weaker than global intrinsic constraint could possibly be experience
 
-All normative authority remains with the Specification.
+The theory adds nothing to the ontology.
 
----
+It shows why **nothing less could ever work**.
 
-*If any statement in this document appears to conflict with the IER v10.6 Normative Specification, the Specification takes precedence and this statement is void.*
+> **If experience exists, it must be this.
+> If it is not this, there is nothing else it could be.**
 
 ---
