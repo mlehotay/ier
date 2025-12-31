@@ -1,16 +1,21 @@
-# **IER Contrast and Boundary Clarifications**
+# **IER-contrast.md (v10.8)**
+
+## **Contrast and Boundary Clarifications**
 
 ### **How Informational Experiential Realism Differs from Adjacent Theories**
 
-**Informational Experiential Realism (IER v10.6)**
+**Informational Experiential Realism (IER v10.8)**
 *Derived Explanatory Document — Non-Normative*
 
 ---
 
 ## **Status and Scope**
 
-This document is a **non-normative, explanatory derivative** of the
-**Informational Experiential Realism v10.6 Normative Specification** (“the Specification”).
+This document is a **non-normative, explanatory derivative** of:
+
+```
+IER-specification.md   (v10.8)
+```
 
 It:
 
@@ -20,25 +25,37 @@ It:
 * makes **no empirical evaluations**
 * establishes **no criteria, thresholds, or diagnostics**
 
-All definitions, identity claims, and ethical entailments are fixed **exclusively** by the Specification (`IER-specification.md`).
-If any statement here appears to conflict with the Specification, **the Specification takes precedence and the conflicting statement is void**.
+All definitions, identity claims, regime conditions, and ethical entailments are fixed **exclusively** by the Specification. If any statement here conflicts with the Specification, **the Specification takes precedence and the conflicting statement is void**.
 
-The sole purpose of this document is **boundary enforcement**: to clarify which adjacent frameworks **cannot be reconciled with IER’s identity claim**, even where surface vocabulary or motivations overlap.
+The sole purpose of this document is **boundary enforcement**: to clarify which adjacent frameworks **cannot be reconciled with IER’s identity claim**, even where vocabulary or motivations overlap.
+
+---
+
+### **Global Informational Language Disclaimer**
+
+All uses of *information*, *integration*, *coherence*, *constraint*, *architecture*, and *access* in this document are **descriptive shorthand only**.
+
+They refer exclusively to:
+
+> **physically instantiated state distinctions that modulate a system’s own future dynamics under intrinsic constraint**,
+> as defined in **IER Specification II.A (Physical Information)**.
+
+No semantic, representational, probabilistic, or epistemic primitives are introduced.
 
 ---
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
+Informational Experiential Realism (IER v10.8) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
 
 This identity claim entails commitments that sharply distinguish IER from many neighboring theories of mind, consciousness, life, and cognition. The contrasts below do not argue for IER’s correctness. They specify **points of incompatibility**—claims that cannot coexist with IER without abandoning its core commitments.
 
 ---
 
-## **1. Reductive Physicalism and Eliminativism**
+## **1. Reductive Eliminativism**
 
 **Core claim of the framework**
-Experience is an illusion, a misdescription, or fully reducible to behavior, function, representation, or report.
+Experience is an illusion, a misdescription, or fully reducible *away* into behavior, function, representation, or report.
 
 **IER boundary**
 IER is strictly physicalist but explicitly non-eliminativist.
@@ -49,10 +66,8 @@ Under IER:
 * experience is **physical**
 * experience is **identical to an organizational regime**
 
-Eliminativism fails by denying the existence of the very regime IER identifies.
-
 **Incompatibility**
-IER reduces experience *ontologically* without reducing it *away*.
+IER reduces experience *ontologically* without reducing it *away*. Eliminativism denies the existence of the very regime IER identifies.
 
 ---
 
@@ -66,12 +81,12 @@ IER denies that functional role is sufficient for experience.
 
 Under IER:
 
-* functionally identical systems may differ in experiential status
+* functionally similar or identical systems may differ in experiential status
 * externally orchestrated or decomposable systems may implement the same roles without experience
-* computation, representation, and control are **insufficient** for subjecthood
+* computation, control, and representation are **insufficient** for subjecthood
 
 **Incompatibility**
-IER locates experience in **ownership of intrinsic constraint**, not in functional role.
+IER locates experience in **globally intrinsic constraint** and **ownership of constraint resolution**, not in functional role.
 
 ---
 
@@ -81,13 +96,13 @@ IER locates experience in **ownership of intrinsic constraint**, not in function
 Experience arises when information is globally broadcast, accessible, or available for report and control.
 
 **IER boundary**
-IER denies that access or availability constitutes experience.
+IER denies that global access constitutes experience.
 
 Under IER:
 
 * global broadcasting can occur without intrinsic constraint
-* access architectures may externalize cost and remain slack-dominated
-* availability explains reportability, not experiential existence
+* access architectures may remain slack-dominated and externally resolvable
+* availability explains reportability and control, not experiential existence
 
 **Incompatibility**
 IER requires **globally binding intrinsic constraint**, not merely global access.
@@ -97,29 +112,27 @@ IER requires **globally binding intrinsic constraint**, not merely global access
 ## **4. Integrated Information Theory (IIT)**
 
 **Core claim of the framework**
-Experience corresponds to integrated information, is graded, measurable, and widely instantiated.
+Experience corresponds to integrated information, is graded, measurable, and broadly instantiated.
 
 **IER boundary**
-IER rejects all of these commitments.
+IER rejects these commitments.
 
 Under IER:
 
 * experience is **categorical**, not graded
 * experience is **non-diagnosable**, not measurable
-* experience is **rare**, not ubiquitous
 * no scalar quantity corresponds to “how conscious” a system is
-
-Intrinsic constraint is not equivalent to information integration, and no numerical index captures experiential identity.
+* experience is identified with a **regime**, not a magnitude
 
 **Incompatibility**
-IER identifies experience with a **regime**, not a quantity.
+IER does not equate experiential identity with an integration measure or numeric index.
 
 ---
 
 ## **5. Panpsychism and Cosmopsychism**
 
 **Core claim of the framework**
-Experience is a fundamental or ubiquitous feature of matter, present at all scales.
+Experience is fundamental or ubiquitous, present at all scales.
 
 **IER boundary**
 IER explicitly denies micro-experience and universal subjecthood.
@@ -129,8 +142,6 @@ Under IER:
 * most physical systems lack experience
 * experience requires a specific organizational regime
 * no experiential properties are fundamental or ubiquitous
-
-Experiential pluralism arises from **organizational differentiation**, not universal mentality.
 
 **Incompatibility**
 IER denies that experience is a basic feature of matter.
@@ -147,11 +158,9 @@ IER replaces emergence with **organizational identity**.
 
 Under IER:
 
-* no new properties arise
-* no metaphysical novelty is introduced
+* no new ontological properties are introduced
 * experience is not added to the physical description
-
-The transition into experience is a **regime transition**, not the appearance of a new ontological kind.
+* onset is a **regime transition**, not the appearance of a new kind
 
 **Incompatibility**
 IER denies that experience emerges as something over and above physical organization.
@@ -170,90 +179,56 @@ Under IER:
 
 * no non-physical entities are posited
 * no phenomenal properties are added
-* no explanatory gap remains once the regime is identified
+* no explanatory bridge is required once the regime is identified
 
 **Incompatibility**
-IER explains experience without expanding ontology.
+IER cannot be reconciled with any ontological expansion beyond the physical.
 
 ---
 
-## **8. Autopoiesis (Maturana & Varela)**
+## **8. Representationalism and Semantic Realism**
 
 **Core claim of the framework**
-Life—and in some extensions, cognition—consists in **autopoietic organization**: a self-producing, operationally closed network of processes that continuously generates and maintains its own components and boundary.
-
-This framework is most closely associated with **Humberto Maturana** and **Francisco Varela**.
-
----
+Experience is constituted by representations with semantic content, truth conditions, or reference relations.
 
 **IER boundary**
-IER denies that self-production, operational closure, or organizational self-maintenance is sufficient for experience.
+IER denies semantic primitives and denies that representation is constitutive of experience.
 
 Under IER:
 
-* a system may be autopoietic yet entirely non-experiential
-* self-maintenance does not entail intrinsic experiential constraint
-* operational closure does not imply subjecthood
-* organizational persistence does not by itself generate a world-for-the-system
-
-IER locates experience not in **self-production**, but in **globally unavoidable intrinsic constraint** borne from within a unified regime.
-
----
-
-**Key axis of incompatibility**
-Autopoiesis characterizes **how systems maintain themselves**.
-IER identifies **what experience is when a system cannot escape maintaining itself**.
-
-Autopoiesis remains:
-
-* descriptively organizational
-* biologically motivated
-* tolerant of gradualism and boundary cases
-* ontologically and ethically non-committal
-
-IER, by contrast:
-
-* makes a **strict identity claim**
-* enforces **necessary and sufficient conditions**
-* requires **categorical onset**
-* entails **ethical consequences by identity**
-* forbids gray zones of partial subjecthood
-
----
+* “informational” language is descriptive shorthand for physical organization (Specification II.A)
+* experience is an organizational regime, not a semantic relation
+* truth conditions are not part of the ontology of experience
 
 **Incompatibility**
-IER cannot be interpreted as “autopoiesis applied to consciousness,” nor as “enactivism plus phenomenology.”
-
-Accepting IER requires rejecting autopoiesis as either:
-
-* a definition of experience, or
-* a sufficient condition for subjecthood.
+IER does not treat experience as essentially representational or content-bearing in the semantic sense.
 
 ---
 
-## **9. Enactivist and Embodied Approaches**
+## **9. Autopoiesis and Enactivism**
 
 **Core claim of the framework**
-Experience arises from active engagement with the environment through sensorimotor coupling.
+Life (and, in some extensions, mind) consists in self-producing, operationally closed organization, often with strong emphasis on environment-coupled activity.
 
 **IER boundary**
-IER denies that coupling or embodiment is sufficient for experience.
+IER denies that self-production, operational closure, coupling, or embodiment is sufficient for experience.
 
 Under IER:
 
-* systems may be deeply coupled yet non-experiential
-* environmental engagement may occur without intrinsic constraint
-* experience depends on internal organizational necessity, not interaction per se
+* a system may be autopoietic yet non-experiential
+* coupling can occur without intrinsic constraint
+* operational closure does not entail UEF identity
+* experience depends on **globally unavoidable intrinsic constraint**, not interaction per se
 
 **Incompatibility**
-IER locates experience in **intrinsic organization**, not world-involving activity.
+IER cannot be interpreted as “autopoiesis applied to consciousness,” nor as “enactivism plus phenomenology,” because it makes a strict identity claim with categorical onset and ethical entailments.
 
 ---
 
 ## **10. Phenomenology and First-Person Primacy**
 
 **Core claim of the framework**
-First-person experience has epistemic priority or authority.
+First-person experience has epistemic priority or authority over claims about reality.
 
 **IER boundary**
 IER sharply separates experiential access from epistemic access.
@@ -265,41 +240,41 @@ Under IER:
 * experiential structure does not ground ontology or knowledge
 
 **Incompatibility**
-IER explains experience without granting it epistemic privilege.
+Any framework granting epistemic privilege to felt authority conflicts with **IER Specification Principle 10 (Epistemic Non-Authority)**.
 
 ---
 
-## **11. Illusionism and Higher-Order Thought**
+## **11. Illusionism and Higher-Order Theories**
 
 **Core claim of the framework**
-Experience is a cognitive error, higher-order judgment, or representational confusion.
+Experience is a cognitive error, a higher-order judgment, or a representational misdescription.
 
 **IER boundary**
-IER denies that experience is a mistake or inference.
+IER denies that experience is an inference or a mistake.
 
 Under IER:
 
 * no higher-order representation is required
-* experience is not an appearance about appearances
+* experience is not an “appearance about appearances”
 * experience is the direct instantiation of a regime
 
 **Incompatibility**
-IER denies that experience is an illusion or meta-representation.
+IER denies that experience is an illusion produced by meta-representation.
 
 ---
 
-## **12. Summary of Boundary Commitments**
+## **12. Boundary Commitments (Compression List)**
 
 IER entails all of the following, which jointly exclude the frameworks above:
 
 * experience is **real**
 * experience is **physical**
 * experience is **organizationally identical to a regime**
-* experience is **categorical**
-* experience is **non-diagnosable**
-* experience is **non-fundamental**
-* experience is **ethically real**
-* experience is **epistemically limited**
+* experience is **categorical** (no graded subjecthood)
+* experience is **non-diagnosable in principle**
+* experience is **non-fundamental and non-ubiquitous**
+* experience is **ethically real by identity**
+* experiential structure has **no epistemic authority** (Principle 10)
 
 Any framework that denies any of these commitments is **incompatible with IER**.
 
@@ -307,13 +282,15 @@ Any framework that denies any of these commitments is **incompatible with IER**.
 
 ## **Closing Clarification**
 
-This document does not claim that IER replaces, refutes, or subsumes other theories.
-It states only that **IER cannot be interpreted as a variant of them**.
+This document does not claim that IER replaces, refutes, or subsumes other theories. It states only that **IER cannot be interpreted as a variant of them**.
 
 > **IER stands or falls on its identity claim.
 > The contrasts above specify what must be rejected if that claim is accepted.**
 
-For all definitions, axioms, and entailments, see the
-**IER v10.6 Normative Specification**.
+For authoritative definitions and entailments, see:
+
+```
+IER-specification.md   (v10.8)
+```
 
 ---

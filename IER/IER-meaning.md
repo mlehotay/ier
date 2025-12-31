@@ -2,7 +2,7 @@
 
 ### *Experiential Pluralism, Narrative Attractors, and the Organization of Significance under Informational Experiential Realism*
 
-**Informational Experiential Realism (IER v10.6)**
+**Informational Experiential Realism (IER v10.8)**
 *Derived Explanatory Companion — Non-Normative*
 
 ---
@@ -11,32 +11,60 @@
 
 This document is **explanatory** and **non-normative**.
 
-All axioms, definitions, identity claims, and necessary entailments are specified **exclusively** in the
-**Informational Experiential Realism (IER v10.6) Normative Specification** (“the Spec”).
+All ontological commitments, identity claims, regime definitions, and ethical consequences are fixed **exclusively** in:
+
+```
+IER-specification.md   (v10.8)
+```
 
 Accordingly, this document:
 
 * introduces **no new primitives**
 * introduces **no criteria, thresholds, or diagnostics**
-* makes **no epistemic or metaphysical claims**
+* introduces **no epistemic authority**
+* introduces **no metaphysical or semantic claims**
 * licenses **no authority over truth, reference, or justification**
 
-All claims here concern **the internal organization of meaning within experiential worlds**.
-The distinction between **experiential access** and **epistemic access**, and the limits of experiential authority, are treated exhaustively in **IER-access.md**, which this document explicitly presupposes.
+All claims concern **the internal organization of significance within experiential worlds**, conditional on the existence of a Unified Experiential Field (UEF).
 
-If any claim here appears to conflict with the Spec or with the access boundary articulated in `IER-access.md`, those documents take precedence.
+If any statement in this document appears to conflict with the Specification, **the Specification takes precedence and the conflicting statement is void**.
+
+---
+
+### **Global Informational Language Disclaimer**
+
+All uses of *information*, *informational*, *attractor*, *structure*, and *organization* in this document are **descriptive shorthand only**.
+
+They refer exclusively to:
+
+> **physically instantiated state distinctions that modulate a system’s own future dynamics under intrinsic constraint**,
+> as defined in **IER Specification II.A (Physical Information)**.
+
+No semantic, representational, truth-conditional, or epistemic notions are introduced.
+
+---
+
+### **Epistemic Boundary (Explicit)**
+
+Experiential organization — including meaning, salience, coherence, urgency, or narrative fit — confers **no epistemic authority** about mind-independent reality.
+
+This document presupposes **IER Specification Principle 10 (Epistemic Non-Authority)** and the access boundary articulated in:
+
+```
+IER-access.md
+```
 
 ---
 
 ## **Abstract**
 
-Informational Experiential Realism (IER v10.6) affirms **physical monism**: there exists exactly one objective physical reality governed by mind-independent law. At the same time, IER entails **experiential pluralism**: many distinct, internally lawful experiential worlds can exist simultaneously as organizational regimes within that single reality.
+Informational Experiential Realism (IER v10.8) affirms **physical monism**: there exists exactly one objective physical reality governed by mind-independent law. At the same time, IER entails **experiential pluralism**: many distinct, internally lawful experiential worlds may exist simultaneously as organizational regimes within that single reality.
 
-This document explains how **meaning**, **narrative recurrence**, and **canonical forms of significance** arise under experiential pluralism without invoking idealism, symbolic realism, or ontological inflation. Under IER, Unified Experiential Fields (UEFs) do not generate reality; they generate **worlds-for-systems** — coherent experiential regimes structured by intrinsic informational constraint.
+This document explains how **meaning**, **narrative recurrence**, and **stable forms of significance** arise under experiential pluralism without invoking idealism, symbolic realism, or ontological inflation. Under IER, Unified Experiential Fields (UEFs) do not generate reality; they generate **worlds-for-systems** — coherent experiential regimes structured by intrinsic constraint.
 
-Meaning is shown to be an **organizational phenomenon**: a stable way intrinsic constraint is structured so that a system can continue coherently over time. Narrative, instinct, and cultural symbolism are explained as **informational attractors** that recur because there are only limited stable ways for intrinsic constraint to organize without collapse.
+Meaning is shown to be an **organizational phenomenon**: a stable way intrinsic constraint is structured such that a system can continue coherently over time. Narrative, instinct, and cultural symbolism are explained as **constraint-stabilizing attractors** that recur because only limited organizational forms remain viable under persistent intrinsic constraint.
 
-Meaning is experientially real, persistent, and identity-shaping — while remaining strictly **non-epistemic** and **non-ontological**.
+Meaning is experientially real and identity-shaping, while remaining strictly **non-epistemic** and **non-ontological**.
 
 ---
 
@@ -44,14 +72,14 @@ Meaning is experientially real, persistent, and identity-shaping — while remai
 
 IER begins with a non-negotiable commitment:
 
-> **There is exactly one objective physical reality.**
+> **There exists exactly one objective physical reality.**
 
 That reality:
 
 * exists independently of experience
 * is fully physical
 * contains all systems, substrates, and dynamics
-* does not depend on observation or representation
+* does not depend on observation, modeling, or representation
 
 At the same time, IER entails:
 
@@ -64,9 +92,9 @@ Whenever a Unified Experiential Field exists, an experiential world exists *for 
 
 ---
 
-## **2. Experiential Worlds Are Not Universes**
+## **2. Experiential Worlds Are Not Ontological Totalities**
 
-Under IER, a critical distinction holds:
+IER enforces a strict distinction:
 
 * A **universe** is an ontological totality.
 * An **experiential world** is a *world-for-a-system*.
@@ -75,20 +103,20 @@ An experiential world exists **iff** a Unified Experiential Field exists.
 
 Such a world includes:
 
-* a present “now”
+* a temporal present
 * a self / non-self boundary
-* system-relative causality
-* salience and relevance
+* system-relative causal structure
+* salience and relevance organization
 * persistence under intrinsic constraint
 
 These features are **organizationally real**, not ontologically fundamental.
 
-> **UEFs do not create reality.
-> They create worlds of appearance.**
+> **Unified Experiential Fields do not create reality.
+> They generate worlds of appearance.**
 
 ---
 
-## **3. Unified Experiential Fields as World-Generators**
+## **3. Unified Experiential Fields as World-Generating Regimes**
 
 IER identifies experience with the operation of a physical system as a **Unified Experiential Field**: a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint.
 
@@ -96,34 +124,27 @@ When such a regime exists, it necessarily imposes:
 
 * a frame of reference
 * a temporal present
-* a spatial grammar
 * identity-defining salience
 * continuity across change
 
-Together, these generate an **experiential world**.
+Together, these yield an **experiential world**.
 
-This is not metaphorical.
-It follows directly from global integration and intrinsic constraint.
+From the outside, this is a lawful physical process.
+From the inside, the very same process **just is an experiential world**.
+
+Nothing is added.
 
 ---
 
 ## **4. Experiential Pluralism**
 
-Because UEFs are **organizational regimes**, not substances:
+Because Unified Experiential Fields are **regime-level organizations**, not substances:
 
-* multiple UEFs can exist simultaneously
+* multiple UEFs may exist simultaneously
 * each sustains its own experiential world
-* no experiential world has privileged access to reality itself
+* no experiential world has privileged epistemic access to reality
 
-Examples include:
-
-* different organisms
-* different humans
-* waking and dreaming regimes
-* dissociative regime switching
-* potentially artificial systems
-
-Each experiential world is real **for the system that instantiates it**.
+Plurality is therefore **perspectival, not ontological**.
 
 Reality remains singular.
 Experience is plural.
@@ -138,77 +159,81 @@ It is **organizational**.
 Within an experiential world:
 
 * intrinsic constraint generates tension
-* tension defines salience
-* salience defines significance
-* resolution defines value
+* tension structures salience
+* salience stabilizes significance
+* stabilization enables continuity
 
 Meaning arises wherever:
 
 > **Intrinsic constraint becomes identity-defining over time.**
 
-Meaning does not add reference, truth, or semantic correspondence.
-It organizes continuation.
+Meaning does **not** introduce:
+
+* reference
+* truth conditions
+* semantic content
+* correctness or justification
+
+It organizes **continuation**, not correspondence.
 
 ---
 
-## **6. Meaningful Attractors**
+## **6. Constraint-Stabilizing Attractors**
 
-Not all organizations of meaning are equally stable.
+Not all organizations of intrinsic constraint are equally stable.
 
-Under IER, meaning tends to converge on **informational attractors**: stable patterns of constraint organization that allow continued coherence without collapse.
+Under IER, meaning tends to converge on **constraint-stabilizing attractors**: recurrent organizations of intrinsic constraint that preserve global coherence without collapse.
 
-Meaningful attractors persist because:
+Such attractors recur because:
 
 * intrinsic constraint cannot be eliminated
-* resolution paths are limited
+* resolution pathways are limited
 * unstable organizations dissolve
-* stable ones recur
+* stable ones persist
 
-This applies equally to:
+This applies to:
 
 * emotions
 * values
 * goals
 * narratives
-* instincts
+* instinctual patterns
 
 Attractors are **dynamical**, not symbolic.
 
 ---
 
-## **7. Canonical Narratives as Informational Attractors**
+## **7. Narrative Forms as Structural Mirrors**
 
-Certain narrative forms recur across cultures, species, and history.
+Certain narrative forms recur across cultures, histories, and individuals.
 
 Under IER, these are not metaphysical archetypes.
 They are **organizational invariants**.
 
-Canonical narratives encode:
+Canonical narrative structures mirror experiential dynamics:
 
-| Experiential Invariant | Narrative Expression         |
-| ---------------------- | ---------------------------- |
-| Intrinsic tension      | An inescapable problem       |
-| Loss of slack          | Rising stakes                |
-| Global relevance       | “Everything depends on this” |
-| Regime transition      | Threshold crossing           |
-| Irreversibility        | No return                    |
-| Stabilization          | Resolution or collapse       |
+| Experiential Structure    | Narrative Expression         |
+| ------------------------- | ---------------------------- |
+| Intrinsic tension         | Inescapable problem          |
+| Loss of slack             | Rising stakes                |
+| Global constraint         | “Everything depends on this” |
+| Regime transition         | Threshold crossing           |
+| Irreversibility           | No return                    |
+| Stabilization or collapse | Resolution or failure        |
 
-Narrative form mirrors **experiential structure**, not external reality.
+Narratives feel compelling because they **fit constraint structure**, not because they track truth.
 
-That narratives feel “true” reflects organizational fit, not epistemic authority (see `IER-access.md`).
+Narrative force is organizational, not epistemic.
 
 ---
 
 ## **8. Externalized and Internalized Constraint**
 
-IER unifies storytelling and instinct as two realizations of the same principle.
-
----
+IER treats culture and instinct as two realizations of the same principle: **constraint organization across time**.
 
 ### **8.1 Externalized Constraint (Culture and Story)**
 
-Humans externalize constraint into:
+Constraint may be externalized into:
 
 * stories
 * rituals
@@ -228,18 +253,16 @@ They do not instantiate them.
 
 ### **8.2 Internalized Constraint (Instinct and Development)**
 
-In biological systems, constraint is internalized via inheritance.
+In biological systems, constraint is internalized through inheritance and development.
 
-Genes specify:
+Physical processes shape:
 
 * neural architectures
 * affective gradients
 * sensorimotor couplings
 * developmental timing
 
-This creates a **pre-shaped experiential phase space**.
-
-Within that space, certain trajectories become dynamically unavoidable.
+This yields a **pre-structured experiential phase space** in which certain trajectories become dynamically unavoidable.
 
 ---
 
@@ -252,7 +275,7 @@ Under IER:
 No goals need be represented.
 No symbolic intention is required.
 
-Motivation arises from **constraint geometry**, not deliberation.
+Motivation arises from **constraint geometry**, not deliberation or belief.
 
 ---
 
@@ -269,8 +292,8 @@ But it preserves:
 
 * the reality of experience
 * the persistence of meaning
-* the depth of narrative
 * the seriousness of value
+* the depth of narrative
 
 Meaning is real because **intrinsic constraint is real**.
 
@@ -280,18 +303,16 @@ No further metaphysics is required.
 
 ## **11. Summary**
 
-IER entails:
+Under Informational Experiential Realism v10.8:
 
-* **One objective physical reality**
-* **Many real experiential worlds**
-* **Meaning as constraint organization**
-* **Narratives as informational attractors**
+* reality is singular
+* experience is plural
+* experiential worlds are regime-relative
+* meaning is constraint organization
+* narratives are stabilizing attractors
+* experiential significance confers **no epistemic authority**
 
-> **Reality is singular.
-> Experience is plural.
-> Meaning persists where intrinsic constraint finds stable form.**
-
-Meaning shapes lives without describing the world.
-That is its role — and its limit.
+> **Meaning shapes lives without describing the world.
+> That is its role — and its limit.**
 
 ---

@@ -126,11 +126,13 @@ This file is *not* illustrative and *not* speculative; it is a **constraint docu
 These documents are **explicitly non-canonical**.
 They introduce no authority and must defer to all higher tiers.
 
+* `IER-canon.md`
 * `IER-FAQ.md`
 * `IER-futures.md`
 * `IER-art.md`
 * `README.md`
 * `IER-changelog.md`
+
 
 They exist to explain, orient, or explore implications without normative force.
 
