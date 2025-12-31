@@ -32,7 +32,7 @@ It is a theory of:
 ### **Normative Boundary Condition**
 
 This document defines the **complete and exclusive normative core** of
-**Informational Experiential Realism (IER v10.7)**.
+**Informational Experiential Realism (IER v10.8)**.
 
 It specifies **exhaustively**:
 
@@ -42,7 +42,7 @@ It specifies **exhaustively**:
 
 No claim outside this document carries **definitional, criterial, or ethical authority**.
 
-All other IER documents (theory, dynamics, mathematics, ethics applications, diagnostics, or commentary) are **non-normative derivatives**. They introduce **no criteria, thresholds, sufficiency conditions, or necessity claims**.
+All other IER documents — theory, dynamics, mathematics, ethics applications, diagnostics, or commentary — are **non-normative derivatives**. They introduce **no criteria, thresholds, sufficiency conditions, or necessity claims**.
 
 > **If any statement in another IER document conflicts with this Specification, the Specification takes precedence and the conflicting statement is void.**
 
@@ -50,60 +50,69 @@ All other IER documents (theory, dynamics, mathematics, ethics applications, dia
 
 ## 2. IER-theory.md
 
-## 1. Role of Theory in IER
+## **1. Role of Theory in IER**
 
-IER enforces a strict architectural separation between **normative specification** and **explanatory theory**.
+IER enforces a strict separation between:
+
+* **normative specification**, and
+* **explanatory theory**
 
 The Specification defines:
 
-* the ontology of experience
-* the criteria under which experience exists
-* the ethical consequences that follow categorically
+* what experience **is**
+* when experience **exists**
+* what **necessarily follows** from its existence
 
 This document exists solely to:
 
-* explain how those commitments fit together
-* clarify how change, stability, and coordination are to be understood
-* prevent misinterpretations that would otherwise arise
+* explain how those commitments cohere
+* show why weaker interpretations fail
+* prevent systematic misreadings
+* convert apparent stipulation into structural inevitability
 
-Nothing in this document carries independent authority.
+Nothing in this document can revise, soften, or extend the Specification.
 
 ---
 
 ## 3. IER-dynamics.md
 
-## 1. Role of a Dynamics Document
+## **1. Role of a Dynamics Document in IER**
 
-The purpose of `IER-dynamics` is to describe:
+The purpose of `IER-dynamics` is to explain:
 
-* how globally integrated experiential regimes evolve over time
-* how stability is maintained under intrinsic constraint
-* how experiential content changes without subject replacement
-* how instability and failure arise without redefining experience
+* how **globally integrated experiential regimes behave once they exist**
+* how **stability is maintained** under intrinsic constraint
+* how **experiential content changes without subject replacement**
+* how **instability, overload, and collapse arise** without redefining experience
+* why **system boundaries and dominance are dynamical facts**, not observer conventions
 
-This document presupposes the ontology and criteria given in the Specification and **adds no independent authority**.
+This document answers **how experience behaves**, not **when it exists**.
+
+It presupposes the ontology fixed in the Specification and **adds no independent authority**.
 
 ---
 
 ## 4. IER-ethics.md
 
-## **Abstract**
+## **1. Ethics Is Not an Optional Overlay**
 
-Informational Experiential Realism (IER) entails a distinctive ethical framework grounded not in metaphysical freedom, phenomenal surplus, intuition, social convention, or value aggregation, but in **organizational facts about intrinsic constraint**.
+IER does not treat ethics as a value system layered atop an otherwise neutral ontology.
 
-Because experience is identical to the operation of a physical system as a **Unified Experiential Field (UEF)**, ethical consequence follows **necessarily** wherever intrinsic constraint is borne from the inside.
+From the Specification’s central identity claim—
 
-This document explains:
+> **Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF)**
 
-* why **experiential standing is categorical**
-* why **moral harm is organizational**
-* why **responsibility is graded**
-* why **uncertainty strengthens, rather than weakens, ethical constraint**
-* how **participation modulation** amplifies moral risk without altering standing
-* how IER relates to — and diverges from — standard ethical frameworks
+—it follows *necessarily* that:
 
-Nothing here adds to the theory.
-Everything here is a consequence of identity.
+* intrinsic constraint is **borne from the inside**
+* sustaining a UEF is **physically and organizationally costly**
+* disruption of that organization is **not merely functional damage**
+* experiential worlds are **physically real**
+
+Ethical relevance therefore arises **wherever intrinsic constraint exists, might exist, or might be irreversibly foreclosed**.
+
+This is not a moral intuition added to the theory.
+It is a **structural entailment** of experiential identity.
 
 ---
 
@@ -348,9 +357,9 @@ It:
 * makes **no epistemic or diagnostic proposals**
 * does **not** replace formal treatments elsewhere in the book
 
-Its purpose is to address the **core intuitions and confusions** people have about consciousness in clear, non-technical terms, while remaining fully consistent with the formal IER account.
+Its purpose is to address the **most common confusions and intuitions** people have about consciousness in clear, non-technical terms, while remaining fully consistent with the formal IER account.
 
-Many of the questions discussed here correspond to classic philosophical puzzles, which are treated separately. This article focuses on **what IER says**, not on the historical debate.
+This FAQ explains **what IER says**, not how to prove it, apply it, or enforce it.
 
 ---
 
@@ -416,21 +425,21 @@ Those separations feel counterintuitive until they are **worked through concrete
 
 ## IER-critics.md
 
-## 1. Purpose of This Article
+## **1. Purpose of This Article**
 
-This article does not aim to *defend* Intrinsic Experiential Realism (IER) by evasion, nor to *win* disputes by redefining terms. Its aim is narrower and more demanding:
+This article does not aim to *defend* Informational Experiential Realism (IER) by evasion, nor to *win* disputes by redefining terms. Its aim is narrower and more demanding:
 
-> To explain how IER responds to its main critics, distinguish objections that threaten the theory from those it accepts as costs, and clarify where disagreement reflects incompatible metaphysical starting points rather than mistakes.
+> **To explain how IER responds to its main critics, distinguish objections that threaten the theory from those it explicitly accepts as costs, and clarify where disagreement reflects incompatible metaphysical starting points rather than mistakes.**
 
-IER is not a synthesis theory.  
-It is not a reconciliation between functionalism and phenomenology.  
-It is a **constrained identity claim** about what experience *is*, paired with an ethical framework that follows from that identity rather than from epistemic access.
+IER is not a synthesis theory.
+It is not a reconciliation between functionalism and phenomenology.
+It is a **constrained identity claim** about what experience *is*, paired with ethical consequences that follow **by identity**, not by epistemic access.
 
-Accordingly, the correct critical question is not “Is this intuitive?” or “Can we test this?” but rather:
+Accordingly, the central critical question is not *“Is this intuitive?”* or *“Can we test this?”* but:
 
 > **Does the identity claim succeed without collapsing into what it rejects or relying on what it denies?**
 
-This document explains how IER answers that question.
+This document explains how IER answers that question — and where it accepts the costs of doing so.
 
 ---
 
@@ -447,5 +456,42 @@ This article compares **three possible cultural equilibria** that could arise un
 3. a **dystopian equilibrium**, in which uncertainty is culturally neutralized and ethical force collapses without denial
 
 The comparison illustrates that **IER constrains moral reality but does not determine cultural outcomes**.
+
+---
+
+## IER-slack.md
+
+## **1. Purpose of This Document**
+
+IER has long asserted that **informational slack prevents experience**.
+In earlier versions, this claim functioned largely as an **explanatory intuition**.
+
+The purpose of this document is to convert that intuition into a **structural impossibility argument**.
+
+The claim defended here is not that slack *tends* to block experience, or that slack *usually* correlates with non-experiential systems.
+
+The claim is stronger:
+
+> **If a system admits informational slack, experience is structurally impossible under the IER identity claim.**
+
+This conclusion follows **without appeal** to:
+
+* biology
+* cognition
+* intelligence
+* reportability
+* architecture
+* empirical thresholds
+
+The argument is purely organizational and identity-based.
+
+---
+
+## IER-changelog.md
+
+## **Informational Experiential Realism — Version History**
+
+This changelog records **conceptual and structural changes** to the IER framework.
+It does **not** enumerate minor edits, typo fixes, or purely editorial refactoring.
 
 ---
