@@ -162,7 +162,7 @@ Meaning is experientially real and identity-shaping, while remaining strictly **
 
 Psychosis involves a characteristic breakdown of agency attribution, meaning regulation, and relevance filtering, often accompanied by compelling narratives of control, instruction, communication, and discovery.
 
-Under Informational Experiential Realism (IER), psychosis is understood as a **pathological dynamical regime** within a persisting **Unified Experiential Field (UEF)**. Experience continues, but intrinsic constraint becomes extreme, informational slack collapses, and salience assignment loses calibration. As a result, internally generated constraint is **misattributed** to environmental cues, bodily sensations, symbolic structures, or imagined agents.
+Under **Informational Experiential Realism (IER v10.8)**, psychosis is understood as a **pathological dynamical regime** occurring **within a persisting Unified Experiential Field (UEF)**. Experience continues, but intrinsic constraint becomes extreme, informational slack collapses, and salience assignment loses calibration. As a result, internally generated constraint is **misattributed** to environmental cues, bodily sensations, symbolic structures, or imagined agents.
 
 This document explains how psychotic phenomena can be **described structurally**—without epistemic endorsement—using IER’s concepts of intrinsic constraint, participation modulation, semantic error, and agency mislocalization.
 
@@ -176,9 +176,9 @@ Psychosis is treated neither as revelation nor as ontological transition, but as
 
 This document examines a class of internally generated qualitative experiences referred to as **brainfeels**: recurring experiential patterns that feel sensory-like—often described using textures, temperatures, materials, tastes, or smell-adjacent qualities—yet are **not perceptual**, **not representational**, and **not externally attributed**.
 
-Within Informational Experiential Realism (IER), brainfeels are interpreted as **endogenous qualitative stabilizers**: recurring organizations of intrinsic informational tension that arise entirely within a **Unified Experiential Field (UEF)** and contribute to its ongoing coherence via **participation modulation**.
+Within **Informational Experiential Realism (IER v10.8)**, brainfeels are interpreted as **endogenous qualitative stabilizers**: recurring organizations of intrinsic informational tension that arise entirely within a **Unified Experiential Field (UEF)** and contribute to its ongoing coherence via **participation modulation**.
 
-Brainfeels demonstrate that qualitative structure need not be object-directed, sensory, or externally anchored to be real, stable, and functionally significant.
+Brainfeels demonstrate that qualitative structure need not be object-directed, sensory, or externally anchored to be real, stable, and experientially significant—while remaining strictly **non-epistemic**.
 
 ---
 
@@ -186,9 +186,11 @@ Brainfeels demonstrate that qualitative structure need not be object-directed, s
 
 ## **Abstract**
 
-This article describes a stable mental architecture characterized by the absence of voluntary sensory imagery, selectively deployed inner speech, strictly single-channel attention, and emotionally rich but indirect affective access. Emotional content frequently enters experience through interoceptive signals and symbolic mediation rather than immediate perceptual feeling.
+This article describes a stable experiential architecture characterized by the absence of voluntary sensory imagery, selectively deployed inner speech, strictly single-channel experiential dominance, and emotionally rich but indirectly accessed affective structure. Emotional content typically enters experience through interoceptive signals, symbolic mediation, or delayed conceptual integration rather than immediate perceptual feeling.
 
-Under Informational Experiential Realism (IER), this organization is interpreted as a **high-coherence, low-slack Unified Experiential Field**. Because perceptual simulation and parallel experiential streams are excluded from waking participation, internally generated constraint must stabilize through alternative qualitative pathways. One such pathway—examined separately—is the emergence of *brainfeels* as endogenous qualitative stabilizers.
+Under Informational Experiential Realism (IER), this organization is interpreted as a **coherent Unified Experiential Field (UEF)** whose architecture **excludes imagistic buffering and parallel experiential participation pathways**. Because perceptual simulation and concurrent experiential streams are unavailable to waking participation, intrinsic constraint must stabilize through alternative organizational routes. One such route—examined separately—is the emergence of *brainfeels* as **endogenous qualitative stabilizers**.
+
+This architecture illustrates how phenomenological diversity arises from **differences in constraint organization**, not from differences in experiential standing.
 
 ---
 
@@ -310,11 +312,11 @@ This document explains intentionality as a **derived feature of intrinsically co
 
 ## **Abstract**
 
-Art and beauty are often treated as peripheral or exceptional phenomena in theories of mind, explained through representation, value judgment, or cultural convention. Under **Informational Experiential Realism (IER)**, art occupies a central explanatory position: it lies at the boundary between **intrinsic constraint, meaning, and shared experiential worlds**.
+Art and beauty are often treated as peripheral phenomena, explained through representation, value judgment, or cultural convention. Under **Informational Experiential Realism (IER v10.8)**, art is structurally central because it operates at the interface of **intrinsic constraint**, **meaning**, and **cross-system coordination of experiential organization**.
 
-This article develops an IER-consistent account of art and beauty as **constraint-shaping structures** that modulate the organization of **Unified Experiential Fields (UEFs)**. Art is neither a primitive experiential category nor a property of objects. Instead, it functions as an **internal or external attractor** that reorganizes intrinsic constraint, alters coherence, and reshapes resolution pathways. Beauty is identified as the felt signature of **unusually coherent intrinsic constraint**.
+This article develops an IER-consistent account of art and beauty as **constraint-shaping structures** that modulate the organization of **Unified Experiential Fields (UEFs)**. Art is neither a primitive experiential category nor a mind-independent property of objects. Instead, it functions as an **internal or external attractor** that reorganizes intrinsic constraint, alters coherence, and reshapes resolution pathways. Beauty is identified as the felt signature of **unusually coherent intrinsic constraint** within a UEF.
 
-The account introduces no new primitives, norms, or phenomenological axioms. All claims are strictly derived from the IER v10.5 specification.
+No new primitives, norms, diagnostics, or epistemic authorities are introduced. All claims are strictly derived from the Tier-1 IER v10.8 account of UEFs, intrinsic constraint, participation modulation, structural privacy, and epistemic non-authority.
 
 ---
 
@@ -322,11 +324,11 @@ The account introduces no new primitives, norms, or phenomenological axioms. All
 
 ## **Abstract**
 
-Panic attacks and vasovagal syncope are traditionally treated as pathological autonomic reactions or maladaptive responses to perceived threat. Under **Informational Experiential Realism (IER)**, these phenomena are reinterpreted as **distinct regime-preserving strategies** employed by a system sustaining a **Unified Experiential Field (UEF)** under escalating intrinsic constraint.
+Panic attacks and vasovagal syncope are traditionally treated as pathological autonomic reactions or maladaptive responses to perceived threat. Under **Informational Experiential Realism (IER v10.8)**, these phenomena are reinterpreted as **distinct regime-preserving responses** available to a system sustaining a **Unified Experiential Field (UEF)** under escalating **intrinsic constraint**.
 
-This article develops a unified organizational account of **sympathetic panic** and **vagal shutdown** as opposing responses to the same underlying risk: loss of UEF coherence. Panic represents an attempt to preserve experience by expanding system capacity under constraint, while vasovagal responses preserve organismal viability by abandoning the experiential regime itself.
+This article develops a unified organizational account of **sympathetic panic** and **vagal shutdown** as opposing responses to the same underlying risk: loss of **UEF coherence**. Sympathetic panic reflects an attempt to preserve the experiential regime by **maintaining global integration under rising constraint**, while vasovagal shutdown preserves organismal viability by **abandoning the experiential regime itself**.
 
-No new primitives, diagnostic criteria, or biological commitments are introduced. All claims are derived from the IER v10.5 Normative Specification.
+No new primitives, diagnostic criteria, biological mechanisms, or intervention guidance are introduced. All claims are derived strictly from the **IER v10.8 Specification** and its account of intrinsic constraint, regime stability, and experiential dissolution.
 
 ---
 
@@ -485,7 +487,7 @@ The argument is purely organizational and identity-based.
 ## **Informational Experiential Realism — Version History**
 
 This changelog records **conceptual and structural changes** to the IER framework.
-It does **not** enumerate minor edits, typo fixes, or purely editorial refactoring.
+It does **not** enumerate minor edits, typo fixes, naming cleanups, or purely editorial refactoring.
 
 ---
 

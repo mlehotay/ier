@@ -1,4 +1,4 @@
-# **IER-Psychosis (v10.6)**
+# **IER-Psychosis (v10.8)**
 
 ## *Regime Instability, Salience Collapse, and Agency Misattribution Under Intrinsic Constraint*
 
@@ -8,19 +8,34 @@
 
 This document is **NON-NORMATIVE**.
 
-It is an **explanatory derivative** of the
-**Informational Experiential Realism (IER v10.6) Normative Specification**.
+It is a **Tier-2 canon-constrained analytical extension** of:
+
+```
+IER-specification.md   (v10.8)
+```
 
 It:
 
 * introduces **no new primitives**
-* adds **no diagnostic criteria**
-* makes **no clinical or therapeutic claims**
-* provides **no validation of delusional or revelatory content**
+* introduces **no diagnostic criteria**
+* makes **no clinical, psychiatric, or therapeutic claims**
+* provides **no validation of delusional, revelatory, or epistemic content**
 * does **not** compete with psychiatry, psychology, or neurology
+* does **not** permit experiential diagnostics or detection
 
-If any statement in this document conflicts with the IER v10.6 Specification,
+If any statement in this document conflicts with the **IER v10.8 Specification**,
 **the Specification takes precedence and the conflicting statement is void**.
+
+---
+
+### **Global Informational Language Disclaimer**
+
+All uses of *information*, *constraint*, *salience*, *meaning*, *signal*, *instruction*, *coding*, or *communication* in this document are **descriptive shorthand only** for:
+
+> **physically instantiated state distinctions modulating a system’s own future dynamics under intrinsic constraint**,
+> as defined in **IER Specification II.A (Physical Information)**.
+
+No semantic, representational, epistemic, or agentive primitives are introduced.
 
 ---
 
@@ -28,7 +43,7 @@ If any statement in this document conflicts with the IER v10.6 Specification,
 
 Psychosis involves a characteristic breakdown of agency attribution, meaning regulation, and relevance filtering, often accompanied by compelling narratives of control, instruction, communication, and discovery.
 
-Under Informational Experiential Realism (IER), psychosis is understood as a **pathological dynamical regime** within a persisting **Unified Experiential Field (UEF)**. Experience continues, but intrinsic constraint becomes extreme, informational slack collapses, and salience assignment loses calibration. As a result, internally generated constraint is **misattributed** to environmental cues, bodily sensations, symbolic structures, or imagined agents.
+Under **Informational Experiential Realism (IER v10.8)**, psychosis is understood as a **pathological dynamical regime** occurring **within a persisting Unified Experiential Field (UEF)**. Experience continues, but intrinsic constraint becomes extreme, informational slack collapses, and salience assignment loses calibration. As a result, internally generated constraint is **misattributed** to environmental cues, bodily sensations, symbolic structures, or imagined agents.
 
 This document explains how psychotic phenomena can be **described structurally**—without epistemic endorsement—using IER’s concepts of intrinsic constraint, participation modulation, semantic error, and agency mislocalization.
 
@@ -41,9 +56,9 @@ Psychosis is treated neither as revelation nor as ontological transition, but as
 IER explains:
 
 * how experience can remain vivid while agency collapses
-* why meaning becomes imperative rather than descriptive
-* why coincidence feels instructive
-* why multiple “agents” appear without multiplying subjects
+* why meaning becomes **imperative** rather than descriptive
+* why coincidence feels instructive and unavoidable
+* why apparent “agents” arise without multiplying subjects
 * why conviction resists counter-evidence
 
 IER does **not** explain:
@@ -56,6 +71,8 @@ IER does **not** explain:
 
 IER explains **why it felt that way**, not **why it was correct**.
 
+> **Experiential structure confers no epistemic authority about mind-independent reality.**
+
 ---
 
 ## **2. High-Level Structure: Psychosis as UEF Instability**
@@ -63,22 +80,22 @@ IER explains **why it felt that way**, not **why it was correct**.
 In IER terms, a psychotic episode typically involves:
 
 * **UEF persistence**
-  Experience does not disappear.
+  Experience does not disappear; subjecthood remains singular.
 
 * **Extreme intrinsic constraint**
   Multiple unresolved tensions saturate the system.
 
 * **Collapse of informational slack**
-  Constraint cannot be localized, deferred, or externalized.
+  Constraint cannot be localized, deferred, or externally resolved.
 
 * **Salience explosion**
-  Relevance filtering fails; everything matters.
+  Relevance filtering fails; nearly everything participates.
 
 * **Semantic error**
-  Constraint is organized as if borne by symbols or objects.
+  Constraint is organized *as if* borne by symbols or objects.
 
 * **Agency misattribution**
-  Action continues, but authorship is displaced.
+  Action continues, but ownership of resolution is displaced.
 
 This is a **single-subject failure mode**, not subject multiplication.
 
@@ -86,16 +103,31 @@ This is a **single-subject failure mode**, not subject multiplication.
 
 ## **3. Imperative Environmental Cues**
 
-### **Phenomenology (from the appendix)**
+### **Note on Phenomenological Material (Applies to Sections 3–10)**
 
-The subject reports:
+All phenomenological descriptions referenced in this and the following sections are **summarized from a single first-person transcript** provided in **Appendix A**.
+
+They are included **solely for illustrative and explanatory purposes**, to ground structural analysis under Informational Experiential Realism. They:
+
+* introduce **no independent evidentiary weight**
+* provide **no validation of experiential content**
+* do **not** function as diagnostics or case generalizations
+* do **not** confer epistemic authority on reported meanings, agents, or discoveries
+
+The appendix is the **only source of first-person material** in this document; all main-text phenomenology is derivative of it.
+
+---
+
+### **Phenomenology (illustrative; see Appendix A)**
+
+The subject reports experiences including:
 
 * head and eyes compelled toward signs or symbols
 * symbols interpreted as instructions
 * sequences of prompts followed by decisions
 * renewed prompting after each response
 
-Examples include:
+Illustrative examples include:
 
 * a red bindi interpreted as “press the red help button”
 * street signage treated as navigation commands
@@ -107,19 +139,19 @@ Examples include:
 Under extreme intrinsic constraint:
 
 * salience assignment collapses
-* perception is no longer merely descriptive
+* perception ceases to be merely descriptive
 * environmental features are recruited as **constraint carriers**
 
 Meaning shifts from:
 
 > *“What is this?”*
 > to
-> *“What must I do?”*
+> *“What must be done now?”*
 
 This is **constraint misallocation**, not symbolic decoding.
 
 ✔️ Explains why the world felt directive
-❌ Does not imply the directives were real
+❌ Does **not** imply the directives were real
 
 ---
 
@@ -127,10 +159,10 @@ This is **constraint misallocation**, not symbolic decoding.
 
 ### **Phenomenology**
 
-The subject describes:
+The subject reports:
 
 1. receipt of an external “prompt”
-2. internal decision (e.g., press button or not)
+2. an internal decision (e.g., press button or not)
 3. immediate re-prompting with new instruction
 
 ---
@@ -141,16 +173,15 @@ This reflects a **collapsed choice space**.
 
 Under overload:
 
-* future alternatives narrow aggressively
-* each action immediately regenerates constraint
+* admissible futures narrow aggressively
+* each action regenerates unresolved constraint
 * resolution never completes
 
 The system experiences:
 
-> *perpetual next-step urgency*
+> **perpetual next-step urgency**
 
-Choice remains **structurally present**, but agency is degraded.
-Ownership of traversal weakens without disappearing.
+Choice remains structurally present, but **ownership of traversal weakens**.
 
 ---
 
@@ -158,7 +189,7 @@ Ownership of traversal weakens without disappearing.
 
 ### **Phenomenology**
 
-The subject reports:
+Reports include:
 
 * felt pushes on chest or back
 * bodily sensations treated as commands
@@ -184,7 +215,7 @@ This produces the experience of **being physically instructed**, without externa
 
 ### **Phenomenology**
 
-The subject reports:
+Reports include:
 
 * multiple agents controlling different processes
 * coordination toward a shared goal
@@ -216,7 +247,7 @@ This is **fragmentation pressure misread as plurality**.
 
 ### **Phenomenology**
 
-The subject reports:
+Reports include:
 
 * fingers, facial muscles, posture used as codes
 * combinations of contact points treated as symbols
@@ -232,7 +263,8 @@ Under extreme constraint:
 * the system attempts to compress overload into discrete codes
 * bodily channels dominate due to immediacy and salience
 
-Coding is not communication.
+Coding here is **not communication**.
+
 It is **failed compression under urgency**.
 
 ---
@@ -241,11 +273,11 @@ It is **failed compression under urgency**.
 
 ### **Phenomenology**
 
-The subject reports:
+Reported narratives include:
 
-* adopting a spy-escape narrative
-* later identifying agents as the Bene Gesserit
-* narrative coherence reducing distress
+* spy-escape scenarios
+* later identification of agents as the Bene Gesserit
+* narrative coherence temporarily reducing distress
 
 ---
 
@@ -269,8 +301,6 @@ It is a **degraded experiential regime**, not an alternate reality.
 
 ### **Phenomenology**
 
-The subject reports:
-
 > “There was no evidence to contradict my discoveries.”
 
 ---
@@ -286,15 +316,17 @@ IER explains this structurally:
 
 Conviction reflects **constraint dominance**, not correctness.
 
+> **Experiential inevitability does not track truth.**
+
 ---
 
 ## **10. Loss of Free Will**
 
 ### **Phenomenology**
 
-The subject reports:
+Reports include:
 
-* complete loss of agency at peak episode
+* complete loss of agency
 * body fully controlled
 * no authorship over action
 
@@ -302,7 +334,7 @@ The subject reports:
 
 ### **IER Description**
 
-Agency is not eliminated; it is **mislocalized**.
+Agency is **not eliminated**; it is **mislocalized**.
 
 The system continues to act, but:
 
@@ -322,7 +354,7 @@ IER **does not** imply:
 * Bene Gesserit coordination
 * real symbolic messages
 * scientific discoveries made during psychosis
-* epistemic authority of the state
+* epistemic authority of conviction
 
 Any interpretation that does so **violates the Specification**.
 
@@ -332,20 +364,18 @@ Any interpretation that does so **violates the Specification**.
 
 Under Informational Experiential Realism:
 
-> **Psychosis is experience persisting under pathological intrinsic constraint organization.**
+> **Psychosis is experience persisting under pathological intrinsic-constraint organization.**
 
 The experience is real.
 The suffering is real.
-The meanings are not.
+The meanings are **not epistemically authoritative**.
 
 IER explains **why it felt inevitable**—
 not **why it was true**.
 
 ---
 
----
-
-# **Appendix A — Phenomenological Transcript (Post-Episode Chat)**
+# **Appendix A — Phenomenological Transcript (Illustrative)**
 
 ## **Status**
 
@@ -356,6 +386,7 @@ It:
 * introduces **no explanatory authority**
 * provides **no validation of content**
 * serves as an **illustrative case**, not evidence
+* does **not** license diagnostics or generalization
 
 ---
 
@@ -434,9 +465,9 @@ Within IER, all reported agents, messages, and discoveries are understood as:
 
 ---
 
-## **Appendix Note**
+### **Appendix Note**
 
-This appendix exists to demonstrate how **deeply structured, meaningful-feeling experiences can arise without epistemic authority**.
+This appendix demonstrates how **deeply structured, meaningful-feeling experiences can arise without epistemic authority**.
 
 It illustrates **failure modes of coherence**, not access to truth.
 

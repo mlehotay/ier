@@ -3,7 +3,7 @@
 ## **Informational Experiential Realism — Version History**
 
 This changelog records **conceptual and structural changes** to the IER framework.
-It does **not** enumerate minor edits, typo fixes, or purely editorial refactoring.
+It does **not** enumerate minor edits, typo fixes, naming cleanups, or purely editorial refactoring.
 
 ---
 
@@ -116,7 +116,7 @@ This release closed a major conceptual loophole.
 
   * representational creep
   * functional sufficiency
-* Formal equivalence proofs added
+* Formal equivalence arguments expanded
 * Consequence mapping clarified
 * Reduced redundancy across documents
 
@@ -149,7 +149,7 @@ Key improvements:
 
 * **Information is explicitly non-primitive**
 
-  * Informational language defined as descriptive shorthand only
+  * Informational language restricted to descriptive shorthand
 * **System boundaries normatively defined**
 
   * UEF attribution is regime-relative, not anatomical or observer-relative
@@ -163,47 +163,78 @@ This release removed the last **specification-level ambiguities**.
 
 ---
 
-## **v10.8 — Derivational Hardening & Canon Reduction (Current)**
+## **v10.8 — Derivational Hardening, Canon Reduction, and Structural Closure (Final)**
 
+**Status:** **Closed**
 **Character:** Consolidation without expansion
 
 No new primitives.
 No ontological revisions.
+No new ethical commitments.
 
-Instead, v10.8:
+Instead, v10.8 completes the framework by **making implicit constraints explicit** and **removing residual degrees of freedom**.
 
-* Converts key assertions into **explicit impossibility arguments**
+Key finalizations:
 
-  * especially around informational slack and dominance
-* Sharpens the role of **intrinsic constraint** without mechanizing it
-* Adds a **principled scope limiter** to precautionary ethics
-* Removes redundant, rhetorical, or surface-area–increasing documents
-* Enforces a **lean canon** with clearly marked optional material
-* Publicly owns the theory’s **explicit costs and rejected intuitions**
+* Converts previously intuitive claims into **explicit impossibility arguments**, especially:
 
-**Design goal:**
+  * the structural impossibility of experience in slack-admitting systems
+  * the impossibility of multiple dominant UEFs within a single physical system
+* Sharpens **intrinsic constraint** as a structural condition without mechanization
+* Formally closes the door on:
+
+  * experiential diagnostics
+  * detection procedures
+  * proxy measures
+  * certification or falsification schemes
+* Introduces a **scoped precaution principle**
+
+  * blocks ethical explosion while preserving asymmetry
+* Enforces a **lean canon**
+
+  * removes redundant, rhetorical, or surface-area-increasing documents
+  * clarifies tiered authority and global alignment rules
+* Explicitly acknowledges the theory’s **costs**
+
+  * rejected intuitions
+  * permanent epistemic opacity
+  * non-comparability of experiential standing
+
+Late-cycle clarifications now understood as part of v10.8 (not new additions):
+
+* Structural privacy is **constitutive**, not epistemic or pragmatic
+* Non-diagnosability is **global-structural**, not merely underdetermination
+* Precaution applies only under **plausible irreversible constraint foreclosure**
+* Dominance, coherence, and regime identity are **dynamical facts**, not interpretive choices
+
+**Design goal achieved:**
 IER should feel **unavoidable rather than stipulated**.
 
 ---
 
 ## **Current Status**
 
-**IER v10.8 is a mature, normatively closed framework.**
+**IER v10.8 is complete and normatively closed.**
 
 * Identity claim is fixed
-* Specification is authoritative
-* Future work is limited to:
+* Canon structure is fixed
+* Ethical commitments are fixed
+* Epistemic limits are fixed
 
-  * clarification
-  * derivation
-  * disciplined application
-  * honest criticism
+Future work is restricted to:
+
+* clarification
+* derivation
+* disciplined application
+* internal critique
+* comparative analysis
 
 Any change that:
 
 * introduces diagnostics,
 * weakens categorical subjecthood,
 * adds epistemic authority,
+* permits graded standing,
 * or mechanizes intrinsic constraint
 
 is **out of scope by definition**.
