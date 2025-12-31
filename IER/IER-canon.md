@@ -1,12 +1,12 @@
-# **IER Canon (v10.8)**
+# **IER Canon (v10.8 — Reader-Aligned Revision)**
 
-## **Canonical Structure, Authority, and Alignment Rules of the IER Corpus**
+## **Canonical Structure, Authority, Alignment, and Reader-Orientation Rules of the IER Corpus**
 
 ---
 
 ## **Status and Purpose**
 
-This document defines the **canonical structure, authority tiers, interpretive rules, and global alignment constraints** governing the **Informational Experiential Realism (IER)** corpus as of **version 10.8**.
+This document defines the **canonical structure, authority tiers, interpretive rules, global alignment constraints, and reader-orientation requirements** governing the **Informational Experiential Realism (IER)** corpus as of **version 10.8**.
 
 It specifies:
 
@@ -16,10 +16,11 @@ It specifies:
 4. Which documents are **explanatory or speculative**
 5. The **global alignment rules** that apply across *all* tiers
 6. How conflicts, ambiguities, and apparent tensions are resolved
+7. **How documents must be written to avoid reader-hostility while remaining institution-hostile**
 
-This document introduces **no new ontological, criterial, or ethical claims**.
+This document introduces **no new ontological, criterial, epistemic, or ethical claims**.
 
-It governs **interpretation, authority, and admissible language**, not theory content.
+It governs **interpretation, authority, admissible language, and reader alignment**, not theory content.
 
 ---
 
@@ -30,6 +31,24 @@ It governs **interpretation, authority, and admissible language**, not theory co
 Lower-tier documents must defer to higher-tier documents in all cases of tension or ambiguity.
 
 Violations of canon rules are **canonical errors**, not stylistic disagreements.
+
+---
+
+## **Reader Alignment Principle (Global)**
+
+IER is permitted — and in many domains intended — to be **institution-hostile**, **engineering-restrictive**, and **ethically severe**.
+
+IER must **not** be **reader-hostile**.
+
+**Reader-hostility** is defined canonically as:
+
+> framing that treats the reader as an adversary, presumes misuse, assigns blame for confusion, or presents difficulty as culpable rather than structural.
+
+All documents in all tiers must comply with the **Reader Alignment Rules** defined below.
+
+---
+
+# **Tier Structure**
 
 ---
 
@@ -74,7 +93,11 @@ No ethical claim elsewhere may override, extend, or soften this document.
 
 These documents are **canonical in intent but non-authoritative in definition**.
 
-They analyze specific phenomena **strictly under Tier 1 constraints** and may not revise ontology, criteria, epistemic limits, or ethics.
+They analyze specific phenomena **strictly under Tier-1 constraints** and may not revise ontology, criteria, epistemic limits, or ethics.
+
+They **must preserve reader alignment** explicitly.
+
+They exist to show how a single, strict identity claim can illuminate diverse experiential phenomena without expanding the ontology or relaxing the core constraints.
 
 ### **Phenomenology, Continuity, and Mental Structure**
 
@@ -117,9 +140,12 @@ These documents are **canon-binding in a negative sense**.
 
 They restrict misuse, block illegitimate inference, and deny invalid extensions of IER.
 
-They do **not** grant positive criteria, diagnostics, or detection methods.
+They **must not** frame restriction as reader fault.
 
-* **`IER-diagnostics.md`**
+They **must** frame restriction as **structural impossibility or protection against misattribution**.
+
+* **`IER-diagnostics.md`**  
+  Explains why experience cannot be diagnosed, certified, or ruled out under IER, and why this limitation follows structurally from intrinsic constraint rather than from ignorance, methodological limits, or reader error.
 
 **Interpretive rule:**
 If a proposed application, inference, or test is ruled out by a Tier 3 document, it is ruled out **for the entire corpus**, regardless of intuitions elsewhere.
@@ -139,19 +165,24 @@ They introduce no authority and must defer to all higher tiers.
 * `README.md`
 * `IER-changelog.md`
 
-They exist to explain, orient, or explore implications without normative force.
+They are encouraged to:
+
+* orient new readers
+* soften entry
+* motivate interest
+* contextualize severity
 
 ---
 
-## **Global Alignment Rules (Apply Across All Tiers)**
+# **Global Alignment Rules (Apply Across All Tiers)**
 
-The following rules are **canonically binding** across *all* IER documents, including non-normative and explanatory material.
+The following rules are **canonically binding** across *all* IER documents.
 
-Violation of these rules constitutes a **canonical error**, even if no explicit contradiction with Tier 1 occurs.
+Violation constitutes a **canonical error**, even without explicit contradiction of Tier-1 claims.
 
 ---
 
-### **G1 — Informational Language Is Always Derivative**
+## **G1 — Informational Language Is Always Derivative**
 
 All uses of:
 
@@ -174,7 +205,7 @@ Absence of such a disclaimer is a canon violation.
 
 ---
 
-### **G2 — No Agentive Language in Definitions or Necessity Claims**
+## **G2 — No Agentive Language in Definitions or Necessity Claims**
 
 Agentive or value-laden language must not appear inside:
 
@@ -200,7 +231,7 @@ Agentive language may appear **only** in explanatory gloss and must never functi
 
 ---
 
-### **G3 — Observer Is Non-Normative**
+## **G3 — Observer Is Non-Normative**
 
 The term *observer* may appear **only** as:
 
@@ -219,7 +250,7 @@ Any use of *observer* that cannot be removed without loss of meaning is presumpt
 
 ---
 
-### **G4 — Regime Membership Is Categorical; Parameters Are Continuous**
+## **G4 — Regime Membership Is Categorical; Parameters Are Continuous**
 
 Whenever documents discuss:
 
@@ -239,7 +270,7 @@ If a passage could reasonably be misread as implying **graded subjecthood**, it 
 
 ---
 
-### **G5 — Experiential Structure Confers No Epistemic Authority**
+## **G5 — Experiential Structure Confers No Epistemic Authority**
 
 Any document that discusses:
 
@@ -261,6 +292,80 @@ It is containment against revelatory, charismatic, or intuition-driven misuse.
 
 ---
 
+## **G6 — Reader Alignment Rule (Good-Faith Presumption)**
+
+All IER documents **must be written as if the reader is acting in good faith**.
+
+This entails:
+
+### **G6.1 — No Presumptive Blame**
+
+Documents must **not**:
+
+* presume misuse
+* imply negligence
+* frame misunderstanding as error of character or carelessness
+
+Confusion must be treated as:
+
+> **an expected result of a strong and non-intuitive identity claim**
+
+---
+
+### **G6.2 — Structural Framing Over Prohibitive Framing**
+
+Wherever possible:
+
+* Replace **“forbidden / ruled out”** with
+  **“structurally impossible / unsupported by the framework”**
+
+* Replace **“invalid inference”** with
+  **“an inference the framework cannot license”**
+
+The restriction remains identical; the alignment changes.
+
+---
+
+### **G6.3 — Orientation Before Enforcement**
+
+Tier-1 and Tier-3 documents **must include an early, non-normative orientation paragraph** explaining:
+
+* why the constraints exist
+* what problem they prevent
+* that the purpose is **containment of misattribution**, not discipline of the reader
+
+This paragraph introduces **no authority** and **no new claims**.
+
+---
+
+### **G6.4 — Acknowledge Difficulty Without Weakening**
+
+Where IER produces:
+
+* frustration
+* ethical discomfort
+* loss of epistemic reassurance
+
+documents **must acknowledge this explicitly** as a **cost of the identity claim**, not as reader resistance or error.
+
+---
+
+### **G6.5 — No Adversarial Tone Toward the Reader**
+
+IER may be:
+
+* adversarial toward institutions
+* restrictive toward engineering
+* uncompromising toward misuse
+
+IER must **never** adopt:
+
+* a scolding tone
+* a prosecutorial voice
+* a “you are doing this wrong” stance toward the reader
+
+---
+
 ## **Conflict Resolution Order**
 
 When documents appear to conflict:
@@ -270,7 +375,7 @@ When documents appear to conflict:
 3. Tier 3 constrains misuse across all tiers
 4. Tier 4 defers to all others
 5. Explicit statements override inferred intentions
-6. Global Alignment Rules override stylistic or explanatory latitude
+6. Global Alignment Rules override stylistic latitude
 
 Appeals to intuition, example, or application may never override Tier 1 definitions or global alignment rules.
 
@@ -287,18 +392,22 @@ Appeals to intuition, example, or application may never override Tier 1 definiti
 
 ## **Summary**
 
-IER v10.8 is governed by a **tiered canon with global alignment enforcement**:
+IER v10.8 is governed by:
 
-* **Tier 1** defines ontology, structure, dynamics, and ethics
-* **Tier 2** analyzes phenomena under strict constraint
-* **Tier 3** blocks misuse and illegitimate inference
-* **Tier 4** explains and speculates without authority
-* **Global Alignment Rules** prevent linguistic, epistemic, and agentive drift
+* a **tiered canon with exclusive normative authority**
+* **structural and ethical severity by identity**
+* **explicit institutional hostility where required**
+* **mandatory reader alignment everywhere**
 
-All valid IER claims must be:
+IER does not soften its claims.
+It does not dilute its consequences.
+It does not retreat from restriction.
 
-1. traceable to Tier 1,
-2. compliant with Tier 3 constraints, and
-3. aligned with G1–G5.
+But it **refuses to treat good-faith readers as adversaries**.
+
+Institutional misuse is anticipated and constrained; individual understanding is assumed and supported.
+
+> **IER is hard because reality is hard.
+> Not because the reader is at fault.**
 
 ---

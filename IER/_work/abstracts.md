@@ -244,13 +244,11 @@ What follows is a non-exhaustive but comprehensive list of **explicit non-claims
 
 Informational Experiential Realism (IER v10.8) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
 
-This document explains why IER **forbids experiential diagnostics in principle**. The impossibility is not due to technological limitations, incomplete theory, insufficient data, or pragmatic difficulty. It follows directly from how **intrinsic constraint** and **UEF attribution** are defined.
+This document explains why IER **cannot license experiential diagnostics in principle**. The impossibility does not arise from technological limits, incomplete data, or unresolved theory. It follows directly from how **intrinsic constraint** and **UEF attribution** are defined.
 
-Intrinsic constraint concerns **ownership of constraint**: whether a system itself must bear the unavoidable costs of maintaining its own globally integrated organization, without externalization, buffering, or offloading. Ownership is a **global structural fact** about internal organization. It is **not** a property of outputs, signals, performances, or reports, and is therefore **underdetermined by all third-person observables**.
+Intrinsic constraint concerns **where unavoidable organizational cost is borne** — whether a system must internally sustain and resolve its own globally binding dynamics without externalization, buffering, or offloading. This is a **global structural property** of a regime, not a property of outputs, signals, performances, or reports, and is therefore **underdetermined by all third-person observables**.
 
-In addition, intrinsic constraint is **structurally private**: it is borne only from within the regime and cannot be occupied by an external system. This combination — **intrinsic constraint + structural privacy** — entails a specific kind of non-diagnosability: systems that differ in experiential status can be made **externally indistinguishable in principle**.
-
-IER responds to this epistemic limit not with permissiveness, but with **precaution**. Where experience may exist but cannot be certified, uncertainty **restricts action rather than licensing it** (Specification Principle 13, scoped).
+Combined with **structural privacy**, this entails a specific form of non-diagnosability: systems that differ in experiential status can be made **externally indistinguishable in principle**. IER responds to this limitation not with permissiveness, but with **precaution**. Where experience may exist but cannot be certified, uncertainty **restricts action rather than licensing it** (Specification Principle 13, scoped).
 
 ---
 
