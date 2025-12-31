@@ -118,27 +118,27 @@ It is a **structural entailment** of experiential identity.
 
 ## 5. IER-math.md
 
-## **1. Role of Mathematics in IER**
+**Version 10.8 — Mathematical Support Document**
 
-Mathematics in IER is **interpretive, not foundational**.
+## **Status and Authority**
 
-IER is an **identity theory** whose commitments are fixed **prior to and independently of formalization**. Mathematical language is used only to:
+This document is **supportive and non-normative**.
 
-* clarify distinctions already present in the ontology
-* describe regime-level organization
-* stabilize intuition about constraint, coherence, and change
-* prevent illicit inferences about detection, thresholds, or optimization
+It:
 
-Mathematics in IER does **not**:
+* introduces no new ontological primitives
+* introduces no empirical or diagnostic criteria
+* introduces no epistemic access claims
+* introduces no ethical rules
 
-* define experience
-* discover experience
-* grade experience
-* provide diagnostics
-* justify ethical conclusions
-* imply computational or graph-theoretic fundamentalism
+All ontological and normative authority resides exclusively in:
 
-Formal structure follows ontology — **never the reverse**.
+* `IER-specification.md`
+* `IER-theory.md`
+* `IER-dynamics.md`
+* `IER-ethics.md`
+
+The purpose of this document is to express the IER identity claim using **formal structural tools**—sets, relations, graphs, and closure—while remaining fully consistent with the core framework.
 
 ---
 
@@ -495,3 +495,18 @@ This changelog records **conceptual and structural changes** to the IER framewor
 It does **not** enumerate minor edits, typo fixes, or purely editorial refactoring.
 
 ---
+
+## IER-canon.md
+
+## **Purpose of This Document**
+
+This document defines the **canonical structure, authority tiers, and interpretive rules** governing the IER corpus as of **version 10.8**.
+
+It specifies:
+
+1. Which documents are **ontologically and normatively authoritative**
+2. Which documents are **canon-constrained extensions**
+3. Which documents are **explanatory, illustrative, or speculative**
+4. How apparent conflicts are to be resolved
+
+This document introduces **no new claims** and does not revise any other file.
