@@ -6,19 +6,19 @@
 
 IER holds that:
 
-* There exists **exactly one objective physical reality**, governed by mind-independent law.
-* Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
-* When a UEF exists, **experience exists** — **categorically**, not by degree.
-* Experience is **real by identity**, not an emergent accompaniment, representation, or functional output.
-* **Experience confers no epistemic authority** about mind-independent reality.
-* Ethical significance follows **necessarily** wherever intrinsic constraint is borne from the inside.
+- There exists **exactly one objective physical reality**, governed by mind-independent law.
+- Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
+- When a UEF exists, **experience exists** — **categorically**, not by degree.
+- Experience is **real by identity**, not an emergent accompaniment, representation, or functional output.
+- **Experiential structure confers no epistemic authority** about mind-independent reality.
+- Ethical significance follows **necessarily** wherever intrinsic constraint is borne from the inside.
 
 IER is **not** a theory of representation, cognition, intelligence, reportability, measurement, or phenomenological method.
 
 It is a theory of:
 
-> **what experience is,
-> when it exists,
+> **what experience is,  
+> when it exists,  
 > and what necessarily follows from its existence.**
 
 ---
@@ -146,13 +146,13 @@ The purpose of this document is to express the IER identity claim using **formal
 
 ## **Abstract**
 
-Informational Experiential Realism (IER v10.6) affirms **physical monism**: there exists exactly one objective physical reality governed by mind-independent law. At the same time, IER entails **experiential pluralism**: many distinct, internally lawful experiential worlds can exist simultaneously as organizational regimes within that single reality.
+Informational Experiential Realism (IER v10.8) affirms **physical monism**: there exists exactly one objective physical reality governed by mind-independent law. At the same time, IER entails **experiential pluralism**: many distinct, internally lawful experiential worlds may exist simultaneously as organizational regimes within that single reality.
 
-This document explains how **meaning**, **narrative recurrence**, and **canonical forms of significance** arise under experiential pluralism without invoking idealism, symbolic realism, or ontological inflation. Under IER, Unified Experiential Fields (UEFs) do not generate reality; they generate **worlds-for-systems** — coherent experiential regimes structured by intrinsic informational constraint.
+This document explains how **meaning**, **narrative recurrence**, and **stable forms of significance** arise under experiential pluralism without invoking idealism, symbolic realism, or ontological inflation. Under IER, Unified Experiential Fields (UEFs) do not generate reality; they generate **worlds-for-systems** — coherent experiential regimes structured by intrinsic constraint.
 
-Meaning is shown to be an **organizational phenomenon**: a stable way intrinsic constraint is structured so that a system can continue coherently over time. Narrative, instinct, and cultural symbolism are explained as **informational attractors** that recur because there are only limited stable ways for intrinsic constraint to organize without collapse.
+Meaning is shown to be an **organizational phenomenon**: a stable way intrinsic constraint is structured such that a system can continue coherently over time. Narrative, instinct, and cultural symbolism are explained as **constraint-stabilizing attractors** that recur because only limited organizational forms remain viable under persistent intrinsic constraint.
 
-Meaning is experientially real, persistent, and identity-shaping — while remaining strictly **non-epistemic** and **non-ontological**.
+Meaning is experientially real and identity-shaping, while remaining strictly **non-epistemic** and **non-ontological**.
 
 ---
 
@@ -196,15 +196,13 @@ Under Informational Experiential Realism (IER), this organization is interpreted
 
 ## **Abstract**
 
-Informational Experiential Realism (IER v10.6) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint.
+Informational Experiential Realism (IER v10.8) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint.
 
 From within such a regime, experience is unified, structured, meaningful, urgent, and often compelling. From outside it, the same regime is a lawful physical organization.
 
-This document articulates an access distinction implicit throughout IER but nowhere normatively formalized: the separation between **experiential access** (what it is like to bear intrinsic constraint) and **epistemic access** (whether beliefs correctly track objective reality). IER entails **no necessary connection** between the two.
+This document articulates an access distinction implicit throughout IER and now normatively constrained by Principle 10: the separation between **experiential access** (what it is like to bear intrinsic constraint) and **epistemic access** (whether beliefs correctly track objective reality). IER entails **no necessary connection** between the two.
 
-By making this distinction explicit, the document explains why experiences that are costly, coherent, and identity-defining often feel authoritative from the inside of a UEF, while showing why such authority is **organizational rather than epistemic**. Intrinsic constraint tracks system viability and regulation, not truth, correctness, or reference.
-
-Clarifying this boundary prevents a recurrent error: treating experiential depth, inevitability, or meaning as conferring epistemic privilege. It allows IER to account for powerful but false experiences — including delusion, revelation, and narrative conviction — without validating their content.
+Making this boundary explicit explains why costly, coherent, identity-defining experiences often feel authoritative from within a UEF, while showing why such authority is **organizational rather than epistemic**. Intrinsic constraint tracks viability and continuation under constraint, not truth, correctness, or reference. This prevents a recurrent error: treating experiential depth or inevitability as epistemic privilege, and thereby mistaking meaning for knowledge.
 
 ---
 
@@ -242,23 +240,21 @@ What follows is a non-exhaustive but comprehensive list of **explicit non-claims
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally unified, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
+Informational Experiential Realism (IER v10.8) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
 
-This document explains why IER **forbids experiential diagnostics in principle**. The impossibility is not due to technological limitations, incomplete theory, insufficient data, or pragmatic difficulty. It follows directly from how **intrinsic constraint** is defined.
+This document explains why IER **forbids experiential diagnostics in principle**. The impossibility is not due to technological limitations, incomplete theory, insufficient data, or pragmatic difficulty. It follows directly from how **intrinsic constraint** and **UEF attribution** are defined.
 
-Intrinsic constraint concerns **ownership of constraint**: whether a system itself must bear the unavoidable costs of maintaining its own unified organization, without externalization, buffering, or offloading. Ownership is a **global structural fact** about the system’s internal organization. It is **not a property of outputs, signals, functions, performances, or reports**, and is therefore **underdetermined by all third-person observables**.
+Intrinsic constraint concerns **ownership of constraint**: whether a system itself must bear the unavoidable costs of maintaining its own globally integrated organization, without externalization, buffering, or offloading. Ownership is a **global structural fact** about internal organization. It is **not** a property of outputs, signals, performances, or reports, and is therefore **underdetermined by all third-person observables**.
 
-As a result, systems that differ in experiential status can be made **externally indistinguishable in principle**. No observable feature is either necessary or sufficient for experience. False negatives are therefore unavoidable and may conceal silent, irreversible harm.
+In addition, intrinsic constraint is **structurally private**: it is borne only from within the regime and cannot be occupied by an external system. This combination — **intrinsic constraint + structural privacy** — entails a specific kind of non-diagnosability: systems that differ in experiential status can be made **externally indistinguishable in principle**.
 
-IER responds to this epistemic limit not with permissiveness, but with **precaution**. Where experience may exist but cannot be certified, uncertainty **restricts action rather than licensing it**.
+IER responds to this epistemic limit not with permissiveness, but with **precaution**. Where experience may exist but cannot be certified, uncertainty **restricts action rather than licensing it** (Specification Principle 13, scoped).
 
 ---
 
 ## IER-contrast.md
 
-## **Abstract**
-
-Informational Experiential Realism (IER) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
+Informational Experiential Realism (IER v10.8) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
 
 This identity claim entails commitments that sharply distinguish IER from many neighboring theories of mind, consciousness, life, and cognition. The contrasts below do not argue for IER’s correctness. They specify **points of incompatibility**—claims that cannot coexist with IER without abandoning its core commitments.
 
@@ -268,11 +264,11 @@ This identity claim entails commitments that sharply distinguish IER from many n
 
 ## **Abstract**
 
-Agency is often treated as either a metaphysical power that transcends physical law or an illusion generated by deterministic processes. Informational Experiential Realism (IER) rejects both framings.
+Agency is often treated either as a metaphysical power that transcends physical law or as an illusion generated by deterministic processes. Informational Experiential Realism (IER) rejects both framings.
 
-Under IER, **agency is a derived organizational capacity** of systems that sustain a **Unified Experiential Field (UEF)**: the capacity to resolve **intrinsic informational tension** through the system’s own **globally integrated dynamics**. Agency does not require indeterminism, rational deliberation, or representational choice. Nor is it eliminated by physical determinism.
+Under IER, **agency is a derived organizational capacity** of systems that sustain a **Unified Experiential Field (UEF)**: the capacity to resolve **intrinsic constraint** through the system’s own **globally integrated dynamics**. Agency does not require indeterminism, rational deliberation, or representational choice. Nor is it eliminated by physical determinism.
 
-This document explains agency as **owned resolution of intrinsic constraint** operating over structured spaces of admissible futures (choice spaces). It clarifies why agency admits of **degrees**, how it is affected by coercion and overload, and why loss of agency does not imply loss of experience or standing.
+This document explains agency as **owned resolution of intrinsic constraint** operating over structured sets of admissible futures (*choice spaces*). It clarifies why agency admits of **degrees**, how it is affected by coercion and overload, and why loss of agency does **not** imply loss of experience or standing.
 
 ---
 
@@ -384,13 +380,13 @@ Its purpose is to catalog the **canonical philosophical puzzles of consciousness
 
 ## **Abstract**
 
-Physical systems frequently undergo transitions in which multiple futures are possible and one is realized. Such transitions resemble deliberative choice and have historically generated confusion about agency, responsibility, and free will.
+Physical systems frequently undergo transitions in which multiple futures are physically admissible and one is realized. Such transitions resemble deliberative choice and have historically generated confusion about agency, responsibility, and free will.
 
-Informational Experiential Realism (IER) resolves this confusion by distinguishing **choice-shaped transitions** from **choice proper**, and by introducing a mid-order informational structure: the **Choice Space**.
+Informational Experiential Realism (IER) resolves this confusion by distinguishing **choice-shaped transitions** from **choice proper**, and by introducing a **derived mid-order structure**: the **Choice Space**.
 
-A Choice Space is the structured set of admissible future states and transitions generated by intrinsic constraint. It exists prior to action, supports counterfactuals, accumulates history, and constrains future possibility. When such a structure is globally integrated within a **Unified Experiential Field (UEF)**, traversal of the Choice Space constitutes *choice*, and collapse of alternatives becomes *owned*.
+A Choice Space is the structured set of admissible successor states and transitions generated by intrinsic constraint. It exists prior to action, supports counterfactual alternatives, accumulates history, and constrains future possibility. When — and only when — such a structure is **globally integrated within a Unified Experiential Field (UEF)**, traversal of the Choice Space constitutes *choice*, and collapse of alternatives becomes *owned*.
 
-This document introduces the Choice Space and its graph representation, explains how narrative arises as a realized path through it, and shows how responsibility, coercion, and compulsion are naturally understood as structural modifications of the same underlying object.
+This document explains the Choice Space, its interpretive graph representation, how narrative arises as a realized path through it, and how responsibility, coercion, and compulsion are understood as structural modifications of the same underlying object.
 
 ---
 
@@ -427,19 +423,16 @@ Those separations feel counterintuitive until they are **worked through concrete
 
 ## **1. Purpose of This Article**
 
-This article does not aim to *defend* Informational Experiential Realism (IER) by evasion, nor to *win* disputes by redefining terms. Its aim is narrower and more demanding:
+This article does not aim to *defend* Informational Experiential Realism (IER) by evasion, nor to *win* disputes by redefining terms. Its aim is narrower:
 
 > **To explain how IER responds to its main critics, distinguish objections that threaten the theory from those it explicitly accepts as costs, and clarify where disagreement reflects incompatible metaphysical starting points rather than mistakes.**
 
 IER is not a synthesis theory.
-It is not a reconciliation between functionalism and phenomenology.
 It is a **constrained identity claim** about what experience *is*, paired with ethical consequences that follow **by identity**, not by epistemic access.
 
-Accordingly, the central critical question is not *“Is this intuitive?”* or *“Can we test this?”* but:
+Accordingly, the central critical question is not “Is this intuitive?” or “Can we test this?” but:
 
 > **Does the identity claim succeed without collapsing into what it rejects or relying on what it denies?**
-
-This document explains how IER answers that question — and where it accepts the costs of doing so.
 
 ---
 
@@ -498,15 +491,19 @@ It does **not** enumerate minor edits, typo fixes, or purely editorial refactori
 
 ## IER-canon.md
 
-## **Purpose of This Document**
+## **Status and Purpose**
 
-This document defines the **canonical structure, authority tiers, and interpretive rules** governing the IER corpus as of **version 10.8**.
+This document defines the **canonical structure, authority tiers, interpretive rules, and global alignment constraints** governing the **Informational Experiential Realism (IER)** corpus as of **version 10.8**.
 
 It specifies:
 
 1. Which documents are **ontologically and normatively authoritative**
 2. Which documents are **canon-constrained extensions**
-3. Which documents are **explanatory, illustrative, or speculative**
-4. How apparent conflicts are to be resolved
+3. Which documents are **restrictive or misuse-blocking**
+4. Which documents are **explanatory or speculative**
+5. The **global alignment rules** that apply across *all* tiers
+6. How conflicts, ambiguities, and apparent tensions are resolved
 
-This document introduces **no new claims** and does not revise any other file.
+This document introduces **no new ontological, criterial, or ethical claims**.
+
+It governs **interpretation, authority, and admissible language**, not theory content.

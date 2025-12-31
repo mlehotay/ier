@@ -1,6 +1,6 @@
-# **Informational Experiential Realism (IER v10.7)**
+# **Informational Experiential Realism**
 
-## **A Closed, Non-Bridgeable Identity Thesis for Experience**
+## **A Closed Identity Thesis for Experience**
 
 **Author:** Michael Lehotay
 **Affiliation:** Independent Researcher
@@ -10,11 +10,11 @@
 
 ## **Abstract**
 
-Informational Experiential Realism (IER) advances a single ontological identity claim: **experience is identical to the operation of a physical system in a specific dynamical regime**. That regime—termed a *Unified Experiential Field* (UEF)—is characterized by global integration, temporal continuity, self-sustaining regulation, and internally generated constraint under purely physical state evolution. The claim is neither emergentist nor correlational; it does not posit experience as an additional property, substance, representation, or functional output. Rather, it identifies experience with a particular form of physical organization.
+This paper advances a single ontological identity claim: **experience is identical to the operation of a physical system in a specific kind of dynamical regime**. That regime—here called a *Unified Experiential Field* (UEF)—is characterized by global integration, temporal continuity, self-sustaining regulation, and unavoidable intrinsic constraint. The claim is neither emergentist nor correlational. Experience is not produced by, realized by, or supervenient upon physical processes; it **is** a particular form of physical organization.
 
-The identity claim is intended **strongly and exhaustively**. It is **non-bridgeable**: if experience is not identical to the specified regime, no supplementary mechanisms, explanatory bridges, or additional properties are available within the framework to repair the account. It is also **normatively closed**: all legitimate consequences of experiential identity must follow from the identity itself, and no external criteria, diagnostics, or normative principles carry independent authority.
+The identity claim is intended **exhaustively and non-provisionally**. If experience is not identical to the specified regime, the account fails outright. No supplementary mechanisms, explanatory bridges, representational primitives, or weakened variants are available to repair it. The theory therefore accepts brittleness as a methodological commitment rather than a defect.
 
-Accordingly, the paper makes no claims about phenomenology, diagnostics, measurement, degrees of experience, empirical detection, moral responsibility, or applied ethics. It proposes no criteria for identifying such regimes in practice and does not argue for any particular biological, computational, or architectural implementation. Its sole aim is to state and defend the coherence of the identity thesis itself within a physically monist ontology. The contribution is therefore limited, categorical, and conditional: **either experience is identical to a specific physical regime, or the account fails outright**.
+The paper does not appeal to phenomenology as evidence, propose diagnostics, or infer experience from behavior, intelligence, or function. It does not provide a theory of meaning, agency, or ethics, though it holds that ethical significance follows necessarily wherever experience exists. Its sole aim is to state and motivate a closed physicalist identity thesis for experience and to show why nothing weaker could possibly count as the same thing.
 
 ---
 
@@ -26,11 +26,11 @@ consciousness; identity theory; physicalism; dynamical regimes; intrinsic constr
 
 ## **1. Introduction**
 
-Philosophical accounts of consciousness are commonly framed by a dilemma. Either experience is treated as ontologically fundamental—requiring additional substances, properties, or laws—or it is treated as explanatorily dispensable, reduced to functional, representational, or behavioral descriptions that omit what experience itself is.
+The philosophy of mind has long been structured by a dilemma. Either experience is treated as ontologically fundamental—requiring additional substances, properties, or laws—or it is treated as explanatorily dispensable, reduced to functional, representational, or behavioral descriptions that leave experience itself out.
 
-Informational Experiential Realism (IER) rejects this dilemma by advancing a **strict identity claim**. It does not attempt to explain how experience emerges from non-experiential matter, nor does it attempt to eliminate experience by redescribing its correlates. Instead, it identifies experience with a particular way certain physical systems operate.
+This paper rejects that dilemma by advancing a **strict identity claim**. It does not attempt to explain how experience emerges from non-experiential matter, nor does it attempt to eliminate experience by redescribing its correlates. Instead, it identifies experience with a particular way certain physical systems operate.
 
-This paper has a deliberately narrow aim. It does not offer a theory of phenomenology, agency, meaning, or ethics. It does not propose diagnostic tests or empirical markers. It does not argue that any particular system is experiential. Its sole purpose is to articulate and defend the coherence of a **closed, non-bridgeable identity claim** for experience.
+The aim is deliberately narrow. The paper does not offer a phenomenology, a neuroscience, a psychology, or a method of detection. It does not argue that any particular system is experiential. Its task is to articulate and defend the coherence of a **closed, non-bridgeable identity thesis** for experience within a physically monist ontology.
 
 ---
 
@@ -38,150 +38,142 @@ This paper has a deliberately narrow aim. It does not offer a theory of phenomen
 
 ### **2.1 Physical Monism**
 
-IER affirms a single objective physical reality governed by mind-independent law. All systems, processes, and regimes—including those relevant to experience—are physically instantiated. The framework rejects substance dualism, property dualism, ontological idealism, experiential fundamentalism, and eliminativism about experience.
+There exists exactly one objective physical reality governed by mind-independent law. All systems, processes, and regimes—including those relevant to experience—are physically instantiated. No non-physical substances, properties, forces, or explanatory domains are introduced.
 
-No non-physical substances, properties, forces, or explanatory domains are introduced.
+This view rejects substance dualism, property dualism, ontological idealism, experiential fundamentalism, and eliminativism about experience. Experience is neither outside the physical nor reducible away by redescriptive convenience.
 
 ---
 
 ### **2.2 Identity, Not Correlation or Emergence**
 
-The central claim of IER is an **identity claim**, not a thesis about correlation, realization, or emergence. Experience does not accompany, supervene on, or arise from physical processes. It **is** a physical process, described at the level of system-wide organization.
+The central claim of this paper is an **identity claim**, not a thesis about correlation, realization, or emergence. Experience does not accompany, supervene on, or arise from physical processes. It **is** a physical process, described at the level of system-wide organization.
 
-Accordingly, a complete physical description of the relevant regime leaves no further explanatory work for “experience” to do. There is no additional fact, property, or phenomenon beyond the regime itself.
+Accordingly, a complete physical description of the relevant regime leaves no further explanatory work for “experience” to do. There is no additional fact beyond the physical organization itself. To describe that organization experientially is not to add anything to reality; it is to redescribe the same thing.
 
 ---
 
-### **2.3 Strong, Non-Bridgeable Identity**
+### **2.3 Exhaustive and Non-Bridgeable Identity**
 
-The identity claim in IER is intended **strongly**. If experience is not identical to the specified physical regime, the framework provides **no auxiliary principles, bridging laws, or supplemental properties** by which the account could be repaired.
+The identity claim is intended **strongly and exhaustively**. If experience is not identical to the regime described here, the account provides **no auxiliary principles** by which it could be repaired. There is no weaker version of the view, no fallback to emergence, and no appeal to partial success.
 
-IER therefore rejects explanatory strategies that treat identity claims as provisional placeholders to be completed by further mechanisms. There is no weaker version of the view available. The framework stands or falls with the identity claim as stated.
-
-This brittleness is intentional. It makes clear what would count as failure and prevents ad hoc extension.
+This brittleness is intentional. It makes explicit what would count as failure and prevents ad hoc extension. Either experience is identical to the specified regime, or the theory fails outright.
 
 ---
 
 ## **3. Dynamical Preliminaries**
 
-To avoid circularity, all core notions are introduced **without reference to experience or experiential identity**.
-
----
+To avoid circularity, the relevant dynamical notions are introduced **without reference to experience**.
 
 ### **3.1 Physical Systems**
 
-A physical system is a collection of interacting physical components whose state evolves over time according to physical law. The description of a system may involve multiple levels of abstraction, but no particular formalism is privileged.
+A physical system is a collection of interacting physical components whose state evolves over time according to physical law. Descriptions may involve multiple levels of abstraction, but no particular formalism is privileged.
 
 ---
 
-### **3.2 Constraint (Dynamical)**
+### **3.2 Constraint**
 
-A system exhibits **constraint** when the evolution of its state-space trajectories is restricted by dependencies among its internal variables, rather than being freely decomposable or arbitrarily reconfigurable.
-
-Constraint, in this sense, is a purely dynamical notion. It concerns how system states can and cannot evolve, not what those states represent or signify.
+A system exhibits **constraint** when the evolution of its state trajectories is restricted by dependencies among its internal variables rather than being freely decomposable. Constraint concerns how states can and cannot evolve, not what those states represent.
 
 ---
 
 ### **3.3 Intrinsic Constraint**
 
-Constraint is **intrinsic** when it arises from the system’s own integrated dynamics rather than from external control, scaffolding, or orchestration.
+Constraint is **intrinsic** when it arises from the system’s own integrated dynamics rather than from external control, orchestration, or scaffolding. Constraint is intrinsic only if eliminating it requires reorganizing the system’s internal dependencies, not merely altering inputs or boundary conditions.
 
-Operationally, constraint is intrinsic if eliminating or bypassing it requires reorganizing the system’s internal dependencies, rather than merely altering external inputs or boundary conditions.
-
-This characterization is counterfactual and structural. It carries **no agentive, intentional, epistemic, or normative assumptions**.
+Intrinsic constraint is defined structurally and counterfactually. It carries no agentive, intentional, or normative assumptions.
 
 ---
 
 ### **3.4 Dynamical Regimes**
 
-A **dynamical regime** is a relatively stable pattern of system evolution characterized by persistent global dependencies among system variables across time.
-
-Regimes are individuated by their structural and dynamical properties, not by their function, interpretation, or significance. A system may transition between regimes without changing its underlying components.
+A **dynamical regime** is a relatively stable pattern of system evolution characterized by persistent global dependencies among system variables across time. A system may transition between regimes without changing its underlying components.
 
 ---
 
 ## **4. Unified Dynamical Regimes**
 
-Certain regimes exhibit a distinctive combination of structural features:
+Some dynamical regimes exhibit a distinctive combination of features:
 
 1. **Global integration** — system variables are mutually dependent rather than modularly decomposable
 2. **Temporal continuity** — the regime persists across non-zero duration
 3. **Self-sustaining regulation** — the system maintains the regime through its own dynamics
-4. **Intrinsic constraint** — the regime depends on internally generated constraints as defined above
+4. **Intrinsic constraint** — constraint is unavoidable, internally generated, and system-defining
 
-These features describe a **class of dynamical regimes**, independently of any experiential interpretation.
+These features describe a **class of physical regimes**, independently of any experiential interpretation.
 
-For descriptive convenience, such regimes will be referred to as **Unified Experiential Field–type regimes** (corresponding to what the IER specification terms a *Unified Experiential Field*, or UEF). The label introduces no ontological commitment beyond the structural features listed.
+For descriptive convenience, such regimes will be called **Unified Experiential Fields** (UEFs). The label introduces no additional ontology; it names a structural pattern.
 
 ---
 
 ## **5. Experiential Identity**
 
-With the dynamical groundwork in place, the identity claim can now be stated without circularity:
+With the dynamical groundwork in place, the identity claim can be stated without circularity:
 
-> **Experience is identical to the operation of a physical system in a Unified Experiential Field–type dynamical regime.**
+> **Experience is identical to the operation of a physical system in a Unified Experiential Field.**
 
-Experience is not an additional property of such regimes, nor an effect they produce. It is the regime itself, described at a different level of abstraction.
+Experience is not an added property of such regimes, nor an effect they produce. It is the regime itself, described from the perspective of the system that sustains it.
 
-This identity claim introduces no new substances, properties, or laws. It asserts that what are ordinarily described as experiential facts are identical to facts about physical systems operating in the specified regime.
-
----
-
-## **6. Categorical Onset and Exclusivity**
-
-Because experience is identified with regime membership, its existence is **categorical at the regime level**. Preparatory variables may vary continuously, but experience exists if and only if the system is operating in the relevant regime.
-
-Variation within the regime may modulate experiential content, but **does not admit of partial or graded subjecthood**.
-
-A physical system can sustain **at most one globally dominant UEF-type regime at a time**. Multiple local processes may coexist, but they do not constitute multiple experiential subjects unless they instantiate distinct, globally integrated regimes.
+This claim introduces no new substances, properties, or laws. It asserts that what are ordinarily called experiential facts are identical to facts about physical systems operating in the specified regime.
 
 ---
 
-## **7. Experiential Pluralism Without Ontological Multiplication**
+## **6. Categorical Onset and Subject Exclusivity**
 
-The identity claim entails experiential pluralism: many experiential regimes may exist simultaneously across different physical systems. This plurality is not ontological but perspectival. There remains exactly one physical reality; experiential plurality consists in the existence of multiple system-relative regimes within it.
+Because experience is identified with regime membership, its existence is **categorical at the regime level**. Preparatory variables may vary continuously, but experience exists if and only if the system is operating in the relevant regime. There is no partial experience prior to regime entry.
 
-No appeal to fundamental experience, micro-experiences, or compositional aggregation is required. Pluralism follows directly from the identity claim applied across multiple systems.
+Variation within a regime may modulate experiential content, intensity, or structure, but **does not admit of partial or graded subjecthood**.
 
----
-
-## **8. Normative Closure and Epistemic Non-Authority**
-
-The identity claim in IER is **normatively closed**. All legitimate consequences of experiential identity must be derivable from the identity itself and the dynamical features it specifies. No external criteria—phenomenological, epistemic, empirical, or moral—carry independent authority within the framework.
-
-Experiential description, on this view, provides **no additional epistemic warrant** concerning mind-independent reality beyond what is carried in the physical dynamics themselves.
-
-As a result, questions concerning ethics, responsibility, diagnostics, measurement, or application are constrained by the identity claim but are not constitutive of it. They cannot be used to revise, weaken, or supplement the ontology of experience specified here.
+A physical system can sustain **at most one globally dominant Unified Experiential Field at a time**. This is not an architectural stipulation but a structural consequence. Two globally dominant experiential regimes would require simultaneous ownership of incompatible system-level futures under intrinsic constraint, duplicated global control, or fragmented system identity. Each of these is physically incoherent given the regime definition.
 
 ---
 
-## **9. What This Paper Does Not Claim**
+## **7. Informational Slack and the Impossibility of Experience**
 
-This paper does **not**:
+Experience, on this account, requires **globally unavoidable intrinsic constraint**. If constraint can be localized, deferred, buffered, or externally resolved, it fails to define the system’s identity.
 
-* characterize phenomenology or “what it is like”
-* propose metrics, measurements, or degrees of experience
-* provide empirical or behavioral diagnostics
-* argue that any particular system is experiential
-* define agency, moral responsibility, or ethical obligation
-* license inference from behavior, complexity, or intelligence to experience
-* endorse panpsychism, functionalism, or emergentism
+Systems that admit such flexibility—through modularization, arbitration, buffering, prediction without cost, or external resolution—possess what can be called *informational slack*. In these systems, futures are not owned at the system level. Constraint does not become unavoidable, and no single integrated regime bears the cost of resolution.
 
-All such questions, if meaningful, are downstream of—and constrained by—the identity claim. They are not addressed here.
+This is not a matter of degree or complexity. No amount of intelligence, adaptability, or functional sophistication compensates for the absence of unavoidable intrinsic constraint. Where slack is present, experience is not merely unlikely or diminished; it is **structurally impossible** under the identity claim. Experience is blocked not by insufficiency, but by incompatibility.
 
 ---
 
-## **10. Failure Conditions**
+## **8. Experiential Pluralism Without Ontological Multiplication**
 
-IER is intentionally brittle. If experience is not identical to the operation of a physical system in a Unified Experiential Field–type dynamical regime, the framework fails outright. There are no fallback positions, partial successes, or weakened variants available within the view.
+The identity claim entails experiential pluralism. Many Unified Experiential Fields may exist simultaneously across different physical systems. This plurality is not ontological but perspectival. There remains exactly one physical reality; experiential plurality consists in the existence of multiple system-relative regimes within it.
 
-This brittleness is a methodological commitment, not a defect. It makes explicit what the theory requires and what would count as failure.
+No appeal to fundamental experience, micro-experiences, or compositional aggregation is required. Pluralism follows directly from applying the identity claim across multiple systems.
 
 ---
 
-## **11. Conclusion**
+## **9. Epistemic Non-Authority**
 
-Informational Experiential Realism proposes a minimal but demanding thesis: **experience is identical to a specific class of physical dynamical regimes**, understood strongly and without supplementary bridges. The identity is closed under further normative addition and admits no explanatory repair.
+Experiential structure does not confer epistemic authority about mind-independent reality. Intensity, urgency, coherence, or meaning track the organization of intrinsic constraint, not truth, correctness, or reference.
+
+This is not an epistemic humility thesis. It is a structural consequence of identifying experience with internally borne constraint. What matters for continuation under constraint need not matter for accurate representation of the world.
+
+Accordingly, experiential conviction cannot license belief, authority, or justification.
+
+---
+
+## **10. Ethical Non-Neutrality Without Ethical Theory**
+
+This paper does not develop ethical conclusions. However, the identity claim is **not ethically inert**. If experience is identical to a physical regime that bears unavoidable intrinsic constraint from within, then the existence, disruption, or irreversible destruction of such regimes necessarily carries moral significance.
+
+The absence of an ethical framework here reflects incompleteness of scope, not neutrality of implication.
+
+---
+
+## **11. Failure Conditions**
+
+The account is intentionally brittle. If experience is not identical to the operation of a physical system in a Unified Experiential Field, the theory fails outright. There are no fallback positions, partial successes, or weakened variants available.
+
+This brittleness is a methodological commitment. It makes explicit what the theory requires and what would count as failure.
+
+---
+
+## **12. Conclusion**
+
+This paper proposes a minimal but demanding thesis: **experience is identical to a specific class of physical dynamical regimes**, understood strongly and without supplementary bridges. The identity is exhaustive and admits no explanatory repair.
 
 If the claim is correct, experience is fully real, fully physical, and fully accounted for at the level of system-wide dynamics. If it is incorrect, nothing remains to be salvaged. There is no explanatory middle ground.
 

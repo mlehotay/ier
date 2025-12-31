@@ -1,32 +1,35 @@
-# **Informational Experiential Realism (IER v10.8)**
+# Informational Experiential Realism (IER v10.8)
 
-## **Book Context, Structure, and Drafting Constraints**
+## Book Context, Structure, and Compilation Rules
 
 ---
 
-## **Status and Role of This File**
+## Status and Authority
 
-This file defines the **structural, organizational, and drafting constraints** for the *Informational Experiential Realism* book.
+This file defines the **structural, organizational, and drafting constraints** for the
+*Informational Experiential Realism* book.
 
 It is:
 
-* **non-normative**
-* **non-criterial**
-* **non-reader-facing**
-* **authoritative only with respect to book structure**
+- **non-normative**
+- **non-criterial**
+- **non-reader-facing**
+- **authoritative only with respect to book assembly and structure**
 
 It introduces:
 
-* no definitions
-* no sufficiency conditions
-* no experiential criteria
-* no ethical principles
-* no necessity claims
+- no ontological claims
+- no experiential criteria
+- no necessity conditions
+- no ethical principles
+- no interpretive authority
 
 All ontological, criterial, and ethical authority resides **exclusively** in:
 
 ```
+
 IER/IER-specification.md   (v10.8)
+
 ```
 
 If any statement in this file conflicts with the Specification,
@@ -34,227 +37,265 @@ If any statement in this file conflicts with the Specification,
 
 ---
 
-## **Intended Audience**
+## Intended Audience
 
-This document is written **for authors, editors, and future maintainers of the book**, not for general readers.
+This document is written **for authors, editors, and maintainers**, not for readers.
 
 Its purpose is to:
 
-* prevent conceptual drift across chapters
-* enforce the global argumentative arc
-* stabilize terminology
-* constrain extensions
-* ensure that independently written materials compose into a single coherent book
+- enforce dependency order
+- prevent conceptual drift
+- stabilize terminology
+- constrain extensions
+- ensure independently written materials compose into a single coherent book
 
-**`IER/README.md`** explains how to *read* IER.
-**`IER-book/IER-book.md`** explains how the *book must be assembled*.
-
----
-
-## **What This Book Is**
-
-This book presents **Informational Experiential Realism (IER)** as a **closed physicalist identity framework**.
-
-Its task is not to persuade by accumulation, synthesis, or intuition-matching, but to:
-
-> **Defend a single identity claim and follow its consequences wherever they lead, without bridge-building or expansion.**
-
-As a result:
-
-* some intuitions are rejected
-* some questions are dissolved rather than answered
-* some uncertainty is permanent in principle
-* ethical consequences are unavoidable
-
-This book is intentionally **modular**, **auditable**, and **non-narrative** in style.
+`IER/README.md` explains how to **approach** IER.  
+This file explains how the **book must be assembled**.
 
 ---
 
-## **Book Architecture**
+## What This Book Is
 
-The book is organized as a **compiled corpus with enforced conceptual order**.
+The IER book is a **compiled corpus**, not a narrative project.
 
-* Core claims appear *once* and are referenced thereafter
-* Later parts presuppose earlier ones
-* Articles are lightly edited for placement, not rewritten as chapters
-* Coherence is enforced through **part-level framing**, not stylistic homogenization
+Its task is not to persuade through accumulation, intuition-matching, or synthesis.
+Its task is to:
+
+> **Fix a single physicalist identity claim and follow its consequences wherever they lead, without expansion, reconciliation, or rhetorical softening.**
+
+Accordingly:
+
+- core claims appear **once** and are referenced thereafter
+- later material presupposes earlier material
+- chapters are compiled, not rewritten
+- coherence is enforced at the **part level**, not the prose level
+- auditability is prioritized over narrative flow
+
+This book is intentionally:
+
+- modular
+- asymmetric
+- uncompromising
+- closed under v10.8
 
 ---
 
-# **I. Book Structure**
+## Compilation Principles (Non-Negotiable)
+
+1. **Compiled, Not Rewritten**  
+   Included documents are lightly edited for placement only.
+
+2. **No Authority Duplication**  
+   Definitions, criteria, and necessity claims must not be restated outside their source.
+
+3. **One-Way Dependence**  
+   Later parts may reference earlier parts.  
+   Earlier parts must never reference later parts.
+
+4. **Deletion Over Revision**  
+   Redundant framing, motivation, or rhetorical glue must be removed—not rephrased.
+
+5. **Part-Level Framing Carries the Argument**  
+   Chapters supply articulation and demonstration, not justification.
 
 ---
 
-## **Front Matter**
+# I. Book Structure
+
+---
+
+## Front Matter
 
 ### `IER-book/00-front-matter.md`
 
-* Book preface
-* Status statements
-* How to read the book
-* Explanation of modular structure
-* Warning about normative closure and non-diagnosability
+Includes:
+
+- book preface
+- status statements
+- how to read a compiled corpus
+- warning about normative closure
+- warning about non-diagnosability
+- explanation of modular structure
+
+No theory appears here.
 
 ---
 
-## **Part I — Foundations: Identity of Experience**
+## Part I — Foundations: Identity and Constraint
 
 ### `IER-book/part-1-foundations.md`
 
-**Goal:** Establish experience as a real, physical, *dynamical identity*.
+**Role:** Fix the identity claim once and for all.
 
-**Conceptual commitments introduced here are presupposed everywhere else.**
+This part establishes **everything later material presupposes**.
+Nothing here is motivated by phenomenology, ethics, or intuition.
 
-### Core inclusions (compiled, lightly edited):
+### Compiled inclusions:
 
-* `IER-paper/IER-paper.md`
-* `IER/IER-theory.md`
-* `IER/IER-dynamics.md`
-* `IER/IER-math.md`
-* `IER/IER-specification.md`
+- `IER-paper/IER-paper.md`
+- `IER/IER-specification.md`
+- `IER/IER-theory.md`
+- `IER/IER-dynamics.md`
+- `IER/IER-math.md`
+- `IER/IER-slack.md`
 
-**Key claims fixed in this part:**
+### Claims fixed here (and nowhere else):
 
-* experience is identical to a Unified Experiential Field (UEF)
-* intrinsic constraint is identity-defining
-* subjecthood is categorical
-* informational slack precludes experience
-* normative closure is enforced
+- experience is identical to a Unified Experiential Field (UEF)
+- intrinsic constraint is identity-defining
+- subjecthood is categorical
+- informational slack precludes experience
+- exactly one dominant UEF per system
+- normative closure is enforced
+
+Later parts **must not** re-argue or motivate these claims.
 
 ---
 
-## **Part II — Phenomenology: Demonstration Without Foundation**
+## Part II — Phenomenology: Demonstration Without Authority
 
 ### `IER-book/part-2-phenomenology.md`
 
-**Goal:** Demonstrate breadth without grounding the theory in phenomenology.
+**Role:** Demonstrate breadth without grounding the theory in phenomenology.
 
-Phenomenology here functions as **proof of principle**, not evidence.
+Phenomenology here functions as **illustration only**.
 
-### Core inclusions:
+### Compiled inclusions:
 
-* `IER/IER-emotions.md`
-* `IER/IER-brainfeels.md`
-* `IER/IER-aphantasia.md`
-* `IER/IER-panic.md`
-* `IER/IER-psychosis.md`
-* `IER/IER-art.md`
+- `IER/IER-emotions.md`
+- `IER/IER-brainfeels.md`
+- `IER/IER-aphantasia.md`
+- `IER/IER-panic.md`
+- `IER/IER-psychosis.md`
+- `IER/IER-art.md`
 
-**Constraints:**
+### Constraints:
 
-* No phenomenological report carries epistemic authority
-* No phenomenological diversity licenses ontological extension
-* No experiential intensity implies moral authority
+- no phenomenological report carries epistemic authority
+- no experiential diversity licenses ontological extension
+- no experiential intensity implies moral authority
+- all examples are optional and skippable
+
+Nothing in this part supports or weakens the identity claim.
 
 ---
 
-## **Part III — Time, Continuity, and Lived Life**
+## Part III — Time, Continuity, and Persistence
 
 ### `IER-book/part-3-time.md`
 
-**Goal:** Extend experiential identity across time, change, and interruption.
+**Role:** Extend experiential identity across time without multiplying subjects.
 
-### Core inclusions:
+### Compiled inclusions:
 
-* `IER/IER-continuity.md`
-* `IER/IER-persistence.md`
+- `IER/IER-continuity.md`
+- `IER/IER-persistence.md`
 
-**Key distinctions enforced:**
+### Distinctions enforced:
 
-* regime interruption ≠ subject death
-* learning ≠ subject replacement
-* participation modulation ≠ new experiencers
+- regime interruption ≠ subject death
+- learning ≠ subject replacement
+- participation modulation ≠ new experiencers
+
+No metaphysics is added here.
 
 ---
 
-## **Part IV — Meaning, Access, and Narrative**
+## Part IV — Meaning, Access, and Narrative
 
 ### `IER-book/part-4-meaning.md`
 
-**Goal:** Explain why experience feels meaningful without granting epistemic privilege.
+**Role:** Explain why experience feels meaningful without granting epistemic privilege.
 
-### Core inclusions:
+### Compiled inclusions:
 
-* `IER/IER-access.md`
-* `IER/IER-meaning.md`
-* `IER/IER-intentionality.md`
-* `IER/IER-puzzles.md`
+- `IER/IER-access.md`
+- `IER/IER-meaning.md`
+- `IER/IER-intentionality.md`
+- `IER/IER-puzzles.md`
 
-**Key commitments:**
+### Commitments enforced:
 
-* experiential access ≠ epistemic access
-* meaning is organizational, not semantic
-* intentionality is derived, not primitive
-* classic puzzles dissolve structurally
+- experiential access ≠ epistemic access
+- meaning is organizational, not semantic
+- intentionality is derived, not primitive
+- classic puzzles dissolve structurally
+
+This part explains *felt authority* while denying *epistemic authority*.
 
 ---
 
-## **Part V — Agency and Ethics**
+## Part V — Agency and Ethics
 
 ### `IER-book/part-5-ethics.md`
 
-**Goal:** Derive responsibility and moral standing from experiential identity.
+**Role:** Derive responsibility and moral standing from experiential identity.
 
-### Core inclusions:
+### Compiled inclusions:
 
-* `IER/IER-agency.md`
-* `IER/IER-choice.md`
-* `IER/IER-free-will.md`
-* `IER/IER-ethics.md`
-* `IER/IER-morals.md`
+- `IER/IER-agency.md`
+- `IER/IER-choice.md`
+- `IER/IER-free-will.md`
+- `IER/IER-ethics.md`
+- `IER/IER-morals.md`
 
-**Key claims enforced:**
+### Claims enforced:
 
-* standing is categorical
-* responsibility is graded
-* harm is organizational
-* aggregation is blocked
-* uncertainty strengthens obligation
+- standing is categorical
+- responsibility is graded
+- harm is organizational
+- aggregation is blocked
+- uncertainty strengthens obligation
+
+Ethics here is **derived**, not justified.
 
 ---
 
-## **Part VI — Extensions, Boundaries, and Limits**
+## Part VI — Boundaries, Denials, and Limits
 
 ### `IER-book/part-6-limits.md`
 
-**Goal:** Extend carefully and enforce boundaries.
+**Role:** Close the framework and prevent illegitimate extension.
 
-### Core inclusions:
+### Compiled inclusions:
 
-* `IER/IER-denials.md`
-* `IER/IER-contrast.md`
-* `IER/IER-critics.md`
-* `IER/IER-diagnostics.md`
-* `IER/IER-futures.md`
+- `IER/IER-denials.md`
+- `IER/IER-contrast.md`
+- `IER/IER-critics.md`
+- `IER/IER-diagnostics.md`
+- `IER/IER-futures.md`
 
-**Explicit non-claims enforced:**
+### Explicit non-claims enforced:
 
-* no diagnostics
-* no graded subjecthood
-* no collective minds
-* no epistemic authority from experience
-* no optimization ethics
+- no diagnostics
+- no graded subjecthood
+- no collective minds
+- no epistemic authority from experience
+- no optimization ethics
 
----
-
-## **Appendices and Placeholders**
-
-The following files are reserved for future expansion but **carry no authority**:
-
-* `IER-book/placeholder-10.md`
-* `IER-book/placeholder-20.md`
-* `IER-book/placeholder-21.md`
-* `IER-book/placeholder-25.md`
-
-They must not introduce new primitives or necessity claims.
+Nothing beyond this part is open without reopening the Specification.
 
 ---
 
-# **II. Argumentative Arc (Non-Negotiable)**
+## Appendices and Placeholders
 
-All material must respect the following dependency order:
+The following files are reserved for future work and **carry no authority**:
+
+- `IER-book/placeholder-10.md`
+- `IER-book/placeholder-20.md`
+- `IER-book/placeholder-21.md`
+- `IER-book/placeholder-25.md`
+
+They must not introduce new primitives, criteria, or necessity claims.
+
+---
+
+# II. Dependency Order (Strict)
+
+All material must respect the following order:
 
 ```
+
 Identity
 → Intrinsic Constraint
 → Unified Experiential Fields
@@ -264,63 +305,71 @@ Identity
 → Agency
 → Ethics
 → Limits and Non-Claims
+
 ```
 
-Violations of this order are drafting errors.
+Violations of this order are **drafting errors**.
 
 ---
 
-# **III. Terminology Discipline**
+# III. Terminology Discipline
 
-Global terminology is fixed by the Specification.
+Terminology is fixed **exclusively** by the Specification.
 
 No chapter may:
 
-* redefine UEF
-* soften intrinsic constraint
-* introduce partial subjecthood
-* treat experience as graded
-* imply detectability
+- redefine UEF
+- soften intrinsic constraint
+- imply partial subjecthood
+- treat experience as graded
+- suggest detectability or diagnostics
 
-If a term is ambiguous, defer to:
+Ambiguity must be resolved by deferring to:
 
 ```
+
 IER/IER-specification.md
+
 ```
 
 ---
 
-# **IV. Drafting and Editing Rules**
+# IV. Editing Rules
 
-* Articles are **compiled**, not rewritten
-* Editing is limited to:
+Permitted edits:
 
-  * headings
-  * cross-references
-  * removal of redundant disclaimers
-* Conceptual changes require Specification review
-* If a chapter conflicts with this file, **the chapter must change**
+- headings
+- cross-references
+- removal of redundant disclaimers
+- removal of rhetorical motivation
 
----
+Forbidden edits:
 
-## **Design Commitments**
+- conceptual rewrites
+- clarification of necessity claims
+- stylistic harmonization
+- reader persuasion
 
-* Modularity is a feature, not a flaw
-* Auditability is prioritized over narrative flow
-* Precision overrides accessibility
-* Ethics follows identity, not intuition
-* Formalism constrains interpretation, not ontology
+If a chapter conflicts with this file, **the chapter must change**.
 
 ---
 
-## **Closing Statement**
+## Design Commitments
 
-This book does not aim to be intuitive.
-
-It aims to be **coherent, closed, and unavoidable**.
-
-> **Experience is real by identity.
-> Reality remains singular.
-> Ethics begins wherever intrinsic constraint is borne from the inside.**
+- Modularity over narrative flow
+- Auditability over accessibility
+- Precision over intuition
+- Identity before ethics
+- Closure over expansion
 
 ---
+
+## Closing Statement
+
+This book is not intended to be intuitive.
+
+It is intended to be **coherent, closed, and unavoidable**.
+
+> Experience is real by identity.  
+> Reality remains singular.  
+> Ethics begins wherever intrinsic constraint is borne from the inside.
