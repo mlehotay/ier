@@ -90,8 +90,9 @@ No ethical claim elsewhere may override or soften this document.
 
 ## **Tier 2 — Canon-Constrained Analytical Extensions**
 
-Tier-2 documents analyze specific phenomena **strictly under Tier-1 constraints**.
-They introduce **no new criteria, ontology, epistemic access, or ethics**.
+Tier-2 documents analyze specific phenomena **strictly under Tier-1 constraints**. They introduce **no new criteria, ontology, epistemic access, or ethics**.
+
+Tier-2 documents typically follow the presentation conventions described in the Global Alignment Rules.
 
 ---
 
@@ -107,6 +108,8 @@ They introduce **no new criteria, ontology, epistemic access, or ethics**.
 * **`IER-meaning.md`** — Explains meaning as a constraint-stabilizing organizational phenomenon.
 * **`IER-intentionality.md`** — Replaces representational intentionality with a structural account grounded in intrinsic constraint.
 * **`IER-sleep.md`** — Clarifies unconscious states using regime-based experience.
+* **`IER-shadows.md`** — Explains sleep paralysis shadow figures and DMT machine elves
+
 
 ---
 
@@ -134,6 +137,7 @@ They introduce **no new criteria, ontology, epistemic access, or ethics**.
 
 * **`IER-contrast.md`** — Specifies incompatibilities between IER and neighboring theories.
 * **`IER-puzzles.md`** — Shows how classic puzzles dissolve under the IER framework.
+* **`IER-dilemmas.md`** — Explains the structural misframing behind classic moral dilemmas.
 * **`IER-quantum.md`** — Clarifies observer language in quantum mechanics without experiential causation.
 
 ---
@@ -362,6 +366,12 @@ IER must **never** adopt:
 * a scolding tone
 * a prosecutorial voice
 * a “you are doing this wrong” stance toward the reader
+
+---
+
+## **Presentation Conventions (Non-Normative)**
+
+Tier-2 analytical extensions and higher-form explanatory documents are **normally presented** using a standardized repo style that includes a *Status and Authority* section, an *Abstract*, and an explicit scope disclaimer. These conventions exist solely to support reader alignment, prevent accidental authority inflation, and clarify tier placement at a glance. They introduce **no ontological, criterial, epistemic, or ethical authority**, and their presence or absence does **not** affect a document’s canonical tier or validity. Content authority under IER is determined **exclusively** by explicit tier assignment and substantive claims, not by formatting or layout. This guidance is **advisory rather than mandatory**, and deviation does not constitute a canon violation.
 
 ---
 

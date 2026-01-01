@@ -515,7 +515,7 @@ It governs **authority, interpretation, admissible language, reader alignment, a
 
 ---
 
-IER-helmets.md
+## IER-helmets.md
 
 ## **Orientation: Why Helmets Feel Special**
 
@@ -537,7 +537,7 @@ It has to do with **where unavoidable constraint is borne**.
 
 ---
 
-IER-social-systems.md
+## IER-social-systems.md
 
 ### **Purpose and Orientation**
 
@@ -556,7 +556,7 @@ The constraints described here are **structural**, not punitive, and are intende
 
 ---
 
-IER-sleep.md
+## IER-sleep.md
 
 ## **Orientation: Why Unconscious States Create Persistent Confusion**
 
@@ -575,7 +575,7 @@ Whether experience exists at a given time depends **only** on whether a Unified 
 
 ---
 
-IER-strictness.md
+## IER-strictness.md
 
 *A Reader-Facing Primer*
 
@@ -592,7 +592,7 @@ Its purpose is orientation, not enforcement.
 
 ---
 
-IER-dont-panic.md
+## IER-dont-panic.md
 
 ## **Why This Document Exists**
 
@@ -620,7 +620,7 @@ This document exists to say, clearly and explicitly:
 
 ---
 
-IER-attractors.md
+## IER-attractors.md
 
 ## **Abstract**
 
@@ -634,7 +634,7 @@ The account introduces no new primitives, criteria, or diagnostics. All claims a
 
 ---
 
-IER-patterns.md
+## IER-patterns.md
 
 ## **Why Nature Repeats Itself Without a Designer**
 
@@ -650,7 +650,7 @@ It is **attractors**.
 
 ---
 
-IER-quantum.md
+## IER-quantum.md
 
 ## **Abstract**
 
@@ -658,10 +658,44 @@ Quantum mechanics describes systems that admit multiple admissible futures while
 
 ---
 
-IER-resolution.md
+## IER-resolution.md
 
 ## **Abstract**
 
 Physics routinely describes systems with multiple admissible futures, while lived experience feels like choosing among possibilities. This resemblance has repeatedly generated confusion—most famously in quantum mechanics—about observers, collapse, and consciousness. This article argues that the similarity is structural but shallow. Experience is not what causes physical resolution. Rather, experience is what a physical system is like when the resolution of its own admissible futures cannot be offloaded, must be borne under **globally integrated intrinsic constraint**, and when the **organizational consequences of resolution persist across time**. Biological systems are distinguished not by indeterminism or observation, but by the **persistence of internally owned resolution**.
 
 ---
+
+## IER-shadows.md
+
+## **Abstract**
+
+Experiences reported during sleep paralysis and psychedelic states—such as shadow figures, threatening presences, and DMT “machine elves”—are often treated as evidence of liminal consciousness, symbolic hallucination, cultural construction, or encounters with external agents.
+
+Under **Informational Experiential Realism (IER v10.8)**, these interpretations are structurally unsupported.
+
+This document explains how all three phenomena arise within **fully intact Unified Experiential Fields (UEFs)** operating under **extreme intrinsic constraint** and altered **participation dynamics**. When intrinsic constraint escalates beyond ordinary resolution capacity and **agency collapses or dissolves**, experiential organization stabilizes via **soft attractors**: recurring, low-cost patterns that preserve global coherence without representational content or epistemic authority.
+
+Shadow figures and machine elves are shown to be **constraint-stabilizing experiential structures**, not beings, messages, or symbolic projections. Their recurrence reflects **organizational viability under extreme load**, not cultural invention or ontological disclosure.
+
+The analysis preserves IER’s categorical account of experience, rejects graded or liminal subjecthood, and reinforces the framework’s strict separation between **experiential coherence** and **epistemic authority**.
+
+---
+
+## IER-dilemmas.md
+
+## **Status and Scope**
+
+This article is **explanatory**.
+
+It:
+
+* introduces **no new axioms, principles, or moral obligations**
+* adds **no decision procedures, rankings, or prescriptions**
+* supplies **no justifications or permissions**
+* relies exclusively on the ethical consequences fixed in the
+  **IER v10.8 Specification** and elaborated in **IER-ethics.md**
+
+Its purpose is to catalog the **canonical dilemmas of moral philosophy** and show that, under Informational Experiential Realism (IER), they are not independent paradoxes but **recurrent expressions of a single structural misframing**.
+
+If any interpretation here conflicts with the Specification, the Specification takes precedence and the conflicting interpretation is void.
