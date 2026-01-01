@@ -1,3 +1,7 @@
+# **IER-abstracts.md**
+
+---
+
 ## 0. README.md
 
 ## Overview
@@ -493,17 +497,171 @@ It does **not** enumerate minor edits, typo fixes, naming cleanups, or purely ed
 
 ## **Status and Purpose**
 
-This document defines the **canonical structure, authority tiers, interpretive rules, and global alignment constraints** governing the **Informational Experiential Realism (IER)** corpus as of **version 10.8**.
+This document defines the **canonical structure, authority tiers, interpretive rules, global alignment constraints, and official file index** governing the **Informational Experiential Realism (IER)** corpus as of **version 10.8**.
 
 It specifies:
 
 1. Which documents are **ontologically and normatively authoritative**
-2. Which documents are **canon-constrained extensions**
+2. Which documents are **canon-constrained analytical extensions**
 3. Which documents are **restrictive or misuse-blocking**
-4. Which documents are **explanatory or speculative**
+4. Which documents are **explanatory, pedagogical, or speculative**
 5. The **global alignment rules** that apply across *all* tiers
 6. How conflicts, ambiguities, and apparent tensions are resolved
+7. The **complete, authoritative list of files in the IER corpus**, with brief descriptions
 
-This document introduces **no new ontological, criterial, or ethical claims**.
+This document introduces **no new ontological, criterial, epistemic, or ethical claims**.
 
-It governs **interpretation, authority, and admissible language**, not theory content.
+It governs **authority, interpretation, admissible language, reader alignment, and corpus structure**, not theory content.
+
+---
+
+IER-helmets.md
+
+## **Orientation: Why Helmets Feel Special**
+
+Helmets feel philosophically loaded because they sit right where we *feel* experience happens:
+
+* they surround the head
+* they dominate perception
+* they mediate perspective
+* they can feel inseparable from “how I’m in the world”
+
+It is therefore natural to ask:
+
+> *When I’m wearing a helmet like this, is my experience partly happening in the helmet?
+> Has my Unified Experiential Field expanded to include it?*
+
+Under IER, the answer is **no** — and the reason has nothing to do with realism, immersion, or sophistication.
+
+It has to do with **where unavoidable constraint is borne**.
+
+---
+
+IER-social-systems.md
+
+### **Purpose and Orientation**
+
+Social, cultural, bureaucratic, and institutional systems exert profound influence over human lives. They coordinate behavior, shape opportunity, distribute burden, and impose structure at scales no individual can control alone. This naturally invites questions such as:
+
+* Do social systems have experiences?
+* Can institutions be harmed or benefited?
+* Do collective entities have moral standing?
+* How does responsibility function when harm is diffuse?
+
+Under **Informational Experiential Realism (IER)**, these questions receive **sharp structural answers** that differ from many familiar moral and political frameworks.
+
+This document explains how **social systems matter morally** *without* attributing experience, subjecthood, or standing to groups or institutions. It aims to prevent common misreadings while preserving the real ethical force of institutional action.
+
+The constraints described here are **structural**, not punitive, and are intended to prevent misattribution rather than discipline the reader.
+
+---
+
+IER-sleep.md
+
+## **Orientation: Why Unconscious States Create Persistent Confusion**
+
+States such as sleep, anesthesia, coma, and catatonia are often treated as variations on a single theme: *being unconscious*.
+IER rejects that flattening.
+
+The confusion arises from conflating:
+
+* behavioral responsiveness with experience
+* physiological activity with experiential regime
+* system persistence with experiential persistence
+* memory absence with experiential absence
+
+IER instead treats experience as a **dynamical regime**.
+Whether experience exists at a given time depends **only** on whether a Unified Experiential Field is being sustained.
+
+---
+
+IER-strictness.md
+
+*A Reader-Facing Primer*
+
+**Informational Experiential Realism (IER)** is unusually constrained, unusually cautious, and unusually resistant to testing, diagnostics, and optimization.
+
+This is not because it distrusts science, rejects inquiry, or enjoys restriction.
+
+It is because IER is built to solve a very specific problem — and that problem turns out to be **structurally unforgiving**.
+
+This document explains *why* IER is strict, *what that strictness is protecting against*, and *why relaxing it would collapse the framework entirely*.
+
+It introduces **no new claims**, **no authority**, and **no obligations**.
+Its purpose is orientation, not enforcement.
+
+---
+
+IER-dont-panic.md
+
+## **Why This Document Exists**
+
+IER makes a strong and non-intuitive identity claim:
+
+> **Experience is identical to a specific kind of physically instantiated, globally integrated dynamical regime.**
+
+That claim has **real ethical consequences** and **hard epistemic limits**.
+
+For many readers, especially those trained in science, engineering, medicine, ethics, or AI, encountering those consequences produces a predictable reaction:
+
+* anxiety
+* paralysis
+* moral vertigo
+* a sense of infinite responsibility
+* a feeling of being accused, trapped, or implicated
+
+This reaction is **understandable** — and **not what IER intends**.
+
+This document exists to say, clearly and explicitly:
+
+> **You are not in trouble.
+> You are not being accused.
+> You are not expected to solve this.**
+
+---
+
+IER-attractors.md
+
+## **Abstract**
+
+Experiential life exhibits striking regularities. Certain emotions recur. Certain narratives reassert themselves. Certain meanings feel “sticky,” resistant to revision even when circumstances change. These patterns are often explained in terms of learning, representation, preference, or psychological bias.
+
+Under **Informational Experiential Realism (IER)**, these explanations are incomplete.
+
+This article introduces the concept of **soft attractors in experience**: dynamically stable organizations of intrinsic constraint that recur within an already-existing **Unified Experiential Field (UEF)** because they *stabilize global coherence under constraint*. Soft attractors are not representations, values, goals, or meanings encoded by the system. They are **structural regularities** that persist because alternatives are dynamically unstable or costly.
+
+The account introduces no new primitives, criteria, or diagnostics. All claims are strictly derived from IER’s identity claim, its account of intrinsic constraint, participation modulation, and regime stability.
+
+---
+
+IER-patterns.md
+
+## **Why Nature Repeats Itself Without a Designer**
+
+Across physics, biology, and mathematics, the same question keeps reappearing:
+
+> *Why do wildly different systems keep producing the same shapes?*
+
+Spirals show up in hurricanes, galaxies, shells, and pinecones. Hexagonal packing appears in honeycombs, foams, crystals, and insect eyes. Branching patterns recur in rivers, lungs, lightning, and trees. Even animals as different as pineapples and armadillos display strikingly similar geometric regularities.
+
+The unifying explanation is not genetics, intention, symbolism, or aesthetics.
+
+It is **attractors**.
+
+---
+
+IER-quantum.md
+
+## **Abstract**
+
+Quantum mechanics describes systems that admit multiple admissible futures while reliably producing single outcomes. Competing interpretations differ not in predictive success, but in how they account for the transition from branching possibility to irreversible fact. Historically, this transition has been associated with *measurement* and *observers*, leading to persistent confusion about the role of experience. This article compares major interpretations of quantum mechanics as responses to the same structural problem: how resolution occurs. Informational Experiential Realism (IER) is introduced not as a physical interpretation, but as a framework that clarifies why observer language repeatedly arises. IER distinguishes **physical resolution**, which is ubiquitous and non-experiential, from **persistent, internally owned resolution**, which characterizes experience. This distinction dissolves observer confusion while leaving quantum mechanics unchanged.
+
+---
+
+IER-resolution.md
+
+## **Abstract**
+
+Physics routinely describes systems with multiple admissible futures, while lived experience feels like choosing among possibilities. This resemblance has repeatedly generated confusion—most famously in quantum mechanics—about observers, collapse, and consciousness. This article argues that the similarity is structural but shallow. Experience is not what causes physical resolution. Rather, experience is what a physical system is like when the resolution of its own admissible futures cannot be offloaded, must be borne under **globally integrated intrinsic constraint**, and when the **organizational consequences of resolution persist across time**. Biological systems are distinguished not by indeterminism or observation, but by the **persistence of internally owned resolution**.
+
+---

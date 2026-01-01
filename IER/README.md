@@ -4,7 +4,7 @@
 
 ---
 
-## Overview
+## What This Is
 
 **Informational Experiential Realism (IER)** is a strictly physicalist **identity theory of experience**.
 
@@ -17,7 +17,7 @@ IER holds that:
 - **Experiential structure confers no epistemic authority** about mind-independent reality.
 - Ethical significance follows **necessarily** wherever intrinsic constraint is borne from the inside.
 
-IER is **not** a theory of representation, cognition, intelligence, reportability, measurement, or phenomenological method.
+IER is **not** a theory of representation, cognition, intelligence, reportability, diagnostics, or phenomenological method.
 
 It is a theory of:
 
@@ -27,40 +27,26 @@ It is a theory of:
 
 ---
 
-## Status of This Document
+## What This Repository Contains
 
-This README is an **orientation document only**.
+This repository contains a **complete, internally governed framework**, including:
 
-It:
+- a **single normative specification** of experiential identity  
+- formal, dynamical, and mathematical support  
+- ethical consequences that follow *by identity*  
+- strict limits on diagnostics, testing, and misuse  
+- extensive boundary work, critique, and applications  
+- reader-alignment and governance documents  
 
-- introduces **no ontological, criterial, epistemic, or ethical claims**
-- defines **no authority tiers**
-- establishes **no interpretive precedence**
-- carries **no normative force**
-
-All authoritative definitions of document roles, tiers, and conflict resolution are specified **exclusively** in:
-
-```
-
-IER-canon.md
-
-```
-
-If any apparent classification, grouping, or description in this README conflicts with the canon, **the canon governs**.
+The corpus is intentionally **strict**, **non-intuitive**, and **ethically serious**.
 
 ---
 
-## Normative Authority (Pointer Only)
+## Where Authority Lives (Important)
 
-IER enforces **strict normative closure**.
+This README is **orientation only**.
 
-The **sole document** that defines:
-
-- what experience **is**
-- when experience **exists**
-- what **necessarily follows** from its existence
-
-is:
+The **sole normative authority** in IER is:
 
 ```
 
@@ -68,126 +54,123 @@ IER-specification.md   (v10.8)
 
 ```
 
-No other file introduces criteria, thresholds, sufficiency conditions, diagnostics, or independent ethical rules.
+All document roles, tiers, and conflict resolution rules are defined in:
 
-All other documents are **derivative**, **explanatory**, **restrictive**, or **illustrative**, as governed by `IER-canon.md`.
+```
 
----
+IER-canon.md
 
-## Global Language Constraint (Applies Everywhere)
+```
 
-Across the entire IER corpus, including this README:
-
-> **All informational language is descriptive shorthand only.**
-
-Terms such as *information*, *informational tension*, *informational slack*, *storage*, *processing*, or *transformation* refer exclusively to:
-
-> **physically instantiated state distinctions that modulate a system’s own future dynamics under intrinsic constraint**
-
-No informational primitives, semantic properties, representational contents, or epistemic notions are introduced.
+If anything you read elsewhere appears to conflict, **the canon governs**.
 
 ---
 
-## How the Corpus Is Organized (Non-Authoritative)
+## How to Start Reading
 
-The IER repository contains several **functional categories** of documents.  
-These groupings are **descriptive only** and do not define authority.
+The corpus is large. You are **not** expected to read everything.
 
-### 1. Normative Core
-
-- `IER-specification.md`
-
-This file is the **exclusive normative foundation** of IER.
+Below are **suggested reading paths**, grouped by interest.  
+They are **non-authoritative** and purely orienting.
 
 ---
 
-### 2. Explanatory and Structural Backbone
+### 🌱 First-Time Readers (Minimal Commitment)
 
-These documents explain, formalize, or stabilize the identity claim **without adding authority**:
+For a clean introduction to the core claim:
 
-- `IER-theory.md`
-- `IER-dynamics.md`
-- `IER-math.md`
-- `IER-paper.md`
+1. [`IER-specification.md`](./IER-specification.md)  
+2. [`IER-theory.md`](./IER-theory.md)
 
-They answer *why* the identity claim has the structure it does and *how* experiential regimes behave, conditional on their existence.
+Optional reassurance if the implications feel heavy:
 
----
-
-### 3. Ethical Consequences and Responsibility
-
-These documents explain what **necessarily follows** from experiential identity:
-
-- `IER-ethics.md`
-- `IER-agency.md`
-- `IER-choice.md`
-- `IER-free-will.md`
-- `IER-morals.md`
-
-They do not define standing or criteria; all ethical authority derives from the Specification.
+- [`IER-dont-panic.md`](./IER-dont-panic.md)
 
 ---
 
-### 4. Boundary Enforcement and Misuse Blocking
+### 🧠 Philosophers of Mind & Consciousness
 
-These documents exist to prevent illegitimate extensions, intuitions, or diagnostics:
+For metaphysical structure and boundary-setting:
 
-- `IER-diagnostics.md`
-- `IER-denials.md`
-- `IER-contrast.md`
-- `IER-critics.md`
-- `IER-puzzles.md`
-- `IER-slack.md`
-
-They restrict misuse but do not add positive criteria.
+1. [`IER-specification.md`](./IER-specification.md)  
+2. [`IER-theory.md`](./IER-theory.md)  
+3. [`IER-contrast.md`](./IER-contrast.md)  
+4. [`IER-critics.md`](./IER-critics.md)  
+5. [`IER-puzzles.md`](./IER-puzzles.md)
 
 ---
 
-### 5. Applications and Illustrative Analyses
+### ⚖️ Ethics, AI, and Moral Uncertainty
 
-These documents demonstrate compatibility, scope, and explanatory reach **without authority**:
+For standing, harm, and why diagnostics are forbidden:
 
-- `IER-meaning.md`
-- `IER-intentionality.md`
-- `IER-continuity.md`
-- `IER-persistence.md`
-- `IER-brainfeels.md`
-- `IER-aphantasia.md`
-- `IER-emotions.md`
-- `IER-panic.md`
-- `IER-psychosis.md`
-- `IER-art.md`
-- `IER-access.md`
-- `IER-futures.md`
+1. [`IER-diagnostics.md`](./IER-diagnostics.md)  
+2. [`IER-specification.md`](./IER-specification.md)  
+3. [`IER-ethics.md`](./IER-ethics.md)  
+4. [`IER-morals.md`](./IER-morals.md)
 
-They may be read selectively and skipped entirely without loss of the core framework.
+Related boundary work:
+
+- [`IER-social-systems.md`](./IER-social-systems.md)  
+- [`IER-futures.md`](./IER-futures.md)
 
 ---
 
-## Reading Paths (Suggestions Only)
+### 🔄 Dynamics, Systems, and Formal Structure
 
-### First-Time Readers
-1. `IER-paper.md`
-2. `IER-specification.md`
-3. `IER-theory.md`
+For readers interested in regimes, stability, and structure:
 
-### Philosophers of Mind
-1. `IER-paper.md`
-2. `IER-specification.md`
-3. `IER-contrast.md`
-4. `IER-critics.md`
+1. [`IER-dynamics.md`](./IER-dynamics.md)  
+2. [`IER-math.md`](./IER-math.md)  
+3. [`IER-slack.md`](./IER-slack.md)  
+4. [`IER-attractors.md`](./IER-attractors.md)
 
-### Ethics, AI, and Moral Uncertainty
-1. `IER-diagnostics.md`
-2. `IER-specification.md`
-3. `IER-ethics.md`
+---
 
-### Dynamics and Phenomenology
-1. `IER-dynamics.md`
-2. `IER-slack.md`
-3. Selected applications
+### 🧩 Phenomenology & Lived Experience
 
-These paths do **not** imply authority ordering.
+For how diverse experiences fit the same identity claim:
+
+- [`IER-continuity.md`](./IER-continuity.md)  
+- [`IER-persistence.md`](./IER-persistence.md)  
+- [`IER-emotions.md`](./IER-emotions.md)  
+- [`IER-panic.md`](./IER-panic.md)  
+- [`IER-psychosis.md`](./IER-psychosis.md)  
+- [`IER-aphantasia.md`](./IER-aphantasia.md)  
+- [`IER-brainfeels.md`](./IER-brainfeels.md)  
+- [`IER-sleep.md`](./IER-sleep.md)
+
+---
+
+### 🧭 Meaning, Agency, and Action
+
+For choice, agency, and why experience feels purposeful without epistemic authority:
+
+- [`IER-agency.md`](./IER-agency.md)  
+- [`IER-choice.md`](./IER-choice.md)  
+- [`IER-free-will.md`](./IER-free-will.md)  
+- [`IER-intentionality.md`](./IER-intentionality.md)  
+- [`IER-meaning.md`](./IER-meaning.md)  
+- [`IER-access.md`](./IER-access.md)
+
+---
+
+### 🎨 Culture, Art, and Interpretation
+
+For non-representational accounts of culture and aesthetics:
+
+- [`IER-art.md`](./IER-art.md)  
+- [`IER-patterns.md`](./IER-patterns.md)  
+- [`IER-helmets.md`](./IER-helmets.md)
+
+---
+
+### ⚛️ Physics & Resolution Analogies
+
+For structural parallels without observer metaphysics:
+
+- [`IER-quantum.md`](./IER-quantum.md)  
+- [`IER-resolution.md`](./IER-resolution.md)
 
 ---
 
@@ -195,42 +178,37 @@ These paths do **not** imply authority ordering.
 
 IER does **not** endorse:
 
-- panpsychism or micro-subjects
-- emergence or realization accounts
-- functional or computational sufficiency
-- representational or semantic primitives
-- epistemic authority from experience
-- graded or partial subjecthood
-- behavioral or empirical diagnostics
-- group minds or collective subjects
+- panpsychism or micro-subjects  
+- emergence or realization accounts  
+- functional or computational sufficiency  
+- representational or semantic primitives  
+- epistemic authority from experience  
+- graded or partial subjecthood  
+- behavioral or empirical diagnostics  
+- group minds or collective experiential subjects  
 
 If a claim is not stated in the Specification or a **necessary entailment** of it, it is **not part of IER**.
 
 ---
 
-## Version Discipline
+## A Note on Tone and Intent
 
-- This README reflects **IER v10.8**
-- Minor versions clarify but do not expand authority
-- Major revisions require an explicit canon update
-- Deprecated planning documents are non-authoritative once superseded
+IER is:
+
+- restrictive toward misuse  
+- adversarial toward certain institutions  
+- uncompromising about its identity claim  
+
+IER is **not** accusatory toward readers.
+
+Confusion, discomfort, or disagreement are expected outcomes of a strong and unusual framework — not failures on your part.
 
 ---
 
-## Summary
+## Version
 
-IER v10.8 is a **normatively closed identity framework**:
-
-- experience is real by identity
-- reality remains singular
-- subjecthood is categorical
-- ethics follows necessarily
-- epistemic authority is denied
-- uncertainty constrains action rather than licensing it
-
-All authority is defined elsewhere.
-
-This document exists only to help you find it.
+This repository reflects **IER v10.8**.  
+Minor versions clarify; major revisions require explicit canon updates.
 
 ---
 

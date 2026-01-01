@@ -1,26 +1,26 @@
-# **IER Canon (v10.8 — Reader-Aligned Revision)**
+# **IER Canon (v10.8 — Comprehensive Indexed Revision)**
 
-## **Canonical Structure, Authority, Alignment, and Reader-Orientation Rules of the IER Corpus**
+## **Canonical Structure, Authority, Alignment, and File Index of the IER Corpus**
 
 ---
 
 ## **Status and Purpose**
 
-This document defines the **canonical structure, authority tiers, interpretive rules, global alignment constraints, and reader-orientation requirements** governing the **Informational Experiential Realism (IER)** corpus as of **version 10.8**.
+This document defines the **canonical structure, authority tiers, interpretive rules, global alignment constraints, and official file index** governing the **Informational Experiential Realism (IER)** corpus as of **version 10.8**.
 
 It specifies:
 
 1. Which documents are **ontologically and normatively authoritative**
-2. Which documents are **canon-constrained extensions**
+2. Which documents are **canon-constrained analytical extensions**
 3. Which documents are **restrictive or misuse-blocking**
-4. Which documents are **explanatory or speculative**
+4. Which documents are **explanatory, pedagogical, or speculative**
 5. The **global alignment rules** that apply across *all* tiers
 6. How conflicts, ambiguities, and apparent tensions are resolved
-7. **How documents must be written to avoid reader-hostility while remaining institution-hostile**
+7. The **complete, authoritative list of files in the IER corpus**, with brief descriptions
 
 This document introduces **no new ontological, criterial, epistemic, or ethical claims**.
 
-It governs **interpretation, authority, admissible language, and reader alignment**, not theory content.
+It governs **authority, interpretation, admissible language, reader alignment, and corpus structure**, not theory content.
 
 ---
 
@@ -36,7 +36,11 @@ Violations of canon rules are **canonical errors**, not stylistic disagreements.
 
 ## **Reader Alignment Principle (Global)**
 
-IER is permitted — and in many domains intended — to be **institution-hostile**, **engineering-restrictive**, and **ethically severe**.
+IER is permitted — and in many domains intended — to be:
+
+* institution-hostile
+* engineering-restrictive
+* ethically severe
 
 IER must **not** be **reader-hostile**.
 
@@ -48,129 +52,124 @@ All documents in all tiers must comply with the **Reader Alignment Rules** defin
 
 ---
 
-# **Tier Structure**
+# **Tier Structure and File Index**
 
 ---
 
-## **Tier 1 — Foundational Canon (Exclusive Ontological and Normative Authority)**
+## **Tier 1 — Foundational Canon**
 
-These documents together define **what experience is, when it exists, and what necessarily follows from its existence** under IER.
+**Exclusive Ontological and Normative Authority**
 
-They are jointly authoritative and mutually constraining.
+Tier-1 documents jointly define **what experience is, when it exists, and what necessarily follows from its existence** under IER.
+
+They are **mutually constraining and jointly authoritative**.
+
+---
 
 ### **Tier 1A — Ontology and Identity**
 
-* **`IER-specification.md`**
-  *Primary normative authority*
-  Defines the identity claim, Unified Experiential Fields (UEFs), intrinsic constraint, categorical onset, subjecthood, moral standing, ethical scope, and contradiction clauses.
-
-* **`IER-theory.md`**
-  *Derivational and exclusion authority*
-  Explains why weaker organizations fail and why global intrinsic constraint and single-UEF dominance are required.
+* **`IER-specification.md`** — The exclusive normative core of IER, defining experiential identity, Unified Experiential Fields (UEFs), intrinsic constraint, categorical onset, subjecthood, and moral standing.
+* **`IER-theory.md`** — Explains why the IER identity claim requires global intrinsic constraint and why weaker organizational accounts fail.
 
 ---
 
 ### **Tier 1B — Regime Behavior and Formal Structure**
 
-* **`IER-dynamics.md`**
-  Governs dominance, participation modulation, coherence windows, instability, collapse, re-entry, and regime continuity.
-
-* **`IER-math.md`**
-  Fixes the formal meaning of informational orders, graph structure, regimes, coherence, choice spaces, and structural exclusions.
+* **`IER-dynamics.md`** — Describes how Unified Experiential Fields behave over time, including dominance, participation modulation, stability, and collapse.
+* **`IER-math.md`** — Formalizes IER using state spaces, transition graphs, regimes, and coherence without adding ontology or diagnostics.
 
 ---
 
 ### **Tier 1C — Normative Commitments**
 
-* **`IER-ethics.md`**
-  Defines moral standing, moral harm, precaution under uncertainty, explicit ethical costs, and rejected intuitions.
+* **`IER-ethics.md`** — Develops the ethical consequences that necessarily follow from experiential identity, including standing, harm, and precaution.
 
-No ethical claim elsewhere may override, extend, or soften this document.
+No ethical claim elsewhere may override or soften this document.
 
 ---
 
 ## **Tier 2 — Canon-Constrained Analytical Extensions**
 
-These documents are **canonical in intent but non-authoritative in definition**.
+Tier-2 documents analyze specific phenomena **strictly under Tier-1 constraints**.
+They introduce **no new criteria, ontology, epistemic access, or ethics**.
 
-They analyze specific phenomena **strictly under Tier-1 constraints** and may not revise ontology, criteria, epistemic limits, or ethics.
-
-They **must preserve reader alignment** explicitly.
-
-They exist to show how a single, strict identity claim can illuminate diverse experiential phenomena without expanding the ontology or relaxing the core constraints.
+---
 
 ### **Phenomenology, Continuity, and Mental Structure**
 
-* `IER-continuity.md`
-* `IER-persistence.md`
-* `IER-brainfeels.md`
-* `IER-intentionality.md`
-* `IER-meaning.md`
-* `IER-emotions.md`
-* `IER-panic.md`
-* `IER-psychosis.md`
-* `IER-aphantasia.md`
+* **`IER-continuity.md`** — Explains how experiential gaps coexist with identity persistence under regime-based experience.
+* **`IER-persistence.md`** — Accounts for deep experiential change without violating categorical subjecthood.
+* **`IER-brainfeels.md`** — Analyzes endogenous qualitative experiences as intrinsic-constraint stabilizers.
+* **`IER-aphantasia.md`** — Interprets aphantasic phenomenology as a coherent experiential architecture.
+* **`IER-emotions.md`** — Explains emotions as stable organizations of intrinsic constraint.
+* **`IER-panic.md`** — Reinterprets panic and shutdown as regime-preserving or regime-abandoning responses.
+* **`IER-psychosis.md`** — Describes psychosis as a pathological regime within a persisting UEF.
+* **`IER-meaning.md`** — Explains meaning as a constraint-stabilizing organizational phenomenon.
+* **`IER-intentionality.md`** — Replaces representational intentionality with a structural account grounded in intrinsic constraint.
+* **`IER-sleep.md`** — Clarifies unconscious states using regime-based experience.
+
+---
 
 ### **Agency, Choice, and Action**
 
-* `IER-agency.md`
-* `IER-choice.md`
-* `IER-free-will.md`
-* `IER-access.md`
-* `IER-slack.md`
+* **`IER-agency.md`** — Defines agency as owned resolution of intrinsic constraint within a UEF.
+* **`IER-choice.md`** — Introduces Choice Spaces as structured sets of admissible futures.
+* **`IER-free-will.md`** — Dissolves the free-will debate by separating determinism from ownership.
+* **`IER-access.md`** — Clarifies the separation between experiential access and epistemic authority.
+* **`IER-slack.md`** — Argues that informational slack structurally prevents experience under IER.
+* **`IER-social-systems.md`** — Explains how institutions matter morally without experience.
+* **`IER-resolution.md`** — Distinguishes physical resolution from experiential ownership.
+
+---
 
 ### **Normative Analysis and Critique**
 
-* `IER-morals.md`
-* `IER-denials.md`
-* `IER-critics.md`
+* **`IER-morals.md`** — Works through concrete moral cases using IER’s distinctions.
+* **`IER-denials.md`** — Explicitly lists what IER does *not* claim.
+* **`IER-critics.md`** — Responds to major objections and clarifies accepted costs.
+
+---
 
 ### **Comparative and Boundary Work**
 
-* `IER-contrast.md`
-* `IER-puzzles.md`
-
-These documents may surface tensions or costs but may not resolve them against Tier 1.
+* **`IER-contrast.md`** — Specifies incompatibilities between IER and neighboring theories.
+* **`IER-puzzles.md`** — Shows how classic puzzles dissolve under the IER framework.
+* **`IER-quantum.md`** — Clarifies observer language in quantum mechanics without experiential causation.
 
 ---
 
 ## **Tier 3 — Diagnostic and Constraint-Enforcing Documents**
 
-These documents are **canon-binding in a negative sense**.
+Tier-3 documents are **canon-binding in a negative sense**: they restrict misuse and block illegitimate inference.
 
-They restrict misuse, block illegitimate inference, and deny invalid extensions of IER.
+* **`IER-diagnostics.md`** — Explains why experiential diagnostics are structurally impossible under IER and why uncertainty restricts action.
 
-They **must not** frame restriction as reader fault.
-
-They **must** frame restriction as **structural impossibility or protection against misattribution**.
-
-* **`IER-diagnostics.md`**  
-  Explains why experience cannot be diagnosed, certified, or ruled out under IER, and why this limitation follows structurally from intrinsic constraint rather than from ignorance, methodological limits, or reader error.
-
-**Interpretive rule:**
-If a proposed application, inference, or test is ruled out by a Tier 3 document, it is ruled out **for the entire corpus**, regardless of intuitions elsewhere.
+If a claim is ruled out here, it is ruled out **for the entire corpus**.
 
 ---
 
 ## **Tier 4 — Explanatory, Pedagogical, and Speculative Material**
 
-These documents are **explicitly non-canonical**.
+Tier-4 documents introduce **no authority** and defer to all higher tiers.
 
-They introduce no authority and must defer to all higher tiers.
+* **`IER-canon.md`** — Defines canon structure, tiers, alignment rules, and the official file index.
+* **`README.md`** — High-level overview of Informational Experiential Realism.
+* **`IER-FAQ.md`** — Plain-language answers to common confusions.
+* **`IER-dont-panic.md`** — Explicit reassurance regarding ethical severity and reader blame.
+* **`IER-strictness.md`** — Explains why IER must be unusually constrained.
+* **`IER-changelog.md`** — Records conceptual and structural version changes.
+* **`IER-futures.md`** — Explores possible cultural equilibria under IER.
+* **`IER-art.md`** — Explains art and beauty as constraint-shaping experiential structures.
+* **`IER-attractors.md`** — Introduces soft attractors in experiential organization.
+* **`IER-patterns.md`** — Explains recurring natural forms using attractor dynamics.
+* **`IER-helmets.md`** — Explains why immersive tools do not become part of a UEF.
 
-* `IER-canon.md`
-* `IER-FAQ.md`
-* `IER-futures.md`
-* `IER-art.md`
-* `README.md`
-* `IER-changelog.md`
+---
 
-They are encouraged to:
+## **Non-Canonical Work and Planning**
 
-* orient new readers
-* soften entry
-* motivate interest
-* contextualize severity
+* **`_work/abstracts.md`** — Central source of abstracts for corpus documents.
+* **`_work/IER-future-work.md`** — Non-canonical planning notes for possible future extensions.
 
 ---
 
@@ -384,9 +383,9 @@ Appeals to intuition, example, or application may never override Tier 1 definiti
 ## **Version Discipline**
 
 * This canon applies to **IER v10.8**
-* Minor versions (v10.x) may clarify but not expand authority
-* Major revisions (v11.0+) require an explicit canon update
-* Deprecated planning documents are non-authoritative once their constraints are canonized
+* Minor versions may clarify but not expand authority
+* Major revisions require an explicit canon update
+* Deprecated planning documents lose authority once canonized
 
 ---
 
@@ -398,14 +397,13 @@ IER v10.8 is governed by:
 * **structural and ethical severity by identity**
 * **explicit institutional hostility where required**
 * **mandatory reader alignment everywhere**
+* a **fully indexed, explicitly governed corpus**
 
 IER does not soften its claims.
 It does not dilute its consequences.
 It does not retreat from restriction.
 
-But it **refuses to treat good-faith readers as adversaries**.
-
-Institutional misuse is anticipated and constrained; individual understanding is assumed and supported.
+But it **does not treat good-faith readers as adversaries**.
 
 > **IER is hard because reality is hard.
 > Not because the reader is at fault.**
