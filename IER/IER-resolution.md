@@ -1,4 +1,8 @@
-# **From Branching to Being: The Persistence of Resolution**
+# **IER-resolution.md**
+
+## **Resolution Without Observers**
+
+**Physical Resolution vs. Experiential Ownership Under IER**
 
 **Informational Experiential Realism (IER v10.8)**
 *Tier-2 Canon-Constrained Analytical Extension*
@@ -22,296 +26,278 @@ It:
 All ontological, criterial, and ethical authority resides **exclusively** in:
 
 ```
-IER-specification.md (v10.8)
+IER-specification.md   (v10.8)
 ```
-
-This article clarifies a persistent conceptual confusion at the boundary between physics and lived experience by articulating a **structural distinction** already implicit in IER: the distinction between **resolution as a physical event** and **resolution as a persistent, internally borne organizational constraint**.
 
 If any statement in this document conflicts with the Specification, **the Specification takes precedence and the conflicting statement is void**.
 
 ---
 
+### **Orientation**
+
+“Resolution” is a word used across domains—physics, biology, decision theory, psychology, and everyday life—to gesture at the same formal shape:
+
+* multiple admissible futures
+* one realized continuation
+* others foreclosed
+
+This resemblance repeatedly generates a predictable confusion:
+
+> **If physical systems resolve among possibilities, why doesn’t that make them agents—or experiencers?**
+
+IER dissolves the confusion by separating two structurally similar but ontologically distinct phenomena:
+
+* **physical resolution**, which is ubiquitous and non-experiential, and
+* **persistent, internally owned resolution**, which characterizes experience *when experience exists*.
+
+This document makes that separation explicit, without adding to the IER ontology.
+
+---
+
 ## **Global Informational Language Disclaimer**
 
-All uses of *information*, *branching*, *resolution*, *choice*, *constraint*, *ownership*, and *persistence* in this document are **descriptive shorthand only**.
+All uses of *information*, *branching*, *resolution*, *choice*, *constraint*, *ownership*, *persistence*, and *future space* in this document are **descriptive shorthand only**.
 
 They refer exclusively to:
 
 > **physically instantiated state distinctions that modulate a system’s own future dynamics under intrinsic constraint**,
 > as defined in **IER Specification II.A (Physical Information)**.
 
-No semantic, representational, epistemic, agentive, or observer-relative primitives are introduced.
+No semantic, representational, epistemic, or agentive primitives are introduced.
 
 ---
 
 ## **Abstract**
 
-Physics routinely describes systems with multiple admissible futures, while lived experience feels like choosing among possibilities. This resemblance has repeatedly generated confusion—most famously in quantum mechanics—about observers, collapse, and consciousness. This article argues that the similarity is structural but shallow. Experience is not what causes physical resolution. Rather, experience is what a physical system is like when the resolution of its own admissible futures cannot be offloaded, must be borne under **globally integrated intrinsic constraint**, and when the **organizational consequences of resolution persist across time**. Biological systems are distinguished not by indeterminism or observation, but by the **persistence of internally owned resolution**.
+Physical systems routinely undergo transitions in which multiple futures are physically admissible and one is realized. Lived experience also feels like moving through possibilities into irrevocable outcomes—often as “choice,” “decision,” or “agency.” Because both involve selection among alternatives, it is tempting to treat experience as a special kind of physical resolution, or to treat physical resolution as proto-agency. Under Informational Experiential Realism (IER), this inference is structurally unsupported. Experience is not what causes physical resolution. Rather, experience is what a physical system is like **when the resolution of its own admissible futures is borne under globally integrated intrinsic constraint and persists across time** within a Unified Experiential Field (UEF). This document distinguishes resolution that merely occurs from resolution that is **owned** and **carried forward**, thereby preventing observer/agency creep in explanatory language while leaving all physical description intact.
 
 ---
 
-## **1. The Source of the Confusion**
+## **1. The Shared Shape That Causes Confusion**
 
-Two domains routinely employ overlapping language:
+Many systems—simple and complex—exhibit the same abstract pattern:
 
-**Physics speaks of**
+1. A system occupies a state that permits **multiple admissible continuations**.
+2. A transition occurs.
+3. One continuation becomes actual; others do not.
 
-* branching futures
-* collapse
-* measurement
-* observers
+Because this resembles “choice,” it invites a slide:
 
-**Experience speaks of**
+*admissible futures → decision*
+*decision → agent*
+*agent → experience*
 
-* choice
+IER blocks this slide by insisting that **the formal shape alone is not the relevant identity condition**.
+
+---
+
+## **2. Physical Resolution**
+
+### **2.1 What It Is**
+
+**Physical resolution** is the general fact that:
+
+* a system evolves lawfully,
+* from a state with multiple admissible successor trajectories,
+* into one realized successor trajectory.
+
+This is not special. It is the default character of physical evolution wherever:
+
+* multiple microtrajectories are consistent with macroscopic description,
+* chaotic sensitivity amplifies small differences,
+* metastable regimes tip,
+* competitive constraints eliminate alternatives,
+* dissipation locks in a continuation.
+
+No observation, report, or experience is required for any of this.
+
+---
+
+### **2.2 What It Is Not**
+
+Physical resolution is not:
+
 * agency
-* decision
-* “what it’s like”
+* deliberation
+* intention
+* endorsement
+* epistemic access
+* experiential “choosing”
 
-Because both domains involve selection among admissible possibilities, it has been tempting to treat experience as a physical necessity for resolution—or to treat physical resolution as secretly experiential.
-
-> **The overlap in vocabulary tracks a shared structural feature—branching—not a shared ontological layer.**
-
-The confusion persists because the shared structure is real, while the inference to experience is not.
-
----
-
-## **2. Branching and Resolution in Physics**
-
-Many physical systems admit **multiple admissible futures**:
-
-* quantum systems
-* chaotic classical systems
-* bifurcations and phase transitions
-* metastable dynamical regimes
-
-In all such cases:
-
-* one future occurs
-* others do not
-
-This process:
-
-* does **not** require observers
-* does **not** require minds
-* does **not** require experience
-* does **not** require agency
-
-Resolution happens ubiquitously in nature.
+It is simply **lawful continuation under constraint**.
 
 > **Most physical resolution has nothing it is like to be.**
 
 ---
 
-## **3. Why “Observers” Enter Physics at All**
+## **3. Why “Choice” Language Keeps Attaching Itself**
 
-Why, then, does physics ever speak of *observers*?
+The vocabulary of *choice* persists because it is cognitively convenient:
 
-The answer is structural, not metaphysical. Physics lacks an intrinsic notion of:
+* “the system chose X” compresses “X was selected among admissible outcomes”
+* “the system decided” compresses “constraints eliminated alternatives”
+* “the system preferred” compresses “some trajectories were dynamically stable”
 
-* **where resolution is borne**
-* **which system bears the irreversible organizational cost of resolution**
-* **whether resolution persists or dissipates**
+IER permits this language only as **explanatory gloss**, never as ontology.
 
-Historically, *observer* has functioned as a **placeholder** for boundary-setting, coupling, or irreversibility where a structural account of ownership was unavailable.
+When used without discipline, this gloss silently imports:
 
-> **Observer language marks unresolved questions about boundary and cost, not discoveries about consciousness.**
+* agency as a primitive
+* experience as a causal necessity
+* observers as boundary-setters
 
----
-
-## **4. Why Experience Is Not Just “Collapse”**
-
-A necessary boundary:
-
-* Collapse ≠ choice
-* Resolution ≠ agency
-* Branching ≠ experience
-
-Most physical resolutions:
-
-* are settled externally
-* dissipate immediately
-* leave no enduring organizational constraint
-* do not shape future identity
-* do not sustain a continuous present
-
-> **Collapse answers which future occurs; experience concerns what it is like to be the system that must continue after that answer.**
-
-Here, *continuous present* refers to a **dynamical fact of regime continuity**, not a phenomenological report.
+IER’s job here is not to police metaphor; it is to prevent metaphor from becoming a claim.
 
 ---
 
-## **5. Owned Resolution: A Structural Distinction**
+## **4. Owned Resolution**
 
-To dissolve the confusion, we articulate a **purely structural distinction** implicit in IER.
+IER uses “ownership” in a strictly structural way:
 
-### **Unowned Resolution**
+> **Ownership refers to where unavoidable organizational constraint is borne.**
 
-Resolution that is:
+Ownership does **not** mean:
 
-* settled by the environment
-* externally arbitrated
-* organizationally dissipated
-* non-constraining of future identity
+* reflective self-ascription
+* narrative authorship
+* semantic possession
+* endorsement or “taking responsibility”
 
-This is the default mode of physical resolution.
+Ownership means:
+
+* the system cannot offload the cost of resolving its admissible futures,
+* because resolution is borne under **intrinsic constraint** that is system-defining.
+
+A system may undergo countless resolutions that are *unowned*—because the consequences dissipate, externalize, or remain local.
 
 ---
 
-### **Owned Resolution**
+## **5. Persistence Is the Breakpoint**
+
+A single instance of owned resolution is **not** what matters.
+
+The decisive feature is **persistence across time**:
+
+* earlier resolutions remain globally constraining on later dynamics,
+* the system carries forward the organizational consequences,
+* admissible futures narrow cumulatively under the same integrated regime,
+* continuation cannot be reset by external arbitration without regime disruption.
+
+This is how “a present” becomes more than a momentary transition:
+it becomes **temporal continuity under shared intrinsic constraint**.
+
+IER’s Specification defines experience by UEF regime membership; this document merely clarifies why persistence is structurally central once that identity claim is in view.
+
+---
+
+## **6. The Distinction as a Clean Boundary**
+
+We can now state the boundary cleanly:
+
+### **Unowned Resolution (Ubiquitous)**
 
 Resolution that:
 
-* must be borne by the system itself
-* cannot be delegated or offloaded
-* imposes unavoidable organizational cost
-* constrains future admissible trajectories
+* is settled by the environment, buffering, or local dissipation
+* does not impose enduring system-level constraint
+* does not force global continuation under the same integrated regime
 
-> **Ownership here refers strictly to where unavoidable organizational constraint is borne—not to reflection, endorsement, or self-representation.**
-
-Ownership denotes **inevitability under constraint**, not possession or purpose.
+This can be arbitrarily complex and still non-experiential.
 
 ---
 
-## **6. Persistence Is the Breakpoint**
+### **Persistently Owned Resolution (Experiential When It Occurs)**
 
-⭐ **Key idea** ⭐
+Resolution that:
 
-A single instance of owned resolution is **not sufficient** for experience.
+* is borne under intrinsic constraint,
+* is globally integrated (system-level),
+* is temporally continuous (non-zero duration),
+* and persists as an ongoing constraint structure across time.
 
-The decisive factor is **persistence**.
-
-### **The persistence of owned resolution**
-
-Experience requires that:
-
-* the organizational consequences of resolution persist across time
-* past resolutions constrain future ones
-* admissible futures narrow cumulatively
-* a continuous present is maintained
-* identity is carried forward under the **same globally integrated regime**
-
-> **Experience is not about making a choice once.
-> It is about being unable to stop resolving futures within the same system.**
-
-**Clarifications:**
-
-* Persistence is a **necessary structural condition**, not a stand-alone criterion.
-* Persistence does **not** require memory, representation, or narrative storage.
-* It requires only that earlier resolutions remain **globally constraining** on later dynamics **under the same Unified Experiential Field (UEF)**.
-
-This links persistence directly to **UEF temporal continuity** as defined in the Specification.
+When such a regime exists, it is a Unified Experiential Field (UEF) by the Specification’s identity claim.
 
 ---
 
-## **7. Why Biology Matters (Without Mysticism)**
+## **7. Why This Produces “Agency” From the Inside**
 
-Biological systems are not special because they:
+Within a regime of persistent owned resolution:
 
-* observe
-* introduce indeterminism
-* break physical law
-* collapse wavefunctions
+* futures feel narrowing rather than merely branching
+* resolution feels unavoidable rather than optional
+* action feels necessary rather than merely causal
+* “I did that” feels like a structural fact rather than a report
 
-They are special because they:
+Under IER, agency (in the experiential sense) is not a primitive force. It is:
 
-* trap resolution internally
-* prevent dissipation
-* accumulate constraint
-* carry unresolved tension forward
-* maintain global integration across time
+> **the lived structure of resolving intrinsic constraint within a UEF.**
 
-> **Biology doesn’t create choice.
-> It prevents resolution from disappearing.**
-
-This is an organizational fact, not a vitalist one.
+This is compatible with determinism and compatible with indeterminism, because the core distinction is not randomness—it is **intrinsic, globally integrated persistence**.
 
 ---
 
-## **8. Why This Feels Like Agency From the Inside**
+## **8. Epistemic Non-Authority Reminder**
 
-From within a system that persistently owns resolution:
+Because this document touches “choice,” “agency,” and “felt inevitability,” it must reassert the Specification constraint:
 
-* futures feel narrowing
-* resolution feels inevitable
-* action feels non-optional
-* agency feels real
+> **Experiential structure confers no epistemic authority about mind-independent reality.**
 
-Under IER:
+Intensity, urgency, coherence, meaning, and conviction track **constraint organization**, not truth.
 
-> **Agency is not a primitive force.
-> It is the lived structure of persistent owned resolution.**
-
-Experiential structure may feel compelling or authoritative, but—by Specification Principle 10—it confers **no epistemic authority** about mind-independent reality. The feeling of agency tracks **constraint**, not **truth**.
+This prevents a common misuse: treating the felt necessity of resolution as evidence that a belief is correct.
 
 ---
 
-## **9. Dissolving the Quantum Observer Confusion**
+## **9. Scope Limits and Non-Claims**
 
-Revisiting physics with this distinction in place:
+This document does **not** claim that:
 
-* Quantum mechanics correctly models:
-
-  * branching
-  * admissible futures
-  * lawful resolution
-* Confusion arises only when:
-
-  * ownership is misattributed to observation
-  * experiential language is imported without structure
-
-This account:
-
-* removes observers from physics
-* removes physics from experience
-* leaves both intact
-
-> **The mystery was never why physics needs observers.
-> It was why some systems cannot escape being the ones that must continue.**
-
----
-
-## **10. Anti-Misreading Note**
-
-This article does **not** claim that:
-
-* physical collapse is experiential
-* experience causes collapse
-* observers are required for physical resolution
-* quantum systems sometimes feel like something
+* experience causes physical resolution
+* all resolution is experiential
+* physical systems “choose” in any literal sense
+* ownership can be diagnosed from behavior or outputs
+* persistence provides a standalone criterion for experience
 
 It claims only that:
 
-> **Experience is a rare physical regime defined by the persistence of internally owned resolution under globally integrated intrinsic constraint.**
+> **“Resolution” splits into a ubiquitous physical phenomenon and a structurally distinctive experiential phenomenon when (and only when) resolution is persistently borne under globally integrated intrinsic constraint.**
 
 ---
 
-## **11. Conclusion**
+## **10. Conclusion**
 
 The universe resolves futures everywhere.
-Almost all such resolutions vanish.
+Almost all such resolutions vanish into dissipation, buffering, or externalization.
 
-Life is what happens when resolution cannot vanish.
-Experience is what that persistence is like.
+Experience is not what makes resolution happen.
+
+Experience is what a system **is like** when it cannot stop resolving—because the consequences of resolution:
+
+* remain globally binding,
+* remain temporally continuous,
+* and must be carried forward under intrinsic constraint.
 
 ---
 
 ## **Document Placement Note**
 
-This article complements, but does not replace:
+This article is intentionally **upstream and domain-general**.
+
+Domain-specific boundary clarifications (e.g., historical case studies where observer/choice language proliferated) belong elsewhere—for example in:
+
+* `IER-schrodinger.md` (Schrödinger’s cat as a boundary stress test)
+
+This document complements:
 
 * `IER-choice.md`
 * `IER-agency.md`
 * `IER-persistence.md`
-
-For formal graph-theoretic language and regime definitions, see:
-
-* `IER-math.md`
-
-This document introduces **no additional authority** and exists solely to clarify a structural confusion at the physics–experience boundary.
+* `IER-access.md`
 
 ---
 
-**Status:** Final
 **Tier:** 2
 **Canon impact:** Clarificatory only
+**Status:** Stable
+
+---
