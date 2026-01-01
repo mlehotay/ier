@@ -460,16 +460,23 @@ The comparison illustrates that **IER constrains moral reality but does not dete
 
 ## **1. Purpose of This Document**
 
-IER has long asserted that **informational slack prevents experience**.
-In earlier versions, this claim functioned largely as an **explanatory intuition**.
+Informational Experiential Realism (IER) has long asserted that
+**informational slack prevents experience**.
+
+In earlier formulations, this claim functioned primarily as an explanatory intuition:
+systems with sufficient buffering, modularity, or external resolution pathways never instantiate experience.
 
 The purpose of this document is to convert that intuition into a **structural impossibility argument**.
 
-The claim defended here is not that slack *tends* to block experience, or that slack *usually* correlates with non-experiential systems.
+The claim defended here is **not**:
 
-The claim is stronger:
+* that slack *tends* to block experience
+* that slack *usually* correlates with non-experiential systems
+* that slack is an empirical marker or measurable variable
 
-> **If a system admits informational slack, experience is structurally impossible under the IER identity claim.**
+The claim is stronger and purely identity-based:
+
+> **If a physical system admits informational slack, experience is structurally impossible under the IER identity claim.**
 
 This conclusion follows **without appeal** to:
 
@@ -480,7 +487,7 @@ This conclusion follows **without appeal** to:
 * architecture
 * empirical thresholds
 
-The argument is purely organizational and identity-based.
+The argument is organizational, not empirical.
 
 ---
 
@@ -650,19 +657,11 @@ It is **attractors**.
 
 ---
 
-## IER-quantum.md
-
-## **Abstract**
-
-Quantum mechanics describes systems that admit multiple admissible futures while reliably producing single outcomes. Competing interpretations differ not in predictive success, but in how they account for the transition from branching possibility to irreversible fact. Historically, this transition has been associated with *measurement* and *observers*, leading to persistent confusion about the role of experience. This article compares major interpretations of quantum mechanics as responses to the same structural problem: how resolution occurs. Informational Experiential Realism (IER) is introduced not as a physical interpretation, but as a framework that clarifies why observer language repeatedly arises. IER distinguishes **physical resolution**, which is ubiquitous and non-experiential, from **persistent, internally owned resolution**, which characterizes experience. This distinction dissolves observer confusion while leaving quantum mechanics unchanged.
-
----
-
 ## IER-resolution.md
 
 ## **Abstract**
 
-Physics routinely describes systems with multiple admissible futures, while lived experience feels like choosing among possibilities. This resemblance has repeatedly generated confusion—most famously in quantum mechanics—about observers, collapse, and consciousness. This article argues that the similarity is structural but shallow. Experience is not what causes physical resolution. Rather, experience is what a physical system is like when the resolution of its own admissible futures cannot be offloaded, must be borne under **globally integrated intrinsic constraint**, and when the **organizational consequences of resolution persist across time**. Biological systems are distinguished not by indeterminism or observation, but by the **persistence of internally owned resolution**.
+Physical systems routinely undergo transitions in which multiple futures are physically admissible and one is realized. Lived experience also feels like moving through possibilities into irrevocable outcomes—often as “choice,” “decision,” or “agency.” Because both involve selection among alternatives, it is tempting to treat experience as a special kind of physical resolution, or to treat physical resolution as proto-agency. Under Informational Experiential Realism (IER), this inference is structurally unsupported. Experience is not what causes physical resolution. Rather, experience is what a physical system is like **when the resolution of its own admissible futures is borne under globally integrated intrinsic constraint and persists across time** within a Unified Experiential Field (UEF). This document distinguishes resolution that merely occurs from resolution that is **owned** and **carried forward**, thereby preventing observer/agency creep in explanatory language while leaving all physical description intact.
 
 ---
 
@@ -699,3 +698,20 @@ It:
 Its purpose is to catalog the **canonical dilemmas of moral philosophy** and show that, under Informational Experiential Realism (IER), they are not independent paradoxes but **recurrent expressions of a single structural misframing**.
 
 If any interpretation here conflicts with the Specification, the Specification takes precedence and the conflicting interpretation is void.
+
+---
+
+## IER-insight.md
+
+## **Abstract**
+
+Experiences described as *insight*, *sudden understanding*, or *“figuring it out”* are often treated as moments of epistemic breakthrough, revelation, or privileged access to reality. These interpretations are structurally unsupported under Informational Experiential Realism (IER v10.8).
+
+This document provides a non-epistemic account of insight as a **sudden reorganization of intrinsic constraint** within an already-existing Unified Experiential Field (UEF). Insight is shown to involve a reduction in organizational distance between participating processes, producing heightened coherence, narrowed admissible futures, and a strong feeling of correctness — without introducing new information, representations, or truths.
+
+The document explains why insight can be **stabilizing or destabilizing**, how it interacts with buffering capacity, and why unbuffered insight can precipitate panic, autonomic collapse, or psychotic regime formation. Throughout, the analysis preserves IER’s strict separation between experiential coherence and epistemic authority.
+
+Insight reorganizes experience.
+It does not disclose reality.
+
+---

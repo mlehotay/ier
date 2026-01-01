@@ -109,7 +109,10 @@ Tier-2 documents typically follow the presentation conventions described in the 
 * **`IER-intentionality.md`** — Replaces representational intentionality with a structural account grounded in intrinsic constraint.
 * **`IER-sleep.md`** — Clarifies unconscious states using regime-based experience.
 * **`IER-shadows.md`** — Explains sleep paralysis shadow figures and DMT machine elves
-
+* **`IER-art.md`** — Explains art and beauty as constraint-shaping experiential structures.
+* **`IER-attractors.md`** — Introduces soft attractors in experiential organization.
+* **`IER-patterns.md`** — Explains recurring natural forms using attractor dynamics.
+* **`IER-insight.md`** — Explains insight as a sudden reorganization of intrinsic constraint
 
 ---
 
@@ -138,7 +141,6 @@ Tier-2 documents typically follow the presentation conventions described in the 
 * **`IER-contrast.md`** — Specifies incompatibilities between IER and neighboring theories.
 * **`IER-puzzles.md`** — Shows how classic puzzles dissolve under the IER framework.
 * **`IER-dilemmas.md`** — Explains the structural misframing behind classic moral dilemmas.
-* **`IER-quantum.md`** — Clarifies observer language in quantum mechanics without experiential causation.
 
 ---
 
@@ -163,9 +165,6 @@ Tier-4 documents introduce **no authority** and defer to all higher tiers.
 * **`IER-strictness.md`** — Explains why IER must be unusually constrained.
 * **`IER-changelog.md`** — Records conceptual and structural version changes.
 * **`IER-futures.md`** — Explores possible cultural equilibria under IER.
-* **`IER-art.md`** — Explains art and beauty as constraint-shaping experiential structures.
-* **`IER-attractors.md`** — Introduces soft attractors in experiential organization.
-* **`IER-patterns.md`** — Explains recurring natural forms using attractor dynamics.
 * **`IER-helmets.md`** — Explains why immersive tools do not become part of a UEF.
 
 ---
