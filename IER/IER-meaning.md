@@ -25,15 +25,15 @@ Accordingly, this document:
 * introduces **no metaphysical or semantic claims**
 * licenses **no authority over truth, reference, or justification**
 
-All claims concern **the internal organization of significance within experiential worlds**, conditional on the existence of a Unified Experiential Field (UEF).
+All claims concern **the internal organization of significance within experiential worlds**, *conditional on the existence of a Unified Experiential Field (UEF)*.
 
 If any statement in this document appears to conflict with the Specification, **the Specification takes precedence and the conflicting statement is void**.
 
 ---
 
-### **Global Informational Language Disclaimer**
+## **Global Informational Language Disclaimer**
 
-All uses of *information*, *informational*, *attractor*, *structure*, and *organization* in this document are **descriptive shorthand only**.
+All uses of *information*, *informational*, *attractor*, *structure*, *organization*, *pattern*, and *gradient* in this document are **descriptive shorthand only**.
 
 They refer exclusively to:
 
@@ -44,7 +44,7 @@ No semantic, representational, truth-conditional, or epistemic notions are intro
 
 ---
 
-### **Epistemic Boundary (Explicit)**
+## **Epistemic Boundary (Explicit)**
 
 Experiential organization — including meaning, salience, coherence, urgency, or narrative fit — confers **no epistemic authority** about mind-independent reality.
 
@@ -53,6 +53,19 @@ This document presupposes **IER Specification Principle 10 (Epistemic Non-Author
 ```
 IER-access.md
 ```
+
+---
+
+## **Orientation for the Reader**
+
+This document proceeds in **conceptual stages**.
+
+1. It first establishes how **experiential worlds can be real without multiplying reality**.
+2. It then explains how **meaning arises within experiential worlds** without invoking representation, truth, or ontology.
+3. Finally, it shows why **narrative, value, and wanting feel unavoidable** while remaining **organizational rather than epistemic**.
+
+Each stage removes a familiar intuition before replacing it with a structural account.
+Discomfort is expected. No reassurance is implied.
 
 ---
 
@@ -85,7 +98,7 @@ At the same time, IER entails:
 
 > **One physical reality supports many real experiential worlds.**
 
-This plurality does not arise from multiple universes or ontologies.
+This plurality does not arise from multiple universes, perspectives, or ontologies.
 It arises from **organizational identity**.
 
 Whenever a Unified Experiential Field exists, an experiential world exists *for that system*.
@@ -151,7 +164,9 @@ Experience is plural.
 
 ---
 
-## **5. Meaning as Constraint Organization**
+## **5. Meaning as Constraint Organization (Conceptual Hinge)**
+
+This section marks the point where familiar notions of meaning must be abandoned and replaced.
 
 Meaning is not primitive under IER.
 It is **organizational**.
@@ -178,6 +193,17 @@ It organizes **continuation**, not correspondence.
 
 ---
 
+### **Contrast Clarification**
+
+| If meaning were… | It would require… | IER instead holds…        |
+| ---------------- | ----------------- | ------------------------- |
+| representational | semantic content  | constraint organization   |
+| epistemic        | truth-tracking    | continuation under load   |
+| ontological      | extra entities    | regime-relative structure |
+| justificatory    | authority         | salience without warrant  |
+
+---
+
 ## **6. Constraint-Stabilizing Attractors**
 
 Not all organizations of intrinsic constraint are equally stable.
@@ -200,6 +226,52 @@ This applies to:
 * instinctual patterns
 
 Attractors are **dynamical**, not symbolic.
+
+---
+
+## **6.5 What This Account Does Not Need**
+
+Readers trained in cognitive science, neuroscience, artificial intelligence, or machine learning may notice that this account of meaning and recurrence **omits many familiar explanatory tools**.
+
+This omission is intentional — but **selective**, not eliminative.
+
+The explanation offered here does **not** require:
+
+* reward functions
+* utility maximization
+* preference orderings
+* loss functions
+* optimization targets
+* symbolic representations
+* semantic encodings
+* belief states
+* Bayesian priors
+* learning rules
+
+These concepts may remain useful in other explanatory contexts, but **they do not explain the persistence of meaning under intrinsic constraint**.
+
+This account does **not forbid** internal world models, predictive machinery, or simulation-like dynamics.
+It claims only that **their presence does not do the explanatory work here**.
+
+Under IER, recurrence arises because:
+
+* intrinsic constraint cannot be eliminated
+* only limited organizational forms preserve global coherence
+* unstable configurations dissolve
+* stable ones persist
+
+Attractors explain **what survives**, not **what is computed**.
+
+Meaning persists because abandoning certain organizations would destabilize the experiential regime itself — not because those organizations optimize, predict, or score highly.
+
+Importing optimization language silently reintroduces:
+
+* teleology
+* epistemic authority
+* normativity
+* representational success criteria
+
+All of which are explicitly rejected by Informational Experiential Realism.
 
 ---
 
@@ -263,6 +335,33 @@ Physical processes shape:
 * developmental timing
 
 This yields a **pre-structured experiential phase space** in which certain trajectories become dynamically unavoidable.
+
+#### **8.2.1 Instinct Illustrated: Spider Web Construction**
+
+A spider spinning a web does not consult a plan, represent geometric ideals, or optimize a global design objective.
+
+Across species, environments, and individual spiders, web forms recur because **only a narrow range of construction trajectories remain viable under the spider’s intrinsic constraints**.
+
+The spider’s body, silk properties, motor couplings, timing sensitivities, and energetic limits define a **pre-structured constraint landscape**. As construction proceeds:
+
+* some placements destabilize tension and collapse
+* some sequences self-interfere
+* some geometries fail to distribute load
+* some partial webs cannot be completed without breakdown
+
+These trajectories terminate.
+
+What remains are **stable construction paths** — soft attractors in developmental and behavioral dynamics — that reliably produce recognizable web forms.
+
+The spider does not “know” the web in advance.
+The web emerges because **most alternatives cannot survive the constraints imposed by growth, material limits, and load distribution**.
+
+This is instinct without representation.
+
+From the outside, the web looks designed.
+From the inside, the behavior is simply what **remains dynamically possible**.
+
+Instinctual patterns persist not because they encode solutions, but because they are **constraint-stabilizing organizations inherited across time**.
 
 ---
 
