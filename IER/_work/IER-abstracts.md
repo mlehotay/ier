@@ -782,3 +782,59 @@ All authority, constraints, and interpretive rules are defined **exclusively** i
 This manifest is **descriptive**, not normative.
 
 ---
+
+## IER-glossary.md
+
+## **Status and Scope**
+
+This glossary provides **canon-constrained definitions** of the **core terms used throughout the Informational Experiential Realism (IER)** corpus.
+
+It is:
+
+* **Tier-4 only** — explanatory and non-authoritative
+* **Purely referential** — no new claims, criteria, or implications
+* **Restrictive by design** — intended to block misreadings and imported meanings
+
+All definitions defer **exclusively** to Tier-1 canonical documents.
+If any entry here appears to conflict with a Tier-1 document, the Tier-1 document takes precedence and this entry is void.
+
+This glossary explains **how terms are used in IER**, not how they are used elsewhere.
+
+---
+
+## IER-index.md
+
+## **Status and Scope**
+
+This index provides a **concept-to-location map** for the **core terms used throughout the Informational Experiential Realism (IER)** corpus.
+
+It is:
+
+* **Tier-4 only** — explanatory and non-authoritative
+* **Purely navigational** — no definitions, arguments, or interpretations
+* **Canon-constrained** — references only existing canonical usage
+
+The index:
+
+* does **not** introduce concepts
+* does **not** assign importance or weight
+* does **not** replace the glossary
+
+**Normative authority is always determined by document tier, not by frequency of mention.**
+
+If a reference here appears inconsistent with a Tier-1 document, the Tier-1 document takes precedence and this index entry is void.
+
+---
+
+## IER-future-work.md
+
+## **Status**
+
+This document is **non-canonical** and **non-authoritative**.
+
+It records **articulation, navigation, clarity, and maintenance tasks** for the IER corpus after **normative closure (v10.8)** and **corpus completion (v10.8.1)**.
+
+It introduces **no ontological, criterial, epistemic, or ethical claims**
+and does **not** signal intended changes to the IER framework.
+
+---

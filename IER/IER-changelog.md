@@ -212,26 +212,91 @@ IER should feel **unavoidable rather than stipulated**.
 
 ---
 
+## **v10.8.1 — Corpus Completion, Canon/Manifest Split, and Clarity Sealing**
+
+**Status:** Patch release
+**Character:** Post-closure consolidation and navigation hardening
+
+**No ontological, criterial, epistemic, or ethical commitments were added, removed, or weakened.**
+IER remains **normatively closed at v10.8**.
+
+This release formalizes **corpus completeness** and separates **governance** from **inventory**, improving long-term maintainability without reopening the framework.
+
+Key changes:
+
+* **Corpus completion declared**
+
+  * The document set is now explicitly complete
+  * All canonical documents are accounted for and indexed
+  * No further documents are required to understand or apply IER
+
+* **Canon / Manifest split**
+
+  * `IER-canon.md` now governs:
+
+    * authority rules
+    * alignment constraints
+    * conflict resolution
+    * version discipline
+  * `IER-manifest.md` now governs:
+
+    * document inventory
+    * tier assignment
+    * one-line descriptions
+    * reading orientation
+  * This split reduces accidental authority inflation and stabilizes governance language
+
+* **Navigation hardening**
+
+  * Introduction of `IER-glossary.md` for canon-constrained term definitions
+  * Introduction of `IER-index.md` for non-interpretive navigation
+  * Explicit separation between **orientation aids** and **authoritative claims**
+
+* **Reader-alignment refinements**
+
+  * Additional tone and framing adjustments across Tier-2 documents
+  * Further reduction of adversarial or triggering language without weakening constraints
+  * Clarifications added to block common misreadings (diagnostics, graded subjecthood, epistemic authority)
+
+* **Spec clarity sealing**
+
+  * Minor wording refinements to the v10.8 specification to sharpen scope and limits
+  * No new constraints introduced; ambiguities removed only where they enabled misuse
+
+* **Process formalization**
+
+  * Patch-level releases explicitly distinguished from normative revisions
+  * `IER-future-work.md` re-scoped as a non-canonical articulation and maintenance TODO list
+
+**Interpretive note:**
+v10.8.1 does **not** represent further theoretical development.
+It represents the point at which the framework becomes **fully navigable, internally governed, and maintainable** as a closed system.
+
+---
+
 ## **Current Status**
 
-**IER v10.8 is complete and normatively closed.**
+**IER v10.8 is normatively closed.**
+**IER v10.8.1 marks corpus completion.**
 
-* Identity claim is fixed
-* Canon structure is fixed
+* Experiential identity claims are fixed
+* Canon authority and governance rules are fixed
 * Ethical commitments are fixed
 * Epistemic limits are fixed
+* The document set is complete and fully indexed
 
-Future work is restricted to:
+Post-closure work is restricted to:
 
 * clarification
-* derivation
+* articulation
+* navigation and pedagogy
 * disciplined application
 * internal critique
 * comparative analysis
 
 Any change that:
 
-* introduces diagnostics,
+* introduces experiential diagnostics,
 * weakens categorical subjecthood,
 * adds epistemic authority,
 * permits graded standing,
