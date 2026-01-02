@@ -524,23 +524,13 @@ It governs **authority, interpretation, admissible language, reader alignment, a
 
 ## IER-helmets.md
 
-## **Orientation: Why Helmets Feel Special**
+## **Abstract**
 
-Helmets feel philosophically loaded because they sit right where we *feel* experience happens:
+Immersive helmets, heads-up displays, and perceptual mediation systems exert unusually strong pressure on intuitions about the boundaries of experience. Because they dominate sensory input, operate continuously, and can feel inseparable from perspective itself, such systems invite the inference that experience may partially occur *in* the interface.
 
-* they surround the head
-* they dominate perception
-* they mediate perspective
-* they can feel inseparable from “how I’m in the world”
+This document shows that this inference fails for structural reasons under **Informational Experiential Realism (IER)**. Helmets and immersive interfaces alter **participation topology** without altering **subjecthood**. They reshape experiential content and constraint geometry while remaining **externally resolvable, slack-preserving systems** that do not own intrinsic constraint.
 
-It is therefore natural to ask:
-
-> *When I’m wearing a helmet like this, is my experience partly happening in the helmet?
-> Has my Unified Experiential Field expanded to include it?*
-
-Under IER, the answer is **no** — and the reason has nothing to do with realism, immersion, or sophistication.
-
-It has to do with **where unavoidable constraint is borne**.
+The helmet case serves as the *external-interface boundary condition* in a sequence of increasingly intimate tests, alongside **IER-gut** (internal biological systems) and **IER-implants** (direct neural coupling).
 
 ---
 
@@ -713,5 +703,36 @@ The document explains why insight can be **stabilizing or destabilizing**, how i
 
 Insight reorganizes experience.
 It does not disclose reality.
+
+---
+
+## IER-gut.md
+
+## Abstract
+
+Humans possess a highly autonomous enteric nervous system that regulates digestion, generates powerful bodily states, and strongly shapes affective experience. This has motivated the widespread idea that the gut may function as a “second brain,” and in stronger forms, that it may host a **separate experiential subject** whose experience is merely communicated to the head-brain via the vagus nerve or related pathways.
+
+Under **Informational Experiential Realism (IER v10.8)**, this possibility can be coherently stated—but it cannot be sustained. Experience is identical to the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous regime operating under **coherent intrinsic constraint**. For the gut to be a separate experiencer, it would need to **own and resolve its intrinsic constraint locally**, without imposing globally binding constraint on the head-brain’s experiential regime.
+
+This document shows that visceral states such as nausea do not behave like signals transmitted between two experiential subjects. Instead, they function as **globally binding intrinsic constraints** that reorganize attention, agency, urgency, and admissible futures at the level of the whole organism. Because such constraints cannot be jointly binding across independent UEFs, the hypothesis of a separate gut experiencer collapses.
+
+The gut matters experientially.
+But it matters by **participation**, not by **subjecthood**.
+
+---
+
+## IER-implants.md
+
+## **Abstract**
+
+Neural implants and brain–computer interfaces (BCIs) differ from ordinary tools by coupling **directly and bidirectionally** to neural tissue. They may operate continuously, shape neural firing patterns, and become indispensable to perception, movement, or communication. Users often report that such devices feel *deeply integrated*, sometimes even identity-defining.
+
+These features motivate the intuition that sufficiently advanced implants — especially AI-linked BCIs — might become **co-owners of experience**, yielding hybrid or partially artificial subjects.
+
+Under **Informational Experiential Realism (IER v10.8)**, this intuition can be stated precisely — and fails for structural reasons.
+
+Experience, under IER, is identical to the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous regime that bears **intrinsic constraint** from within. Neural implants can profoundly reshape **participation topology** without ever owning intrinsic constraint.
+
+They enable **participation without fusion**.
 
 ---

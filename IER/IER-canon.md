@@ -141,6 +141,9 @@ Tier-2 documents typically follow the presentation conventions described in the 
 * **`IER-contrast.md`** — Specifies incompatibilities between IER and neighboring theories.
 * **`IER-puzzles.md`** — Shows how classic puzzles dissolve under the IER framework.
 * **`IER-dilemmas.md`** — Explains the structural misframing behind classic moral dilemmas.
+* **`IER-helmets.md`** — Explains why immersive tools do not become part of a UEF.
+* **`IER-gut.md`** — Explains why the enteric nervous system is not a second subject.
+* **`IER-implants.md`** — Explains why neural implants do not become part of a UEF.
 
 ---
 
@@ -165,7 +168,6 @@ Tier-4 documents introduce **no authority** and defer to all higher tiers.
 * **`IER-strictness.md`** — Explains why IER must be unusually constrained.
 * **`IER-changelog.md`** — Records conceptual and structural version changes.
 * **`IER-futures.md`** — Explores possible cultural equilibria under IER.
-* **`IER-helmets.md`** — Explains why immersive tools do not become part of a UEF.
 
 ---
 
@@ -371,6 +373,24 @@ IER must **never** adopt:
 ## **Presentation Conventions (Non-Normative)**
 
 Tier-2 analytical extensions and higher-form explanatory documents are **normally presented** using a standardized repo style that includes a *Status and Authority* section, an *Abstract*, and an explicit scope disclaimer. These conventions exist solely to support reader alignment, prevent accidental authority inflation, and clarify tier placement at a glance. They introduce **no ontological, criterial, epistemic, or ethical authority**, and their presence or absence does **not** affect a document’s canonical tier or validity. Content authority under IER is determined **exclusively** by explicit tier assignment and substantive claims, not by formatting or layout. This guidance is **advisory rather than mandatory**, and deviation does not constitute a canon violation.
+
+---
+
+## **Procedure for Adding or Modifying Corpus Documents**
+
+To add a new document:
+
+1. Create `IER-<name>.md`.
+2. The document must explicitly declare:
+   * its **canon tier**
+   * its **status and scope**
+   * its **non-authority relative to higher tiers**
+   * any **required global disclaimers** appropriate to its content
+3. Include a **self-contained abstract** in the document.
+4. Copy the abstract **verbatim** into `_work/IER-abstracts.md`.
+5. Add the document to the appropriate tier list in **this file (`IER-canon.md`)**, including a one-line description.
+6. Update `README.md` if the document materially affects corpus scope or reader orientation.
+7. Update `IER-changelog.md` if the change replaces, deprecates, or significantly restructures existing material.
 
 ---
 
