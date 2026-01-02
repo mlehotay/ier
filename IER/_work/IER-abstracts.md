@@ -504,21 +504,13 @@ It does **not** enumerate minor edits, typo fixes, naming cleanups, or purely ed
 
 ## **Status and Purpose**
 
-This document defines the **canonical structure, authority tiers, interpretive rules, global alignment constraints, and official file index** governing the **Informational Experiential Realism (IER)** corpus as of **version 10.8**.
+This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** corpus as of **version 10.8.1**.
 
-It specifies:
+It introduces **no ontological, criterial, epistemic, or ethical claims**.
 
-1. Which documents are **ontologically and normatively authoritative**
-2. Which documents are **canon-constrained analytical extensions**
-3. Which documents are **restrictive or misuse-blocking**
-4. Which documents are **explanatory, pedagogical, or speculative**
-5. The **global alignment rules** that apply across *all* tiers
-6. How conflicts, ambiguities, and apparent tensions are resolved
-7. The **complete, authoritative list of files in the IER corpus**, with brief descriptions
+It governs **how documents relate to one another**, not what the theory claims.
 
-This document introduces **no new ontological, criterial, epistemic, or ethical claims**.
-
-It governs **authority, interpretation, admissible language, reader alignment, and corpus structure**, not theory content.
+**Document inventories, tier assignments, and reading paths are defined separately in `IER-Manifest.md`.**
 
 ---
 
@@ -772,5 +764,21 @@ Human social life exhibits a persistent and puzzling regularity: people appear t
 Under **Informational Experiential Realism (IER)**, this phenomenon does not reflect hidden essences, stored personality traits, or internal labels. Instead, it arises from **soft attractors in experiential organization**: dynamically stable ways **Unified Experiential Fields (UEFs)** resolve intrinsic constraint over time and across social contexts.
 
 This article explains how apparent human “types” emerge from **attractor-based clustering** in experiential dynamics, why the number of recognizable types is small, why such judgments feel inevitable, and why they are **organizationally real yet epistemically unreliable**. The account introduces no new primitives, criteria, diagnostics, or ethical permissions, and preserves IER’s strict separation between structural explanation and moral justification.
+
+---
+
+## IER-manifest.md
+
+## **Status and Authority**
+
+This document defines the **official inventory of documents**, their **canon tier assignments**, and **brief descriptive summaries** for the **Informational Experiential Realism (IER)** corpus as of **v10.8.1**.
+
+It introduces **no ontological, criterial, epistemic, or ethical claims**.
+
+All authority, constraints, and interpretive rules are defined **exclusively** in:
+
+> **`IER-canon.md`**
+
+This manifest is **descriptive**, not normative.
 
 ---

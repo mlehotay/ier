@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.8)**
+# **Informational Experiential Realism (IER v10.8.1)**
 
 **A physicalist identity framework for experience, agency, and moral standing**
 
@@ -36,7 +36,7 @@ This repository contains a **complete, internally governed framework**, includin
 * ethical consequences that follow *by identity*
 * strict limits on diagnostics, testing, and misuse
 * extensive boundary work, critique, and applications
-* governance and reader-alignment documents
+* governance, alignment, and navigation documents
 
 The corpus is intentionally **strict**, **non-intuitive**, and **ethically serious**.
 
@@ -52,14 +52,31 @@ The **sole normative authority** in IER is:
 IER/IER-specification.md   (v10.8)
 ```
 
-Document roles, tiers, conflict-resolution rules, and the **authoritative file index** are defined in:
+Canon rules, authority discipline, conflict resolution, and versioning are defined in:
 
 ```
 IER/IER-canon.md
 ```
 
+The complete document inventory, tier assignments, and reading orientation are defined in:
+
+```
+IER/IER-manifest.md
+```
+
 If anything you read elsewhere appears to conflict,
 **the canon governs**.
+
+---
+
+## How to Navigate the Corpus
+
+If you encounter unfamiliar terminology:
+
+* **`IER-glossary.md`** — Canon-constrained definitions of core terms
+* **`IER-index.md`** — Navigational index of concepts and where they are developed
+
+Both are **non-authoritative** aids and introduce no new claims.
 
 ---
 
@@ -116,7 +133,7 @@ Related boundary work:
 
 ### 🧱 Structural Minimalism & Hard Constraints
 
-For readers who want the framework in its most stripped-down, non-phenomenological form:
+For the framework in its most stripped-down form:
 
 1. [`IER-specification.md`](./IER-specification.md)
 2. [`IER-theory.md`](./IER-theory.md)
@@ -132,7 +149,7 @@ Optional cross-domain structure:
 
 ### 🔄 Dynamics, Systems, and Formal Structure
 
-For regimes, stability, and constraint behavior once experience exists:
+For regimes, stability, and constraint behavior:
 
 * [`IER-dynamics.md`](./IER-dynamics.md)
 * [`IER-math.md`](./IER-math.md)
@@ -160,8 +177,6 @@ For how diverse experiences fit the same identity claim:
 
 *(Without Epistemic Authority)*
 
-For readers concerned that IER explains experience away:
-
 1. [`IER-specification.md`](./IER-specification.md)
 2. [`IER-access.md`](./IER-access.md)
 3. [`IER-emotions.md`](./IER-emotions.md)
@@ -178,8 +193,6 @@ Optional edge cases:
 
 ### 🧭 Meaning, Agency, and Action
 
-For choice, agency, and why experience feels purposeful without epistemic privilege:
-
 * [`IER-agency.md`](./IER-agency.md)
 * [`IER-choice.md`](./IER-choice.md)
 * [`IER-free-will.md`](./IER-free-will.md)
@@ -191,8 +204,6 @@ For choice, agency, and why experience feels purposeful without epistemic privil
 ---
 
 ### 🎨 Culture, Art, and Structural Recurrence
-
-For non-representational accounts of culture, aesthetics, and recurring form:
 
 * [`IER-patterns.md`](./IER-patterns.md)
 * [`IER-art.md`](./IER-art.md)
@@ -233,8 +244,12 @@ Confusion, discomfort, or disagreement are expected consequences of a strong fra
 
 ## Version
 
-This repository reflects **IER v10.8**.
-Minor versions clarify; major revisions require explicit canon updates.
+This repository reflects **IER v10.8.1**.
+
+* **v10.8** — normative closure
+* **v10.8.1** — corpus completion (glossary, index, sealed clarity)
+
+Minor versions clarify; changes to normative authority require explicit canon updates.
 
 ---
 
