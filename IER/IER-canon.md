@@ -100,26 +100,27 @@ Tier-2 documents typically follow the presentation conventions described in the 
 
 * **`IER-continuity.md`** — Explains how experiential gaps coexist with identity persistence under regime-based experience.
 * **`IER-persistence.md`** — Accounts for deep experiential change without violating categorical subjecthood.
-* **`IER-brainfeels.md`** — Analyzes endogenous qualitative experiences as intrinsic-constraint stabilizers.
+* **`IER-brainfeels.md`** — Analyzes endogenous, non-representational qualitative experiences as intrinsic-constraint stabilizers.
 * **`IER-aphantasia.md`** — Interprets aphantasic phenomenology as a coherent experiential architecture.
 * **`IER-emotions.md`** — Explains emotions as stable organizations of intrinsic constraint.
 * **`IER-panic.md`** — Reinterprets panic and shutdown as regime-preserving or regime-abandoning responses.
 * **`IER-psychosis.md`** — Describes psychosis as a pathological regime within a persisting UEF.
 * **`IER-meaning.md`** — Explains meaning as a constraint-stabilizing organizational phenomenon.
 * **`IER-intentionality.md`** — Replaces representational intentionality with a structural account grounded in intrinsic constraint.
-* **`IER-sleep.md`** — Clarifies unconscious states using regime-based experience.
-* **`IER-shadows.md`** — Explains sleep paralysis shadow figures and DMT machine elves
+* **`IER-sleep.md`** — Clarifies unconscious states using regime-based experience and experiential regime continuity.
+* **`IER-shadows.md`** — Explains shadow figures and DMT entities as constraint-stabilizing soft attractors under extreme intrinsic constraint.
 * **`IER-art.md`** — Explains art and beauty as constraint-shaping experiential structures.
-* **`IER-attractors.md`** — Introduces soft attractors in experiential organization.
 * **`IER-patterns.md`** — Explains recurring natural forms using attractor dynamics.
+* **`IER-attractors.md`** — Introduces soft attractors in experiential organization.
 * **`IER-insight.md`** — Explains insight as a sudden reorganization of intrinsic constraint
+* **`IER-types.md`** — Explains personality types as attractor-based clustering
 
 ---
 
 ### **Agency, Choice, and Action**
 
 * **`IER-agency.md`** — Defines agency as owned resolution of intrinsic constraint within a UEF.
-* **`IER-choice.md`** — Introduces Choice Spaces as structured sets of admissible futures.
+* **`IER-choice.md`** — Introduces Choice Spaces as structured sets of admissible futures whose traversal constitutes choice only within a UEF.
 * **`IER-free-will.md`** — Dissolves the free-will debate by separating determinism from ownership.
 * **`IER-access.md`** — Clarifies the separation between experiential access and epistemic authority.
 * **`IER-slack.md`** — Argues that informational slack structurally prevents experience under IER.
@@ -143,9 +144,10 @@ Tier-2 documents typically follow the presentation conventions described in the 
 * **`IER-dilemmas.md`** — Explains the structural misframing behind classic moral dilemmas.
 * **`IER-helmets.md`** — Explains why immersive tools do not become part of a UEF.
 * **`IER-gut.md`** — Explains why the enteric nervous system is not a second subject.
-* **`IER-implants.md`** — Explains why neural implants do not become part of a UEF.
+* **`IER-implants.md`** — Explains why neural implants reshape participation without becoming co-owners of a UEF.
+* **`IER-traditions.md`** — Examines major religions by how they influence UEF constraint.
 
----
+ ---
 
 ## **Tier 3 — Diagnostic and Constraint-Enforcing Documents**
 
@@ -173,7 +175,7 @@ Tier-4 documents introduce **no authority** and defer to all higher tiers.
 
 ## **Non-Canonical Work and Planning**
 
-* **`_work/abstracts.md`** — Central source of abstracts for corpus documents.
+* **`_work/IER-abstracts.md`** — Central source of abstracts for corpus documents.
 * **`_work/IER-future-work.md`** — Non-canonical planning notes for possible future extensions.
 
 ---

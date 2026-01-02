@@ -31,10 +31,11 @@ If any statement in this document conflicts with those texts, the conflict is re
 
 ## **Purpose and Orientation**
 
-This article examines several historically influential ethical–attentional traditions commonly grouped as the **“major world religions”**:
+This article examines several historically influential ethical–attentional traditions commonly grouped as the **“major world traditions”**:
 
 * Hinduism
 * Buddhism
+* Confucianism
 * Judaism
 * Christianity
 * Islam
@@ -45,7 +46,7 @@ Instead, the article asks a narrower structural question:
 
 > **How do different traditions manage intrinsic constraint within individuals embedded in large, non-experiential social systems?**
 
-Under **Informational Experiential Realism (IER)**, traditions are analyzed solely by **how they shape, justify, buffer, neutralize, or limit intrinsic constraint** within individual Unified Experiential Fields (UEFs).
+Under **Informational Experiential Realism (IER)**, traditions are analyzed solely by **how they shape, justify, buffer, neutralize, or limit intrinsic constraint** within individual **Unified Experiential Fields (UEFs)**.
 
 No claims are made about truth, salvation, revelation, or correctness.
 
@@ -64,24 +65,7 @@ No semantic, representational, epistemic, or agentive primitives are introduced.
 
 ## **I. Shared Problem Space: Constraint Under Coordination**
 
-### **I.1 Social Systems Without Collective Experience**
-
-Under IER:
-
-* social systems do **not** instantiate Unified Experiential Fields
-* institutions do **not** experience harm or benefit
-* coordination occurs without collective subjecthood
-
-Institutions **apply** constraint.
-Individuals **bear** constraint.
-
-Harm occurs **inside individual UEFs**, even when its source is diffuse, lawful, or impersonal.
-
-This analysis builds directly on **IER–Social Systems**.
-
----
-
-### **I.2 Traditions as Historical Constraint Technologies**
+In IER, **harm and benefit are always borne by individuals**, even when constraints originate from large-scale social or institutional structures.
 
 Across cultures, ethical and religious traditions emerge under recurring pressures:
 
@@ -97,7 +81,7 @@ This framing treats traditions neither as errors nor revelations, but as **respo
 
 ---
 
-## **II. A Structural Taxonomy of Constraint Strategies**
+## **II. Structural Taxonomy of Constraint Strategies**
 
 IER reveals a small number of **recurring constraint-management strategies** that appear across cultures.
 
@@ -110,126 +94,181 @@ This document uses the following neutral categories:
 
 These categories are **descriptive**, not evaluative.
 
+> Constraint-management strategies are **not mutually exclusive**.
+> Multiple strategies may coexist within a single life, community, or tradition, shifting by context, role, and historical moment.
+
 ---
 
-## **III. The Five Traditions Under IER**
+### **Internal Plurality Notice**
+
+Each tradition discussed below contains multiple ethical schools, historical phases, reform movements, mystical currents, and internal critiques.
+
+The structural features identified here are **not exhaustive** and do not represent all lived expressions of these traditions.
+They reflect **historically influential constraint-management patterns that recur at scale**, not total descriptions of belief or practice.
+
+---
+
+### **Risk Clarification**
+
+In this document, **“primary risk”** refers to a **structural failure mode under specific conditions**, not an inevitable or typical outcome of participation in the tradition.
+
+---
+
+## **III. The Traditions Under IER**
+
+---
 
 ### **III.1 Hinduism — Cosmic Role Stabilization**
 
-Reference text: **Bhagavad Gītā**
+**Reference text:** *Bhagavad Gītā*
+*(as a representative articulation of role-centered ethics)*
 
-Structural features:
+**Structural features**
 
 * externally defined role (*dharma*)
 * detachment from outcomes
-* cosmic justification of action
-* moral laundering via necessity
+* appeal to overarching cosmic order
+* moral permissioning of harm via necessity
 
 **IER reading**
 
 Hindu role ethics function as a powerful **role-stabilization framework**. They preserve large-scale order by encouraging individuals to internalize externally imposed constraint as morally required.
 
-Under IER, the primary risk is:
+**Primary structural risk**
 
-> **Harm neutralized by duty.**
+> **Harm rendered morally permissible by duty.**
 
-Experiential overload and irreversible damage can be justified when framed as necessary participation in cosmic order.
+Experiential overload or irreversible damage may be treated as necessary participation in a cosmic order rather than as preventable harm.
+
+This analysis does not address devotional, liberation-oriented, or anti-duty traditions that explicitly resist or reinterpret role obligation.
 
 ---
 
 ### **III.2 Buddhism — Constraint Hygiene**
 
-Reference figure: **Gautama Buddha**
+**Reference figure:** Gautama Buddha
 
-Structural features:
+**Structural features**
 
 * non-theistic orientation
 * non-aggregative ethics
 * permission to withdraw
 * attention paired with restraint
-* no cosmic moral laundering
+* refusal of justification by overarching cosmic order
 
 **IER reading**
 
-Buddhism exemplifies **constraint hygiene**: practices designed to limit participation in harm and reduce intrinsic overload without appealing to institutional authority or cosmic justification.
+Buddhism exemplifies **constraint hygiene**: practices designed to reduce participation in harm and limit intrinsic overload without appealing to institutional authority or metaphysical justification.
 
-Under IER, the primary risk is:
+**Primary structural risk**
 
 > **Withdrawal without reform.**
 
-Harm may be avoided personally while leaving harmful systems intact.
+Harm may be avoided at the level of individual participation while structurally harmful systems remain intact.
+
+This does not preclude engaged, reformist, or socially transformative Buddhist traditions.
 
 ---
 
-### **III.3 Judaism — Law-Bound Constraint Governance**
+### **III.3 Confucianism — Relational Role Stabilization**
 
-Reference text: **Torah**
+**Reference figure:** **Confucius**
 
-Structural features:
+**Structural features**
+
+* role-defined identity within relationships
+* ritualized behavior (*li*)
+* hierarchy and reciprocity
+* moral cultivation through social harmony
+* minimal reliance on cosmic or transcendent justification
+
+**IER reading**
+
+Confucian ethics function as a **role-stabilization framework grounded in relational coherence rather than cosmic order**. Constraint is managed by aligning behavior across family, ritual, governance, and education, reducing conflict through shared expectations and reciprocal obligation.
+
+**Primary structural risk**
+
+> **Constraint masking in the name of harmony.**
+
+When harmony is prioritized, experiential overload or harm may be absorbed, concealed, or morally deferred in order to preserve relational stability and social continuity.
+
+This analysis does not address later metaphysical Confucian developments or reformist reinterpretations emphasizing dissent or moral rupture.
+
+---
+
+### **III.4 Judaism — Law-Bound Constraint Governance**
+
+**Reference text:** Torah
+
+**Structural features**
 
 * covenantal obligation rather than cosmic order
 * law-based practice
 * strong limits on authority
 * refusal of moral aggregation
-* collective practice without collective subjecthood
+* collective practice without experiential collectivization
 
 **IER reading**
 
-Judaism functions as a **constraint-governance framework**: harm is limited by binding rules, procedural accountability, and resistance to moral laundering.
+Judaism functions as a **constraint-governance framework**: harm is limited through binding rules, procedural accountability, and resistance to moral justification via necessity or outcome.
 
-Under IER, the primary risk is:
+**Primary structural risk**
 
 > **Burden persistence.**
 
-Law can preserve order while allowing long-term experiential load to accumulate without release.
+Law can preserve order and prevent acute harm while allowing long-term experiential load to accumulate without mechanisms for full release.
 
 ---
 
-### **III.4 Christianity — Constraint Buffering Through Meaning**
+### **III.5 Christianity — Constraint Buffering Through Meaning**
 
-Reference figure: **Jesus Christ**
+**Reference figure:** Jesus Christ
 
-Structural features:
+**Structural features**
 
 * radical compassion
 * forgiveness
 * categorical individual worth
 * suspicion of institutional moral authority
-* endurance over exit
+* endurance prioritized over exit
 
 **IER reading**
 
 Christian ethics operate primarily as **constraint buffering**: making injustice survivable by supplying meaning, forgiveness, and non-retaliation.
 
-Under IER, the primary risk is:
+**Primary structural risk**
 
 > **Harm endurance.**
 
-Suffering may be absorbed and morally transformed rather than structurally prevented, stabilizing harmful systems through meaning.
+Suffering may be absorbed and morally transformed rather than structurally prevented, unintentionally stabilizing harmful systems through meaning.
+
+This framing does not deny the existence of Christian movements oriented toward institutional reform, resistance, or liberation.
 
 ---
 
-### **III.5 Islam — Law, Submission, and Moral Containment**
+### **III.6 Islam — Law, Alignment, and Moral Containment**
 
-Reference text: **Qur’an**
+**Reference text:** Qur’an
 
-Structural features:
+**Structural features**
 
 * comprehensive law (*sharia*)
-* submission to divine authority
+* submission understood as alignment with divine law
 * clear behavioral boundaries
 * strong role and obligation structure
-* moral containment via coherence
+* moral containment via cross-domain coherence
 
 **IER reading**
 
-Islam represents a **high-coherence role-stabilization system** designed to prevent chaos through tightly structured obligation.
+Islam can be understood, under IER, as a **role-stabilization framework** that emphasizes alignment between moral obligation, social practice, and legal norms. This can reduce fragmentation and uncertainty, while increasing the cost of misalignment.
 
-Under IER, the primary risk is:
+**Primary structural risk**
 
-> **Over-constraining load.**
+> **Constraint overload under misalignment conditions.**
 
-When law conflicts with lived capacity, intrinsic constraint can exceed coherence windows.
+When legal, social, and moral demands are **treated as tightly coupled** while lived capacity or local conditions diverge, intrinsic constraint can spike rapidly and exceed coherence windows.
+
+This analysis does not address interpretive traditions that treat law as **context-sensitive constraint management** rather than fixed role enforcement.
 
 ---
 
@@ -257,7 +296,11 @@ Under IER, many modern mindfulness applications function as **constraint masking
 * productivity preserved
 * institutions stabilized
 
-The primary risk is:
+The popularity of secular mindfulness reflects **genuine unmet needs for attentional relief** within high-constraint systems.
+
+From an IER perspective, this decoupling is itself an **adaptive response to modern coordination pressures**, though one with distinct structural risks.
+
+**Primary risk**
 
 > **Silent harm.**
 
@@ -267,15 +310,16 @@ Calm replaces safety; endurance replaces prevention.
 
 ## **V. Comparative Structural Summary**
 
-| Framework          | Dominant Strategy            | Primary Risk              |
-| ------------------ | ---------------------------- | ------------------------- |
-| Hinduism           | Role stabilization           | Harm neutralized by duty  |
-| Buddhism           | Constraint hygiene           | Withdrawal without reform |
-| Judaism            | Constraint governance        | Burden persistence        |
-| Christianity       | Constraint buffering         | Harm endurance            |
-| Islam              | Law-based stabilization      | Over-constraining load    |
-| Modern mindfulness | Constraint masking           | Silent harm               |
-| IER ethics         | Precaution under uncertainty | Moral paralysis           |
+| Framework          | Dominant Strategy               | Primary Structural Risk                   |
+| ------------------ | ------------------------------- | ----------------------------------------- |
+| Hinduism           | Role stabilization (cosmic)     | Harm rendered permissible by duty         |
+| Buddhism           | Constraint hygiene              | Withdrawal without reform                 |
+| Confucianism       | Role stabilization (relational) | Constraint masking in the name of harmony |
+| Judaism            | Constraint governance           | Burden persistence                        |
+| Christianity       | Constraint buffering            | Harm endurance                            |
+| Islam              | Law-based stabilization         | Constraint overload under misalignment    |
+| Modern mindfulness | Constraint masking              | Silent harm                               |
+| IER ethics         | Precaution under uncertainty    | Ethical paralysis                         |
 
 ---
 
@@ -316,8 +360,7 @@ It evaluates **structural effects only**.
 Under **Informational Experiential Realism (IER v10.8)**:
 
 * traditions matter because they shape constraint, not because they reveal truth
-* no tradition instantiates collective experience or standing
-* harm remains individual and categorical
+* harm remains individual and categorical, even when constraint sources are diffuse
 * ethical systems differ in how they distribute, justify, buffer, or limit intrinsic constraint
 
 > **IER does not ask which traditions are right.

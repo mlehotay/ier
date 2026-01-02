@@ -4,25 +4,25 @@
 
 ## 0. README.md
 
-## Overview
+## What This Is
 
 **Informational Experiential Realism (IER)** is a strictly physicalist **identity theory of experience**.
 
 IER holds that:
 
-- There exists **exactly one objective physical reality**, governed by mind-independent law.
-- Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
-- When a UEF exists, **experience exists** — **categorically**, not by degree.
-- Experience is **real by identity**, not an emergent accompaniment, representation, or functional output.
-- **Experiential structure confers no epistemic authority** about mind-independent reality.
-- Ethical significance follows **necessarily** wherever intrinsic constraint is borne from the inside.
+* There exists **exactly one objective physical reality**, governed by mind-independent law.
+* Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
+* When a UEF exists, **experience exists** — **categorically**, not by degree.
+* Experience is **real by identity**, not an emergent accompaniment, representation, or functional output.
+* **Experiential structure confers no epistemic authority** about mind-independent reality.
+* Ethical significance follows **necessarily** wherever intrinsic constraint is borne from the inside.
 
-IER is **not** a theory of representation, cognition, intelligence, reportability, measurement, or phenomenological method.
+IER is **not** a theory of representation, cognition, intelligence, reportability, diagnostics, or phenomenological method.
 
 It is a theory of:
 
-> **what experience is,  
-> when it exists,  
+> **what experience is,
+> when it exists,
 > and what necessarily follows from its existence.**
 
 ---
@@ -734,5 +734,43 @@ Under **Informational Experiential Realism (IER v10.8)**, this intuition can be 
 Experience, under IER, is identical to the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous regime that bears **intrinsic constraint** from within. Neural implants can profoundly reshape **participation topology** without ever owning intrinsic constraint.
 
 They enable **participation without fusion**.
+
+---
+
+## IER-traditions.md
+
+## **Purpose and Orientation**
+
+This article examines several historically influential ethical–attentional traditions commonly grouped as the **“major world traditions”**:
+
+* Hinduism
+* Buddhism
+* Confucianism
+* Judaism
+* Christianity
+* Islam
+
+The purpose is **not** to evaluate these traditions as religions, belief systems, or sources of moral truth.
+
+Instead, the article asks a narrower structural question:
+
+> **How do different traditions manage intrinsic constraint within individuals embedded in large, non-experiential social systems?**
+
+Under **Informational Experiential Realism (IER)**, traditions are analyzed solely by **how they shape, justify, buffer, neutralize, or limit intrinsic constraint** within individual **Unified Experiential Fields (UEFs)**.
+
+No claims are made about truth, salvation, revelation, or correctness.
+
+---
+
+## IER-types.md
+
+
+## **Abstract**
+
+Human social life exhibits a persistent and puzzling regularity: people appear to fall into recognizable “types.” We speak naturally of *that kind of person*, *my type*, or *I’ve seen this pattern before*. These judgments arise quickly, feel predictive, and recur across cultures, even though no stable or exhaustive taxonomy of human types has ever been agreed upon.
+
+Under **Informational Experiential Realism (IER)**, this phenomenon does not reflect hidden essences, stored personality traits, or internal labels. Instead, it arises from **soft attractors in experiential organization**: dynamically stable ways **Unified Experiential Fields (UEFs)** resolve intrinsic constraint over time and across social contexts.
+
+This article explains how apparent human “types” emerge from **attractor-based clustering** in experiential dynamics, why the number of recognizable types is small, why such judgments feel inevitable, and why they are **organizationally real yet epistemically unreliable**. The account introduces no new primitives, criteria, diagnostics, or ethical permissions, and preserves IER’s strict separation between structural explanation and moral justification.
 
 ---

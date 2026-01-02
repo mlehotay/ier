@@ -49,13 +49,13 @@ This README is **orientation only**.
 The **sole normative authority** in IER is:
 
 ```
-IER-specification.md   (v10.8)
+IER/IER-specification.md   (v10.8)
 ```
 
-Document roles, tiers, conflict resolution rules, and the **authoritative file index** are defined in:
+Document roles, tiers, conflict-resolution rules, and the **authoritative file index** are defined in:
 
 ```
-IER-canon.md
+IER/IER-canon.md
 ```
 
 If anything you read elsewhere appears to conflict,
@@ -114,9 +114,25 @@ Related boundary work:
 
 ---
 
+### 🧱 Structural Minimalism & Hard Constraints
+
+For readers who want the framework in its most stripped-down, non-phenomenological form:
+
+1. [`IER-specification.md`](./IER-specification.md)
+2. [`IER-theory.md`](./IER-theory.md)
+3. [`IER-slack.md`](./IER-slack.md)
+4. [`IER-math.md`](./IER-math.md)
+5. [`IER-dynamics.md`](./IER-dynamics.md)
+
+Optional cross-domain structure:
+
+* [`IER-patterns.md`](./IER-patterns.md)
+
+---
+
 ### 🔄 Dynamics, Systems, and Formal Structure
 
-For regimes, stability, and constraint:
+For regimes, stability, and constraint behavior once experience exists:
 
 * [`IER-dynamics.md`](./IER-dynamics.md)
 * [`IER-math.md`](./IER-math.md)
@@ -140,9 +156,29 @@ For how diverse experiences fit the same identity claim:
 
 ---
 
+### 🧠 Why Experience Still Feels Like Something
+
+*(Without Epistemic Authority)*
+
+For readers concerned that IER explains experience away:
+
+1. [`IER-specification.md`](./IER-specification.md)
+2. [`IER-access.md`](./IER-access.md)
+3. [`IER-emotions.md`](./IER-emotions.md)
+4. [`IER-brainfeels.md`](./IER-brainfeels.md)
+5. [`IER-insight.md`](./IER-insight.md)
+6. [`IER-panic.md`](./IER-panic.md)
+
+Optional edge cases:
+
+* [`IER-psychosis.md`](./IER-psychosis.md)
+* [`IER-shadows.md`](./IER-shadows.md)
+
+---
+
 ### 🧭 Meaning, Agency, and Action
 
-For choice, agency, and why experience feels purposeful without epistemic authority:
+For choice, agency, and why experience feels purposeful without epistemic privilege:
 
 * [`IER-agency.md`](./IER-agency.md)
 * [`IER-choice.md`](./IER-choice.md)
@@ -150,26 +186,17 @@ For choice, agency, and why experience feels purposeful without epistemic author
 * [`IER-intentionality.md`](./IER-intentionality.md)
 * [`IER-meaning.md`](./IER-meaning.md)
 * [`IER-access.md`](./IER-access.md)
-
----
-
-### 🎨 Culture, Art, and Interpretation
-
-For non-representational accounts of culture and aesthetics:
-
-* [`IER-art.md`](./IER-art.md)
-* [`IER-patterns.md`](./IER-patterns.md)
-* [`IER-helmets.md`](./IER-helmets.md)
-
----
-
-### ⚛️ Resolution and Physical Analogies
-
-For structural parallels without observer metaphysics:
-
 * [`IER-resolution.md`](./IER-resolution.md)
 
-(Quantum examples appear only as **worked stress tests**, not as foundations.)
+---
+
+### 🎨 Culture, Art, and Structural Recurrence
+
+For non-representational accounts of culture, aesthetics, and recurring form:
+
+* [`IER-patterns.md`](./IER-patterns.md)
+* [`IER-art.md`](./IER-art.md)
+* [`IER-helmets.md`](./IER-helmets.md)
 
 ---
 
