@@ -299,6 +299,44 @@ And because experience cannot be perfectly detected, uncertainty **increases**, 
 
 ---
 
+## **16. Does IER decide what actions are morally permissible?**
+
+No.
+
+IER does **not** decide which actions are morally permissible, justified, required, or forbidden.
+
+IER is a theory of **what consciousness is and when it exists**. From that, it clarifies **what kinds of harm are possible when experience exists**. It does **not** function as a complete moral, political, or legal theory.
+
+---
+
+### **What IER *does* determine**
+
+IER determines:
+
+* when there is something it is like to be a system
+* what it means to damage or overwhelm experience from the inside
+* why experience is morally significant
+
+These claims concern **moral reality** — what kinds of things matter and why.
+
+They do **not** determine how conflicts should be resolved.
+
+---
+
+### **What IER deliberately leaves open**
+
+IER does **not** decide:
+
+* when killing is permissible or impermissible
+* how to weigh competing claims between beings with standing
+* questions of bodily autonomy, consent, or coercion
+* legal or political rights
+* abortion, self-defense, euthanasia, war, or animal ethics
+
+Any conclusion about those topics requires **additional moral principles that are not part of IER**.
+
+---
+
 ## **Summary**
 
 > **On IER, consciousness is what it is like for a physical system to be forced to manage itself as a single, unified whole — and everything else follows from that.**

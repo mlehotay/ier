@@ -860,3 +860,30 @@ The goal of this document is to clarify:
 This is not a survey of all theories of consciousness, nor a claim of intellectual influence. It is a **dependency analysis**: an account of what had to be in place—and what had to fail—for IER’s formulation to become possible.
 
 ---
+
+## IER-dormancy.md
+
+## **1. Orientation: Why Dormancy Matters for IER**
+
+Dormant biological systems exert sustained pressure on intuitions about experience.
+
+Many organisms undergo extended periods in which they remain:
+
+* alive
+* metabolically regulated
+* structurally intact
+* capable of later activity
+
+while simultaneously exhibiting:
+
+* minimal or absent responsiveness
+* suspended development
+* long temporal gaps between active phases
+
+Dormancy therefore raises a specific structural question:
+
+> **Does biological persistence by itself entail the existence of experience?**
+
+Informational Experiential Realism (IER) answers **no** — not as a value judgment, but as a consequence of its identity claim.
+
+---

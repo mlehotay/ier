@@ -77,6 +77,7 @@ Documents not listed here are **non-canonical by default** unless explicitly add
 * **`IER-attractors.md`** — Introduces soft attractors in experiential organization.
 * **`IER-insight.md`** — Explains insight as rapid reorganization of intrinsic constraint.
 * **`IER-types.md`** — Interprets personality types as attractor-based clustering.
+* **`IER-dormancy.md`** — Analyzes dormancy as an experiential null interval
 
 ---
 
@@ -133,6 +134,7 @@ Documents not listed here are **non-canonical by default** unless explicitly add
 * **`IER-strictness.md`** — Explains why IER requires unusually strong constraints.
 * **`IER-changelog.md`** — Records conceptual and structural version changes.
 * **`IER-futures.md`** — Explores speculative cultural equilibria under IER.
+* **`IER-history.md`** — Situates IER within the historical development of theories of mind.
 
 ---
 
