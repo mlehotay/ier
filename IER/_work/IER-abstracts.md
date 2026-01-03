@@ -225,6 +225,7 @@ The article clarifies which forms of change are compatible with UEF persistence 
 This document introduces no new primitives and makes no claims beyond those implied by intrinsic constraint, experiential participation, and temporal continuity. Its purpose is to complete the **diachronic account of experience** under IER without expanding its normative core.
 
 ---
+
 ## 12. IER-denials.md
 
 ## **Why a Denials Document Is Necessary**
@@ -232,13 +233,13 @@ This document introduces no new primitives and makes no claims beyond those impl
 IER is deliberately minimal, physicalist, and structural.
 
 That minimalism creates a predictable risk:
-readers may import assumptions from adjacent frameworks—epistemology, phenomenology, psychology, mysticism, AI theory, or ethics—and treat them as implied.
+readers import assumptions from adjacent frameworks—epistemology, phenomenology, psychology, mysticism, AI theory, ethics—and treat them as implied.
 
 This document closes that gap.
 
 > **If a claim is not explicitly stated in the Specification, and not a necessary entailment of its definitions, it is not part of IER.**
 
-What follows is a non-exhaustive but comprehensive list of **explicit non-claims**.
+What follows is a representative, high-coverage list of **explicit non-claims**.
 
 ---
 
@@ -425,16 +426,19 @@ Those separations feel counterintuitive until they are **worked through concrete
 
 ## IER-critics.md
 
-## **1. Purpose of This Article**
+## **Purpose**
 
-This article does not aim to *defend* Informational Experiential Realism (IER) by evasion, nor to *win* disputes by redefining terms. Its aim is narrower:
+This document does not try to win disputes by intuition, rhetorical reframing, or definitional maneuver.
 
-> **To explain how IER responds to its main critics, distinguish objections that threaten the theory from those it explicitly accepts as costs, and clarify where disagreement reflects incompatible metaphysical starting points rather than mistakes.**
+Its purpose is narrower:
 
-IER is not a synthesis theory.
-It is a **constrained identity claim** about what experience *is*, paired with ethical consequences that follow **by identity**, not by epistemic access.
+> **To explain how IER responds to its main objection families, distinguish threats from accepted costs, and mark where disagreement reflects incompatible starting points rather than internal mistakes.**
 
-Accordingly, the central critical question is not “Is this intuitive?” or “Can we test this?” but:
+IER is a **constrained identity theory**:
+
+> **Experience is identical to a physical system operating as a Unified Experiential Field (UEF).**
+
+So the central critical question is:
 
 > **Does the identity claim succeed without collapsing into what it rejects or relying on what it denies?**
 
@@ -836,5 +840,23 @@ It records **articulation, navigation, clarity, and maintenance tasks** for the 
 
 It introduces **no ontological, criterial, epistemic, or ethical claims**
 and does **not** signal intended changes to the IER framework.
+
+---
+
+## IER-history.md
+
+## **1. Purpose and Scope**
+
+This document situates **Informational Experiential Realism (IER)** within the historical development of theories of mind and consciousness.
+
+Its purpose is **explanatory only**. It does not argue for IER, introduce new ontological commitments, or revise any criterial or normative claims. All authoritative commitments of IER are defined exclusively in `IER-specification.md`.
+
+The goal of this document is to clarify:
+
+* which historical developments were **necessary for IER’s central identity claim to be intelligible**,
+* why many closely related frameworks were **structurally insufficient**, and
+* why the articulation of IER occurred **late in the historical sequence** rather than earlier.
+
+This is not a survey of all theories of consciousness, nor a claim of intellectual influence. It is a **dependency analysis**: an account of what had to be in place—and what had to fail—for IER’s formulation to become possible.
 
 ---

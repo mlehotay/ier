@@ -42,6 +42,17 @@ Markdown links are provided **for navigation only**.
 
 ## **A**
 
+### **Admissible Futures**
+
+* **Formal treatment**
+
+  * `IER-math.md` §6
+* **Agency context**
+
+  * `IER-choice.md`
+
+---
+
 ### **Agency (IER Sense)**
 
 * **Normative anchor**
@@ -57,6 +68,29 @@ Markdown links are provided **for navigation only**.
 
 ---
 
+### **Agency Collapse**
+
+* **Dynamic failure modes**
+
+  * `IER-dynamics.md` §6
+* **Pathological regimes**
+
+  * `IER-panic.md`
+  * `IER-psychosis.md`
+
+---
+
+### **Aphantasia**
+
+* **Architectural analysis**
+
+  * `IER-aphantasia.md`
+* **Participation constraints**
+
+  * `IER-dynamics.md` §4
+
+---
+
 ### **Attractor (IER Sense)**
 
 * **Explanatory usage**
@@ -66,6 +100,30 @@ Markdown links are provided **for navigation only**.
 * **Formal treatment**
 
   * `IER-math.md` §2–§4
+
+---
+
+## **B**
+
+### **Brainfeels**
+
+* **Explanatory usage**
+
+  * `IER-brainfeels.md`
+* **Participation modulation**
+
+  * `IER-dynamics.md` §4
+
+---
+
+### **Buffering Capacity**
+
+* **Structural contrast**
+
+  * `IER-slack.md` §8
+* **Dynamic context**
+
+  * `IER-dynamics.md` §3
 
 ---
 
@@ -99,6 +157,20 @@ Markdown links are provided **for navigation only**.
 
 ---
 
+### **Choice Space**
+
+* **Formal treatment**
+
+  * `IER-math.md` §6
+* **Agency context**
+
+  * `IER-choice.md`
+* **Ethical relevance**
+
+  * `IER-ethics.md` §4
+
+---
+
 ### **Collapse**
 
 * **Normative anchor**
@@ -107,6 +179,17 @@ Markdown links are provided **for navigation only**.
 * **Dynamic failure modes**
 
   * `IER-dynamics.md` §6
+
+---
+
+### **Coherence Window**
+
+* **Dynamic explanation**
+
+  * `IER-dynamics.md` §3
+* **Formal context**
+
+  * `IER-math.md` §8
 
 ---
 
@@ -124,6 +207,28 @@ Markdown links are provided **for navigation only**.
 
 ---
 
+### **Constraint Overload**
+
+* **Dynamic failure modes**
+
+  * `IER-dynamics.md` §6
+* **Pathological regimes**
+
+  * `IER-panic.md`
+
+---
+
+### **Constraint Ownership**
+
+* **Structural analysis**
+
+  * `IER-diagnostics.md` §4
+* **Explanatory usage**
+
+  * `IER-resolution.md`
+
+---
+
 ### **Constraint Resolution**
 
 * **Formal treatment**
@@ -132,6 +237,18 @@ Markdown links are provided **for navigation only**.
 * **Explanatory usage**
 
   * `IER-resolution.md`
+
+---
+
+### **Cultural Attractors**
+
+* **Explanatory usage**
+
+  * `IER-meaning.md`
+  * `IER-attractors.md`
+* **Traditions analysis**
+
+  * `IER-traditions.md`
 
 ---
 
@@ -173,6 +290,28 @@ Markdown links are provided **for navigation only**.
 
 ## **E**
 
+### **Emotions**
+
+* **Explanatory usage**
+
+  * `IER-emotions.md`
+* **Attractor framework**
+
+  * `IER-attractors.md`
+
+---
+
+### **Energetic Cost**
+
+* **Dynamic context**
+
+  * `IER-dynamics.md` §5
+* **Ethical relevance**
+
+  * `IER-ethics.md` §1
+
+---
+
 ### **Epistemic Access**
 
 * **Normative anchor**
@@ -207,6 +346,18 @@ Markdown links are provided **for navigation only**.
 
 ---
 
+### **Experiential Architecture**
+
+* **Explanatory usage**
+
+  * `IER-aphantasia.md`
+  * `IER-brainfeels.md`
+* **Dynamic context**
+
+  * `IER-dynamics.md` §4
+
+---
+
 ### **Experiential Dissolution**
 
 * **Normative anchor**
@@ -215,6 +366,17 @@ Markdown links are provided **for navigation only**.
 * **Dynamic failure modes**
 
   * `IER-dynamics.md` §6
+
+---
+
+### **Experiential Gap**
+
+* **Continuity analysis**
+
+  * `IER-continuity.md`
+* **Sleep and anesthesia**
+
+  * `IER-sleep.md`
 
 ---
 
@@ -265,6 +427,17 @@ Markdown links are provided **for navigation only**.
 
 ---
 
+### **Experiential World**
+
+* **Normative anchor**
+
+  * `IER-specification.md` §II
+* **Meaning context**
+
+  * `IER-meaning.md`
+
+---
+
 ### **Experience**
 
 * **Normative anchor**
@@ -278,11 +451,33 @@ Markdown links are provided **for navigation only**.
 
 ## **F**
 
+### **Failure Modes**
+
+* **Dynamic taxonomy**
+
+  * `IER-dynamics.md` §6
+* **Ethical relevance**
+
+  * `IER-ethics.md` §3
+
+---
+
 ### **Fragmentation**
 
 * **Dynamic failure modes**
 
   * `IER-dynamics.md` §6
+
+---
+
+### **Fragmentation Pressure**
+
+* **Dynamic explanation**
+
+  * `IER-dynamics.md` §6
+* **Pathology**
+
+  * `IER-psychosis.md`
 
 ---
 
@@ -296,6 +491,19 @@ Markdown links are provided **for navigation only**.
 * **Formal treatment**
 
   * `IER-math.md` §3
+
+---
+
+## **H**
+
+### **Helmets**
+
+* **Boundary analysis**
+
+  * `IER-helmets.md`
+* **Participation reshaping**
+
+  * `IER-dynamics.md` §4
 
 ---
 
@@ -348,6 +556,28 @@ Markdown links are provided **for navigation only**.
 
 ---
 
+### **Insight**
+
+* **Explanatory usage**
+
+  * `IER-insight.md`
+* **Epistemic limits**
+
+  * `IER-access.md`
+
+---
+
+### **Institutional Systems**
+
+* **Ethical relevance**
+
+  * `IER-social-systems.md`
+* **Non-subject constraint**
+
+  * `IER-ethics.md` §8
+
+---
+
 ### **Intrinsic Constraint**
 
 * **Normative anchor**
@@ -374,6 +604,31 @@ Markdown links are provided **for navigation only**.
 
 ## **M**
 
+### **Meaning**
+
+* **Explanatory usage**
+
+  * `IER-meaning.md`
+* **Attractor framework**
+
+  * `IER-attractors.md`
+* **Epistemic limits**
+
+  * `IER-access.md`
+
+---
+
+### **Metastability**
+
+* **Dynamic explanation**
+
+  * `IER-dynamics.md` §3
+* **Formal framing**
+
+  * `IER-math.md` §8
+
+---
+
 ### **Moral Harm**
 
 * **Normative anchor**
@@ -393,6 +648,30 @@ Markdown links are provided **for navigation only**.
 * **Ethical elaboration**
 
   * `IER-ethics.md` §2
+
+---
+
+## **N**
+
+### **Narrative**
+
+* **Explanatory usage**
+
+  * `IER-meaning.md`
+* **Attractor framing**
+
+  * `IER-attractors.md`
+
+---
+
+### **Non-Diagnosability**
+
+* **Misuse boundary**
+
+  * `IER-diagnostics.md`
+* **Ethical implications**
+
+  * `IER-ethics.md` §7
 
 ---
 
@@ -425,7 +704,7 @@ Markdown links are provided **for navigation only**.
 
 ---
 
-### **Ownership (of Constraint)**
+### **Ownership of Constraint**
 
 * **Structural analysis**
 
@@ -457,11 +736,33 @@ Markdown links are provided **for navigation only**.
 
 ---
 
+### **Participation Topology**
+
+* **Dynamic explanation**
+
+  * `IER-dynamics.md` §4
+* **Architectural variation**
+
+  * `IER-aphantasia.md`
+
+---
+
 ### **Physical Monism**
 
 * **Normative anchor**
 
   * `IER-specification.md` Axiom 2
+
+---
+
+### **Panic**
+
+* **Dynamic regime**
+
+  * `IER-panic.md`
+* **Constraint overload**
+
+  * `IER-dynamics.md` §6
 
 ---
 
@@ -476,7 +777,29 @@ Markdown links are provided **for navigation only**.
 
 ---
 
+### **Psychosis**
+
+* **Dynamic regime**
+
+  * `IER-psychosis.md`
+* **Misattribution**
+
+  * `IER-access.md`
+
+---
+
 ## **R**
+
+### **Regime Continuity**
+
+* **Continuity analysis**
+
+  * `IER-continuity.md`
+* **Sleep and anesthesia**
+
+  * `IER-sleep.md`
+
+---
 
 ### **Regime Transition**
 
@@ -486,6 +809,17 @@ Markdown links are provided **for navigation only**.
 * **Dynamic explanation**
 
   * `IER-dynamics.md` §2
+
+---
+
+### **Resolution**
+
+* **Structural analysis**
+
+  * `IER-resolution.md`
+* **Choice context**
+
+  * `IER-choice.md`
 
 ---
 
@@ -499,6 +833,17 @@ Markdown links are provided **for navigation only**.
 
 ## **S**
 
+### **Shadow Figures**
+
+* **Extreme regimes**
+
+  * `IER-shadows.md`
+* **Attractor framing**
+
+  * `IER-attractors.md`
+
+---
+
 ### **Single-UEF Dominance**
 
 * **Normative anchor**
@@ -507,6 +852,28 @@ Markdown links are provided **for navigation only**.
 * **Dynamic explanation**
 
   * `IER-dynamics.md` §2.2
+
+---
+
+### **Slack Masking**
+
+* **Structural argument**
+
+  * `IER-slack.md`
+* **Diagnostic implications**
+
+  * `IER-diagnostics.md`
+
+---
+
+### **Social Coordination**
+
+* **Boundary analysis**
+
+  * `IER-social-systems.md`
+* **Non-collective constraint**
+
+  * `IER-dynamics.md` §7
 
 ---
 
@@ -540,6 +907,30 @@ Markdown links are provided **for navigation only**.
 
 ---
 
+## **T**
+
+### **Temporal Continuity**
+
+* **Normative anchor**
+
+  * `IER-specification.md` §II
+* **Dynamic context**
+
+  * `IER-dynamics.md` §3
+
+---
+
+### **Traditions**
+
+* **Comparative analysis**
+
+  * `IER-traditions.md`
+* **Constraint shaping**
+
+  * `IER-meaning.md`
+
+---
+
 ## **U**
 
 ### **Unified Experiential Field (UEF)**
@@ -570,6 +961,43 @@ Markdown links are provided **for navigation only**.
 
 ---
 
-## **End of Index (Glossary-Based Draft)**
+### **Urgency**
+
+* **Constraint structure**
+
+  * `IER-specification.md` §II
+* **Dynamic modulation**
+
+  * `IER-dynamics.md` §4
+
+---
+
+## **V**
+
+### **Valence**
+
+* **Constraint structure**
+
+  * `IER-specification.md` §II
+* **Emotional regimes**
+
+  * `IER-emotions.md`
+
+---
+
+## **W**
+
+### **World For The System**
+
+* **Normative anchor**
+
+  * `IER-specification.md` §II
+* **Meaning context**
+
+  * `IER-meaning.md`
+
+---
+
+## **End of Index**
 
 ---

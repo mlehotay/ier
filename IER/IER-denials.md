@@ -1,6 +1,8 @@
-# **What Informational Experiential Realism Explicitly Denies**
+# **IER-denials.md (v10.8.x)**
 
-## *A Boundary Statement on Non-Claims, Misinterpretations, and Prohibited Inferences*
+## **What Informational Experiential Realism Explicitly Denies**
+
+### *A Boundary Statement on Non-Claims, Misinterpretations, and Prohibited Inferences*
 
 **Informational Experiential Realism (IER v10.x)**
 *Derived Clarification Document — Non-Normative*
@@ -22,9 +24,20 @@ This document:
 * amends **no definitions**
 * proposes **no extensions** of IER
 
-Its sole purpose is to **explicitly deny** interpretations, inferences, and applications that are *not licensed* by the Spec but are commonly inferred from theories of experience, meaning, or dynamics.
+Its sole purpose is to **explicitly deny** interpretations, inferences, and applications that are *not licensed* by the Spec but are commonly inferred from theories of experience, meaning, agency, or dynamics.
 
 If a claim appears here, it is denied **even if it feels intuitively compatible** with IER’s language.
+
+---
+
+## **Modal Legend**
+
+For clarity, this document distinguishes:
+
+* **Explicitly denied** — incompatible with the Spec (contradiction)
+* **Not claimed** — neither stated nor entailed by the Spec
+
+Both are **outside IER**.
 
 ---
 
@@ -33,13 +46,13 @@ If a claim appears here, it is denied **even if it feels intuitively compatible*
 IER is deliberately minimal, physicalist, and structural.
 
 That minimalism creates a predictable risk:
-readers may import assumptions from adjacent frameworks—epistemology, phenomenology, psychology, mysticism, AI theory, or ethics—and treat them as implied.
+readers import assumptions from adjacent frameworks—epistemology, phenomenology, psychology, mysticism, AI theory, ethics—and treat them as implied.
 
 This document closes that gap.
 
 > **If a claim is not explicitly stated in the Specification, and not a necessary entailment of its definitions, it is not part of IER.**
 
-What follows is a non-exhaustive but comprehensive list of **explicit non-claims**.
+What follows is a representative, high-coverage list of **explicit non-claims**.
 
 ---
 
@@ -48,16 +61,16 @@ What follows is a non-exhaustive but comprehensive list of **explicit non-claims
 IER **does not claim** that:
 
 * meaningful experiences are more likely to be true
-* coherent experiences track reality
+* coherent experiences track external reality
 * intense or costly experiences reveal facts
 * salience constitutes evidence
 * insight implies correctness
 * suffering discloses metaphysical truth
 
-Experience may feel authoritative.
+Experience may *feel* authoritative.
 That authority is **organizational**, not epistemic.
 
-IER explains *why experience feels convincing*.
+IER explains *why experience can feel compelling*.
 It does **not** license belief.
 
 ---
@@ -86,7 +99,9 @@ IER **does not claim** that:
 * altered states are epistemic upgrades
 * symbolic meaning implies external reference
 
-IER treats such experiences as **real experiences with false reference**, not as discoveries.
+IER treats such states as **real experiences with false or indeterminate reference**, not as discoveries.
+
+That some experiences feel revelatory is explained by **high internal constraint**, not by privileged access to truth.
 
 ---
 
@@ -101,13 +116,15 @@ IER **explicitly denies**:
 * shared experiential identity across systems
 
 Coordination transmits **constraint**, not experience.
+Shared information channels do **not** imply shared cost-location.
+
 No amount of synchronization produces a shared UEF.
 
 ---
 
-## **5. IER Does Not Allow Partial or Fractional Subjects**
+## **5. IER Does Not Allow Partial, Fractional, or Graded Subjects**
 
-IER **does not permit**:
+IER **explicitly denies**:
 
 * partial consciousness
 * degrees of subjecthood
@@ -118,30 +135,36 @@ IER **does not permit**:
 Experiential existence is **categorical**:
 a UEF either exists or it does not.
 
+IER **does not claim** that regime boundaries are epistemically sharp or practically detectable.
+
 ---
 
-## **6. IER Does Not Reduce Ethics to Cognition or Intelligence**
+## **6. IER Does Not Reduce Ethics to Cognition, Intelligence, or Representation**
 
 IER **does not claim** that:
 
 * intelligence determines moral standing
-* representation capacity grounds moral value
-* self-report is required for ethical relevance
-* linguistic ability is morally privileged
+* representational capacity grounds moral relevance
+* self-report is required for ethical consideration
+* linguistic or planning ability is morally privileged
 
 Ethical relevance derives from **intrinsic constraint**, not cognitive sophistication.
 
 ---
 
-## **7. IER Does Not Collapse Responsibility Into Existence**
+## **7. IER Does Not Collapse Responsibility Into Mere Existence**
 
 IER **does not claim** that:
 
 * being a subject implies full responsibility
 * responsibility disappears only when experience disappears
 * agency is all-or-nothing
+* moral accountability follows automatically from subjecthood
 
-Responsibility is **modulated by constraint organization**, not identical to subjecthood.
+Responsibility is **modulated by constraint organization**, coercion, impairment, and offloading—not identical to experiential existence.
+
+IER also **does not require freedom from causation** for agency.
+Choice consists in **internally borne resolution of constraints**, not exemption from physical law.
 
 ---
 
@@ -150,15 +173,16 @@ Responsibility is **modulated by constraint organization**, not identical to sub
 IER **does not imply** that:
 
 * neural access yields experiential access
-* complete physical knowledge reveals “what it is like”
+* complete physical description reveals “what it is like”
 * simulation constitutes experience
 * prediction equals participation
+* third-person reconstruction recovers first-person character
 
 Experience is **structurally private** because it is constituted by intrinsic constraint, not because it is mysterious.
 
 ---
 
-## **9. IER Does Not Provide a Theory of Truth or Reference**
+## **9. IER Does Not Provide a Theory of Truth, Reference, or Semantics**
 
 IER **does not supply**:
 
@@ -168,7 +192,7 @@ IER **does not supply**:
 * epistemic norms
 * justification criteria
 
-Those belong to epistemology and science, not to a theory of experience.
+Those belong to epistemology and the sciences, not to a theory of experience.
 
 ---
 
@@ -186,21 +210,37 @@ IER can **describe organizational structure**, not prescribe institutional judgm
 
 ---
 
-## **11. IER Does Not Define Detection or Measurement Criteria**
+## **11. IER Does Not Define Detection, Measurement, or Consciousness Tests**
 
 IER **does not provide**:
 
 * consciousness tests
 * detection algorithms
 * operational metrics
+* scalar “levels of consciousness”
 * quantitative thresholds for experience
-* diagnostic markers
+* diagnostic markers for standing
 
 Formal models in IER are **interpretive**, not diagnostic.
+No proxy measure licenses attribution of subjecthood.
 
 ---
 
-## **12. IER Does Not Expand Ontology Beyond Physical Reality**
+## **12. IER Does Not Entail Computationalism or Substrate Independence**
+
+IER **explicitly denies** that:
+
+* correct functional organization alone suffices for experience
+* computational equivalence guarantees experiential equivalence
+* simulation or emulation preserves subjecthood
+* copying preserves “the same subject”
+* uploading ensures survival or continuity of self
+
+Experience depends on **physically instantiated intrinsic constraint**, not abstract role realization.
+
+---
+
+## **13. IER Does Not Expand Ontology Beyond Physical Reality**
 
 IER **explicitly denies**:
 
@@ -210,53 +250,66 @@ IER **explicitly denies**:
 * ontological inflation
 * idealism or panpsychism
 
-Experience is identical to a physical regime.
-Nothing else is added.
+Generic causation or minimal constraint is **not** experience.
+A UEF is a **narrow organizational kind**, and most physical systems do not qualify.
 
 ---
 
-## **13. IER Does Not Explain Everything About Experience**
+## **14. IER Does Not Explain Everything About Experience**
 
 IER **does not claim** to explain:
 
 * why specific narratives arise
 * why particular symbols appear
 * why one meaning stabilizes instead of another
-* personal identity in the narrative sense
+* personal identity in the narrative or autobiographical sense
 * the content of values
+* why a particular qualitative character feels the way it does
 
 IER explains **what experience is**, not **everything it contains**.
 
 ---
 
-## **14. Summary Boundary Statement**
+## **15. IER Does Not Deliver a Complete Moral Theory or Algorithm**
 
-Informational Experiential Realism:
+IER **does not claim** to:
 
-* explains the **existence and structure** of experience
-* grounds experience in **physical organization**
-* accounts for **meaning, salience, and error**
-* derives **ethical relevance** from intrinsic constraint
+* rank lives or experiences
+* aggregate harms into a single metric
+* resolve tragic tradeoffs
+* yield action-determining rules
+* provide policy-ready thresholds
 
-It explicitly **does not**:
-
-> upgrade experience to knowledge,
-> expand ontology,
-> validate content,
-> collectivize subjects,
-> or solve epistemology.
+IER identifies **morally real entities and irreversible harms**.
+It does not replace ethical reasoning, judgment, or pluralistic value deliberation.
 
 ---
 
-## **15. Final Clarification**
+## **16. Common Misuse Patterns (All Not IER)**
+
+The following inferences are **explicitly disallowed**:
+
+* “This experience felt meaningful, therefore it is true.”
+* “The system passed the test, therefore it is conscious.”
+* “The group coordinated, therefore it is a subject.”
+* “The upload is me.”
+* “Experience proves moral rightness.”
+* “Explanation licenses belief.”
+
+Each violates boundaries stated above.
+
+---
+
+## **17. Final Boundary Statement**
 
 If a use of IER:
 
 * licenses belief without evidence,
-* infers collective consciousness,
 * treats experience as revelation,
+* infers collective consciousness,
 * collapses ethics into intelligence,
-* or treats explanation as validation,
+* assumes substrate-independent subjecthood,
+* treats explanation as validation,
 
 then that use is **not IER**, regardless of terminology.
 
