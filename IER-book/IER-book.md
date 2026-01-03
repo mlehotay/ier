@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.8)**
+# **Informational Experiential Realism (IER v10.8.1)**
 
 ## **Book Context, Structure, and Compilation Rules**
 
@@ -6,8 +6,8 @@
 
 ## **Status and Authority**
 
-This file defines the **structural, organizational, and drafting constraints** for the
-*Informational Experiential Realism* book.
+This file defines the **structural, organizational, and compilation constraints** for the
+printed book **Informational Experiential Realism**.
 
 It is:
 
@@ -24,7 +24,7 @@ It introduces:
 * no ethical principles
 * no interpretive authority
 
-All ontological, criterial, and ethical authority resides **exclusively** in:
+All ontological, criterial, epistemic, and ethical authority resides **exclusively** in:
 
 ```
 IER/IER-specification.md   (v10.8)
@@ -35,80 +35,120 @@ If any statement in this file conflicts with the Specification,
 
 ---
 
-## **Intended Audience**
+## **Purpose of This File**
 
-This document is written **for authors, editors, and maintainers**, not for readers.
+This document exists to:
 
-Its purpose is to:
+* preserve the **minimal, closed nature** of the IER identity claim
+* allow the **entire canonical corpus** to be printed **in a single bound volume**
+* enforce **tier discipline** and prevent authority inflation
+* guarantee **one-way dependency**
+* ensure that no document appears to do argumentative work it does not do
 
-* enforce dependency order
-* preserve design intent
-* prevent conceptual drift
-* constrain future extensions
-* ensure independently written materials compose into a single coherent book
-
-`IER/README.md` explains how to **approach** IER as a reader.
-This file explains how the **book must be assembled and maintained**.
+This file governs **how the book is assembled**, not **what IER claims**.
 
 ---
 
-## **What This Book Is (and Is Not)**
+## **Single-Book, Two-Division Structure (Binding)**
 
-The IER book is a **compiled corpus**, not a narrative project.
+**Informational Experiential Realism** is published as **one physical book** with
+**two internal divisions**, each with a distinct structural role.
 
-Its task is not to persuade, motivate, or reconcile intuitions.
-Its task is to:
+These divisions are **conceptual and organizational**, not separate publications.
 
-> **Fix a single physicalist identity claim and follow its consequences wherever they lead, without expansion, synthesis, or rhetorical softening.**
+---
 
-Accordingly:
+### **Division A — The Closed Argument**
 
-* core claims appear **once** and are referenced thereafter
-* later material presupposes earlier material
-* chapters are **compiled**, not rewritten
-* coherence is enforced at the **part level**, not the prose level
-* auditability is prioritized over narrative flow
+**Question answered**
 
-This book is intentionally:
+> *What does IER claim, and what necessarily follows if it is true?*
 
-* modular rather than cumulative
-* asymmetric rather than balanced
-* restrictive rather than exploratory
-* closed under v10.8
+**Characteristics**
 
-The book should read as *inevitable once entered*, not welcoming once opened.
+Division A:
+
+* contains **all Tier-1 material**
+* includes only Tier-2 material required to **demonstrate consequences**
+* is **normatively sufficient**
+* is **closed under v10.8**
+* contains **no pedagogy, reassurance, or reader-alignment material**
+* fixes the identity claim and its entailments **once and only once**
+
+Division A constitutes **the theory proper**.
+
+---
+
+### **Division B — The Complete Corpus**
+
+**Question answered**
+
+> *Given that IER is true, how does it behave across phenomena, confusions, boundaries, and readers?*
+
+**Characteristics**
+
+Division B:
+
+* **presupposes Division A in its entirety**
+* contains **no foundational restatement**
+* prints **all remaining canonical documents**
+* uses the same six-Part dependency spine **as anchors**
+* explicitly labels **tier status**
+* includes misuse-blocking and reader-alignment material **without inflating authority**
+
+Division B does **not** add to the theory.
+It elaborates, constrains, tests, and contextualizes it.
+
+---
+
+## **Tier Discipline (Global, Binding)**
+
+All chapters are labeled with explicit tier markers:
+
+* **[T1] Foundational Canon**
+* **[T2] Canon-Constrained Analysis**
+* **[T3] Misuse-Blocking / Diagnostic Limits**
+* **[T4] Explanatory / Pedagogical / Meta**
+
+Tier markers:
+
+* constrain interpretation
+* prohibit authority creep
+* are mandatory throughout the book
+* are never optional or decorative
 
 ---
 
 ## **Compilation Principles (Non-Negotiable)**
 
 1. **Compiled, Not Rewritten**
-   Included documents are lightly edited **only** for placement, trimming, and redundancy removal.
+   Documents are included verbatim except for heading normalization, trimming redundancy, and removal of duplicated disclaimers.
 
 2. **No Authority Duplication**
-   Definitions, criteria, and necessity claims must not be restated outside their source documents.
+   Definitions, criteria, and necessity claims appear **once**, in their source documents.
 
 3. **One-Way Dependence**
-   Later parts may reference earlier parts.
-   Earlier parts must never reference later parts.
+   Later Parts may reference earlier Parts.
+   Earlier Parts must never reference later Parts.
 
 4. **Deletion Over Revision**
-   Redundant motivation, framing, or reassurance must be removed — not rephrased.
+   Redundant motivation or reassurance must be removed, not rephrased.
 
-5. **Part-Level Framing Carries the Argument**
-   Individual chapters articulate and demonstrate consequences; they do not justify the framework.
+5. **No Argument Inflation**
+   Inclusion in Division B does **not** imply argumentative necessity.
 
----
-
-# **I. Book Structure**
-
-The book is organized into **six Parts**, each corresponding to a distinct dependency layer in the theory.
-
-The ordering is **structural**, not pedagogical.
+6. **Explicit Presupposition**
+   Division B must state clearly that it presupposes Division A.
 
 ---
 
-## **Front Matter**
+# **DIVISION A**
+
+# **The Closed Argument**
+
+---
+
+## **Front Matter (Division A)**
 
 ### **00 — Front Matter**
 
@@ -116,18 +156,10 @@ The ordering is **structural**, not pedagogical.
 
 Purpose:
 
-* orient maintainers and readers to the nature of a compiled corpus
-* warn explicitly about normative closure and non-diagnosability
+* explain what a compiled corpus is
+* warn about normative closure and non-diagnosability
 * explain why the book resists narrative expectations
-
-Includes:
-
-* Preface: *What a Compiled Corpus Is*
-* Status and authority statements
-* How to read a non-narrative book
-* Normative closure warning
-* Structural non-diagnosability warning
-* Dependency discipline overview
+* explain dependency discipline
 
 No theory appears here.
 
@@ -135,105 +167,83 @@ No theory appears here.
 
 # **Part I — Foundations: Identity and Constraint**
 
-### **Role and Rationale**
-
-This Part fixes the **identity claim** and its immediate structural consequences **once and only once**.
-
-Everything else in the book depends on this Part.
-Nothing in this Part depends on phenomenology, ethics, intuition, or examples.
-
-Historically, earlier drafts of IER allowed motivation and illustration to bleed into foundations.
-This Part explicitly forbids that.
-
 ---
 
 ### **01 — The Identity Claim**
 
-**Source:** `IER/IER-specification.md`
+**[T1]** `IER/IER-specification.md`
 Compiled as-is.
-**No deletions, no paraphrase, no relocation.**
+**No deletions. No paraphrase. No relocation.**
 
 ---
 
 ### **02 — Why Experience Must Be a Regime**
 
-**Source:** `IER/IER-theory.md`
-Explains — without adding authority — why weaker organizational accounts cannot succeed.
+**[T1]** `IER/IER-theory.md`
 
 ---
 
 ### **03 — Dynamics of Unified Experiential Fields**
 
-**Source:** `IER/IER-dynamics.md`
+**[T1]** `IER/IER-dynamics.md`
 
 ---
 
 ### **04 — Formal Structure and Coherence**
 
-**Source:** `IER/IER-math.md`
+**[T1]** `IER/IER-math.md`
 
 ---
 
 ### **05 — Informational Slack and Structural Exclusion**
 
-**Source:** `IER/IER-slack.md`
+**[T2]** `IER/IER-slack.md`
 
-This chapter closes off a large class of tempting misreadings early and deliberately.
+> This chapter deliberately closes a large class of misreadings before phenomenology appears.
 
 ---
 
 > **End of Part I**
-> No forward references beyond this point are permitted.
 
 ---
 
 # **Part II — Phenomenology: Demonstration Without Authority**
 
-### **Role and Rationale**
-
-This Part exists to demonstrate **breadth and robustness**, not to ground or justify the theory.
-
-Phenomenology here functions as a **stress test**:
-if the framework can accommodate wide experiential diversity without modification, that is sufficient.
-
-Earlier placeholder drafts described this as “phenomenology as proof of principle.”
-That language has been retired because it overstated phenomenology’s role.
-
 ---
 
 ### **06 — Emotions as Constraint Organizations**
 
-**Source:** `IER/IER-emotions.md`
+**[T2]** `IER/IER-emotions.md`
 
 ---
 
 ### **07 — Brainfeels and Endogenous Qualia**
 
-**Source:** `IER/IER-brainfeels.md`
+**[T2]** `IER/IER-brainfeels.md`
 
 ---
 
 ### **08 — Aphantasia and Architectural Diversity**
 
-**Source:** `IER/IER-aphantasia.md`
+**[T2]** `IER/IER-aphantasia.md`
 
 ---
 
 ### **09 — Panic, Shutdown, and Regime Preservation**
 
-**Source:** `IER/IER-panic.md`
+**[T2]** `IER/IER-panic.md`
 
 ---
 
 ### **10 — Psychosis as Pathological Regime**
 
-**Source:** `IER/IER-psychosis.md`
+**[T2]** `IER/IER-psychosis.md`
 
 ---
 
 ### **11 — Art and Experiential Reorganization**
 
-**Source:** `IER/IER-art.md`
+**[T2]** `IER/IER-art.md`
 
 ---
 
@@ -243,25 +253,17 @@ That language has been retired because it overstated phenomenology’s role.
 
 # **Part III — Time, Continuity, and Persistence**
 
-### **Role and Rationale**
-
-This Part resolves a predictable confusion:
-
-> If experience is regime-bound and sometimes absent, does subjecthood blink in and out of existence?
-
-The answer must preserve **categorical subjecthood** without introducing metaphysical persistence claims.
-
 ---
 
 ### **12 — Experiential Continuity Without Persistence of Experience**
 
-**Source:** `IER/IER-continuity.md`
+**[T2]** `IER/IER-continuity.md`
 
 ---
 
 ### **13 — Persistence Through Change**
 
-**Source:** `IER/IER-persistence.md`
+**[T2]** `IER/IER-persistence.md`
 
 ---
 
@@ -271,36 +273,29 @@ The answer must preserve **categorical subjecthood** without introducing metaphy
 
 # **Part IV — Meaning, Access, and Narrative**
 
-### **Role and Rationale**
-
-This Part explains **why experience feels authoritative and meaningful** while denying that it carries epistemic authority.
-
-Historically, this is where many consciousness theories collapse into representationalism or idealism.
-IER explicitly blocks that move here.
-
 ---
 
 ### **14 — Experiential Access vs. Epistemic Access**
 
-**Source:** `IER/IER-access.md`
+**[T2]** `IER/IER-access.md`
 
 ---
 
 ### **15 — Meaning Without Ontology**
 
-**Source:** `IER/IER-meaning.md`
+**[T2]** `IER/IER-meaning.md`
 
 ---
 
 ### **16 — Intentionality Without Representation**
 
-**Source:** `IER/IER-intentionality.md`
+**[T2]** `IER/IER-intentionality.md`
 
 ---
 
 ### **17 — Why the Puzzles Dissolve**
 
-**Source:** `IER/IER-puzzles.md`
+**[T2]** `IER/IER-puzzles.md`
 
 ---
 
@@ -310,46 +305,35 @@ IER explicitly blocks that move here.
 
 # **Part V — Agency and Ethics**
 
-### **Role and Rationale**
-
-Ethics appears **after** meaning and agency, not alongside foundations.
-
-This ordering enforces a central IER commitment:
-
-> Ethics is not an added value system; it is a consequence of experiential identity.
-
-Nothing in this Part justifies ethics.
-Everything here follows from earlier Parts.
-
 ---
 
 ### **18 — Agency as Owned Resolution**
 
-**Source:** `IER/IER-agency.md`
+**[T2]** `IER/IER-agency.md`
 
 ---
 
 ### **19 — Choice Spaces and Admissible Futures**
 
-**Source:** `IER/IER-choice.md`
+**[T2]** `IER/IER-choice.md`
 
 ---
 
 ### **20 — Free Will Without Indeterminism**
 
-**Source:** `IER/IER-free-will.md`
+**[T2]** `IER/IER-free-will.md`
 
 ---
 
 ### **21 — Ethical Consequences of Experiential Identity**
 
-**Source:** `IER/IER-ethics.md`
+**[T1]** `IER/IER-ethics.md`
 
 ---
 
 ### **22 — Moral Cases and Structural Analysis**
 
-**Source:** `IER/IER-morals.md`
+**[T2]** `IER/IER-morals.md`
 
 ---
 
@@ -359,146 +343,218 @@ Everything here follows from earlier Parts.
 
 # **Part VI — Boundaries, Denials, and Limits**
 
-### **Role and Rationale**
-
-This Part **closes the framework**.
-
-Earlier placeholder drafts imagined additional chapters on collective systems, cultural meaning, and conclusions.
-Those ideas now appear **only as constraints and boundary conditions**, not as expansions.
-
-Nothing beyond this Part is open without reopening the Specification.
-
 ---
 
 ### **23 — Explicit Non-Claims**
 
-**Source:** `IER/IER-denials.md`
+**[T2]** `IER/IER-denials.md`
 
 ---
 
 ### **24 — Incompatibilities and Boundary Conditions**
 
-**Source:** `IER/IER-contrast.md`
+**[T2]** `IER/IER-contrast.md`
 
 ---
 
 ### **25 — Objections, Costs, and Rejected Intuitions**
 
-**Source:** `IER/IER-critics.md`
+**[T2]** `IER/IER-critics.md`
 
 ---
 
 ### **26 — Why Diagnostics Are Impossible**
 
-**Source:** `IER/IER-diagnostics.md`
+**[T3]** `IER/IER-diagnostics.md`
 
 ---
 
 ### **27 — Cultural Futures Under Uncertainty**
 
-**Source:** `IER/IER-futures.md`
+**[T4]** `IER/IER-futures.md`
 
 ---
 
-### **28 — Closure Statement (Optional)**
-
-A minimal coda may be included.
-
-Constraints:
-
-* no new claims
-* no synthesis
-* no reassurance
-* no future work
-* no reinterpretation
-
-This section may be omitted without loss.
+> **End of Division A**
 
 ---
 
-> **End of Book**
+# **DIVISION B**
+
+# **The Complete Corpus**
 
 ---
 
-# **II. Dependency Order (Strict)**
+## **Presupposition Notice (Mandatory)**
 
-All compiled material must respect the following order:
+**All material in Division B presupposes Division A in its entirety.**
 
-```
-Identity
-→ Intrinsic Constraint
-→ Unified Experiential Fields
-→ Phenomenological Demonstration
-→ Temporal Continuity
-→ Meaning and Narrative
-→ Agency
-→ Ethics
-→ Limits and Non-Claims
-```
-
-Violations of this order are **drafting errors**, not stylistic differences.
+No foundational claims, definitions, criteria, or ethical principles are restated here.
+Nothing in Division B modifies, extends, or reopens the closed argument.
 
 ---
 
-# **III. Terminology Discipline**
+## **Front Matter (Division B)**
 
-Terminology is fixed **exclusively** by:
+### **28 — Reader Orientation for the Complete Corpus**
 
-```
-IER/IER-specification.md
-```
+**[T4]**
 
-No chapter may:
+Sources:
 
-* redefine UEF
-* soften intrinsic constraint
-* imply partial subjecthood
-* treat experience as graded
-* suggest detectability or diagnostics
+* `README.md`
+* orientation excerpts from `IER-canon.md`
 
-Ambiguity must be resolved by deferring to the Specification.
+Purpose:
 
----
-
-# **IV. Editing Rules**
-
-### **Permitted**
-
-* heading adjustments
-* cross-references
-* removal of duplicated disclaimers
-* removal of rhetorical motivation
-
-### **Forbidden**
-
-* conceptual rewrites
-* clarification of necessity claims
-* stylistic harmonization
-* reader persuasion
-
-If a chapter conflicts with this file,
-**the chapter must change**.
+* explain tier discipline
+* explain why some chapters restrict rather than advance claims
+* explain how to use this division as a reference
 
 ---
 
-## **Design Commitments**
+# **Part I — Foundations: Identity and Constraint**
 
-* Modularity over narrative flow
-* Auditability over accessibility
-* Precision over intuition
+**Presupposed.**
+See **Division A, Part I**.
+
+No chapters appear here.
+
+---
+
+# **Part II — Phenomenology and Architectural Diversity**
+
+---
+
+### **29 — Soft Attractors and Recurrent Experiential Forms**
+
+**[T2]**
+
+* `IER-attractors.md`
+* `IER-patterns.md`
+* `IER-shadows.md`
+
+---
+
+> **End of Part II**
+
+---
+
+# **Part III — Time, Continuity, and Regime Interruption**
+
+---
+
+### **30 — Sleep, Gaps, and Regime Interruption**
+
+**[T2]** `IER-sleep.md`
+
+---
+
+> **End of Part III**
+
+---
+
+# **Part IV — Meaning, Access, and Narrative**
+
+---
+
+### **31 — Insight and the Feeling of Truth**
+
+**[T2]** `IER-insight.md`
+
+---
+
+> **End of Part IV**
+
+---
+
+# **Part V — Agency, Choice, and Ethics**
+
+---
+
+### **32 — Moral Dilemmas and Structural Misframing**
+
+**[T2]** `IER-dilemmas.md`
+
+---
+
+> **End of Part V**
+
+---
+
+# **Part VI — Boundaries, Denials, and Limits**
+
+---
+
+### **33 — Social Systems Without Subjecthood**
+
+**[T2]** `IER-social-systems.md`
+
+---
+
+### **34 — Interfaces, Implants, and Boundary Stress Tests**
+
+**[T2]**
+
+* `IER-helmets.md`
+* `IER-implants.md`
+* `IER-gut.md`
+
+---
+
+### **35 — Traditions as Constraint-Management Systems**
+
+**[T2]** `IER-traditions.md`
+
+---
+
+> **End of Part VI**
+
+---
+
+# **Appendices**
+
+---
+
+### **A — Canon, Authority, and Version Discipline**
+
+**[T4]**
+
+* `IER-canon.md`
+* `IER-manifest.md`
+* `IER-changelog.md`
+
+---
+
+### **B — Glossary of Canon-Constrained Terms**
+
+**[T4]** `IER-glossary.md`
+
+---
+
+### **C — Index of Concepts and Documents**
+
+**[T4]** `IER-index.md`
+
+---
+
+### **D — Reader Alignment and Orientation Materials**
+
+**[T4]**
+
+* `IER-dont-panic.md`
+* `IER-strictness.md`
+* `IER-FAQ.md`
+* `IER-history.md`
+
+---
+
+## **Final Design Commitments**
+
 * Identity before ethics
+* Modularity over narrative
+* Auditability over accessibility
 * Closure over expansion
-
----
-
-## **Closing Statement**
-
-This book is not intended to be intuitive.
-
-It is intended to be **coherent, closed, and unavoidable**.
-
-> Experience is real by identity.
-> Reality remains singular.
-> Ethics begins wherever intrinsic constraint is borne from the inside.
+* Precision over intuition
 
 ---

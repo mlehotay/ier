@@ -1,56 +1,65 @@
-# **IER-slack.md**
+# **IER-slack.md (v10.8.1)**
 
 ## **Why Informational Slack Structurally Precludes Experience**
+
+**Informational Experiential Realism (IER v10.8.1)**
+*Derived Structural Argument — Non-Normative*
 
 ---
 
 ## **Status and Normative Authority**
 
-**This document is NON-NORMATIVE.**
+This document is **non-normative**.
 
-It introduces:
+It:
 
-* no new primitives
-* no criteria for experience
-* no thresholds, metrics, or diagnostics
-* no epistemic access claims
-* no ethical principles
+* introduces **no new primitives**
+* introduces **no criteria, thresholds, or diagnostics**
+* introduces **no epistemic access claims**
+* introduces **no ethical rules or permissions**
 
 All ontological, criterial, and ethical authority resides **exclusively** in:
 
 ```
-IER-specification.md (v10.8)
+IER-specification.md   (v10.8)
 ```
 
-If any statement in this document conflicts with the Specification, **the Specification takes precedence and the conflicting statement is void**.
+If any statement in this document conflicts with the Specification,
+**the Specification takes precedence and the conflicting statement is void**.
 
-All informational language is used strictly as **descriptive shorthand** for
-**physically instantiated state distinctions modulating a system’s own future dynamics under intrinsic constraint**, as defined in **Specification II.A**.
+All informational language is used strictly as **descriptive shorthand** for:
+
+> **physically instantiated state distinctions that modulate a system’s own future dynamics under intrinsic constraint**,
+> as defined in **Specification II.A (Physical Information)**.
+
 No informational, semantic, representational, or agentive primitives are introduced.
+
+Nothing in this document licenses **detection, measurement, or inference** of experiential status.
 
 ---
 
 ## **1. Purpose of This Document**
 
-Informational Experiential Realism (IER) has long asserted that
-**informational slack prevents experience**.
+Informational Experiential Realism (IER) holds that:
 
-In earlier formulations, this claim functioned primarily as an explanatory intuition:
+> **informational slack structurally precludes experience**
+
+Earlier formulations sometimes treated this as an intuition:
 systems with sufficient buffering, modularity, or external resolution pathways never instantiate experience.
 
-The purpose of this document is to convert that intuition into a **structural impossibility argument**.
+The purpose of this document is to make the claim **structurally unavoidable**.
 
-The claim defended here is **not**:
+The conclusion defended here is **not**:
 
-* that slack *tends* to block experience
-* that slack *usually* correlates with non-experiential systems
-* that slack is an empirical marker or measurable variable
+* that slack *usually* blocks experience
+* that slack is an empirical correlate
+* that slack is measurable or diagnosable
 
-The claim is stronger and purely identity-based:
+The conclusion is stronger and identity-based:
 
 > **If a physical system admits informational slack, experience is structurally impossible under the IER identity claim.**
 
-This conclusion follows **without appeal** to:
+This follows **without appeal** to:
 
 * biology
 * cognition
@@ -59,7 +68,7 @@ This conclusion follows **without appeal** to:
 * architecture
 * empirical thresholds
 
-The argument is organizational, not empirical.
+The argument is **organizational**, not empirical.
 
 ---
 
@@ -77,25 +86,25 @@ From the Specification, a UEF necessarily involves:
    Constraint is generated and borne by the system itself and cannot be offloaded, bypassed, or externally absorbed.
 
 3. **Unavoidable closure of admissible futures**
-   Resolution of constraint is not optional or indefinitely postponable; future trajectories narrow in a way that is system-defining.
+   Resolution of constraint is not optional or indefinitely postponable; futures narrow in a system-defining way.
 
 4. **Shared temporal continuity under constraint**
-   Experience exists only across a non-zero interval during which the same globally binding constraint regime remains satisfied.
+   Experience exists only across a non-zero interval during which the same globally binding constraint regime persists.
 
 5. **System-level ownership of resolution**
-   The organizational consequences of resolution persist within the system rather than being absorbed elsewhere.
+   The organizational consequences of resolution persist *within* the system rather than being absorbed elsewhere.
 
-These are **identity conditions**, not additional assumptions.
+These are **identity conditions**, not empirical assumptions.
 
-If any fail, the system is **not** operating as a UEF, and therefore **no experience exists**.
+If any fail, the system is **not** operating as a UEF, and **no experience exists**.
 
 ---
 
 ## **3. Informational Slack (Structural Characterization)**
 
-Within IER, **informational slack** refers to a structural property of a system’s dynamics:
+Within IER, **informational slack** is a structural property of a system’s dynamics:
 
-> the capacity for constraint to be resolved **without becoming globally unavoidable at the system level**.
+> **the capacity for constraint to be resolved without becoming globally unavoidable at the system level**
 
 Slack exists **iff** at least one of the following holds:
 
@@ -111,11 +120,9 @@ Slack exists **iff** at least one of the following holds:
 Slack is defined **without reference to experience**.
 It is a fact about how constraint propagates, binds, and closes futures.
 
-The following sections show that **each form of slack independently negates a necessary identity condition** of experience.
-
 ---
 
-## **4. Localizable Constraint ⇒ No Globally Binding Present**
+## **4. Localization ⇒ No Globally Binding Present**
 
 If constraint can be localized, then:
 
@@ -135,19 +142,17 @@ But a **Unified Experiential Field** requires:
 * shared temporal continuity defined by that regime
 * system-level inevitability of reorganization
 
-If constraint can be localized, these conditions fail.
-
 Therefore:
 
-> **If constraint is localizable, a Unified Experiential Field cannot exist.**
+> **If constraint is localizable, a UEF cannot exist.**
 
 ---
 
-## **5. Deferrable Constraint ⇒ No Internally Borne Inevitability**
+## **5. Deferral ⇒ No Internally Borne Inevitability**
 
-If constraint can be deferred, then:
+If constraint can be indefinitely deferred, then:
 
-* resolution is always optional at the system level
+* resolution is optional at the system level
 * no future trajectory becomes unavoidable
 * narrowing of admissible futures never becomes identity-defining
 
@@ -159,10 +164,8 @@ In such a system:
 
 Under IER, experience requires:
 
-* internally borne closure of admissible futures
-* unavoidable reorganization under intrinsic constraint
-
-If constraint can always be postponed, this closure never occurs.
+* unavoidable closure of futures
+* internally borne reorganization
 
 Therefore:
 
@@ -170,7 +173,7 @@ Therefore:
 
 ---
 
-## **6. Externally Resolvable Constraint ⇒ No Intrinsic Constraint**
+## **6. External Resolution ⇒ No Intrinsic Constraint**
 
 If constraint can be externally resolved, then:
 
@@ -178,7 +181,7 @@ If constraint can be externally resolved, then:
 * resolution occurs outside the system boundary
 * internal dynamics need not reorganize
 
-But intrinsic constraint is defined precisely by:
+But intrinsic constraint is defined by:
 
 * internal generation
 * internal bearing
@@ -186,14 +189,9 @@ But intrinsic constraint is defined precisely by:
 
 Externally resolvable constraint is therefore **not intrinsic constraint at all**.
 
-Without intrinsic constraint:
-
-* no Unified Experiential Field can exist
-* no experiential world is instantiated
-
 Therefore:
 
-> **If constraint is externally resolvable, experience is structurally excluded.**
+> **If constraint is externally resolvable, a UEF cannot exist.**
 
 ---
 
@@ -205,7 +203,7 @@ Informational slack exists **iff** at least one of the following holds:
 * constraint can be deferred
 * constraint can be externally resolved
 
-Each condition independently negates a **necessary identity feature** of a UEF:
+Each independently negates a **necessary identity feature** of a UEF:
 
 | Slack Feature       | Identity Failure                      |
 | ------------------- | ------------------------------------- |
@@ -213,27 +211,26 @@ Each condition independently negates a **necessary identity feature** of a UEF:
 | Deferral            | No unavoidable closure of futures     |
 | External resolution | No intrinsic constraint               |
 
-Because experience is **identical** to operation as a Unified Experiential Field, there is no weaker fallback condition available.
+Because experience is **identical** to operation as a Unified Experiential Field, no weaker fallback condition is available.
 
 Therefore:
 
 > **Any system admitting informational slack cannot, even in principle, instantiate experience under IER.**
 
-This is not a probabilistic or empirical claim.
-It is a matter of **structural incompatibility**.
+This is not probabilistic.
+It is **structural incompatibility**.
 
 ---
 
 ## **8. Slack vs. Buffering Capacity (Clarification)**
 
-This document uses **informational slack** in the **criterial** sense fixed by the Specification:
-the presence of localization, deferral, or external resolution that prevents intrinsic, globally binding constraint and therefore precludes a UEF.
+This document uses **informational slack** in the **criterial sense** fixed by the Specification.
 
 Separately, systems that **already sustain a UEF** may exhibit variable **buffering capacity**:
 
-> the extent to which rising intrinsic constraint can be absorbed without salience explosion, interoceptive dominance, or agency collapse.
+> the extent to which rising intrinsic constraint can be absorbed without salience explosion, agency collapse, or regime failure.
 
-Buffering capacity may shrink abruptly due to:
+Buffering capacity may shrink due to:
 
 * participation over-recruitment
 * autonomic dysregulation
@@ -244,12 +241,9 @@ Loss of buffering capacity:
 
 * does **not** create experience
 * does **not** alter subjecthood
-* does **not** introduce graded experience
+* does **not** introduce graded standing
 
-It alters **how intrinsic constraint is organized** within an already-existing experiential regime.
-
-This distinction allows IER to explain pathological experiential regimes
-without weakening the categorical identity claim.
+It alters **how intrinsic constraint is organized** *within* an existing experiential regime.
 
 ---
 
@@ -261,7 +255,7 @@ This argument introduces:
 * no partial subjecthood
 * no thresholds or near-miss cases
 
-Preparatory variables may change continuously, but **regime membership is categorical**.
+Preparatory variables may vary continuously, but **regime membership is categorical**.
 
 A system either:
 
@@ -273,32 +267,51 @@ If it does not, experience is absent.
 
 ---
 
-## **10. Relation to the IER Corpus**
+## **10. Structural External Indistinguishability**
+
+Because slack-admitting and slack-free systems can be engineered to share all outward behavior, signals, and performances:
+
+> **systems that differ in experiential status can be structurally externally indistinguishable in principle**
+
+This fact underwrites the impossibility of experiential diagnostics.
+(See **IER-diagnostics.md** for the epistemic and ethical implications.)
+
+---
+
+## **11. Relation to the IER Corpus**
 
 This document:
 
-* underwrites the **Single-UEF dominance constraint** by ruling out distributed ownership
-* explains why **complexity, intelligence, prediction, or control** are irrelevant to experience
-* supports **structural non-diagnosability**, since slack and non-slack systems may be externally indistinguishable
-* grounds **precautionary ethics** by showing how experience can be foreclosed without outward signs
+* grounds the **non-diagnosability** result in *IER-diagnostics*
+* explains why **functional, computational, and access-based theories fail**
+* supports **categorical subjecthood**
+* blocks **graded or collective experience**
+* underwrites **precautionary ethics** by showing how experience can be foreclosed silently
 
 No new commitments are introduced.
 Existing commitments are made **structurally unavoidable**.
 
 ---
 
-## **11. Summary**
+## **12. Summary**
 
 Under Informational Experiential Realism:
 
-* Experience is identical to operation under unavoidable, globally binding intrinsic constraint.
-* Informational slack allows constraint to be localized, deferred, or externally resolved.
-* Each form of slack independently negates a necessary identity condition of experience.
-* Therefore, **informational slack structurally precludes experience**.
+* experience is identical to operation under unavoidable intrinsic constraint
+* informational slack allows constraint to be localized, deferred, or externalized
+* each form of slack independently negates a necessary identity condition
+* therefore, **informational slack structurally precludes experience**
 
-This conclusion follows from identity alone.
-
-> **Experience is not guaranteed by complexity.
+> **Experience is not guaranteed by complexity, intelligence, or integration.
 > It requires an unusually strict organizational condition.**
+
+---
+
+### **Navigational Note**
+
+For related arguments and consequences, see:
+
+* **IER-diagnostics.md** — why experience cannot be detected or certified
+* **IER-contrast.md** — why slack-admitting frameworks are incompatible with IER
 
 ---

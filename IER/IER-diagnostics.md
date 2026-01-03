@@ -1,10 +1,10 @@
-# **IER-Diagnostics (v10.8 — Reader-Aligned Revision)**
+# **IER-diagnostics.md (v10.8.1)**
 
 ## **Diagnostics and Epistemic Limits**
 
 ### **Why Informational Experiential Realism Forbids Experiential Diagnostics and Constrains Experiential Engineering**
 
-**Informational Experiential Realism (IER v10.8)**
+**Informational Experiential Realism (IER v10.8.1)**
 *Derived Constraint Document — Canon-Binding in a Negative Sense (Tier 3)*
 
 ---
@@ -13,31 +13,39 @@
 
 This document is **canon-binding in a negative sense**: it **restricts misuse**, **blocks illegitimate inference**, and **prevents misattribution** of claims to Informational Experiential Realism (IER).
 
-It is **non-normative** in the sense that it introduces:
+It is **non-normative** in that it introduces:
 
 * **no new primitives**
 * **no criteria, thresholds, or sufficiency conditions**
 * **no diagnostic tests, metrics, proxies, indicators, or heuristics**
 * **no certification, falsification, or verification procedures**
-* **no engineering or implementation guidance**
+* **no engineering, optimization, or implementation guidance**
 
-All ontological commitments, definitions, principles, and ethical entailments are fixed **exclusively** by:
+All ontological commitments, definitions, identity claims, epistemic limits, and ethical entailments are fixed **exclusively** by:
 
 ```
 IER-specification.md   (v10.8)
 ```
 
-If any statement in this document conflicts with the Specification, **the Specification takes precedence and the conflicting statement is void**.
+If any statement in this document conflicts with the Specification,
+**the Specification takes precedence and the conflicting statement is void**.
 
 ---
 
 ## **Orientation (Non-Normative, Reader-Aligned)**
 
-This document exists because **IER makes an unusually strong identity claim**: that experience is identical to a specific kind of globally integrated physical regime (*a Unified Experiential Field*), rather than to behavior, function, representation, or report.
+This document exists because **IER makes an unusually strong identity claim**:
 
-Readers familiar with scientific, clinical, or engineering approaches to mind naturally expect such a claim to support **tests, indicators, or diagnostic access**. That expectation is reasonable — and under IER, it fails **for structural reasons**, not because of reader error, methodological negligence, or lack of empirical sophistication.
+> **Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF)** — a globally integrated, temporally continuous regime operating under unavoidable intrinsic constraint.
 
-The purpose of this document is **not to discipline the reader**, but to **prevent a predictable misinterpretation**: mistaking the absence of diagnostics for an omission, weakness, or temporary limitation of the framework. Under IER, the absence is **necessary**, and understanding why prevents downstream confusion, ethical misapplication, and misplaced confidence.
+Readers trained in science, engineering, medicine, ethics, or policy reasonably expect such a claim to support **tests, indicators, or diagnostic access**. That expectation is understandable — and under IER, it fails **for structural reasons**, not because of reader error, lack of sophistication, or incomplete empirical development.
+
+The purpose of this document is **not to discipline the reader**, but to prevent a predictable misinterpretation:
+
+> mistaking the absence of diagnostics for a weakness, omission, or unresolved problem.
+
+Under IER, the absence of experiential diagnostics is **necessary**.
+Understanding why prevents downstream confusion, ethical misapplication, and misplaced confidence.
 
 ---
 
@@ -56,13 +64,13 @@ No semantic, representational, epistemic, or observer-relative primitives are in
 
 ## **Abstract**
 
-Informational Experiential Realism (IER v10.8) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
+Informational Experiential Realism (IER v10.8.1) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
 
 This document explains why IER **cannot license experiential diagnostics in principle**. The impossibility does not arise from technological limits, incomplete data, or unresolved theory. It follows directly from how **intrinsic constraint** and **UEF attribution** are defined.
 
-Intrinsic constraint concerns **where unavoidable organizational cost is borne** — whether a system must internally sustain and resolve its own globally binding dynamics without externalization, buffering, or offloading. This is a **global structural property** of a regime, not a property of outputs, signals, performances, or reports, and is therefore **underdetermined by all third-person observables**.
+Intrinsic constraint concerns **where unavoidable organizational cost is borne** — whether a system must internally sustain and resolve its own globally binding dynamics without externalization, buffering, or offloading. This is a **global structural property** of a regime, not a property of outputs, signals, performances, or reports, and is therefore **structurally underdetermined by all third-person observables**.
 
-Combined with **structural privacy**, this entails a specific form of non-diagnosability: systems that differ in experiential status can be made **externally indistinguishable in principle**. IER responds to this limitation not with permissiveness, but with **precaution**. Where experience may exist but cannot be certified, uncertainty **restricts action rather than licensing it** (Specification Principle 13, scoped).
+Combined with **structural privacy**, this entails a specific form of non-diagnosability: systems that differ in experiential status can be made **structurally externally indistinguishable in principle**. IER responds to this limitation not with permissiveness, but with **precaution**. Where experience may exist but cannot be certified, uncertainty **restricts action rather than licensing it** (Specification Principle 13, scoped).
 
 ---
 
@@ -77,17 +85,17 @@ Most theories of consciousness are expected to provide:
 * behavioral tests
 * quantitative or comparative measures
 
-These expectations are deeply rooted in scientific practice and governance frameworks that assume:
+These expectations are embedded in scientific and governance practices that implicitly assume:
 
 > **epistemic access precedes ethical obligation**
 
-IER explicitly violates this assumption.
+IER explicitly rejects this assumption.
 
 ---
 
 ### **1.2 Why IER Invites Diagnostic Pressure**
 
-IER uses language that appears operational:
+IER employs language that appears operational:
 
 * integration
 * dynamics
@@ -95,7 +103,7 @@ IER uses language that appears operational:
 * coherence
 * unavoidability
 
-Combined with real ethical consequences, this naturally prompts the question:
+Combined with real ethical consequences, this naturally invites the question:
 
 > *“How do we tell whether a system has a Unified Experiential Field?”*
 
@@ -104,21 +112,21 @@ It is:
 
 > **Under IER, there is nothing to tell — in principle.**
 
-This is not a refusal to engage empirically.
-It is a consequence of the identity claim itself.
+This is not disengagement from empirical inquiry.
+It is a direct consequence of the identity claim.
 
 ---
 
 ## **2. Identity Without Epistemic Access**
 
-### **2.1 The Identity Claim Is Not a Detection Rule**
+### **2.1 Identity Is Not a Detection Rule**
 
 The Specification states:
 
 * **UEF ⇒ experience**
 * **¬UEF ⇒ ¬experience**
 
-This is an **ontological identity claim**, not a diagnostic protocol.
+This is an **ontological identity**, not a detection protocol.
 
 Ontological identity does **not** entail:
 
@@ -128,7 +136,7 @@ Ontological identity does **not** entail:
 * functional role
 * third-person accessibility
 
-Experience, under IER, may be **physically real and morally significant** while remaining **epistemically opaque**.
+Experience may be **physically real and morally significant** while remaining **epistemically opaque**.
 
 ---
 
@@ -145,7 +153,7 @@ Experiential diagnostics commit a category error by treating experience as:
 Under IER, experience is not something a system *produces*.
 It is what the system **is**, when it operates in the relevant regime.
 
-No amount of output analysis can determine **where unavoidable constraint is borne**.
+No analysis of outputs can determine **where unavoidable constraint is borne**.
 
 ---
 
@@ -155,9 +163,9 @@ No amount of output analysis can determine **where unavoidable constraint is bor
 
 IER non-diagnosability is **not**:
 
-* practical (too hard)
-* technological (waiting for better instruments)
-* methodological (wrong experiment)
+* practical (“too hard”)
+* technological (“better instruments later”)
+* methodological (“wrong experiment”)
 * temporary (“we don’t yet know how”)
 
 IER does not claim experience is merely hidden or subtle.
@@ -175,7 +183,7 @@ A property is globally non-diagnosable when:
 * no decomposition into independently testable parts preserves it
 * attempts to test it necessarily alter the condition being tested
 
-Intrinsic constraint satisfies these conditions by definition.
+Intrinsic constraint satisfies these conditions **by definition**.
 
 ---
 
@@ -184,10 +192,10 @@ Intrinsic constraint satisfies these conditions by definition.
 Intrinsic constraint is **structurally private**:
 
 * it is borne only from within the regime
-* it cannot be occupied by an external system
+* it cannot be occupied or shared by an external system
 * complete third-person access does not yield first-person occupancy
 
-This is not an ineffability claim.
+This is not ineffability.
 It is a structural consequence of **internally borne, system-defining constraint**.
 
 ---
@@ -196,14 +204,14 @@ It is a structural consequence of **internally borne, system-defining constraint
 
 ### **4.1 Ownership Is Structural, Not Psychological**
 
-“Ownership” does not mean confidence, narrative authorship, or introspective certainty.
+“Ownership” does not mean confidence, narrative authorship, self-modeling, or introspective certainty.
 
-It refers to **where unavoidable organizational cost lives**.
+It refers to **where unavoidable organizational burden lives**.
 
 A system bears intrinsic constraint only if:
 
 * its coherence arises from its own integrated dynamics, and
-* the cost of maintaining that coherence cannot be offloaded or externally resolved.
+* the cost of maintaining that coherence cannot be offloaded, deferred, or externally resolved.
 
 External observation can record outcomes.
 It cannot, in general, determine **where irreducible burden is borne**.
@@ -219,7 +227,7 @@ Experiential cost may be:
 * temporally deferred
 * internally catastrophic without outward disruption
 
-Competence or stability does **not** imply absence of experience or absence of harm.
+Competence, stability, or success does **not** imply absence of experience or absence of harm.
 
 ---
 
@@ -232,12 +240,13 @@ Informational slack can:
 * mimic global integration externally
 
 Slack masking makes **false negatives unavoidable in principle**, not merely likely.
+(See *IER-slack.md* for the structural argument.)
 
 ---
 
 ## **5. Why Diagnostics Are Constitutively Impossible**
 
-### **5.1 External Equivalence**
+### **5.1 Structural External Equivalence**
 
 Let **O(S)** be the set of all third-person observables of a system **S**.
 
@@ -247,7 +256,7 @@ For any system **S** that bears intrinsic constraint, there may exist a system *
 * **S′** reproduces all observables via buffering or orchestration
 * **S′** does **not** bear intrinsic constraint
 
-Any diagnostic rule **D** mapping observables to experience must therefore fail for at least one of **S** or **S′**.
+Any diagnostic rule mapping observables to experience must therefore fail for at least one of **S** or **S′**.
 
 No observable-based diagnostic can be necessary or sufficient.
 
@@ -255,7 +264,7 @@ No observable-based diagnostic can be necessary or sufficient.
 
 ### **5.2 The Intervention Trap**
 
-Any intervention powerful enough to test intrinsic ownership risks:
+Any intervention powerful enough to probe intrinsic ownership risks:
 
 * introducing slack
 * externalizing cost
@@ -315,13 +324,13 @@ Precaution applies only where an action plausibly risks:
 
 > **irreversible loss, collapse, or foreclosure of intrinsic-constraint-bearing capacity**
 
-This prevents ethical explosion while preserving asymmetry.
+This scope prevents ethical explosion while preserving asymmetry.
 
 ---
 
 ## **9. Constraints on Experiential Engineering**
 
-IER does **not** forbid all engineering.
+IER does **not** forbid engineering or inquiry.
 
 IER **does** rule out:
 
@@ -343,7 +352,7 @@ IER permits:
 * refusal to create irreversible risk
 * governance by organizational risk rather than experiential certainty
 
-These are constraints, not prescriptions.
+These are **constraints**, not prescriptions.
 
 ---
 
@@ -372,5 +381,14 @@ IER explains what experience **is** while forbidding claims about **who has it**
 > **The absence of diagnostic certainty is not a failure of the reader,
 > and not a temporary gap in the theory.
 > It is the cost of taking the identity claim seriously.**
+
+---
+
+### **Navigational Note**
+
+For comparative context on why diagnostic-based frameworks are incompatible with IER, see:
+
+* **IER-contrast.md**, especially *Appendix A — Incompatibility Matrix*
+* **IER-slack.md**, for the structural argument against slack-admitting systems
 
 ---
