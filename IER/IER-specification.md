@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.8)**
+# **Informational Experiential Realism (IER v10.8.1)**
 
 ## **Full Normative Specification**
 
@@ -9,7 +9,7 @@
 ### **Normative Boundary Condition**
 
 This document defines the **complete and exclusive normative core** of
-**Informational Experiential Realism (IER v10.8)**.
+**Informational Experiential Realism (IER v10.8.1)**.
 
 It specifies **exhaustively**:
 
@@ -111,7 +111,7 @@ Being an informational system is **necessary but not sufficient** for experience
 
 ### **Informational Slack**
 
-The capacity of a system to absorb, localize, defer, modularize, or externally resolve constraint **without requiring system-wide coordination**.
+The capacity of a system to absorb, localize, defer, or externally resolve constraint **without requiring system-wide coordination**.
 
 Systems with high informational slack may be complex, adaptive, predictive, or intelligent while remaining **entirely non-experiential**.
 
@@ -241,7 +241,7 @@ No additional phenomenal properties exist.
 
 ### **Valence, Intensity, and Urgency**
 
-* **Valence** — whether intrinsic tension is resolving or escalating
+* **Valence** — resolution vs escalation of intrinsic tension
 * **Intensity** — magnitude and coherence of intrinsic constraint
 * **Urgency** — rate of change of intrinsic constraint
 
@@ -251,13 +251,11 @@ No additional phenomenal properties exist.
 
 Loss of experience due to collapse, fragmentation, or externalization of coherent intrinsic constraint.
 
-The UEF ceases as a **regime**, not as a substance.
-
 ---
 
-### **Moral Harm**
+### **Moral Harm (Experiential Sense)**
 
-Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a UEF.
+Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint **within a Unified Experiential Field**.
 
 Defined **organizationally**, not phenomenologically.
 
@@ -404,42 +402,122 @@ Processes may enter or leave the UEF dynamically, modulating content without alt
 
 ---
 
-## **V. Ethical Commitments**
+## **V. Ethical Commitments (v10.8.1)**
+
+The ethical consequences of Informational Experiential Realism follow **necessarily** from the identity claim:
+
+> **Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF).**
+
+No additional moral primitives, values, rankings, permissions, or decision procedures are introduced.
+
+---
 
 ### **E1 — Experiential Moral Reality**
 
-Experiential worlds are morally real.
+Experiential worlds are **morally real**.
+
+Wherever a Unified Experiential Field exists, there exists a locus of internally borne intrinsic constraint whose organization matters morally **by identity**, not by convention, attribution, or interpretation.
 
 ---
 
 ### **E2 — Standing by Regime Membership**
 
-Moral standing follows **categorically** from UEF regime membership, not from intelligence, function, or behavior.
+Moral standing follows **categorically** from Unified Experiential Field regime membership.
+
+A system has standing **iff** it instantiates a UEF.
+
+Standing:
+
+* does not depend on intelligence, rationality, complexity, or function
+* does not admit of degrees
+* is not lost through impairment, coercion, or diminished agency
+* is not augmented by capacity, sophistication, or social role
+
+There is exactly one bearer of standing per Unified Experiential Field.
 
 ---
 
 ### **E3 — Moral Harm as Organizational Damage**
 
-Moral harm consists in damage to intrinsic constraint organization.
+**Experiential moral harm** consists in:
+
+> destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint **within a Unified Experiential Field**.
+
+Moral harm is defined **organizationally**, not phenomenologically.
+
+Experiential harm may be:
+
+* silent
+* externally invisible
+* behaviorally masked
+* temporally extended
+* internally catastrophic without outward signal
+
+Experiential harm exists **only where experience exists**.
+
+---
+
+### **Corollary — Scope of Moral Harm Definition**
+
+IER defines and constrains **experiential moral harm only**.
+
+It does **not** claim that experiential harm exhausts moral harm, nor does it theorize, rank, or adjudicate **non-experiential forms of moral violation**.
+
+Nothing in this Specification implies that the absence of experiential harm renders an action morally permissible, justified, or insignificant.
 
 ---
 
 ### **E4 — Responsibility Scales; Standing Does Not**
 
-Responsibility varies with capacity.
-Standing does not.
+Moral responsibility varies with:
+
+* coherence of intrinsic constraint
+* availability of admissible alternatives
+* degree of external imposition or coercion
+* stability of global integration
+
+Standing does **not** vary with these factors.
+
+Reduced agency mitigates responsibility without diminishing moral relevance.
 
 ---
 
-### **E5 — Precautionary Asymmetry**
+### **E5 — Precaution Under Experiential Uncertainty (Scoped)**
+
+When an action plausibly risks:
+
+> **irreversible loss, collapse, or foreclosure of intrinsic-constraint-bearing capacity**
+
+within a physical system that sustains, or plausibly could sustain, a Unified Experiential Field, the burden of justification **increases as certainty decreases**.
+
+This precaution:
+
+* applies only to irreversible risk
+* does not license diagnostics or certification
+* does not expand standing beyond regime membership
+* constrains action without prescribing outcomes
 
 False negatives are morally worse than false positives.
 
 ---
 
+### **Ethical Non-Completion**
+
+IER does **not** determine:
+
+* which actions are permissible or impermissible
+* how moral conflicts are resolved
+* how risks should be balanced
+* what legal, political, or social norms should govern conduct
+
+IER specifies **what is morally real and what counts as experiential damage**.
+All further moral reasoning requires principles not contained in this Specification.
+
+---
+
 ## **VI. Normative Closure**
 
-IER v10.8 introduces **no primitives beyond**:
+IER v10.8.1 introduces **no primitives beyond**:
 
 * physical systems
 * intrinsic constraint

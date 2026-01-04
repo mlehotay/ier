@@ -36,7 +36,7 @@ It is a theory of:
 ### **Normative Boundary Condition**
 
 This document defines the **complete and exclusive normative core** of
-**Informational Experiential Realism (IER v10.8)**.
+**Informational Experiential Realism (IER v10.8.1)**.
 
 It specifies **exhaustively**:
 
