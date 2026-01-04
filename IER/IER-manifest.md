@@ -1,160 +1,224 @@
-# **IER Manifest (v10.8.1)**
+# **IER Manifest (v10.8.1 — Revised Flat Order)**
 
-## **Corpus Inventory, Tier Assignment, and Reading Orientation**
+## **Corpus Inventory, Flat Ordering, and Tier Discipline**
 
 ---
 
 ## **Status and Authority**
 
-This document defines the **official inventory of documents**, their **canon tier assignments**, and **brief descriptive summaries** for the **Informational Experiential Realism (IER)** corpus as of **v10.8.1**.
+This document defines the **official inventory of documents**, their **tier assignments**, and the **canonical flat ordering** of the
+**Informational Experiential Realism (IER)** corpus as of **v10.8.1**.
 
-It introduces **no ontological, criterial, epistemic, or ethical claims**.
+It introduces:
+
+* **no ontological claims**
+* **no criterial definitions**
+* **no epistemic access rules**
+* **no ethical principles**
 
 All authority, constraints, and interpretive rules are defined **exclusively** in:
 
-> **`IER-canon.md`**
+```
+IER-canon.md
+```
 
-This manifest is **descriptive**, not normative.
+This manifest is **descriptive and organizational**, not normative.
 
 ---
 
 ## **Corpus Completeness**
 
-**IER v10.8.1 constitutes a complete reference corpus.**
+**IER v10.8.1 constitutes a complete, closed reference corpus.**
 
-All documents listed here are canonical.
-Documents not listed here are **non-canonical by default** unless explicitly added in a future release.
-
----
-
-# **Tier 1 — Foundational Canon**
-
-**Exclusive ontological, normative, and structural authority**
+All documents listed below are canonical.
+Documents not listed here are **non-canonical by default** unless explicitly added in a future version.
 
 ---
 
-### **Ontology and Identity**
+## **Flat Order Principle (Binding)**
 
-* **`IER-specification.md`** — Exclusive normative core defining experiential identity, Unified Experiential Fields (UEFs), intrinsic constraint, categorical subjecthood, and moral standing.
-* **`IER-theory.md`** — Explains why experiential identity requires global intrinsic constraint and why weaker organizational accounts fail.
-
----
-
-### **Regime Structure and Formalization**
-
-* **`IER-dynamics.md`** — Describes how UEFs behave over time, including dominance, participation modulation, stability, and collapse.
-* **`IER-math.md`** — Formalizes IER using state spaces and regimes without introducing diagnostics or new ontology.
+The corpus is presented in a **single flat order**, divided into **two conceptual parts**:
 
 ---
 
-### **Ethical Consequences**
+### **PART I — The IER Theory Proper (Closed Argument)**
 
-* **`IER-ethics.md`** — Develops the ethical consequences that necessarily follow from experiential identity.
+Answers the question:
 
----
+> **What does IER claim, and what necessarily follows if it is true?**
 
-# **Tier 2 — Canon-Constrained Analytical Extensions**
+Characteristics:
 
-**Analytical and explanatory work strictly constrained by Tier-1**
-
----
-
-### **Phenomenology, Continuity, and Mental Structure**
-
-* **`IER-continuity.md`** — Explains how experiential gaps coexist with identity persistence.
-* **`IER-persistence.md`** — Accounts for deep experiential change without violating categorical subjecthood.
-* **`IER-brainfeels.md`** — Analyzes endogenous qualitative experiences as intrinsic-constraint stabilizers.
-* **`IER-aphantasia.md`** — Interprets aphantasic phenomenology as a coherent experiential architecture.
-* **`IER-emotions.md`** — Explains emotions as stable organizations of intrinsic constraint.
-* **`IER-panic.md`** — Reinterprets panic and shutdown as regime-preserving or regime-abandoning responses.
-* **`IER-psychosis.md`** — Describes psychosis as a pathological regime within a persisting UEF.
-* **`IER-meaning.md`** — Explains meaning as a constraint-stabilizing organizational phenomenon.
-* **`IER-intentionality.md`** — Replaces representational intentionality with a structural account grounded in intrinsic constraint.
-* **`IER-sleep.md`** — Clarifies unconscious states using regime-based experiential continuity.
-* **`IER-shadows.md`** — Explains shadow figures and DMT entities as soft attractors under extreme constraint.
-* **`IER-art.md`** — Explains art and beauty as constraint-shaping experiential structures.
-* **`IER-patterns.md`** — Explains recurring natural forms using attractor dynamics.
-* **`IER-attractors.md`** — Introduces soft attractors in experiential organization.
-* **`IER-insight.md`** — Explains insight as rapid reorganization of intrinsic constraint.
-* **`IER-types.md`** — Interprets personality types as attractor-based clustering.
-* **`IER-dormancy.md`** — Analyzes dormancy as an experiential null interval
+* contains **all Tier-1 material**
+* includes **exclusionary and misuse-blocking material required to close the argument**
+* is **normatively sufficient**
+* is **closed under v10.8**
+* introduces the identity claim **once and only once**
+* contains **no reader-alignment, reassurance, or pedagogical material**
 
 ---
 
-### **Agency, Choice, and Action**
+### **PART II — Additional Topics, Applications, and Boundaries**
 
-* **`IER-agency.md`** — Defines agency as owned resolution of intrinsic constraint within a UEF.
-* **`IER-choice.md`** — Introduces Choice Spaces as structured sets of admissible futures.
-* **`IER-free-will.md`** — Dissolves the free-will debate by separating determinism from ownership.
-* **`IER-access.md`** — Clarifies the separation between experiential access and epistemic authority.
-* **`IER-slack.md`** — Argues that informational slack structurally prevents experience under IER.
-* **`IER-social-systems.md`** — Explains how institutions matter morally without being experiential subjects.
-* **`IER-resolution.md`** — Distinguishes physical resolution from experiential ownership.
+Answers the question:
 
----
+> **Given that IER is true, how does it behave across phenomena, confusions, boundaries, and contexts?**
 
-### **Normative Analysis and Critique**
+Characteristics:
 
-* **`IER-morals.md`** — Works through concrete moral cases using IER’s distinctions.
-* **`IER-denials.md`** — Explicitly lists what IER does not claim.
-* **`IER-critics.md`** — Responds to major objections and clarifies accepted theoretical costs.
+* **presupposes Part I in its entirety**
+* introduces **no new foundations**
+* elaborates, applies, constrains, and contextualizes the theory
+* explicitly labels tier status
+* includes phenomenology, ethics-in-practice, boundaries, critiques, and reader materials
 
 ---
 
-### **Comparative and Boundary Work**
+## **Tier Discipline (Global)**
 
-* **`IER-contrast.md`** — Specifies incompatibilities between IER and neighboring theories.
-* **`IER-puzzles.md`** — Shows how classic philosophical puzzles dissolve under IER.
-* **`IER-dilemmas.md`** — Explains the structural misframing behind classic moral dilemmas.
-* **`IER-helmets.md`** — Explains why immersive tools do not become part of a UEF.
-* **`IER-gut.md`** — Explains why the enteric nervous system is not a second subject.
-* **`IER-implants.md`** — Explains why neural implants reshape participation without becoming co-owners.
-* **`IER-traditions.md`** — Examines major world traditions by how they influence experiential constraint.
+All documents are labeled with explicit tier markers:
 
----
+* **[T1] Foundational Canon**
+* **[T2] Canon-Constrained Analysis**
+* **[T3] Misuse-Blocking / Diagnostic Limits**
+* **[T4] Explanatory / Pedagogical / Meta**
 
-# **Tier 3 — Diagnostic and Misuse-Blocking Documents**
-
-**Canon-binding in a restrictive sense**
-
-* **`IER-diagnostics.md`** — Explains why experiential diagnostics are structurally impossible and how uncertainty constrains action.
+Tier markers constrain interpretation and prohibit authority inflation.
 
 ---
 
-# **Tier 4 — Explanatory, Pedagogical, and Meta Material**
+---
 
-**No authority; full deference to higher tiers**
-
-* **`IER-canon.md`** — Defines authority rules, alignment constraints, conflict resolution, and version discipline.
-* **`IER-glossary.md`** — Canon-constrained definitions of terms used across the corpus.
-* **`IER-index.md`** — Navigational index of concepts and document locations.
-* **`README.md`** — High-level overview of Informational Experiential Realism.
-* **`IER-FAQ.md`** — Plain-language answers to common confusions.
-* **`IER-dont-panic.md`** — Reassurance regarding ethical severity and reader blame.
-* **`IER-strictness.md`** — Explains why IER requires unusually strong constraints.
-* **`IER-changelog.md`** — Records conceptual and structural version changes.
-* **`IER-futures.md`** — Explores speculative cultural equilibria under IER.
-* **`IER-history.md`** — Situates IER within the historical development of theories of mind.
+# **PART I — THE IER THEORY PROPER (CLOSED ARGUMENT)**
 
 ---
 
-# **Non-Canonical and Planning Material**
+1. **[T1] `IER-specification.md`**
+   *Exclusive normative core defining experiential identity, Unified Experiential Fields (UEFs), intrinsic constraint, categorical subjecthood, and moral standing.*
 
-* **`_work/IER-abstracts.md`** — Central repository of abstracts for canonical documents.
-* **`_work/IER-future-work.md`** — Non-canonical planning notes and speculative extensions.
+2. **[T1] `IER-theory.md`**
+   *Explanatory backbone showing why experience must be a regime of global intrinsic constraint and why weaker accounts fail.*
+
+3. **[T1] `IER-dynamics.md`**
+   *Dynamics of Unified Experiential Fields: dominance, participation modulation, stability, and collapse.*
+
+4. **[T1] `IER-math.md`**
+   *Formal structural support using state spaces, regimes, and coherence without introducing diagnostics or new ontology.*
+
+5. **[T2] `IER-slack.md`**
+   *Structural impossibility argument showing why informational slack precludes experience by identity.*
+
+6. **[T1] `IER-ethics.md`**
+   *Ethical consequences that necessarily follow from experiential identity.*
+
+7. **[T3] `IER-diagnostics.md`**
+   *Canon-binding misuse-blocking document explaining why experiential diagnostics are structurally impossible and how uncertainty constrains action.*
+
+---
+
+> **End of Part I**
+> The IER theory is fully specified, closed, and misuse-constrained at this point.
+
+---
+
+# **PART II — ADDITIONAL TOPICS, APPLICATIONS, AND BOUNDARIES**
+
+---
+
+## **Phenomenology and Experiential Organization**
+
+8. **[T2] `IER-emotions.md`** — Emotions as stable organizations of intrinsic constraint
+9. **[T2] `IER-brainfeels.md`** — Endogenous qualitative stabilizers
+10. **[T2] `IER-aphantasia.md`** — Architectural diversity within intact UEFs
+11. **[T2] `IER-panic.md`** — Panic and shutdown as regime-preserving responses
+12. **[T2] `IER-psychosis.md`** — Psychosis as pathological regime within a persisting UEF
+13. **[T2] `IER-art.md`** — Art and beauty as constraint-shaping structures
+
+---
+
+## **Time, Continuity, and Regime Interruption**
+
+14. **[T2] `IER-continuity.md`** — Experiential gaps without identity loss
+15. **[T2] `IER-persistence.md`** — Deep change without subject replacement
+16. **[T2] `IER-sleep.md`** — Sleep, anesthesia, and unconscious intervals
+17. **[T2] `IER-dormancy.md`** — Dormancy as experiential null interval
+
+---
+
+## **Meaning, Access, and Narrative Structure**
+
+18. **[T2] `IER-access.md`** — Experiential access vs. epistemic authority
+19. **[T2] `IER-meaning.md`** — Meaning without ontological inflation
+20. **[T2] `IER-intentionality.md`** — Intentionality without representation
+21. **[T2] `IER-puzzles.md`** — Why classic puzzles dissolve under IER
+22. **[T2] `IER-insight.md`** — Insight as constraint reorganization
+
+---
+
+## **Dynamics, Attractors, and Recurring Forms**
+
+23. **[T2] `IER-attractors.md`** — Soft attractors in experiential organization
+24. **[T2] `IER-patterns.md`** — Recurring natural and experiential forms
+25. **[T2] `IER-shadows.md`** — Shadow figures and extreme constraint states
+
+---
+
+## **Agency, Choice, and Ethics in Practice**
+
+26. **[T2] `IER-agency.md`** — Agency as owned resolution of intrinsic constraint
+27. **[T2] `IER-choice.md`** — Choice spaces and admissible futures
+28. **[T2] `IER-free-will.md`** — Free will without indeterminism
+29. **[T2] `IER-morals.md`** — Concrete moral cases under IER
+30. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
+
+---
+
+## **Boundaries, Denials, and Comparative Work**
+
+31. **[T2] `IER-denials.md`** — Explicit non-claims of the framework
+32. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
+33. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
+
+---
+
+## **Social, Institutional, and Interface Boundaries**
+
+34. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
+35. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
+36. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
+37. **[T2] `IER-gut.md`** — The enteric system and participation without subjecthood
+38. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
+
+---
+
+## **Meta, Orientation, and Navigation**
+
+39. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
+40. **[T4] `IER-history.md`** — Historical preconditions for IER
+41. **[T4] `IER-canon.md`** — Authority, alignment, and governance rules
+42. **[T4] `IER-glossary.md`** — Canon-constrained terminology
+43. **[T4] `IER-index.md`** — Concept-to-document navigation
+44. **[T4] `IER-changelog.md`** — Version history and structural changes
+
+---
+
+## **Non-Canonical and Planning Material**
+
+45. `_work/IER-abstracts.md` — Abstract repository (non-canonical)
+46. `_work/IER-future-work.md` — Planning and maintenance notes (non-canonical)
 
 ---
 
 ## **Summary**
 
-`IER-Manifest.md` defines:
+This manifest defines:
 
-* **what documents exist**
-* **where they sit**
-* **what role each plays**
+* a **single flat order**
+* a **two-part conceptual structure**
+* explicit **tier discipline**
+* a **closed foundational argument**
+* a **complete, organized corpus**
 
-All authority and interpretation remain governed **exclusively** by `IER-canon.md`.
-
-**IER v10.8.1 is complete, closed, and maintainable.**
+**IER v10.8.1 is closed, internally consistent, and maintainable.**
 
 ---

@@ -49,19 +49,19 @@ This README is **orientation only**.
 The **sole normative authority** in IER is:
 
 ```
-IER/IER-specification.md   (v10.8)
+IER-specification.md   (v10.8.1)
 ```
 
 Canon rules, authority discipline, conflict resolution, and versioning are defined in:
 
 ```
-IER/IER-canon.md
+IER-canon.md
 ```
 
-The complete document inventory, tier assignments, and reading orientation are defined in:
+The complete document inventory, tier assignments, and flat ordering are defined in:
 
 ```
-IER/IER-manifest.md
+IER-manifest.md
 ```
 
 If anything you read elsewhere appears to conflict,
@@ -73,10 +73,10 @@ If anything you read elsewhere appears to conflict,
 
 If you encounter unfamiliar terminology:
 
-* **`IER-glossary.md`** — Canon-constrained definitions of core terms
-* **`IER-index.md`** — Navigational index of concepts and where they are developed
+* [`IER-glossary.md`](./IER-glossary.md) — Canon-constrained definitions of core terms
+* [`IER-index.md`](./IER-index.md) — Navigational index of concepts and where they are developed
 
-Both are **non-authoritative** aids and introduce no new claims.
+Both are **non-authoritative aids** and introduce no new claims.
 
 ---
 
@@ -90,12 +90,16 @@ They are **non-authoritative** and purely orienting.
 
 ---
 
-### 🌱 First-Time Readers (Minimal Commitment)
+## 🌱 First-Time Readers (Minimal Commitment)
 
-For a clean statement of the core claim:
+For a clean statement of the core claim, without applications or ethics:
 
 1. [`IER-specification.md`](./IER-specification.md)
 2. [`IER-theory.md`](./IER-theory.md)
+
+Optional clarification of consequences:
+
+* [`IER-ethics.md`](./IER-ethics.md)
 
 Optional reassurance if the implications feel heavy:
 
@@ -103,26 +107,45 @@ Optional reassurance if the implications feel heavy:
 
 ---
 
-### 🧠 Philosophers of Mind & Consciousness
+## 🧠 Philosophers of Mind & Consciousness
 
-For metaphysical structure and boundary-setting:
+For metaphysical structure, identity conditions, and boundary setting:
 
 1. [`IER-specification.md`](./IER-specification.md)
 2. [`IER-theory.md`](./IER-theory.md)
-3. [`IER-contrast.md`](./IER-contrast.md)
-4. [`IER-critics.md`](./IER-critics.md)
-5. [`IER-puzzles.md`](./IER-puzzles.md)
+3. [`IER-dynamics.md`](./IER-dynamics.md)
+4. [`IER-slack.md`](./IER-slack.md)
+5. [`IER-contrast.md`](./IER-contrast.md)
+6. [`IER-critics.md`](./IER-critics.md)
+7. [`IER-puzzles.md`](./IER-puzzles.md)
 
 ---
 
-### ⚖️ Ethics, AI, and Moral Uncertainty
+## 🧱 The Closed Argument (Theory Proper)
 
-For standing, harm, and why diagnostics are forbidden:
+For the **entire IER theory**, exactly as it is closed and governed:
 
-1. [`IER-diagnostics.md`](./IER-diagnostics.md)
-2. [`IER-specification.md`](./IER-specification.md)
-3. [`IER-ethics.md`](./IER-ethics.md)
+1. [`IER-specification.md`](./IER-specification.md)
+2. [`IER-theory.md`](./IER-theory.md)
+3. [`IER-dynamics.md`](./IER-dynamics.md)
+4. [`IER-math.md`](./IER-math.md)
+5. [`IER-slack.md`](./IER-slack.md)
+6. [`IER-ethics.md`](./IER-ethics.md)
+7. [`IER-diagnostics.md`](./IER-diagnostics.md)
+
+This sequence contains **everything IER claims** and **everything that necessarily follows**.
+
+---
+
+## ⚖️ Ethics, AI, and Moral Uncertainty
+
+For standing, harm, precaution, and why diagnostics are forbidden:
+
+1. [`IER-specification.md`](./IER-specification.md)
+2. [`IER-ethics.md`](./IER-ethics.md)
+3. [`IER-diagnostics.md`](./IER-diagnostics.md)
 4. [`IER-morals.md`](./IER-morals.md)
+5. [`IER-dilemmas.md`](./IER-dilemmas.md)
 
 Related boundary work:
 
@@ -131,67 +154,56 @@ Related boundary work:
 
 ---
 
-### 🧱 Structural Minimalism & Hard Constraints
+## 🔄 Dynamics, Systems, and Formal Structure
 
-For the framework in its most stripped-down form:
-
-1. [`IER-specification.md`](./IER-specification.md)
-2. [`IER-theory.md`](./IER-theory.md)
-3. [`IER-slack.md`](./IER-slack.md)
-4. [`IER-math.md`](./IER-math.md)
-5. [`IER-dynamics.md`](./IER-dynamics.md)
-
-Optional cross-domain structure:
-
-* [`IER-patterns.md`](./IER-patterns.md)
-
----
-
-### 🔄 Dynamics, Systems, and Formal Structure
-
-For regimes, stability, and constraint behavior:
+For regimes, coherence, stability, and constraint behavior:
 
 * [`IER-dynamics.md`](./IER-dynamics.md)
 * [`IER-math.md`](./IER-math.md)
 * [`IER-slack.md`](./IER-slack.md)
 * [`IER-attractors.md`](./IER-attractors.md)
+* [`IER-patterns.md`](./IER-patterns.md)
 
 ---
 
-### 🧩 Phenomenology & Lived Experience
+## 🧩 Phenomenology & Lived Experience
 
-For how diverse experiences fit the same identity claim:
+For how diverse experiences fit a single identity claim:
+
+* [`IER-emotions.md`](./IER-emotions.md)
+* [`IER-brainfeels.md`](./IER-brainfeels.md)
+* [`IER-aphantasia.md`](./IER-aphantasia.md)
+* [`IER-panic.md`](./IER-panic.md)
+* [`IER-psychosis.md`](./IER-psychosis.md)
+* [`IER-art.md`](./IER-art.md)
+
+Temporal structure and interruption:
 
 * [`IER-continuity.md`](./IER-continuity.md)
 * [`IER-persistence.md`](./IER-persistence.md)
-* [`IER-emotions.md`](./IER-emotions.md)
-* [`IER-panic.md`](./IER-panic.md)
-* [`IER-psychosis.md`](./IER-psychosis.md)
-* [`IER-aphantasia.md`](./IER-aphantasia.md)
-* [`IER-brainfeels.md`](./IER-brainfeels.md)
 * [`IER-sleep.md`](./IER-sleep.md)
+* [`IER-dormancy.md`](./IER-dormancy.md)
 
 ---
 
-### 🧠 Why Experience Still Feels Like Something
+## 🧠 Why Experience Still Feels Like Something
 
 *(Without Epistemic Authority)*
 
-1. [`IER-specification.md`](./IER-specification.md)
-2. [`IER-access.md`](./IER-access.md)
-3. [`IER-emotions.md`](./IER-emotions.md)
-4. [`IER-brainfeels.md`](./IER-brainfeels.md)
-5. [`IER-insight.md`](./IER-insight.md)
-6. [`IER-panic.md`](./IER-panic.md)
+1. [`IER-access.md`](./IER-access.md)
+2. [`IER-emotions.md`](./IER-emotions.md)
+3. [`IER-brainfeels.md`](./IER-brainfeels.md)
+4. [`IER-insight.md`](./IER-insight.md)
+5. [`IER-panic.md`](./IER-panic.md)
 
-Optional edge cases:
+Optional extreme cases:
 
 * [`IER-psychosis.md`](./IER-psychosis.md)
 * [`IER-shadows.md`](./IER-shadows.md)
 
 ---
 
-### 🧭 Meaning, Agency, and Action
+## 🧭 Meaning, Agency, and Action
 
 * [`IER-agency.md`](./IER-agency.md)
 * [`IER-choice.md`](./IER-choice.md)
@@ -199,15 +211,33 @@ Optional edge cases:
 * [`IER-intentionality.md`](./IER-intentionality.md)
 * [`IER-meaning.md`](./IER-meaning.md)
 * [`IER-access.md`](./IER-access.md)
-* [`IER-resolution.md`](./IER-resolution.md)
 
 ---
 
-### 🎨 Culture, Art, and Structural Recurrence
+## 🎨 Culture, Art, and Structural Recurrence
 
 * [`IER-patterns.md`](./IER-patterns.md)
+* [`IER-attractors.md`](./IER-attractors.md)
 * [`IER-art.md`](./IER-art.md)
 * [`IER-helmets.md`](./IER-helmets.md)
+
+---
+
+## 🚧 Boundaries and Non-Claims
+
+For what IER **explicitly does not say**:
+
+* [`IER-denials.md`](./IER-denials.md)
+* [`IER-contrast.md`](./IER-contrast.md)
+* [`IER-critics.md`](./IER-critics.md)
+
+For institutional and interface limits:
+
+* [`IER-social-systems.md`](./IER-social-systems.md)
+* [`IER-helmets.md`](./IER-helmets.md)
+* [`IER-implants.md`](./IER-implants.md)
+* [`IER-gut.md`](./IER-gut.md)
+* [`IER-traditions.md`](./IER-traditions.md)
 
 ---
 
@@ -233,8 +263,8 @@ If a claim is not stated in the Specification or a **necessary entailment** of i
 IER is:
 
 * restrictive toward misuse
-* adversarial toward certain institutions
-* uncompromising about its identity claim
+* uncompromising about identity
+* ethically severe in implication
 
 IER is **not** accusatory toward readers.
 
@@ -247,9 +277,10 @@ Confusion, discomfort, or disagreement are expected consequences of a strong fra
 This repository reflects **IER v10.8.1**.
 
 * **v10.8** — normative closure
-* **v10.8.1** — corpus completion (glossary, index, sealed clarity)
+* **v10.8.1** — corpus completion and structural sealing
 
-Minor versions clarify; changes to normative authority require explicit canon updates.
+Patch versions clarify and organize.
+Changes to normative authority require explicit canon revision.
 
 ---
 
@@ -258,5 +289,3 @@ Minor versions clarify; changes to normative authority require explicit canon up
 *Experience is real by identity.
 Reality remains singular.
 Ethics begins wherever intrinsic constraint is borne from the inside.*
-
----

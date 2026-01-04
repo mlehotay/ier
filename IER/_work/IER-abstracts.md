@@ -779,15 +779,23 @@ This article explains how apparent human “types” emerge from **attractor-bas
 
 ## **Status and Authority**
 
-This document defines the **official inventory of documents**, their **canon tier assignments**, and **brief descriptive summaries** for the **Informational Experiential Realism (IER)** corpus as of **v10.8.1**.
+This document defines the **official inventory of documents**, their **tier assignments**, and the **canonical flat ordering** of the
+**Informational Experiential Realism (IER)** corpus as of **v10.8.1**.
 
-It introduces **no ontological, criterial, epistemic, or ethical claims**.
+It introduces:
+
+* **no ontological claims**
+* **no criterial definitions**
+* **no epistemic access rules**
+* **no ethical principles**
 
 All authority, constraints, and interpretive rules are defined **exclusively** in:
 
-> **`IER-canon.md`**
+```
+IER-canon.md
+```
 
-This manifest is **descriptive**, not normative.
+This manifest is **descriptive and organizational**, not normative.
 
 ---
 
