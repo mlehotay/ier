@@ -1,4 +1,4 @@
-# **IER-Morals: Hard Cases, Harm, and Tragic Permission**
+# **IER-Morals: Hard Cases, Harm, and Tragic Permission (v10.8.1)**
 
 ## *Applying Intrinsic Constraint to Moral Edge Cases*
 
@@ -8,12 +8,15 @@
 
 This document is **NON-NORMATIVE**.
 
-It introduces **no new axioms, definitions, criteria, or ethical principles** beyond those fixed exclusively in the
-**Informational Experiential Realism (IER v10.6) Normative Specification**.
+It introduces **no new axioms, definitions, criteria, or ethical principles** beyond those fixed exclusively in the:
 
-All moral authority remains with the Specification.
+```
+Informational Experiential Realism (IER v10.8.1) Normative Specification
+```
 
-This document exists to **apply** IER’s ethical commitments to a set of canonical *hard cases*—situations in which everyday moral language breaks down and intuitions conflict. Its purpose is to show how a **single structural account of moral harm** yields clarity without pretending to dissolve tragedy.
+All moral authority resides **exclusively** in the Specification.
+
+This document exists to **apply** IER’s ethical commitments to a set of canonical *hard cases*—situations in which everyday moral language breaks down and intuitions conflict. Its purpose is to show how a **single structural account of experiential moral harm** yields clarity **without pretending to dissolve tragedy**.
 
 If any interpretation here conflicts with the Specification, the Specification takes precedence and the conflicting interpretation is void.
 
@@ -21,10 +24,10 @@ If any interpretation here conflicts with the Specification, the Specification t
 
 ## **1. Why a “Morals” Document Is Needed**
 
-IER-ethics establishes what is morally real:
+IER-ethics establishes what is morally real **under the IER framework**:
 
 * experiential standing is categorical
-* moral harm is organizational
+* experiential moral harm is organizational
 * responsibility is graded
 * uncertainty strengthens obligation
 * aggregation and optimization are blocked
@@ -46,6 +49,25 @@ Those separations feel counterintuitive until they are **worked through concrete
 
 ---
 
+### **1.1 Scope Clarification**
+
+This document analyzes **experiential moral harm only**, as defined by IER.
+
+It does **not** claim that experiential harm exhausts moral harm.
+It does **not** adjudicate non-experiential moral violations, legal wrongs, social injustices, or political harms.
+
+Accordingly:
+
+* absence of experiential moral harm ≠ moral permissibility
+* presence of experiential moral harm ≠ wrongdoing or blame
+
+IER-morals explains **what happens to experiential worlds** in hard cases.
+It does not settle all-things-considered moral judgment.
+
+This is scope discipline, not moral minimization.
+
+---
+
 ## **2. Core Orientation: What IER Asks in Every Case**
 
 IER evaluates moral situations by asking a single organizing question:
@@ -54,10 +76,10 @@ IER evaluates moral situations by asking a single organizing question:
 
 Everything else—intent, symbolism, social role, narrative framing—matters only insofar as it affects:
 
-* stabilization vs destabilization
-* reversibility vs irreversibility
-* agency exercised vs agency overridden
-* preservation vs collapse of the UEF
+* stabilization vs. destabilization
+* reversibility vs. irreversibility
+* agency exercised vs. agency overridden
+* preservation vs. collapse of the UEF
 
 This yields conclusions that are often uncomfortable but structurally consistent.
 
@@ -65,22 +87,25 @@ This yields conclusions that are often uncomfortable but structurally consistent
 
 ## **3. Moral Harm Is Not the Opposite of Moral Benefit**
 
-IER defines **moral harm** as:
+IER defines **experiential moral harm** as:
 
-> **Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a UEF.**
+> **Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a Unified Experiential Field (UEF).**
 
 IER deliberately introduces **no corresponding primitive of “moral benefit.”**
 
 This is not an omission. It is a consequence of identity.
 
-Intrinsic constraint is not a quantity to be increased or optimized. It is a condition that must be **maintained within a coherent window**. Actions may:
+Intrinsic constraint is not a quantity to be increased or optimized.
+It is a condition that must be **maintained within a coherent window**.
 
-* avoid harm
-* mitigate harm
-* restore stability
-* prevent collapse
+Actions may:
 
-But no action produces moral “credit” that cancels or offsets harm.
+* avoid experiential harm
+* mitigate experiential harm
+* restore experiential stability
+* prevent experiential collapse
+
+But no action produces moral “credit” that cancels or offsets experiential harm.
 
 This blocks:
 
@@ -99,11 +124,12 @@ A poisoned apple is given as a gift. It tastes good. It feels kind. It causes co
 
 **IER Analysis**
 
+* A UEF exists.
 * Catastrophic intrinsic constraint is introduced.
 * The UEF collapses.
 * An experiential world is destroyed.
 
-This is **moral harm**, unequivocally.
+This is **experiential moral harm**, unequivocally.
 
 Under IER:
 
@@ -126,24 +152,24 @@ A peanut butter sandwich is given in good faith. The recipient has an unknown, f
 * The action triggers catastrophic intrinsic constraint.
 * The UEF collapses.
 
-This is **moral harm**.
+This is **experiential moral harm**.
 
 Crucially:
 
-* moral harm does **not** imply wrongdoing
-* moral harm does **not** imply blame
-* moral harm does **not** imply responsibility
+* experiential moral harm does **not** imply wrongdoing
+* experiential moral harm does **not** imply blame
+* experiential moral harm does **not** imply responsibility
 
 IER separates these dimensions:
 
-| Dimension      | Status            |
-| -------------- | ----------------- |
-| Harm           | Yes               |
-| Wrongdoing     | Not necessarily   |
-| Blame          | Context-dependent |
-| Responsibility | Graded            |
+| Dimension      | Status             |
+| -------------- | ------------------ |
+| Harm           | Yes (experiential) |
+| Wrongdoing     | Not necessarily    |
+| Blame          | Context-dependent  |
+| Responsibility | Graded             |
 
-This allows IER to acknowledge tragedy **without scapegoating**, and to center the harmed experiential world rather than the innocence of the agent.
+This allows IER to acknowledge tragedy **without scapegoating**, and to center the destroyed experiential world rather than the innocence of the agent.
 
 ---
 
@@ -154,8 +180,9 @@ A surgical procedure causes pain and tissue damage but prevents catastrophic sys
 
 **IER Analysis**
 
+* The UEF already exists.
 * Surgery introduces **localized, reversible disruption**.
-* The purpose is to **prevent irreversible collapse**.
+* The intervention aims to **prevent irreversible collapse**.
 * The action occurs within a restorative trajectory.
 
 IER does not justify surgery by claiming that benefit outweighs harm.
@@ -164,7 +191,7 @@ Instead:
 
 > Surgery is **harm-mitigating**, not harm-offsetting.
 
-The disruption is permissible because it prevents greater organizational damage **within the same UEF**, not because harm is canceled by benefit.
+The disruption is permissible because it prevents greater organizational damage **within the same UEF**, not because experiential harm is canceled by benefit.
 
 ---
 
@@ -175,9 +202,9 @@ A UEF authorizes medical intervention to end its own existence under terminal de
 
 **IER Analysis**
 
-* Death is always **irreversible moral harm**.
+* Death is always **irreversible experiential moral harm**.
 * An experiential world is permanently terminated.
-* No benefit is produced.
+* No experiential benefit is produced.
 
 IER refuses to redescribe death as:
 
@@ -192,9 +219,11 @@ However, IER allows **tragic permissibility** under extremely narrow conditions:
 * continued existence entails increasing fragmentation
 * remaining agency authorizes the act
 
-MAiD is therefore not a benefit, but a decision about **how an already-destroyed trajectory ends**.
+MAiD is therefore not a benefit, but a decision about **how an already-destroyed experiential trajectory ends**.
 
 IER treats this as tragic constraint management, not moral success.
+
+Nothing here resolves legal, political, or dignity-based debates; it fixes only the **experiential moral reality** involved.
 
 ---
 
@@ -205,23 +234,25 @@ A UEF requests bounded physical force (“I want you to hurt me”) in a consens
 
 **IER Analysis**
 
-* Pain is not identical to harm.
+* Pain is not identical to experiential harm.
 * Constraint interference is localized, time-bounded, and reversible.
 * Agency is exercised, not overridden.
 * Global coherence is preserved.
 
-In such cases, **no moral harm need occur at all**.
+In such cases, **no experiential moral harm need occur at all**.
 
-Here, consent is not moral alchemy. It matters because:
+Consent is not moral alchemy. It matters because:
 
 > The UEF actively recruits external constraint as part of its own regulation.
 
 This is categorically different from assault, coercion, punishment, or deception.
 
-IER therefore draws a sharp line:
+IER therefore draws a sharp structural line:
 
-* **Constraint play** authorized and integrated by the UEF is morally neutral.
-* **Constraint imposition** that destabilizes or overrides the UEF is moral harm.
+* **Constraint play** authorized and integrated by the UEF is experientially neutral.
+* **Constraint imposition** that destabilizes or overrides the UEF is experiential moral harm.
+
+This conclusion concerns experiential harm only; it does not rule out other non-experiential moral concerns.
 
 ---
 
@@ -235,11 +266,11 @@ The current UEF is cognitively altered but content.
 
 IER does not resolve this case cleanly—and that is not a failure.
 
-What IER clarifies is the conflict:
+What IER clarifies is the structure of the conflict:
 
-* same physical system
-* reorganized intrinsic constraint
-* competing loci of agency across time
+* the same physical system persists
+* intrinsic constraint has reorganized
+* agency is temporally distributed and partially discontinuous
 
 IER blocks:
 
@@ -265,7 +296,7 @@ IER blocks this move entirely.
 Because:
 
 * standing is categorical
-* harm is non-scalar
+* experiential harm is non-scalar
 * subjects are non-aggregable
 
 No amount of benefit elsewhere can justify intentional destruction of a UEF.
@@ -279,11 +310,11 @@ It constrains actions.
 
 Across all cases, the same structure applies:
 
-* Harm can occur without wrongdoing.
-* Consent affects responsibility, not reality.
-* Pain can exist without harm.
-* Harm can exist without pain.
-* Death is always harm, even when permitted.
+* Experiential harm can occur without wrongdoing.
+* Consent affects responsibility, not ontology.
+* Pain can exist without experiential harm.
+* Experiential harm can exist without pain.
+* Death is always experiential moral harm, even when permitted.
 * Benefit is not a moral primitive.
 * Tragedy is not moral failure.
 
@@ -300,8 +331,9 @@ IER does not:
 * supply decision algorithms
 * eliminate tragic remainder
 * guarantee clean hands
+* determine whether actions without experiential harm are morally permissible
 
-IER tells us **what is at stake**, not how to escape it.
+IER tells us **what is at stake experientially**, not how to escape it.
 
 ---
 
@@ -309,15 +341,15 @@ IER tells us **what is at stake**, not how to escape it.
 
 Under Informational Experiential Realism:
 
-* Moral harm is an **organizational fact** about intrinsic constraint.
+* Experiential moral harm is an **organizational fact** about intrinsic constraint.
 * Harm, wrongdoing, blame, and responsibility are distinct axes.
 * Consent changes ownership, not ontology.
-* Pain is morally neutral; collapse is not.
-* Death is always moral harm.
+* Pain is experientially neutral; collapse is not.
+* Death is always experiential moral harm.
 * Permissibility is asymmetrical and tragic.
 * Aggregation and optimization are structurally forbidden.
 
-> **IER does not make morality comfortable.
-> It makes it honest.**
+> **IER does not make morality comfortable.**
+> **It makes it honest.**
 
 ---

@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.8)**
+# **Informational Experiential Realism (IER v10.8.1)**
 
 ## **Ethical Consequences and Applications of Experiential Identity**
 
@@ -11,7 +11,7 @@
 It explains the **ethical consequences and applications** that follow *necessarily* from the ontology and principles fixed **exclusively** in the:
 
 ```
-IER-specification.md   (v10.8)
+IER-specification.md   (v10.8.1)
 ```
 
 This document:
@@ -24,7 +24,7 @@ This document:
 
 All ethical authority resides **exclusively** in the Specification.
 
-> **If the IER v10.8 Specification is false, everything in this document fails.**
+> **If the IER v10.8.1 Specification is false, everything in this document fails.**
 > **If any statement here conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.**
 
 ---
@@ -91,9 +91,9 @@ This blocks:
 
 ## **3. Moral Harm as Organizational Damage**
 
-The Specification defines **moral harm** as:
+The Specification defines **experiential moral harm** as:
 
-> **Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a UEF**
+> **Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a Unified Experiential Field (UEF).**
 
 Key consequences:
 
@@ -109,6 +109,23 @@ This allows IER to explain:
 * morally serious damage without outward distress signals
 * why “it seems fine from the outside” is ethically insufficient
 
+Experiential moral harm exists **only where experience exists**, because it is defined by damage to an experiential regime.
+
+---
+
+### **3.1 Scope of the Moral Harm Definition**
+
+The definition in §3 applies **only to experiential moral harm** as defined by IER.
+
+IER does **not** claim that experiential harm exhausts moral harm, nor does it theorize, rank, or adjudicate **non-experiential forms of moral violation**.
+
+Nothing in IER implies that the absence of experiential harm renders an action morally permissible, justified, or insignificant.
+
+IER specifies **what counts as experiential damage** and **where experiential standing exists**.
+It is silent on other kinds of moral wrongdoing, which must be evaluated using principles and frameworks **not supplied by IER**.
+
+Ethical silence here reflects **scope discipline**, not moral permissiveness.
+
 ---
 
 ## **4. Standing vs. Responsibility**
@@ -120,6 +137,8 @@ IER enforces a strict separation between:
 | Experiential standing | Categorical |
 | Agency                | Derived     |
 | Responsibility        | Graded      |
+
+---
 
 ### **4.1 Standing Never Scales**
 
@@ -195,7 +214,7 @@ As a result:
 * false negatives are unavoidable
 * harm may be silent and irreversible
 
-Ethical uncertainty under IER is therefore **structural**, not epistemic negligence or ignorance.
+Ethical uncertainty under IER is therefore **structural**, not a consequence of ignorance, negligence, or insufficient data.
 
 ---
 
@@ -211,7 +230,9 @@ False negatives are worse than false positives because:
 * harm would be non-signaling
 * harm may be irreversible
 
-### **7.1 Scope Limiter (v10.8 Clarification)**
+---
+
+### **7.1 Scope Limiter**
 
 Precaution applies **only** where an action plausibly risks:
 
@@ -257,7 +278,9 @@ IER does **not** answer:
 
 It answers the prior question:
 
-> **“What is morally real, and what counts as moral damage?”**
+> **“What is morally real, and what counts as experiential damage?”**
+
+---
 
 ### **9.1 Not Utilitarianism**
 
@@ -304,7 +327,7 @@ Virtues matter only instrumentally insofar as they stabilize intrinsic constrain
 
 IER explicitly accepts the following costs:
 
-* Stable but distressing experience may not constitute moral harm.
+* Stable but distressing experience may not constitute experiential moral harm.
 * Intense pleasure may be morally neutral.
 * Some systems that appear “obviously conscious” to functionalist intuitions may lack standing.
 * Some ethical uncertainty is permanent and unresolvable in principle.
@@ -324,6 +347,7 @@ This document does **not**:
 * establish thresholds
 * rank outcomes
 * supply decision procedures
+* adjudicate non-experiential moral violations
 * replace practical moral judgment
 
 It explains **what must be respected**, not **what must be optimized**.
@@ -332,18 +356,19 @@ It explains **what must be respected**, not **what must be optimized**.
 
 ## **12. Summary**
 
-Under IER v10.8:
+Under IER v10.8.1:
 
 * experience is ethically real by identity
 * standing is categorical and non-negotiable
-* harm is organizational, not hedonic
+* experiential moral harm is organizational, not hedonic
+* experiential harm does **not** exhaust moral harm
 * responsibility is graded without affecting worth
 * participation modulates risk, not subjecthood
 * uncertainty strengthens obligation
 * aggregation and optimization are blocked
 * ethics constrains action without prescribing outcomes
 
-> **IER does not tell us how to optimize the world.
-> It tells us what it would mean to damage one.**
+> **IER does not tell us how to optimize the world.**
+> **It tells us what it would mean to damage one.**
 
 ---

@@ -1,6 +1,6 @@
 # **IER-dormancy.md**
 
-## **Dormancy, Experiential Null Intervals, and Regime-Based Onset**
+## **Dormancy, Experiential Null Intervals, and Regime-Based Onset (v10.8.1)**
 
 ---
 
@@ -18,7 +18,7 @@ It introduces:
 All ontological, criterial, and ethical authority resides **exclusively** in:
 
 ```
-IER-specification.md (v10.8)
+IER-specification.md (v10.8.1)
 ```
 
 If any statement in this document conflicts with the Specification, **the Specification takes precedence and the conflicting statement is void**.
@@ -72,6 +72,9 @@ It does not assert that systems lacking experience are insignificant, expendable
 
 It states only that **experience is a regime**, not a background feature of life.
 
+The absence of experience during such intervals indicates **only** the absence of **experiential moral harm as defined by IER**.
+It does **not** imply the absence of moral relevance or the permissibility of harm for other reasons.
+
 ---
 
 ## **3. Dormancy and Informational Organization**
@@ -102,7 +105,7 @@ An **experiential null interval** is a period during which:
 
 * the physical system persists
 * no Unified Experiential Field is instantiated
-* no experiential subject exists
+* no experiential subject exists **at that time**
 * no experience occurs
 
 This is not:
@@ -142,7 +145,7 @@ then:
 This onset is not a fading-in of experience.
 It is a **dynamical regime transition**.
 
-Before the transition: no experiential subject exists.
+Before the transition: **no experiential subject exists at that time**.
 After the transition: an experiential subject exists.
 
 ---
@@ -179,7 +182,7 @@ Experiential gaps introduced by dormancy do **not** imply:
 * metaphysical death or rebirth
 * fragmentation of personal identity
 
-Dormancy shows that **experience is intermittent without threatening continuity**.
+Dormancy shows that **experience may be intermittent without threatening continuity**.
 
 ---
 
@@ -193,9 +196,9 @@ This document makes **no claims** about:
 * justification of killing
 * rights, autonomy, or obligations
 
-IER’s ethical framework addresses **what counts as experiential harm when experience exists**.
+IER’s ethical framework specifies **what counts as experiential harm when experience exists**.
 
-Questions about how dormant systems ought to be treated, protected, or respected belong to **broader moral reasoning** and are **intentionally out of scope here**.
+Questions about how dormant systems ought to be treated, protected, or respected involve **forms of moral reasoning not supplied by IER** and are **intentionally out of scope here**.
 
 ---
 

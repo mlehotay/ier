@@ -2,20 +2,19 @@
 
 ## **Informational Experiential Realism — Version History**
 
-This changelog records **conceptual and structural changes** to the IER framework.
-It does **not** enumerate minor edits, typo fixes, naming cleanups, or purely editorial refactoring.
+This changelog records **conceptual, structural, and governance-level changes** to the IER framework.
+It does **not** list minor edits, wording tweaks, formatting changes, or routine refactors.
 
 ---
 
 ## **v9.x — Exploratory Era (Deprecated)**
 
-**Status:** Archived in git history
-**Character:** Pre-identity, exploratory, partially functional
+**Status:** Archived
+**Character:** Pre-identity exploration
 
 * Multiple competing framings of experience
-* Gradualist and functional sketches
-* Early ethical intuitions without ontological grounding
-* No strict separation between ontology, explanation, and application
+* Functional, gradualist, and proto-ethical sketches
+* No fixed ontology or authority discipline
 
 **Outcome:**
 Abandoned in favor of a single closed identity claim.
@@ -24,284 +23,194 @@ Abandoned in favor of a single closed identity claim.
 
 ## **v10.0 — Identity Lock-In**
 
-**Status:** Foundational release
-**Character:** Ontological unification
+**Character:** Foundational release
 
-Key changes:
-
-* Formal introduction of **experience as an identity claim**, not emergence or correlation
+* Experience fixed as an **identity claim**, not emergence or correlation
 * Unified Experiential Field (UEF) introduced as a **regime-level identity**
-* Physical monism explicitly enforced
-* Ethics and mathematics **derived** from the identity claim
+* Physical monism enforced
+* Ethics and mathematics derived from identity
 * First strict separation between:
 
   * normative specification
-  * explanatory theory
-  * applications
+  * explanation
+  * application
 
-This is the release where **IER becomes a theory rather than a research program**.
+**Result:**
+IER becomes a theory, not a research program.
 
 ---
 
 ## **v10.1 — Structural Consolidation**
 
-**Character:** Clarification, no new claims
+**Character:** Clarification-only
 
 * Terminology stabilized
-* Redundant or ambiguous formulations removed
-* Clearer separation of:
+* Ontology vs. explanation sharply separated
+* Subjecthood vs. participation clarified
 
-  * ontology vs explanation
-  * subjecthood vs participation
-* No changes to identity conditions
+No changes to identity conditions.
 
 ---
 
-## **v10.2 — Applications & Case Studies**
+## **v10.2 — Applications & Stress Testing**
 
 **Character:** Demonstrative expansion
 
-* Introduction of illustrative domains:
-
-  * phenomenology
-  * pathology
-  * affect
-* Explicitly labeled **non-normative**
-* Stress-tested the identity claim without extending it
+* Introduction of non-normative application domains
+* Identity claim stress-tested without extension
+* All applications explicitly labeled non-authoritative
 
 ---
 
 ## **v10.3 — Participation Dynamics**
 
-**Character:** Major clarification release
-
-Key additions:
+**Character:** Major conceptual clarification
 
 * Explicit distinction between:
 
-  * **UEF identity**
-  * **experiential participation**
-* Regime transition vs participation modulation formally separated
-* Eliminated misreadings involving:
+  * UEF identity
+  * experiential participation
 
-  * partial subjects
-  * momentary experiencers
-  * subject multiplication under attention or dissociation
+* Regime transition separated from participation modulation
 
-This release closed a major conceptual loophole.
+* Eliminated misreadings involving partial subjects or subject multiplication
+
+Closes a major loophole.
 
 ---
 
-## **v10.4 — Persistence, Agency, and Continuity**
+## **v10.4 — Persistence and Agency**
 
 **Character:** Diachronic clarification
 
-* Persistence of experience across time explained without:
-
-  * serial subjects
-  * rebirth metaphors
+* Persistence explained without serial subjects
 * Agency formalized as **derived**, not primitive
-* Clear distinction between:
-
-  * experiential agency
-  * functional control
+* Clear separation between agency and control
 
 ---
 
-## **v10.5 — Architectural Consolidation**
+## **v10.5 — Architectural Hardening**
 
-**Character:** Canon alignment
+**Character:** Canon consolidation
 
-* Identity claim hardened against:
-
-  * representational creep
-  * functional sufficiency
-* Formal equivalence arguments expanded
-* Consequence mapping clarified
-* Reduced redundancy across documents
+* Identity claim hardened against functionalist and representational creep
+* Structural equivalence arguments expanded
+* Redundancy reduced across the corpus
 
 ---
 
 ## **v10.6 — Normative Closure**
 
-**Character:** Ethical and ontological finalization
+**Character:** Finalization
 
-This is the **first explicitly normatively closed release**.
+* Identity conditions fixed
+* No diagnostics or thresholds permitted in principle
+* Subjecthood categorical and non-gradable
+* Ethical consequences fixed by identity
+* Experiential access explicitly non-epistemic
 
-Key commitments fixed:
-
-* Identity conditions for experience are final
-* No diagnostics or thresholds permitted **in principle**
-* Subjecthood is categorical
-* Experiential standing is non-gradable
-* Ethical consequence follows **necessarily** from identity
-* Experiential access confers **no epistemic authority**
-
-Post-v10.6 work is restricted to clarification, derivation, and application.
+After v10.6, no new normative commitments are permitted.
 
 ---
 
-## **v10.7 — Specification Hardening**
+## **v10.7 — Specification Precision**
 
-**Character:** Precision tightening
+**Character:** Tightening pass
 
-Key improvements:
+* Information explicitly non-primitive
+* UEF system boundaries normatively fixed
+* Single-UEF dominance clarified
+* Observer language removed from normative roles
+* Epistemic non-authority enforced
 
-* **Information is explicitly non-primitive**
-
-  * Informational language restricted to descriptive shorthand
-* **System boundaries normatively defined**
-
-  * UEF attribution is regime-relative, not anatomical or observer-relative
-* **Single-UEF dominance clarified**
-
-  * Participation modulation distinguished from subject division
-* **Observer language removed** from normative roles
-* Epistemic non-authority explicitly enforced
-
-This release removed the last **specification-level ambiguities**.
+Removes remaining specification ambiguities.
 
 ---
 
-## **v10.8 — Derivational Hardening, Canon Reduction, and Structural Closure (Final)**
+## **v10.8 — Structural Closure (Final Normative Release)**
 
-**Status:** **Closed**
-**Character:** Consolidation without expansion
+**Status:** **Normatively Closed**
+**Character:** Hardening without expansion
 
 No new primitives.
-No ontological revisions.
 No new ethical commitments.
 
-Instead, v10.8 completes the framework by **making implicit constraints explicit** and **removing residual degrees of freedom**.
+Key outcomes:
 
-Key finalizations:
+* Converts intuitive claims into **structural impossibility arguments**:
 
-* Converts previously intuitive claims into **explicit impossibility arguments**, especially:
+  * no experience in slack-admitting systems
+  * no multiple dominant UEFs
 
-  * the structural impossibility of experience in slack-admitting systems
-  * the impossibility of multiple dominant UEFs within a single physical system
-* Sharpens **intrinsic constraint** as a structural condition without mechanization
-* Formally closes the door on:
+* Structural non-diagnosability made explicit
 
-  * experiential diagnostics
-  * detection procedures
-  * proxy measures
-  * certification or falsification schemes
-* Introduces a **scoped precaution principle**
+* Scoped precaution principle finalized
 
-  * blocks ethical explosion while preserving asymmetry
-* Enforces a **lean canon**
+* Canon reduced and authority tiers enforced
 
-  * removes redundant, rhetorical, or surface-area-increasing documents
-  * clarifies tiered authority and global alignment rules
-* Explicitly acknowledges the theory’s **costs**
-
-  * rejected intuitions
-  * permanent epistemic opacity
-  * non-comparability of experiential standing
-
-Late-cycle clarifications now understood as part of v10.8 (not new additions):
-
-* Structural privacy is **constitutive**, not epistemic or pragmatic
-* Non-diagnosability is **global-structural**, not merely underdetermination
-* Precaution applies only under **plausible irreversible constraint foreclosure**
-* Dominance, coherence, and regime identity are **dynamical facts**, not interpretive choices
+* Accepted theoretical costs explicitly acknowledged
 
 **Design goal achieved:**
-IER should feel **unavoidable rather than stipulated**.
+IER becomes structurally unavoidable rather than stipulative.
 
 ---
 
-## **v10.8.1 — Corpus Completion, Canon/Manifest Split, and Clarity Sealing**
+## **v10.8.1 — Corpus Completion & Scope Clarification (Patch)**
 
 **Status:** Patch release
-**Character:** Post-closure consolidation and navigation hardening
+**Character:** Clarification, governance, and alignment
 
-**No ontological, criterial, epistemic, or ethical commitments were added, removed, or weakened.**
-IER remains **normatively closed at v10.8**.
-
-This release formalizes **corpus completeness** and separates **governance** from **inventory**, improving long-term maintainability without reopening the framework.
+**No ontological, criterial, epistemic, or ethical commitments changed.**
 
 Key changes:
 
+* **Moral harm scope clarified**
+
+  * Explicitly distinguishes **experiential moral harm** from moral harm in general
+  * Blocks misreadings involving unconsciousness, anesthesia, dormancy, and non-experiential violations
+
+* **Ethics-aligned revisions**
+
+  * Updates to `IER-ethics`, `IER-morals`, and `IER-FAQ`
+  * Explicit scope discipline added without expanding moral authority
+
 * **Corpus completion declared**
 
-  * The document set is now explicitly complete
-  * All canonical documents are accounted for and indexed
-  * No further documents are required to understand or apply IER
+  * Canon marked complete
+  * All documents inventoried and tiered
 
 * **Canon / Manifest split**
 
-  * `IER-canon.md` now governs:
-
-    * authority rules
-    * alignment constraints
-    * conflict resolution
-    * version discipline
-  * `IER-manifest.md` now governs:
-
-    * document inventory
-    * tier assignment
-    * one-line descriptions
-    * reading orientation
-  * This split reduces accidental authority inflation and stabilizes governance language
+  * Governance (`IER-canon.md`) separated from inventory (`IER-manifest.md`)
+  * Reduces accidental authority inflation
 
 * **Navigation hardening**
 
-  * Introduction of `IER-glossary.md` for canon-constrained term definitions
-  * Introduction of `IER-index.md` for non-interpretive navigation
-  * Explicit separation between **orientation aids** and **authoritative claims**
+  * Glossary and index finalized
+  * Reader-facing orientation improved without softening constraints
 
-* **Reader-alignment refinements**
+* **Patch discipline formalized**
 
-  * Additional tone and framing adjustments across Tier-2 documents
-  * Further reduction of adversarial or triggering language without weakening constraints
-  * Clarifications added to block common misreadings (diagnostics, graded subjecthood, epistemic authority)
-
-* **Spec clarity sealing**
-
-  * Minor wording refinements to the v10.8 specification to sharpen scope and limits
-  * No new constraints introduced; ambiguities removed only where they enabled misuse
-
-* **Process formalization**
-
-  * Patch-level releases explicitly distinguished from normative revisions
-  * `IER-future-work.md` re-scoped as a non-canonical articulation and maintenance TODO list
+  * Patch versions restricted to clarification, pedagogy, and alignment
+  * No silent normative drift permitted
 
 **Interpretive note:**
-v10.8.1 does **not** represent further theoretical development.
-It represents the point at which the framework becomes **fully navigable, internally governed, and maintainable** as a closed system.
+v10.8.1 marks the point where IER becomes **fully sealed, navigable, and maintainable** as a closed system.
 
 ---
 
 ## **Current Status**
 
-**IER v10.8 is normatively closed.**
-**IER v10.8.1 marks corpus completion.**
+* **IER v10.8** — normatively closed
+* **IER v10.8.1** — corpus complete
 
-* Experiential identity claims are fixed
-* Canon authority and governance rules are fixed
-* Ethical commitments are fixed
-* Epistemic limits are fixed
-* The document set is complete and fully indexed
+Post-closure work is limited to:
 
-Post-closure work is restricted to:
-
-* clarification
-* articulation
-* navigation and pedagogy
+* clarification and pedagogy
 * disciplined application
 * internal critique
 * comparative analysis
 
-Any change that:
-
-* introduces experiential diagnostics,
-* weakens categorical subjecthood,
-* adds epistemic authority,
-* permits graded standing,
-* or mechanizes intrinsic constraint
-
-is **out of scope by definition**.
+Any change that introduces diagnostics, graded standing, epistemic authority, or optimization principles is **out of scope by definition**.
 
 ---

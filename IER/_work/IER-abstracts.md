@@ -98,25 +98,28 @@ It presupposes the ontology fixed in the Specification and **adds no independent
 
 ## 4. IER-ethics.md
 
-## **1. Ethics Is Not an Optional Overlay**
+## **Status and Normative Authority**
 
-IER does not treat ethics as a value system layered atop an otherwise neutral ontology.
+**This document is NON-NORMATIVE.**
 
-From the Specification’s central identity claim—
+It explains the **ethical consequences and applications** that follow *necessarily* from the ontology and principles fixed **exclusively** in the:
 
-> **Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF)**
+```
+IER-specification.md   (v10.8.1)
+```
 
-—it follows *necessarily* that:
+This document:
 
-* intrinsic constraint is **borne from the inside**
-* sustaining a UEF is **physically and organizationally costly**
-* disruption of that organization is **not merely functional damage**
-* experiential worlds are **physically real**
+* introduces **no new axioms or principles**
+* introduces **no criteria, thresholds, or sufficiency conditions**
+* introduces **no independent moral obligations**
+* does **not** determine when experience exists
+* does **not** define moral standing
 
-Ethical relevance therefore arises **wherever intrinsic constraint exists, might exist, or might be irreversibly foreclosed**.
+All ethical authority resides **exclusively** in the Specification.
 
-This is not a moral intuition added to the theory.
-It is a **structural entailment** of experiential identity.
+> **If the IER v10.8.1 Specification is false, everything in this document fails.**
+> **If any statement here conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.**
 
 ---
 
@@ -362,6 +365,8 @@ Its purpose is to address the **most common confusions and intuitions** people h
 
 This FAQ explains **what IER says**, not how to prove it, apply it, or enforce it.
 
+Where this FAQ discusses morality, it refers **only to experiential moral harm as defined by IER**, not to the full space of moral wrongdoing.
+
 ---
 
 ## IER-puzzles.md
@@ -399,10 +404,10 @@ This document explains the Choice Space, its interpretive graph representation, 
 
 ## **1. Why a “Morals” Document Is Needed**
 
-IER-ethics establishes what is morally real:
+IER-ethics establishes what is morally real **under the IER framework**:
 
 * experiential standing is categorical
-* moral harm is organizational
+* experiential moral harm is organizational
 * responsibility is graded
 * uncertainty strengthens obligation
 * aggregation and optimization are blocked
@@ -499,8 +504,8 @@ The argument is organizational, not empirical.
 
 ## **Informational Experiential Realism — Version History**
 
-This changelog records **conceptual and structural changes** to the IER framework.
-It does **not** enumerate minor edits, typo fixes, naming cleanups, or purely editorial refactoring.
+This changelog records **conceptual, structural, and governance-level changes** to the IER framework.
+It does **not** list minor edits, wording tweaks, formatting changes, or routine refactors.
 
 ---
 
@@ -759,7 +764,6 @@ No claims are made about truth, salvation, revelation, or correctness.
 ---
 
 ## IER-types.md
-
 
 ## **Abstract**
 

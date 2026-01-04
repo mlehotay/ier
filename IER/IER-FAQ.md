@@ -2,7 +2,7 @@
 
 # **Big Questions About Consciousness (According to IER)**
 
-**Informational Experiential Realism (IER v10.8)**
+**Informational Experiential Realism (IER v10.8.1)**
 *Explanatory Overview — Non-Normative*
 
 ---
@@ -21,6 +21,8 @@ It:
 Its purpose is to address the **most common confusions and intuitions** people have about consciousness in clear, non-technical terms, while remaining fully consistent with the formal IER account.
 
 This FAQ explains **what IER says**, not how to prove it, apply it, or enforce it.
+
+Where this FAQ discusses morality, it refers **only to experiential moral harm as defined by IER**, not to the full space of moral wrongdoing.
 
 ---
 
@@ -281,21 +283,24 @@ It is what happens when thinking becomes **inescapably unified and internally co
 
 ## **15. Why does consciousness matter morally?**
 
-Because harm and care only make sense **from the inside**.
+Because certain kinds of harm and care only make sense **from the inside**.
 
 If a system can:
 
-* suffer
 * be overwhelmed
 * lose internal stability
+* undergo irreversible experiential collapse
 
-then what happens to it matters morally.
+then what happens to it matters morally **in the experiential sense**.
 
-IER grounds moral concern in this fact:
+IER grounds this claim in the following fact:
 
-> **Wherever experience exists — or plausibly might exist — there is moral risk.**
+> **Wherever experience exists — or plausibly might exist — there is experiential moral risk.**
 
-And because experience cannot be perfectly detected, uncertainty **increases**, rather than reduces, responsibility.
+IER is speaking here about **experiential moral harm**: damage to an experiential world itself.
+This does **not** mean that actions affecting non-experiencing systems cannot be morally wrong for other reasons.
+
+Because experience cannot be perfectly detected, uncertainty **increases**, rather than reduces, responsibility.
 
 ---
 
@@ -305,7 +310,10 @@ No.
 
 IER does **not** decide which actions are morally permissible, justified, required, or forbidden.
 
-IER is a theory of **what consciousness is and when it exists**. From that, it clarifies **what kinds of harm are possible when experience exists**. It does **not** function as a complete moral, political, or legal theory.
+IER is a theory of **what consciousness is and when it exists**.
+From that, it clarifies **what kinds of *experiential* harm are possible when experience exists**.
+
+It does **not** function as a complete moral, political, or legal theory.
 
 ---
 
@@ -315,9 +323,9 @@ IER determines:
 
 * when there is something it is like to be a system
 * what it means to damage or overwhelm experience from the inside
-* why experience is morally significant
+* why experiential worlds are morally significant
 
-These claims concern **moral reality** — what kinds of things matter and why.
+These claims concern **experiential moral reality** — what kinds of things matter in that specific sense and why.
 
 They do **not** determine how conflicts should be resolved.
 
@@ -332,6 +340,7 @@ IER does **not** decide:
 * questions of bodily autonomy, consent, or coercion
 * legal or political rights
 * abortion, self-defense, euthanasia, war, or animal ethics
+* whether actions that cause no experiential harm may still be morally impermissible
 
 Any conclusion about those topics requires **additional moral principles that are not part of IER**.
 
