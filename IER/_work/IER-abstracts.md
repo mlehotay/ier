@@ -899,3 +899,52 @@ Dormancy therefore raises a specific structural question:
 Informational Experiential Realism (IER) answers **no** — not as a value judgment, but as a consequence of its identity claim.
 
 ---
+
+## IER-synchronicity.md
+
+## **1. Purpose and Scope**
+
+This document situates **synchronicity** within the historical and conceptual background relevant to the formulation of **Informational Experiential Realism (IER)**.
+
+Its purpose is **explanatory only**. It does not argue for or against the reality of synchronicity, introduce new ontological commitments, revise any criterial claims, or license epistemic or ethical inferences.
+
+All authoritative commitments of IER are defined **exclusively** in:
+
+```
+IER-specification.md
+```
+
+This document clarifies:
+
+* why synchronicity-like phenomena repeatedly exerted pressure on theories of mind and meaning,
+* why existing frameworks oscillated between inflation and dismissal,
+* and why the structural lesson implicit in these phenomena could not be cleanly articulated prior to IER.
+
+This is **not** a theory of synchronicity.
+It is a **dependency analysis** of why synchronicity mattered historically—and why it ultimately had to fail as an explanatory primitive.
+
+---
+
+## IER-corporations.md
+
+### **1.1 What This Article Does**
+
+This article establishes a **structural impossibility result under the Informational Experiential Realism (IER) identity claim**:
+
+> **Under IER, corporations cannot be experiential persons.**
+
+This conclusion is not reached by appeal to intuition, moral sentiment, political preference, or legal convention. It follows **directly and necessarily** from IER’s identity claim about what experience is and what it requires.
+
+Accordingly, this article:
+
+* demonstrates that corporations **cannot** instantiate a **Unified Experiential Field (UEF)**,
+* provides a **formal proof** of that exclusion,
+* and clarifies the **ethical consequences** of that result without weakening or inflating them.
+
+The argument is **ontological and structural**, not empirical. It does not depend on facts about any particular corporation, present or future.
+
+---
+
+## IER-truth.md
+
+---

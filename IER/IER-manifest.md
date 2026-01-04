@@ -37,7 +37,10 @@ Documents not listed here are **non-canonical by default** unless explicitly add
 
 ## **Flat Order Principle (Binding)**
 
-The corpus is presented in a **single flat order**, divided into **two conceptual parts**:
+The corpus is presented in a **single flat order**, divided into **two conceptual parts**.
+
+Ordering is **navigational, not inferential**.
+Numbering does **not** indicate logical dependence, argumentative sequence, or priority.
 
 ---
 
@@ -150,62 +153,65 @@ Tier markers constrain interpretation and prohibit authority inflation.
 18. **[T2] `IER-access.md`** — Experiential access vs. epistemic authority
 19. **[T2] `IER-meaning.md`** — Meaning without ontological inflation
 20. **[T2] `IER-intentionality.md`** — Intentionality without representation
-21. **[T2] `IER-puzzles.md`** — Why classic puzzles dissolve under IER
+21. **[T2] `IER-puzzles.md`** — Structural dissolution of classic philosophical puzzles
 22. **[T2] `IER-insight.md`** — Insight as constraint reorganization
+23. **[T2] `IER-synchronicity.md`** — Synchronicity as experienced coherence and meaning
+24. **[T2] `IER-truth.md`** — TBD
 
 ---
 
 ## **Dynamics, Attractors, and Recurring Forms**
 
-23. **[T2] `IER-attractors.md`** — Soft attractors in experiential organization
-24. **[T2] `IER-patterns.md`** — Recurring natural and experiential forms
-25. **[T2] `IER-shadows.md`** — Shadow figures and extreme constraint states
+25. **[T2] `IER-attractors.md`** — Soft attractors in experiential organization
+26. **[T2] `IER-patterns.md`** — Recurring natural and experiential forms
+27. **[T2] `IER-shadows.md`** — Shadow figures and extreme constraint states
 
 ---
 
 ## **Agency, Choice, and Ethics in Practice**
 
-26. **[T2] `IER-agency.md`** — Agency as owned resolution of intrinsic constraint
-27. **[T2] `IER-choice.md`** — Choice spaces and admissible futures
-28. **[T2] `IER-free-will.md`** — Free will without indeterminism
-29. **[T2] `IER-morals.md`** — Concrete moral cases under IER
-30. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
+28. **[T2] `IER-agency.md`** — Agency as owned resolution of intrinsic constraint
+29. **[T2] `IER-choice.md`** — Choice spaces and admissible futures
+30. **[T2] `IER-free-will.md`** — Free will without indeterminism
+31. **[T2] `IER-morals.md`** — Concrete moral cases under IER
+32. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
 
 ---
 
 ## **Boundaries, Denials, and Comparative Work**
 
-31. **[T2] `IER-denials.md`** — Explicit non-claims of the framework
-32. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
-33. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
+33. **[T2] `IER-denials.md`** — Explicit non-claims of the framework
+34. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
+35. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
 
 ---
 
 ## **Social, Institutional, and Interface Boundaries**
 
-34. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
-35. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
-36. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
-37. **[T2] `IER-gut.md`** — The enteric system and participation without subjecthood
-38. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
+36. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
+37. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
+38. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
+39. **[T2] `IER-gut.md`** — The enteric system and participation without subjecthood
+40. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
+41. **[T2] `IER-corporations.md`** — Proof that corporations cannot be experiential persons
 
 ---
 
-## **Meta, Orientation, and Navigation**
+## **Meta, Orientation, and Navigation (Back Matter)**
 
-39. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
-40. **[T4] `IER-history.md`** — Historical preconditions for IER
-41. **[T4] `IER-canon.md`** — Authority, alignment, and governance rules
-42. **[T4] `IER-glossary.md`** — Canon-constrained terminology
-43. **[T4] `IER-index.md`** — Concept-to-document navigation
-44. **[T4] `IER-changelog.md`** — Version history and structural changes
+42. **[T4] `IER-history.md`** — Historical preconditions for IER
+43. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
+44. **[T4] `IER-canon.md`** — Authority, alignment, and governance rules
+45. **[T4] `IER-glossary.md`** — Canon-constrained terminology
+46. **[T4] `IER-index.md`** — Concept-to-document navigation
+47. **[T4] `IER-changelog.md`** — Version history and structural changes
 
 ---
 
 ## **Non-Canonical and Planning Material**
 
-45. `_work/IER-abstracts.md` — Abstract repository (non-canonical)
-46. `_work/IER-future-work.md` — Planning and maintenance notes (non-canonical)
+48. `_work/IER-abstracts.md` — Abstract repository (non-canonical)
+49. `_work/IER-future-work.md` — Planning and maintenance notes (non-canonical)
 
 ---
 
