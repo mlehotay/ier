@@ -19,7 +19,8 @@ and does **not** signal intended changes to the IER framework.
 * reader-alignment hardening
 * navigation and indexing tasks
 * misuse-containment checks
-* consistency audits
+* consistency and drift audits
+* optional explanatory expansions already identified during v10.8.1 planning
 
 It is **not** a roadmap for new theory development.
 
@@ -27,50 +28,101 @@ It is **not** a roadmap for new theory development.
 
 ## **Navigation & Orientation**
 
-* [x] `IER-glossary.md`
+* [x] `IER-glossary.md`  
   Canon-constrained definitions of recurring terms; explicit rejection of folk and adjacent-theory meanings.
 
-* [x] `IER-index.md`
+* [x] `IER-index.md`  
   Navigational index mapping concepts → documents → sections; no summaries or reinterpretation.
 
 * [ ] Cross-link glossary terms to first canonical usage.
-
-* [ ] Audit README reading paths for redundancy and dead ends.
+* [ ] Audit README reading paths for redundancy, dead ends, or circular navigation.
+* [ ] Add lightweight “where to go next” pointers for common reader profiles (philosophy, neuroscience, ethics, AI).
 
 ---
 
-## **Articulation & Clarity Passes**
+## **Articulation & Clarity Passes (Non-Normative)**
 
-* [ ] Tighten scope and limit language in Tier-1 documents where misreadings recur.
-* [ ] Remove ambiguous metaphors that invite representational or functional interpretations.
-* [ ] Standardize terminology across Tier-2 documents (e.g. regime, participation, dominance).
-* [ ] Add explicit “does not imply” blocks where readers routinely over-infer.
+These items involve **tightening or making explicit what is already implied**, without adding commitments.
+
+* [ ] Add an explicit **anti-isomorphism clarification** in `IER-theory.md`:
+  organizational or functional similarity does not imply intrinsic ownership or experience.
+
+* [ ] Add an explicit **no-nested-subjects / no-mini-fields sentence** near the dominance discussion in `IER-dynamics.md`
+  (targeting IIT-style intuitions).
+
+* [ ] Add a clarification that **temporal continuity is not a timescale threshold**
+  (non-zero duration is regime-formal, not calibratable).
+
+* [ ] Add an explicit denial that **autopoiesis / operational closure** is
+  either necessary or sufficient for experience (best placed in `IER-denials.md` or `IER-FAQ.md`).
+
+* [ ] Add a short clarification that **multiple realizability ≠ implementation-independence**
+  (anti-computationalist slide) in `IER-theory.md`.
+
+* [ ] Remove or revise metaphors that invite representational, functionalist, or epistemic readings.
 
 ---
 
 ## **Misuse & Misreading Containment**
 
-* [ ] Scan for reintroduction of diagnostic or threshold language.
-* [ ] Ensure all informational language includes required disclaimers.
-* [ ] Block graded-subjecthood implications in phenomenology-adjacent docs.
-* [ ] Reinforce non-epistemic authority language in meaning, agency, and insight documents.
+* [ ] Scan Tier-2 documents for reintroduced diagnostic, threshold, or proxy language.
+* [ ] Ensure all documents using informational language include the required disclaimer.
+* [ ] Audit phenomenology-adjacent documents for any implication of graded subjecthood.
+* [ ] Re-reinforce **experiential structure ≠ epistemic authority** in:
+  meaning, insight, agency, and narrative-adjacent texts.
+
+---
+
+## **History & Lineage Guardrails**
+
+* [ ] Add an explicit **misreading guardrail box** near the top of `IER-history.md` clarifying:
+  * not a claim of influence
+  * not a refutation project
+  * not a criterial mapping
+  * not a moral evaluation of prior authors
+* [ ] Reaffirm that **only `IER-specification.md` is criterial and normative**.
+
+---
+
+## **Optional Standalone Explanatory Articles**
+
+These were identified during v10.8.1 planning but are **explicitly optional**.
+They add **audience management and clarification**, not new theory.
+
+* [ ] **`IER-regimes.md`**  
+  Deepens the regime vs. modeling-abstraction distinction already handled in:
+  * `IER-theory.md`
+  * `IER-dynamics.md`
+  * IER-critics (regimes objection)
+
+* [ ] **`IER-and-engineering.md`**  
+  Clarifies what IER does and does not imply for:
+  * AI research
+  * systems engineering
+  * “build-and-test” intuitions  
+  (Audience-facing governance and expectation management only.)
+
+Neither document is required for corpus completeness.
 
 ---
 
 ## **Consistency & Drift Audits**
 
-* [ ] Periodic comparison of Tier-2 documents against current Tier-1 wording.
-* [ ] Ethics language audit for alignment with v10.8 normative closure.
-* [ ] Reader-alignment tone audit (no adversarial framing).
-* [ ] Verify that non-canonical documents are clearly labeled as such.
+* [ ] Periodic comparison of Tier-2 language against current Tier-1 wording.
+* [ ] Ethics language audit for alignment with v10.8 normative closure and the experiential-harm corollary.
+* [ ] Reader-alignment tone audit (no adversarial framing, no blame).
+* [ ] Verify that all non-canonical documents are clearly labeled and not cited as authority.
 
 ---
 
 ## **Tooling / Meta (Optional)**
 
-* [ ] Machine-readable index or manifest for tooling.
-* [ ] Simple linting rules for forbidden phrases (agentive language in definitions, etc.).
-* [ ] Automated checks for missing disclaimers.
+* [ ] Machine-readable manifest or index for tooling/search.
+* [ ] Lightweight linting rules for:
+  * agentive language in definitions
+  * missing disclaimers
+  * forbidden diagnostic phrasing
+* [ ] Automated check for accidental Tier violations.
 
 ---
 
@@ -81,7 +133,7 @@ This document does **not** track:
 * new theoretical directions
 * speculative extensions
 * unresolved foundational questions
-* potential ontology revisions
+* potential ontology or identity revisions
 
 Any work of that kind would require a **new version and explicit canon revision**.
 
