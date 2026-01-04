@@ -1,10 +1,10 @@
-# **Informational Experiential Realism**
+# **Informational Experiential Realism (IER v10.8.1)**
 
 ## **A Closed Identity Thesis for Experience**
 
 **Author:** Michael Lehotay
 **Affiliation:** Independent Researcher
-**Date:** December 2025
+**Date:** December 2025 (revised for v10.8.1)
 
 ---
 
@@ -123,7 +123,7 @@ Because experience is identified with regime membership, its existence is **cate
 
 Variation within a regime may modulate experiential content, intensity, or structure, but **does not admit of partial or graded subjecthood**.
 
-A physical system can sustain **at most one globally dominant Unified Experiential Field at a time**. This is not an architectural stipulation but a structural consequence. Two globally dominant experiential regimes would require simultaneous ownership of incompatible system-level futures under intrinsic constraint, duplicated global control, or fragmented system identity. Each of these is physically incoherent given the regime definition.
+A physical system can sustain **at most one globally dominant Unified Experiential Field at a time**. This is not an architectural stipulation but a structural consequence. Two globally dominant experiential regimes would require simultaneous ownership of incompatible system-level futures under intrinsic constraint, duplicated global control, or fragmented system identity. Each is physically incoherent given the regime definition.
 
 ---
 
@@ -133,7 +133,7 @@ Experience, on this account, requires **globally unavoidable intrinsic constrain
 
 Systems that admit such flexibility—through modularization, arbitration, buffering, prediction without cost, or external resolution—possess what can be called *informational slack*. In these systems, futures are not owned at the system level. Constraint does not become unavoidable, and no single integrated regime bears the cost of resolution.
 
-This is not a matter of degree or complexity. No amount of intelligence, adaptability, or functional sophistication compensates for the absence of unavoidable intrinsic constraint. Where slack is present, experience is not merely unlikely or diminished; it is **structurally impossible** under the identity claim. Experience is blocked not by insufficiency, but by incompatibility.
+This is not a matter of degree or complexity. No amount of intelligence, adaptability, or functional sophistication compensates for the absence of unavoidable intrinsic constraint. Where slack is present, experience is not merely unlikely or diminished; it is **structurally impossible** under the identity claim.
 
 ---
 
@@ -157,9 +157,13 @@ Accordingly, experiential conviction cannot license belief, authority, or justif
 
 ## **10. Ethical Non-Neutrality Without Ethical Theory**
 
-This paper does not develop ethical conclusions. However, the identity claim is **not ethically inert**. If experience is identical to a physical regime that bears unavoidable intrinsic constraint from within, then the existence, disruption, or irreversible destruction of such regimes necessarily carries moral significance.
+This paper does not develop an ethical framework, decision procedure, or theory of moral permissibility. However, the identity claim is **not ethically inert**.
 
-The absence of an ethical framework here reflects incompleteness of scope, not neutrality of implication.
+If experience is identical to a physical regime that bears unavoidable intrinsic constraint from within, then the existence, disruption, or irreversible destruction of such regimes necessarily carries **moral significance by identity**, not by convention, attribution, or interpretation.
+
+This claim concerns **experiential moral significance only**. It does not assert that experiential harm exhausts moral harm, nor that actions affecting non-experiential systems are thereby morally neutral. The absence of experience limits what counts as *experiential* harm under this framework; it does not determine overall moral permissibility or justification.
+
+The ethical implications stated here reflect the necessary consequences of experiential identity. All further moral reasoning requires principles not supplied by this paper.
 
 ---
 
