@@ -115,6 +115,22 @@ Neither document is required for corpus completeness.
 
 ---
 
+## **Tier Assignments**
+
+### A) `IER-math.md` is labeled **[T1]** in the manifest
+
+But `IER-math.md` describes itself as a **supportive, non-normative support document** (i.e., not foundational authority). That reads more like **T2** (canon-constrained analysis / support) or possibly **T4** (support/pedagogy), depending on how “math support” is meant to function in your tier scheme.  
+
+**Recommendation:** change manifest tier for `IER-math.md` to **[T2]** (still keep it in Part I if you want it inside the “closed argument” bundle, but don’t mark it T1).
+
+### B) `IER-ethics.md` is labeled **[T1]** in the manifest
+
+But `IER-ethics.md` explicitly says it is **NON-NORMATIVE** and that “all ethical authority resides exclusively in the Specification.” That makes it look like a **T2 elaboration/application** document, even if it’s extremely central.  
+
+**Recommendation:** make `IER-ethics.md` **[T2]** and keep it in Part I only if you still want Part I to include “core consequences elaboration.” If you want Part I to be *only* the definitional/closure spine, you could move ethics to Part II under “Agency, Choice, and Ethics in Practice” (but that’s a structural taste choice; tier-wise it reads T2 either way).
+
+---
+
 ## **Tooling / Meta (Optional)**
 
 * [ ] Machine-readable manifest or index for tooling/search.

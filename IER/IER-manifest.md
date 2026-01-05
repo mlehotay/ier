@@ -44,39 +44,6 @@ Numbering does **not** indicate logical dependence, argumentative sequence, or p
 
 ---
 
-### **PART I — The IER Theory Proper (Closed Argument)**
-
-Answers the question:
-
-> **What does IER claim, and what necessarily follows if it is true?**
-
-Characteristics:
-
-* contains **all Tier-1 material**
-* includes **exclusionary and misuse-blocking material required to close the argument**
-* is **normatively sufficient**
-* is **closed under v10.8**
-* introduces the identity claim **once and only once**
-* contains **no reader-alignment, reassurance, or pedagogical material**
-
----
-
-### **PART II — Additional Topics, Applications, and Boundaries**
-
-Answers the question:
-
-> **Given that IER is true, how does it behave across phenomena, confusions, boundaries, and contexts?**
-
-Characteristics:
-
-* **presupposes Part I in its entirety**
-* introduces **no new foundations**
-* elaborates, applies, constrains, and contextualizes the theory
-* explicitly labels tier status
-* includes phenomenology, ethics-in-practice, boundaries, critiques, and reader materials
-
----
-
 ## **Tier Discipline (Global)**
 
 All documents are labeled with explicit tier markers:
@@ -94,6 +61,19 @@ Tier markers constrain interpretation and prohibit authority inflation.
 
 # **PART I — THE IER THEORY PROPER (CLOSED ARGUMENT)**
 
+**Answers:**
+
+> *What does IER claim, and what necessarily follows if it is true?*
+
+Characteristics:
+
+* contains **all Tier-1 material**
+* includes **required exclusionary and misuse-blocking constraints**
+* is **normatively sufficient**
+* is **closed under v10.8**
+* introduces the identity claim **once and only once**
+* contains **no reader-alignment or pedagogical material**
+
 ---
 
 1. **[T1] `IER-specification.md`**
@@ -108,7 +88,7 @@ Tier markers constrain interpretation and prohibit authority inflation.
 4. **[T1] `IER-math.md`**
    *Formal structural support using state spaces, regimes, and coherence without introducing diagnostics or new ontology.*
 
-5. **[T2] `IER-slack.md`**
+5. **[T1] `IER-slack.md`**
    *Structural impossibility argument showing why informational slack precludes experience by identity.*
 
 6. **[T1] `IER-ethics.md`**
@@ -125,6 +105,17 @@ Tier markers constrain interpretation and prohibit authority inflation.
 ---
 
 # **PART II — ADDITIONAL TOPICS, APPLICATIONS, AND BOUNDARIES**
+
+**Answers:**
+
+> *Given that IER is true, how does it behave across phenomena, confusions, boundaries, and contexts?*
+
+Characteristics:
+
+* presupposes **Part I in full**
+* introduces **no new foundations**
+* elaborates, applies, constrains, and contextualizes
+* includes phenomenology, ethics-in-practice, boundaries, critiques, and reader materials
 
 ---
 
@@ -150,13 +141,13 @@ Tier markers constrain interpretation and prohibit authority inflation.
 
 ## **Meaning, Access, and Narrative Structure**
 
-18. **[T2] `IER-access.md`** — Experiential access vs. epistemic authority
+18. **[T2] `IER-access.md`** — Experiential access vs epistemic authority
 19. **[T2] `IER-meaning.md`** — Meaning without ontological inflation
 20. **[T2] `IER-intentionality.md`** — Intentionality without representation
 21. **[T2] `IER-puzzles.md`** — Structural dissolution of classic philosophical puzzles
 22. **[T2] `IER-insight.md`** — Insight as constraint reorganization
-23. **[T2] `IER-synchronicity.md`** — Synchronicity as experienced coherence and meaning
-24. **[T2] `IER-truth.md`** — TBD
+23. **[T2] `IER-synchronicity.md`** — Experienced coherence and meaning
+24. **[T2] `IER-truth.md`** — Truth without experiential privilege
 
 ---
 
@@ -164,54 +155,61 @@ Tier markers constrain interpretation and prohibit authority inflation.
 
 25. **[T2] `IER-attractors.md`** — Soft attractors in experiential organization
 26. **[T2] `IER-patterns.md`** — Recurring natural and experiential forms
-27. **[T2] `IER-shadows.md`** — Shadow figures and extreme constraint states
+27. **[T2] `IER-types.md`** — Experiential clustering without ontological typology
+28. **[T2] `IER-shadows.md`** — Shadow figures and extreme constraint states
 
 ---
 
 ## **Agency, Choice, and Ethics in Practice**
 
-28. **[T2] `IER-agency.md`** — Agency as owned resolution of intrinsic constraint
-29. **[T2] `IER-choice.md`** — Choice spaces and admissible futures
-30. **[T2] `IER-free-will.md`** — Free will without indeterminism
-31. **[T2] `IER-morals.md`** — Concrete moral cases under IER
-32. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
+29. **[T2] `IER-resolution.md`** — Resolution, ownership, and admissible control
+30. **[T2] `IER-agency.md`** — Agency as owned resolution of intrinsic constraint
+31. **[T2] `IER-choice.md`** — Choice spaces and admissible futures
+32. **[T2] `IER-free-will.md`** — Free will without indeterminism
+33. **[T2] `IER-morals.md`** — Concrete moral cases under IER
+34. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
 
 ---
 
 ## **Boundaries, Denials, and Comparative Work**
 
-33. **[T2] `IER-denials.md`** — Explicit non-claims of the framework
-34. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
-35. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
+35. **[T2] `IER-denials.md`** — Explicit non-claims of the framework
+36. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
+37. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
 
 ---
 
 ## **Social, Institutional, and Interface Boundaries**
 
-36. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
-37. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
-38. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
-39. **[T2] `IER-gut.md`** — The enteric system and participation without subjecthood
-40. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
-41. **[T2] `IER-corporations.md`** — Proof that corporations cannot be experiential persons
+38. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
+39. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
+40. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
+41. **[T2] `IER-gut.md`** — Enteric participation without subjecthood
+42. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
+43. **[T2] `IER-corporations.md`** — Proof that corporations cannot be experiential persons
 
 ---
 
 ## **Meta, Orientation, and Navigation (Back Matter)**
 
-42. **[T4] `IER-history.md`** — Historical preconditions for IER
-43. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
-44. **[T4] `IER-canon.md`** — Authority, alignment, and governance rules
-45. **[T4] `IER-glossary.md`** — Canon-constrained terminology
-46. **[T4] `IER-index.md`** — Concept-to-document navigation
-47. **[T4] `IER-changelog.md`** — Version history and structural changes
+44. **[T4] `README.md`** — Front-door orientation
+45. **[T4] `IER-history.md`** — Historical preconditions for IER
+46. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
+47. **[T4] `IER-dont-panic.md`** — Reader reassurance and misinterpretation prevention
+48. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict
+49. **[T4] `IER-FAQ.md`** — Reader-facing clarifications
+50. **[T4] `IER-glossary.md`** — Canon-constrained terminology
+51. **[T4] `IER-index.md`** — Concept-to-document navigation
+52. **[T4] `IER-canon.md`** — Authority, alignment, and governance rules
+53. **[T4] `IER-manifest.md`** — Corpus inventory and flat ordering
+54. **[T4] `IER-changelog.md`** — Version history and structural changes
 
 ---
 
 ## **Non-Canonical and Planning Material**
 
-48. `_work/IER-abstracts.md` — Abstract repository (non-canonical)
-49. `_work/IER-future-work.md` — Planning and maintenance notes (non-canonical)
+55. `_work/IER-abstracts.md` — Abstract repository (non-canonical)
+56. `_work/IER-future-work.md` — Planning and maintenance notes (non-canonical)
 
 ---
 

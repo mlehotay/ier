@@ -947,4 +947,27 @@ The argument is **ontological and structural**, not empirical. It does not depen
 
 ## IER-truth.md
 
+## **Abstract**
+
+Truth is often treated as either (1) something experience reveals, or (2) something experience constructs. Under Informational Experiential Realism (IER), both framings are structurally unsupported.
+
+This document provides a non-experiential account of truth as **mind-independent physical constraint** that governs which models, beliefs, and expectations survive interaction with reality — without granting experiential access to that constraint.
+
+IER is shown to reject experiential relativism *and* experiential authority simultaneously. Coherence, meaning, and insight are explained as internal organizational achievements that stabilize experience, while truth remains an external constraint that only exerts selective pressure over time.
+
+Experience can be organized well or badly.
+Reality is not organized by experience.
+
+---
+
+## IER-pacing.md
+
+## **Abstract**
+
+Pacing is a common human behavior observed during thinking, talking, narrating, and other forms of extended internal sequencing. It often occurs without intention, salience, or affective charge, and may go unnoticed while it is happening.
+
+This document provides an account of pacing under Informational Experiential Realism (IER) as a form of **background motor participation**: a low-cost, globally integrated movement pattern that remains active during certain experiential regimes without serving a regulatory, expressive, or goal-directed function.
+
+Pacing is analyzed as **state-linked rather than content-linked**, **organizational rather than instrumental**, and **neutral rather than corrective**. It is not explained in terms of stress, anxiety, or cognitive effort, but as a stable feature of how some experiential systems maintain continuity during internally sequenced activity.
+
 ---
