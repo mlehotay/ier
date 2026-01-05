@@ -275,7 +275,8 @@ The next section formalizes this result in proof form.
 
 ## **5. Formal Impossibility Proof**
 
-This section presents the exclusion of corporate personhood as a **formal consequence** of Informational Experiential Realism. No empirical assumptions, probabilistic claims, or moral premises are introduced.
+This section presents the exclusion of corporate personhood as a **formal consequence** of Informational Experiential Realism.
+No empirical assumptions, probabilistic claims, or moral premises are introduced.
 
 ---
 
@@ -283,69 +284,96 @@ This section presents the exclusion of corporate personhood as a **formal conseq
 
 Let:
 
-* **UEF(x)** = “x sustains a Unified Experiential Field”
-* **P(x)** = “x is a person (experiential subject)”
-* **Slack(x)** = “x admits informational slack”
+* `UEF(x)` = “x sustains a Unified Experiential Field”
+* `P(x)` = “x is a person (experiential subject)”
+* `Slack(x)` = “x admits informational slack”
 
-Let **C** range over corporations.
+Let `C` range over corporations.
+
+All quantification is over **physical systems**.
 
 ---
 
 ### **5.2 IER Identity Axiom**
 
-[
-\forall x ; ( P(x) \leftrightarrow UEF(x) )
-]
+For all systems `x`:
+
+```
+P(x) ↔ UEF(x)
+```
 
 A system is a person **if and only if** it sustains a Unified Experiential Field.
+
+This is the core identity claim of IER.
 
 ---
 
 ### **5.3 Lemma 1 — Corporations Admit Informational Slack**
 
-[
-\forall C ; Slack(C)
-]
+For all corporations `C`:
 
-Corporate constraint can be localized, deferred, or externally resolved. These features are necessary for corporate operation.
+```
+Slack(C)
+```
+
+Corporations necessarily permit constraint to be localized, deferred, or externally resolved.
+These features are structural requirements of corporate organization.
 
 ---
 
 ### **5.4 Lemma 2 — Informational Slack Precludes Unified Experiential Fields**
 
-[
-\forall x ; ( Slack(x) \rightarrow \neg UEF(x) )
-]
+For all systems `x`:
 
-A Unified Experiential Field requires globally binding, unavoidable, internally borne constraint. Informational slack negates this by definition.
+```
+Slack(x) → ¬UEF(x)
+```
+
+A Unified Experiential Field requires constraint that is globally binding, internally borne, unavoidable, and system-defining.
+Informational slack negates at least one of these conditions by definition.
 
 ---
 
 ### **5.5 Theorem — Corporations Are Not Persons**
 
-[
-\forall C ; \neg UEF(C)
-]
+From Lemma 1 and Lemma 2:
 
-Therefore:
+```
+For all C: ¬UEF(C)
+```
 
-[
-\forall C ; \neg P(C)
-]
+By the IER identity axiom:
+
+```
+For all C: ¬P(C)
+```
 
 ---
 
 ### **5.6 Conclusion of the Proof**
 
+No corporation can sustain a Unified Experiential Field.
+
+Therefore:
+
 > **No corporation can be a person under Informational Experiential Realism.**
 
-This result is categorical.
+This result is categorical and does not admit of exceptions.
 
 ---
 
 ### **5.7 Scope Clarification**
 
-This proof establishes **only** the ontological exclusion of corporations from experiential personhood. It does not address moral relevance, responsibility, or ethical consequence.
+This proof establishes **only** the ontological exclusion of corporations from experiential personhood.
+
+It does **not** address:
+
+* legal personhood,
+* moral responsibility,
+* institutional accountability,
+* or ethical permissibility.
+
+Those questions are treated elsewhere and are not affected by this result.
 
 ---
 
