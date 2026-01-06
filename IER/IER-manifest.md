@@ -168,6 +168,7 @@ Characteristics:
 32. **[T2] `IER-free-will.md`** — Free will without indeterminism
 33. **[T2] `IER-morals.md`** — Concrete moral cases under IER
 34. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
+35. **[T2] `IER-constraint.md`** — Ethical constraint and non-closure under IER.
 
 ---
 

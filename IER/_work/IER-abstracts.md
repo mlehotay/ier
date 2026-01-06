@@ -971,3 +971,28 @@ This document provides an account of pacing under Informational Experiential Rea
 Pacing is analyzed as **state-linked rather than content-linked**, **organizational rather than instrumental**, and **neutral rather than corrective**. It is not explained in terms of stress, anxiety, or cognitive effort, but as a stable feature of how some experiential systems maintain continuity during internally sequenced activity.
 
 ---
+
+## IER-constraint.md
+
+## 1. Constraint as the Central Ethical Form
+
+Informational Experiential Realism (IER) yields a distinctive ethical structure.
+
+It fixes:
+
+* where moral standing exists
+* what counts as experiential moral harm
+* which justificatory moves are illegitimate
+
+It does **not** supply:
+
+* action rankings
+* optimal outcomes
+* compensatory tradeoffs
+* convergent solutions to moral dilemmas
+
+The ethical role of IER is therefore not to determine what must be done, but to **constrain what can be said, justified, or erased** once experiential reality is acknowledged.
+
+This document explains that constraint-based role.
+
+---

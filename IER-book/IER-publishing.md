@@ -95,6 +95,33 @@ Design and layout choices are **interpretive signals**, not neutral aesthetics.
 
 Consistency across printings is preferred.
 
+This trim size is selected to support:
+
+* dense prose
+* tabular data
+* occasional formal expressions
+* limited diagrammatic material
+
+without requiring textbook-scale inflation.
+
+---
+
+### **Paper Specification (Normative)**
+
+* **White paper is mandatory**
+
+Rationale:
+
+* Preserves contrast for:
+
+  * numerical tables
+  * symbolic notation
+  * equation glyphs
+* Avoids signal of literary or popular-science framing
+* Prevents degradation of fine rule lines in tables
+
+Cream or off-white paper is not permitted.
+
 ---
 
 ### **Typography Constraints**
@@ -115,17 +142,70 @@ Typography must not imply:
 
 ---
 
+### **Mathematical and Formal Expression Discipline**
+
+IER contains **few but structurally important equations**.
+
+Accordingly:
+
+* Equations must be:
+
+  * **displayed**, not embedded inline when non-trivial
+  * visually isolated with controlled vertical spacing
+* Equation numbering is permitted **only** when cross-referenced later
+* No decorative math styling or pedagogical annotation
+
+Mathematical rendering must signal:
+
+> *formal necessity, not instructional emphasis*
+
+---
+
+### **Table Density and Design Constraints**
+
+Tables are a **primary information carrier** in the corpus.
+
+Requirements:
+
+* Tables may use reduced font size (9–10 pt)
+* Vertical rules discouraged
+* Horizontal rules minimal and functional
+* Tables may break across pages if necessary, with continuity labeling
+* Tables must not be reformatted for visual comfort at the cost of density
+
+If a table cannot be rendered legibly within portrait orientation:
+
+* relocation to appendix is preferred
+* landscape rotation is permitted only as a last resort
+
+---
+
+### **Diagram Policy**
+
+IER permits **one to two diagrams total**, subject to strict constraints:
+
+* Black-and-white only
+* Vector-based (print-safe)
+* Captioned, not narrated
+* Positioned immediately after first textual reference
+* No explanatory callouts beyond labels required for reference
+
+Diagrams must function as **structural clarification**, not intuition pumps.
+
+---
+
 ### **Page Density Targets**
 
 * Target: **350–450 words per page**
 * Acceptable variance allowed for:
 
+  * tables
   * diagrams
-  * lists
   * definitions
   * block quotations
+  * displayed equations
 
-Page inflation for comfort is discouraged.
+Page inflation for reader comfort or visual pacing is discouraged.
 
 ---
 
@@ -339,6 +419,9 @@ Maintenance must preserve:
 * [ ] Manifest validated
 * [ ] Glossary & index verified
 * [ ] Division headers and tier markers checked
+* [ ] Equation rendering verified in print proof
+* [ ] Table legibility verified at final trim size
+* [ ] Diagram contrast and resolution verified
 * [ ] Layout test render reviewed
 * [ ] Page count & spine width confirmed
 

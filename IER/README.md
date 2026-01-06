@@ -146,6 +146,8 @@ For standing, harm, precaution, and why diagnostics are forbidden:
 * [`IER-diagnostics.md`](./IER-diagnostics.md) — Structural non-diagnosability
 * [`IER-morals.md`](./IER-morals.md) — Worked moral cases
 * [`IER-dilemmas.md`](./IER-dilemmas.md) — Structural misframing of classic dilemmas
+* [`IER-constraint.md`](./IER-constraint.md) — Ethical constraint and non-closure under IER.
+
 
 Related boundary work:
 
