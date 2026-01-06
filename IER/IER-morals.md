@@ -1,4 +1,4 @@
-# **IER-Morals: Hard Cases, Harm, and Tragic Permission (v10.8.1)**
+# **IER-Morals: Hard Cases, Harm, and Tragic Remainder (v10.8.1)**
 
 ## *Applying Intrinsic Constraint to Moral Edge Cases*
 
@@ -8,7 +8,7 @@
 
 This document is **NON-NORMATIVE**.
 
-It introduces **no new axioms, definitions, criteria, or ethical principles** beyond those fixed exclusively in the:
+It introduces **no new axioms, definitions, criteria, permissions, prohibitions, or ethical principles** beyond those fixed exclusively in the:
 
 ```
 Informational Experiential Realism (IER v10.8.1) Normative Specification
@@ -16,7 +16,9 @@ Informational Experiential Realism (IER v10.8.1) Normative Specification
 
 All moral authority resides **exclusively** in the Specification.
 
-This document exists to **apply** IER’s ethical commitments to a set of canonical *hard cases*—situations in which everyday moral language breaks down and intuitions conflict. Its purpose is to show how a **single structural account of experiential moral harm** yields clarity **without pretending to dissolve tragedy**.
+This document exists to **apply** IER’s ethical commitments to a set of canonical *hard cases*—situations in which ordinary moral language breaks down and familiar ethical frameworks force closure.
+
+Its purpose is to show how a **single structural account of experiential moral harm** yields clarity **without converting tragedy into moral success**.
 
 If any interpretation here conflicts with the Specification, the Specification takes precedence and the conflicting interpretation is void.
 
@@ -72,7 +74,7 @@ This is scope discipline, not moral minimization.
 
 IER evaluates moral situations by asking a single organizing question:
 
-> **What happens to intrinsic constraint within a Unified Experiential Field (UEF), and who owns that constraint?**
+> **What happens to intrinsic constraint within a Unified Experiential Field (UEF), and who bears that constraint?**
 
 Everything else—intent, symbolism, social role, narrative framing—matters only insofar as it affects:
 
@@ -81,7 +83,7 @@ Everything else—intent, symbolism, social role, narrative framing—matters on
 * agency exercised vs. agency overridden
 * preservation vs. collapse of the UEF
 
-This yields conclusions that are often uncomfortable but structurally consistent.
+This yields conclusions that are often uncomfortable, but structurally consistent.
 
 ---
 
@@ -105,7 +107,7 @@ Actions may:
 * restore experiential stability
 * prevent experiential collapse
 
-But no action produces moral “credit” that cancels or offsets experiential harm.
+But no action generates moral “credit” that cancels, offsets, or erases experiential harm.
 
 This blocks:
 
@@ -165,7 +167,7 @@ IER separates these dimensions:
 | Dimension      | Status             |
 | -------------- | ------------------ |
 | Harm           | Yes (experiential) |
-| Wrongdoing     | Not necessarily    |
+| Wrongdoing     | Not implied        |
 | Blame          | Context-dependent  |
 | Responsibility | Graded             |
 
@@ -173,32 +175,44 @@ This allows IER to acknowledge tragedy **without scapegoating**, and to center t
 
 ---
 
-## **6. Case: Surgery**
+## **6. Case: Necessary Local Harm (Broken Arm Rescue)**
 
 **Description**
-A surgical procedure causes pain and tissue damage but prevents catastrophic system failure.
+A person is trapped under wreckage.
+To free them, an arm must be forcibly broken.
+If this is not done, the person will die.
 
 **IER Analysis**
 
-* The UEF already exists.
-* Surgery introduces **localized, reversible disruption**.
-* The intervention aims to **prevent irreversible collapse**.
-* The action occurs within a restorative trajectory.
+* A UEF exists.
+* The intervention introduces **localized, intense intrinsic constraint**.
+* The disruption is **time-bounded and reversible**.
+* Without intervention, **irreversible collapse of the same UEF** would occur.
 
-IER does not justify surgery by claiming that benefit outweighs harm.
+IER does **not** redescribe the broken arm as a benefit, a good, or a justified harm.
 
 Instead:
 
-> Surgery is **harm-mitigating**, not harm-offsetting.
+> The action prevents catastrophic collapse **within the same experiential world**, without converting harm into moral credit.
 
-The disruption is permissible because it prevents greater organizational damage **within the same UEF**, not because experiential harm is canceled by benefit.
+Key structural points:
+
+* The broken arm is **experiential moral harm**.
+* That harm **does not disappear** because collapse was prevented.
+* The saved life **does not offset** the harm.
+* No aggregation or optimization occurs.
+
+IER allows **harm mitigation without harm cancellation**.
+
+The moral remainder persists.
 
 ---
 
 ## **7. Case: Medical Assistance in Dying (MAiD)**
 
 **Description**
-A UEF authorizes medical intervention to end its own existence under terminal degeneration.
+A UEF undergoes terminal degeneration with no remaining stabilizing trajectory.
+Remaining agency initiates intervention that ends the experiential regime.
 
 **IER Analysis**
 
@@ -212,25 +226,24 @@ IER refuses to redescribe death as:
 * neutral outcome
 * positive good
 
-However, IER allows **tragic permissibility** under extremely narrow conditions:
+What IER explains instead is the structure of the situation:
 
-* intrinsic constraint is already undergoing unavoidable, escalating collapse
-* no restorative or stabilizing trajectory remains
+* intrinsic constraint is already undergoing unavoidable collapse
+* no restorative trajectory remains
 * continued existence entails increasing fragmentation
-* remaining agency authorizes the act
+* remaining agency **owns** the final resolution
 
-MAiD is therefore not a benefit, but a decision about **how an already-destroyed experiential trajectory ends**.
+This is **tragic constraint management**, not moral victory.
+The harm remains harm.
 
-IER treats this as tragic constraint management, not moral success.
-
-Nothing here resolves legal, political, or dignity-based debates; it fixes only the **experiential moral reality** involved.
+IER fixes the experiential reality involved without settling legal, political, or dignity-based debates.
 
 ---
 
-## **8. Case: Consensual S&M**
+## **8. Case: Consensual Constraint Play (S&M)**
 
 **Description**
-A UEF requests bounded physical force (“I want you to hurt me”) in a consensual context.
+A UEF requests bounded physical force in a consensual context ("I want you to hurt me").
 
 **IER Analysis**
 
@@ -245,32 +258,95 @@ Consent is not moral alchemy. It matters because:
 
 > The UEF actively recruits external constraint as part of its own regulation.
 
-This is categorically different from assault, coercion, punishment, or deception.
+IER therefore draws a structural distinction:
 
-IER therefore draws a sharp structural line:
-
-* **Constraint play** authorized and integrated by the UEF is experientially neutral.
+* **Constraint play** integrated by the UEF is experientially neutral.
 * **Constraint imposition** that destabilizes or overrides the UEF is experiential moral harm.
 
-This conclusion concerns experiential harm only; it does not rule out other non-experiential moral concerns.
+This conclusion concerns experiential harm only; it does not exhaust other moral considerations.
 
 ---
 
-## **9. Case: Dementia Advance Directives**
+## **9. Case: The Transparent Tradeoff**
 
 **Description**
-A past UEF authorized death under future conditions.
-The current UEF is cognitively altered but content.
+An agent faces a choice:
+
+* Option A: irreversibly destroy one UEF.
+* Option B: prevent significant but non-catastrophic experiential harm to many other UEFs.
+
+All consequences are known.
+All harms are real.
+No uncertainty or coercion is present.
 
 **IER Analysis**
 
-IER does not resolve this case cleanly—and that is not a failure.
+IER does **not** deny that benefits would result under Option B.
 
-What IER clarifies is the structure of the conflict:
+IER holds instead:
+
+* destruction of the one UEF is **experiential moral harm**
+* that harm is **non-offsettable**
+* benefits elsewhere **do not justify or erase it**
+
+IER does not declare the action forbidden or permitted.
+
+What it does is remove the familiar justificatory escape:
+
+> “The numbers make it right.”
+
+If the agent acts, the harm **does not become clean**.
+If the agent refuses, the refusal **need not be irrational**.
+
+The framework preserves moral seriousness **without closure**.
+
+---
+
+## **10. Case: The Non-Coercive Refusal**
+
+**Description**
+An agent is asked to perform an act that will:
+
+* irreversibly destroy one UEF
+* clearly benefit many others
+* be legal, expected, and socially praised
+
+The agent refuses.
+
+**IER Analysis**
+
+IER does not declare the refusal correct, required, or virtuous.
+
+IER explains why the refusal is **structurally intelligible**:
+
+* experiential harm is non-offsettable
+* standing is non-comparable
+* refusal does not require moral error
+* guilt does not automatically attach
+
+This shows how IER:
+
+* explains refusal without commanding it
+* preserves plural judgment without relativism
+* allows action and refusal to coexist without collapse
+
+---
+
+## **11. Case: Dementia Advance Directives**
+
+**Description**
+A past UEF authorized death under future conditions.
+The present UEF is cognitively altered but experientially content.
+
+**IER Analysis**
+
+IER does not resolve this case—and that is not a failure.
+
+What IER clarifies:
 
 * the same physical system persists
 * intrinsic constraint has reorganized
-* agency is temporally distributed and partially discontinuous
+* agency is temporally distributed and discontinuous
 
 IER blocks:
 
@@ -280,33 +356,11 @@ IER blocks:
 
 What remains is a genuine tragic conflict between **historical agency** and **present experiential integrity**.
 
-IER explains *why* this is hard without pretending it is soluble.
+IER explains *why* the case is hard without pretending it is soluble.
 
 ---
 
-## **10. Case: One to Save Five (Aggregation)**
-
-**Description**
-Killing one UEF would save five others.
-
-**IER Analysis**
-
-IER blocks this move entirely.
-
-Because:
-
-* standing is categorical
-* experiential harm is non-scalar
-* subjects are non-aggregable
-
-No amount of benefit elsewhere can justify intentional destruction of a UEF.
-
-IER does not optimize worlds.
-It constrains actions.
-
----
-
-## **11. What These Cases Show**
+## **12. What These Cases Show**
 
 Across all cases, the same structure applies:
 
@@ -314,15 +368,15 @@ Across all cases, the same structure applies:
 * Consent affects responsibility, not ontology.
 * Pain can exist without experiential harm.
 * Experiential harm can exist without pain.
-* Death is always experiential moral harm, even when permitted.
+* Death is always experiential moral harm.
 * Benefit is not a moral primitive.
 * Tragedy is not moral failure.
 
-IER’s ethical strength lies not in providing easy answers, but in **preventing false ones**.
+IER’s ethical strength lies not in providing answers, but in **preventing false ones**.
 
 ---
 
-## **12. What IER Refuses to Decide**
+## **13. What IER Refuses to Decide**
 
 IER does not:
 
@@ -331,13 +385,13 @@ IER does not:
 * supply decision algorithms
 * eliminate tragic remainder
 * guarantee clean hands
-* determine whether actions without experiential harm are morally permissible
+* determine permissibility
 
 IER tells us **what is at stake experientially**, not how to escape it.
 
 ---
 
-## **13. Summary**
+## **14. Summary**
 
 Under Informational Experiential Realism:
 
@@ -346,7 +400,6 @@ Under Informational Experiential Realism:
 * Consent changes ownership, not ontology.
 * Pain is experientially neutral; collapse is not.
 * Death is always experiential moral harm.
-* Permissibility is asymmetrical and tragic.
 * Aggregation and optimization are structurally forbidden.
 
 > **IER does not make morality comfortable.**

@@ -1,6 +1,6 @@
 # **One Dilemma, Many Names: IER’s Unified Response to the Classic Problems of Moral Philosophy**
 
-**Informational Experiential Realism (IER v10.8)**
+**Informational Experiential Realism (IER v10.8.1)**
 *Derived Explanatory Article — Non-Normative*
 
 ---
@@ -15,7 +15,7 @@ It:
 * adds **no decision procedures, rankings, or prescriptions**
 * supplies **no justifications or permissions**
 * relies exclusively on the ethical consequences fixed in the
-  **IER v10.8 Specification** and elaborated in **IER-ethics.md**
+  **IER v10.8.1 Specification** and elaborated in **IER-ethics.md**
 
 Its purpose is to catalog the **canonical dilemmas of moral philosophy** and show that, under Informational Experiential Realism (IER), they are not independent paradoxes but **recurrent expressions of a single structural misframing**.
 
@@ -76,7 +76,7 @@ What remains is **tragic remainder**, not moral indeterminacy.
 ## **3. The Doctrine of Double Effect**
 
 **Canonical formulation**
-Harm caused as a foreseen side effect may be permissible, while the same harm intended directly is not.
+Harm caused as a foreseen side effect may be morally distinguished from harm intended directly.
 
 **What the dilemma targets**
 Whether intention alters the moral reality of harm.
@@ -90,7 +90,7 @@ What matters structurally is:
 * whether disruption is reversible or catastrophic
 * whether global coherence of the UEF is preserved
 
-Intention affects **responsibility attribution**, not whether moral harm has occurred.
+Intention affects **responsibility attribution**, not whether experiential moral harm has occurred.
 
 ---
 
@@ -105,7 +105,7 @@ Whether outcomes retroactively determine moral status.
 **IER diagnosis**
 The dilemma arises from conflating two distinct axes:
 
-* **moral harm** (organizational damage to intrinsic constraint)
+* **experiential moral harm** (organizational damage to intrinsic constraint)
 * **moral responsibility** (graded by agency, capacity, and ownership)
 
 IER separates these axes.
@@ -120,24 +120,24 @@ The dilemma dissolves once these dimensions are not forced into alignment.
 ## **5. Dirty Hands and Lesser-Evil Dilemmas**
 
 **Canonical formulation**
-Some actions seem morally required yet morally tainted. Can necessity justify wrongdoing?
+Some actions seem unavoidable yet morally tainted. Can necessity convert harm into moral success?
 
 **What the dilemma targets**
-Whether necessity converts harm into moral success.
+Whether necessity transforms harm into justification.
 
 **IER diagnosis**
-IER rejects the assumption that permissibility entails moral success.
+IER rejects the assumption that unavoidable action entails moral vindication.
 
 An action may be:
 
 * unavoidable
-* permitted
-* even authorized
+* undertaken under extreme constraint
+* owned by remaining agency
 
-while still constituting **irreversible moral harm**.
+while still constituting **irreversible experiential moral harm**.
 
 The persistent “dirty hands” residue is not a failure of ethics.
-It reflects the **reality of tragic remainder**.
+It reflects the **reality of tragic remainder** once aggregation and moral alchemy are blocked.
 
 ---
 
@@ -208,7 +208,7 @@ The dilemma dissolves once responsibility is grounded organizationally rather th
 ## **9. Consent as Moral Alchemy**
 
 **Canonical formulation**
-Does consent transform harmful acts into permissible ones?
+Does consent transform harmful acts into morally clean ones?
 
 **What the dilemma targets**
 Whether consent alters the moral reality of harm.
@@ -224,7 +224,7 @@ If disruption is:
 * reversible
 * integrated into the UEF’s own regulation
 
-no moral harm need occur.
+no experiential moral harm need occur.
 
 If irreversible collapse occurs, consent does not erase it.
 
@@ -233,10 +233,10 @@ If irreversible collapse occurs, consent does not erase it.
 ## **10. Moral Uncertainty and Risk**
 
 **Canonical formulation**
-If we are uncertain about harm or standing, are we permitted to act freely?
+If we are uncertain about harm or standing, are we licensed to act freely?
 
 **What the dilemma targets**
-Whether uncertainty licenses moral permissiveness.
+Whether uncertainty weakens moral constraint.
 
 **IER diagnosis**
 IER inverts the assumption.
