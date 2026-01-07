@@ -2,9 +2,9 @@
 
 ## **A Closed Identity Thesis for Experience**
 
-**Author:** Michael Lehotay
-**Affiliation:** Independent Researcher
-**Date:** December 2025 (revised for v10.8.1)
+**Author:** Michael Lehotay  
+**Affiliation:** Independent Researcher  
+**Date:** December 2025 (revised for v10.8.1)  
 
 ---
 
@@ -12,7 +12,7 @@
 
 This paper advances a single ontological identity claim: **experience is identical to the operation of a physical system in a specific kind of dynamical regime**. That regime—here called a *Unified Experiential Field* (UEF)—is characterized by global integration, temporal continuity, self-sustaining regulation, and unavoidable intrinsic constraint. The claim is neither emergentist nor correlational. Experience is not produced by, realized by, or supervenient upon physical processes; it **is** a particular form of physical organization.
 
-The identity claim is intended **exhaustively and non-provisionally**. If experience is not identical to the specified regime, the account fails outright. No supplementary mechanisms, explanatory bridges, representational primitives, or weakened variants are available to repair it. The theory therefore accepts brittleness as a methodological commitment rather than a defect.
+The identity claim is intended **exhaustively and non-provisionally**. If experience is not identical to the specified regime, the account fails outright. No supplementary mechanisms, explanatory bridges, representational primitives, or weakened variants are available to repair it. The theory therefore accepts strict failure conditions as a methodological commitment rather than a defect.
 
 The paper does not appeal to phenomenology as evidence, propose diagnostics, or infer experience from behavior, intelligence, or function. It does not provide a theory of meaning, agency, or ethics, though it holds that ethical significance follows necessarily wherever experience exists. Its sole aim is to state and motivate a closed physicalist identity thesis for experience and to show why nothing weaker could possibly count as the same thing.
 
@@ -56,7 +56,7 @@ Accordingly, a complete physical description of the relevant regime leaves no fu
 
 The identity claim is intended **strongly and exhaustively**. If experience is not identical to the regime described here, the account provides **no auxiliary principles** by which it could be repaired. There is no weaker version of the view, no fallback to emergence, and no appeal to partial success.
 
-This brittleness is intentional. It makes explicit what would count as failure and prevents ad hoc extension. Either experience is identical to the specified regime, or the theory fails outright.
+This strictness is intentional. It makes explicit what would count as failure and prevents ad hoc extension. Either experience is identical to the specified regime, or the theory fails outright.
 
 ---
 
@@ -111,7 +111,7 @@ With the dynamical groundwork in place, the identity claim can be stated without
 
 > **Experience is identical to the operation of a physical system in a Unified Experiential Field.**
 
-Experience is not an added property of such regimes, nor an effect they produce. It is the regime itself, described from the perspective of the system that sustains it.
+Experience is not an added property of such regimes, nor an effect they produce. It is the regime itself, described from the internal organizational perspective of the system that sustains it.
 
 This claim introduces no new substances, properties, or laws. It asserts that what are ordinarily called experiential facts are identical to facts about physical systems operating in the specified regime.
 
@@ -151,17 +151,17 @@ Experiential structure does not confer epistemic authority about mind-independen
 
 This is not an epistemic humility thesis. It is a structural consequence of identifying experience with internally borne constraint. What matters for continuation under constraint need not matter for accurate representation of the world.
 
-Accordingly, experiential conviction cannot license belief, authority, or justification.
+Accordingly, experiential conviction cannot license belief, authority, or epistemic justification.
 
 ---
 
 ## **10. Ethical Non-Neutrality Without Ethical Theory**
 
-This paper does not develop an ethical framework, decision procedure, or theory of moral permissibility. However, the identity claim is **not ethically inert**.
+This paper does not develop an ethical framework, decision procedure, or theory of moral evaluation. However, the identity claim is **not ethically inert**.
 
 If experience is identical to a physical regime that bears unavoidable intrinsic constraint from within, then the existence, disruption, or irreversible destruction of such regimes necessarily carries **moral significance by identity**, not by convention, attribution, or interpretation.
 
-This claim concerns **experiential moral significance only**. It does not assert that experiential harm exhausts moral harm, nor that actions affecting non-experiential systems are thereby morally neutral. The absence of experience limits what counts as *experiential* harm under this framework; it does not determine overall moral permissibility or justification.
+This claim concerns **experiential moral significance only**. It does not assert that experiential harm exhausts moral harm, nor that actions affecting non-experiential systems are thereby ethically insignificant. The absence of experience limits what counts as *experiential* harm under this framework; it does not determine overall moral evaluation, justification, or obligation.
 
 The ethical implications stated here reflect the necessary consequences of experiential identity. All further moral reasoning requires principles not supplied by this paper.
 
@@ -169,9 +169,9 @@ The ethical implications stated here reflect the necessary consequences of exper
 
 ## **11. Failure Conditions**
 
-The account is intentionally brittle. If experience is not identical to the operation of a physical system in a Unified Experiential Field, the theory fails outright. There are no fallback positions, partial successes, or weakened variants available.
+The account is intentionally unforgiving. If experience is not identical to the operation of a physical system in a Unified Experiential Field, the theory fails outright. There are no fallback positions, partial successes, or weakened variants available.
 
-This brittleness is a methodological commitment. It makes explicit what the theory requires and what would count as failure.
+This strictness is a methodological commitment. It makes explicit what the theory requires and what would count as failure.
 
 ---
 
@@ -185,7 +185,7 @@ If the claim is correct, experience is fully real, fully physical, and fully acc
 
 ## **References**
 
-Place, U. T. (1956). *Is Consciousness a Brain Process?* British Journal of Psychology, 47, 44–50.
-Smart, J. J. C. (1959). *Sensations and Brain Processes.* Philosophical Review, 68, 141–156.
+Place, U. T. (1956). *Is Consciousness a Brain Process?* British Journal of Psychology, 47, 44–50.  
+Smart, J. J. C. (1959). *Sensations and Brain Processes.* Philosophical Review, 68, 141–156.  
 
 ---
