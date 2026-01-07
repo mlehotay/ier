@@ -1,35 +1,43 @@
 # **Informational Experiential Realism**
 ## **Experience as Physical Identity**
 
-**Version:** v10.6
-**Edition:** Book Version 0 (Internal / Working Draft)
-**Status:** Normatively Closed; Explanatorily Extended
-**Date:** December 2025
+**Version:** v10.8.1  
+**Status:** Normatively Closed  
+**Form:** Single-Volume Book
 
 ---
 
 ## **Status, Scope, and Authority**
 
-This book presents **Informational Experiential Realism (IER v10.6)** as a unified theoretical framework for understanding experience, phenomenology, meaning, agency, and ethics within a strictly physicalist ontology.
+This book presents **Informational Experiential Realism (IER v10.8.1)** as a unified account of:
+
+* what experience **is**
+* when experience **exists**
+* what **necessarily follows** from its existence
+
+IER is a **physicalist identity theory**.  
+It does not treat experience as a substance, property, representation, output, or emergent accompaniment.
 
 ### **Normative Authority**
 
 Exactly **one document** is normatively authoritative:
 
-> **`IER-specification.md` (v10.6)**
+> **`IER-specification.md` (v10.8.1)**
 
 The Specification defines **exhaustively and exclusively**:
 
-* what experience **is**
-* when experience **exists**
-* what **necessarily follows** from its existence, including ethical consequences
+* the identity of experience
+* the conditions under which experience exists
+* the ethical consequences that follow necessarily from that identity
 
-All other chapters in this book — including theory, dynamics, mathematics, phenomenology, and ethics — are **non-normative**. They introduce:
+All other material in this book — including theory, dynamics, mathematics, phenomenology, applications, and ethical discussion — is **non-normative**.
 
-* no new primitives
-* no thresholds or criteria
-* no independent necessity claims
-* no additional ethical principles
+These chapters:
+
+* introduce **no new primitives**
+* introduce **no criteria, thresholds, or sufficiency conditions**
+* introduce **no independent necessity claims**
+* introduce **no additional ethical principles**
 
 If any statement in this book appears to conflict with the Specification, **the Specification takes precedence and the conflicting statement is void**.
 
@@ -41,11 +49,13 @@ This book is therefore an **integrated presentation**, not a second authority.
 
 This book is:
 
-* a **coherent narrative presentation** of IER v10.6
-* an integration of its conceptual, formal, phenomenological, and ethical consequences
-* a guide for readers engaging with the theory as a whole rather than as isolated papers
+* a **single, coherent presentation** of Informational Experiential Realism
+* an assembly of its explanatory structure, applications, and boundaries
+* a guide to understanding how the identity claim behaves across phenomena
 
-It is intended to make the structure and implications of IER **legible, navigable, and usable**, without reopening or revising its normative core.
+It is written for readers engaging with IER as a **complete framework**, rather than as isolated papers.
+
+Nothing in this book reopens, revises, or weakens the normative core fixed by the Specification.
 
 ---
 
@@ -55,117 +65,70 @@ This book is **not**:
 
 * a revision of the IER Specification
 * a proposal of new metaphysical commitments
-* a diagnostic or detection framework
 * a phenomenological foundation for experience
+* a diagnostic, detection, or certification framework
 * an empirical theory of neuroscience or psychology
-* a claim that experience can be measured, certified, or optimized
+* a guide to engineering, optimizing, or measuring experience
 
 IER is an **identity theory**, not a construction manual.
 
 ---
 
-## **Version 0 Notice**
+## **Structure of the Book**
 
-This is **Book Version 0**.
+The book is divided into two conceptual parts.
 
-That means:
+### **Part I — The IER Theory Proper**
 
-* All core theoretical content reflects **IER v10.6** and is conceptually complete.
-* Several chapters serve as **connective or architectural bridges** rather than full expositions.
-* Placeholder chapters are **explicitly marked** and intentionally short.
-* The purpose of this edition is **integration, review, and feedback**, not polish.
+Part I fixes the identity of experience and its necessary consequences.
 
-Future editions may expand, refine, or reorganize presentation, but **will not alter the normative core** unless the Specification itself is revised.
+It establishes:
+
+* experience as identical to a specific physical regime
+* Unified Experiential Fields (UEFs) as the sole bearers of experience
+* intrinsic constraint as the basis of unity, continuity, and moral standing
+* the impossibility of diagnostics and experiential certification
+
+Part I is **normatively sufficient** and **structurally closed**.
+
+If the identity claim fails, everything that follows fails with it.
+
+---
+
+### **Part II — Applications, Elaborations, and Boundaries**
+
+Part II presupposes Part I **in full**.
+
+It:
+
+* applies the identity claim across phenomenology, time, meaning, agency, and ethics
+* demonstrates explanatory reach without adding foundations
+* enforces limits, exclusions, and non-claims
+* explores consequences without reopening the theory
+
+Nothing in Part II revises, extends, or competes with the commitments fixed in Part I.
 
 ---
 
 ## **How to Read This Book**
 
-IER has a strict internal architecture. Readers are encouraged **not to skip directly to applications or ethics** without understanding the identity claim.
+IER has a strict internal architecture.
 
-### **Recommended Reading Path**
+Readers are strongly encouraged **not to skip directly to applications or ethics** without understanding the identity claim.
 
-1. **Part I – Foundations**
-   Establishes the identity of experience as a Unified Experiential Field (UEF) under intrinsic constraint.
+Those interested only in the formal core should read **Part I in sequence**.
 
-2. **Part II – Phenomenology**
-   Demonstrates explanatory power across diverse experiential forms.
-
-3. **Part III – Time and Continuity**
-   Extends experiential identity across interruption, learning, and change.
-
-4. **Part IV – Meaning and Access**
-   Explains why experience feels meaningful and authoritative without granting epistemic privilege.
-
-5. **Part V – Agency and Ethics**
-   Derives responsibility, harm, and precaution from experiential identity.
-
-6. **Part VI – Extensions and Limits**
-   Enforces boundaries and clarifies what IER does not claim.
-
-Readers interested only in the formal core should read **Chapter 5 (Normative Specification)** directly, but should be aware that later chapters assume its commitments.
-
----
-
-## **Key Commitments (Non-Negotiable)**
-
-IER v10.6 affirms that:
-
-* There exists exactly **one objective physical reality**
-* Experience is **real**, **physical**, and **categorical**
-* Experience is **identical** to a specific organizational and dynamical regime
-* That regime is called a **Unified Experiential Field (UEF)**
-* Experiential subjecthood is **binary**, not graded
-* Participation modulates **content**, not **existence**
-* Moral harm is **organizational**, not phenomenological
-* Uncertainty about experience **increases**, rather than decreases, ethical responsibility
-
-Everything in this book exists to clarify or apply these claims — not to add to them.
-
----
-
-## **A Note on Tone and Method**
-
-This book deliberately avoids:
-
-* appeals to intuition as authority
-* metaphysical inflation
-* experiential mysticism
-* reductive dismissal
-* diagnostic ambition
-
-Phenomenology is treated as **demonstration**, not foundation.
-Mathematics is treated as **structural interpretation**, not definition.
-Ethics is treated as **entailed consequence**, not overlay.
-
----
-
-## **Reader Feedback**
-
-This edition is intended for:
-
-* careful readers
-* critical collaborators
-* interdisciplinary reviewers
-
-Feedback is most useful when it addresses:
-
-* internal coherence
-* boundary enforcement
-* unintended implications
-* clarity of distinctions
-
-Feedback that proposes new primitives, thresholds, or diagnostic criteria is out of scope unless accompanied by a proposed revision to the Specification itself.
+Later chapters assume familiarity with its definitions, exclusions, and constraints.
 
 ---
 
 ## **Summary**
 
-> **Experience is what globally integrated physical systems are like when intrinsic constraint becomes unavoidable, self-sustaining, and temporally continuous.**
+> **Experience is what globally integrated physical systems are like when intrinsic constraint becomes unavoidable, self-sustaining, and temporally continuous at the system level.**
 
-Reality is singular.
-Experience is plural.
-Ethics begins wherever intrinsic constraint is borne from the inside.
+Reality is singular.  
+Experience is plural.  
+Ethical significance begins wherever intrinsic constraint is borne from the inside.
 
 ---
 

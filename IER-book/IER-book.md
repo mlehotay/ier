@@ -1,403 +1,275 @@
-# **Informational Experiential Realism (IER v10.8.1)**
-
-## **Book Structure, Ordering, and Compilation**
-
----
-
-## **Status and Authority**
-
-This document defines the **structure, ordering, and compilation rules** for the
-single-volume book ***Informational Experiential Realism***.
-
-It is:
-
-* **non-normative**
-* **non-criterial**
-* **non-reader-facing**
-* **authoritative only with respect to ordering and assembly**
-
-It introduces:
-
-* no ontological claims
-* no experiential criteria
-* no necessity conditions
-* no ethical principles
-* no interpretive authority
-
-All ontological, criterial, epistemic, and ethical authority resides **exclusively** in:
-
-```
-IER-specification.md   (v10.8.1)
-```
-
-If any statement in this file conflicts with the Specification,
-**the Specification takes precedence and the conflicting statement is void**.
+# **Informational Experiential Realism**
+## **Experience as Physical Identity**
 
 ---
 
-## **Purpose of This File**
+## **Preface — An Orientation to Informational Experiential Realism**
+**[IER-paper.md]**
 
-This document exists to:
-
-* preserve the **minimal, closed nature** of the IER identity claim
-* ensure the corpus can be printed as **one coherent book**
-* enforce **tier discipline** and prevent authority creep
-* guarantee **one-way conceptual dependence**
-* make explicit which material is **foundational** and which is **derivative**
-
-This file governs **how the book is assembled**, not **what IER claims**.
+*This preface provides motivation, historical context, and conceptual orientation.
+It introduces no new claims and carries no independent normative authority.
+All authoritative commitments are fixed exclusively in Part I.*
 
 ---
 
-## **Two-Part Book Structure (Binding)**
+# **PART I — THE IER THEORY PROPER**
 
-The book is divided into **two conceptual parts**.
-
----
-
-### **PART I — The IER Theory Proper (Closed Argument)**
-
-**Question answered**
-
-> *What does IER claim, and what necessarily follows if it is true?*
-
-Characteristics:
-
-* contains **all Tier-1 material**
-* includes **Tier-2 exclusionary material required to close misreadings**
-* includes **Tier-3 misuse-blocking constraints**
-* is **normatively sufficient**
-* is **closed under v10.8**
-* introduces the identity claim **once and only once**
-* contains **no pedagogy, reassurance, or orientation material**
-
-Part I constitutes **the theory itself**.
+*The identity of experience and its necessary consequences.*
 
 ---
 
-### **PART II — Additional Topics, Applications, and Boundaries**
-
-**Question answered**
-
-> *Given that IER is true, how does it behave across phenomena, applications, and limits?*
-
-Characteristics:
-
-* **presupposes Part I in its entirety**
-* introduces **no new foundations**
-* elaborates, applies, stress-tests, and contextualizes the theory
-* explicitly labels **tier status**
-* does **not** reopen or modify the closed argument
+## **1. Experiential Identity**
+**[IER-specification.md]**
 
 ---
 
-## **Tier Markers (Global)**
-
-All chapters are labeled with tier markers:
-
-* **[T1] Foundational Canon**
-* **[T2] Canon-Constrained Analysis**
-* **[T3] Misuse-Blocking / Diagnostic Limits**
-* **[T4] Explanatory / Meta**
-
-Tier markers constrain interpretation and authority.
+## **2. Why Experience Must Be a Regime**
+**[IER-theory.md]**
 
 ---
 
----
-
-# **PART I — THE IER THEORY PROPER (CLOSED ARGUMENT)**
-
-This part fixes **what experience is**, **when it exists**, and **what necessarily follows**.
-No phenomenology, application, or reader alignment appears here.
+## **3. Dynamics of Unified Experiential Fields**
+**[IER-dynamics.md]**
 
 ---
 
-### **1 — Experiential Identity**
-
-**[T1]** `IER-specification.md`
-*Exclusive normative core defining experiential identity, Unified Experiential Fields (UEFs), intrinsic constraint, categorical subjecthood, and moral standing.*
+## **4. Formal Structure and Coherence**
+**[IER-math.md]**
 
 ---
 
-### **2 — Why Experience Must Be a Regime**
-
-**[T1]** `IER-theory.md`
-*Explanatory backbone showing why experience cannot be an aggregate, output, or representation.*
+## **5. Informational Slack and Structural Exclusion**
+**[IER-slack.md]**
 
 ---
 
-### **3 — Dynamics of Unified Experiential Fields**
-
-**[T1]** `IER-dynamics.md`
-*How UEFs behave once they exist: dominance, participation modulation, stability, and collapse.*
+## **6. Ethical Consequences of Experiential Identity**
+**[IER-ethics.md]**
 
 ---
 
-### **4 — Formal Structure and Coherence**
-
-**[T1]** `IER-math.md`
-*Formal support using state spaces, regimes, and coherence without introducing diagnostics.*
+## **7. Why Diagnostics Are Impossible**
+**[IER-diagnostics.md]**
 
 ---
 
-### **5 — Informational Slack and Structural Exclusion**
-
-**[T2]** `IER-slack.md`
-*Structural impossibility argument showing why informational slack is incompatible with experiential identity.*
-
----
-
-### **6 — Ethical Consequences of Experiential Identity**
-
-**[T1]** `IER-ethics.md`
-*Ethical implications that follow necessarily from the identity claim.*
-
----
-
-### **7 — Why Diagnostics Are Impossible**
-
-**[T3]** `IER-diagnostics.md`
-*Canon-binding misuse-blocking document explaining structural non-diagnosability and precaution.*
-
----
-
-> **End of Part I**
+> **End of Part I**  
 > At this point, the IER theory is fully specified, normatively closed, and structurally protected.
 
 ---
 
----
+# **PART II — APPLICATIONS, ELABORATIONS, AND BOUNDARIES**
 
-# **PART II — ADDITIONAL TOPICS, APPLICATIONS, AND BOUNDARIES**
-
-All material below **presupposes Part I in full**.
-Nothing here introduces new identity claims, criteria, or ethical principles.
+*All material below presupposes Part I in full.*
 
 ---
 
 ## **Phenomenology and Experiential Organization**
 
-Demonstrates **what experiential organization can look like** under the IER framework,
-without conferring authority or criteria.
+These chapters demonstrate how diverse qualitative and affective structures arise from different organizations of intrinsic constraint within an already-existing Unified Experiential Field. They introduce no new criteria for experience and do not modify experiential identity.
 
 ---
 
-### **8 — Emotions as Constraint Organizations**
+### **8. Emotions as Constraint Organizations**
+**[IER-emotions.md]**
 
-**[T2]** `IER-emotions.md`
+### **9. Brainfeels and Endogenous Qualia**
+**[IER-brainfeels.md]**
 
-### **9 — Brainfeels and Endogenous Qualia**
+### **10. Pacing and Background Motor Participation**
+**[IER-pacing.md]**
 
-**[T2]** `IER-brainfeels.md`
+### **11. Aphantasia and Architectural Diversity**
+**[IER-aphantasia.md]**
 
-### **10 — Aphantasia and Architectural Diversity**
+### **12. Panic, Shutdown, and Regime Preservation**
+**[IER-panic.md]**
 
-**[T2]** `IER-aphantasia.md`
+### **13. Psychosis as Pathological Regime**
+**[IER-psychosis.md]**
 
-### **11 — Panic, Shutdown, and Regime Preservation**
+### **14. Art and Experiential Reorganization**
+**[IER-art.md]**
 
-**[T2]** `IER-panic.md`
-
-### **12 — Psychosis as Pathological Regime**
-
-**[T2]** `IER-psychosis.md`
-
-### **13 — Art and Experiential Reorganization**
-
-**[T2]** `IER-art.md`
+### **15. Music as Constraint-Shaping Structure**
+**[IER-music.md]**
 
 ---
 
 ## **Time, Continuity, and Regime Interruption**
 
-Clarifies how experiential regimes **persist, interrupt, and resume**
-without graded subjecthood or identity confusion.
+These chapters explain how experiential regimes persist, interrupt, dissolve, and reform over time without implying graded subjecthood, serial experiencers, or metaphysical rebirth.
 
 ---
 
-### **14 — Experiential Continuity Without Persistence of Experience**
+### **16. Experiential Continuity Without Persistence of Experience**
+**[IER-continuity.md]**
 
-**[T2]** `IER-continuity.md`
+### **17. Persistence Through Change**
+**[IER-persistence.md]**
 
-### **15 — Persistence Through Change**
+### **18. Sleep, Gaps, and Regime Interruption**
+**[IER-sleep.md]**
 
-**[T2]** `IER-persistence.md`
-
-### **16 — Sleep, Gaps, and Regime Interruption**
-
-**[T2]** `IER-sleep.md`
-
-### **17 — Dormancy as Experiential Null Interval**
-
-**[T2]** `IER-dormancy.md`
+### **19. Dormancy as Experiential Null Interval**
+**[IER-dormancy.md]**
 
 ---
 
 ## **Meaning, Access, and Narrative Structure**
 
-Explains meaning, intentionality, and narrative **without epistemic authority or representation**.
+This cluster explains why experience feels meaningful, coherent, and authoritative while enforcing the strict separation between experiential access and epistemic authority.
 
 ---
 
-### **18 — Experiential Access vs. Epistemic Access**
+### **20. Experiential Access vs. Epistemic Access**
+**[IER-access.md]**
 
-**[T2]** `IER-access.md`
+### **21. Meaning Without Ontology**
+**[IER-meaning.md]**
 
-### **19 — Meaning Without Ontology**
+### **22. Intentionality Without Representation**
+**[IER-intentionality.md]**
 
-**[T2]** `IER-meaning.md`
+### **23. Why the Puzzles Dissolve**
+**[IER-puzzles.md]**
 
-### **20 — Intentionality Without Representation**
+### **24. Insight and the Feeling of Truth**
+**[IER-insight.md]**
 
-**[T2]** `IER-intentionality.md`
+### **25. Synchronicity and Experienced Coherence**
+**[IER-synchronicity.md]**
 
-### **21 — Why the Puzzles Dissolve**
-
-**[T2]** `IER-puzzles.md`
-
-### **22 — Insight and the Feeling of Truth**
-
-**[T2]** `IER-insight.md`
+### **26. Truth Without Experiential Privilege**
+**[IER-truth.md]**
 
 ---
 
 ## **Dynamics, Attractors, and Recurring Forms**
 
-Explains recurring experiential and natural forms as **constraint-stabilizing attractors**.
+These chapters describe recurring experiential and natural patterns as constraint-stabilizing attractors without invoking design, representation, or ontological typology.
 
 ---
 
-### **23 — Soft Attractors in Experience**
+### **27. Soft Attractors in Experience**
+**[IER-attractors.md]**
 
-**[T2]** `IER-attractors.md`
+### **28. Recurring Patterns Without Design**
+**[IER-patterns.md]**
 
-### **24 — Recurring Patterns Without Design**
+### **29. Clustering Without Ontological Types**
+**[IER-types.md]**
 
-**[T2]** `IER-patterns.md`
-
-### **25 — Shadow Figures and Extreme Constraint States**
-
-**[T2]** `IER-shadows.md`
+### **30. Shadow Figures and Extreme Constraint States**
+**[IER-shadows.md]**
 
 ---
 
 ## **Agency, Choice, and Ethics in Practice**
 
-Applies IER’s distinctions to agency, responsibility, and moral cases
-without adding new ethical primitives.
+This cluster applies IER’s identity and ethical constraints to agency, responsibility, choice, and moral cases without introducing new moral primitives or decision procedures.
 
 ---
 
-### **26 — Agency as Owned Resolution**
+### **31. Resolution and Ownership**
+**[IER-resolution.md]**
 
-**[T2]** `IER-agency.md`
+### **32. Agency as Owned Resolution**
+**[IER-agency.md]**
 
-### **27 — Choice Spaces and Admissible Futures**
+### **33. Choice Spaces and Admissible Futures**
+**[IER-choice.md]**
 
-**[T2]** `IER-choice.md`
+### **34. Free Will Without Indeterminism**
+**[IER-free-will.md]**
 
-### **28 — Free Will Without Indeterminism**
+### **35. Ethical Constraint and Non-Closure**
+**[IER-constraint.md]**
 
-**[T2]** `IER-free-will.md`
+### **36. Moral Cases Under IER**
+**[IER-morals.md]**
 
-### **29 — Moral Cases and Structural Analysis**
+### **37. Moral Dilemmas and Structural Misframing**
+**[IER-dilemmas.md]**
 
-**[T2]** `IER-morals.md`
+### **38. Duty, Obligation, and Responsibility**
+**[IER-duty.md]**
 
-### **30 — Moral Dilemmas and Structural Misframing**
+---
 
-**[T2]** `IER-dilemmas.md`
+## **Interfaces, Relations, and Systems**
+
+These chapters examine systems that strongly shape experience without constituting independent experiential subjects.
+
+---
+
+### **39. Immersive Interfaces and Participation**
+**[IER-helmets.md]**
+
+### **40. Enteric Participation Without Subjecthood**
+**[IER-gut.md]**
+
+### **41. Neural Implants and Boundary Stress Tests**
+**[IER-implants.md]**
+
+### **42. Love as a Cross-Temporal Relational Regime**
+**[IER-love.md]**
+
+### **43. Relationship Types as Constraint Regimes**
+**[IER-relationships.md]**
+
+### **44. Social Systems Without Subjecthood**
+**[IER-social-systems.md]**
+
+### **45. Traditions as Constraint-Management Systems**
+**[IER-traditions.md]**
+
+### **46. Why Corporations Are Not Experiential Persons**
+**[IER-corporations.md]**
 
 ---
 
 ## **Boundaries, Denials, and Comparative Work**
 
-Prevents misattribution by stating **what IER does not claim**
-and where it is incompatible with other frameworks.
+This final cluster enforces what IER does not claim and why those exclusions are structural rather than optional.
 
 ---
 
-### **31 — Explicit Non-Claims**
+### **47. Explicit Non-Claims**
+**[IER-denials.md]**
 
-**[T2]** `IER-denials.md`
+### **48. Incompatibilities and Boundary Conditions**
+**[IER-contrast.md]**
 
-### **32 — Incompatibilities and Boundary Conditions**
-
-**[T2]** `IER-contrast.md`
-
-### **33 — Objections, Costs, and Rejected Intuitions**
-
-**[T2]** `IER-critics.md`
+### **49. Objections, Costs, and Rejected Intuitions**
+**[IER-critics.md]**
 
 ---
 
-## **Social, Institutional, and Interface Boundaries**
+# **PART III — ORIENTATION, CONTEXT, AND NAVIGATION**
 
-Analyzes systems that matter morally **without being experiential subjects**.
-
----
-
-### **34 — Social Systems Without Subjecthood**
-
-**[T2]** `IER-social-systems.md`
-
-### **35 — Immersive Interfaces and Participation**
-
-**[T2]** `IER-helmets.md`
-
-### **36 — Neural Implants and Boundary Stress Tests**
-
-**[T2]** `IER-implants.md`
-
-### **37 — The Enteric System and Participation**
-
-**[T2]** `IER-gut.md`
-
-### **38 — Traditions as Constraint-Management Systems**
-
-**[T2]** `IER-traditions.md`
+*Non-authoritative material for reader alignment and navigation.*
 
 ---
 
-## **Meta, Orientation, and Navigation**
+### **50. Do Not Panic**
+**[IER-dont-panic.md]**
 
-Provides context, governance, and navigation **without authority inflation**.
+### **51. Historical Preconditions of IER**
+**[IER-history.md]**
 
----
+### **52. Cultural Futures Under Experiential Uncertainty**
+**[IER-futures.md]**
 
-### **39 — Cultural Futures Under Experiential Uncertainty**
+### **53. Frequently Asked Questions**
+**[IER-FAQ.md]**
 
-**[T4]** `IER-futures.md`
+### **54. Glossary of Canon-Constrained Terms**
+**[IER-glossary.md]**
 
-### **40 — Historical Preconditions of IER**
-
-**[T4]** `IER-history.md`
-
-### **41 — Canon, Authority, and Version Discipline**
-
-**[T4]** `IER-canon.md`
-
-### **42 — Glossary of Canon-Constrained Terms**
-
-**[T4]** `IER-glossary.md`
-
-### **43 — Index of Concepts and Documents**
-
-**[T4]** `IER-index.md`
-
-### **44 — Version History and Structural Changes**
-
-**[T4]** `IER-changelog.md`
+### **55. Index of Concepts and Documents**
+**[IER-index.md]**
 
 ---
 
-## **Final Design Commitments**
-
-* Identity before application
-* Closure before expansion
-* Exclusion before intuition
-* Structure over narrative
-* Auditability over accessibility
-
----
+> **End of Book**
