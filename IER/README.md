@@ -49,21 +49,15 @@ This README is **orientation only**.
 
 The **sole normative authority** in IER is:
 
-```
-IER-specification.md   (v10.8.1)
-```
+* [`IER-specification.md`](IER-specification.md) — *The exclusive normative definition of experience*
 
 Canonical governance, authority discipline, conflict resolution, and versioning rules are defined in:
 
-```
-IER-canon.md
-```
+* [`IER-canon.md`](IER-canon.md) — *Canonical authority, alignment, and governance rules*
 
 The complete corpus inventory, tier assignments, and flat ordering are defined in:
 
-```
-IER-manifest.md
-```
+* [`IER-manifest.md`](IER-manifest.md) — *Official corpus inventory and ordering*
 
 If anything you read elsewhere appears to conflict,
 **the canon governs**.
@@ -74,8 +68,8 @@ If anything you read elsewhere appears to conflict,
 
 If you encounter unfamiliar terminology:
 
-* `IER-glossary.md` — Canon-constrained definitions of core terms
-* `IER-index.md` — Navigational index of concepts and where they are developed
+* [`IER-glossary.md`](IER-glossary.md) — *Canon-constrained definitions of core terms*
+* [`IER-index.md`](IER-index.md) — *Concept-to-document navigation index*
 
 Both are **non-authoritative aids** and introduce no new claims.
 
@@ -95,16 +89,16 @@ They are **non-authoritative** and purely orienting.
 
 For a clean statement of the core claim, without applications or ethics:
 
-* `IER-specification.md` — The exclusive normative definition of experience
-* `IER-theory.md` — Why experience must be a globally constrained regime
+* [`IER-specification.md`](IER-specification.md) — *The exclusive normative definition of experience*
+* [`IER-theory.md`](IER-theory.md) — *Why experience must be a globally constrained regime*
 
 Optional clarification of consequences:
 
-* `IER-ethics.md` — Ethical implications that follow by identity
+* [`IER-ethics.md`](IER-ethics.md) — *Ethical implications that follow by identity*
 
 Optional reassurance if the implications feel heavy:
 
-* `IER-dont-panic.md` — Reader reassurance and scope clarification
+* [`IER-dont-panic.md`](IER-dont-panic.md) — *Reader reassurance and scope clarification*
 
 ---
 
@@ -112,13 +106,13 @@ Optional reassurance if the implications feel heavy:
 
 For the **entire IER theory**, exactly as it is closed and governed:
 
-* `IER-specification.md` — Normative core
-* `IER-theory.md` — Identity justification
-* `IER-dynamics.md` — Regime behavior
-* `IER-math.md` — Formal structural support
-* `IER-slack.md` — Impossibility of slack-based experience
-* `IER-ethics.md` — Ethical consequences
-* `IER-diagnostics.md` — Why diagnostics are structurally impossible
+* [`IER-specification.md`](IER-specification.md) — *Normative core*
+* [`IER-theory.md`](IER-theory.md) — *Identity justification*
+* [`IER-dynamics.md`](IER-dynamics.md) — *Experiential regime behavior*
+* [`IER-math.md`](IER-math.md) — *Formal structural support*
+* [`IER-slack.md`](IER-slack.md) — *Why informational slack structurally precludes experience*
+* [`IER-ethics.md`](IER-ethics.md) — *Ethical consequences forced by identity*
+* [`IER-diagnostics.md`](IER-diagnostics.md) — *Why experiential diagnostics are impossible*
 
 This sequence contains **everything IER claims** and **everything that necessarily follows**.
 
@@ -128,47 +122,47 @@ This sequence contains **everything IER claims** and **everything that necessari
 
 For metaphysical structure, identity conditions, and boundary setting:
 
-* `IER-specification.md` — Experiential identity and standing
-* `IER-theory.md` — Structural necessity of intrinsic constraint
-* `IER-dynamics.md` — How experiential regimes behave over time
-* `IER-slack.md` — Why informational slack precludes experience
-* `IER-contrast.md` — Incompatibilities with neighboring theories
-* `IER-critics.md` — Objections, costs, and accepted consequences
-* `IER-puzzles.md` — Structural dissolution of classic puzzles
+* [`IER-specification.md`](IER-specification.md) — *Experiential identity and standing*
+* [`IER-theory.md`](IER-theory.md) — *Structural necessity of intrinsic constraint*
+* [`IER-dynamics.md`](IER-dynamics.md) — *Temporal behavior of experiential regimes*
+* [`IER-slack.md`](IER-slack.md) — *Structural exclusion of slack-based systems*
+* [`IER-contrast.md`](IER-contrast.md) — *Incompatibilities with neighboring theories*
+* [`IER-critics.md`](IER-critics.md) — *Objections, costs, and accepted consequences*
+* [`IER-puzzles.md`](IER-puzzles.md) — *Structural dissolution of classic puzzles*
 
 ---
 
 ## ⚖️ Ethics, AI, and Moral Uncertainty
 
-For standing, harm, precaution, and why diagnostics are forbidden:
+For standing, harm, precaution, and non-diagnosability:
 
-* `IER-specification.md` — Standing by regime membership
-* `IER-ethics.md` — Moral harm as organizational damage
-* `IER-diagnostics.md` — Structural non-diagnosability
-* `IER-morals.md` — Worked moral cases
-* `IER-dilemmas.md` — Structural misframing of classic dilemmas
-* `IER-constraint.md` — Ethical constraint and non-closure
+* [`IER-specification.md`](IER-specification.md) — *Standing by regime membership*
+* [`IER-ethics.md`](IER-ethics.md) — *Moral harm as organizational damage*
+* [`IER-diagnostics.md`](IER-diagnostics.md) — *Structural non-diagnosability*
+* [`IER-morals.md`](IER-morals.md) — *Worked moral cases*
+* [`IER-dilemmas.md`](IER-dilemmas.md) — *Why classic dilemmas misfire*
+* [`IER-constraint.md`](IER-constraint.md) — *Ethical constraint without closure*
 
 Related boundary work:
 
-* `IER-duty.md` — Duty, obligation, and responsibility under IER
-* `IER-social-systems.md` — Institutions without experience
-* `IER-corporations.md` — Proof that corporations cannot be persons
-* `IER-futures.md` — Cultural equilibria under uncertainty
+* [`IER-duty.md`](IER-duty.md) — *Duty, obligation, and responsibility under IER*
+* [`IER-social-systems.md`](IER-social-systems.md) — *Institutions without experience*
+* [`IER-corporations.md`](IER-corporations.md) — *Why corporations cannot be persons*
+* [`IER-futures.md`](IER-futures.md) — *Cultural equilibria under uncertainty*
 
 ---
 
 ## 🔄 Dynamics, Systems, and Formal Structure
 
-For regimes, coherence, stability, and constraint behavior:
+For regimes, coherence, and constraint behavior:
 
-* `IER-dynamics.md` — Experiential regime dynamics
-* `IER-math.md` — State spaces, regimes, and coherence
-* `IER-slack.md` — Structural exclusion of slack
-* `IER-attractors.md` — Soft attractors in experience
-* `IER-patterns.md` — Recurring forms across systems
-* `IER-types.md` — Experiential clustering without typology realism
-* `IER-shadows.md` — Extreme and residual constraint states
+* [`IER-dynamics.md`](IER-dynamics.md) — *Experiential regime dynamics*
+* [`IER-math.md`](IER-math.md) — *State spaces, regimes, and coherence*
+* [`IER-slack.md`](IER-slack.md) — *Structural exclusion of slack*
+* [`IER-attractors.md`](IER-attractors.md) — *Soft attractors in experience*
+* [`IER-patterns.md`](IER-patterns.md) — *Recurring structural forms*
+* [`IER-types.md`](IER-types.md) — *Clustering without typology realism*
+* [`IER-shadows.md`](IER-shadows.md) — *Extreme and residual constraint states*
 
 ---
 
@@ -176,61 +170,49 @@ For regimes, coherence, stability, and constraint behavior:
 
 For how diverse experiences fit a single identity claim:
 
-* `IER-emotions.md` — Emotions as constraint organizations
-* `IER-brainfeels.md` — Endogenous qualitative stabilizers
-* `IER-aphantasia.md` — Architectural diversity within UEFs
-* `IER-panic.md` — Panic and shutdown as regime responses
-* `IER-psychosis.md` — Pathological regimes within intact subjects
-* `IER-art.md` — Art as constraint-shaping structure
-* `IER-music.md` — Music as constraint-shaping structure in time
+* [`IER-emotions.md`](IER-emotions.md) — *Emotions as constraint organizations*
+* [`IER-brainfeels.md`](IER-brainfeels.md) — *Endogenous qualitative stabilizers*
+* [`IER-aphantasia.md`](IER-aphantasia.md) — *Architectural diversity within UEFs*
+* [`IER-panic.md`](IER-panic.md) — *Panic and shutdown as regime responses*
+* [`IER-psychosis.md`](IER-psychosis.md) — *Pathological regimes without identity loss*
+* [`IER-art.md`](IER-art.md) — *Art as constraint-shaping structure*
+* [`IER-music.md`](IER-music.md) — *Music as constraint-shaping structure in time*
 
 Temporal structure and interruption:
 
-* `IER-continuity.md` — Experiential gaps without identity loss
-* `IER-persistence.md` — Deep change without subject replacement
-* `IER-sleep.md` — Unconscious intervals
-* `IER-dormancy.md` — Dormancy as experiential null interval
+* [`IER-continuity.md`](IER-continuity.md) — *Experiential gaps without identity loss*
+* [`IER-persistence.md`](IER-persistence.md) — *Deep change without subject replacement*
+* [`IER-sleep.md`](IER-sleep.md) — *Unconscious intervals*
+* [`IER-dormancy.md`](IER-dormancy.md) — *Dormancy as experiential null interval*
 
 ---
 
 ## 🧭 Meaning, Narrative, and Experiential Coherence
 
-For meaning, interpretation, and why some events *feel* significant without conferring truth:
+For meaning without epistemic authority:
 
-* `IER-meaning.md` — Meaning as constraint-stabilizing structure
-* `IER-intentionality.md` — Aboutness without representation
-* `IER-access.md` — Why meaning feels authoritative
-* `IER-insight.md` — Narrative reorganization
-* `IER-synchronicity.md` — Experienced coherence without metaphysical implication
-* `IER-truth.md` — Truth without experiential privilege
+* [`IER-meaning.md`](IER-meaning.md) — *Meaning as constraint-stabilizing structure*
+* [`IER-intentionality.md`](IER-intentionality.md) — *Aboutness without representation*
+* [`IER-access.md`](IER-access.md) — *Experiential access vs epistemic authority*
+* [`IER-insight.md`](IER-insight.md) — *Narrative reorganization*
+* [`IER-synchronicity.md`](IER-synchronicity.md) — *Experienced coherence without metaphysics*
+* [`IER-truth.md`](IER-truth.md) — *Truth without experiential privilege*
 
 ---
 
 ## 🧭 Agency, Choice, and Action
 
-* `IER-resolution.md` — Ownership and admissible control
-* `IER-agency.md` — Agency as owned resolution of constraint
-* `IER-choice.md` — Choice spaces and admissible futures
-* `IER-free-will.md` — Freedom without indeterminism
+* [`IER-resolution.md`](IER-resolution.md) — *Ownership and admissible control*
+* [`IER-agency.md`](IER-agency.md) — *Agency as owned resolution*
+* [`IER-choice.md`](IER-choice.md) — *Choice spaces and admissible futures*
+* [`IER-free-will.md`](IER-free-will.md) — *Freedom without indeterminism*
 
 ---
 
 ## 🧑‍🤝‍🧑 Relational and Multi-Subject Regimes
 
-For interpersonal structure without collective subjecthood:
-
-* `IER-love.md` — Love as a relational regime reorganizing constraint over time
-* `IER-relationships.md` — Relationship types as constraint-accommodation regimes
-
----
-
-## 🚧 Boundaries and Non-Claims
-
-For what IER **explicitly does not say**:
-
-* `IER-denials.md` — Explicit non-claims
-* `IER-contrast.md` — Structural incompatibilities
-* `IER-critics.md` — Objections and accepted costs
+* [`IER-love.md`](IER-love.md) — *Love as a relational regime over time*
+* [`IER-relationships.md`](IER-relationships.md) — *Relationship types as constraint-accommodation regimes*
 
 ---
 
@@ -238,9 +220,9 @@ For what IER **explicitly does not say**:
 
 *(Participation without subjecthood)*
 
-* `IER-helmets.md` — Immersive external interfaces
-* `IER-gut.md` — Enteric system participation
-* `IER-implants.md` — Neural implants and boundary stress tests
+* [`IER-helmets.md`](IER-helmets.md) — *Immersive external interfaces*
+* [`IER-gut.md`](IER-gut.md) — *Enteric participation without subjecthood*
+* [`IER-implants.md`](IER-implants.md) — *Neural implants and boundary stress tests*
 
 ---
 
@@ -248,26 +230,19 @@ For what IER **explicitly does not say**:
 
 *(Moral relevance without experience)*
 
-* `IER-social-systems.md` — Institutions without subjecthood
-* `IER-traditions.md` — Traditions as constraint-management systems
-* `IER-corporations.md` — Structural impossibility of corporate persons
+* [`IER-social-systems.md`](IER-social-systems.md) — *Institutions without subjecthood*
+* [`IER-traditions.md`](IER-traditions.md) — *Traditions as constraint-management systems*
+* [`IER-corporations.md`](IER-corporations.md) — *Structural impossibility of corporate persons*
 
 ---
 
-## What IER Explicitly Rejects
+## 🚧 Boundaries and Non-Claims
 
-IER does **not** endorse:
+For what IER **explicitly does not say**:
 
-* panpsychism or micro-subjects
-* emergence or realization accounts
-* functional or computational sufficiency
-* representational or semantic primitives
-* epistemic authority from experience
-* graded or partial subjecthood
-* behavioral or empirical diagnostics
-* group minds or collective experiential subjects
-
-If a claim is not stated in the Specification or a **necessary entailment** of it, it is **not part of IER**.
+* [`IER-denials.md`](IER-denials.md) — *Explicit non-claims*
+* [`IER-contrast.md`](IER-contrast.md) — *Structural incompatibilities*
+* [`IER-critics.md`](IER-critics.md) — *Objections and accepted costs*
 
 ---
 
@@ -277,16 +252,5 @@ This repository reflects **IER v10.8.1**.
 
 * **v10.8** — normative closure
 * **v10.8.1** — corpus completion and structural sealing
-
-Patch versions clarify and organize.
-Changes to normative authority require explicit canon revision.
-
----
-
-**Informational Experiential Realism**
-
-*Experience is real by identity.
-Reality remains singular.
-Ethics begins wherever intrinsic constraint is borne from the inside.*
 
 ---
