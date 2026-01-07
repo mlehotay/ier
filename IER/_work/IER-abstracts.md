@@ -996,3 +996,97 @@ The ethical role of IER is therefore not to determine what must be done, but to 
 This document explains that constraint-based role.
 
 ---
+
+## IER-love.md
+
+## 1. Scope and Orientation
+
+This document provides a **structural account of love** under **Informational Experiential Realism (IER)**.
+
+It is **non-normative** and **explanatory**. It does not:
+
+* define experience,
+* introduce new ethical principles,
+* prescribe who should be loved,
+* privilege romantic love as morally superior,
+* or treat love as epistemic access, fusion, or transcendence.
+
+Its purpose is narrower and stricter:
+
+> **To explain what love *is* as an organizational and dynamical phenomenon, given IER’s identity claim about experience.**
+
+IER treats love neither as a feeling nor as a metaphysical bond, but as a **specific relational regime** that reorganizes intrinsic constraint across time.
+
+---
+
+## IER-relationships.md
+
+## **Status and Scope**
+
+This document is **explanatory and non-normative**.
+
+It:
+
+* introduces **no new axioms, principles, or moral obligations**
+* does **not** define experience or experiential standing
+* does **not** prescribe which relationships are better, healthier, or morally superior
+* does **not** redefine love (which is treated separately in *IER-Love*)
+
+All ontological and ethical authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
+
+The purpose of this document is structural:
+
+> **To map common human relationship types as distinct relational regimes, defined by how intrinsic constraint is accommodated across subjects and across time.**
+
+---
+
+## IER-duty.md
+
+## **Status and Scope**
+
+This document is **explanatory and non-normative**.
+
+It:
+
+* introduces **no new axioms, criteria, or moral principles**
+* does **not** define experience, standing, or moral harm
+* does **not** prescribe what anyone ought to do
+* does **not** rank duties, obligations, or responsibilities
+* does **not** treat any of these as moral primitives
+
+All ontological and ethical authority remains fixed **exclusively** in the IER Specification and its canon-binding derivatives.
+
+The purpose of this document is clarificatory:
+
+> **To distinguish duty, obligation, and responsibility as three structurally different ways intrinsic constraint becomes organized around action under Informational Experiential Realism (IER).**
+
+---
+
+## IER-music.md
+
+## **Status and Scope**
+
+This document is **explanatory and non-normative**.
+
+It:
+
+* introduces **no new primitives**
+* introduces **no criteria, thresholds, or diagnostics**
+* introduces **no epistemic authority**
+* introduces **no aesthetic or moral norms**
+* makes **no claims about truth, value, or correctness**
+
+All ontological, criterial, and ethical authority remains fixed **exclusively** in:
+
+```
+IER-specification.md   (v10.8)
+```
+
+This article applies **only conditional on the existence of a Unified Experiential Field (UEF)**.
+If no UEF exists, nothing described here is experiential.
+
+The purpose of this document is narrow and structural:
+
+> **To explain how music operates within experience under IER, and why structured sound has unusually direct effects on experiential organization without occupying any privileged epistemic or moral role.**
+
+---

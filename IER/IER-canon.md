@@ -1,3 +1,5 @@
+---
+
 # **IER Canon (v10.8.1)**
 
 ## **Canonical Authority, Alignment, and Governance Rules**
@@ -6,13 +8,46 @@
 
 ## **Status and Purpose**
 
-This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** corpus as of **version 10.8.1**.
+This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** project as of **version 10.8.1**.
 
 It introduces **no ontological, criterial, epistemic, or ethical claims**.
 
 It governs **how documents relate to one another**, not what the theory claims.
 
-**Document inventories, tier assignments, and reading paths are defined separately in `IER-Manifest.md`.**
+---
+
+## **Corpus vs Canon (Definitions)**
+
+**Corpus** refers to the **set of documents explicitly enumerated in `IER-manifest.md`** for a given version.
+
+* Inclusion in the corpus means:
+
+  * the document is part of “IER v10.8.1”
+  * it is subject to the governance rules of this canon
+  * it may be cited for orientation, exposition, or structure as appropriate
+
+**Canon** refers to the **binding authority rules and interpretive constraints** that govern how the corpus is read, aligned, versioned, and adjudicated.
+
+* Canon:
+
+  * is **not a document list**
+  * does **not expand or modify theory claims**
+  * determines what kinds of statements are admissible, authoritative, or disallowed
+
+**Canonical vs Non-Canonical Corpus Material**
+
+Within the corpus:
+
+* **Canonical-authoritative documents** may introduce or fix binding commitments (as authorized by tier).
+* **Non-canonical corpus documents** are included for publication, pedagogy, assembly, or orientation, but:
+
+  * introduce **no new authoritative commitments**
+  * may not be cited to resolve theoretical disputes
+  * must defer to canonical-authoritative material in all cases
+
+**Non-corpus material** consists of files present in the repository but **not enumerated in the manifest**. These are outside the scope of IER v10.8.1.
+
+**Document inventories, tier assignments, and inclusion status are defined exclusively in `IER-manifest.md`.**
 
 ---
 
@@ -20,7 +55,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 > **No document may introduce ontological, criterial, epistemic, or normative commitments unless explicitly authorized by the canon.**
 
-All documents must defer to canon-authoritative commitments in cases of ambiguity or tension.
+All documents—canonical and non-canonical alike—must defer to canon-authoritative commitments in cases of ambiguity or tension.
 
 Violations constitute **canonical errors**, not stylistic disagreements.
 
@@ -38,12 +73,14 @@ Normative closure means:
 
 **IER v10.8.1 marks corpus completion**, meaning:
 
-* the document set is complete
+* the corpus document set is explicitly enumerated
 * indices and glossaries are finalized
 * scope and limits are sealed for clarity
 * no new authoritative commitments are introduced
 
-The repository may continue to evolve under patch versions.
+Corpus completion does **not** imply that every corpus document is canonical-authoritative.
+
+The repository may continue to evolve under patch versions, provided no commitments are added, removed, or weakened.
 
 ---
 
@@ -61,7 +98,7 @@ IER must **not** be **reader-hostile**.
 
 > framing that treats the reader as an adversary, presumes misuse, assigns blame for confusion, or presents difficulty as culpable rather than structural.
 
-All documents must presume **good-faith readership**.
+All corpus documents must presume **good-faith readership**.
 
 ---
 
@@ -140,7 +177,7 @@ This rule is mandatory misuse containment.
 
 ## **G6 — Reader Alignment Rules**
 
-All documents must be written as if the reader is acting in good faith.
+All corpus documents must be written as if the reader is acting in good faith.
 
 ### **G6.1 — No Presumptive Blame**
 
@@ -201,6 +238,7 @@ Patch changes **must not** add, remove, or weaken commitments.
 
 IER is governed by:
 
+* a fixed corpus, explicitly enumerated
 * fixed identity and ethical commitments
 * explicit epistemic limits
 * global misuse containment
