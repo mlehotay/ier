@@ -711,50 +711,158 @@ They enable **participation without fusion**.
 
 ---
 
-## 42. IER-love.md
+## 42. IER-relationships.md
 
-## 1. Scope and Orientation
-
-This document provides a **structural account of love** under **Informational Experiential Realism (IER)**.
-
-It is **non-normative** and **explanatory**. It does not:
-
-* define experience,
-* introduce new ethical principles,
-* prescribe who should be loved,
-* privilege romantic love as morally superior,
-* or treat love as epistemic access, fusion, or transcendence.
-
-Its purpose is narrower and stricter:
-
-> **To explain what love *is* as an organizational and dynamical phenomenon, given IER’s identity claim about experience.**
-
-IER treats love neither as a feeling nor as a metaphysical bond, but as a **specific relational regime** that reorganizes intrinsic constraint across time.
-
----
-
-## 43. IER-relationships.md
-
-## **Status and Scope**
+## 0. Status, Scope, and Canon Position
 
 This document is **explanatory and non-normative**.
 
 It:
 
-* introduces **no new axioms, principles, or moral obligations**
+* introduces **no new ontological claims**
+* introduces **no ethical principles or obligations**
 * does **not** define experience or experiential standing
-* does **not** prescribe which relationships are better, healthier, or morally superior
-* does **not** redefine love (which is treated separately in *IER-Love*)
+* does **not** rank relationship types
+* does **not** prescribe which relationships ought to be chosen
+* does **not** privilege love or any other regime
 
-All ontological and ethical authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
+All ontological authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
 
-The purpose of this document is structural:
+**Purpose of this document**
 
-> **To map common human relationship types as distinct relational regimes, defined by how intrinsic constraint is accommodated across subjects and across time.**
+> **To define what a relationship is under Informational Experiential Realism (IER), and to map the space of possible relational regimes by their structural geometry.**
+
+This document serves as the **foundational map and index** for the *Relational and Multi-Subject Regimes* section.
 
 ---
 
-## 44. IER-social-systems.md
+## 43. IER-love.md
+
+## 0. Status, Scope, and Canon Position
+
+This document is **explanatory and non-normative**.
+
+It:
+
+* introduces **no new ontological claims**
+* introduces **no ethical principles or obligations**
+* does **not** define experience or experiential standing
+* does **not** prescribe who should be loved
+* does **not** rank love as morally superior to other relational regimes
+* does **not** treat love as epistemic authority, fusion, or transcendence
+
+All ontological authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
+
+**Purpose of this document**
+
+> **To analyze love as a distinct relational regime defined by its structural geometry under Informational Experiential Realism (IER).**
+
+This document develops **only** the region of relational space occupied by love.
+The general relational map and shared machinery are defined in *IER-Relationships*.
+
+---
+
+## 44. IER-friendship.md
+
+## 0. Status, Scope, and Canon Position
+
+This document is **explanatory and non-normative**.
+
+It:
+
+* introduces **no new ontological claims**
+* introduces **no ethical principles or obligations**
+* does **not** define experience or experiential standing
+* does **not** rank friendship relative to other relational regimes
+* does **not** prescribe how many friends one should have, or how friendship ought to be practiced
+
+All ontological authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
+
+**Purpose of this document**
+
+> **To analyze friendship as a distinct relational regime defined by voluntary, medium-horizon mutual constraint accommodation under Informational Experiential Realism (IER).**
+
+This document develops **only** the structural region occupied by friendship.
+The general relational map and shared machinery are defined in *IER-Relationships*.
+
+---
+
+## 45. IER-family.md
+
+## 0. Status, Scope, and Canon Position
+
+This document is **explanatory and non-normative**.
+
+It:
+
+* introduces **no new ontological claims**
+* introduces **no ethical principles or obligations**
+* does **not** define experience or experiential standing
+* does **not** rank family relative to other relational regimes
+* does **not** prescribe how family relationships ought to be maintained
+
+All ontological authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
+
+**Purpose of this document**
+
+> **To analyze family as a distinct relational regime characterized by inherited coupling, asymmetric constraint accommodation, and long-horizon persistence under Informational Experiential Realism (IER).**
+
+This document develops **only** the structural region occupied by family.
+The general relational map and shared machinery are defined in *IER-Relationships*.
+
+---
+
+## 46. IER-caregiving.md
+
+## 0. Status, Scope, and Canon Position
+
+This document is **explanatory and non-normative**.
+
+It:
+
+* introduces **no new ontological claims**
+* introduces **no ethical principles or obligations**
+* does **not** define experience or experiential standing
+* does **not** rank caregiving relative to other relational regimes
+* does **not** prescribe who must give care or how care ought to be provided
+
+All ontological authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
+
+**Purpose of this document**
+
+> **To analyze caregiving as a distinct relational regime characterized by sustained, asymmetric constraint accommodation undertaken to stabilize another subject’s coherence without reciprocal future binding or identity merger.**
+
+This document develops **only** the structural region occupied by caregiving.
+The general relational map and shared machinery are defined in *IER-Relationships*.
+
+---
+
+## 47. IER-groups.md
+
+## 0. Status, Scope, and Canon Position
+
+This document is **explanatory and non-normative**.
+
+It:
+
+* introduces **no new ontological claims**
+* introduces **no ethical principles or obligations**
+* does **not** define experience or experiential standing
+* does **not** rank groups relative to other relational regimes
+* does **not** prescribe how groups ought to be formed, governed, or valued
+
+All ontological authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
+
+**Purpose of this document**
+
+> **To analyze groups as coordination regimes that distribute constraint across roles and norms without ever constituting an experiential subject under Informational Experiential Realism (IER).**
+
+This document develops **only** the structural region occupied by groups.
+The general relational map and shared machinery are defined in *IER-Relationships*.
+
+---
+
+## 48. IER-social-systems.md
 
 ### **Purpose and Orientation**
 
@@ -773,7 +881,7 @@ The constraints described here are **structural**, not punitive, and are intende
 
 ---
 
-## 45. IER-traditions.md
+## 49. IER-traditions.md
 
 ## **Purpose and Orientation**
 
@@ -798,7 +906,7 @@ No claims are made about truth, salvation, revelation, or correctness.
 
 ---
 
-## 46. IER-corporations.md
+## 50. IER-corporations.md
 
 ### **1.1 What This Article Does**
 
@@ -818,7 +926,7 @@ The argument is **ontological and structural**, not empirical. It does not depen
 
 ---
 
-## 47. IER-denials.md
+## 51. IER-denials.md
 
 ## **Why a Denials Document Is Necessary**
 
@@ -835,7 +943,7 @@ What follows is a representative, high-coverage list of **explicit non-claims**.
 
 ---
 
-## 48. IER-contrast.md
+## 52. IER-contrast.md
 
 Informational Experiential Realism (IER v10.8) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
 
@@ -843,7 +951,7 @@ This identity claim entails commitments that sharply distinguish IER from many n
 
 ---
 
-## 49. IER-critics.md
+## 53. IER-critics.md
 
 ## **Purpose**
 
@@ -863,7 +971,7 @@ So the central critical question is:
 
 ---
 
-## 50. README.md
+## 54. README.md
 
 ## What This Is
 
@@ -888,7 +996,7 @@ It is a theory of:
 
 ---
 
-## 51. IER-history.md
+## 55. IER-history.md
 
 ## **1. Purpose and Scope**
 
@@ -906,7 +1014,7 @@ This is not a survey of all theories of consciousness, nor a claim of intellectu
 
 ---
 
-## 52. IER-futures.md
+## 56. IER-futures.md
 
 ## **Abstract**
 
@@ -922,7 +1030,7 @@ The comparison illustrates that **IER constrains moral reality but does not dete
 
 ---
 
-## 53. IER-dont-panic.md
+## 56. IER-dont-panic.md
 
 ## **Why This Document Exists**
 
@@ -950,7 +1058,7 @@ This document exists to say, clearly and explicitly:
 
 ---
 
-## 54. IER-strictness.md
+## 58. IER-strictness.md
 
 *A Reader-Facing Primer*
 
@@ -967,7 +1075,7 @@ Its purpose is orientation, not enforcement.
 
 ---
 
-## 55. IER-FAQ.md
+## 59. IER-FAQ.md
 
 ## **Status and Purpose**
 
@@ -988,7 +1096,7 @@ Where this FAQ discusses morality, it refers **only to experiential moral harm a
 
 ---
 
-## 56. IER-glossary.md
+## 60. IER-glossary.md
 
 ## **Status and Scope**
 
@@ -1007,7 +1115,7 @@ This glossary explains **how terms are used in IER**, not how they are used else
 
 ---
 
-## 57. IER-index.md
+## 61. IER-index.md
 
 ## **Status and Scope**
 
@@ -1031,7 +1139,7 @@ If a reference here appears inconsistent with a Tier-1 document, the Tier-1 docu
 
 ---
 
-## 58. IER-canon.md
+## 62. IER-canon.md
 
 ## **Status and Purpose**
 
@@ -1045,7 +1153,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 ---
 
-## 59. IER-manifest.md
+## 63. IER-manifest.md
 
 ## **Status and Authority**
 
@@ -1069,7 +1177,7 @@ This manifest is **descriptive and organizational**, not normative.
 
 ---
 
-## 60. IER-changelog.md
+## 64. IER-changelog.md
 
 ## **Informational Experiential Realism — Version History**
 

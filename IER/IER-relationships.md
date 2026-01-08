@@ -4,258 +4,292 @@
 
 ---
 
-## **Status and Scope**
+## 0. Status, Scope, and Canon Position
 
 This document is **explanatory and non-normative**.
 
 It:
 
-* introduces **no new axioms, principles, or moral obligations**
+* introduces **no new ontological claims**
+* introduces **no ethical principles or obligations**
 * does **not** define experience or experiential standing
-* does **not** prescribe which relationships are better, healthier, or morally superior
-* does **not** redefine love (which is treated separately in *IER-Love*)
+* does **not** rank relationship types
+* does **not** prescribe which relationships ought to be chosen
+* does **not** privilege love or any other regime
 
-All ontological and ethical authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
+All ontological authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
 
-The purpose of this document is structural:
+**Purpose of this document**
 
-> **To map common human relationship types as distinct relational regimes, defined by how intrinsic constraint is accommodated across subjects and across time.**
+> **To define what a relationship is under Informational Experiential Realism (IER), and to map the space of possible relational regimes by their structural geometry.**
+
+This document serves as the **foundational map and index** for the *Relational and Multi-Subject Regimes* section.
 
 ---
 
-## **1. What a “Relationship” Is Under IER**
+### Section-Level Invariants (Binding on All Documents)
 
-Under Informational Experiential Realism (IER), a relationship is **not**:
+All relational analysis in IER presupposes:
+
+* **Single-UEF dominance** — each experiential subject has exactly one Unified Experiential Field
+* **Structural privacy** — no subject has access to another’s intrinsic constraint
+* **No fusion** — UEFs do not merge
+* **No shared intrinsic constraint**
+* **No transfer of experiential standing**
+* **No collective experiencer**
+
+Relationships coordinate subjects.
+They never combine them.
+
+---
+
+## 1. What a “Relationship” Is Under IER
+
+Under Informational Experiential Realism, a relationship is **not**:
 
 * a feeling
+* an emotion
 * a role
-* a label
-* a social institution
-* a shared experiential subject
+* a social label
 * a moral entitlement
+* a shared experience
+* a collective subject
+* a metaphysical bond
 
-A relationship is instead:
+A relationship **is**:
 
 > **A stable pattern of interaction in which one or more experiential subjects reshape their own admissible futures in response to one another’s intrinsic constraint.**
 
-Relationships differ structurally along a small number of dimensions:
+This reshaping occurs **within** each subject.
 
-* **time horizon** — how far into the future coordination extends
-* **reciprocity** — whether accommodation is mutual
-* **future binding** — whether accommodation is assumed or optional
-* **symmetry** — whether constraint accommodation is balanced or asymmetric
-* **cost and exit structure** — how expensive participation is and how easily it can be withdrawn
+No subject ever:
 
-IER treats these differences as **organizational facts**, not value judgments.
+* bears another’s intrinsic constraint,
+* resolves it for them,
+* or internalizes their experiential burden.
 
----
-
-## **2. Constraint Accommodation (Recap)**
-
-IER-Love introduces **constraint accommodation** as the core relational mechanism:
-
-* One subject reshapes its own admissible futures
-* Not by absorbing another’s intrinsic constraint
-* But by making that other subject’s continued coherence more viable
-
-No subject ever bears another’s intrinsic constraint.
-Accommodation is **indirect stabilization**, not substitution.
-
-IER-Relationships generalizes this mechanism across **multiple relational regimes**.
+Relationships are therefore **organizational regimes**, not ontological mergers.
 
 ---
 
-## **3. The Relational Regime Spectrum**
+## 2. Constraint Accommodation (Shared Mechanism)
 
-The following table provides a **descriptive map** of common relational regimes under IER.
+All relational regimes analyzed in this section rely on a single core mechanism:
 
-It is **not evaluative**.
-Differences reflect **constraint geometry**, not worth, legitimacy, or moral status.
+### Constraint Accommodation
 
-| Regime       | Time Horizon  | Reciprocity | Future Binding | Constraint Accommodation                 | Cost Structure |
-| ------------ | ------------- | ----------- | -------------- | ---------------------------------------- | -------------- |
-| Stranger     | Immediate     | None        | None           | Norm-governed avoidance                  | Minimal        |
-| Acquaintance | Short         | Minimal     | None           | Predictability and low-cost coordination | Low            |
-| Friendship   | Medium        | Mutual      | Optional       | Intermittent, local accommodation        | Moderate       |
-| Care         | Variable      | Asymmetric  | Contextual     | One-sided stabilization                  | High           |
-| Attachment   | Variable      | Uneven/None | Internal only  | Dependency without coordination          | High           |
-| Celebrity    | Apparent long | None        | One-sided only | Constraint simulation                    | High           |
-| Love         | Long          | Mutual      | Required       | Sustained, horizon-wide accommodation    | Very high      |
+**Constraint accommodation** occurs when a subject:
 
-Each regime is stable **only within its own structural limits**.
-Problems arise when the cost structure or binding expectations of one regime are imported into another.
+* adjusts its own expectations, actions, commitments, or future plans
+* in response to the presence, needs, or instability of another subject
+* in a way that makes that other subject’s continued coherence more viable
 
----
+Crucially:
 
-## **4. Friendship**
+* accommodation is **indirect**
+* it does **not** absorb the other subject’s intrinsic constraint
+* it does **not** substitute for their own resolution dynamics
 
-### **4.1 Core Definition**
+Accommodation stabilizes *conditions*, not *experience itself*.
 
-> **Friendship is a medium-horizon relational regime characterized by voluntarily renewed, reciprocal constraint accommodation without binding long-horizon futures.**
+This mechanism can be:
 
-### **4.2 Structural Features**
+* episodic or sustained
+* mutual or asymmetric
+* short- or long-horizon
+* voluntary or inherited
 
-Friendship involves:
-
-* mutual accommodation, but **episodically**
-* coordination that is **context-bound**, not identity-binding
-* expectations that remain **revisable**
-* high exit flexibility without moral collapse
-
-Friends accommodate one another’s constraint **locally**:
-during conversation, shared activity, emotional support, or crisis.
-
-What they do **not** do by default is pre-allocate future selves to one another across unknown change.
+Those differences define **distinct relational regimes**.
 
 ---
 
-### **4.3 Why Friendship Scales**
+## 3. Axes of Relational Variation
 
-Friendship can scale — multiple friends, shifting circles — because:
+IER distinguishes relational regimes using a small set of **structural axes**.
 
-* accommodation is not assumed under all future conditions
-* dependency risk is limited
-* participation is renegotiable
+These axes describe **constraint geometry**, not moral value.
 
-IER predicts that friendship remains stable **precisely because it does not demand love-level commitment**.
+### 3.1 Time Horizon
 
----
+How far into the future coordination extends.
 
-### **4.4 Failure Modes**
-
-Friendship destabilizes when:
-
-* long-horizon binding is silently expected
-* asymmetrical accommodation persists without renegotiation
-* friendship is treated as deferred love or moral obligation
-
-IER treats these failures as **structural mismatches**, not personal faults.
+* immediate
+* short
+* medium
+* long
+* inherited / pre-agency
 
 ---
 
-## **5. Celebrity**
+### 3.2 Reciprocity
 
-Celebrity relationships are a distinct and increasingly prevalent regime under modern conditions.
+Whether constraint accommodation is mutual.
 
-IER provides a way to explain their power **without pathologizing the participant**.
-
----
-
-### **5.1 Core Definition**
-
-> **Celebrity relationships are one-sided relational regimes in which a subject reorganizes their own intrinsic constraint around another subject who provides no reciprocal accommodation and no shared future binding.**
+* none
+* optional
+* mutual
+* asymmetric
 
 ---
 
-### **5.2 Why Celebrity Attachment Feels Real**
+### 3.3 Future Binding
 
-Celebrity relationships feel compelling because:
+Whether accommodation is assumed across unknown future conditions.
 
-* salience is real
-* narrative identity reshaping is real
-* emotional investment is real
-* intrinsic constraint is genuinely reorganized
-
-From within the admirer’s experiential field, the relationship **does work**:
-it stabilizes meaning, aspiration, or identity — temporarily.
+* none
+* optional
+* contextual
+* constitutive (non-optional)
 
 ---
 
-### **5.3 Why Celebrity Is Not Love or Friendship**
+### 3.4 Symmetry
 
-Despite surface similarity, celebrity relationships lack:
+Whether accommodation burdens are balanced.
 
-* mutual constraint accommodation
-* vulnerability exchange
-* repair loops
-* coordinated future planning
-
-The admired subject does not reshape their admissible futures in response.
-No reciprocity exists — even in principle.
-
-IER therefore classifies celebrity attachment as **constraint simulation**, not coordination.
+* symmetric
+* asymmetric
+* role-based
 
 ---
 
-### **5.4 Structural Instability**
+### 3.5 Cost Structure
 
-Celebrity relationships become unstable when:
+How much the subject narrows its own admissible futures.
 
-* salience is mistaken for access
-* visibility is mistaken for reciprocity
-* imagined futures are treated as jointly binding
-
-IER explains collapse here without moral condemnation:
-the regime fails because **its structure cannot support the expectations placed on it**.
-
----
-
-## **6. Care and Attachment (Brief Clarifications)**
-
-This document does not fully develop care or attachment, but their position in the table matters.
-
-* **Care** involves **asymmetric accommodation** — stabilizing another’s constraint without mutual future binding.
-* **Attachment** involves **internal dependency** — one subject reorganizes around another without coordinated accommodation.
-
-Both can feel intense.
-Neither is equivalent to love.
+* minimal
+* low
+* moderate
+* high
+* very high
 
 ---
 
-## **7. Where Love Fits (Pointer Only)**
+### 3.6 Exit Structure
 
-Love is treated fully in **IER-Love** and is not redefined here.
+How easily participation can be withdrawn.
 
-The structural distinction relevant to this document is simple:
-
-> **Love is the only relational regime in which long-horizon mutual constraint accommodation is not optional but constitutive.**
-
-Every other regime preserves exit, reversibility, or asymmetry.
-Love does not.
+* easy
+* renegotiable
+* costly
+* structurally constrained
 
 ---
 
-## **8. Why Relational Confusion Is Common**
+## 4. The Relational Regime Map (Non-Evaluative)
 
-IER explains relational confusion structurally.
+The table below is **descriptive only**.
+It does not imply legitimacy, superiority, or moral worth.
 
-Common misidentifications include:
+| Regime       | Time Horizon     | Reciprocity | Future Binding | Symmetry          | Cost        | Exit Structure           |
+| ------------ | ---------------- | ----------- | -------------- | ----------------- | ----------- | ------------------------ |
+| Stranger     | Immediate        | None        | None           | Symmetric         | Minimal     | Easy                     |
+| Acquaintance | Short            | Minimal     | None           | Symmetric         | Low         | Easy                     |
+| Friendship   | Medium           | Mutual      | Optional       | Roughly symmetric | Moderate    | Renegotiable             |
+| Family       | Inherited / Long | Asymmetric  | Contextual     | Asymmetric        | High        | Costly                   |
+| Caregiving   | Variable         | Asymmetric  | Contextual     | Asymmetric        | High        | Costly                   |
+| Love         | Long             | Mutual      | Constitutive   | May vary          | Very high   | Structurally constrained |
+| Groups       | Variable         | Role-based  | Norm-mediated  | Role-based        | Distributed | Role-dependent           |
 
-* friendship mistaken for love → overbinding
-* celebrity mistaken for love → asymmetry blindness
-* attachment mistaken for care or commitment → dependency inflation
-
-These errors arise because early-stage experiential signatures can look similar.
-IER clarifies them by examining **future binding and accommodation symmetry**, not emotional intensity.
+Each regime is **stable only within its own geometry**.
 
 ---
 
-## **9. Ethical Neutrality and Explicit Non-Claims**
+## 5. Why Relational Confusion Is Common
+
+Relational confusion arises when:
+
+* emotional intensity is mistaken for future binding
+* salience is mistaken for reciprocity
+* cost is mistaken for obligation
+* duration is mistaken for identity fusion
+* coordination is mistaken for shared experience
+
+Early-stage experiential signatures often look similar across regimes.
+
+IER resolves this confusion by asking:
+
+* **Who reshapes their future?**
+* **For how long?**
+* **With what assumptions about reciprocity and exit?**
+
+Most relational conflict results from **importing the cost or binding structure of one regime into another**.
+
+---
+
+## 6. What This Section Explicitly Denies
+
+Across all relational regimes, IER denies:
+
+* moral ranking of relationship types
+* obligation inflation (“this must be forever”)
+* fusion narratives (“we become one”)
+* experiential standing transfer
+* collective subjecthood
+* epistemic authority from relational meaning
+
+Significance ≠ justification
+Intensity ≠ obligation
+Coordination ≠ experience
+
+---
+
+## 7. Pointer Map to Section Documents
+
+Each document in this section occupies a **distinct structural region** of the map.
+
+* **IER-Love**
+  Long-horizon *mutual* constraint accommodation
+  Maximal cost, non-scalable, identity-relevant coordination
+
+* **IER-Friendship**
+  Medium-horizon *mutual* accommodation
+  Voluntary, episodic, highly renegotiable coordination
+
+* **IER-Family**
+  Inherited, asymmetric, long-horizon regimes
+  Identity formation under non-chosen constraint
+
+* **IER-Caregiving**
+  Sustained asymmetric stabilization
+  High cost without reciprocal future binding
+
+* **IER-Groups**
+  Coordination without subjecthood
+  Role-mediated, norm-distributed constraint without experience
+
+Each document develops **only its own region**, using the shared machinery defined here.
+
+---
+
+## 8. Ethical Neutrality Statement
 
 IER-Relationships does **not** claim that:
 
-* love is superior to friendship
-* celebrity attachment is pathological
-* care implies permanent obligation
-* refusing any relationship is morally wrong
-* relational regimes imply moral ranking
+* any relationship type is morally superior
+* any relationship type is morally mandatory
+* refusing a relationship is blameworthy
+* cost implies owedness
+* duration implies permanence
 
-IER explains **what relational structures are**, not **which ones to choose**.
+IER explains **how relational regimes work**.
+It does not command which ones to enter.
 
 ---
 
-## **10. Closing**
+## 9. Closing
 
-Under Informational Experiential Realism, relationships are not ranked by depth, intensity, or cultural prestige.
+Under Informational Experiential Realism, relationships are not defined by labels, feelings, or moral narratives.
 
 They are distinguished by:
 
 * how intrinsic constraint is accommodated,
 * across how much time,
-* with what degree of reciprocity,
-* and at what cost.
+* with what reciprocity,
+* at what cost,
+* and under what exit conditions.
 
-> Confusion arises when the cost structure of one regime is imported into another.
-> Clarity comes from seeing the structure clearly — and letting each regime remain what it is.
+> **Clarity comes from letting each relational regime remain what it is —
+> and refusing to force it to become something else.**
 
 ---

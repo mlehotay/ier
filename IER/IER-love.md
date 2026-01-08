@@ -1,287 +1,276 @@
 # **IER-Love**
 
-### *Love as Long-Horizon Constraint Stabilization Under Informational Experiential Realism*
+### *Love as Long-Horizon Mutual Constraint Accommodation Under Informational Experiential Realism*
 
 ---
 
-## 1. Scope and Orientation
+## 0. Status, Scope, and Canon Position
 
-This document provides a **structural account of love** under **Informational Experiential Realism (IER)**.
+This document is **explanatory and non-normative**.
 
-It is **non-normative** and **explanatory**. It does not:
+It:
 
-* define experience,
-* introduce new ethical principles,
-* prescribe who should be loved,
-* privilege romantic love as morally superior,
-* or treat love as epistemic access, fusion, or transcendence.
+* introduces **no new ontological claims**
+* introduces **no ethical principles or obligations**
+* does **not** define experience or experiential standing
+* does **not** prescribe who should be loved
+* does **not** rank love as morally superior to other relational regimes
+* does **not** treat love as epistemic authority, fusion, or transcendence
 
-Its purpose is narrower and stricter:
+All ontological authority remains fixed **exclusively** in the IER Specification and its canonical derivatives.
 
-> **To explain what love *is* as an organizational and dynamical phenomenon, given IER’s identity claim about experience.**
+**Purpose of this document**
 
-IER treats love neither as a feeling nor as a metaphysical bond, but as a **specific relational regime** that reorganizes intrinsic constraint across time.
+> **To analyze love as a distinct relational regime defined by its structural geometry under Informational Experiential Realism (IER).**
 
----
-
-## 2. What Love Cannot Be Under IER
-
-IER immediately rules out several common interpretations of love.
-
-### 2.1 Love Is Not an Emotion
-
-Under IER, emotions are:
-
-* **stable organizations of intrinsic constraint within a single Unified Experiential Field (UEF)**,
-* transient or recurring regimes that modulate salience, urgency, and agency.
-
-Love cannot be identical to an emotion because:
-
-* love persists across emotional states,
-* love can remain intact during anger, grief, boredom, or affective flattening,
-* emotions fluctuate without necessarily altering love’s commitments.
-
-Emotions may **participate in love**, but they do not define it.
+This document develops **only** the region of relational space occupied by love.
+The general relational map and shared machinery are defined in *IER-Relationships*.
 
 ---
 
-### 2.2 Love Is Not Fusion or Shared Subjecthood
+### Invariant Constraints (Binding)
 
-IER forbids:
+All analysis in this document presupposes:
 
-* merged UEFs,
-* shared intrinsic constraint,
-* collective experiential fields.
-
-Love does **not**:
-
-* erase subject boundaries,
-* create a joint experiencer,
-* allow one subject to bear the other’s intrinsic constraint.
-
-Each subject remains:
-
-* ontologically distinct,
-* experientially private,
-* solely responsible for resolving its own intrinsic constraint.
+* **Single-UEF dominance** — one experiential subject per Unified Experiential Field
+* **Structural privacy** — no access to another subject’s intrinsic constraint
+* **No fusion** — UEFs do not merge
+* **No shared intrinsic constraint**
+* **No transfer of experiential standing**
+* **No collective experiencer**
 
 Love coordinates subjects.
-It does not combine them.
+It never combines them.
 
 ---
 
-### 2.3 Love Is Not a Social System
+## 1. Regime Identification
 
-Social systems:
+### 1.1 Love’s Role in the Relational Section
 
-* distribute constraint externally,
-* operate through norms, roles, incentives, and enforcement,
-* do not bear intrinsic constraint from the inside.
+Love occupies the **maximal mutual** region of relational space.
 
-Love is not an institution, role, or structure *above* persons.
+It represents the case in which:
 
-Marriage, family, and culture may scaffold love —
-but love itself exists **only in the coordinated dynamics of subjects**, not in the system that names or regulates it.
+* constraint accommodation is **mutual**
+* coordination extends across a **long and indeterminate time horizon**
+* future binding is **constitutive**, not optional
+* cost is **very high**
+* exit is **structurally constrained**
 
----
+Love is **not representative** of relationships in general.
+It is structurally **extreme**.
 
-## 3. The Positive Core: Love as Constraint Accommodation
-
-### 3.1 Intrinsic Constraint as the Starting Point
-
-Under IER, each experiential subject:
-
-* bears **intrinsic constraint** internally,
-* must resolve that constraint through its own globally integrated dynamics,
-* is vulnerable to overload, fragmentation, and collapse.
-
-No subject can resolve another’s intrinsic constraint for them.
-
-This is the baseline against which love must be defined.
+This is why it is treated in its own document.
 
 ---
 
-### 3.2 Constraint Accommodation (Key Mechanism)
+### 1.2 Canonical One-Sentence Definition
 
-**Constraint accommodation** occurs when one subject:
+> **Under Informational Experiential Realism, love is a sustained relational regime in which two experiential subjects mutually and voluntarily reorganize their own long-horizon admissible futures to stabilize one another’s intrinsic constraint over time, without fusion or loss of subjecthood.**
 
-* reshapes its *own* admissible futures,
-* adjusts expectations, actions, and commitments,
-* in order to make another subject’s continued coherence more viable.
+Every term in this definition is load-bearing.
+
+---
+
+## 2. Structural Geometry of Love
+
+### 2.1 Axis Values
+
+Love is defined by the following structural configuration:
+
+* **Time horizon:** long, indeterminate
+* **Reciprocity:** mutual (not necessarily symmetric)
+* **Future binding:** constitutive (non-optional once assumed)
+* **Symmetry:** may vary; reciprocity does not require equality
+* **Cost structure:** very high
+* **Exit structure:** structurally constrained (not impossible, but destabilizing)
+
+This geometry distinguishes love from all adjacent regimes.
+
+---
+
+### 2.2 Constraint Accommodation Mechanics in Love
+
+In love, each subject:
+
+* reshapes its own admissible futures *in advance*
+* narrows choice space to preserve joint viability
+* plans under uncertainty that includes illness, failure, regression, and change
+* accepts vulnerability exposure across time
+
+Accommodation in love is:
+
+* **mutual**
+* **sustained**
+* **future-oriented**
+* **identity-relevant**
 
 Crucially:
 
-* accommodation does **not** absorb the other’s constraint,
-* does **not** externalize their burden,
-* does **not** eliminate their responsibility for resolution.
+* neither subject absorbs the other’s intrinsic constraint
+* neither subject resolves the other’s experience
+* coordination occurs **only** through each subject’s own restructuring
 
-It is **indirect stabilization**, not substitution.
-
----
-
-## 4. Love as a Distinct Relational Regime
-
-### 4.1 Core Definition
-
-> **Under IER, love is a sustained pattern of mutual constraint accommodation in which two experiential subjects reorganize their own long-horizon admissible futures to stabilize one another’s intrinsic constraint over time, without fusion or loss of subjecthood.**
-
-Every term here matters.
+Love stabilizes conditions for coherence.
+It does not carry experience itself.
 
 ---
 
-### 4.2 Long-Horizon Coordination (What Makes Love Love)
+## 3. Stabilizers and Functional Payoff
 
-Many relationships accommodate constraint **locally**:
+### 3.1 Why Love Exists Under IER
 
-* politeness,
-* cooperation,
-* friendship,
-* care.
+Love exists because long-horizon mutual accommodation:
 
-Love is distinguished by **time horizon**.
-
-In love:
-
-* future trajectories are coordinated far beyond immediate contexts,
-* planning includes vulnerability, illness, failure, and change,
-* each subject makes room for the other’s instability **before it occurs**.
+* expands each subject’s coherence window
+* reduces chronic vigilance
+* allows tolerated instability without immediate collapse
+* enables planning that includes weakness, dependence, and repair
 
 Under IER terms:
 
-> **Love expands the coherence window of each subject by coordinating futures under uncertainty.**
+> **Love increases long-term experiential stability by coordinating futures under uncertainty.**
 
-This is why love feels like:
+This produces the felt phenomena often associated with love:
 
-* safety without certainty,
-* permission to weaken,
-* reduced vigilance,
-* tolerance for regression and repair.
+* safety without certainty
+* permission to weaken
+* reduced self-monitoring
+* deeper tolerance for disruption
+
+These effects explain love’s significance **without invoking fusion, destiny, or moral necessity**.
 
 ---
 
-## 5. Cost Structure of Love
-
-### 5.1 Why Love Is Costly
-
-Long-horizon accommodation requires:
-
-* narrowing one’s own choice space,
-* committing resources across time,
-* accepting dependency risk,
-* reducing exit flexibility.
+### 3.2 Why Love Does Not Scale
 
 IER predicts that love must be:
 
-* **selective**,
-* **non-scalable**,
-* **resistant to abstraction**.
+* selective
+* non-scalable
+* resistant to abstraction
 
 This is not a moral limitation.
-It is **constraint geometry**.
+It follows directly from the cost and binding structure.
+
+Long-horizon mutual accommodation across identity trajectories cannot be multiplied without collapse.
 
 ---
 
-### 5.2 Why Love Is Fragile
+## 4. Boundary Conditions and Explicit Non-Claims
 
-Love is stable only when:
+Love is **not**:
 
-* accommodation is mutual (not necessarily symmetric),
-* participation depth matches future commitment,
-* constraint is neither imposed nor exploited.
+* an emotion
+* an affective state
+* an attachment reflex
+* a social institution
+* a role
+* a promise enforced by norm
+* a moral entitlement
+* a proof of correctness
+* a fusion of selves
 
-Failure modes arise when:
-
-* one subject accommodates without reciprocity,
-* love is demanded rather than chosen,
-* accommodation becomes coercive or identity-erasing.
-
-IER explains collapse without appealing to blame.
-
----
-
-## 6. Love Compared to Nearby Regimes (Briefly)
-
-To sharpen the definition:
-
-* **Care** stabilizes constraint locally and asymmetrically.
-* **Friendship** accommodates intermittently without future binding.
-* **Attachment** may be internal dependency without mutual accommodation.
-* **Love** alone binds futures while preserving two distinct subjects.
-
-Love is not “more intense friendship.”
-It is **different in kind**, because of time horizon and identity relevance.
+Love may *involve* emotion, attachment, or institutional scaffolding,
+but it is not identical to any of them.
 
 ---
 
-## 7. Meaning Without Epistemic Authority
+## 5. Common Misclassifications and Inflation Errors
 
-Love feels deeply meaningful under IER because:
+Love is frequently misidentified due to early-stage experiential overlap with other regimes.
 
-* it reorganizes intrinsic constraint at high levels,
-* it shapes identity trajectories,
-* it reduces existential volatility.
+Common errors include:
 
-But IER enforces a strict boundary:
+* **Friendship inflation**
+  Medium-horizon mutuality mistaken for long-horizon binding
 
-> **Experiential meaning does not confer epistemic authority.**
+* **Care conflation**
+  Asymmetric stabilization mistaken for mutual future coordination
 
-Love:
+* **Attachment substitution**
+  Internal dependency mistaken for shared accommodation
 
-* does not guarantee truth,
-* does not certify correctness,
-* does not justify domination,
-* does not override reality.
+* **Institutional substitution**
+  Marriage or family roles mistaken for love itself
 
-Love stabilizes experience.
-It does not reveal the world.
+These errors arise when:
 
----
+* emotional intensity is treated as binding
+* cost is mistaken for obligation
+* duration is mistaken for identity coordination
 
-## 8. Why Love Cannot Be Demanded
-
-Because love is a **voluntary assumption of cost under uncertainty**, it cannot be morally required.
-
-IER makes this explicit:
-
-* Refusal to love is always structurally permissible.
-* Love cannot be owed, extracted, or enforced without becoming coercive.
-* Obligations arise *within* love, not *to* love.
-
-Love exists only where accommodation is freely chosen.
+IER resolves these errors by examining **future binding and reciprocity**, not feeling strength.
 
 ---
 
-## 9. What Love Is Not Under IER (Explicit Non-Claims)
+## 6. Failure Modes (Structural, Not Moral)
 
-IER-Love does **not** claim that:
+Love destabilizes when:
 
-* love proves consciousness,
-* love creates experience,
-* love fuses selves,
-* love is morally mandatory,
-* love is safe,
-* love is epistemically justified.
+* accommodation becomes asymmetric without renegotiation
+* future binding is demanded rather than chosen
+* one subject narrows their future while the other does not
+* identity reshaping becomes coercive or erasing
+* exit becomes morally prohibited rather than structurally costly
 
-IER refuses romantic inflation.
+Collapse here reflects **constraint mismatch**, not betrayal or vice.
 
-What remains is leaner — and real.
+IER explains breakdown without assigning blame.
 
 ---
 
-## 10. Closing
+## 7. Relation to Neighboring Regimes
+
+Relative to nearby regimes:
+
+* **Friendship** involves mutual accommodation without long-horizon binding
+* **Caregiving** involves sustained accommodation without reciprocity
+* **Family** may impose long horizons without voluntary assumption
+* **Attachment** may feel binding without mutual coordination
+
+Love is unique in combining:
+
+* voluntary assumption
+* mutuality
+* and constitutive long-horizon future binding
+
+Removing any one of these produces a different regime.
+
+---
+
+## 8. Ethical Neutrality Statement
+
+Under IER:
+
+* Love is never morally mandatory
+* Refusal to love is always structurally permissible
+* Love cannot be owed, demanded, or extracted
+* Obligations arise **within** love, not **to** love
+* Ending love may be costly without being wrongful
+
+IER explains love’s structure.
+It does not command its pursuit.
+
+---
+
+## 9. Closing
 
 Under Informational Experiential Realism, love is not mystery, revelation, or guarantee.
 
 It is:
 
-* a **structural commitment**,
-* a **long-horizon coordination regime**,
-* a **mutual reshaping of futures** undertaken without fusion or certainty.
+* a **structural commitment**
+* a **long-horizon coordination regime**
+* a **mutual reshaping of admissible futures**
+* undertaken under uncertainty
+* without fusion
+* without standing transfer
 
-Love does not solve the fragility of experience.
-It **makes room for it**.
+Love does not remove intrinsic constraint.
 
-> **Love is not what removes constraint.
-> Love is what allows constraint to be borne without collapse — together, but not as one.**
+> **Love is what allows constraint to be borne across time —
+> together, but never as one.**
 
 ---

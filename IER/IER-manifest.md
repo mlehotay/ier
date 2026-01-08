@@ -137,24 +137,28 @@ Characteristics:
 
 ### **Relational and Multi-Subject Regimes**
 
-42. **[T2] `IER-love.md`** — Love as a cross-temporal relational regime
-43. **[T2] `IER-relationships.md`** — Relationship types as constraint-accommodation regimes
+42. **[T2] `IER-relationships.md`** — Relationships as constraint-accommodation regimes
+43. **[T2] `IER-love.md`** — Long-horizon, mutual future binding without fusion
+44. **[T2] `IER-friendship.md`** — Mutual coordination without binding futures
+45. **[T2] `IER-family.md`** — Inherited, asymmetric relationships that shape identity
+46. **[T2] `IER-caregiving.md`** — Sustained one-sided stabilization
+47. **[T2] `IER-groups.md`** — Teams, institutions, and movements
 
 ---
 
 ### **Institutional and Cultural Systems**
 
-44. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
-45. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
-46. **[T2] `IER-corporations.md`** — Proof that corporations are not experiential persons
+48. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
+49. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
+50. **[T2] `IER-corporations.md`** — Proof that corporations are not experiential persons
 
 ---
 
 ### **Boundaries, Denials, and Comparative Work**
 
-47. **[T2] `IER-denials.md`** — Explicit non-claims
-48. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
-49. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
+51. **[T2] `IER-denials.md`** — Explicit non-claims
+52. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
+53. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
 
 ---
 
@@ -163,17 +167,17 @@ Characteristics:
 These documents are **in the corpus** but **non-canonical** unless otherwise specified.
 They introduce **no new authoritative commitments**.
 
-50. **[T4] `README.md`** — Front-door orientation
-51. **[T4] `IER-history.md`** — Historical preconditions for IER
-52. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
-53. **[T4] `IER-dont-panic.md`** — Reader reassurance and misuse prevention
-54. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict
-55. **[T4] `IER-FAQ.md`** — Reader-facing clarifications
-56. **[T4] `IER-glossary.md`** — Canon-constrained terminology
-57. **[T4] `IER-index.md`** — Concept-to-document navigation
-58. **[T4] `IER-canon.md`** — Canonical authority and governance rules
-59. **[T4] `IER-manifest.md`** — Corpus inventory and ordering
-60. **[T4] `IER-changelog.md`** — Version history and structural changes
+54. **[T4] `README.md`** — Front-door orientation
+55. **[T4] `IER-history.md`** — Historical preconditions for IER
+56. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
+57. **[T4] `IER-dont-panic.md`** — Reader reassurance and misuse prevention
+58. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict
+59. **[T4] `IER-FAQ.md`** — Reader-facing clarifications
+60. **[T4] `IER-glossary.md`** — Canon-constrained terminology
+61. **[T4] `IER-index.md`** — Concept-to-document navigation
+62. **[T4] `IER-canon.md`** — Canonical authority and governance rules
+63. **[T4] `IER-manifest.md`** — Corpus inventory and ordering
+64. **[T4] `IER-changelog.md`** — Version history and structural changes
 
 ---
 
@@ -182,10 +186,10 @@ They introduce **no new authoritative commitments**.
 These materials are **derived publications** built from the corpus.
 They introduce no new claims and defer entirely to the canonical documents.
 
-60. **`IER-paper/IER-paper.md`** — Academic paper form of the IER thesis.
-61. **`IER-book/IER-book.md`** — Book compilation and ordering rules.
-62. **`IER-book/IER-legal.md`** — Legal and IP reference for AI-assisted authorship.
-63. **`IER-book/IER-publishing.md`** — Publication and production procedures.
+65. **`IER-paper/IER-paper.md`** — Academic paper form of the IER thesis.
+66. **`IER-book/IER-book.md`** — Book compilation and ordering rules.
+67. **`IER-book/IER-legal.md`** — Legal and IP reference for AI-assisted authorship.
+68. **`IER-book/IER-publishing.md`** — Publication and production procedures.
 
 ---
 

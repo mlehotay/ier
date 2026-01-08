@@ -211,8 +211,12 @@ For meaning without epistemic authority:
 
 ## 🧑‍🤝‍🧑 Relational and Multi-Subject Regimes
 
-* [`IER-love.md`](IER-love.md) — *Love as a relational regime over time*
 * [`IER-relationships.md`](IER-relationships.md) — *Relationship types as constraint-accommodation regimes*
+* [`IER-love.md`](IER-love.md) — *Long-horizon, mutual future binding without fusion*
+* [`IER-friendship.md`](IER-friendship.md) — *Mutual coordination without binding futures*
+* [`IER-family.md`](IER-family.md) — *Inherited, asymmetric relationships that shape identity*
+* [`IER-caregiving.md`](IER-caregiving.md) — *Sustained one-sided stabilization*
+* [`IER-groups.md`](IER-groups.md) — *Teams, institutions, and movements*
 
 ---
 
