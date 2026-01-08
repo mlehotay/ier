@@ -155,62 +155,44 @@ IER becomes structurally unavoidable rather than stipulative.
 
 ---
 
-## **v10.8.1 — Corpus Completion & Scope Clarification (Patch)**
+## **v10.8.1 — Corpus Completion and Misuse Hardening (Patch)**
 
 **Status:** Patch release
-**Character:** Clarification, governance, and alignment
+**Character:** Clarification, completion, and governance alignment
 
 **No ontological, criterial, epistemic, or ethical commitments changed.**
 
-Key changes:
+This release completes and seals the IER corpus without modifying any identity claims or ethical entailments fixed in **v10.8**.
 
-* **Moral harm scope clarified**
+**Key outcomes:**
 
-  * Explicitly distinguishes **experiential moral harm** from moral harm in general
-  * Blocks misreadings involving unconsciousness, anesthesia, dormancy, and non-experiential violations
+* **Corpus completion**
 
-* **Ethics-aligned revisions**
+  * All intended documents finalized, tiered, and inventoried
+  * IER transitions from an evolving manuscript to a closed, publishable system
 
-  * Updates to `IER-ethics`, `IER-morals`, and `IER-FAQ`
-  * Explicit scope discipline added without expanding moral authority
+* **Governance clarified**
 
-* **Corpus completion declared**
+  * Canon (`IER-canon.md`) separated from corpus inventory (`IER-manifest.md`)
+  * Prevents accidental authority inflation
 
-  * Canon marked complete
-  * All documents inventoried and tiered
+* **Relational regimes completed**
 
-* **Canon / Manifest split**
+  * Full structural account of multi-subject relationships without fusion, collectivization, or shared subjecthood
+  * Blocks relational aggregation and identity-fusion misreadings
 
-  * Governance (`IER-canon.md`) separated from inventory (`IER-manifest.md`)
-  * Reduces accidental authority inflation
+* **Experiential interruption clarified**
 
-* **Navigation hardening**
+  * Sleep, anesthesia, dormancy, and unconsciousness treated as regime interruptions, not degraded experience
+  * Eliminates partial-experience and subject-multiplication confusions
 
-  * Glossary and index finalized
-  * Reader-facing orientation improved without softening constraints
+* **Negative-space hardened**
 
-* **Patch discipline formalized**
-
-  * Patch versions restricted to clarification, pedagogy, and alignment
-  * No silent normative drift permitted
+  * Structural impossibility results finalized for diagnostics, informational slack, and institutional subjecthood
+  * Prevents certification, detection, and collective-standing misapplications
 
 **Interpretive note:**
-v10.8.1 marks the point where IER becomes **fully sealed, navigable, and maintainable** as a closed system.
-
----
-
-## **Current Status**
-
-* **IER v10.8** — normatively closed
-* **IER v10.8.1** — corpus complete
-
-Post-closure work is limited to:
-
-* clarification and pedagogy
-* disciplined application
-* internal critique
-* comparative analysis
-
-Any change that introduces diagnostics, graded standing, epistemic authority, or optimization principles is **out of scope by definition**.
+**v10.8.1 marks IER as fully sealed, navigable, and misuse-hardened.**
+Post-closure work is limited to clarification, pedagogy, application, and critique.
 
 ---
