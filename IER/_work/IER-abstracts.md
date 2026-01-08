@@ -411,7 +411,38 @@ Meaning is experientially real and identity-shaping, while remaining strictly **
 
 ---
 
-## 23. IER-intentionality.md
+## 23. IER-happiness.md
+
+## **0. Status, Scope, and Canon Position**
+
+This document is **explanatory and non-normative**.
+
+It:
+
+* introduces **no ontological, criterial, epistemic, or ethical commitments**
+* does **not** define what makes a life good
+* does **not** prescribe what should be pursued, valued, or optimized
+* does **not** treat happiness as a moral, epistemic, or evaluative primitive
+* does **not** rank happiness relative to other experiential states
+
+All authoritative commitments remain fixed **exclusively** in:
+
+* `IER-specification.md`
+* `IER-ethics.md`
+* `IER-constraint.md`
+* `IER-denials.md`
+
+**Purpose of this document:**
+
+> **To explain why “happiness” persistently appears central to lived experience,
+> why it cannot function as a primitive, metric, or ethical standard under Informational Experiential Realism (IER),
+> and how certain experiential configurations are routinely mistaken for it.**
+
+This document exists for **misuse containment and structural clarification**, not endorsement.
+
+---
+
+## 24. IER-intentionality.md
 
 ## Abstract
 
@@ -423,7 +454,7 @@ This document explains intentionality as a **derived feature of intrinsically co
 
 ---
 
-## 24. IER-puzzles.md
+## 25. IER-puzzles.md
 
 ## **Status and Scope**
 
@@ -440,7 +471,7 @@ Its purpose is to catalog the **canonical philosophical puzzles of consciousness
 
 ---
 
-## 25. IER-insight.md
+## 26. IER-insight.md
 
 ## **Abstract**
 
@@ -455,7 +486,7 @@ It does not disclose reality.
 
 ---
 
-## 26. IER-synchronicity.md
+## 27. IER-synchronicity.md
 
 ## **1. Purpose and Scope**
 
@@ -480,7 +511,7 @@ It is a **dependency analysis** of why synchronicity mattered historically—and
 
 ---
 
-## 27. IER-truth.md
+## 28. IER-truth.md
 
 ## **Abstract**
 
@@ -495,7 +526,7 @@ Reality is not organized by experience.
 
 ---
 
-## 28. IER-attractors.md
+## 29. IER-attractors.md
 
 ## **Abstract**
 
@@ -509,7 +540,7 @@ The account introduces no new primitives, criteria, or diagnostics. All claims a
 
 ---
 
-## 29. IER-patterns.md
+## 30. IER-patterns.md
 
 ## **Why Nature Repeats Itself Without a Designer**
 
@@ -525,7 +556,7 @@ It is **attractors**.
 
 ---
 
-## 30. IER-types.md
+## 31. IER-types.md
 
 ## **Abstract**
 
@@ -537,7 +568,7 @@ This article explains how apparent human “types” emerge from **attractor-bas
 
 ---
 
-## 31. IER-shadows.md
+## 32. IER-shadows.md
 
 ## **Abstract**
 
@@ -553,7 +584,7 @@ The analysis preserves IER’s categorical account of experience, rejects graded
 
 ---
 
-## 32. IER-resolution.md
+## 33. IER-resolution.md
 
 ## **Abstract**
 
@@ -561,7 +592,7 @@ Physical systems routinely undergo transitions in which multiple futures are phy
 
 ---
 
-## 33. IER-agency.md
+## 34. IER-agency.md
 
 ## **Abstract**
 
@@ -573,7 +604,7 @@ This document explains agency as **owned resolution of intrinsic constraint** op
 
 ---
 
-## 34. IER-choice.md
+## 35. IER-choice.md
 
 ## **Abstract**
 
@@ -587,7 +618,7 @@ This document explains the Choice Space, its interpretive graph representation, 
 
 ---
 
-## 35. IER-free-will.md
+## 36. IER-free-will.md
 
 ## **Abstract**
 
@@ -599,7 +630,7 @@ This document explains why indeterminism is neither necessary nor sufficient for
 
 ---
 
-## 36. IER-constraint.md
+## 37. IER-constraint.md
 
 ## 1. Constraint as the Central Ethical Form
 
@@ -624,7 +655,7 @@ This document explains that constraint-based role.
 
 ---
 
-## 37. IER-morals.md
+## 38. IER-morals.md
 
 ## **1. Why a “Morals” Document Is Needed**
 
@@ -653,7 +684,7 @@ Those separations feel counterintuitive until they are **worked through concrete
 
 ---
 
-## 38. IER-dilemmas.md
+## 39. IER-dilemmas.md
 
 ## **Status and Scope**
 
@@ -673,7 +704,7 @@ If any interpretation here conflicts with the Specification, the Specification t
 
 ---
 
-## 39. IER-duty.md
+## 40. IER-duty.md
 
 ## **Status and Scope**
 
@@ -695,7 +726,7 @@ The purpose of this document is clarificatory:
 
 ---
 
-## 40. IER-helmets.md
+## 41. IER-helmets.md
 
 ## **Abstract**
 
@@ -707,7 +738,7 @@ The helmet case serves as the *external-interface boundary condition* in a seque
 
 ---
 
-## 41. IER-gut.md
+## 42. IER-gut.md
 
 ## Abstract
 
@@ -722,7 +753,7 @@ But it matters by **participation**, not by **subjecthood**.
 
 ---
 
-## 42. IER-implants.md
+## 43. IER-implants.md
 
 ## **Abstract**
 
@@ -738,7 +769,7 @@ They enable **participation without fusion**.
 
 ---
 
-## 43. IER-relationships.md
+## 44. IER-relationships.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -763,7 +794,7 @@ This document serves as the **foundational map and index** for the *Relational a
 
 ---
 
-## 44. IER-love.md
+## 45. IER-love.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -789,7 +820,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 45. IER-friendship.md
+## 46. IER-friendship.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -814,7 +845,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 46. IER-family.md
+## 47. IER-family.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -839,7 +870,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 47. IER-caregiving.md
+## 48. IER-caregiving.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -864,7 +895,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 48. IER-groups.md
+## 49. IER-groups.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -889,7 +920,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 49. IER-social-systems.md
+## 50. IER-social-systems.md
 
 ### **Purpose and Orientation**
 
@@ -908,7 +939,7 @@ The constraints described here are **structural**, not punitive, and are intende
 
 ---
 
-## 50. IER-traditions.md
+## 51. IER-traditions.md
 
 ## **Purpose and Orientation**
 
@@ -933,7 +964,7 @@ No claims are made about truth, salvation, revelation, or correctness.
 
 ---
 
-## 51. IER-corporations.md
+## 52. IER-corporations.md
 
 ### **1.1 What This Article Does**
 
@@ -953,7 +984,7 @@ The argument is **ontological and structural**, not empirical. It does not depen
 
 ---
 
-## 52. IER-denials.md
+## 53. IER-denials.md
 
 ## **Why a Denials Document Is Necessary**
 
@@ -970,7 +1001,7 @@ What follows is a representative, high-coverage list of **explicit non-claims**.
 
 ---
 
-## 53. IER-contrast.md
+## 54. IER-contrast.md
 
 Informational Experiential Realism (IER v10.8) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
 
@@ -978,7 +1009,7 @@ This identity claim entails commitments that sharply distinguish IER from many n
 
 ---
 
-## 54. IER-critics.md
+## 55. IER-critics.md
 
 ## **Purpose**
 
@@ -998,7 +1029,7 @@ So the central critical question is:
 
 ---
 
-## 55. README.md
+## 56. README.md
 
 ## What This Is
 
@@ -1023,7 +1054,7 @@ It is a theory of:
 
 ---
 
-## 56. IER-history.md
+## 57. IER-history.md
 
 ## **1. Purpose and Scope**
 
@@ -1041,7 +1072,7 @@ This is not a survey of all theories of consciousness, nor a claim of intellectu
 
 ---
 
-## 57. IER-futures.md
+## 58. IER-futures.md
 
 ## **Abstract**
 
@@ -1057,7 +1088,7 @@ The comparison illustrates that **IER constrains moral reality but does not dete
 
 ---
 
-## 58. IER-dont-panic.md
+## 59. IER-dont-panic.md
 
 ## **Why This Document Exists**
 
@@ -1085,7 +1116,7 @@ This document exists to say, clearly and explicitly:
 
 ---
 
-## 59. IER-strictness.md
+## 60. IER-strictness.md
 
 *A Reader-Facing Primer*
 
@@ -1102,7 +1133,7 @@ Its purpose is orientation, not enforcement.
 
 ---
 
-## 60. IER-FAQ.md
+## 61. IER-FAQ.md
 
 ## **Status and Purpose**
 
@@ -1123,7 +1154,7 @@ Where this FAQ discusses morality, it refers **only to experiential moral harm a
 
 ---
 
-## 61. IER-glossary.md
+## 62. IER-glossary.md
 
 ## **Status and Scope**
 
@@ -1142,7 +1173,7 @@ This glossary explains **how terms are used in IER**, not how they are used else
 
 ---
 
-## 62. IER-index.md
+## 63. IER-index.md
 
 ## **Status and Scope**
 
@@ -1166,7 +1197,7 @@ If a reference here appears inconsistent with a Tier-1 document, the Tier-1 docu
 
 ---
 
-## 63. IER-canon.md
+## 64. IER-canon.md
 
 ## **Status and Purpose**
 
@@ -1180,7 +1211,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 ---
 
-## 64. IER-manifest.md
+## 65. IER-manifest.md
 
 ## **Status and Authority**
 
@@ -1204,7 +1235,7 @@ This manifest is **descriptive and organizational**, not normative.
 
 ---
 
-## 65. IER-changelog.md
+## 66. IER-changelog.md
 
 ## **Informational Experiential Realism — Version History**
 

@@ -98,68 +98,69 @@ Characteristics:
 
 21. **[T2] `IER-access.md`** — Experiential access vs epistemic authority
 22. **[T2] `IER-meaning.md`** — Meaning without ontological inflation
-23. **[T2] `IER-intentionality.md`** — Intentionality without representation
-24. **[T2] `IER-puzzles.md`** — Structural dissolution of classic puzzles
-25. **[T2] `IER-insight.md`** — Insight as constraint reorganization
-26. **[T2] `IER-synchronicity.md`** — Experienced coherence and meaning
-27. **[T2] `IER-truth.md`** — Truth without experiential privilege
+23. **[T2] `IER-happiness.md`** — Why happiness cannot ground value, ethics, or authority
+24. **[T2] `IER-intentionality.md`** — Intentionality without representation
+25. **[T2] `IER-puzzles.md`** — Structural dissolution of classic puzzles
+26. **[T2] `IER-insight.md`** — Insight as constraint reorganization
+27. **[T2] `IER-synchronicity.md`** — Experienced coherence and meaning
+28. **[T2] `IER-truth.md`** — Truth without experiential privilege
 
 ---
 
 ### **Dynamics, Attractors, and Recurring Forms**
 
-28. **[T2] `IER-attractors.md`** — Soft attractors in experiential organization
-29. **[T2] `IER-patterns.md`** — Recurring natural and experiential forms
-30. **[T2] `IER-types.md`** — Clustering without ontological typology
-31. **[T2] `IER-shadows.md`** — Extreme and shadow constraint states
+29. **[T2] `IER-attractors.md`** — Soft attractors in experiential organization
+30. **[T2] `IER-patterns.md`** — Recurring natural and experiential forms
+31. **[T2] `IER-types.md`** — Clustering without ontological typology
+32. **[T2] `IER-shadows.md`** — Extreme and shadow constraint states
 
 ---
 
 ### **Agency, Choice, and Ethics in Practice**
 
-32. **[T2] `IER-resolution.md`** — Resolution, ownership, and admissible control
-33. **[T2] `IER-agency.md`** — Agency as owned resolution of intrinsic constraint
-34. **[T2] `IER-choice.md`** — Choice spaces and admissible futures
-35. **[T2] `IER-free-will.md`** — Free will without indeterminism
-36. **[T2] `IER-constraint.md`** — Ethical constraint and non-closure
-37. **[T2] `IER-morals.md`** — Concrete moral cases under IER
-38. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
-39. **[T2] `IER-duty.md`** — Duty, obligation, and responsibility
+33. **[T2] `IER-resolution.md`** — Resolution, ownership, and admissible control
+34. **[T2] `IER-agency.md`** — Agency as owned resolution of intrinsic constraint
+35. **[T2] `IER-choice.md`** — Choice spaces and admissible futures
+36. **[T2] `IER-free-will.md`** — Free will without indeterminism
+37. **[T2] `IER-constraint.md`** — Ethical constraint and non-closure
+38. **[T2] `IER-morals.md`** — Concrete moral cases under IER
+39. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
+40. **[T2] `IER-duty.md`** — Duty, obligation, and responsibility
 
 ---
 
 ### **Interface and Coupling Boundaries**
 
-40. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
-41. **[T2] `IER-gut.md`** — Enteric participation without subjecthood
-42. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
+41. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
+42. **[T2] `IER-gut.md`** — Enteric participation without subjecthood
+43. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
 
 ---
 
 ### **Relational and Multi-Subject Regimes**
 
-43. **[T2] `IER-relationships.md`** — Relationships as constraint-accommodation regimes
-44. **[T2] `IER-love.md`** — Long-horizon, mutual future binding without fusion
-45. **[T2] `IER-friendship.md`** — Mutual coordination without binding futures
-46. **[T2] `IER-family.md`** — Inherited, asymmetric relationships that shape identity
-47. **[T2] `IER-caregiving.md`** — Sustained one-sided stabilization
-48. **[T2] `IER-groups.md`** — Teams, institutions, and movements
+44. **[T2] `IER-relationships.md`** — Relationships as constraint-accommodation regimes
+45. **[T2] `IER-love.md`** — Long-horizon, mutual future binding without fusion
+46. **[T2] `IER-friendship.md`** — Mutual coordination without binding futures
+47. **[T2] `IER-family.md`** — Inherited, asymmetric relationships that shape identity
+48. **[T2] `IER-caregiving.md`** — Sustained one-sided stabilization
+49. **[T2] `IER-groups.md`** — Teams, institutions, and movements
 
 ---
 
 ### **Institutional and Cultural Systems**
 
-49. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
-50. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
-51. **[T2] `IER-corporations.md`** — Proof that corporations are not experiential persons
+50. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
+51. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
+52. **[T2] `IER-corporations.md`** — Proof that corporations are not experiential persons
 
 ---
 
 ### **Boundaries, Denials, and Comparative Work**
 
-52. **[T2] `IER-denials.md`** — Explicit non-claims
-53. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
-54. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
+53. **[T2] `IER-denials.md`** — Explicit non-claims
+54. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
+55. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
 
 ---
 
@@ -168,17 +169,17 @@ Characteristics:
 These documents are **in the corpus** but **non-canonical** unless otherwise specified.
 They introduce **no new authoritative commitments**.
 
-55. **[T4] `README.md`** — Front-door orientation
-56. **[T4] `IER-history.md`** — Historical preconditions for IER
-57. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
-58. **[T4] `IER-dont-panic.md`** — Reader reassurance and misuse prevention
-59. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict
-60. **[T4] `IER-FAQ.md`** — Reader-facing clarifications
-61. **[T4] `IER-glossary.md`** — Canon-constrained terminology
-62. **[T4] `IER-index.md`** — Concept-to-document navigation
-63. **[T4] `IER-canon.md`** — Canonical authority and governance rules
-64. **[T4] `IER-manifest.md`** — Corpus inventory and ordering
-65. **[T4] `IER-changelog.md`** — Version history and structural changes
+56. **[T4] `README.md`** — Front-door orientation
+57. **[T4] `IER-history.md`** — Historical preconditions for IER
+58. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
+59. **[T4] `IER-dont-panic.md`** — Reader reassurance and misuse prevention
+60. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict
+61. **[T4] `IER-FAQ.md`** — Reader-facing clarifications
+62. **[T4] `IER-glossary.md`** — Canon-constrained terminology
+63. **[T4] `IER-index.md`** — Concept-to-document navigation
+64. **[T4] `IER-canon.md`** — Canonical authority and governance rules
+65. **[T4] `IER-manifest.md`** — Corpus inventory and ordering
+66. **[T4] `IER-changelog.md`** — Version history and structural changes
 
 ---
 
@@ -187,10 +188,10 @@ They introduce **no new authoritative commitments**.
 These materials are **derived publications** built from the corpus.
 They introduce no new claims and defer entirely to the canonical documents.
 
-66. **`IER-paper/IER-paper.md`** — Academic paper form of the IER thesis.
-67. **`IER-book/IER-book.md`** — Book compilation and ordering rules.
-68. **`IER-book/IER-legal.md`** — Legal and IP reference for AI-assisted authorship.
-69. **`IER-book/IER-publishing.md`** — Publication and production procedures.
+67. **`IER-paper/IER-paper.md`** — Academic paper form of the IER thesis.
+68. **`IER-book/IER-book.md`** — Book compilation and ordering rules.
+69. **`IER-book/IER-legal.md`** — Legal and IP reference for AI-assisted authorship.
+70. **`IER-book/IER-publishing.md`** — Publication and production procedures.
 
 ---
 

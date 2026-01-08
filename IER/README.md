@@ -190,9 +190,10 @@ Temporal structure and interruption:
 
 ## 🧭 Meaning, Narrative, and Experiential Coherence
 
-For meaning without epistemic authority:
+For meaning **without epistemic authority** and value **without justificatory privilege**:
 
 * [`IER-meaning.md`](IER-meaning.md) — *Meaning as constraint-stabilizing structure*
+* [`IER-happiness.md`](IER-happiness.md) — *Why happiness cannot ground value, ethics, or authority*
 * [`IER-intentionality.md`](IER-intentionality.md) — *Aboutness without representation*
 * [`IER-access.md`](IER-access.md) — *Experiential access vs epistemic authority*
 * [`IER-insight.md`](IER-insight.md) — *Narrative reorganization*
