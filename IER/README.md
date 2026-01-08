@@ -183,6 +183,7 @@ Temporal structure and interruption:
 * [`IER-continuity.md`](IER-continuity.md) — *Experiential gaps without identity loss*
 * [`IER-persistence.md`](IER-persistence.md) — *Deep change without subject replacement*
 * [`IER-sleep.md`](IER-sleep.md) — *Unconscious intervals*
+* [`IER-sleep-variants.md`](IER-sleep-variants.md) — *Non-standard sleep regimes and constraint relief*
 * [`IER-dormancy.md`](IER-dormancy.md) — *Dormancy as experiential null interval*
 
 ---
