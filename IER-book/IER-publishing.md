@@ -1,376 +1,184 @@
-# **IER Publishing (v10.8.1)**
+# **IER Publishing (v10.8.2)**
 
-## **Publication Strategy, Format Discipline, and Execution Checklist**
+## **Publication Strategy, Format Discipline, and Execution Rules**
 
 ---
 
 ## **Status and Purpose**
 
-This document defines the **publication strategy, production constraints, format decisions, and execution tasks** governing the dissemination of the **Informational Experiential Realism (IER)** corpus.
+This document defines the **publication and production rules** governing dissemination of the
+**Informational Experiential Realism (IER)** corpus.
 
 It introduces **no ontological, criterial, epistemic, or ethical claims**.
 
-It governs **how the corpus is packaged, rendered, distributed, and maintained as a public artifact**, not what the theory asserts.
-
-This document is **procedural and operational**, not canon-authoritative.
+It governs **how the book is rendered, packaged, and maintained**, not what the theory asserts.
 
 ---
 
-## **Scope of Authority**
+## **Dependency Order (Authoritative)**
 
-This document governs:
+This document is strictly subordinate to:
 
-* print and digital formats
-* layout and typographic constraints
-* distribution channels
-* version-to-edition mapping
-* production sequencing
-* maintenance obligations post-publication
+1. **`IER-canon.md`** — authority and governance  
+2. **`IER-manifest.md`** — corpus membership and flat ordering  
+3. **`IER-book.md`** — book structure, Parts, and reader-facing scope  
 
-This document does **not**:
+This document **must not**:
+- define book structure
+- redefine corpus membership
+- override Part boundaries
+- introduce interpretive rules
 
-* modify canon authority
-* alter interpretive constraints
-* introduce pedagogical commitments
-* determine reading order (see `IER-Manifest.md`)
-* revise book structure (see `IER-book.md`)
+If any conflict appears, **`IER-book.md` takes precedence** for book-related questions.
 
 ---
 
-## **Publishing Goals**
+## **Book Identity**
 
-IER publication aims to:
+IER is published as:
 
-* preserve **theoretical precision**
-* maintain **reader alignment**
-* signal **technical seriousness**
-* avoid aesthetic dilution
-* minimize interpretive drift across formats
+> **A single-volume technical monograph**
 
-IER is not optimized for:
+The book has **three Parts**, defined exclusively in `IER-book.md`:
 
-* mass-market accessibility
-* motivational framing
-* persuasion-by-style
-* brand aesthetics
+* **Part I — The IER Theory Proper**
+* **Part II — Applications, Elaborations, and Boundaries**
+* **Part III — Orientation, Context, and Navigation**
+
+No other structural divisions are permitted.
 
 ---
 
-## **Target Publication Identity**
+## **Authority and Dependency Discipline**
 
-### **Primary Identity**
+### **Normative Authority**
 
-IER is published as a:
+Exactly one document is normatively authoritative:
 
-> **Single technical monograph / conceptual reference work**
+> **`IER-specification.md`**
 
-It is **one physical book**, not a multi-volume set.
+All book chapters—including ethics, applications, and orientation—are **non-authoritative**.
 
-The book contains **two internal divisions** with different structural roles, as defined in `IER-book.md`.
+### **Part Dependencies**
 
----
+* **Part I** is foundational and normatively sufficient.
+* **Part II** presupposes Part I in full and introduces no new foundations.
+* **Part III** is reader-facing orientation only and carries no authority.
 
-### **Structural Signal Requirements**
-
-The published artifact must make clear—through layout, headings, and front matter—that:
-
-* the book contains **Division A: The Closed Argument**
-* followed by **Division B: The Complete Corpus**
-* Division B **presupposes** Division A
-* no foundational claims are restated after Division A
-
-Design and layout choices are **interpretive signals**, not neutral aesthetics.
+Layout, headings, and navigational signals must reinforce these dependencies.
 
 ---
 
 ## **Primary Print Format (Normative Target)**
 
 ### **Trim Size**
-
-* Preferred: **7 × 9 in** (technical paperback standard)
+* Preferred: **7 × 9 in**
 * Acceptable alternates:
-
   * 6.875 × 9.25
   * 7.5 × 9.25
 
-Consistency across printings is preferred.
+### **Paper**
+* **White paper only**
 
-This trim size is selected to support:
-
-* dense prose
-* tabular data
-* occasional formal expressions
-* limited diagrammatic material
-
-without requiring textbook-scale inflation.
-
----
-
-### **Paper Specification (Normative)**
-
-* **White paper is mandatory**
-
-Rationale:
-
-* Preserves contrast for:
-
-  * numerical tables
-  * symbolic notation
-  * equation glyphs
-* Avoids signal of literary or popular-science framing
-* Prevents degradation of fine rule lines in tables
-
-Cream or off-white paper is not permitted.
-
----
-
-### **Typography Constraints**
-
+### **Typography**
 * Serif body font
 * High word density
 * Tight leading
 * Minimal paragraph spacing
 * Functional headings only
-* Explicit tier markers in chapter headers
 
-Typography must not imply:
-
-* casual reading
-* motivational pacing
-* narrative authority
-* pedagogical sequencing
+Typography must not signal:
+- pedagogy
+- narrative pacing
+- motivational framing
 
 ---
 
-### **Mathematical and Formal Expression Discipline**
+## **Mathematical and Formal Expression Discipline**
 
-IER contains **few but structurally important equations**.
+* Display equations when non-trivial
+* Number equations only when cross-referenced
+* No decorative math styling
 
-Accordingly:
-
-* Equations must be:
-
-  * **displayed**, not embedded inline when non-trivial
-  * visually isolated with controlled vertical spacing
-* Equation numbering is permitted **only** when cross-referenced later
-* No decorative math styling or pedagogical annotation
-
-Mathematical rendering must signal:
-
-> *formal necessity, not instructional emphasis*
+Formal elements must signal **necessity**, not instruction.
 
 ---
 
-### **Table Density and Design Constraints**
+## **Tables**
 
-Tables are a **primary information carrier** in the corpus.
-
-Requirements:
-
-* Tables may use reduced font size (9–10 pt)
-* Vertical rules discouraged
-* Horizontal rules minimal and functional
-* Tables may break across pages if necessary, with continuity labeling
-* Tables must not be reformatted for visual comfort at the cost of density
-
-If a table cannot be rendered legibly within portrait orientation:
-
-* relocation to appendix is preferred
-* landscape rotation is permitted only as a last resort
+* Tables are first-class information carriers
+* Reduced font size permitted
+* Minimal ruling
+* Page breaks allowed with continuity labels
 
 ---
 
-### **Diagram Policy**
+## **Diagrams**
 
-IER permits **one to two diagrams total**, subject to strict constraints:
-
+* Maximum: **two diagrams total**
 * Black-and-white only
-* Vector-based (print-safe)
+* Vector-based
 * Captioned, not narrated
-* Positioned immediately after first textual reference
-* No explanatory callouts beyond labels required for reference
-
-Diagrams must function as **structural clarification**, not intuition pumps.
 
 ---
 
-### **Page Density Targets**
+## **Page Density Targets**
 
 * Target: **350–450 words per page**
-* Acceptable variance allowed for:
-
-  * tables
-  * diagrams
-  * definitions
-  * block quotations
-  * displayed equations
-
-Page inflation for reader comfort or visual pacing is discouraged.
-
----
-
-## **Division-Specific Layout Discipline**
-
-### **Division A — The Closed Argument**
-
-Layout priorities:
-
-* uninterrupted argument flow
-* minimal navigational scaffolding
-* no pedagogical callouts
-* no reader-reassurance inserts
-* section breaks aligned strictly to dependency order
-
-Division A must read as:
-
-> **compact, unavoidable, and closed**
-
----
-
-### **Division B — The Complete Corpus**
-
-Layout priorities:
-
-* reference usability
-* strong running headers indicating:
-
-  * Division
-  * Part
-  * Tier
-* explicit cross-references to Division A Parts
-* visible tier markers on every chapter
-* heavier reliance on index and glossary
-
-Division B must read as:
-
-> **dependent, constrained, and non-authoritative**
+* Variance allowed for tables, equations, diagrams
 
 ---
 
 ## **Digital Formats**
 
-### **PDF (Canonical Digital Format)**
+### **PDF (Canonical Digital Edition)**
 
-* Canonical digital reference
-* Must match print pagination exactly
-* Used for citation, review, and archival reference
-* Page numbers must restart **only once** (single book)
+* Matches print pagination exactly
+* Used for citation and archival reference
+* Single continuous pagination across all Parts
 
----
+### **EPUB / HTML (Secondary)**
 
-### **EPUB / HTML (Optional)**
-
-* Secondary to print/PDF
 * Must preserve:
-
-  * division boundaries
-  * part ordering
-  * tier markers
+  * Part boundaries
+  * Chapter ordering
+  * Non-authoritative status of Part III
 * Must not introduce:
-
-  * reordered content
-  * adaptive pedagogy
+  * reordering
   * summaries
-  * collapsible “learning paths”
+  * adaptive reading paths
 
 ---
 
 ## **Versioning and Edition Mapping**
 
-### **Version vs. Edition**
+* **Version** = theoretical authority (e.g., v10.8.2)
+* **Edition** = physical or digital rendering
 
-* **Version** = normative authority (see `IER-canon.md`)
-* **Edition** = physical or digital rendering of that version
-
-A single version may have:
-
-* multiple printings
-* multiple formats (print / PDF / EPUB)
-
-All editions must map unambiguously to a single version.
+All editions map to **exactly one version**.
 
 ---
 
-### **Pagination Discipline**
+## **Patch Discipline**
 
-Because the book is a **single bound volume**:
+Permitted:
+- typographical corrections
+- layout fixes
+- index and glossary improvements
 
-* pagination is continuous across both divisions
-* citations must specify:
-
-  * version
-  * division
-  * part
-  * chapter
-  * page number
-
-Example citation format:
-
-> IER v10.8.1, Div. A, Part III, Ch. 12, p. 417
+Not permitted:
+- new chapters
+- reordered content
+- restated foundations
+- authority changes
 
 ---
 
-### **Patch Publication Discipline**
+## **ISBN, Attribution, and Disclosure**
 
-Patch-level publishing may include:
-
-* typo fixes
-* layout corrections
-* cross-reference clarity
-* index improvements
-* glossary clarifications
-
-Patch publication must **not**:
-
-* add new chapters
-* reorder content
-* alter division boundaries
-* introduce new claims
-* restate foundational material
-
-Pagination changes must be documented.
-
----
-
-## **ISBN, Imprint, and Attribution**
-
-The book uses:
-
-* **one ISBN** per physical format
-* **one imprint identity**
-* **one authorial attribution**
-
-Checklist items:
-
-* ISBN assignment
-* imprint name
-* copyright notice
-* licensing statement (if any)
-
-Attribution must preserve:
-
-* authorial responsibility
-* corpus integrity
-* version traceability
-
----
-
-## **Distribution Channels**
-
-### **Primary**
-
-* Print-on-demand (trade paperback)
-* Direct PDF distribution
-
----
-
-### **Secondary (Optional)**
-
-* Libraries
-* Academic bookstores
-* Online retailers
-
-IER does not optimize for algorithmic discoverability or recommendation systems.
+* One ISBN per physical format
+* Single authorial attribution
+* AI assistance disclosure optional and non-authorial
 
 ---
 
@@ -378,101 +186,43 @@ IER does not optimize for algorithmic discoverability or recommendation systems.
 
 Published editions must include:
 
-* a clear **status and scope notice**
-* an explicit **non-reader-hostile framing**
-* an orientation explaining:
+* clear Part labeling
+* explicit authority disclaimers
+* a visible transition into Part III
 
-  * why constraints exist
-  * what the work is *not*
-  * how to read without misuse
-  * how Division A and Division B differ
-
-Orientation is mandatory but **non-normative**.
+Orientation must not imply interpretive authority.
 
 ---
 
-## **Maintenance Obligations**
-
-Post-publication responsibilities include:
-
-* errata tracking
-* clarification patches
-* reader confusion triage
-* cross-format consistency checks
-
-Maintenance must preserve:
-
-* canonical authority
-* tier discipline
-* reader good faith
-* structural clarity between divisions
-
----
-
-## **Execution Checklist (Living Section)**
+## **Execution Checklist**
 
 ### **Pre-Publication**
-
-* [ ] Final corpus freeze confirmed
-* [ ] `IER-book.md` finalized
-* [ ] Version number locked
-* [ ] Manifest validated
-* [ ] Glossary & index verified
-* [ ] Division headers and tier markers checked
-* [ ] Equation rendering verified in print proof
-* [ ] Table legibility verified at final trim size
-* [ ] Diagram contrast and resolution verified
-* [ ] Layout test render reviewed
-* [ ] Page count & spine width confirmed
-
----
+- [ ] Manifest v10.8.2 validated
+- [ ] `IER-book.md` validated
+- [ ] Book includes Preface (IER-paper)
+- [ ] Chapter set matches Manifest Parts I–III exactly
+- [ ] No governance documents included
+- [ ] Layout proof reviewed
 
 ### **Publication**
-
-* [ ] Print files uploaded
-* [ ] Proof copy reviewed
-* [ ] Digital files archived
-* [ ] Version/edition mapping documented
-
----
+- [ ] Print files uploaded
+- [ ] Proof approved
+- [ ] Digital editions archived
 
 ### **Post-Publication**
-
-* [ ] Errata log opened
-* [ ] Patch policy reaffirmed
-* [ ] Reader orientation verified
-* [ ] Distribution links recorded
-
----
-
-## **Non-Goals (Explicit)**
-
-IER publishing does not aim to:
-
-* persuade skeptics
-* simplify core claims
-* soften ethical consequences
-* optimize for casual readability
-* compete stylistically with popular nonfiction
-* allow Division B to be read or marketed as a substitute for Division A
-
-Clarity is pursued **without dilution**.
+- [ ] Errata log opened
+- [ ] Patch policy enforced
 
 ---
 
 ## **Summary**
 
-IER publishing is governed by:
+`IER-publishing.md` defines **how the book is rendered**, not **what the book is**.
 
-* single-book discipline
-* division-aware layout
-* density-preserving design
-* version integrity
-* reader alignment without softening
-* explicit separation of theory from packaging
+Book structure is defined **only** in `IER-book.md`.
+Corpus membership is defined **only** in `IER-manifest.md`.
+Authority is fixed **only** in `IER-canon.md`.
 
-The goal is not comfort.
-
-The goal is **faithful transmission of a hard claim in a durable form**.
+This document exists to prevent drift—not to introduce judgment.
 
 ---

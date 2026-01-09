@@ -1,4 +1,4 @@
-# **IER Manifest (v10.8.1)**
+# **IER Manifest (v10.8.2)**
 
 ## **Corpus Inventory and Flat Ordering**
 
@@ -6,7 +6,8 @@
 
 ## **Status and Function**
 
-This document enumerates the **complete corpus** of the **Informational Experiential Realism (IER)** project as of **version 10.8.1**.
+This document enumerates the **complete corpus** of the
+**Informational Experiential Realism (IER)** project as of **version 10.8.2**.
 
 It defines:
 
@@ -14,30 +15,29 @@ It defines:
 * their **flat ordering**
 * their **tier classification**
 
-It does **not** define authority, governance rules, or interpretive constraints.
+It does **not** define authority, governance rules, interpretive constraints, or publication behavior.
 
-> **Definitions of *corpus*, *canon*, *canonical*, *non-canonical*, and *non-corpus* are given in `IER-canon.md`.**
-> This document must be read as subordinate to that canon.
+> Definitions of *corpus*, *canon*, *canonical*, *non-canonical*, and *non-corpus* are given exclusively in **`IER-canon.md`**.
+> This manifest must be read as **subordinate to the canon**.
 
 ---
 
 ## **Tier Definitions (Referential)**
 
 Tier labels indicate **intended role**, not argumentative priority.
-
-Authoritative relationships are governed by `IER-canon.md`.
+Authority relationships are governed **exclusively** by `IER-canon.md`.
 
 * **T1 — Foundations**
-  Identity claims, necessary conditions, and exclusion criteria.
+  Identity claims, necessary conditions, exclusion criteria, and normative closure.
 
 * **T2 — Elaboration and Application**
-  Phenomenology, ethics-in-practice, dynamics, boundaries, and structured consequences.
+  Phenomenology, dynamics, ethics-in-practice, boundaries, and structured consequences.
 
 * **T3 — Misuse-Blocking / Diagnostic Limits**
-  Canon-binding constraints that prohibit illegitimate inference, diagnostics, certification, or authority inflation under IER.
+  Canon-binding constraints that prohibit illegitimate inference, diagnostics, certification, or authority inflation.
 
 * **T4 — Orientation and Meta**
-  Navigation, reader guidance, history, publishing, governance, and tooling.
+  Reader guidance, navigation, history, governance, and publication context.
 
 ---
 
@@ -47,13 +47,13 @@ Authoritative relationships are governed by `IER-canon.md`.
 
 > *What must be true of reality for experience to exist at all?*
 
-1. **[T1] `IER-specification.md`** — Admissibility conditions and exclusions
-2. **[T1] `IER-theory.md`** — Core identity claim and exclusion criteria
-3. **[T1] `IER-dynamics.md`** — System evolution under intrinsic constraint
-4. **[T2] `IER-math.md`** — Formal structure and constraint dynamics
-5. **[T1] `IER-slack.md`** — Tolerance, indifference regions, and non-precision
-6. **[T2] `IER-ethics.md`** — Ethical consequences forced by the identity claim
-7. **[T3] `IER-diagnostics.md`** — Boundary tests and misuse detection
+1. **[T1] `IER-specification.md`** — Full normative specification
+2. **[T1] `IER-theory.md`** — Experiential identity claim and exclusion structure
+3. **[T1] `IER-dynamics.md`** — Behavior of experiential regimes
+4. **[T2] `IER-math.md`** — Formal structure of constraint and regimes
+5. **[T1] `IER-slack.md`** — Structural exclusion of experience by slack
+6. **[T2] `IER-ethics.md`** — Ethical consequences forced by experiential identity
+7. **[T3] `IER-diagnostics.md`** — Structural limits on diagnostics and engineering
 
 ---
 
@@ -164,48 +164,64 @@ Characteristics:
 
 ---
 
-## **PART III — META, ORIENTATION, AND GOVERNANCE**
+## **PART III — READER-FACING ORIENTATION**
 
-These documents are **in the corpus** but **non-canonical** unless otherwise specified.
-They introduce **no new authoritative commitments**.
+These documents are:
 
-56. **[T4] `README.md`** — Front-door orientation
-57. **[T4] `IER-history.md`** — Historical preconditions for IER
-58. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
-59. **[T4] `IER-dont-panic.md`** — Reader reassurance and misuse prevention
-60. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict
-61. **[T4] `IER-FAQ.md`** — Reader-facing clarifications
-62. **[T4] `IER-glossary.md`** — Canon-constrained terminology
-63. **[T4] `IER-index.md`** — Concept-to-document navigation
+* **entirely reader-facing**
+* **non-authoritative**
+* **non-governing**
+* rendered as **Book Part III**
+
+56. **[T4] `IER-history.md`** — Historical preconditions and dependencies
+57. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
+58. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification
+59. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict
+60. **[T4] `IER-FAQ.md`** — Reader-facing clarifications
+61. **[T4] `IER-glossary.md`** — Canon-constrained terminology
+62. **[T4] `IER-index.md`** — Concept-to-document navigation
+
+> **These seven documents constitute the complete reader-facing orientation layer of IER and correspond exactly to Book Part III.**
+
+---
+
+## **PART IV — NAVIGATION AND GOVERNANCE (NON-BOOK)**
+
+These documents are **in-corpus** but **not book chapters**.
+
+63. **[T4] `README.md`** — Repository front-door orientation
 64. **[T4] `IER-canon.md`** — Canonical authority and governance rules
-65. **[T4] `IER-manifest.md`** — Corpus inventory and ordering
+65. **[T4] `IER-manifest.md`** — Corpus inventory and flat ordering
 66. **[T4] `IER-changelog.md`** — Version history and structural changes
 
 ---
 
-## **PART IV — NON-CANONICAL PUBLICATION MATERIAL (IN-CORPUS)**
+## **PART V — NON-CANONICAL PUBLICATION MATERIAL (IN-CORPUS)**
 
-These materials are **derived publications** built from the corpus.
-They introduce no new claims and defer entirely to the canonical documents.
+These materials are **derived publication artifacts** built from the corpus.
 
-67. **`IER-paper/IER-paper.md`** — Academic paper form of the IER thesis.
-68. **`IER-book/IER-book.md`** — Book compilation and ordering rules.
-69. **`IER-book/IER-legal.md`** — Legal and IP reference for AI-assisted authorship.
-70. **`IER-book/IER-publishing.md`** — Publication and production procedures.
+67. **`IER-paper/IER-paper.md`** — Academic paper form of the IER thesis
+68. **`IER-book/IER-book.md`** — Book compilation and ordering rules
+69. **`IER-book/IER-legal.md`** — Legal and IP reference
+70. **`IER-book/IER-publishing.md`** — Publication and production procedures
 
 ---
 
 ## **Non-Corpus Material**
 
-Any file not enumerated above is **non-corpus**, regardless of repository location or filename.
+Any file not explicitly enumerated above is **non-corpus**, regardless of repository location or filename.
 
 ---
 
 ## **Closing Statement**
 
-This manifest defines **what counts as IER v10.8.1**.
+This manifest defines **what counts as IER v10.8.2**.
 
-Authority, interpretation, and conflict resolution are governed exclusively by **`IER-canon.md`**.
+* Authority is fixed exclusively by **`IER-canon.md`**
+* Inclusion implies governance
+* Governance does **not** imply reader-facing status
+* Book exhaustiveness applies **only** to **Parts I–III**
 
-Inclusion implies governance.
-Governance does not imply authority.
+> **If a document is not meant to be read by a book reader, it does not belong in the book.**
+
+---

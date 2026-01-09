@@ -1029,32 +1029,7 @@ So the central critical question is:
 
 ---
 
-## 56. README.md
-
-## What This Is
-
-**Informational Experiential Realism (IER)** is a strictly physicalist **identity theory of experience**.
-
-IER holds that:
-
-* There exists **exactly one objective physical reality**, governed by mind-independent law.
-* Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
-* When a UEF exists, **experience exists** — **categorically**, not by degree.
-* Experience is **real by identity**, not an emergent accompaniment, representation, or functional output.
-* **Experiential structure confers no epistemic authority** about mind-independent reality.
-* Ethical significance follows **necessarily** wherever intrinsic constraint is borne from the inside.
-
-IER is **not** a theory of representation, cognition, intelligence, reportability, diagnostics, or phenomenological method.
-
-It is a theory of:
-
-> **what experience is,
-> when it exists,
-> and what necessarily follows from its existence.**
-
----
-
-## 57. IER-history.md
+## 56. IER-history.md
 
 ## **1. Purpose and Scope**
 
@@ -1072,7 +1047,7 @@ This is not a survey of all theories of consciousness, nor a claim of intellectu
 
 ---
 
-## 58. IER-futures.md
+## 57. IER-futures.md
 
 ## **Abstract**
 
@@ -1088,7 +1063,7 @@ The comparison illustrates that **IER constrains moral reality but does not dete
 
 ---
 
-## 59. IER-dont-panic.md
+## 58. IER-dont-panic.md
 
 ## **Why This Document Exists**
 
@@ -1116,7 +1091,7 @@ This document exists to say, clearly and explicitly:
 
 ---
 
-## 60. IER-strictness.md
+## 59. IER-strictness.md
 
 *A Reader-Facing Primer*
 
@@ -1133,7 +1108,7 @@ Its purpose is orientation, not enforcement.
 
 ---
 
-## 61. IER-FAQ.md
+## 60. IER-FAQ.md
 
 ## **Status and Purpose**
 
@@ -1154,7 +1129,7 @@ Where this FAQ discusses morality, it refers **only to experiential moral harm a
 
 ---
 
-## 62. IER-glossary.md
+## 61. IER-glossary.md
 
 ## **Status and Scope**
 
@@ -1173,7 +1148,7 @@ This glossary explains **how terms are used in IER**, not how they are used else
 
 ---
 
-## 63. IER-index.md
+## 62. IER-index.md
 
 ## **Status and Scope**
 
@@ -1194,6 +1169,31 @@ The index:
 **Normative authority is always determined by document tier, not by frequency of mention.**
 
 If a reference here appears inconsistent with a Tier-1 document, the Tier-1 document takes precedence and this index entry is void.
+
+---
+
+## 63. README.md
+
+## What This Is
+
+**Informational Experiential Realism (IER)** is a strictly physicalist **identity theory of experience**.
+
+IER holds that:
+
+* There exists **exactly one objective physical reality**, governed by mind-independent law.
+* Within that reality, some physical systems operate as **Unified Experiential Fields (UEFs)**.
+* When a UEF exists, **experience exists** — **categorically**, not by degree.
+* Experience is **real by identity**, not an emergent accompaniment, representation, or functional output.
+* **Experiential structure confers no epistemic authority** about mind-independent reality.
+* Ethical significance follows **necessarily** wherever intrinsic constraint is borne from the inside.
+
+IER is **not** a theory of representation, cognition, intelligence, reportability, diagnostics, or phenomenological method.
+
+It is a theory of:
+
+> **what experience is,
+> when it exists,
+> and what necessarily follows from its existence.**
 
 ---
 
