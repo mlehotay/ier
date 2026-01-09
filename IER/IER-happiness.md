@@ -211,6 +211,38 @@ It is a **partial, structurally describable configuration**, nothing more.
 
 ---
 
+### **4.4 Why “Contentment + Joy” Still Does Not Define Happiness**
+
+A common inference at this point is that *happiness* can be defined as **contentment combined with joy**.
+
+IER rejects this inference for structural reasons.
+
+While **contentment** (low conflict, low urgency, high buffering capacity) and **joy** (high coherence with expanded future space) are both real and describable experiential regimes, their conjunction does **not** constitute a new experiential kind.
+
+“Happiness” does not name:
+
+* a Unified Experiential Field regime,
+* a stable attractor,
+* a parameter,
+* or a lawfully specifiable combination of regimes.
+
+Instead, *happiness* functions as a **folk compression label** that conflates:
+
+* affective tone (e.g., joy),
+* constraint ease (e.g., contentment),
+* narrative evaluation (“my life is going well”),
+* social validation,
+* and moral or existential aspiration.
+
+Because these components vary independently and admit incompatible configurations, no single experiential structure — and no fixed combination of structures — corresponds to all uses of the term.
+
+That **contentment plus joy often feels like happiness** explains why the inference is tempting.
+It does **not** license a definition.
+
+IER therefore treats “contentment + joy” as a **common mislabeling**, not as a structural identification.
+
+---
+
 ## **5. What Happiness Is *Not* Under IER**
 
 ### **5.1 Happiness Is Not Moral Standing**
