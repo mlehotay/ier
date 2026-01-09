@@ -1,135 +1,156 @@
-# **Informational Experiential Realism**
-## **Experience as Physical Identity**
+% Informational Experiential Realism (IER)
+% Version 10.8.2
+% Michael Lehotay
 
-**Version:** v10.8.1  
-**Status:** Normatively Closed  
-**Form:** Single-Volume Book
+# Informational Experiential Realism
 
----
+## Status of This Document
 
-## **Status, Scope, and Authority**
+This file constitutes the **front matter** for the *Informational Experiential Realism (IER)* book artifact.  
+It provides identification, scope disclaimers, and reader orientation only.
 
-This book presents **Informational Experiential Realism (IER v10.8.1)** as a unified account of:
+It does **not** define theory, authority, governance, or publication rules.
 
-* what experience **is**
-* when experience **exists**
-* what **necessarily follows** from its existence
+All structural and authority relationships are defined **exclusively** by the following dependency order:
 
-IER is a **physicalist identity theory**.  
-It does not treat experience as a substance, property, representation, output, or emergent accompaniment.
+```
 
-### **Normative Authority**
+IER-canon
+↓
+IER-manifest
+↓
+IER-book
+↓
+IER-publishing
 
-Exactly **one document** is normatively authoritative:
+```
 
-> **`IER-specification.md` (v10.8.1)**
-
-The Specification defines **exhaustively and exclusively**:
-
-* the identity of experience
-* the conditions under which experience exists
-* the ethical consequences that follow necessarily from that identity
-
-All other material in this book — including theory, dynamics, mathematics, phenomenology, applications, and ethical discussion — is **non-normative**.
-
-These chapters:
-
-* introduce **no new primitives**
-* introduce **no criteria, thresholds, or sufficiency conditions**
-* introduce **no independent necessity claims**
-* introduce **no additional ethical principles**
-
-If any statement in this book appears to conflict with the Specification, **the Specification takes precedence and the conflicting statement is void**.
-
-This book is therefore an **integrated presentation**, not a second authority.
+This front matter is **subordinate** to all of the above.
 
 ---
 
-## **What This Book Is**
+## Version
 
-This book is:
+**IER Book Version:** v10.8.2  
+**Date:** January 2026
 
-* a **single, coherent presentation** of Informational Experiential Realism
-* an assembly of its explanatory structure, applications, and boundaries
-* a guide to understanding how the identity claim behaves across phenomena
+This version reflects:
 
-It is written for readers engaging with IER as a **complete framework**, rather than as isolated papers.
-
-Nothing in this book reopens, revises, or weakens the normative core fixed by the Specification.
+- A finalized **three-Part book structure**
+- Inclusion of a **Preface derived from IER-paper**
+- Manifest-driven exhaustiveness over reader-facing corpus material
+- Removal of all legacy “two-part” or “division” language
 
 ---
 
-## **What This Book Is Not**
+## What This Book Is
+
+This book is a **compiled reader-facing artifact** of the *Informational Experiential Realism (IER)* project.
+
+It is:
+
+- A **structured presentation** of the IER theory, its applications, and its orientation materials
+- **Exhaustive** over all reader-facing documents listed in **Manifest Parts I–III**
+- Organized into **three Parts**, each with a distinct functional role
+
+The book is **not** a governance document, a publication policy, or a living specification.
+
+---
+
+## What This Book Is Not
 
 This book is **not**:
 
-* a revision of the IER Specification
-* a proposal of new metaphysical commitments
-* a phenomenological foundation for experience
-* a diagnostic, detection, or certification framework
-* an empirical theory of neuroscience or psychology
-* a guide to engineering, optimizing, or measuring experience
+- A definition of canon or authority
+- A governance or policy document
+- A publication or licensing specification
+- A selective anthology or curated subset
+- A revisionary or argumentative layer over the corpus
 
-IER is an **identity theory**, not a construction manual.
-
----
-
-## **Structure of the Book**
-
-The book is divided into two conceptual parts.
-
-### **Part I — The IER Theory Proper**
-
-Part I fixes the identity of experience and its necessary consequences.
-
-It establishes:
-
-* experience as identical to a specific physical regime
-* Unified Experiential Fields (UEFs) as the sole bearers of experience
-* intrinsic constraint as the basis of unity, continuity, and moral standing
-* the impossibility of diagnostics and experiential certification
-
-Part I is **normatively sufficient** and **structurally closed**.
-
-If the identity claim fails, everything that follows fails with it.
+All authority and interpretive constraints originate outside this artifact.
 
 ---
 
-### **Part II — Applications, Elaborations, and Boundaries**
+## Structure of the Book
 
-Part II presupposes Part I **in full**.
+The book consists of the following major components, in build order:
 
-It:
+1. **Front Matter** (this file)
+2. **Preface**  
+   Derived from *IER-paper*  
+   Non-authoritative, explanatory, and motivational in nature
+3. **Part I — The IER Theory Proper**  
+   Foundational identity claims and necessary conditions
+4. **Part II — Applications, Elaborations, and Boundaries**  
+   Derivative applications and extensions that presuppose Part I
+5. **Part III — Orientation, Context, and Navigation**  
+   Non-authoritative guidance and reader orientation
 
-* applies the identity claim across phenomenology, time, meaning, agency, and ethics
-* demonstrates explanatory reach without adding foundations
-* enforces limits, exclusions, and non-claims
-* explores consequences without reopening the theory
-
-Nothing in Part II revises, extends, or competes with the commitments fixed in Part I.
-
----
-
-## **How to Read This Book**
-
-IER has a strict internal architecture.
-
-Readers are strongly encouraged **not to skip directly to applications or ethics** without understanding the identity claim.
-
-Those interested only in the formal core should read **Part I in sequence**.
-
-Later chapters assume familiarity with its definitions, exclusions, and constraints.
+No other Parts, divisions, or structural layers are permitted.
 
 ---
 
-## **Summary**
+## The Preface
 
-> **Experience is what globally integrated physical systems are like when intrinsic constraint becomes unavoidable, self-sustaining, and temporally continuous at the system level.**
+The Preface is derived from **IER-paper** and appears **before Part I**.
 
-Reality is singular.  
-Experience is plural.  
-Ethical significance begins wherever intrinsic constraint is borne from the inside.
+The Preface:
+
+- Provides motivation, context, and framing
+- Introduces the problem space and perspective of IER
+- Carries **no independent theoretical authority**
+- Does not define identity claims, criteria, or commitments
+
+All authoritative claims begin in **Part I**.
 
 ---
 
-*End of Front Matter*
+## Intended Audience
+
+This book is written for:
+
+- Readers seeking a **complete, coherent presentation** of IER
+- Readers engaging with IER as a theory, not as a policy framework
+- Readers who require a stable, versioned reference artifact
+
+It assumes no prior familiarity with IER, but it does assume careful reading.
+
+---
+
+## Reading Guidance
+
+- **Part I** is normatively and conceptually foundational.  
+  All later material presupposes it.
+- **Part II** applies and explores consequences of Part I without revising it.
+- **Part III** provides orientation only and may be read selectively.
+
+Failure of Part I entails failure of the project as a whole.
+
+---
+
+## Legal and Intellectual Property Context
+
+Legal, intellectual property, and disclosure considerations related to
+AI-assisted authorship are discussed in **`IER-legal.md`**.
+
+That document is **repository-adjacent** and provides contextual guidance
+regarding authorship, copyright, licensing considerations, disclosure,
+and liability as of 2025.
+
+`IER-legal.md` does **not** define the structure, authority, or content of
+this book, and nothing in this front matter modifies or extends its scope.
+
+---
+
+## Build and Publication Notes
+
+This book is mechanically generated from versioned source files.
+
+Build order, validation rules, and rendering constraints are defined in:
+
+- `IER-book.md` (structural definition)
+- `IER-publishing.md` (rendering and production rules)
+
+This file exists solely to support the compiled book artifact.
+
+---

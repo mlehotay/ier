@@ -54,10 +54,10 @@ They do not add explanation, interpretation, or emphasis.
 
 ### **Completed**
 
-* [x] `IER-glossary.md`
+* [ ] `IER-glossary.md`
   Canon-constrained definitions; blocks imported meanings.
 
-* [x] `IER-index.md`
+* [ ] `IER-index.md`
   Concept-to-location navigation only; no summaries or reinterpretation.
 
 ### **Remaining**

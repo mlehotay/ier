@@ -1,5 +1,4 @@
 # **Part I — The IER Theory Proper**
-## **Experiential Identity**
 
 This part fixes the **identity of experience** and the **conditions under which it exists**.
 
