@@ -196,3 +196,20 @@ This release completes and seals the IER corpus without modifying any identity c
 Post-closure work is limited to clarification, pedagogy, application, and critique.
 
 ---
+
+## **v10.8.2 — Book Assembly and Publication Tooling (In Progress)**
+
+**Status:** Patch release (in progress)  
+**Character:** Publication assembly, tooling hardening, and reader-facing structure
+
+**No ontological, criterial, epistemic, or ethical commitments changed.**
+
+This release tracks work on the **IER-book/** pipeline, including:
+
+* Exhaustive rendering of the finalized IER corpus
+* Manifest-driven inclusion guarantees
+* Front-matter and structural corrections for readers
+* Tooling to prevent future drift between corpus and book
+* Publication-oriented ordering and validation
+
+Normative authority remains fixed at **v10.8 / v10.8.1**.
