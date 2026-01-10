@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.8.1)**
+# **Informational Experiential Realism (IER v10.8.2)**
 
 **A physicalist identity framework for experience, agency, and moral standing**
 
@@ -175,6 +175,7 @@ For how diverse experiences fit a single identity claim:
 * [`IER-aphantasia.md`](IER-aphantasia.md) — *Architectural diversity within UEFs*
 * [`IER-panic.md`](IER-panic.md) — *Panic and shutdown as regime responses*
 * [`IER-psychosis.md`](IER-psychosis.md) — *Pathological regimes without identity loss*
+* [`IER-spoons.md`](IER-spoons.md) — *Spoon theory as a model of intrinsic constraint capacity*
 * [`IER-art.md`](IER-art.md) — *Art as constraint-shaping structure*
 * [`IER-music.md`](IER-music.md) — *Music as constraint-shaping structure in time*
 
@@ -207,6 +208,7 @@ For meaning **without epistemic authority** and value **without justificatory pr
 * [`IER-resolution.md`](IER-resolution.md) — *Ownership and admissible control*
 * [`IER-agency.md`](IER-agency.md) — *Agency as owned resolution*
 * [`IER-choice.md`](IER-choice.md) — *Choice spaces and admissible futures*
+* [`IER-spoons.md`](IER-spoons.md) — *Agency and choice collapse under intrinsic constraint exhaustion*
 * [`IER-free-will.md`](IER-free-will.md) — *Freedom without indeterminism*
 
 ---
@@ -254,9 +256,10 @@ For what IER **explicitly does not say**:
 
 ## Version
 
-This repository reflects **IER v10.8.1**.
+This repository reflects **IER v10.8.2**.
 
 * **v10.8** — normative closure
 * **v10.8.1** — corpus completion and structural sealing
+* **v10.8.2** — publication assembly, tooling, and reader-facing structure
 
 ---

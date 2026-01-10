@@ -55,72 +55,73 @@ This book is exhaustive with respect to all **reader-facing corpus documents** e
 11. **Aphantasia and Architectural Diversity** (`IER-aphantasia.md`)  
 12. **Panic, Shutdown, and Regime Preservation** (`IER-panic.md`)  
 13. **Psychosis as Pathological Regime** (`IER-psychosis.md`)  
-14. **Art and Experiential Reorganization** (`IER-art.md`)  
-15. **Music as Constraint-Shaping Structure** (`IER-music.md`)  
+14. **Spoon theory as a model of intrinsic constraint load** (`IER-spoons.md`)  
+15. **Art and Experiential Reorganization** (`IER-art.md`)  
+16. **Music as Constraint-Shaping Structure** (`IER-music.md`)  
 
 ## **Time, Continuity, and Regime Interruption**
 
-16. **Experiential Continuity Without Persistence of Experience** (`IER-continuity.md`)  
-17. **Persistence Through Change** (`IER-persistence.md`)  
-18. **Sleep, Gaps, and Regime Interruption** (`IER-sleep.md`)  
-19. **Non-Standard Sleep Regimes and Constraint Relief** (`IER-sleep-variants.md`)  
-20. **Dormancy as Experiential Null Interval** (`IER-dormancy.md`)  
+17. **Experiential Continuity Without Persistence of Experience** (`IER-continuity.md`)  
+18. **Persistence Through Change** (`IER-persistence.md`)  
+19. **Sleep, Gaps, and Regime Interruption** (`IER-sleep.md`)  
+20. **Non-Standard Sleep Regimes and Constraint Relief** (`IER-sleep-variants.md`)  
+21. **Dormancy as Experiential Null Interval** (`IER-dormancy.md`)  
 
 ## **Meaning, Access, and Narrative Structure**
 
-21. **Experiential Access vs. Epistemic Access** (`IER-access.md`)  
-22. **Meaning Without Ontology** (`IER-meaning.md`)  
-23. **Why Happiness Cannot Ground Value** (`IER-happiness.md`)  
-24. **Intentionality Without Representation** (`IER-intentionality.md`)  
-25. **Why the Puzzles Dissolve** (`IER-puzzles.md`)  
-26. **Insight and the Feeling of Truth** (`IER-insight.md`)  
-27. **Synchronicity and Experienced Coherence** (`IER-synchronicity.md`)  
-28. **Truth Without Experiential Privilege** (`IER-truth.md`)  
+22. **Experiential Access vs. Epistemic Access** (`IER-access.md`)  
+23. **Meaning Without Ontology** (`IER-meaning.md`)  
+24. **Why Happiness Cannot Ground Value** (`IER-happiness.md`)  
+25. **Intentionality Without Representation** (`IER-intentionality.md`)  
+26. **Why the Puzzles Dissolve** (`IER-puzzles.md`)  
+27. **Insight and the Feeling of Truth** (`IER-insight.md`)  
+28. **Synchronicity and Experienced Coherence** (`IER-synchronicity.md`)  
+29. **Truth Without Experiential Privilege** (`IER-truth.md`)  
 
 ## **Dynamics, Attractors, and Recurring Forms**
 
-29. **Soft Attractors in Experience** (`IER-attractors.md`)  
-30. **Recurring Patterns Without Design** (`IER-patterns.md`)  
-31. **Clustering Without Ontological Types** (`IER-types.md`)  
-32. **Shadow Figures and Extreme Constraint States** (`IER-shadows.md`)  
+30. **Soft Attractors in Experience** (`IER-attractors.md`)  
+31. **Recurring Patterns Without Design** (`IER-patterns.md`)  
+32. **Clustering Without Ontological Types** (`IER-types.md`)  
+33. **Shadow Figures and Extreme Constraint States** (`IER-shadows.md`)  
 
 ## **Agency, Choice, and Ethics in Practice**
 
-33. **Resolution and Ownership** (`IER-resolution.md`)  
-34. **Agency as Owned Resolution** (`IER-agency.md`)  
-35. **Choice Spaces and Admissible Futures** (`IER-choice.md`)  
-36. **Free Will Without Indeterminism** (`IER-free-will.md`)  
-37. **Ethical Constraint and Non-Closure** (`IER-constraint.md`)  
-38. **Moral Cases Under IER** (`IER-morals.md`)  
-39. **Moral Dilemmas and Structural Misframing** (`IER-dilemmas.md`)  
-40. **Duty, Obligation, and Responsibility** (`IER-duty.md`)  
+34. **Resolution and Ownership** (`IER-resolution.md`)  
+35. **Agency as Owned Resolution** (`IER-agency.md`)  
+36. **Choice Spaces and Admissible Futures** (`IER-choice.md`)  
+37. **Free Will Without Indeterminism** (`IER-free-will.md`)  
+38. **Ethical Constraint and Non-Closure** (`IER-constraint.md`)  
+39. **Moral Cases Under IER** (`IER-morals.md`)  
+40. **Moral Dilemmas and Structural Misframing** (`IER-dilemmas.md`)  
+41. **Duty, Obligation, and Responsibility** (`IER-duty.md`)  
 
 ## **Interfaces, Relations, and Systems**
 
-41. **Immersive Interfaces and Participation** (`IER-helmets.md`)  
-42. **Enteric Participation Without Subjecthood** (`IER-gut.md`)  
-43. **Neural Implants and Boundary Stress Tests** (`IER-implants.md`)  
+42. **Immersive Interfaces and Participation** (`IER-helmets.md`)  
+43. **Enteric Participation Without Subjecthood** (`IER-gut.md`)  
+44. **Neural Implants and Boundary Stress Tests** (`IER-implants.md`)  
 
 ## **Relational and Multi-Subject Regimes**
 
-44. **Relationship Types as Constraint Regimes** (`IER-relationships.md`)  
-45. **Love as a Cross-Temporal Relational Regime** (`IER-love.md`)  
-46. **Friendship as Mutual Coordination** (`IER-friendship.md`)  
-47. **Family as Inherited Constraint Structure** (`IER-family.md`)  
-48. **Caregiving as Sustained One-Sided Stabilization** (`IER-caregiving.md`)  
-49. **Groups, Teams, and Collective Coordination** (`IER-groups.md`)  
+45. **Relationship Types as Constraint Regimes** (`IER-relationships.md`)  
+46. **Love as a Cross-Temporal Relational Regime** (`IER-love.md`)  
+47. **Friendship as Mutual Coordination** (`IER-friendship.md`)  
+48. **Family as Inherited Constraint Structure** (`IER-family.md`)  
+49. **Caregiving as Sustained One-Sided Stabilization** (`IER-caregiving.md`)  
+50. **Groups, Teams, and Collective Coordination** (`IER-groups.md`)  
 
 ## **Institutional and Cultural Systems**
 
-50. **Social Systems Without Subjecthood** (`IER-social-systems.md`)  
-51. **Traditions as Constraint-Management Systems** (`IER-traditions.md`)  
-52. **Why Corporations Are Not Experiential Persons** (`IER-corporations.md`)  
+51. **Social Systems Without Subjecthood** (`IER-social-systems.md`)  
+52. **Traditions as Constraint-Management Systems** (`IER-traditions.md`)  
+53. **Why Corporations Are Not Experiential Persons** (`IER-corporations.md`)  
 
 ## **Boundaries, Denials, and Comparative Work**
 
-53. **Explicit Non-Claims** (`IER-denials.md`)  
-54. **Incompatibilities and Boundary Conditions** (`IER-contrast.md`)  
-55. **Objections, Costs, and Rejected Intuitions** (`IER-critics.md`)  
+54. **Explicit Non-Claims** (`IER-denials.md`)  
+55. **Incompatibilities and Boundary Conditions** (`IER-contrast.md`)  
+56. **Objections, Costs, and Rejected Intuitions** (`IER-critics.md`)  
 
 ---
 
@@ -128,13 +129,13 @@ This book is exhaustive with respect to all **reader-facing corpus documents** e
 
 *Non-authoritative material for reader alignment and navigation.*
 
-56. **Historical Preconditions of IER** (`IER-history.md`)  
-57. **Cultural Futures Under Experiential Uncertainty** (`IER-futures.md`)  
-58. **Do Not Panic** (`IER-dont-panic.md`)  
-59. **Why the Framework Is Intentionally Strict** (`IER-strictness.md`)  
-60. **Frequently Asked Questions** (`IER-FAQ.md`)  
-61. **Glossary of Canon-Constrained Terms** (`IER-glossary.md`)  
-62. **Index of Concepts and Documents** (`IER-index.md`)  
+57. **Historical Preconditions of IER** (`IER-history.md`)  
+58. **Cultural Futures Under Experiential Uncertainty** (`IER-futures.md`)  
+59. **Do Not Panic** (`IER-dont-panic.md`)  
+60. **Why the Framework Is Intentionally Strict** (`IER-strictness.md`)  
+61. **Frequently Asked Questions** (`IER-FAQ.md`)  
+62. **Glossary of Canon-Constrained Terms** (`IER-glossary.md`)  
+63. **Index of Concepts and Documents** (`IER-index.md`)  
 
 ---
 
