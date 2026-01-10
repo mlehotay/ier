@@ -25,6 +25,7 @@ IER-book/     ← Book assembly and publishing
 * **Preface:** [`IER-paper/IER-paper.md`](../IER-paper/IER-paper.md)
 * **Book structure / TOC:** [`IER-book.md`](IER-book.md)
 * **Publishing rules:** [`IER-publishing.md`](IER-publishing.md)
+* **Release plan:** [`IER-deployment.md`](IER-deployment.md)
 
 All conflicts resolve to the canon in `IER/`.
 
@@ -36,12 +37,12 @@ All conflicts resolve to the canon in `IER/`.
 IER-book/
 ├── IER-book.md
 ├── IER-publishing.md
+├── IER-deployment.md
 ├── IER-legal.md
 ├── README.md
 │
 ├── assets/
 │   ├── cover.png
-│   └── background.png
 │
 ├── src/
 │   ├── 00-front-matter.md

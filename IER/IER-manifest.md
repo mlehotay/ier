@@ -205,6 +205,7 @@ These materials are **derived publication artifacts** built from the corpus.
 69. **`IER-book/IER-book.md`** — Book compilation and ordering rules
 70. **`IER-book/IER-legal.md`** — Legal and IP reference
 71. **`IER-book/IER-publishing.md`** — Publication and production procedures
+72. **`IER-book/IER-deployment.md`** — Public release order & priority discipline
 
 ---
 

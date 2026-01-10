@@ -13,6 +13,8 @@ It introduces **no ontological, criterial, epistemic, or ethical claims**.
 
 It governs **how the book is rendered, packaged, and maintained**, not what the theory asserts.
 
+Public release sequencing is governed by `IER-deployment.md`.
+
 ---
 
 ## **Dependency Order (Authoritative)**
