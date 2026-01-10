@@ -14,6 +14,7 @@ It:
 * defends **no particular physical substrate**
 * proposes **no diagnostics, thresholds, or empirical tests**
 * advances **no ethical principles**
+* resolves **no theory-specific disputes**
 
 All ontological, criterial, and ethical authority resides **exclusively** in:
 
@@ -21,9 +22,9 @@ All ontological, criterial, and ethical authority resides **exclusively** in:
 IER-specification.md
 ```
 
-This document explains **why identity theories of consciousness attract the same objections regardless of their internal details**, and clarifies **which explanatory demands are incompatible with identity in principle**.
+This document explains **why identity theories of consciousness reliably attract the same objections regardless of their internal details**, and clarifies **which explanatory demands are structurally incompatible with identity itself**.
 
-For a systematic account of how these pressures apply **specifically to IER**, see:
+For a systematic account of how these pressures apply **specifically to Informational Experiential Realism (IER)**—including which are resisted, which are accepted as costs, and which would collapse the framework—see:
 
 ```
 IER-critics.md
@@ -37,22 +38,23 @@ If any claim here conflicts with the Specification, **the Specification takes pr
 
 Identity theories of consciousness are not evaluated on a neutral playing field.
 
-Before any details are examined, critics reliably expect identity theories to:
+Before any details are examined, such theories are typically expected to:
 
 * explain consciousness *in third-person terms*
 * preserve *phenomenal transparency*
 * support *diagnostic access*
 * deliver *structural mappings on demand*
+* render subjective character intuitively intelligible
 
-When those expectations are not met, identity theories are often judged to have failed—even when the failure follows directly from what identity *is*.
+When these expectations are not met, identity theories are often judged to have failed—even when the failure follows directly from what **identity** is.
 
 The purpose of this document is to make that dynamic explicit.
 
 It explains:
 
 1. **Why identity theories attract predictable objections sight unseen**
-2. **Why many of those objections recur independently of theory-specific details**
-3. **Which explanatory demands identity theories cannot satisfy without abandoning identity**
+2. **Why many of those objections recur independently of theory-specific content**
+3. **Which explanatory demands cannot be satisfied without abandoning identity**
 4. **What counts as success or failure for an identity theory on its own terms**
 
 This document does **not** argue that identity theories are true.
@@ -62,17 +64,13 @@ It clarifies **how they are evaluated and why that evaluation is unusually fraug
 
 ## **Orientation Note**
 
-This document **does not answer** the objections it describes.
+This document deliberately **does not answer** the objections it describes.
 
-It explains **why they arise independently of any specific identity theory**.
+That is not an omission.
 
-For a systematic account of how **IER** responds to each objection family — including:
+Its task is to explain **why these objections arise prior to, and independently of, any particular identity theory**, and why treating their non-satisfaction as decisive already presupposes a rejection of identity as a philosophical posture.
 
-* which pressures would **collapse the framework**
-* which outcomes are **explicitly accepted as costs**
-* and where disagreement reflects **incompatible starting points rather than internal failure**
-
-see:
+Responses to these objections—where possible, where refused, and where costs are accepted—belong in:
 
 ```
 IER-critics.md
@@ -86,11 +84,11 @@ This document takes **no position** on whether the objections ultimately succeed
 
 This document does not defend IER.
 
-It maps the **a priori pressures** placed on any theory that claims:
+It maps the **a priori evaluative pressures** placed on any theory that claims:
 
 > **Experience is identical to a physical state or regime.**
 
-If a reader rejects identity as a philosophical posture, this document will not persuade them.
+If a reader rejects identity as a metaphysical strategy, this document will not persuade them.
 
 If a reader accepts identity in principle, this document clarifies **what that acceptance commits them to—and what it rules out**.
 
@@ -108,23 +106,23 @@ If someone proposes a new identity theory of consciousness today, one can predic
 * mishandling multiple realizability
 * arbitrarily selecting conscious states
 * under-delivering on phenomenal structure
-* leaning on controversial modal claims
+* evading the force of modal arguments
 
 These accusations do **not** depend on the theory’s internal details.
 
 They arise from the **identity strategy itself**.
 
 Identity collapses two descriptions into one referent.
-It does not, by itself, explain *why that referent has the features pre-theoretically associated with experience*.
+It does not, by itself, provide a further explanation of *why that referent has the features pre-theoretically associated with experience*.
 
-In most scientific domains, this explanatory termination is unproblematic.
-In the case of consciousness, it is experienced as a deficit.
+In most scientific domains, this kind of explanatory termination is unproblematic.
+In the case of consciousness, it is persistently experienced as a deficit.
 
 ---
 
 ### **I.2 The seven recurring accusations**
 
-Before any identity theory is read in detail, critics typically expect that:
+Before any identity theory is examined in detail, critics typically expect that:
 
 1. **Identity ≠ explanation**
    “You told me *what* consciousness is, not *why it feels like something*.”
@@ -147,14 +145,14 @@ Before any identity theory is read in detail, critics typically expect that:
 7. **Modal force is deflected rather than answered**
    “The theory denies the evidential force of conceivability.”
 
-Taken individually, none of these constitute a refutation.
+Individually, none of these constitutes a refutation.
 Together, they form a **persistent evaluative backdrop** against which identity theories are judged.
 
 ---
 
-## **II. The Canonical Identity Attack Vectors**
+## **II. Canonical Identity Attack Vectors**
 
-This section describes the **form and motivation** of the standard objections, without applying them to any particular theory.
+This section describes the **form and motivation** of standard objections without applying them to any particular theory.
 
 ---
 
@@ -166,13 +164,13 @@ This section describes the **form and motivation** of the standard objections, w
 
 **Underlying demand**
 
-Critics seek an explanatory ascent:
-a story in which non-experiential elements combine, transform, or give rise to experiential ones.
+Critics seek an explanatory ascent: a story in which non-experiential elements combine, transform, or give rise to experiential ones.
 
 Identity theories characteristically deny that such ascent is available.
 Once X = Y, metaphysical explanation terminates.
 
-The dissatisfaction here is not logical; it reflects a resistance to accepting explanatory termination in the phenomenal case.
+The dissatisfaction here is not logical.
+It reflects resistance to accepting explanatory termination *in the phenomenal case*.
 
 ---
 
@@ -184,7 +182,8 @@ The dissatisfaction here is not logical; it reflects a resistance to accepting e
 
 Identity theories typically reinterpret this gap as epistemic, cognitive, or structural rather than metaphysical.
 
-They do not eliminate the gap; they deny that it indicates ontological incompleteness.
+They do not eliminate the gap.
+They deny that it indicates ontological incompleteness.
 
 Any identity theory that preserves first-person distinctiveness inherits this pressure.
 
@@ -198,7 +197,7 @@ Any identity theory that preserves first-person distinctiveness inherits this pr
 
 These arguments treat conceivability as evidence of metaphysical possibility.
 
-Identity theories characteristically deny this inference, appealing instead to a posteriori necessity or to structural constraints on identity.
+Identity theories characteristically deny this inference, appealing to a posteriori necessity or structural constraints on identity.
 
 This response is widely regarded as counterintuitive but is difficult to avoid within an identity framework.
 
@@ -210,13 +209,13 @@ This response is widely regarded as counterintuitive but is difficult to avoid w
 
 > “If consciousness can occur in different substrates, identity seems too narrow.”
 
-Critics demand a theory that avoids:
+Critics demand avoidance of:
 
 * species chauvinism
 * functional triviality
 * panpsychist inflation
 
-Identity theories often respond by shifting from substrate identity to organizational or dynamical identity, but the pressure itself persists.
+Identity theories often respond by shifting from substrate to organizational or dynamical identity, but the pressure itself persists.
 
 ---
 
@@ -226,13 +225,9 @@ Identity theories often respond by shifting from substrate identity to organizat
 
 > “Why is *this* physical process conscious rather than countless similar ones?”
 
-This objection targets:
+This objection targets arbitrariness, boundary conditions, and minimal criteria.
 
-* arbitrariness
-* boundary conditions
-* minimal consciousness criteria
-
-Identity theories struggle here because local-state identities invite arbitrariness, while system-level identities invite vagueness.
+Identity theories struggle here because local identities invite arbitrariness, while system-level identities invite vagueness.
 
 ---
 
@@ -242,9 +237,9 @@ Identity theories struggle here because local-state identities invite arbitrarin
 
 > “Does the structure of experience mirror the structure of the physical state?”
 
-Critics increasingly demand recoverable mappings for similarity, intensity, unity, and differentiation.
+Increasingly, critics demand recoverable mappings for similarity, intensity, unity, and differentiation.
 
-Identity theories often promise structural correspondence but lack operational accounts that satisfy this demand.
+Identity theories often promise correspondence without providing operational reconstructions that satisfy this demand.
 
 ---
 
@@ -254,7 +249,7 @@ Identity theories often promise structural correspondence but lack operational a
 
 > “Experience seems unified and immediate, but the brain appears fragmented and complex.”
 
-Identity theories typically respond by reinterpreting introspection, demoting its evidential role, or explaining its apparent simplicity.
+Identity theories respond by reinterpreting introspection, demoting its evidential role, or explaining its apparent simplicity.
 
 Each response carries philosophical cost.
 
@@ -271,7 +266,7 @@ The following absences recur across otherwise diverse identity theories and are 
 Explaining why one experience exists rather than many—or none—requires principled individuation.
 
 Identity theories that avoid subject-level primitives face genuine difficulty here.
-This difficulty reflects structural constraints, not oversight.
+This reflects structural constraints, not oversight.
 
 ---
 
@@ -279,16 +274,16 @@ This difficulty reflects structural constraints, not oversight.
 
 Identity theories are well-suited to **existence claims** (“experience is physical”) but less suited to **character claims** (“why red feels red”).
 
-This asymmetry follows from the rejection of phenomenal primitives rather than from negligence.
+This asymmetry follows from rejection of phenomenal primitives, not from negligence.
 
 ---
 
 ### **III.3 No automatic bridge from neuroscience to phenomenology**
 
-Asserting identity does not automatically generate:
+Asserting identity does not generate:
 
-* reconstruction procedures
 * translation manuals
+* reconstruction procedures
 * diagnostic pipelines
 
 Expecting such bridges conflates metaphysical identity with methodological access.
@@ -299,11 +294,11 @@ Expecting such bridges conflates metaphysical identity with methodological acces
 
 Compared to dualism, panpsychism, or functionalism, identity theories lack immediate intuitive appeal.
 
-They rely instead on ontological economy, scientific realism, and anti-intuitionism—strengths that often function as rhetorical liabilities.
+They rely on ontological economy, scientific realism, and anti-intuitionism—strengths that often function as rhetorical liabilities.
 
 ---
 
-## **IV. What an Identity Theory Must Do to Be Taken Seriously Today**
+## **IV. What an Identity Theory Must Do to Be Taken Seriously**
 
 This section identifies constraints commonly treated as non-negotiable.
 
@@ -336,7 +331,35 @@ They are also frequently **incompatible with identity itself**, rather than mere
 
 ---
 
-## **V. Conclusion: Identity Under Permanent Suspicion**
+## **V. What This Document Does—and Does Not—Settle**
+
+This document does **not** claim that the objections surveyed here fail.
+
+It claims something prior and narrower:
+
+* that these objections arise **before** theory-specific evaluation
+* that many of them are **not neutral**
+* that some express demands **identity theories cannot satisfy in principle**
+* and that treating their non-satisfaction as decisive already presupposes rejection of identity
+
+If a theory fails to meet demands that are structurally incompatible with its identity claim, that failure is not internal to the theory.
+It reflects disagreement about **what counts as explanation at all**.
+
+Whether a given identity theory should resist, reinterpret, or accept these demands as costs is a **theory-internal matter**.
+
+For Informational Experiential Realism, those decisions are made explicitly in:
+
+```
+IER-critics.md
+```
+
+Disagreement at that stage is substantive and legitimate.
+
+Disagreement at this stage concerns **the kind of explanation one is willing to accept**, not the adequacy of any particular theory.
+
+---
+
+## **VI. Conclusion: Identity Under Permanent Suspicion**
 
 Identity theories of consciousness are not rejected solely because they are incoherent.
 
@@ -345,6 +368,6 @@ They are rejected because they refuse to satisfy certain explanatory expectation
 This document has not defended that refusal.
 It has made it visible.
 
-Whether identity theories are justified in denying those demands is a further philosophical question—one that can only be addressed after the identity posture itself is clearly understood.
+Whether identity theories are justified in denying those demands is a further philosophical question—one that can only be addressed once the identity posture itself is clearly understood.
 
 ---
