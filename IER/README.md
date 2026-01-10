@@ -248,6 +248,7 @@ For meaning **without epistemic authority** and value **without justificatory pr
 
 For what IER **explicitly does not say**:
 
+* [`IER-a-priori.md`](IER-a-priori.md) — *Predictable objections to identity theories*
 * [`IER-denials.md`](IER-denials.md) — *Explicit non-claims*
 * [`IER-contrast.md`](IER-contrast.md) — *Structural incompatibilities*
 * [`IER-critics.md`](IER-critics.md) — *Objections and accepted costs*

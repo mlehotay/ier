@@ -996,7 +996,36 @@ The argument is **ontological and structural**, not empirical. It does not depen
 
 ---
 
-## 54. IER-denials.md
+## 54. IER-a-priori.md
+
+## **Purpose**
+
+Identity theories of consciousness are not evaluated on a neutral playing field.
+
+Before any details are examined, critics reliably expect identity theories to:
+
+* explain consciousness *in third-person terms*
+* preserve *phenomenal transparency*
+* support *diagnostic access*
+* deliver *structural mappings on demand*
+
+When those expectations are not met, identity theories are often judged to have failed—even when the failure follows directly from what identity *is*.
+
+The purpose of this document is to make that dynamic explicit.
+
+It explains:
+
+1. **Why identity theories attract predictable objections sight unseen**
+2. **Why many of those objections recur independently of theory-specific details**
+3. **Which explanatory demands identity theories cannot satisfy without abandoning identity**
+4. **What counts as success or failure for an identity theory on its own terms**
+
+This document does **not** argue that identity theories are true.
+It clarifies **how they are evaluated and why that evaluation is unusually fraught**.
+
+---
+
+## 55. IER-denials.md
 
 ## **Why a Denials Document Is Necessary**
 
@@ -1013,7 +1042,7 @@ What follows is a representative, high-coverage list of **explicit non-claims**.
 
 ---
 
-## 55. IER-contrast.md
+## 56. IER-contrast.md
 
 Informational Experiential Realism (IER v10.8) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
 
@@ -1021,11 +1050,11 @@ This identity claim entails commitments that sharply distinguish IER from many n
 
 ---
 
-## 56. IER-critics.md
+## 57. IER-critics.md
 
 ## **Purpose**
 
-This document does not try to win disputes by intuition, rhetorical reframing, or definitional maneuver.
+This document does not attempt to win disputes by intuition, rhetoric, or definitional maneuver.
 
 Its purpose is narrower:
 
@@ -1035,13 +1064,13 @@ IER is a **constrained identity theory**:
 
 > **Experience is identical to a physical system operating as a Unified Experiential Field (UEF).**
 
-So the central critical question is:
+The central critical question is therefore:
 
-> **Does the identity claim succeed without collapsing into what it rejects or relying on what it denies?**
+> **Does this identity claim succeed without collapsing into what it rejects or relying on what it denies?**
 
 ---
 
-## 57. IER-history.md
+## 58. IER-history.md
 
 ## **1. Purpose and Scope**
 
@@ -1059,7 +1088,7 @@ This is not a survey of all theories of consciousness, nor a claim of intellectu
 
 ---
 
-## 58. IER-futures.md
+## 59. IER-futures.md
 
 ## **Abstract**
 
@@ -1075,7 +1104,7 @@ The comparison illustrates that **IER constrains moral reality but does not dete
 
 ---
 
-## 59. IER-dont-panic.md
+## 60. IER-dont-panic.md
 
 ## **Why This Document Exists**
 
@@ -1103,7 +1132,7 @@ This document exists to say, clearly and explicitly:
 
 ---
 
-## 60. IER-strictness.md
+## 61. IER-strictness.md
 
 *A Reader-Facing Primer*
 
@@ -1120,7 +1149,7 @@ Its purpose is orientation, not enforcement.
 
 ---
 
-## 61. IER-FAQ.md
+## 62. IER-FAQ.md
 
 ## **Status and Purpose**
 
@@ -1141,7 +1170,7 @@ Where this FAQ discusses morality, it refers **only to experiential moral harm a
 
 ---
 
-## 62. IER-glossary.md
+## 63. IER-glossary.md
 
 ## **Status and Scope**
 
@@ -1160,7 +1189,7 @@ This glossary explains **how terms are used in IER**, not how they are used else
 
 ---
 
-## 63. IER-index.md
+## 64. IER-index.md
 
 ## **Status and Scope**
 
@@ -1184,7 +1213,7 @@ If a reference here appears inconsistent with a Tier-1 document, the Tier-1 docu
 
 ---
 
-## 64. README.md
+## 65. README.md
 
 ## What This Is
 
@@ -1209,7 +1238,7 @@ It is a theory of:
 
 ---
 
-## 65. IER-canon.md
+## 66. IER-canon.md
 
 ## **Status and Purpose**
 
@@ -1223,7 +1252,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 ---
 
-## 66. IER-manifest.md
+## 67. IER-manifest.md
 
 ## **Status and Authority**
 
@@ -1247,7 +1276,7 @@ This manifest is **descriptive and organizational**, not normative.
 
 ---
 
-## 67. IER-changelog.md
+## 68. IER-changelog.md
 
 ## **Informational Experiential Realism — Version History**
 

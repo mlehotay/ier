@@ -159,9 +159,10 @@ Characteristics:
 
 ### **Boundaries, Denials, and Comparative Work**
 
-54. **[T2] `IER-denials.md`** — Explicit non-claims
-55. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
-56. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
+54. **[T2] `IER-a-priori.md`** — Predictable objections to identity theories
+55. **[T2] `IER-denials.md`** — Explicit non-claims
+56. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
+57. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
 
 ---
 
@@ -174,13 +175,13 @@ These documents are:
 * **non-governing**
 * rendered as **Book Part III**
 
-57. **[T4] `IER-history.md`** — Historical preconditions and dependencies
-58. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
-59. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification
-60. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict
-61. **[T4] `IER-FAQ.md`** — Reader-facing clarifications
-62. **[T4] `IER-glossary.md`** — Canon-constrained terminology
-63. **[T4] `IER-index.md`** — Concept-to-document navigation
+58. **[T4] `IER-history.md`** — Historical preconditions and dependencies
+59. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
+60. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification
+61. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict
+62. **[T4] `IER-FAQ.md`** — Reader-facing clarifications
+63. **[T4] `IER-glossary.md`** — Canon-constrained terminology
+64. **[T4] `IER-index.md`** — Concept-to-document navigation
 
 > **These seven documents constitute the complete reader-facing orientation layer of IER and correspond exactly to Book Part III.**
 
@@ -190,10 +191,10 @@ These documents are:
 
 These documents are **in-corpus** but **not book chapters**.
 
-64. **[T4] `README.md`** — Repository front-door orientation
-65. **[T4] `IER-canon.md`** — Canonical authority and governance rules
-66. **[T4] `IER-manifest.md`** — Corpus inventory and flat ordering
-67. **[T4] `IER-changelog.md`** — Version history and structural changes
+65. **[T4] `README.md`** — Repository front-door orientation
+66. **[T4] `IER-canon.md`** — Canonical authority and governance rules
+67. **[T4] `IER-manifest.md`** — Corpus inventory and flat ordering
+68. **[T4] `IER-changelog.md`** — Version history and structural changes
 
 ---
 
@@ -201,11 +202,11 @@ These documents are **in-corpus** but **not book chapters**.
 
 These materials are **derived publication artifacts** built from the corpus.
 
-68. **`IER-paper/IER-paper.md`** — Academic paper form of the IER thesis
-69. **`IER-book/IER-book.md`** — Book compilation and ordering rules
-70. **`IER-book/IER-legal.md`** — Legal and IP reference
-71. **`IER-book/IER-publishing.md`** — Publication and production procedures
-72. **`IER-book/IER-deployment.md`** — Public release order & priority discipline
+69. **`IER-paper/IER-paper.md`** — Academic paper form of the IER thesis
+70. **`IER-book/IER-book.md`** — Book compilation and ordering rules
+71. **`IER-book/IER-legal.md`** — Legal and IP reference
+72. **`IER-book/IER-publishing.md`** — Publication and production procedures
+73. **`IER-book/IER-deployment.md`** — Public release order & priority discipline
 
 ---
 

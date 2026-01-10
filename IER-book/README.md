@@ -42,7 +42,7 @@ IER-book/
 ├── README.md
 │
 ├── assets/
-│   ├── cover.png
+│   └── cover.png
 │
 ├── src/
 │   ├── 00-front-matter.md
