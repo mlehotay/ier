@@ -353,9 +353,9 @@ Multiple UEFs may coordinate, synchronize, or couple.
 
 But:
 
-* coordination ≠ shared intrinsic constraint
-* synchronization ≠ shared attractor
-* coupling ≠ collective subject
+* $\text{coordination} \neq \text{shared intrinsic constraint}$
+* $\text{synchronization} \neq \text{shared attractor}$
+* $\text{coupling} \neq \text{collective subject}$
 
 IER rejects group minds and collective experiential fields.
 

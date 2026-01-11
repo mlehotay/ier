@@ -42,14 +42,15 @@ Informational language is used strictly as shorthand for **physically instantiat
 
 Let a physical system be associated with a set of physically possible **global configurations**:
 
-* **State set:** `S`
+* **State set:** $S$
 
 Physical law constrains which configurations may succeed which others:
 
-* **Transition relation:** `T ⊆ S × S`
-  `(a, b) ∈ T` means the system can physically transition from configuration `a` to configuration `b`.
+* **Transition relation:** $T \subseteq S \times S$
 
-This pair `(S, T)` induces a directed graph whose nodes are configurations and whose edges are physically admissible transitions.
+An ordered pair $(a,b) \in T$ means the system can physically transition from configuration $a$ to configuration $b$.
+
+The pair $(S,T)$ induces a directed graph whose nodes are configurations and whose edges are physically admissible transitions.
 
 No probabilities, representations, or observers are assumed.
 
@@ -61,7 +62,7 @@ IER distinguishes **orders of information** by the kind of structure specified. 
 
 ### **2.1 Configuration**
 
-At the configuration order, only the elements of `S` are specified.
+At the configuration order, only the elements of $S$ are specified.
 
 * Configurations describe what is physically instantiated.
 * No change, coordination, or constraint is implied.
@@ -72,7 +73,7 @@ Configuration alone is never sufficient for experience.
 
 ### **2.2 Flow**
 
-At the flow order, the transition relation `T` is added.
+At the flow order, the transition relation $T$ is added.
 
 * Flow specifies which configurations may succeed which others.
 * The induced directed graph encodes physically admissible evolution.
@@ -87,9 +88,9 @@ At the constraint order, admissible transitions are restricted.
 
 A **constraint regime** is a subset:
 
-* `R ⊆ T`
+* $R \subseteq T$
 
-Interpreted as: only transitions in `R` are admissible under that regime.
+Interpreted as: only transitions in $R$ are admissible under that regime.
 
 Constraint structure describes global restrictions on evolution. It does not, by itself, constitute experience.
 
@@ -109,7 +110,7 @@ IER identifies experience only at this order.
 
 ## **3. Regimes and Global Intrinsic Constraint**
 
-A constraint regime `R` induces a restricted transition graph on `S`.
+A constraint regime $R$ induces a restricted transition graph on $S$.
 
 A regime satisfies **global intrinsic constraint** when:
 
@@ -155,9 +156,11 @@ Changes in descriptive order do not create or destroy constraint regimes and the
 
 ## **6. Choice Spaces**
 
-Given a regime `R` and a configuration `s ∈ S`, the **choice space** at `s` is defined as:
+Given a regime $R$ and a configuration $s \in S$, the **choice space** at $s$ is defined as:
 
-* `Choice(s, R) = { s' ∈ S : (s, s') ∈ R }`
+[
+\text{Choice}(s,R) = {, s' \in S \mid (s,s') \in R ,}
+]
 
 A choice space is the set of physically admissible successor configurations under the regime.
 
@@ -169,11 +172,11 @@ The size or structure of a choice space is independent of whether a coherent reg
 
 ## **7. Graph Operations**
 
-The following operations are defined on the directed graph induced by `(S, T)` and its regime-restricted subgraphs.
+The following operations are defined on the directed graph induced by $(S,T)$ and its regime-restricted subgraphs.
 
 ### **7.1 Restriction**
 
-Removing edges from `T` to form a regime `R ⊆ T`.
+Removing edges from $T$ to form a regime $R \subseteq T$.
 
 Restriction represents additional constraint. Restriction alone does not imply coherence.
 
@@ -215,10 +218,10 @@ Coupling is the structural operation that yields global intrinsic constraint.
 
 ## **8. Coherence Windows**
 
-A **coherence window** is a subset `W ⊆ S` such that:
+A **coherence window** is a subset $W \subseteq S$ such that:
 
-* within `W`, the same coherent regime remains satisfied
-* outside `W`, coherence fails or a different regime applies
+* within $W$, the same coherent regime remains satisfied
+* outside $W$, coherence fails or a different regime applies
 
 Coherence windows describe **regime stability conditions**.
 

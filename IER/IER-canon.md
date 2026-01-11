@@ -232,13 +232,35 @@ Patch changes **must not** add, remove, or weaken commitments.
 
 ---
 
-## **Deterministic Typesetting Rule (Binding):**
+Here is a **maximally condensed**, still **normative and unambiguous**, version of the Typography section. This is about as short as it can get without losing enforceability.
 
-Canonical corpus documents must not use Unicode dingbats or Unicode mathematical/logical operators as semantic content (e.g., `✔`, `❌`, `⇒`, `≠`, `¬`, `→`, `∴`, etc.).
+---
 
-**Required:** use LaTeX math commands and/or IER-defined macros (e.g., `\Rightarrow`, `\neq`, `\neg`, or `\IERimplies`, `\IERneq`, `\IERnot`).
+## **Typography and Notation**
 
-Violations are **canonical errors** because they introduce build instability across TeX installations and font stacks.
+IER uses typography to mark **ontological and formal distinctions**.
+
+* **Math mode (`$...$`)** is used only for formal structure:
+  variables (`$a$`), sets (`$S$`), relations (`$T \subseteq S \times S$`), operators (`$\neq$, $\Rightarrow$, $\Delta$`), and tuples (`$(S,T)$`).
+  Sentence punctuation appears **outside** math mode.
+
+* **Conceptual terms inside math** must be wrapped in `\text{...}`:
+
+  ```latex
+  $\text{participation} \neq \text{subjecthood}$
+  ```
+
+* **Do not** use `\text{}` for genuine variables or symbols.
+
+* **Unicode math glyphs are forbidden.** Use LaTeX operators (`\neq`, `\Rightarrow`, `\subseteq`, `\in`, `\equiv`, `\Delta`).
+
+* **Negation** uses `\neg` in math mode.
+
+* **Backticks** name files or identifiers only; never mathematics.
+
+* **Capitalization** reflects defined constructs, not emphasis.
+
+These rules are **project-canonical** and apply to all IER documents.
 
 ---
 

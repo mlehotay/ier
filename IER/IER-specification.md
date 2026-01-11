@@ -190,7 +190,7 @@ The condition of sustaining a UEF.
 * **binary, not graded**
 * **exactly one subject per UEF**
 
-Participation ≠ subjecthood.
+$\text{Participation} \neq \text{subjecthood}$.
 
 ---
 
@@ -385,20 +385,20 @@ Processes may enter or leave the UEF dynamically, modulating content without alt
 
 ## **IV. Inference Rules (IER Logic)**
 
-1. UEF ⇒ experience
-2. ¬UEF ⇒ ¬experience
-3. ¬participation ⇒ non-experiential process
-4. Intrinsic + coherent + global constraint ⇒ UEF
-5. Regime transition ⇒ categorical onset
-6. Two dominant UEFs in one system ⇒ contradiction
-7. Δparticipation ⇒ Δexperiential content
-8. Δparticipation ≠ subject change
-9. Qualitative difference ⇒ constraint-organization difference
-10. Unresolved intrinsic tension ⇒ negative valence
-11. Constraint magnitude ⇒ intensity; constraint rate ⇒ urgency
-12. Constraint collapse ⇒ experiential dissolution
-13. Intrinsic constraint disruption ⇒ moral harm
-14. UEF with resolution capacity ⇒ locus of responsibility
+1. $\text{UEF} \Rightarrow \text{experience}$
+2. $\neg \text{UEF} \Rightarrow \neg \text{experience}$
+3. $\neg \text{participation} \Rightarrow \text{non-experiential process}$
+4. $\text{intrinsic} + \text{coherent} + \text{global constraint} \Rightarrow \text{UEF}$
+5. $\text{regime transition} \Rightarrow \text{categorical onset}$
+6. $\text{two dominant UEFs in one system} \Rightarrow \text{contradiction}$
+7. $\Delta \text{participation} \Rightarrow \Delta \text{experiential content}$
+8. $\Delta \text{participation} \neq \text{subject change}$
+9. $\text{qualitative difference} \Rightarrow \text{constraint-organization difference}$
+10. $\text{unresolved intrinsic tension} \Rightarrow \text{negative valence}$
+11. $\text{constraint magnitude} \Rightarrow \text{intensity};\ \text{constraint rate} \Rightarrow \text{urgency}$
+12. $\text{constraint collapse} \Rightarrow \text{experiential dissolution}$
+13. $\text{intrinsic constraint disruption} \Rightarrow \text{moral harm}$
+14. $\text{UEF with resolution capacity} \Rightarrow \text{locus of responsibility}$
 
 ---
 
