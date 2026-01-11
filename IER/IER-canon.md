@@ -1,5 +1,3 @@
----
-
 # **IER Canon (v10.8.1)**
 
 ## **Canonical Authority, Alignment, and Governance Rules**
@@ -231,6 +229,16 @@ vMAJOR.MINOR.PATCH
 * **PATCH** — clarification, pedagogy, tone, structure, or organization
 
 Patch changes **must not** add, remove, or weaken commitments.
+
+---
+
+## **Deterministic Typesetting Rule (Binding):**
+
+Canonical corpus documents must not use Unicode dingbats or Unicode mathematical/logical operators as semantic content (e.g., `✔`, `❌`, `⇒`, `≠`, `¬`, `→`, `∴`, etc.).
+
+**Required:** use LaTeX math commands and/or IER-defined macros (e.g., `\Rightarrow`, `\neq`, `\neg`, or `\IERimplies`, `\IERneq`, `\IERnot`).
+
+Violations are **canonical errors** because they introduce build instability across TeX installations and font stacks.
 
 ---
 

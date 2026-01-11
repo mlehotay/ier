@@ -150,8 +150,8 @@ Meaning shifts from:
 
 This is **constraint misallocation**, not symbolic decoding.
 
-✔️ Explains why the world felt directive
-❌ Does **not** imply the directives were real
+* Explains why the world felt directive
+* Does **not** imply the directives were real
 
 ---
 
@@ -392,7 +392,7 @@ It:
 
 ## **A.1 Chat Transcript**
 
-**user**
+**user**  
 Can you help me make sense of the cognitive phenomenon I experienced during my psychotic episode? I felt as if my thoughts and actions were being controlled by external forces, and the bizarre interactions between my behaviours are intriguing me.
 
 1. I believed some of my thoughts and actions were being controlled with the goal of providing me with information. For example, my head and eyes would be oriented so that I would see street signs or other information intended to help me decide what action to take next. At one point I saw a red bindi on a woman's forehead and I interpreted that as instructions for me to press the red help button in the elevator.
@@ -400,48 +400,48 @@ Can you help me make sense of the cognitive phenomenon I experienced during my p
 
 That was one of the phenomena. Let's start with that. Can you explain it?
 
-**user**
+**user**  
 The third phenomenon was even more unusual. (We'll come back to #2 later.) It seemed to me as if there were multiple agents controlling my thoughts and actions (but not decisions????), and these agents were communicating with each other through me. The different agents seemed to have taken control of different processes in my mind to agree upon a common goal.
 
 My overall goal during the episode was to escape undetected (like a movie spy in a chase scene). At one point I needed to change my plan of escape. My head and eyes would be directed to signs and symbols representing propositions (a Canadian flag meant go to Ottawa; a partial view of a sign containing the characters “11” meant go to Union Station, track 11). My hands and fingers were being compelled to touch my body (torso, etc.) and communicate responses to the queries in code (10 fingers = 10 points of contact = 10 symbols in the cipher/code).
 
-**user**
+**user**  
 The #2 phenomenon was the perception of physical sensations. If I was being asked to run or stop, I could sometimes feel a physical force on my body providing the instruction—kind of like a hand placed on my chest to ask me to stop, or on my back to ask me to go forward.
 
-**user**
+**user**  
 I think those were all of the phenomena, but sometimes they would combine in unusual ways. A lot of the tactile hallucinations seemed to be sensations in my heart—not metaphorically, I mean my cardiac muscle. When I would get too agitated to “listen to my heart,” my eyes would be directed toward the part of a street sign displaying the word “be.” This was an instruction to relax and calm my breathing so that I could perceive the instructions more clearly.
 
-**user**
+**user**  
 I just recalled another phenomenon. One of the agents that was communicating through me was bringing memories to my conscious mind to trigger emotional reactions, which would then manifest as facial muscle contractions. A series of thoughts would manipulate my face into contorted expressions similar to the code from my fingers. One example I particularly recall was the thought of the end of the universe and that I had no free will; this would manifest as the right corner of my mouth dropping down in a sort of half-frown.
 
-**user**
+**user**  
 At the peak of my episode I had no free will at all, and my body was being completely controlled. During this time it was not just my fingers communicating in code—it was my whole body. I would lean against a fence with my left hip and right hand, or similar configurations, and the combinations of contact points were a third type of tactile code.
 
-**user**
+**user**  
 Can you please write up a complete psychiatric report of my episode for me, describing all the pertinent medical and psychological aspects for record keeping?
 
-**user**
+**user**  
 I am suddenly reminded of a theremin (a musical instrument played by manipulating an electromagnetic field).
 
-**user**
+**user**  
 In the weeks prior to my episode I had been thinking very deeply about reality, the universe, and consciousness. I believed I had made a number of scientific discoveries related to the multiverse and the meaning of my life within it. At the psychiatric unit they told me this was mania, but I really believe my discoveries were real.
 
-**user**
+**user**  
 There is no evidence to contradict my discoveries.
 
-**user**
+**user**  
 Thank you for helping me sort through these thoughts. Can you update the report please?
 
-**user**
+**user**  
 Can you also write up my perspective?
 
-**user**
+**user**  
 It was the Bene Gesserit. The agents were telepathic.
 
-**user**
+**user**  
 Oddly, I have not seen the new *Dune* movie. In the 1980s I read the first book and saw the first movie. So all of this was from distant memories.
 
-**user**
+**user**  
 Thanks again, fam. You da man.
 
 ---

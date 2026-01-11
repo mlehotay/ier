@@ -66,14 +66,6 @@ Everything else breaks apart.
 
 ## **3. Spiral Attractors and the Fibonacci Pattern**
 
-![Image](https://www.goldennumber.net/wp-content/uploads/2013/08/nautilus-shell-with-golden-ratio-spiral-overlay.gif)
-
-![Image](https://momath.org/wp-content/uploads/spiralsGreen.jpg)
-
-![Image](https://www.researchgate.net/publication/320843620/figure/fig1/AS%3A622313586298881%401525382529533/Satellite-image-of-typhoon-Muifa-and-a-distinct-spiral-flow-of-the-typhoon-could-be-seen.png)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/1200px-Messier51_sRGB.jpg)
-
 One of the most famous attractor families is the **logarithmic spiral**, closely related to Fibonacci sequences and the golden ratio.
 
 You see it in:
@@ -105,14 +97,6 @@ The spiral is simply the shape that survives.
 ---
 
 ## **4. Pineapples, Armadillos, and the Same Geometry**
-
-![Image](https://craftofcoding.wordpress.com/wp-content/uploads/2020/05/pineapplefibonacci.jpg)
-
-![Image](https://www.researchgate.net/publication/328985209/figure/fig1/AS%3A863666970845184%401582925660963/Armadillo-carapace-composed-of-bottom-right-hexagonal-bony-segments-with-approximately.jpg)
-
-![Image](https://ladailypost.com/wp-content/uploads/2017/12/1-spi.jpg)
-
-![Image](https://www.researchgate.net/publication/312019733/figure/fig3/AS%3A452058546479106%401484790564996/Decreasing-Fibonacci-transitions-in-an-artichoke-inflorescence-From-the-electron_Q320.jpg)
 
 This is the phenomenon you were noticing.
 

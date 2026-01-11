@@ -136,14 +136,6 @@ The attractor persists because **leaving it is costly**.
 
 ### **4.1 Emotional Attractors**
 
-![Image](https://leadskill.com/wp-content/uploads/2021/08/Emotions-Wheel-v4-128-sq.png)
-
-![Image](https://psu.pb.unizin.org/app/uploads/sites/251/2021/02/Screen-Shot-2021-02-16-at-11.01.18-AM.png)
-
-![Image](https://i.pinimg.com/736x/57/33/6f/57336fa7012d8306a0b85835aaa12c7d.jpg)
-
-![Image](https://inspiresomatics.com/wp-content/uploads/2019/09/The-posture-of-depression-768x706-300x276.jpg)
-
 Emotions often recur in recognizable forms.
 
 Under IER, emotions are not signals or judgments. They are **constraint organizations**.
@@ -166,12 +158,6 @@ They are attractors because **other organizations fail under the same pressures*
 ---
 
 ### **4.2 Narrative Attractors**
-
-![Image](https://cdn.storyboardthat.com/site-images/articles/plot-diagram.png)
-
-![Image](https://www.imagineforest.com/blog/wp-content/uploads/2022/12/The-heros-journey-cycle-stages.png)
-
-![Image](https://assets-us-01.kc-usercontent.com/c6e42f10-0ed4-0062-585c-b740aa1ad46c/315e442d-8d7b-4e15-b854-e0c6a14b8b76/conflict-resolution-diagram.png)
 
 Narratives recur because they are **constraint-managing trajectories**.
 
@@ -218,14 +204,6 @@ It is an **attractor basin**.
 ---
 
 ### **4.4 Aesthetic and Symbolic Attractors**
-
-![Image](https://www.archerandolive.com/cdn/shop/articles/Photos-4.jpg?v=1682200193)
-
-![Image](https://www.artandobject.com/sites/default/files/styles/slideshow_image/public/katsushika-hokusai-under-wave-kanagawa-also-known-great-wave-series-thirty-six-views-mount-fuji-1831.jpg?itok=zgTyeYvY)
-
-![Image](https://uploads1.wikiart.org/images/victor-pasmore/spiral-motif-in-white-black-and-indigo-1951.jpg)
-
-![Image](https://i.pinimg.com/736x/c2/35/d5/c235d58a8a191b8c152ace472955e1d6.jpg)
 
 Certain forms feel meaningful or beautiful across cultures.
 

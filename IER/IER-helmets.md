@@ -128,12 +128,6 @@ Helmets do not.
 
 ## **6. Case Analysis: Darth Vader**
 
-![Image](https://dxsabers.com/cdn/shop/files/71IXKrSwSlL._AC_SX679.jpg?v=1712001664\&width=1445)
-
-![Image](https://fbi.cults3d.com/uploaders/24827967/illustration-file/4a01b822-d0db-4ad6-ad51-9412220b9a60/74f659e3-7e1d-4075-b35b-2cd072786ef9.jpg)
-
-![Image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/45c1bd51-a27b-4cf3-a33b-77f182d852b7/d8m25zf-0881eb98-6acb-4478-8bbe-48217d3c1934.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80NWMxYmQ1MS1hMjdiLTRjZjMtYTMzYi03N2YxODJkODUyYjcvZDhtMjV6Zi0wODgxZWI5OC02YWNiLTQ0NzgtOGJiZS00ODIxN2QzYzE5MzQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4kYpAkwTP89it_X5xCnKIj-GQY4qSLpVjHHpRtkNLi0)
-
 Vader’s helmet is maximally invasive:
 
 * it mediates essentially all sensory input
@@ -151,12 +145,6 @@ The helmet functions as an **environmental regulator**, not a co-experiencer.
 ---
 
 ## **7. Case Analysis: Iron Man**
-
-![Image](https://scifiinterfaces.com/wp-content/uploads/2015/06/ironman_hud01.png)
-
-![Image](https://media2.firstshowing.net/firstshowing/img7/ironman3-huddisplay-tsr.jpg)
-
-![Image](https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/02/iron-man-hud-display.jpg)
 
 Iron Man’s helmet intensifies the temptation toward inclusion:
 
@@ -177,12 +165,6 @@ Indispensability does not collapse the boundary.
 ---
 
 ## **8. Sensory Isolation Helmets and Constraint Geometry**
-
-![Image](https://images.squarespace-cdn.com/content/v1/53115ccfe4b019c52e312bdb/1502078162393-RE8QO5V9X0YPDEQGU4SZ/image-asset.jpeg)
-
-![Image](https://upload.wikimedia.org/wikipedia/en/f/f7/The_Isolator_helmet.jpg)
-
-![Image](https://cdn.thisiswhyimbroke.com/thumb/the-personal-space-isolation-helmet_400x333.jpg)
 
 Helmets that *remove* input often **intensify** experience:
 
