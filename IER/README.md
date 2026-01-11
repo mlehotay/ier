@@ -146,6 +146,8 @@ For standing, harm, precaution, and non-diagnosability:
 Related boundary work:
 
 * [`IER-duty.md`](IER-duty.md) — *Duty, obligation, and responsibility under IER*
+* [`IER-pain.md`](IER-pain.md) — *Why pain does not define harm*
+* [`IER-pleasure.md`](IER-pleasure.md) — *Why pleasure does not justify*
 * [`IER-social-systems.md`](IER-social-systems.md) — *Institutions without experience*
 * [`IER-corporations.md`](IER-corporations.md) — *Why corporations cannot be persons*
 * [`IER-futures.md`](IER-futures.md) — *Cultural equilibria under uncertainty*
@@ -178,6 +180,9 @@ For how diverse experiences fit a single identity claim:
 * [`IER-spoons.md`](IER-spoons.md) — *Spoon theory as a model of intrinsic constraint capacity*
 * [`IER-art.md`](IER-art.md) — *Art as constraint-shaping structure*
 * [`IER-music.md`](IER-music.md) — *Music as constraint-shaping structure in time*
+* [`IER-pleasure.md`](IER-pleasure.md) — *Pleasure as coherent intrinsic constraint*
+* [`IER-pain.md`](IER-pain.md) — *Pain as escalating intrinsic constraint*
+* [`IER-humour.md`](IER-humour.md) — *Humour as safe incoherence and resolution*
 
 Temporal structure and interruption:
 
