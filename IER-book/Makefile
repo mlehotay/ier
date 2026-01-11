@@ -2,7 +2,14 @@
 BUILD_DIR   := build
 
 PANDOC      := pandoc
-PANDOC_OPTS := -V geometry:margin=1in
+PANDOC_OPTS := \
+  -V geometry:margin=1in \
+  --pdf-engine=xelatex \
+  -V mainfont="DejaVu Serif" \
+  -V sansfont="DejaVu Sans" \
+  -V monofont="DejaVu Sans Mono" \
+  -V mathfont="TeX Gyre DejaVu Math"
+
 
 # -----------------------------
 # Paper (from IER-book/)
@@ -20,7 +27,11 @@ MANIFEST    := $(IER_DIR)/IER-manifest.md
 BOOKLIST    := $(BUILD_DIR)/book-input.txt
 BOOK_PDF    := $(BUILD_DIR)/IER-book.pdf
 
-.PHONY: all paper book booklist clean rebuild dirs
+.PHONY: all paper book booklist clean rebuild dirs check-chapters
+
+# ----------------------------------------
+# Debug: build each chapter individually
+# ----------------------------------------
 
 # Default: keep your current behavior
 all: paper
@@ -44,9 +55,20 @@ $(BOOKLIST): $(MANIFEST) | dirs
 
 $(BOOK_PDF): $(BOOKLIST) | dirs
 	$(PANDOC) $$(cat $(BOOKLIST)) \
-	  --toc --toc-depth=2 \
-	  --pdf-engine=lualatex \
-	  -o $(BOOK_PDF) $(PANDOC_OPTS)
+  	  --toc --toc-depth=1 \
+  	  -o $(BOOK_PDF) $(PANDOC_OPTS)
+
+# ---- Debugging ----
+check-chapters: booklist
+	@echo "Checking individual Markdown files..."
+	@set -e; \
+	n=0; \
+	while read f; do \
+	  n=$$((n+1)); \
+	  echo "[$$n] Testing $$f"; \
+	  $(PANDOC) $$f -t pdf -o /dev/null $(PANDOC_OPTS); \
+	done < $(BOOKLIST); \
+	echo "All chapters passed individual Pandoc check."
 
 # ---- Housekeeping ----
 clean:
