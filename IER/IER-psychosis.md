@@ -1,4 +1,4 @@
-# **IER-Psychosis (v10.8)**
+# **IER-Psychosis (v10.8.2)**
 
 ## *Regime Instability, Salience Collapse, and Agency Misattribution Under Intrinsic Constraint*
 
@@ -11,7 +11,7 @@ This document is **NON-NORMATIVE**.
 It is a **Tier-2 canon-constrained analytical extension** of:
 
 ```
-IER-specification.md   (v10.8)
+IER-specification.md   (v10.8.2)
 ```
 
 It:
@@ -23,7 +23,7 @@ It:
 * does **not** compete with psychiatry, psychology, or neurology
 * does **not** permit experiential diagnostics or detection
 
-If any statement in this document conflicts with the **IER v10.8 Specification**,
+If any statement in this document conflicts with the **IER v10.8.2 Specification**,
 **the Specification takes precedence and the conflicting statement is void**.
 
 ---
@@ -43,7 +43,7 @@ No semantic, representational, epistemic, or agentive primitives are introduced.
 
 Psychosis involves a characteristic breakdown of agency attribution, meaning regulation, and relevance filtering, often accompanied by compelling narratives of control, instruction, communication, and discovery.
 
-Under **Informational Experiential Realism (IER v10.8)**, psychosis is understood as a **pathological dynamical regime** occurring **within a persisting Unified Experiential Field (UEF)**. Experience continues, but intrinsic constraint becomes extreme, informational slack collapses, and salience assignment loses calibration. As a result, internally generated constraint is **misattributed** to environmental cues, bodily sensations, symbolic structures, or imagined agents.
+Under **Informational Experiential Realism (IER v10.8.2)**, psychosis is understood as a **pathological dynamical regime** occurring **within a persisting Unified Experiential Field (UEF)**. Experience continues, but intrinsic constraint becomes extreme, informational slack collapses, and salience assignment loses calibration. As a result, internally generated constraint is **misattributed** to environmental cues, bodily sensations, symbolic structures, or imagined agents.
 
 This document explains how psychotic phenomena can be **described structurally**—without epistemic endorsement—using IER’s concepts of intrinsic constraint, participation modulation, semantic error, and agency mislocalization.
 
@@ -342,7 +342,7 @@ The system continues to act, but:
 * authorship is externalized
 * agency appears absent from within
 
-Loss of agency ≠ loss of experience.
+$\text{Loss of agency} \neq $\text{loss of experience}$.
 
 ---
 

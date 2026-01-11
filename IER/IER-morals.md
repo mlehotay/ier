@@ -1,4 +1,4 @@
-# **IER-Morals: Hard Cases, Harm, and Tragic Remainder (v10.8.1)**
+# **IER-Morals: Hard Cases, Harm, and Tragic Remainder (v10.8.2)**
 
 ## *Applying Intrinsic Constraint to Moral Edge Cases*
 
@@ -11,7 +11,7 @@ This document is **NON-NORMATIVE**.
 It introduces **no new axioms, definitions, criteria, permissions, prohibitions, or ethical principles** beyond those fixed exclusively in the:
 
 ```
-Informational Experiential Realism (IER v10.8.1) Normative Specification
+Informational Experiential Realism (IER v10.8.2) Normative Specification
 ```
 
 All moral authority resides **exclusively** in the Specification.
@@ -60,8 +60,8 @@ It does **not** adjudicate non-experiential moral violations, legal wrongs, soci
 
 Accordingly:
 
-* absence of experiential moral harm ≠ moral permissibility
-* presence of experiential moral harm ≠ wrongdoing or blame
+* $\text{absence of experiential moral harm} \neq \text{moral permissibility}$
+* $\text{presence of experiential moral harm} \neq \text{wrongdoing or blame}$
 
 IER-morals explains **what happens to experiential worlds** in hard cases.
 It does not settle all-things-considered moral judgment.

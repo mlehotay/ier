@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.8)**
+# **Informational Experiential Realism (IER v10.8.2)**
 
 ## **Dynamics of Experiential Systems**
 
@@ -8,7 +8,7 @@
 
 **This document is NON-NORMATIVE.**
 
-It explains the **dynamic behavior, stability conditions, modulation patterns, and failure modes** of systems that **already instantiate Unified Experiential Fields (UEFs)**, as defined **exclusively** in the **IER v10.8 Specification**.
+It explains the **dynamic behavior, stability conditions, modulation patterns, and failure modes** of systems that **already instantiate Unified Experiential Fields (UEFs)**, as defined **exclusively** in the **IER v10.8.2 Specification**.
 
 This document:
 
@@ -21,7 +21,7 @@ This document:
 All ontological, criterial, and ethical authority resides **exclusively** in:
 
 ```
-IER-specification.md   (v10.8)
+IER-specification.md   (v10.8.2)
 ```
 
 > **If any statement in this document conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.**
@@ -390,7 +390,7 @@ It explains **how experiential systems behave, conditional on their existence**.
 
 ## **10. Summary**
 
-Under IER v10.8:
+Under IER v10.8.2:
 
 * UEFs are **dynamical regimes**
 * dominance is an **attractor-level fact**

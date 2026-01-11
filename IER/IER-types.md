@@ -2,7 +2,7 @@
 
 ## **Why People Come in “Types” Without Being Types**
 
-**Informational Experiential Realism (IER v10.8)**
+**Informational Experiential Realism (IER v10.8.2)**
 *Tier 2 — Canon-Constrained Analytical Extension (Non-Normative)*
 
 ---
@@ -256,9 +256,9 @@ IER draws a strict boundary:
 
 Key separations:
 
-* explanation ≠ endorsement
-* inevitability ≠ permission
-* predictability ≠ moral license
+* $\text{explanation} \neq \text{endorsement}$
+* $\text{inevitability} \neq \text{permission}$
+* $\text{predictability} \neq \text{moral license}$
 
 Under IER:
 

@@ -9,7 +9,7 @@
 ## **Status and Normative Authority**
 
 This document is a **Tier-2 canon-constrained analytical extension** of
-**Informational Experiential Realism (IER v10.8.x)**.
+**Informational Experiential Realism (IER v10.8.2)**.
 
 It is **NON-NORMATIVE**.
 
@@ -24,7 +24,7 @@ It:
 All ontological, epistemic, and ethical authority resides **exclusively** in:
 
 ```
-IER-specification.md   (v10.8)
+IER-specification.md   (v10.8.2)
 ```
 
 If any statement in this document conflicts with the Specification,
@@ -170,10 +170,10 @@ Experience is:
 
 Therefore:
 
-* experiential clarity ≠ correspondence
-* experiential inevitability ≠ necessity
-* experiential resolution ≠ justification
-* experiential collapse ≠ revelation
+* $\text{experiential clarity} \neq \text{correspondence}$
+* $\text{experiential inevitability} \neq \text{necessity}$
+* $\text{experiential resolution} \neq \text{justification}$
+* $\text{experiential collapse} \neq \text{revelation}$
 
 No amount of internal organization can produce epistemic access to external constraint.
 

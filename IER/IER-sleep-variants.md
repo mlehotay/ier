@@ -4,7 +4,7 @@
 
 ### *Jellyfish, Unihemispheric Sleep, Torpor, and Hibernation*
 
-**Informational Experiential Realism (IER v10.8.1)**
+**Informational Experiential Realism (IER v10.8.2)**
 *Tier 2 — Canon-Constrained Analytical Extension (Non-Normative)*
 
 ---
@@ -264,7 +264,7 @@ Taken together, these cases reveal a crucial structural distinction:
 
 From an IER standpoint:
 
-* **constraint relief ≠ regime loss**
+* $\boldsymbol{\text{constraint relief} \neq \text{regime loss}}$
 * some intrinsic cost can be discharged locally
 * without collapsing global intrinsic constraint
 

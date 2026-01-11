@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.8.1)**
+# **Informational Experiential Realism (IER v10.8.2)**
 
 ## **Full Normative Specification**
 
@@ -9,7 +9,7 @@
 ### **Normative Boundary Condition**
 
 This document defines the **complete and exclusive normative core** of
-**Informational Experiential Realism (IER v10.8.1)**.
+**Informational Experiential Realism (IER v10.8.2)**.
 
 It specifies **exhaustively**:
 
@@ -402,7 +402,7 @@ Processes may enter or leave the UEF dynamically, modulating content without alt
 
 ---
 
-## **V. Ethical Commitments (v10.8.1)**
+## **V. Ethical Commitments (v10.8.2)**
 
 The ethical consequences of Informational Experiential Realism follow **necessarily** from the identity claim:
 
@@ -517,7 +517,7 @@ All further moral reasoning requires principles not contained in this Specificat
 
 ## **VI. Normative Closure**
 
-IER v10.8.1 introduces **no primitives beyond**:
+IER v10.8.2 introduces **no primitives beyond**:
 
 * physical systems
 * intrinsic constraint

@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.8.1)**
+# **Informational Experiential Realism (IER v10.8.2)**
 
 ## **Ethical Consequences and Applications of Experiential Identity**
 
@@ -11,7 +11,7 @@
 It explains the **ethical consequences and applications** that follow *necessarily* from the ontology and principles fixed **exclusively** in the:
 
 ```
-IER-specification.md   (v10.8.1)
+IER-specification.md   (v10.8.2)
 ```
 
 This document:
@@ -24,7 +24,7 @@ This document:
 
 All ethical authority resides **exclusively** in the Specification.
 
-> **If the IER v10.8.1 Specification is false, everything in this document fails.**
+> **If the IER v10.8.2 Specification is false, everything in this document fails.**
 > **If any statement here conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.**
 
 ---
@@ -174,8 +174,8 @@ Responsibility diminishes under:
 
 Crucially:
 
-* **reduced responsibility ≠ reduced standing**
-* **loss of agency ≠ loss of moral relevance**
+* $\text{reduced responsibility} \neq \text{reduced standing}$
+* $\text{loss of agency} \neq \text{loss of moral relevance}$
 
 ---
 
@@ -356,7 +356,7 @@ It explains **what must be respected**, not **what must be optimized**.
 
 ## **12. Summary**
 
-Under IER v10.8.1:
+Under IER v10.8.2:
 
 * experience is ethically real by identity
 * standing is categorical and non-negotiable

@@ -1,4 +1,4 @@
-# **IER-Choice (v10.8)**
+# **IER-Choice (v10.8.2)**
 
 ## **Choice Spaces, Narrative Paths, and Ownership of Alternatives**
 
@@ -9,7 +9,7 @@
 **This document is NON-NORMATIVE.**
 
 It provides an **explanatory and structural account** of *choice* under
-**Informational Experiential Realism (IER v10.8)**.
+**Informational Experiential Realism (IER v10.8.2)**.
 
 This document:
 
@@ -23,7 +23,7 @@ This document:
 All ontological, criterial, and ethical authority resides **exclusively** in:
 
 ```
-IER-specification.md   (v10.8)
+IER-specification.md   (v10.8.2)
 ```
 
 If any statement in this document conflicts with the Specification, **the Specification takes precedence and the conflicting statement is void**.
@@ -208,7 +208,7 @@ From this it follows:
 * choice is **derived**, not primitive
 * choice is **regime-bound**, not ubiquitous
 
-Traversal ≠ choice without intrinsic constraint.
+$\text{Traversal} \neq \text{choice without intrinsic constraint}$.
 
 ---
 

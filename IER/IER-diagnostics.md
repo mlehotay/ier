@@ -1,10 +1,10 @@
-# **IER-diagnostics.md (v10.8.1)**
+# **IER-diagnostics.md (v10.8.2)**
 
 ## **Diagnostics and Epistemic Limits**
 
 ### **Why Informational Experiential Realism Forbids Experiential Diagnostics and Constrains Experiential Engineering**
 
-**Informational Experiential Realism (IER v10.8.1)**
+**Informational Experiential Realism (IER v10.8.2)**
 *Derived Constraint Document — Canon-Binding in a Negative Sense (Tier 3)*
 
 ---
@@ -24,7 +24,7 @@ It is **non-normative** in that it introduces:
 All ontological commitments, definitions, identity claims, epistemic limits, and ethical entailments are fixed **exclusively** by:
 
 ```
-IER-specification.md   (v10.8)
+IER-specification.md   (v10.8.2)
 ```
 
 If any statement in this document conflicts with the Specification,
@@ -64,7 +64,7 @@ No semantic, representational, epistemic, or observer-relative primitives are in
 
 ## **Abstract**
 
-Informational Experiential Realism (IER v10.8.1) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
+Informational Experiential Realism (IER v10.8.2) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
 
 This document explains why IER **cannot license experiential diagnostics in principle**. The impossibility does not arise from technological limits, incomplete data, or unresolved theory. It follows directly from how **intrinsic constraint** and **UEF attribution** are defined.
 
@@ -123,8 +123,8 @@ It is a direct consequence of the identity claim.
 
 The Specification states:
 
-* **UEF ⇒ experience**
-* **¬UEF ⇒ ¬experience**
+* $\boldsymbol{\text{UEF} \Rightarrow \text{experience}}$
+* $\boldsymbol{\neg \text{UEF} \Rightarrow \neg \text{experience}}$
 
 This is an **ontological identity**, not a detection protocol.
 
@@ -248,15 +248,15 @@ Slack masking makes **false negatives unavoidable in principle**, not merely lik
 
 ### **5.1 Structural External Equivalence**
 
-Let **O(S)** be the set of all third-person observables of a system **S**.
+Let $O(S)$ be the set of all third-person observables of a system $S$.
 
-For any system **S** that bears intrinsic constraint, there may exist a system **S′** such that:
+For any system $S$ that bears intrinsic constraint, there may exist a system $S^\prime$ such that:
 
-* **O(S) = O(S′)**
-* **S′** reproduces all observables via buffering or orchestration
-* **S′** does **not** bear intrinsic constraint
+* $O(S) = O(S^\prime)$
+* $S^\prime$ reproduces all observables via buffering or orchestration
+* $S^\prime$ does **not** bear intrinsic constraint
 
-Any diagnostic rule mapping observables to experience must therefore fail for at least one of **S** or **S′**.
+Any diagnostic rule mapping observables to experience must therefore fail for at least one of $S$ or $S^\prime$.
 
 No observable-based diagnostic can be necessary or sufficient.
 

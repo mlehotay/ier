@@ -1,8 +1,8 @@
-# **IER-slack.md (v10.8.1)**
+# **IER-slack.md (v10.8.2)**
 
 ## **Why Informational Slack Structurally Precludes Experience**
 
-**Informational Experiential Realism (IER v10.8.1)**
+**Informational Experiential Realism (IER v10.8.2)**
 *Derived Structural Argument — Non-Normative*
 
 ---
@@ -21,7 +21,7 @@ It:
 All ontological, criterial, and ethical authority resides **exclusively** in:
 
 ```
-IER-specification.md   (v10.8)
+IER-specification.md   (v10.8.2)
 ```
 
 If any statement in this document conflicts with the Specification,
@@ -122,7 +122,7 @@ It is a fact about how constraint propagates, binds, and closes futures.
 
 ---
 
-## **4. Localization ⇒ No Globally Binding Present**
+## **4. Localization Implies No Globally Binding Present**
 
 If constraint can be localized, then:
 
@@ -148,7 +148,7 @@ Therefore:
 
 ---
 
-## **5. Deferral ⇒ No Internally Borne Inevitability**
+## **5. Deferral Implies No Internally Borne Inevitability**
 
 If constraint can be indefinitely deferred, then:
 
@@ -173,7 +173,7 @@ Therefore:
 
 ---
 
-## **6. External Resolution ⇒ No Intrinsic Constraint**
+## **6. External Resolution Implies No Intrinsic Constraint**
 
 If constraint can be externally resolved, then:
 
