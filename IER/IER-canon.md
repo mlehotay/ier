@@ -1,4 +1,4 @@
-# **IER Canon (v10.8.1)**
+# **IER Canon (v10.8.2)**
 
 ## **Canonical Authority, Alignment, and Governance Rules**
 
@@ -6,7 +6,7 @@
 
 ## **Status and Purpose**
 
-This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** project as of **version 10.8.1**.
+This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** project as of **version 10.8.2**.
 
 It introduces **no ontological, criterial, epistemic, or ethical claims**.
 
@@ -20,7 +20,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 * Inclusion in the corpus means:
 
-  * the document is part of “IER v10.8.1”
+  * the document is part of “IER v10.8.2”
   * it is subject to the governance rules of this canon
   * it may be cited for orientation, exposition, or structure as appropriate
 
@@ -43,7 +43,7 @@ Within the corpus:
   * may not be cited to resolve theoretical disputes
   * must defer to canonical-authoritative material in all cases
 
-**Non-corpus material** consists of files present in the repository but **not enumerated in the manifest**. These are outside the scope of IER v10.8.1.
+**Non-corpus material** consists of files present in the repository but **not enumerated in the manifest**. These are outside the scope of IER v10.8.2.
 
 **Document inventories, tier assignments, and inclusion status are defined exclusively in `IER-manifest.md`.**
 
@@ -232,27 +232,34 @@ Patch changes **must not** add, remove, or weaken commitments.
 
 ---
 
-Here is a **maximally condensed**, still **normative and unambiguous**, version of the Typography section. This is about as short as it can get without losing enforceability.
-
----
-
 ## **Typography and Notation**
 
-IER uses typography to mark **ontological and formal distinctions**.
+IER uses typography to enforce **formal and syntactic distinctions**.
 
-* **Math mode (`$...$`)** is used only for formal structure:
-  variables (`$a$`), sets (`$S$`), relations (`$T \subseteq S \times S$`), operators (`$\neq$, $\Rightarrow$, $\Delta$`), and tuples (`$(S,T)$`).
+* **Math mode** is used only for formal structure:
+  variables (`$a$`, `$t$`), functions (`$I(t)$`), sets (`$S$`, `$\mathcal{R}$`), relations (`$T \subseteq S \times S$`), operators (`$\neq$, $\Rightarrow$, $\Delta$`), tuples (`$(S,T)$`), and derivatives (`$\dot{I}$`, `$\ddot{I}$`, `$\dddot{I}$`).
   Sentence punctuation appears **outside** math mode.
+
+* **Display math** must be enclosed in `$$ ... $$` and is required for multi-line equations and governing relations:
+
+  ```latex
+  $$
+  \ddot{I}(t)
+  $$
+  ```
 
 * **Conceptual terms inside math** must be wrapped in `\text{...}`:
 
   ```latex
-  $\text{participation} \neq \text{subjecthood}$
+  $\text{Intensity}(t) \sim \left| \ddot{I}_{\text{intrinsic}}(t) \right|$
   ```
 
-* **Do not** use `\text{}` for genuine variables or symbols.
+* **Subscripts** use `_`; conceptual labels in subscripts must use `\text{...}`:
+  `$I_{\text{intrinsic}}(t)$`.
 
-* **Unicode math glyphs are forbidden.** Use LaTeX operators (`\neq`, `\Rightarrow`, `\subseteq`, `\in`, `\equiv`, `\Delta`).
+* **Do not** use `\text{}` for genuine variables, functions, or operators.
+
+* **Unicode math glyphs are forbidden.** Use LaTeX operators only (`\neq`, `\Rightarrow`, `\subseteq`, `\in`, `\equiv`, `\Delta`).
 
 * **Negation** uses `\neg` in math mode.
 
@@ -260,7 +267,7 @@ IER uses typography to mark **ontological and formal distinctions**.
 
 * **Capitalization** reflects defined constructs, not emphasis.
 
-These rules are **project-canonical** and apply to all IER documents.
+These conventions are **project-canonical** and apply to all IER documents.
 
 ---
 

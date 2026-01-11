@@ -158,9 +158,9 @@ Changes in descriptive order do not create or destroy constraint regimes and the
 
 Given a regime $R$ and a configuration $s \in S$, the **choice space** at $s$ is defined as:
 
-\[
+$$
 \text{Choice}(s,R) = \{\, s' \in S \mid (s,s') \in R \,\}
-\]
+$$
 
 A choice space is the set of physically admissible successor configurations under the regime.
 

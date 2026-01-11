@@ -10,7 +10,6 @@ PANDOC_OPTS := \
   -V monofont="DejaVu Sans Mono" \
   -V mathfont="TeX Gyre DejaVu Math"
 
-
 # -----------------------------
 # Paper (from IER-book/)
 # -----------------------------
@@ -57,6 +56,21 @@ $(BOOK_PDF): $(BOOKLIST) | dirs
 	$(PANDOC) $$(cat $(BOOKLIST)) \
   	  --toc --toc-depth=1 \
   	  -o $(BOOK_PDF) $(PANDOC_OPTS)
+
+# ----------------------------------------
+# Generic: build any single chapter PDF
+# Usage: make IER-intro   -> build/IER-intro.pdf
+#        make IER-math    -> build/IER-math.pdf
+# ----------------------------------------
+
+# Never delete chapter PDFs as intermediates
+.PRECIOUS: $(BUILD_DIR)/%.pdf
+
+$(BUILD_DIR)/%.pdf: $(IER_DIR)/%.md | dirs
+	$(PANDOC) $< -o $@ $(PANDOC_OPTS)
+
+%: $(BUILD_DIR)/%.pdf
+	@:
 
 # ---- Debugging ----
 check-chapters: booklist
