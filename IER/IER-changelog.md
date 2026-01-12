@@ -197,19 +197,22 @@ Post-closure work is limited to clarification, pedagogy, application, and critiq
 
 ---
 
-## **v10.8.2 — Book Assembly and Publication Tooling (In Progress)**
+## **v10.8.2 — Corpus Expansion and Publication Alignment (Patch)**
 
-**Status:** Patch release (in progress)  
-**Character:** Publication assembly, tooling hardening, and reader-facing structure
+**Status:** Patch release
+**Character:** Non-normative expansion and tooling
 
 **No ontological, criterial, epistemic, or ethical commitments changed.**
-
-This release tracks work on the **IER-book/** pipeline, including:
-
-* Exhaustive rendering of the finalized IER corpus
-* Manifest-driven inclusion guarantees
-* Front-matter and structural corrections for readers
-* Tooling to prevent future drift between corpus and book
-* Publication-oriented ordering and validation
-
 Normative authority remains fixed at **v10.8 / v10.8.1**.
+
+This release incorporates **substantial new Tier-2 and Tier-4 material** added after v10.8.1, along with rewrites and publication tooling, while remaining fully within patch constraints.
+
+**Key updates:**
+
+* Added multiple non-normative explanatory articles (emotions, crying, panic, humour, pleasure, pain, intro)
+* Rewrote several Tier-2 articles for structural clarity and consistency
+* Completed math and typography normalization (LaTeX hardening)
+* Added manifest-driven book assembly and build tooling
+
+**Interpretive note:**
+v10.8.2 materially expands explanatory coverage and reader accessibility without reopening normative commitments.

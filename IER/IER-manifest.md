@@ -73,19 +73,21 @@ Characteristics:
 
 ### **Phenomenology and Experiential Organization**
 
-8. **[T2] `IER-emotions.md`** — Emotions as stable organizations of intrinsic constraint
-9. **[T2] `IER-crying.md`** — Crying as a regime-preserving stabilization maneuver
-10. **[T2] `IER-brainfeels.md`** — Endogenous qualitative stabilizers
-11. **[T2] `IER-pacing.md`** — Endogenous motor stabilizers
-12. **[T2] `IER-aphantasia.md`** — Architectural diversity within intact UEFs
-13. **[T2] `IER-panic.md`** — Panic and shutdown as regime-preserving responses
-14. **[T2] `IER-psychosis.md`** — Pathological regimes without identity loss
-15. **[T2] `IER-spoons.md`** — Spoon theory as a model of intrinsic constraint load
-16. **[T2] `IER-art.md`** — Art and beauty as constraint-shaping structures
-17. **[T2] `IER-music.md`** — Music as constraint-shaping structure in time
-18. **[T2] `IER-pleasure.md`** — Pleasure as coherent intrinsic constraint
-19. **[T2] `IER-pain.md`** — Pain as escalating intrinsic constraint
-20. **[T2] `IER-humour.md`** — Humour as safe incoherence and resolution
+## A. Phenomenology and Experiential Organization
+
+8.  **[T2] `IER-emotions.md`** — Emotions as stable organizations of intrinsic constraint  
+9.  **[T2] `IER-crying.md`** — Crying as a regime-preserving stabilization maneuver  
+10. **[T2] `IER-pleasure.md`** — Pleasure as coherent intrinsic constraint  
+11. **[T2] `IER-pain.md`** — Pain as escalating intrinsic constraint  
+12. **[T2] `IER-humour.md`** — Humour as safe incoherence and clean resolution  
+13. **[T2] `IER-panic.md`** — Panic and shutdown as regime-level responses  
+14. **[T2] `IER-psychosis.md`** — Pathological regimes without identity loss  
+15. **[T2] `IER-spoons.md`** — Intrinsic constraint capacity and exhaustion  
+16. **[T2] `IER-brainfeels.md`** — Endogenous qualitative stabilizers  
+17. **[T2] `IER-pacing.md`** — Background motor participation during sequenced cognition  
+18. **[T2] `IER-aphantasia.md`** — Architectural diversity within intact UEFs  
+19. **[T2] `IER-art.md`** — Art and beauty as constraint-shaping structures  
+20. **[T2] `IER-music.md`** — Music as temporal constraint-shaping structure
 
 ---
 
@@ -101,22 +103,24 @@ Characteristics:
 
 ### **Meaning, Access, and Narrative Structure**
 
-26. **[T2] `IER-access.md`** — Experiential access vs epistemic authority
-27. **[T2] `IER-meaning.md`** — Meaning without ontological inflation
-28. **[T2] `IER-happiness.md`** — Why happiness cannot ground value, ethics, or authority
-29. **[T2] `IER-intentionality.md`** — Intentionality without representation
-30. **[T2] `IER-puzzles.md`** — Structural dissolution of classic puzzles
-31. **[T2] `IER-insight.md`** — Insight as constraint reorganization
-32. **[T2] `IER-synchronicity.md`** — Experienced coherence and meaning
-33. **[T2] `IER-truth.md`** — Truth without experiential privilege
+## C. Meaning, Access, and Narrative Structure
+
+26. **[T2] `IER-access.md`** — Experiential access vs epistemic authority  
+27. **[T2] `IER-meaning.md`** — Meaning without ontological inflation  
+28. **[T2] `IER-happiness.md`** — Why happiness cannot ground value or ethics  
+29. **[T2] `IER-intentionality.md`** — Intentionality without representation  
+30. **[T2] `IER-insight.md`** — Insight as constraint reorganization  
+31. **[T2] `IER-synchronicity.md`** — Experienced coherence without metaphysics  
+32. **[T2] `IER-truth.md`** — Truth without experiential privilege  
+33. **[T2] `IER-puzzles.md`** — Structural dissolution of classic consciousness puzzles
 
 ---
 
 ### **Dynamics, Attractors, and Recurring Forms**
 
-34. **[T2] `IER-attractors.md`** — Soft attractors in experiential organization
-35. **[T2] `IER-patterns.md`** — Recurring natural and experiential forms
-36. **[T2] `IER-types.md`** — Clustering without ontological typology
+34. **[T2] `IER-attractors.md`** — Soft attractors in experiential organization  
+35. **[T2] `IER-patterns.md`** — Recurring natural and experiential forms  
+36. **[T2] `IER-types.md`** — Clustering without ontological typology  
 37. **[T2] `IER-shadows.md`** — Extreme and shadow constraint states
 
 ---
@@ -179,16 +183,16 @@ These documents are:
 * **non-governing**
 * rendered as **Book Part III**
 
-62. **[T4] `IER-intro.md`** — Where constraint and resolution live in physical systems
-63. **[T4] `IER-history.md`** — Historical preconditions and dependencies
-64. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty
-65. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification
-66. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict
-67. **[T4] `IER-FAQ.md`** — Reader-facing clarifications
-68. **[T4] `IER-glossary.md`** — Canon-constrained terminology
+62. **[T4] `IER-intro.md`** — Where constraint and resolution live  
+63. **[T4] `IER-history.md`** — Historical dependencies and preconditions  
+64. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty  
+65. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification  
+66. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict  
+67. **[T4] `IER-FAQ.md`** — Reader-facing clarifications  
+68. **[T4] `IER-glossary.md`** — Canon-constrained terminology  
 69. **[T4] `IER-index.md`** — Concept-to-document navigation
 
-> **These seven documents constitute the complete reader-facing orientation layer of IER and correspond exactly to Book Part III.**
+> **These eight documents constitute the complete reader-facing orientation layer of IER and correspond exactly to Book Part III.**
 
 ---
 

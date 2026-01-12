@@ -196,39 +196,70 @@ No new primitives, diagnostics, biological mechanisms, or ethical permissions ar
 
 ---
 
-## 10. IER-brainfeels.md
+## 10. IER-pleasure.md
 
-## **Abstract**
+## 1. Orientation: Why Pleasure Requires Its Own Treatment
 
-This document examines a class of internally generated qualitative experiences referred to as **brainfeels**: recurring experiential patterns that feel sensory-like—often described using textures, temperatures, materials, tastes, or smell-adjacent qualities—yet are **not perceptual**, **not representational**, and **not externally attributed**.
+Pleasure is unusually resistant to theoretical demotion.
 
-Within **Informational Experiential Realism (IER v10.8)**, brainfeels are interpreted as **endogenous qualitative stabilizers**: recurring organizations of intrinsic informational tension that arise entirely within a **Unified Experiential Field (UEF)** and contribute to its ongoing coherence via **participation modulation**.
+Even after rejecting:
 
-Brainfeels demonstrate that qualitative structure need not be object-directed, sensory, or externally anchored to be real, stable, and experientially significant—while remaining strictly **non-epistemic**.
+* utilitarianism
+* hedonic aggregation
+* reward-based ethics
+
+readers often continue to treat pleasure as *counting for something*.
+
+This persistence is not confusion or bad faith.
+It follows from how pleasure presents itself from within experience.
+
+Pleasure feels permissive, stabilizing, and affirming.
+It often feels like evidence that things are “going well.”
+
+IER’s task is not to deny this feeling, but to **explain it without endorsing it**.
 
 ---
 
-## 11. IER-pacing.md
+## 11. IER-pain.md
 
-## **Abstract**
+## 0. Status, Scope, and Canon Position
 
-Pacing is a common human behavior observed during thinking, talking, narrating, and other forms of extended internal sequencing. It often occurs without intention, salience, or affective charge, and may go unnoticed while it is happening.
+This document is **explanatory and non-normative**.
 
-This document provides an account of pacing under Informational Experiential Realism (IER) as a form of **background motor participation**: a low-cost, globally integrated movement pattern that remains active during certain experiential regimes without serving a regulatory, expressive, or goal-directed function.
+It introduces:
 
-Pacing is analyzed as **state-linked rather than content-linked**, **organizational rather than instrumental**, and **neutral rather than corrective**. It is not explained in terms of stress, anxiety, or cognitive effort, but as a stable feature of how some experiential systems maintain continuity during internally sequenced activity.
+* no new ontological primitives
+* no criteria, thresholds, or diagnostics
+* no ethical principles, permissions, or value rankings
+
+All ontological and ethical authority remains fixed **exclusively** in:
+
+* `IER-specification.md`
+* `IER-ethics.md`
+
+This document is **paired with** `IER-pleasure.md`.
+
+Where *IER-pleasure* explains the experiential character of **coherent, non-conflicting intrinsic constraint**,
+this document explains the experiential character of **escalating and conflicting intrinsic constraint**.
+
+The two documents are **asymmetric siblings**, not opposites, and do not jointly define value, harm, or moral standing.
+
+**Purpose of this document:**
+
+> To explain **why pain feels bad, urgent, and authoritative** under Informational Experiential Realism,
+> while showing why these features **do not define damage, moral harm, or ethical justification**.
 
 ---
 
-## 12. IER-aphantasia.md
+## 12. IER-humour.md
 
 ## **Abstract**
 
-This article describes a stable experiential architecture characterized by the absence of voluntary sensory imagery, selectively deployed inner speech, strictly single-channel experiential dominance, and emotionally rich but indirectly accessed affective structure. Emotional content typically enters experience through interoceptive signals, symbolic mediation, or delayed conceptual integration rather than immediate perceptual feeling.
+Humour and laughter are often treated as pleasure, intelligence, social signaling, insight, or moral permission. Under **Informational Experiential Realism (IER v10.8.2)**, these framings are structurally incorrect.
 
-Under Informational Experiential Realism (IER), this organization is interpreted as a **coherent Unified Experiential Field (UEF)** whose architecture **excludes imagistic buffering and parallel experiential participation pathways**. Because perceptual simulation and concurrent experiential streams are unavailable to waking participation, intrinsic constraint must stabilize through alternative organizational routes. One such route—examined separately—is the emergence of *brainfeels* as **endogenous qualitative stabilizers**.
+This article explains humour as a **safe, temporary incoherence in intrinsic constraint** within an already-existing **Unified Experiential Field (UEF)** that **resolves cleanly without repair, action, or loss**. Humour is **not an emotion**, **not a regime**, and **not a stabilization maneuver**. It is a **transitional event**: a brief violation of coherence that is permitted precisely because it poses no threat to regime stability.
 
-This architecture illustrates how phenomenological diversity arises from **differences in constraint organization**, not from differences in experiential standing.
+Laughter is treated as the **discharge signature** of this clean resolution. No new primitives, diagnostics, biological mechanisms, or ethical permissions are introduced. All claims are derived strictly from the **IER v10.8.2 Specification** and its account of intrinsic constraint, regime stability, and participation dynamics.
 
 ---
 
@@ -270,7 +301,43 @@ This account preserves the empirical usefulness of spoon theory while replacing 
 
 ---
 
-## 16. IER-art.md
+## 16. IER-brainfeels.md
+
+## **Abstract**
+
+This document examines a class of internally generated qualitative experiences referred to as **brainfeels**: recurring experiential patterns that feel sensory-like—often described using textures, temperatures, materials, tastes, or smell-adjacent qualities—yet are **not perceptual**, **not representational**, and **not externally attributed**.
+
+Within **Informational Experiential Realism (IER v10.8)**, brainfeels are interpreted as **endogenous qualitative stabilizers**: recurring organizations of intrinsic informational tension that arise entirely within a **Unified Experiential Field (UEF)** and contribute to its ongoing coherence via **participation modulation**.
+
+Brainfeels demonstrate that qualitative structure need not be object-directed, sensory, or externally anchored to be real, stable, and experientially significant—while remaining strictly **non-epistemic**.
+
+---
+
+## 17. IER-pacing.md
+
+## **Abstract**
+
+Pacing is a common human behavior observed during thinking, talking, narrating, and other forms of extended internal sequencing. It often occurs without intention, salience, or affective charge, and may go unnoticed while it is happening.
+
+This document provides an account of pacing under Informational Experiential Realism (IER) as a form of **background motor participation**: a low-cost, globally integrated movement pattern that remains active during certain experiential regimes without serving a regulatory, expressive, or goal-directed function.
+
+Pacing is analyzed as **state-linked rather than content-linked**, **organizational rather than instrumental**, and **neutral rather than corrective**. It is not explained in terms of stress, anxiety, or cognitive effort, but as a stable feature of how some experiential systems maintain continuity during internally sequenced activity.
+
+---
+
+## 18. IER-aphantasia.md
+
+## **Abstract**
+
+This article describes a stable experiential architecture characterized by the absence of voluntary sensory imagery, selectively deployed inner speech, strictly single-channel experiential dominance, and emotionally rich but indirectly accessed affective structure. Emotional content typically enters experience through interoceptive signals, symbolic mediation, or delayed conceptual integration rather than immediate perceptual feeling.
+
+Under Informational Experiential Realism (IER), this organization is interpreted as a **coherent Unified Experiential Field (UEF)** whose architecture **excludes imagistic buffering and parallel experiential participation pathways**. Because perceptual simulation and concurrent experiential streams are unavailable to waking participation, intrinsic constraint must stabilize through alternative organizational routes. One such route—examined separately—is the emergence of *brainfeels* as **endogenous qualitative stabilizers**.
+
+This architecture illustrates how phenomenological diversity arises from **differences in constraint organization**, not from differences in experiential standing.
+
+---
+
+## 19. IER-art.md
 
 ## **Abstract**
 
@@ -282,7 +349,7 @@ No new primitives, norms, diagnostics, or epistemic authorities are introduced. 
 
 ---
 
-## 17. IER-music.md
+## 20. IER-music.md
 
 ## **Status and Scope**
 
@@ -308,73 +375,6 @@ If no UEF exists, nothing described here is experiential.
 The purpose of this document is narrow and structural:
 
 > **To explain how music operates within experience under IER, and why structured sound has unusually direct effects on experiential organization without occupying any privileged epistemic or moral role.**
-
----
-
-## 18. IER-pleasure.md
-
-## 1. Orientation: Why Pleasure Requires Its Own Treatment
-
-Pleasure is unusually resistant to theoretical demotion.
-
-Even after rejecting:
-
-* utilitarianism
-* hedonic aggregation
-* reward-based ethics
-
-readers often continue to treat pleasure as *counting for something*.
-
-This persistence is not confusion or bad faith.
-It follows from how pleasure presents itself from within experience.
-
-Pleasure feels permissive, stabilizing, and affirming.
-It often feels like evidence that things are “going well.”
-
-IER’s task is not to deny this feeling, but to **explain it without endorsing it**.
-
----
-
-## 19. IER-pain.md
-
-## 0. Status, Scope, and Canon Position
-
-This document is **explanatory and non-normative**.
-
-It introduces:
-
-* no new ontological primitives
-* no criteria, thresholds, or diagnostics
-* no ethical principles, permissions, or value rankings
-
-All ontological and ethical authority remains fixed **exclusively** in:
-
-* `IER-specification.md`
-* `IER-ethics.md`
-
-This document is **paired with** `IER-pleasure.md`.
-
-Where *IER-pleasure* explains the experiential character of **coherent, non-conflicting intrinsic constraint**,
-this document explains the experiential character of **escalating and conflicting intrinsic constraint**.
-
-The two documents are **asymmetric siblings**, not opposites, and do not jointly define value, harm, or moral standing.
-
-**Purpose of this document:**
-
-> To explain **why pain feels bad, urgent, and authoritative** under Informational Experiential Realism,
-> while showing why these features **do not define damage, moral harm, or ethical justification**.
-
----
-
-## 20. IER-humour.md
-
-## **Abstract**
-
-Humour and laughter are often treated as pleasure, intelligence, social signaling, insight, or moral permission. Under **Informational Experiential Realism (IER v10.8.2)**, these framings are structurally incorrect.
-
-This article explains humour as a **safe, temporary incoherence in intrinsic constraint** within an already-existing **Unified Experiential Field (UEF)** that **resolves cleanly without repair, action, or loss**. Humour is **not an emotion**, **not a regime**, and **not a stabilization maneuver**. It is a **transitional event**: a brief violation of coherence that is permitted precisely because it poses no threat to regime stability.
-
-Laughter is treated as the **discharge signature** of this clean resolution. No new primitives, diagnostics, biological mechanisms, or ethical permissions are introduced. All claims are derived strictly from the **IER v10.8.2 Specification** and its account of intrinsic constraint, regime stability, and participation dynamics.
 
 ---
 
@@ -546,24 +546,7 @@ This document explains intentionality as a **derived feature of intrinsically co
 
 ---
 
-## 30. IER-puzzles.md
-
-## **Status and Scope**
-
-This article is **explanatory**.
-
-It:
-
-* introduces **no new primitives**
-* adds **no epistemic criteria**
-* makes **no independent necessity claims**
-* relies exclusively on the identity and constraint framework established elsewhere in the IER book
-
-Its purpose is to catalog the **canonical philosophical puzzles of consciousness** and show how IER provides a **single structural resolution** to all of them.
-
----
-
-## 31. IER-insight.md
+## 30. IER-insight.md
 
 ## **Abstract**
 
@@ -578,7 +561,7 @@ It does not disclose reality.
 
 ---
 
-## 32. IER-synchronicity.md
+## 31. IER-synchronicity.md
 
 ## **1. Purpose and Scope**
 
@@ -603,7 +586,7 @@ It is a **dependency analysis** of why synchronicity mattered historically—and
 
 ---
 
-## 33. IER-truth.md
+## 32. IER-truth.md
 
 ## **Abstract**
 
@@ -615,6 +598,23 @@ IER is shown to reject experiential relativism *and* experiential authority simu
 
 Experience can be organized well or badly.
 Reality is not organized by experience.
+
+---
+
+## 33. IER-puzzles.md
+
+## **Status and Scope**
+
+This article is **explanatory**.
+
+It:
+
+* introduces **no new primitives**
+* adds **no epistemic criteria**
+* makes **no independent necessity claims**
+* relies exclusively on the identity and constraint framework established elsewhere in the IER book
+
+Its purpose is to catalog the **canonical philosophical puzzles of consciousness** and show how IER provides a **single structural resolution** to all of them.
 
 ---
 
