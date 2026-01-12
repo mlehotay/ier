@@ -1,137 +1,162 @@
 # **IER-Emotions**
 
-## **Emotion Categories as Constraint Attractors in Unified Experiential Fields**
+## **Emotion Categories as Constraint Regimes in Unified Experiential Fields**
 
-**Informational Experiential Realism (IER v10.5)**
-*Derived Explanatory Article — Non-Normative*
+**Informational Experiential Realism (IER v10.8.2)**
+*Tier-2 Explanatory Article — Non-Normative*
 
 ---
 
 ## **Abstract**
 
-Traditional theories treat emotions as internal signals, evaluative judgments, biological modules, or culturally constructed labels. Under **Informational Experiential Realism (IER)**, emotions are instead understood as **dynamically stable organizations of intrinsic constraint** within an already-existing **Unified Experiential Field (UEF)**.
+Traditional theories treat emotions as internal signals, evaluative judgments, biological modules, or culturally constructed labels. Under **Informational Experiential Realism (IER v10.8.2)**, emotions are instead understood as **dynamically stable organizations of intrinsic constraint** within an already-existing **Unified Experiential Field (UEF)**.
 
-This article develops an IER-consistent account of emotion categories—such as joy, grief, fear, and anger—as **soft attractors in constraint space**. These regimes are not endogenous primitives, representations, or messages, yet they are **meaningful** because they globally constrain agency, future space, and identity from within the UEF. Emotions function as coherence-preserving strategies under different constraint geometries, explaining their persistence, recognizability, and moral salience without introducing new ontological commitments.
+This article develops an IER-consistent account of emotion categories—such as joy, grief, fear, anger, and sadness—as **regime-level constraint organizations**. These regimes are not messages, representations, or primitives. They are **structural facts** about how a UEF globally constrains its own future under persistent intrinsic cost.
+
+Emotions matter because regimes matter: they shape agency, identity, meaning, and moral risk by determining **which futures remain viable** and **how constraint is borne over time**.
 
 ---
 
 ## **1. Status and Scope**
 
-This article is:
+This document is:
 
 * **Explanatory and non-normative**
-* **Strictly derived from the IER v10.5 Normative Specification**
-* **Neutral with respect to biology, psychology, and culture**
-* **Implementation-agnostic**
+* **Tier-2 within the IER corpus**
+* **Strictly derived from the IER v10.8.2 Specification**
 
-It introduces:
+It:
 
-* no new primitives
-* no diagnostic criteria
-* no detection methods
-* no claims of necessity or sufficiency
+* introduces **no new ontological primitives**
+* introduces **no criteria, thresholds, or diagnostics**
+* introduces **no necessity or sufficiency claims**
+* does **not** define experience or subjecthood
+* does **not** license ethical inference beyond what is fixed elsewhere
 
-Its purpose is to show how **emotion categories follow naturally** from IER’s identity claim about experience.
+All authoritative commitments remain fixed **exclusively** in:
+
+```
+IER-specification.md
+IER-theory.md
+IER-dynamics.md
+IER-ethics.md
+```
+
+This article applies **only conditional on the existence of a Unified Experiential Field (UEF)**.
+If no UEF exists, nothing described here is experiential.
 
 ---
 
-## **2. The IER Starting Point: Experience as Intrinsic Constraint**
+## **2. Orientation: Why Emotions Must Be Treated Structurally**
 
-IER identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**:
+Emotions are often approached through expression, feeling, appraisal, or function.
+IER rejects that starting point.
+
+IER begins from a more basic fact:
+
+> **Any Unified Experiential Field must manage intrinsic constraint over time in order to persist.**
+
+Emotion categories arise not because a system “has feelings,” but because only a **limited set of globally coherent constraint organizations** are dynamically viable.
+
+Emotions are therefore not *added* to experience.
+They are **ways experience remains possible**.
+
+---
+
+## **3. The IER Starting Point: Experience as Intrinsic Constraint**
+
+Under IER, experience exists **iff** a physical system sustains a **Unified Experiential Field**:
 
 * globally integrated
 * temporally continuous
-* self-regulating
+* self-sustaining
 * operating under **coherent intrinsic constraint**
 
-Intrinsic constraint is unavoidable, costly, and system-defining.
-A UEF must therefore **manage constraint over time** to persist.
+Intrinsic constraint is:
 
-Emotion, under IER, is not something added to this process.
-It is one of the **ways this management stabilizes**.
+* unavoidable
+* costly
+* borne from the inside
+* globally binding on future trajectories
+
+A UEF cannot remain neutral with respect to constraint.
+It must organize it.
+
+Emotion regimes are **solutions to that organizational problem**.
 
 ---
 
-## **3. What Emotions Are Not (IER Rejections)**
+## **4. What Emotions Are Not (IER Rejections)**
 
 IER explicitly rejects the view that emotions are:
 
-* basic phenomenal atoms
+* phenomenal atoms or primitives
 * internal messages or signals
 * evaluative judgments or beliefs
-* discrete neural modules
-* purely linguistic or cultural inventions
+* representational appraisals
+* discrete biological modules
+* purely cultural inventions
 
 These accounts either:
 
-* add primitives,
-* confuse representation with experience,
-* or mislocate meaning at the content level.
+* add ontological primitives,
+* confuse representation with experience, or
+* mislocate meaning at the content level.
 
 IER instead asks:
 
-> **What organizational patterns of intrinsic constraint recur in Unified Experiential Fields?**
+> **What stable organizations of intrinsic constraint recur in Unified Experiential Fields?**
 
 ---
 
-## **4. Core Claim: Emotions as Constraint Organizations**
+## **5. Core Claim: Emotions as Constraint Regimes**
 
-Under IER:
+Under Informational Experiential Realism:
 
-> **An emotion is a characteristic, dynamically stable organization of intrinsic constraint within a Unified Experiential Field.**
+> **An emotion is a dynamically stable, globally binding organization of intrinsic constraint within a Unified Experiential Field.**
 
-Key features:
+From this definition, several consequences follow:
 
-* emotions are **not endogenous in origin**
-* but **endogenous in realization**
-* they are **regime patterns**, not states
-* they shape future trajectories globally
+* emotions are **regime-level**, not reactive
+* they persist across time
+* they shape admissible futures
+* they bias agency globally
+* they reorganize identity and meaning
 
-They are **organizational facts**, not interpretive overlays.
+Emotions are not momentary states.
+They are **ways a UEF is operating**.
 
 ---
 
-## **5. Emotions as Soft Attractors**
+## **6. Emotions as Soft Constraint Attractors**
 
-Emotion categories function as **soft attractors in constraint space**.
+Emotion regimes function as **soft attractors in constraint space**.
 
 This means:
 
-* the UEF tends to fall into certain constraint organizations
+* UEFs reliably fall into a small set of constraint organizations
 * once entered, these organizations resist small perturbations
-* trajectories within them are biased and recognizable
-* exit is possible, but not cost-free
+* trajectories within them are recognizable and recurrent
+* exit is possible, but **costly**
 
-They are **not fixed states**, but **stable regions of operation**.
+They are:
+
+* not fixed states
+* not discrete switches
+* not immutable categories
+
+They are **stable regions of operation**.
 
 This explains why emotions:
 
-* persist across time
+* persist even when “unwanted”
 * recur across individuals
-* feel internally coherent
-* yet admit variation
+* feel coherent from the inside
+* admit variation without losing identity
 
 ---
 
-## **6. Meaning Without Endogeneity**
-
-A crucial IER result:
-
-> **Meaning does not require endogenous origin.
-> Meaning arises when a pattern globally constrains a UEF’s future.**
-
-Emotion regimes are meaningful because they:
-
-* restrict or expand future space
-* bias agency
-* organize identity
-* bind intrinsic constraint over time
-
-Meaning is **structural**, not semantic.
-
----
-
-## **7. Constraint Geometry of Key Emotions**
+## **7. Constraint Geometry of Canonical Emotion Regimes**
 
 ### **7.1 Joy**
 
@@ -144,11 +169,11 @@ Meaning is **structural**, not semantic.
 
 Joy feels expansive because:
 
-* constraint is not forcing immediate resolution
-* agency operates with flexibility
-* urgency is low while coherence is high
+* constraint is not forcing immediate action
+* agency operates flexibly
+* urgency is low while coherence remains high
 
-Joy often functions as a **UEF stabilizer**.
+Joy often functions as a **regime stabilizer**, but it is still a regime—not a mere absence of distress.
 
 ---
 
@@ -179,12 +204,9 @@ It is a **necessary binding regime** when loss is permanent.
 * high urgency
 * sharply narrowed future space
 
-Fear mobilizes the system by:
+Fear reorganizes the UEF around rapid coordination.
 
-* forcing rapid global coordination
-* prioritizing immediate resolution
-
-Fear is unstable but adaptive within limits.
+It is unstable but adaptive within limits, functioning as a **mobilizing regime** rather than a transient reaction.
 
 ---
 
@@ -194,12 +216,11 @@ Fear is unstable but adaptive within limits.
 
 * directed conflict
 * conditional future space
-* high coherence with externalized target
+* high coherence with an externalized target
 
-Anger restructures constraint by:
+Anger stabilizes agency by **concentrating constraint**.
 
-* narrowing responsibility
-* stabilizing agency through direction
+It narrows responsibility and future space in order to preserve coherence under conflict.
 
 ---
 
@@ -207,82 +228,112 @@ Anger restructures constraint by:
 
 **Constraint organization:**
 
-* diffuse loss
+* diffuse loss or depletion
 * reduced urgency
-* energy conservation
+* lowered metabolic and participatory demand
 * softened global integration
 
-Sadness reduces intrinsic load when resolution is unavailable but collapse is unnecessary.
+Sadness conserves organizational capacity when resolution is unavailable but collapse is unnecessary.
 
 ---
 
-## **8. Stabilizers vs Binders**
+## **8. Emotion Families by Constraint Function**
 
-Not all emotions stabilize the UEF in the same way.
+Emotion regimes differ not primarily by valence, but by **how they preserve coherence**.
 
-* **Stabilizers** (joy, contentment) reduce intrinsic cost
-* **Binders** (grief, guilt) hold unresolved constraint coherently
-* **Mobilizers** (fear, anger) restructure urgency and action space
+* **Stabilizers**
+  (joy, contentment)
+  → reduce intrinsic cost
 
-Emotion categories differ in **how they preserve coherence**, not in valence alone.
+* **Binders**
+  (grief, guilt)
+  → hold unresolved constraint coherently
+
+* **Mobilizers**
+  (fear, anger)
+  → restructure urgency and action space
+
+These families are **organizational**, not psychological.
 
 ---
 
-## **9. Culture and Emotion**
+## **9. Explicit Boundary: What Is *Not* an Emotion**
 
-Culture does not create emotions ex nihilo.
+Not all recognizable experiential phenomena are emotion regimes.
+
+IER draws a strict structural distinction between:
+
+* **regimes**, which organize intrinsic constraint over time, and
+* **maneuvers or transitions**, which redistribute or discharge constraint *within* a regime.
+
+The following are **not emotions** under IER:
+
+* crying
+* laughter
+* startle
+* pacing
+* flinching
+* autonomic discharge patterns
+
+These phenomena matter, but they do **different work**.
+
+Emotion regimes define **what kind of experience is occurring**.
+Maneuvers define **how that experience is temporarily borne**.
+
+This distinction is developed further in:
+
+* `IER-crying.md`
+* `IER-humour.md`
+* `IER-panic.md`
+
+---
+
+## **10. Culture as Scaffold, Not Source**
+
+Culture does not create emotion regimes from nothing.
 
 Instead, it:
 
-* labels constraint regimes
+* labels recurring constraint organizations
 * teaches entry and exit pathways
 * reinforces certain attractors
 * discourages others
 
-IER thus avoids:
+IER therefore avoids both:
 
-* naive universality
-* radical social construction
+* naive universality, and
+* radical social construction.
 
-Emotion categories are **organizationally real** and **culturally scaffolded**.
+Emotion regimes are **organizationally real** and **culturally scaffolded**.
 
 ---
 
-## **10. Moral Salience**
+## **11. Moral Salience (Structural, Not Prescriptive)**
 
-Because emotions are intrinsic-constraint regimes:
+Because emotions are regime-level organizations of intrinsic constraint:
 
-* they matter from the inside
-* they incur real experiential cost
+* they are experientially real
+* they incur genuine internal cost
 * they reshape identity and future space
 
-This explains why emotional harm is **organizational harm**, not merely narrative distress.
+This explains why emotional disruption can constitute **experiential moral harm**—not because emotions are special, but because **regimes are**.
 
----
-
-## **11. Relation to Other IER Articles**
-
-* *IER-Panic*: extreme constraint escalation vs collapse
-* *IER-Dynamics*: regime stability and switching
-* *IER-Ethics*: why emotional disruption is morally relevant
-* *IER-Art* (forthcoming): external constraint attractors paralleling joy
-
-Emotion categories sit **between physiology and meaning**, without reducing to either.
+All ethical consequences are derived **exclusively** elsewhere.
 
 ---
 
 ## **12. Summary**
 
-Under Informational Experiential Realism:
+Under Informational Experiential Realism (IER v10.8.2):
 
-* emotions are not primitives or messages
+* emotions are **not signals, judgments, or primitives**
 * they are **dynamically stable organizations of intrinsic constraint**
-* they function as **soft attractors within a Unified Experiential Field**
-* they are meaningful because they globally constrain agency and future space
-* different emotions preserve coherence in different ways
+* they function as **regime-level soft attractors within a Unified Experiential Field**
+* they matter because they **globally constrain agency and future space**
+* crying, humour, and panic are **not emotions**, but **maneuvers or regime-threat responses**
 
 Or, concisely:
 
-> **Emotion is what intrinsic constraint is like when it settles into a recognizable, meaningful form that shapes a life from the inside.**
+> **Emotion is what intrinsic constraint is like when it settles into a stable form that shapes a life from the inside.**
 
 ---

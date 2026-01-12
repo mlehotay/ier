@@ -30,7 +30,6 @@ It does not argue for IER, define experience, or defend any downstream claim.
 It identifies a **location** where later claims could plausibly attach, if they attach anywhere at all.
 
 No agreement is required.
-Only intelligibility.
 
 ---
 
@@ -194,7 +193,5 @@ Later sections ask:
 * what follows if such systems are morally real
 
 Each of these questions requires tools and commitments that would have been out of place here. This essay has been intentionally narrow so that those later moves can be made explicitly, rather than smuggled in by definition or tone.
-
-The purpose of this introduction is simply to make the distinction visible. Later sections return to it, sharpen it, and test it in more demanding contexts.
 
 ---

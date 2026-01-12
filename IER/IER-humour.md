@@ -1,142 +1,165 @@
-# **IER-Humour.md**
+# **IER-Humour**
 
-## Humour as Safe Constraint Incoherence and Resolution
+## **Safe Constraint Incoherence and Clean Resolution**
 
-*An explanatory account under Informational Experiential Realism (IER)*
-
----
-
-## 0. Status, Scope, and Canon Position
-
-This document is **explanatory and non-normative**.
-
-It introduces:
-
-* no new ontological primitives
-* no criteria, thresholds, or diagnostics
-* no ethical principles, permissions, or value rankings
-
-All ontological and ethical authority remains fixed **exclusively** in:
-
-* `IER-specification.md`
-* `IER-ethics.md`
-
-This document is closely related to:
-
-* `IER-pleasure.md`
-* `IER-pain.md`
-* `IER-emotions.md`
-
-**Purpose of this document:**
-
-> To explain **what humour and laughter are under Informational Experiential Realism**,
-> without treating them as pleasure, intelligence, insight, or moral signal.
-
-Humour is treated here as a **dynamic experiential transition**, not a stable state and not a content category.
+**Informational Experiential Realism (IER v10.8.2)**
+*Tier-2 Explanatory Article — Non-Normative*
 
 ---
 
-## 1. Orientation: Why Humour Resists Clean Explanation
+## **Abstract**
 
-Humour is unusually difficult to theorize.
+Humour and laughter are often treated as pleasure, intelligence, social signaling, insight, or moral permission. Under **Informational Experiential Realism (IER v10.8.2)**, these framings are structurally incorrect.
 
-It is commonly treated as:
+This article explains humour as a **safe, temporary incoherence in intrinsic constraint** within an already-existing **Unified Experiential Field (UEF)** that **resolves cleanly without repair, action, or loss**. Humour is **not an emotion**, **not a regime**, and **not a stabilization maneuver**. It is a **transitional event**: a brief violation of coherence that is permitted precisely because it poses no threat to regime stability.
+
+Laughter is treated as the **discharge signature** of this clean resolution. No new primitives, diagnostics, biological mechanisms, or ethical permissions are introduced. All claims are derived strictly from the **IER v10.8.2 Specification** and its account of intrinsic constraint, regime stability, and participation dynamics.
+
+---
+
+## **1. Status and Scope**
+
+This document is:
+
+* **Explanatory and non-normative**
+* **Tier-2 within the IER corpus**
+* **Implementation-agnostic**
+* **Clinically neutral**
+
+It does **not**:
+
+* define experience or subjecthood
+* introduce diagnostic criteria or detection methods
+* treat humour as epistemic or moral authority
+* treat laughter as approval or endorsement
+* revise any Tier-1 commitments
+
+All authoritative commitments remain fixed **exclusively** in:
+
+```
+IER-specification.md
+IER-theory.md
+IER-dynamics.md
+IER-ethics.md
+```
+
+This article applies **only conditional on the existence of a Unified Experiential Field (UEF)**.
+
+---
+
+## **2. Orientation: Why Humour Resists Clean Explanation**
+
+Humour appears everywhere and defies reduction.
+
+It is commonly described as:
 
 * a form of pleasure
 * evidence of intelligence or wit
-* a signal of social dominance
-* a revelation of truth
-* a moral permission structure (“it was just a joke”)
+* social bonding or dominance
+* insight into truth
+* moral license (“it was just a joke”)
 
-These interpretations conflict with one another and fail to generalize across cases:
+These descriptions conflict with one another and fail to generalize:
 
-* people laugh without enjoying themselves
-* jokes can feel insightful while being false
-* laughter can bond or exclude
-* humour can stabilize or destabilize
+* people laugh without enjoyment
+* humour can feel insightful while being false
+* laughter can bond or humiliate
+* humour can soothe or destabilize
 
 Under IER, this confusion arises because humour is **not a thing**.
-It is a **brief organizational event** in experience.
+It is a **brief organizational event**.
 
 IER does not ask what humour *means*.
 It asks **what happens to intrinsic constraint when humour occurs**.
 
 ---
 
-## 2. What Humour Is *Not* Under IER
+## **3. Regimes, Maneuvers, and Transitions**
 
-Before explaining humour, several imports must be blocked.
+IER distinguishes three structural categories:
 
-Under Informational Experiential Realism, humour is **not**:
+* **Regimes** — stable, globally binding organizations of intrinsic constraint
+  (e.g., joy, grief, fear, panic)
 
-* a reward mechanism
-* a value or pleasure primitive
-* a signal of truth or insight
-* evidence of intelligence or superiority
-* reducible to enjoyment
-* defined by topic, cleverness, or content
+* **Maneuvers** — participation reorganizations that redistribute constraint *within* a regime
+  (e.g., crying)
 
-Laughter does not imply approval.
-Amusement does not imply endorsement.
-Humour does not confer epistemic or moral authority.
+* **Transitions** — brief, permitted disruptions that violate coherence **without threatening regimes**
+
+Humour belongs **exclusively** to the third category.
 
 ---
 
-## 3. Humour as Safe Constraint Incoherence
+## **4. Core Claim: What Humour Is Under IER**
 
-The core descriptive claim is simple.
+Under Informational Experiential Realism:
 
-Humour involves:
+> **Humour is a temporary, safe incoherence in intrinsic constraint that resolves cleanly without requiring action, repair, or loss.**
 
-* a **brief incoherence** in intrinsic constraint
-* simultaneous support for **incompatible frames**
-* a violation of expectation or organization
-* **absence of threat** and **absence of required action**
+Several consequences follow:
 
-Constraint rises just enough to recruit attention and participation,
+* humour does **not** define future space
+* humour does **not** reorganize regime identity
+* humour does **not** bind intrinsic constraint over time
+* humour cannot persist independently
+
+Humour is a **momentary violation**, not a way of being.
+
+---
+
+## **5. Safe Incoherence**
+
+Humour involves a characteristic constraint pattern:
+
+* simultaneous support for incompatible frames
+* violated expectation or organization
+* brief increase in participatory demand
+* **absence of threat**
+* **absence of required action**
+
+Constraint rises just enough to recruit attention,
 but **not enough to escalate into conflict**.
 
 This places humour structurally between:
 
-* **pleasure**, which involves stable coherence
-* **pain**, which involves escalating, conflicting constraint
+* **pleasure** — stable coherence
+* **pain** — escalating conflicting constraint
 
 Humour is neither.
-It is a **temporary disruption** that is permitted to resolve.
+It is **incoherence that is allowed to collapse**.
 
 ---
 
-## 4. Resolution Without Damage
+## **6. Clean Resolution Without Repair**
 
-What distinguishes humour from other forms of incoherence is how it ends.
+What distinguishes humour from other forms of incoherence is **how it ends**.
 
 In humour:
 
-* no repair is required
-* no action must be taken
+* no corrective action is required
 * no loss must be absorbed
+* no future space is narrowed
+* no regime is threatened
 
 Constraint collapses **cleanly** into a simpler organization.
 
-This collapse produces the characteristic lightness of humour:
+This collapse produces the felt lightness of humour:
 
 * nothing bad happened
 * nothing needs to be done
 * surplus constraint is released
 
-Laughter is the experiential signature of this release.
-
 ---
 
-## 5. Laughter as a Stabilization Mechanism
+## **7. Laughter as Discharge, Not Meaning**
 
-Laughter is not identical to humour.
-It is a **regime-stabilizing response**.
+Laughter is **not identical** to humour.
+It is the **physiological and experiential signature** of clean constraint collapse.
 
 Laughter functions to:
 
-* discharge excess constraint
-* re-synchronize participation
+* discharge surplus intrinsic constraint
+* re-synchronize participation timing
 * reset attentional and motor readiness
 
 This explains why laughter can be:
@@ -144,76 +167,67 @@ This explains why laughter can be:
 * involuntary (tickling, surprise)
 * voluntary (social laughter)
 * contagious (group synchronization)
-
-It also explains why:
-
-* laughing does not guarantee enjoyment
-* forced laughter can feel distressing
-* laughter can occur under stress or panic
+* inappropriate (nervous laughter)
 
 Laughter stabilizes experience.
-It does not certify value or meaning.
+It does **not** certify value, truth, or endorsement.
 
 ---
 
-## 6. Varieties of Humour by Constraint Geometry
+## **8. Varieties of Humour by Constraint Geometry**
 
-IER does not classify humour by content, but by **constraint dynamics**.
+IER classifies humour by **constraint dynamics**, not content.
 
-### 6.1 Incongruity Humour
+### **8.1 Incongruity Humour**
 
-* Sudden mismatch between frames
-* Rapid reinterpretation
-* Clean collapse into a simpler model
+* sudden mismatch between frames
+* rapid reinterpretation
+* clean collapse into a simpler model
 
-This is the paradigmatic “joke” structure.
+This is the paradigmatic joke structure.
 
 ---
 
-### 6.2 Puns and Wordplay
+### **8.2 Puns and Wordplay**
 
-Puns create:
-
-* a single signal supporting two interpretations
-* a **low-intensity constraint bifurcation**
+* single signal supports multiple interpretations
+* low-intensity bifurcation
 * trivial resolution
 
-Because the payoff is small, the constraint discharge is weak.
-This produces groaning, eye-rolling, or mild amusement rather than delight.
+Constraint discharge is small, producing groans or mild amusement.
 
 ---
 
-### 6.3 Dad Jokes
+### **8.3 Dad Jokes**
 
-Dad jokes are not failed humour.
-They are **intentionally low-yield constraint moves**.
+Dad jokes are **intentionally low-yield transitions**.
 
 Their function is social:
 
-* signaling safety
-* reducing demand
-* tolerating mild awkwardness
+* signal safety
+* reduce demand
+* tolerate mild awkwardness
 
-The humour content is secondary to **affiliative coordination**.
+Humour content is secondary to **coordination**.
 
 ---
 
-### 6.4 Slapstick and Physical Humour
+### **8.4 Slapstick and Physical Humour**
 
 Slapstick simulates:
 
-* bodily threat
 * loss of control
+* bodily threat
 * imminent harm
 
 But the threat is quickly nullified.
-Constraint rises sharply, then collapses.
 
+Constraint rises sharply, then collapses.
 Laughter reflects relief from **false escalation**, not enjoyment of harm.
 
 ---
 
-### 6.5 Irony and Satire
+### **8.5 Irony and Satire**
 
 Irony and satire require:
 
@@ -223,56 +237,68 @@ Irony and satire require:
 
 They are more fragile:
 
-* failure leads to confusion or offense
-* success yields a slower, deeper constraint collapse
+* failure → confusion or offense
+* success → slower, deeper collapse
 
 ---
 
-## 7. Failed Humour, Awkwardness, and Cringe
+## **9. Failure Modes: Awkwardness and Cringe**
 
-Humour fails when:
+Humour fails when incoherence **does not resolve cleanly**.
 
-* constraint rises
-* but does not collapse cleanly
+### **Awkwardness**
 
-### Awkwardness
+* safe incoherence without collapse
+* constraint remains suspended
+* no discharge occurs
 
-* Safe incoherence without resolution
-* Constraint remains suspended
-* No discharge occurs
+### **Cringe**
 
-### Cringe
+* vicarious recruitment into another’s unresolved constraint
+* empathic load without relief
 
-* Vicarious participation in another’s unresolved constraint
-* Empathic recruitment without relief
-
-These experiences feel uncomfortable because **the humour regime never completes**.
+These experiences feel uncomfortable because **the transition never completes**.
 
 ---
 
-## 8. Humour, Meaning, and False Insight
+## **10. Boundary Clarification: Humour vs Crying vs Panic**
 
-Humour often *feels* insightful.
+IER enforces strict boundaries:
 
-This is because:
+| Phenomenon   | Structural Role                       |
+| ------------ | ------------------------------------- |
+| **Humour**   | Safe transitional incoherence         |
+| **Laughter** | Discharge of resolved incoherence     |
+| **Crying**   | Stabilization maneuver under overload |
+| **Panic**    | Regime-level survival response        |
+| **Shutdown** | Regime exit                           |
+
+Humour cannot occur once panic is dominant.
+Crying manages overload; humour releases surplus.
+Panic determines whether experience persists at all.
+
+---
+
+## **11. Why Humour Feels Insightful (But Isn’t)**
+
+Humour often *feels* like understanding because:
 
 * constraint collapses into a simpler organization
 * complexity is reduced
 * coherence increases suddenly
 
-This feels like understanding.
+This feels like insight.
 
 IER’s boundary is explicit:
 
 > **Constraint simplification is not epistemic discovery.**
 
-A joke can feel revealing while being false.
 Humour reorganizes experience.
 It does not disclose reality.
 
 ---
 
-## 9. Humour as Social Coordination
+## **12. Social Coordination Without Authority**
 
 Humour plays a major role in social life because it:
 
@@ -284,12 +310,12 @@ Humour plays a major role in social life because it:
 Culture shapes:
 
 * which incongruities are salient
-* which frames are safe to violate
-* where laughter is permitted
+* which violations are permitted
+* where laughter is acceptable
 
 Culture does **not** change:
 
-* how constraint behaves
+* why humour works
 * why laughter stabilizes
 * why failed humour feels bad
 
@@ -297,13 +323,7 @@ Humour is **culture-shaped**, not **culture-arbitrary**.
 
 ---
 
-## 10. Ethical Boundary and Accepted Limits
-
-Humour can:
-
-* bond or exclude
-* stabilize or humiliate
-* relieve or coerce
+## **13. Ethical Boundary and Accepted Limits**
 
 IER blocks several common inferences:
 
@@ -317,49 +337,18 @@ not whether something was funny.
 
 ---
 
-## 11. Relation to Pleasure and Pain
+## **14. Summary**
 
-Under IER:
+Under Informational Experiential Realism (IER v10.8.2):
 
-* **Pleasure**
-  Stable, coherent intrinsic constraint
+* humour is **not an emotion, pleasure, or insight**
+* it is a **safe, temporary incoherence in intrinsic constraint**
+* it resolves **cleanly**, without repair or loss
+* laughter is the **discharge signature** of that resolution
+* humour carries **no epistemic or moral authority**
 
-* **Pain**
-  Escalating, conflicting intrinsic constraint
+Or, concisely:
 
-* **Humour**
-  Temporary incoherence with **safe, clean resolution**
-
-Humour is a **transition**, not a destination.
-It cannot ground value, harm, or authority.
-
----
-
-## 12. Summary
-
-Under Informational Experiential Realism:
-
-* Humour is a **dynamic experiential regime**, not a pleasure state
-* It involves:
-
-  * safe constraint incoherence
-  * clean collapse
-  * laughter as discharge
-* It is real, powerful, and socially important
-* It carries **no moral or epistemic authority**
-
-Humour matters **as organization**.
-It does not matter **as currency, insight, or justification**.
-
----
-
-### Navigational Note
-
-Related documents:
-
-* `IER-pleasure.md`
-* `IER-pain.md`
-* `IER-emotions.md`
-* `IER-relationships.md`
+> **Humour is what intrinsic constraint looks like when it is briefly violated, safely resolved, and allowed to disappear without consequence.**
 
 ---

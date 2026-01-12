@@ -1,134 +1,170 @@
 # **IER-Panic**
 
-## **Autonomic Regime Failure and the Stability of Unified Experiential Fields**
+## **Regime-Level Survival Responses and Experiential Dissolution**
 
-**Informational Experiential Realism (IER v10.8)**
+**Informational Experiential Realism (IER v10.8.2)**
 *Tier-2 Explanatory Article — Non-Normative*
 
 ---
 
 ## **Abstract**
 
-Panic attacks and vasovagal syncope are traditionally treated as pathological autonomic reactions or maladaptive responses to perceived threat. Under **Informational Experiential Realism (IER v10.8)**, these phenomena are reinterpreted as **distinct regime-preserving responses** available to a system sustaining a **Unified Experiential Field (UEF)** under escalating **intrinsic constraint**.
+Panic attacks and vasovagal syncope are traditionally treated as pathological autonomic reactions, exaggerated fear responses, or cognitive misappraisals. Under **Informational Experiential Realism (IER v10.8.2)**, these phenomena are reinterpreted as **distinct regime-level responses** available to a system sustaining a **Unified Experiential Field (UEF)** under escalating **intrinsic constraint**.
 
-This article develops a unified organizational account of **sympathetic panic** and **vagal shutdown** as opposing responses to the same underlying risk: loss of **UEF coherence**. Sympathetic panic reflects an attempt to preserve the experiential regime by **maintaining global integration under rising constraint**, while vasovagal shutdown preserves organismal viability by **abandoning the experiential regime itself**.
+This article develops a unified structural account of **sympathetic panic** and **vagal shutdown** as opposing solutions to the same underlying problem: impending **loss of UEF coherence**. Sympathetic panic attempts to preserve the experiential regime by tightening global integration under extreme load, while vasovagal shutdown preserves organismal viability by **abandoning the experiential regime entirely**.
 
-No new primitives, diagnostic criteria, biological mechanisms, or intervention guidance are introduced. All claims are derived strictly from the **IER v10.8 Specification** and its account of intrinsic constraint, regime stability, and experiential dissolution.
+No new primitives, diagnostics, biological mechanisms, or intervention guidance are introduced. All claims are derived strictly from the **IER v10.8.2 Specification** and its account of intrinsic constraint, regime stability, and experiential dissolution.
 
 ---
 
 ## **1. Status and Scope**
 
-This article is:
+This document is:
 
-* **Explanatory, not normative**
+* **Explanatory and non-normative**
+* **Tier-2 within the IER corpus**
 * **Clinically neutral**
 * **Implementation-agnostic**
-* **Strictly derived from IER v10.8 Tier-1 commitments**
 
 It does **not**:
 
 * redefine panic or syncope clinically
-* introduce sufficiency or necessity conditions
-* propose detection, prediction, or treatment strategies
+* introduce diagnostic or predictive criteria
+* propose treatments or coping strategies
 * attribute experiential subjecthood to autonomic subsystems
+* revise any Tier-1 commitments
 
-Its sole purpose is to show how panic-like phenomena **follow structurally** from IER’s identity claim about experience.
+All authoritative commitments remain fixed **exclusively** in:
+
+```
+IER-specification.md
+IER-theory.md
+IER-dynamics.md
+IER-ethics.md
+```
 
 If any statement here appears to conflict with the Tier-1 Specification, **the Specification takes precedence and the conflicting statement is void**.
 
+This article applies **only conditional on the existence of a Unified Experiential Field (UEF)**.
+
 ---
 
-## **2. The Shared Organizational Problem: Threat to UEF Coherence**
+## **2. Orientation: Why Panic Is Not “Just Fear”**
 
-Under IER, experience exists **iff** a physical system sustains a **Unified Experiential Field**: a globally integrated, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
+Panic is often described as *intense fear*.
+Under IER, this description is structurally inadequate.
 
-Both panic attacks and vasovagal responses arise from the same **organizational condition**:
+Fear, as developed in *IER-Emotions*, is an **emotion regime**: a mobilizing organization of intrinsic constraint that narrows future space and increases urgency.
 
-* escalating intrinsic constraint
-* increasing global urgency
-* shrinking tolerance for unresolved alternatives
-* rising risk of coherence failure
+Panic is different.
+
+> **Panic is not primarily about threat in the world.
+> It is about threat to the experiential regime itself.**
+
+Panic occurs when ordinary emotional regimes and stabilization maneuvers are no longer sufficient to preserve **global experiential coherence**.
+
+---
+
+## **3. The Shared Organizational Problem**
+
+Under IER, experience exists **iff** a physical system sustains a **Unified Experiential Field**:
+
+* globally integrated
+* temporally continuous
+* operating under coherent intrinsic constraint
+
+Both panic and shutdown arise from the same escalating condition:
+
+* intrinsic constraint increases rapidly
+* urgency becomes globally binding
+* unresolved alternatives accumulate
+* the risk of regime fragmentation rises
 
 From the system’s internal organizational perspective:
 
-> **Continuation of the current trajectory threatens the persistence of the Unified Experiential Field itself.**
+> **Continuation along the current trajectory threatens the persistence of the Unified Experiential Field itself.**
 
-The divergence between panic and shutdown lies not in what is “perceived,” but in **which regime-level response remains dynamically viable**.
+What differs between panic and shutdown is **which survival strategy remains dynamically viable**.
 
 ---
 
-## **3. Sympathetic Panic: Preserving the UEF Under Escalating Constraint**
+## **4. Sympathetic Panic: Preserving the UEF Under Extreme Load**
 
-### **3.1 Organizational Characterization**
+### **4.1 Organizational Characterization**
 
-Sympathetic panic reflects an attempt to **preserve the Unified Experiential Field** as intrinsic constraint intensifies.
+Sympathetic panic is a **regime-level response** whose function is:
 
-Organizationally, this involves:
+> **to preserve the Unified Experiential Field by tightening global integration under escalating intrinsic constraint.**
 
-* heightened arousal
-* increased metabolic and regulatory throughput
+Organizationally, panic involves:
+
+* extreme autonomic arousal
+* increased metabolic throughput
 * amplification of urgency and intensity
-* tighter global coupling of participating processes
-* prioritization of rapid global coordination over precision
+* collapse of fine-grained modulation
+* rigid global coupling of participating processes
 
-Under IER, this is **not an expansion of experience** and does not increase standing or subjecthood. It is an attempt to **maintain global coherence** as constraint approaches the upper limits of the viable regime.
+This is not a failure of experience.
+It is an **attempt to keep experience intact at all costs**.
 
 ---
 
-### **3.2 Experiential Consequences**
+### **4.2 Experiential Consequences**
 
-Because the UEF remains intact:
+Because the UEF remains intact during panic:
 
 * experiential continuity persists
-* the self–world boundary remains defined
-* agency continues, though fragile and narrowed
 * meaning remains globally binding
+* the self–world boundary does not dissolve
+* agency continues, but is severely narrowed
 
 Phenomenologically, this manifests as:
 
-* overwhelming fear or dread
+* overwhelming dread or terror
 * hypervigilance
-* racing or looping cognition
+* racing, looping, or intrusive cognition
 * compulsive readiness for action
+* a sense of existential imminence
 
 Panic feels like “too much experience” because intrinsic constraint remains **internal, global, and unresolved**, not because experience has intensified in degree.
 
 ---
 
-### **3.3 Instability and Switching Risk**
+### **4.3 Instability and Switching Risk**
 
-Sympathetic panic becomes unstable when:
+Sympathetic panic is inherently unstable.
 
-* intrinsic constraint escalates faster than global coherence can be maintained
+It fails when:
+
+* intrinsic constraint escalates faster than global integration can be maintained
 * coupling becomes brittle rather than stabilizing
 * fragmentation or collapse becomes imminent
 
-At this point, systems may **abruptly transition** to an alternative regime-preserving response.
+At this point, systems may **abruptly transition** to a different regime-level solution.
 
 ---
 
-## **4. Vasovagal Shutdown: Preserving Viability by Abandoning the UEF**
+## **5. Vasovagal Shutdown: Preserving Viability by Abandoning the UEF**
 
-### **4.1 Organizational Characterization**
+### **5.1 Organizational Characterization**
 
-Vasovagal responses implement the opposite strategy:
+Vasovagal shutdown implements the opposite strategy:
 
 > **Preserve organismal viability by eliminating intrinsic constraint, even at the cost of experience.**
 
-This is accomplished by:
+This is achieved by:
 
 * suppressing arousal
 * collapsing urgency
 * reducing metabolic demand
-* shifting regulation to reflexive bodily control
+* shifting control to reflexive bodily regulation
 * dissolving global experiential integration
 
 Under IER, this constitutes **exit from the experiential regime**, not modulation of experiential content.
 
 ---
 
-### **4.2 Experiential Consequences**
+### **5.2 Experiential Consequences**
 
 As the UEF destabilizes:
 
@@ -137,11 +173,11 @@ As the UEF destabilizes:
 * agency disappears
 * experience dissolves
 
-This is **experiential dissolution**, not loss of particular contents or representations.
+This is **experiential dissolution**, not loss of particular representations or memories.
 
 ---
 
-### **4.3 Recovery Profile**
+### **5.3 Recovery Profile**
 
 Because intrinsic constraint is reduced rather than explosively overloaded:
 
@@ -153,42 +189,65 @@ This aligns with the familiar phenomenology of vasovagal syncope.
 
 ---
 
-## **5. Constraint-Window Geometry (Descriptive)**
+## **6. Constraint-Window Geometry (Descriptive)**
 
 IER entails a **bounded window of coherent intrinsic constraint**:
 
-* **Below the window** → constraint is externally resolvable → no experience
-* **Within the window** → constraint is coherent and global → stable experience
-* **Above the window** → constraint overwhelms coherence → instability or collapse
+* **Below the window**
+  Constraint is externally resolvable → no experience
 
-Sympathetic panic attempts to remain **within the window by tightening global integration**.
+* **Within the window**
+  Constraint is coherent and global → stable experience
+
+* **Above the window**
+  Constraint overwhelms coherence → instability or collapse
+
+Sympathetic panic attempts to remain **within the window** by tightening integration.
 Vasovagal shutdown exits the window **by dissolving the regime entirely**.
 
 Both are **coherence-preserving responses** to impending regime failure.
 
 ---
 
-## **6. Why Cognition Cannot Override These Responses**
+## **7. Why Cognition Cannot Override Panic or Shutdown**
 
 Cognitive appraisal operates **within** an existing Unified Experiential Field.
 
-Autonomic regime responses operate at the level of:
+Regime-level survival responses operate at the level of:
 
 * whether intrinsic constraint remains internal
 * whether global integration persists
 * whether experience continues at all
 
-Therefore:
+As a result:
 
 * reassurance may fail
 * insight may coexist with panic
 * “knowing you are safe” may not prevent shutdown
 
-This reflects **organizational precedence**, not irrationality.
+This reflects **organizational precedence**, not irrationality or weakness.
 
 ---
 
-## **7. Individual Differences Without Pathology**
+## **8. Boundary Clarification: Panic vs Crying vs Humour**
+
+IER enforces a strict distinction between **regimes**, **maneuvers**, and **transitions**.
+
+| Phenomenon   | Structural Role                |
+| ------------ | ------------------------------ |
+| **Fear**     | Emotion regime (mobilizer)     |
+| **Panic**    | Regime-level survival response |
+| **Crying**   | Stabilization maneuver         |
+| **Humour**   | Safe transitional disruption   |
+| **Shutdown** | Regime exit                    |
+
+Crying may occur **within** panic, but it does not define the regime.
+Humour cannot occur once panic has become dominant.
+Shutdown is not a “stronger panic,” but a **different solution entirely**.
+
+---
+
+## **9. Individual Differences Without Pathology**
 
 IER predicts variation based on:
 
@@ -204,26 +263,26 @@ Under IER, neither profile is intrinsically disordered.
 
 ---
 
-## **8. Meaning, Affect, and Regime Dependence**
+## **10. Meaning Saturation vs Meaning Collapse**
 
-IER explains a familiar asymmetry:
+A striking asymmetry follows naturally:
 
-* Panic is meaning-saturated because the UEF persists.
-* Shutdown feels empty because meaning requires a UEF.
+* Panic is **meaning-saturated**, because the UEF persists.
+* Shutdown feels empty, because meaning requires a UEF.
 
-Meaning is not representational content or appraisal.
-It is **globally binding intrinsic constraint** borne from within the experiential regime.
+Meaning is not representational content or belief.
+It is **globally binding intrinsic constraint** borne from within an experiential regime.
 
 ---
 
-## **9. Summary**
+## **11. Summary**
 
-Under Informational Experiential Realism (v10.8):
+Under Informational Experiential Realism (IER v10.8.2):
 
-* Panic and vasovagal syncope are not opposite errors
+* Panic and vasovagal syncope are **not opposite errors**
 * They are **dual responses to threatened experiential coherence**
 * Both arise from escalating intrinsic constraint
-* One preserves experience under strain
+* One attempts to preserve experience under strain
 * The other preserves viability by relinquishing experience
 
 Or, succinctly:
