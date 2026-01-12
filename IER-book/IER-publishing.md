@@ -21,17 +21,17 @@ Public release sequencing is governed by `IER-deployment.md`.
 
 This document is strictly subordinate to:
 
-1. **`IER-canon.md`** — authority and governance  
-2. **`IER-manifest.md`** — corpus membership and flat ordering  
-3. **`IER-book.md`** — book structure, Parts, and reader-facing scope  
+1. **`IER-canon.md`** — authority and governance
+2. **`IER-manifest.md`** — corpus membership and ordering
 
 This document **must not**:
-- define book structure
-- redefine corpus membership
-- override Part boundaries
-- introduce interpretive rules
 
-If any conflict appears, **`IER-book.md` takes precedence** for book-related questions.
+* define corpus membership
+* define theoretical authority
+* introduce or reorder content
+* override manifest-defined ordering
+
+If any conflict appears, **the canon and manifest take precedence**.
 
 ---
 
@@ -41,7 +41,7 @@ IER is published as:
 
 > **A single-volume technical monograph**
 
-The book has **three Parts**, defined exclusively in `IER-book.md`:
+The book consists of **three Parts**, as defined by **manifest ordering and structural sentinels**:
 
 * **Part I — The IER Theory Proper**
 * **Part II — Applications, Elaborations, and Boundaries**
@@ -74,15 +74,19 @@ Layout, headings, and navigational signals must reinforce these dependencies.
 ## **Primary Print Format (Normative Target)**
 
 ### **Trim Size**
+
 * Preferred: **7 × 9 in**
 * Acceptable alternates:
+
   * 6.875 × 9.25
   * 7.5 × 9.25
 
 ### **Paper**
+
 * **White paper only**
 
 ### **Typography**
+
 * Serif body font
 * High word density
 * Tight leading
@@ -90,9 +94,10 @@ Layout, headings, and navigational signals must reinforce these dependencies.
 * Functional headings only
 
 Typography must not signal:
-- pedagogy
-- narrative pacing
-- motivational framing
+
+* pedagogy
+* narrative pacing
+* motivational framing
 
 ---
 
@@ -142,10 +147,12 @@ Formal elements must signal **necessity**, not instruction.
 ### **EPUB / HTML (Secondary)**
 
 * Must preserve:
+
+  * manifest-defined ordering
   * Part boundaries
-  * Chapter ordering
-  * Non-authoritative status of Part III
+  * non-authoritative status of Part III
 * Must not introduce:
+
   * reordering
   * summaries
   * adaptive reading paths
@@ -164,15 +171,17 @@ All editions map to **exactly one version**.
 ## **Patch Discipline**
 
 Permitted:
-- typographical corrections
-- layout fixes
-- index and glossary improvements
+
+* typographical corrections
+* layout fixes
+* index and glossary improvements
 
 Not permitted:
-- new chapters
-- reordered content
-- restated foundations
-- authority changes
+
+* new chapters
+* reordered content
+* restated foundations
+* authority changes
 
 ---
 
@@ -199,21 +208,23 @@ Orientation must not imply interpretive authority.
 ## **Execution Checklist**
 
 ### **Pre-Publication**
-- [ ] Manifest v10.8.2 validated
-- [ ] `IER-book.md` validated
-- [ ] Book includes Preface (IER-paper)
-- [ ] Chapter set matches Manifest Parts I–III exactly
-- [ ] No governance documents included
-- [ ] Layout proof reviewed
+
+* [ ] Manifest v10.8.2 validated
+* [ ] Chapter set matches Manifest Parts I–III exactly
+* [ ] Book includes Preface (IER-paper)
+* [ ] No governance or legal documents included
+* [ ] Layout proof reviewed
 
 ### **Publication**
-- [ ] Print files uploaded
-- [ ] Proof approved
-- [ ] Digital editions archived
+
+* [ ] Print files uploaded
+* [ ] Proof approved
+* [ ] Digital editions archived
 
 ### **Post-Publication**
-- [ ] Errata log opened
-- [ ] Patch policy enforced
+
+* [ ] Errata log opened
+* [ ] Patch policy enforced
 
 ---
 
@@ -221,8 +232,7 @@ Orientation must not imply interpretive authority.
 
 `IER-publishing.md` defines **how the book is rendered**, not **what the book is**.
 
-Book structure is defined **only** in `IER-book.md`.
-Corpus membership is defined **only** in `IER-manifest.md`.
+Corpus membership and ordering are defined **only** in `IER-manifest.md`.
 Authority is fixed **only** in `IER-canon.md`.
 
 This document exists to prevent drift—not to introduce judgment.

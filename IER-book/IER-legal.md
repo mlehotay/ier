@@ -18,6 +18,7 @@ It does **not**:
 * assert or deny AI consciousness, experience, or moral standing
 * argue for or against AI legal personhood
 * derive claims from the IER identity thesis
+* define corpus membership, authority, or structure
 * propose future legal reforms
 
 It **only** describes **prevailing legal treatment** of AI-assisted authorship **as of 2025**, for the purpose of clarifying ownership, authorship, licensing, disclosure, and responsibility.
@@ -37,9 +38,11 @@ This document exists to:
 
 It is intended for use alongside:
 
-* `IER-book`
-* `IER-publishing`
+* the IER canonical corpus
+* publication and deployment governance documents
 * submission materials for preprints, journals, or commercial publication
+
+It does **not** determine publication order, rendering rules, or theoretical authority.
 
 ---
 
@@ -320,5 +323,3 @@ This document makes **no claims beyond those required for legal clarity**.
 ---
 
 *End of `IER-legal.md`*
-
----

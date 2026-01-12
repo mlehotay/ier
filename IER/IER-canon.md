@@ -271,6 +271,26 @@ These conventions are **project-canonical** and apply to all IER documents.
 
 ---
 
+## **Chapter Intermissions**
+
+Each chapter concludes with a brief **Intermission**. Intermissions are not summaries, arguments, or extensions of the chapter. They introduce no new claims, commitments, or foundations.
+
+An Intermission serves as a **structural acknowledgment**: a short marker indicating what has become settled, constrained, or clarified as a result of the chapter. Its function is to provide cognitive closure and orientation without interrupting the argumentative flow.
+
+Each Intermission contains **exactly one element**, drawn from a small fixed set, chosen according to the epistemic role of the chapter:
+
+* **Structural Facts** state results that are now unavoidable given the framework.
+* **Constraint Aphorisms** compress the chapter’s central insight into a single sentence.
+* **Negative Space Markers** explicitly note what the chapter does *not* require or imply.
+* **Orientation Signals** provide reassurance, scope control, or reader positioning.
+* **Silent Achievements** mark rare conceptual thresholds without explanation.
+
+Intermissions are intentionally brief, uniform in placement, and non-interactive. They are designed to acknowledge progress, reduce interpretive drift, and reinforce the framework’s commitment to minimal structure and maximal constraint.
+
+They may be read or ignored without loss of content.
+
+---
+
 ## **Summary**
 
 IER is governed by:

@@ -2,7 +2,7 @@
 
 ## **Status and Scope**
 
-This document defines the **public deployment order and release discipline** for artifacts derived from the Informational Experiential Realism (IER) corpus.
+This document defines the **public deployment order and release discipline** for artifacts derived from the **Informational Experiential Realism (IER)** corpus.
 
 It governs:
 
@@ -16,14 +16,13 @@ It does **not**:
 
 * define theory or ontology
 * define canonical authority
-* define book structure or contents
+* define corpus membership
 * define rendering, layout, or production rules
 
 This document is subordinate to:
 
-1. `IER-canon.md`
-2. `IER-manifest.md`
-3. `IER-book.md`
+1. **`IER-canon.md`**
+2. **`IER-manifest.md`**
 
 It is orthogonal to `IER-publishing.md`, which governs **rendering and production only**.
 
@@ -39,7 +38,7 @@ This prevents:
 
 * authority inversion
 * retroactive reframing
-* “draft” misclassification of stable work
+* misclassification of stable work as “draft”
 
 ---
 
@@ -74,7 +73,8 @@ Authority is fixed exclusively upstream by the IER canon and specification and i
 The first public release is:
 
 * **IER Book, Edition 0.1**
-* mechanically derived from IER v10.8.2
+* mechanically derived from **IER v10.8.2**
+* assembled from manifest-defined chapters and structural sentinels
 * published via **Amazon KDP**
 
 This release:
@@ -159,10 +159,10 @@ Pricing, distribution channels, and formats are **deployment choices**, not auth
 
 ## **5. Relationship to Other Governance Documents**
 
-* **Structure and contents** are defined by `IER-book.md`
+* **Corpus membership and ordering** are defined by `IER-manifest.md`
 * **Rendering and production** are governed by `IER-publishing.md`
 * **Legal context** is described in `IER-legal.md`
-* **Build mechanics and validation** are governed by the Master Build & Governance Plan (v10.8.2)
+* **Build mechanics and validation** are governed by the master build and governance plan
 
 Deployment order does **not** modify:
 
@@ -177,7 +177,8 @@ Deployment order does **not** modify:
 Each deployment cycle maps:
 
 * **one IER version** → **one or more editions**
-* deployment order resets only when the IER version changes
+
+Deployment order resets only when the IER version changes.
 
 Edition 0.1 corresponds exclusively to **IER v10.8.2**.
 
@@ -186,6 +187,6 @@ Edition 0.1 corresponds exclusively to **IER v10.8.2**.
 ## **Final Statement**
 
 > Deployment governs **how the work enters public space**, not **what the work claims**.
-> Authority flows from canon to book to paper—never in reverse.
+> Authority flows from canon → book → paper — never in reverse.
 
 ---
