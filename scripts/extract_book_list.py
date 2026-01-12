@@ -54,13 +54,13 @@ def main() -> None:
         # We only want the actual chapter files (Parts I–III are in IER/)
         # Manifest currently lists them as `IER-foo.md` (no directory), so map to IER/.
         if path.startswith("IER-") and path.endswith(".md"):
-            files.append(f"../IER/{path}")
+            files.append(f"IER/{path}")
 
     if not files:
         die("No chapter files found (expected backticked `IER-*.md` entries in Parts I–III).")
 
     # Optional: prepend preface (you can remove this if you want “manifest only”)
-    preface = "../IER-paper/IER-paper.md"
+    preface = "manuscripts/IER-paper.md"
 
     # De-dup while preserving order (defensive)
     seen: set[str] = set()

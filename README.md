@@ -1,76 +1,113 @@
-# **Informational Experiential Realism (IER)**
+# Informational Experiential Realism (IER)
 
-This repository contains the materials for **Informational Experiential Realism (IER)** —
-a strictly physicalist identity framework for experience, agency, and moral standing.
+This repository contains the complete **Informational Experiential Realism (IER)** project:
+the canonical theory, non-authoritative manuscripts, and publication build infrastructure.
 
 ---
 
 ## Repository Structure
 
 ```
-IER/          ← Canonical IER corpus (source of truth)
-IER-paper/    ← Paper source and submission materials
-IER-book/     ← Book assembly, publishing, and legal materials
-```
 
-Only these directories are part of the IER project.
-Other folders are out of scope.
+.
+├── IER/                    ← Canonical IER corpus (authoritative)
+│   ├── IER-specification.md
+│   ├── IER-theory.md
+│   ├── IER-dynamics.md
+│   ├── IER-manifest.md
+│   ├── IER-canon.md
+│   └── …
+│
+├── manuscripts/            ← Non-authoritative publication manuscripts
+│   ├── IER-paper.md
+│   ├── IER-tldr.md
+│   ├── 00-front-matter.md
+│   └── …
+│
+├── scripts/                ← Build helpers (e.g. extract_book_list.py)
+│
+├── assets/                 ← Covers, figures, static assets
+│
+├── build/                  ← Generated artifacts (disposable)
+│
+├── Makefile                ← Publication build entry point
+└── README.md
 
----
-
-## Where Authority Lives
-
-* **Normative authority:** [`IER/IER-specification.md`](IER/IER-specification.md)
-* **Canon and governance:** [`IER/IER-canon.md`](IER/IER-canon.md)
-* **Corpus inventory:** [`IER/IER-manifest.md`](IER/IER-manifest.md)
-
-All interpretation, ordering disputes, and conflict resolution defer to the canon.
-
----
-
-## Roles of the Non-Canonical Directories
-
-* **`IER-paper/`**
-
-  * Contains a paper derived from the canonical corpus
-  * Introduces no new theory
-  * Serves as the **Preface** of the book
-
-* **`IER-book/`**
-
-  * Contains structural and publishing materials for the book
-  * Assembles canonical content into book form
-  * Introduces no new theory
-
-Both directories are **in-corpus but non-canonical**.
+````
 
 ---
 
-## How to Start
+## Authority Model (Fixed)
 
-If you are new to IER:
+Authority in IER is fixed exclusively by canon rules.
 
-1. Open [`IER/`](IER/)
-2. Read [`IER/README.md`](IER/README.md)
-3. Follow a suggested reading path
+* **Normative authority:** `IER/IER-specification.md`
+* **Canonical governance:** `IER/IER-canon.md`
+* **Corpus inventory & ordering:** `IER/IER-manifest.md`
 
-You do not need to read everything.
+All other materials are **non-authoritative derivatives**.
 
----
-
-## Notes
-
-* Canonical content lives **only** in `IER/`
-* `IER-paper/` contains source material, not generated artifacts
-* `IER-book/` contains assembly structure, not theory
-* Publication formats do not define content or authority
+If any conflict appears, it resolves to the canon in `IER/`.
 
 ---
 
-**Informational Experiential Realism**
+## Document Classes
 
-*Experience is real by identity.
-Reality remains singular.
-Ethics begins wherever intrinsic constraint is borne from the inside.*
+### 1. Canonical Theory (Authoritative)
+* Lives in `IER/`
+* Includes Tier 1–4 corpus documents
+* Fixes identity claims, constraints, exclusions, and scope
+
+### 2. Manuscripts (Non-Authoritative)
+* Lives in `manuscripts/`
+* Includes:
+  * Academic paper manuscript (`IER-paper.md`)
+  * TLDR / gateway book assembly materials
+  * Front matter and exemplar content
+* Introduce **no new commitments**
+* May **not** be cited to establish IER claims
+
+### 3. Publication Infrastructure
+* `Makefile`
+* `scripts/`
+* Build configuration and process logic
 
 ---
+
+## Build Model
+
+All publication artifacts are produced mechanically from existing sources.
+
+### Inputs
+* Canonical chapters from `IER/`
+* Manuscripts and front matter from `manuscripts/`
+* Ordering rules from `IER/IER-manifest.md`
+* Build helpers from `scripts/`
+
+### Outputs (in `build/`)
+* `IER-paper.pdf`
+* `IER-corpus-book.pdf`
+* `IER-tldr-book.pdf`
+* Intermediate ordered input lists (e.g. `corpus-input.txt`, `tldr-input.txt`)
+
+No theory content is generated, rewritten, or modified at build time.
+
+---
+
+## Makefile Usage
+
+From the repository root:
+
+```bash
+make paper      # build academic paper PDF
+make book       # build full corpus book PDF
+make tldr       # build TLDR / gateway book PDF
+make pubs       # build all publication artifacts
+make clean      # remove generated files
+````
+
+The Makefile:
+
+* reads Markdown from `IER/` and `manuscripts/`
+* writes all artifacts to `build/`
+* treats `build/` as disposable
