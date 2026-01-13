@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import argparse
 import re
 import sys
 from pathlib import Path
 
-
-# Matches a manifest entry like:
-# 12. **[T2] `IER-panic.md`** — ...
-# 69. **`IER-paper/IER-paper.md`** — ...
 ENTRY_RE = re.compile(r"`([^`]+)`")
+
+PART_I_RE = re.compile(r"^##\s+\*\*PART I\b")
+PART_IV_RE = re.compile(r"^##\s+\*\*PART IV\b")
 
 
 def die(msg: str) -> None:
@@ -17,72 +17,101 @@ def die(msg: str) -> None:
     sys.exit(1)
 
 
-def main() -> None:
-    if len(sys.argv) != 3:
-        die("Usage: extract_book_list.py <IER-manifest.md> <out/book-input.txt>")
+def normalize_path(token: str) -> str | None:
+    token = token.strip()
+    if not token.endswith(".md"):
+        return None
+    # Map bare canonical filenames to IER/
+    if "/" not in token and token.startswith("IER-"):
+        return f"IER/{token}"
+    return token
 
-    manifest_path = Path(sys.argv[1]).resolve()
-    out_path = Path(sys.argv[2]).resolve()
 
-    if not manifest_path.exists():
-        die(f"Manifest not found: {manifest_path}")
+def extract_generic(lines: list[str]) -> list[str]:
+    out: list[str] = []
+    for line in lines:
+        m = ENTRY_RE.search(line)
+        if not m:
+            continue
+        p = normalize_path(m.group(1))
+        if p:
+            out.append(p)
+    return out
 
-    text = manifest_path.read_text(encoding="utf-8", errors="strict").splitlines()
 
+def extract_corpus_parts_I_to_III(lines: list[str]) -> list[str]:
     in_book = False
-    files: list[str] = []
+    out: list[str] = []
+    for line in lines:
+        s = line.strip()
 
-    for line in text:
-        # Enter the book chapter region
-        if line.strip().startswith("## **PART I"):
+        if PART_I_RE.match(s):
             in_book = True
+            continue
 
-        # Stop once we hit non-book sections
-        if line.strip().startswith("## **PART IV"):
+        if PART_IV_RE.match(s):
             in_book = False
 
         if not in_book:
             continue
 
-        # Extract any backticked path
         m = ENTRY_RE.search(line)
         if not m:
             continue
 
-        path = m.group(1).strip()
+        p = normalize_path(m.group(1))
+        # Only canonical chapter files for Parts I–III are IER/IER-*.md
+        if p and p.startswith("IER/IER-") and p.endswith(".md"):
+            out.append(p)
 
-        # We only want the actual chapter files (Parts I–III are in IER/)
-        # Manifest currently lists them as `IER-foo.md` (no directory), so map to IER/.
-        if path.startswith("IER-") and path.endswith(".md"):
-            files.append(f"IER/{path}")
+    return out
 
-    if not files:
-        die("No chapter files found (expected backticked `IER-*.md` entries in Parts I–III).")
 
-    # Optional: prepend preface (you can remove this if you want “manifest only”)
-    preface = "manuscripts/IER-paper.md"
-
-    # De-dup while preserving order (defensive)
+def dedup_preserve_order(paths: list[str]) -> list[str]:
     seen: set[str] = set()
     ordered: list[str] = []
-    for p in [preface, *files]:
+    for p in paths:
         if p not in seen:
             seen.add(p)
             ordered.append(p)
+    return ordered
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("manifest", help="manifest-like markdown input")
+    ap.add_argument("out", help="output path list file")
+    ap.add_argument(
+        "--mode",
+        choices=["list", "corpus"],
+        default="list",
+        help="list=all backticked .md entries; corpus=IER-manifest Parts I–III only",
+    )
+    args = ap.parse_args()
+
+    manifest_path = Path(args.manifest).resolve()
+    out_path = Path(args.out).resolve()
+
+    if not manifest_path.exists():
+        die(f"Manifest not found: {manifest_path}")
+
+    lines = manifest_path.read_text(encoding="utf-8", errors="strict").splitlines()
+
+    if args.mode == "corpus":
+        raw = extract_corpus_parts_I_to_III(lines)
+    else:
+        raw = extract_generic(lines)
+
+    ordered = dedup_preserve_order(raw)
+
+    if not ordered:
+        die("No chapter files found for selected mode.")
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text("\n".join(ordered) + "\n", encoding="utf-8")
 
-    # Optional: write a numbered report for humans (not used by pandoc)
     numbered_path = out_path.with_suffix(".numbered.txt")
-    numbered_lines = []
-    chap_n = 0
-    for p in ordered:
-        if p == preface:
-            numbered_lines.append(f"Preface\t{p}")
-        else:
-            chap_n += 1
-            numbered_lines.append(f"{chap_n:02d}\t{p}")
+    numbered_lines = [f"{i+1:02d}\t{p}" for i, p in enumerate(ordered)]
     numbered_path.write_text("\n".join(numbered_lines) + "\n", encoding="utf-8")
 
     print(f"Wrote {len(ordered)} paths to {out_path}")
