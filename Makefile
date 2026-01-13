@@ -14,7 +14,7 @@ PANDOC_OPTS := \
   -V mathfont="TeX Gyre DejaVu Math"
 
 IER_DIR     := IER
-SRC_DIR     := manuscripts
+SRC_DIR     := pub
 SCRIPTS_DIR := scripts
 
 .PHONY: all pubs dirs paper book booklist tldr tldrlist \
@@ -41,7 +41,7 @@ $(PAPER_PDF): $(PAPER_SRC) | dirs
 
 # -----------------------------
 # Corpus Book
-#  - frontmatter/scaffold: manuscripts/corpus-book/*.md (sorted)
+#  - frontmatter/scaffold: pub/corpus-book/*.md (sorted)
 #  - chapters: extracted from IER/IER-manifest.md
 # -----------------------------
 MANIFEST_CORPUS   := $(IER_DIR)/IER-manifest.md
@@ -88,8 +88,8 @@ check-corpus: $(CORPUS_BOOKLIST)
 
 # -----------------------------
 # TLDR Book
-#  - frontmatter/scaffold: manuscripts/tldr-book/*.md (sorted)
-#  - chapters: extracted from manuscripts/tldr-book/IER-tldr.md
+#  - frontmatter/scaffold: pub/tldr-book/*.md (sorted)
+#  - chapters: extracted from pub/tldr-book/IER-tldr.md
 # -----------------------------
 MANIFEST_TLDR     := $(SRC_DIR)/tldr-book/IER-tldr.md
 FRONT_TLDR_DIR    := $(SRC_DIR)/tldr-book
@@ -131,7 +131,7 @@ check-tldr: $(TLDR_BOOKLIST)
 	echo "All tldr-book chapters passed individual Pandoc check."
 
 # -----------------------------
-# Generic: build any single chapter PDF from IER/ or manuscripts/
+# Generic: build any single chapter PDF from IER/ or pub/
 # -----------------------------
 .PRECIOUS: $(BUILD_DIR)/%.pdf
 
@@ -139,11 +139,11 @@ check-tldr: $(TLDR_BOOKLIST)
 $(BUILD_DIR)/%.pdf: $(IER_DIR)/%.md | dirs
 	$(PANDOC) $< -o $@ $(PANDOC_OPTS)
 
-# Fall back to manuscripts/ (top-level)
+# Fall back to pub/ (top-level)
 $(BUILD_DIR)/%.pdf: $(SRC_DIR)/%.md | dirs
 	$(PANDOC) $< -o $@ $(PANDOC_OPTS)
 
-# Fall back to manuscripts/*/ (one level deep: corpus-book/, tldr-book/, etc.)
+# Fall back to pub/*/ (one level deep: corpus-book/, tldr-book/, etc.)
 $(BUILD_DIR)/%.pdf: $(SRC_DIR)/*/%.md | dirs
 	$(PANDOC) $< -o $@ $(PANDOC_OPTS)
 
