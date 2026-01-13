@@ -17,7 +17,7 @@ IER_DIR     := IER
 SRC_DIR     := pub
 SCRIPTS_DIR := scripts
 
-.PHONY: all pubs dirs paper book booklist tldr tldrlist \
+.PHONY: all pubs dirs paper book booklist verify tldr tldrlist \
         check-corpus check-tldr clean rebuild
 
 # Default target
@@ -67,8 +67,21 @@ $(CORPUS_BOOKLIST): $(MANIFEST_CORPUS) $(CORPUS_FRONT_FILES) | dirs
 	@mv "$@.tmp" "$@"
 	@echo "Wrote booklist: $@"
 
+# -----------------------------
+# Verification (manifest/order/sentinels + glyph discipline)
+# -----------------------------
+verify: $(CORPUS_BOOKLIST)
+	@echo "Verifying corpus book list and chapter content..."
+	@python3 $(SCRIPTS_DIR)/verify_book.py "$(MANIFEST_CORPUS)" "$(CORPUS_BOOKLIST)"
 
-$(CORPUS_PDF): $(CORPUS_BOOKLIST) | dirs
+verify-structure: $(CORPUS_BOOKLIST)
+	@echo "Verifying corpus book structure (glyph checks skipped)..."
+	@python3 $(SCRIPTS_DIR)/verify_book.py \
+	  "$(MANIFEST_CORPUS)" \
+	  "$(CORPUS_BOOKLIST)" \
+	  --skip-glyphs
+
+$(CORPUS_PDF): verify | dirs
 	@# Guard: do NOT let pandoc block by reading stdin
 	@test -s "$(CORPUS_BOOKLIST)" || (echo "ERROR: empty book list: $(CORPUS_BOOKLIST)" >&2; exit 1)
 	$(PANDOC) $$(cat "$(CORPUS_BOOKLIST)") \
