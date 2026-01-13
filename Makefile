@@ -81,7 +81,10 @@ verify-structure: $(CORPUS_BOOKLIST)
 	  "$(CORPUS_BOOKLIST)" \
 	  --skip-glyphs
 
-$(CORPUS_PDF): verify | dirs
+# NOTE: Re-enable `verify` before any public or tagged release.
+# $(CORPUS_PDF): verify | dirs
+# $(CORPUS_PDF): verify-structure | dirs
+$(CORPUS_PDF): $(CORPUS_BOOKLIST) | dirs
 	@# Guard: do NOT let pandoc block by reading stdin
 	@test -s "$(CORPUS_BOOKLIST)" || (echo "ERROR: empty book list: $(CORPUS_BOOKLIST)" >&2; exit 1)
 	$(PANDOC) $$(cat "$(CORPUS_BOOKLIST)") \

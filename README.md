@@ -23,6 +23,7 @@ Only materials in `IER/` are canonical. All other materials are non-authoritativ
 │   ├── IER-tldr-book.md
 │   ├── IER-deployment.md
 │   ├── IER-legal.md
+│   ├── IER-building.md
 │   │
 │   ├── corpus-book/             ← Corpus-book assembly scaffolding
 │   └── tldr-book/               ← TLDR / gateway book scaffolding

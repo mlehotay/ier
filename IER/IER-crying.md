@@ -174,20 +174,21 @@ In all cases:
 
 ---
 
-## **8. Crying Is Not Panic**
+## 8. Crying Is Not Panic
 
 Crying is frequently conflated with panic.
-Under IER, this is a category error.
+Under IER, this is a **category error**.
 
-| Feature              | Panic                                 | Crying                  |
-| -------------------- | ------------------------------------- | ----------------------- |
-| Regime-level?        | ✅                                     | ❌                       |
-| Defines future space | ✅                                     | ❌                       |
-| Globally dominant    | ✅                                     | ❌                       |
-| Temporally sustained | Often                                 | No                      |
-| Function             | Preserve UEF under extreme constraint | Redistribute constraint |
+| Feature              | Panic                                               | Crying                            |
+| -------------------- | --------------------------------------------------- | --------------------------------- |
+| Regime-level         | Yes                                                 | No                                |
+| Defines future space | Yes                                                 | No                                |
+| Globally dominant    | Yes                                                 | No                                |
+| Temporally sustained | Often                                               | No                                |
+| Function             | Preserve the UEF under extreme intrinsic constraint | Redistribute intrinsic constraint |
 
 Crying may occur **within** panic, but it does not *determine* panic.
+
 Panic concerns **whether experience survives**.
 Crying concerns **how experience is temporarily stabilized if it does**.
 
