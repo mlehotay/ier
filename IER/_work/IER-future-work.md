@@ -1,21 +1,20 @@
-# **IER — Future Work and Articulation Ledger**
+# **IER — Future Work and Articulation Ledger (Expanded)**
 
 ## **Status**
 
 This document is **non-canonical** and **non-authoritative**.
 
-It records the **entire remaining space of permissible future work** on the Informational Experiential Realism (IER) corpus **after**:
+It:
 
-* **normative closure (v10.8)**, and
-* **corpus completion and misuse hardening (v10.8.1)**.
+* introduces **no ontological, criterial, epistemic, or ethical commitments**
+* proposes **no revisions** to the IER Specification
+* authorizes **no new claims, diagnostics, or methods**
+* does **not** reopen normative closure
 
-It introduces **no ontological, criterial, epistemic, or ethical claims**,
-and it signals **no pending revisions** to the IER framework.
+All binding authority remains fixed **exclusively** in:
 
-All binding commitments remain fixed **exclusively** in:
-
-* `IER-specification.md`, and
-* governed by `IER-canon.md`.
+* `IER-specification.md`
+* governed by `IER-canon.md`
 
 If an activity is **not listed here**, it is **out of scope by default**.
 
@@ -23,234 +22,236 @@ If an activity is **not listed here**, it is **out of scope by default**.
 
 ## **Purpose**
 
-`IER-future-work.md` defines, exhaustively, **what kinds of work may still occur** within the IER project **without reopening the theory**.
+`IER-future-work.md` records the **complete space of permissible future work** on the IER corpus **after normative closure (v10.8)**.
 
-Permitted work is limited to:
+It is:
 
-* articulation tightening
-* reader-alignment hardening
-* navigation and orientation improvements
-* misuse- and misreading-containment
-* internal consistency and drift audits
-* optional explanatory packaging already identified during v10.8.1
+* an **exhaustive checklist**, not a schedule
+* a **scope limiter**, not a roadmap
+* a **misuse-containment tool**, not a theory agenda
 
-This document is **not**:
-
-* a roadmap for new theory
-* a list of open philosophical problems
-* a staging ground for extensions
-* a venue for speculative interpretation
-* a placeholder for “future ideas”
-
-Completion of the items below **does not alter** IER’s ontology, identity conditions, ethical consequences, or epistemic limits.
+Release sequencing is governed separately by `IER-roadmap.md`.
 
 ---
 
-## **I. Navigation & Orientation Tasks**
+## **Global Constraints (Binding for All Items)**
 
-These tasks improve **access, entry, and usability only**.
+All future work listed below must satisfy **all** of the following:
 
-They do not add explanation, interpretation, or emphasis.
+* no new primitives
+* no new criteria, thresholds, or diagnostics
+* no graded or proto-subjecthood
+* no relaxation of non-diagnosability
+* no new ethical principles or permissions
+* no engineering or implementation guidance
+* explicit informational-language disclaimers where applicable
+* explicit reaffirmation that experiential structure confers **no epistemic authority**
 
-### **Completed**
-
-* [ ] `IER-glossary.md`
-  Canon-constrained definitions; blocks imported meanings.
-
-* [ ] `IER-index.md`
-  Concept-to-location navigation only; no summaries or reinterpretation.
-
-### **Remaining**
-
-* [ ] **Cross-link glossary entries to first canonical usage**
-
-  * Each term links to its first authoritative introduction.
-  * No added exposition or paraphrase permitted.
-
-* [ ] **Audit README reading paths**
-
-  * Remove redundancy, loops, or dead ends.
-  * Ensure all suggested paths terminate in closed Tier-1 material.
-
-* [ ] **Add minimal “where to go next” pointers**
-
-  * Target audiences: philosophy, neuroscience, ethics, AI.
-  * Descriptive only; no endorsement or interpretive steering.
+Failure on any item invalidates the work.
 
 ---
 
-## **II. Mandatory Articulation Tightening (Non-Normative)**
+# **I. Navigation & Orientation Tasks**
 
-These are **explicit closure tasks**, not optional improvements.
-
-They eliminate predictable misreadings without adding commitments.
-
-* [ ] **Anti-isomorphism clarification** (`IER-theory.md`)
-
-  > Organizational, functional, or behavioral similarity does not imply intrinsic ownership of constraint or experience, and remains compatible with slack-masked non-experience.
-
-* [ ] **No nested subjects / no mini-fields statement** (`IER-dynamics.md`)
-
-  > Local attractors, metastable subsystems, or participation clusters are never subjects or sub-fields; they are internal participation structure within a single Unified Experiential Field.
-
-* [ ] **Temporal continuity ≠ timescale threshold clarification**
-  (`IER-theory.md` or `IER-math.md`)
-
-  > “Non-zero duration” is a regime-formal requirement, not a measurable or calibratable temporal threshold.
-
-* [ ] **Autopoiesis / operational closure denial**
-  (`IER-denials.md` or `IER-FAQ.md`)
-
-  > Autopoiesis and operational closure are neither necessary nor sufficient for a Unified Experiential Field; their role in IER is historical and explanatory only.
-
-* [ ] **Multiple realizability ≠ implementation independence clarification**
-  (`IER-theory.md`)
-
-  > Regime-level identity allows multiple realization without implying functional, computational, or implementation independence.
-
-* [ ] **Metaphor audit (global)**
-
-  * Remove or neutralize metaphors that invite:
-
-    * representational readings
-    * functional sufficiency intuitions
-    * epistemic authority creep
-
-**Stopping condition:**
-Each clarification appears **exactly once**, as an **explicit non-inference**, in an appropriate Tier-1 or Tier-2 document.
+* [ ] Expand `IER-glossary.md` to cover significant terms across full IER corpus
+* [ ] Expand `IER-index.md` to provide complete corpus coverage
+* [ ] Cross-link glossary entries to first canonical usage
+* [ ] Audit README reading paths for loops, redundancy, and dead ends
+* [ ] Add minimal “where to go next” pointers by audience
+* [ ] Ensure all reading paths terminate in Tier-1 material
+* [ ] Verify no non-canonical document is cited as authority
 
 ---
 
-## **III. Misuse & Misreading Containment (Mandatory)**
+# **II. Mandatory Articulation Tightening (Non-Normative)**
 
-These tasks preserve **long-term stability** of interpretation.
+Each clarification must appear **exactly once** as an **explicit non-inference**.
 
-* [ ] **Scan Tier-2 documents for diagnostic or proxy language**
-
-  * Eliminate phrasing that could be read as:
-
-    * thresholds
-    * indicators
-    * sufficient conditions
-    * measurable correlates
-
-* [ ] **Verify informational-language disclaimers**
-
-  * Every document using informational terms must include the required disclaimer.
-
-* [ ] **Audit phenomenology-adjacent documents**
-
-  * Ensure no implication of graded subjecthood, partial experience, or liminal standing.
-
-* [ ] **Reinforce “experiential structure ≠ epistemic authority”**
-
-  * Required in meaning-, insight-, agency-, narrative-, and belief-adjacent texts.
+* [ ] Anti-isomorphism clarification (`IER-theory.md`)
+* [ ] No nested subjects / no mini-fields (`IER-dynamics.md`)
+* [ ] Temporal continuity ≠ timescale threshold (`IER-theory.md` or `IER-math.md`)
+* [ ] Autopoiesis / operational closure denial (`IER-denials.md` or `IER-FAQ.md`)
+* [ ] Multiple realizability ≠ implementation independence (`IER-theory.md`)
+* [ ] Global metaphor audit (representation, sufficiency, epistemic creep)
 
 ---
 
-## **IV. History & Lineage Guardrails (Mandatory)**
+# **III. Misuse & Misreading Containment (Mandatory)**
 
-These tasks prevent retrospective misinterpretation.
-
-* [ ] **Add a guardrail box to `IER-history.md`** clarifying:
-
-  * not a claim of influence
-  * not a refutation project
-  * not a criterial mapping
-  * not a moral evaluation of predecessors
-
-* [ ] **Reaffirm explicitly** that:
-
-  * only `IER-specification.md` is normative and criterial
-
-No new historical analysis is permitted or required.
+* [ ] Scan Tier-2 documents for proxy / diagnostic phrasing
+* [ ] Verify informational-language disclaimers everywhere required
+* [ ] Audit phenomenology-adjacent documents for graded subjecthood creep
+* [ ] Reinforce “experiential structure ≠ epistemic authority” globally
+* [ ] Verify no implicit certification language remains
 
 ---
 
-## **V. Optional Standalone Explanatory Articles (Non-Required)**
+# **IV. History & Lineage Guardrails (Mandatory)**
 
-These are **audience-management tools only**.
-
-They introduce no theory and are not required for closure.
-
-* [ ] **`IER-regimes.md`**
-
-  * Regime vs. description
-  * Why regime talk does not imply modeling-level equivalence
-
-* [ ] **`IER-and-engineering.md`**
-
-  * What IER does *not* license in AI or systems engineering
-  * Why “build-and-test” intuitions fail structurally
-
-Failure to complete these documents does **not** indicate unfinished theory.
+* [ ] Add guardrail box to `IER-history.md` (no influence, no refutation, no evaluation)
+* [ ] Reaffirm Specification exclusivity explicitly
 
 ---
 
-## **VI. Consistency & Drift Audits (Ongoing, Non-Blocking)**
+# **V. Diachronic & Time-Extended Organization (Part II Completion)**
 
-Maintenance only.
+*(All items here presuppose categorical onset and intact UEF identity.)*
 
-* [ ] Tier-1 / Tier-2 language consistency checks
-* [ ] Ethics language audit against v10.8 closure
-* [ ] Reader-alignment tone audit
-* [ ] Verification that non-canonical documents are not cited as authority
+### **Memory & History**
+
+* [ ] Memory as structural history (hysteresis, path-dependence, sedimentation)
+* [ ] Explicit rejection of memory as storage, representation, or content
+* [ ] Amnesia as narrative discontinuity without experiential loss
+* [ ] Memory authority without epistemic privilege
+
+### **Development & Preparation**
+
+* [ ] Development as accumulation of constraint-bearing capacity
+* [ ] Pre-UEF preparation without proto-experience
+* [ ] Infant / maturation trajectories with categorical onset preserved
+
+### **Skill, Habit, Automaticity**
+
+* [ ] Skill as attractor narrowing and load reduction
+* [ ] Habit without scripts, sub-agents, or representations
+* [ ] Automaticity as simplification, not delegation
+* [ ] Flow as regime persistence across temporal windows
+
+### **Affect Over Long Horizons**
+
+* [ ] Mood as persistent constraint bias
+* [ ] Temperament as long-horizon attractor geometry
+* [ ] Mood disorder framing without clinical diagnostics
+
+### **Attention (Integrative, Optional)**
+
+* [ ] Attention as constraint allocation
+* [ ] Participation recruitment vs subject creation
+* [ ] Attention ≠ control, authorship, or epistemic access
 
 ---
 
-## **VII. Tier Assignment Corrections (Mandatory, Structural Only)**
+# **VI. State-Specific Clarifications (Consolidative)**
 
-These changes correct **labeling**, not authority.
-
-### **A) `IER-math.md`**
-
-* Reclassify from **[T1] → [T2]**
-
-### **B) `IER-ethics.md`**
-
-* Reclassify from **[T1] → [T2]**
-
-Document placement is stylistic; tier labeling is binding.
+* [ ] Dreams conscious iff UEF persists (input-independence argument)
+* [ ] Specious present as minimal temporal coherence window
+* [ ] Experiential flow without sampling or snapshots
+* [ ] Fringe awareness as low-participation content
+* [ ] Tip-of-the-tongue and “something’s off” phenomena
+* [ ] Dissociation and ownership disruption without subject loss
 
 ---
 
-## **VIII. Tooling / Meta (Optional)**
+# **VII. Rubric & Evaluation Hardening**
 
-Convenience only.
+*(Evaluation-facing; no new experiential claims.)*
+
+* [ ] Explanandum matrix (what IER explains vs excludes)
+* [ ] Identity conditions vs diagnostics clarification
+* [ ] “Identity ≠ detection rule” explicit statement
+* [ ] Falsifiability without tests articulation
+* [ ] Structural underdetermination explanation
+* [ ] Contrast matrix with major theories (descriptive only)
+
+---
+
+# **VIII. AI, Engineering, and Boundary Stress Tests**
+
+*(Misuse-blocking only; no certification.)*
+
+* [ ] Expanded slack-based exclusion arguments for AI architectures
+* [ ] Explicit “no certification” and “no sufficiency” language
+* [ ] Clarify compatibility with neuroscience without becoming one
+* [ ] Reaffirm engineering irrelevance to experiential attribution
+
+---
+
+# **IX. Tooling, Build, and Publication Infrastructure**
 
 * [ ] Machine-readable manifest or index
-* [ ] Lightweight linting rules for:
-
-  * agentive language in definitions
-  * missing informational disclaimers
-  * forbidden diagnostic phrasing
+* [ ] Validation scripts for book build
+* [ ] Sentinel enforcement
 * [ ] Automated tier-violation checks
+* [ ] Linting for forbidden language classes
 
 ---
 
-## **Non-Goals (Binding)**
+# **X. Consistency & Drift Audits (Ongoing, Non-Blocking)**
 
-This document explicitly excludes:
+* [ ] Tier consistency checks
+* [ ] Ethics language audit against v10.8 closure
+* [ ] Reader-alignment tone audit
+* [ ] Verification that non-canonical docs are not cited as authority
+
+---
+
+# **XI. Tier Assignment Corrections (Mandatory)**
+
+* [ ] Reclassify `IER-math.md` → T2
+* [ ] Reclassify `IER-ethics.md` → T2
+
+---
+
+## **XII. Mathematical Notation & Glyph Hygiene (Mandatory, Corpus-Wide)**
+
+* [ ] Replace all Unicode mathematical glyphs with LaTeX notation
+* [ ] Enforce strict separation between math mode and prose
+* [ ] Normalize conceptual labels inside math expressions
+* [ ] Audit display math vs inline math usage
+* [ ] Verify renderer-independence and copy stability
+* [ ] Confirm canon compliance
+
+---
+
+# **XIII. Explicit Non-Goals (Binding)**
+
+The following are **out of scope** and must not appear in future work:
 
 * new theory
 * speculative extensions
-* unresolved foundational questions
-* revisions to ontology, identity, or ethics
+* diagnostics or indicators
+* degrees or continua of experience
+* neuroscience correlations as criteria
+* AI consciousness engineering
+* detection or measurement proposals
 
 Any such change would require:
 
-* a new version number, and
-* explicit canon revision.
+* a **new version class**, and
+* explicit **canon revision**.
+
+---
+
+## **Relationship to `IER-roadmap.md`**
+
+* `IER-future-work.md`
+  → **What work is permitted** (exhaustive)
+
+* `IER-roadmap.md`
+  → **How and when subsets are released**
+
+This document **does not define release sequencing**.
 
 ---
 
 ## **Closure Condition**
 
-When Sections **II, III, IV, and VII** are complete:
+When Sections **II, III, IV, and XI** are complete:
 
-> **IER v10.8.1 is articulation-complete under its own canon rules.**
+> **IER is articulation-complete under its own canon rules.**
 
-All remaining activity is **maintenance or optional pedagogy**,
+All remaining items are consolidation, translation, or navigation —
 not unfinished theory.
+
+---
+
+## **Closing Statement**
+
+This checklist is intentionally large and finite.
+
+It exists to **prevent loss**, not to demand completion.
+
+> **IER is not unfinished because work remains.
+> It is finished because nothing here changes what it is.**
 
 ---
