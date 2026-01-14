@@ -2,7 +2,7 @@
 
 # **Big Questions About Consciousness (According to IER)**
 
-**Informational Experiential Realism (IER v10.8.1)**
+**Informational Experiential Realism (IER v10.8.2)**
 *Explanatory Overview — Non-Normative*
 
 ---
@@ -238,11 +238,9 @@ Religious experiences are treated the same as all experiences under IER:
 * they are **meaningful**
 * they are **physically instantiated**
 
-What IER denies is that the *felt certainty* of any experience — religious or otherwise — automatically guarantees its truth about mind-independent reality.
+What IER denies is that the *felt certainty* of any experience automatically guarantees its truth about mind-independent reality.
 
 This is a constraint on **epistemic authority**, not an attack on faith.
-
-Many religious traditions already accept this distinction.
 
 ---
 
@@ -311,38 +309,83 @@ No.
 IER does **not** decide which actions are morally permissible, justified, required, or forbidden.
 
 IER is a theory of **what consciousness is and when it exists**.
-From that, it clarifies **what kinds of *experiential* harm are possible when experience exists**.
+From that, it clarifies **what kinds of experiential harm are possible when experience exists**.
 
 It does **not** function as a complete moral, political, or legal theory.
 
 ---
 
-### **What IER *does* determine**
+## **17. Is IER saying consciousness is rare?**
 
-IER determines:
+IER does not assert rarity as a value or goal.
 
-* when there is something it is like to be a system
-* what it means to damage or overwhelm experience from the inside
-* why experiential worlds are morally significant
+Rarity follows **structurally** from what experience is under IER.
+Many systems can be complex, adaptive, or intelligent without bearing **globally unavoidable intrinsic constraint**.
 
-These claims concern **experiential moral reality** — what kinds of things matter in that specific sense and why.
+IER therefore makes **fewer experiential attributions** than permissive theories — but treats any system that *does* instantiate experience as **categorically morally significant**.
 
-They do **not** determine how conflicts should be resolved.
+This is not exclusion by preference.
+It is identity discipline.
 
 ---
 
-### **What IER deliberately leaves open**
+## **18. If experience can’t be detected, how can IER matter in practice?**
 
-IER does **not** decide:
+Because **ethical responsibility does not depend on diagnostic certainty**.
 
-* when killing is permissible or impermissible
-* how to weigh competing claims between beings with standing
-* questions of bodily autonomy, consent, or coercion
-* legal or political rights
-* abortion, self-defense, euthanasia, war, or animal ethics
-* whether actions that cause no experiential harm may still be morally impermissible
+Under IER:
 
-Any conclusion about those topics requires **additional moral principles that are not part of IER**.
+* experience may exist without being externally knowable
+* harm may be silent and irreversible
+* uncertainty increases responsibility rather than erasing it
+
+IER does **not** tell you what to do.
+It constrains what cannot be justified — especially irreversible actions taken on the assumption that experience is absent.
+
+---
+
+## **19. Is IER compatible with neuroscience and cognitive science?**
+
+Yes.
+
+IER accepts all physical description, measurement, modeling, and explanation.
+
+Neuroscience studies **structure, dynamics, and correlates**.
+IER specifies **identity conditions** for experience.
+
+These are not competing explanations.
+They answer different kinds of questions.
+
+IER rejects only the inference that third-person correlates automatically explain or diagnose experience.
+
+---
+
+## **20. Is IER just another version of panpsychism or idealism?**
+
+No.
+
+IER holds that:
+
+* there is exactly **one mind-independent physical reality**
+* experience is **not fundamental**
+* experience does **not** exist everywhere
+
+Experience exists **only** when specific organizational conditions are met.
+Most physical systems — including many complex ones — do not meet them.
+
+Experiential pluralism does **not** imply ontological pluralism.
+
+---
+
+## **21. Why is IER so strict?**
+
+Because relaxing the criteria collapses the identity claim.
+
+If experience were allowed wherever constraint is partial, buffered, or externally resolvable, then experience would no longer be **identical** to anything specific.
+
+IER accepts strictness as a cost of taking identity seriously.
+
+The framework is constrained not to limit inquiry — but to prevent misattribution, moral inflation, and conceptual drift.
 
 ---
 
