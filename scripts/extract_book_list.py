@@ -77,9 +77,31 @@ def dedup_preserve_order(paths: list[str]) -> list[str]:
     return ordered
 
 
+def collect_scaffold_files(scaffold_dir: Path) -> list[str]:
+    if not scaffold_dir.exists():
+        die(f"SCAFFOLD directory not found: {scaffold_dir}")
+    if not scaffold_dir.is_dir():
+        die(f"SCAFFOLD path is not a directory: {scaffold_dir}")
+
+    # Sorted lexicographically (your numeric prefixes then do the work)
+    return sorted(str(p) for p in scaffold_dir.glob("*.md") if p.is_file())
+
+
+def validate_paths_exist(paths: list[str], repo_root: Path) -> None:
+    missing: list[str] = []
+    for p in paths:
+        # p may already be relative like "IER/..." or "pub/..."
+        if not (repo_root / p).exists():
+            missing.append(p)
+    if missing:
+        msg = "Referenced Markdown files not found:\n" + "\n".join(f"  - {m}" for m in missing)
+        die(msg)
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("manifest", help="manifest-like markdown input")
+    ap.add_argument("selection", help="selection/manifest-like markdown input")
+    ap.add_argument("scaffold_dir", help="directory containing scaffolding *.md")
     ap.add_argument("out", help="output path list file")
     ap.add_argument(
         "--mode",
@@ -89,32 +111,56 @@ def main() -> None:
     )
     args = ap.parse_args()
 
-    manifest_path = Path(args.manifest).resolve()
+    # Assume script is run from repo root (Makefile does this).
+    repo_root = Path.cwd().resolve()
+
+    selection_path = Path(args.selection).resolve()
+    scaffold_dir = Path(args.scaffold_dir).resolve()
     out_path = Path(args.out).resolve()
 
-    if not manifest_path.exists():
-        die(f"Manifest not found: {manifest_path}")
+    if not selection_path.exists():
+        die(f"Selection file not found: {selection_path}")
 
-    lines = manifest_path.read_text(encoding="utf-8", errors="strict").splitlines()
+    scaffold_paths = collect_scaffold_files(scaffold_dir)
 
+    lines = selection_path.read_text(encoding="utf-8", errors="strict").splitlines()
     if args.mode == "corpus":
-        raw = extract_corpus_parts_I_to_III(lines)
+        chapter_paths = extract_corpus_parts_I_to_III(lines)
     else:
-        raw = extract_generic(lines)
+        chapter_paths = extract_generic(lines)
 
-    ordered = dedup_preserve_order(raw)
+    # Combine: scaffold first, then chapters.
+    combined = dedup_preserve_order(scaffold_paths + chapter_paths)
 
-    if not ordered:
-        die("No chapter files found for selected mode.")
+    if not combined:
+        die("No input files found (scaffold + chapters is empty).")
+
+    # Fail fast if any referenced file doesn't exist relative to repo root.
+    # (Scaffold paths are absolute here; chapters are usually relative.)
+    # Normalize scaffold paths to repo-relative when possible for pandoc.
+    normalized: list[str] = []
+    for p in combined:
+        pp = Path(p)
+        if pp.is_absolute():
+            try:
+                p = str(pp.relative_to(repo_root))
+            except ValueError:
+                # Absolute but not under repo root; keep absolute (still valid to pandoc)
+                p = str(pp)
+        normalized.append(p)
+
+    normalized = dedup_preserve_order(normalized)
+
+    validate_paths_exist([p for p in normalized if not Path(p).is_absolute()], repo_root)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text("\n".join(ordered) + "\n", encoding="utf-8")
+    out_path.write_text("\n".join(normalized) + "\n", encoding="utf-8")
 
     numbered_path = out_path.with_suffix(".numbered.txt")
-    numbered_lines = [f"{i+1:02d}\t{p}" for i, p in enumerate(ordered)]
+    numbered_lines = [f"{i+1:02d}\t{p}" for i, p in enumerate(normalized)]
     numbered_path.write_text("\n".join(numbered_lines) + "\n", encoding="utf-8")
 
-    print(f"Wrote {len(ordered)} paths to {out_path}")
+    print(f"Wrote {len(normalized)} paths to {out_path}")
     print(f"Wrote numbered report to {numbered_path}")
 
 

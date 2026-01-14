@@ -17,8 +17,10 @@ IER_DIR     := IER
 SRC_DIR     := pub
 SCRIPTS_DIR := scripts
 
-.PHONY: all pubs dirs paper book booklist verify tldr tldrlist \
-        check-corpus check-tldr clean rebuild
+.PHONY: all pubs dirs \
+        paper book booklist verify verify-structure check-corpus \
+        tldr tldrlist check-tldr \
+        clean rebuild
 
 # Default target
 all: paper
@@ -29,7 +31,7 @@ dirs:
 	@mkdir -p $(BUILD_DIR)
 
 # -----------------------------
-# Paper
+# Paper (standalone authored composition)
 # -----------------------------
 PAPER_SRC := $(SRC_DIR)/IER-paper.md
 PAPER_PDF := $(BUILD_DIR)/IER-paper.pdf
@@ -41,30 +43,26 @@ $(PAPER_PDF): $(PAPER_SRC) | dirs
 
 # -----------------------------
 # Corpus Book
-#  - frontmatter/scaffold: pub/corpus-book/*.md (sorted)
-#  - chapters: extracted from IER/IER-manifest.md
+#   selection: IER/IER-manifest.md  (Parts I–III extraction in script)
+#   scaffold:  pub/corpus-book/*.md (sorted by filename)
+#   output:    build/corpus-input.txt
 # -----------------------------
-MANIFEST_CORPUS   := $(IER_DIR)/IER-manifest.md
-FRONT_CORPUS_DIR  := $(SRC_DIR)/corpus-book
+CORPUS_SELECTION        := $(IER_DIR)/IER-manifest.md
+CORPUS_SCAFFOLD_DIR     := $(SRC_DIR)/corpus-book
+CORPUS_SCAFFOLD_FILES   := $(wildcard $(CORPUS_SCAFFOLD_DIR)/*.md)
 
-CORPUS_BOOKLIST   := $(BUILD_DIR)/corpus-input.txt
-CORPUS_PDF        := $(BUILD_DIR)/IER-corpus-book.pdf
+CORPUS_BOOKLIST         := $(BUILD_DIR)/corpus-input.txt
+CORPUS_PDF              := $(BUILD_DIR)/IER-corpus-book.pdf
 
 book: $(CORPUS_PDF)
 booklist: $(CORPUS_BOOKLIST)
 
-# Rebuild the list if manifest changes or any frontmatter file changes
-CORPUS_FRONT_FILES := $(wildcard $(FRONT_CORPUS_DIR)/*.md)
-
-$(CORPUS_BOOKLIST): $(MANIFEST_CORPUS) $(CORPUS_FRONT_FILES) | dirs
-	@rm -f "$@.tmp"
-	@# 1) prepend frontmatter/scaffold (optional)
-	@find "$(FRONT_CORPUS_DIR)" -maxdepth 1 -type f -name '*.md' 2>/dev/null | sort > "$@.tmp" || true
-	@# 2) append extracted canonical chapters from manifest-like source
-	@python3 $(SCRIPTS_DIR)/extract_book_list.py --mode corpus "$(MANIFEST_CORPUS)" "$@.chapters.tmp"
-	@cat "$@.chapters.tmp" >> "$@.tmp"
-	@rm -f "$@.chapters.tmp"
-	@mv "$@.tmp" "$@"
+$(CORPUS_BOOKLIST): $(CORPUS_SELECTION) $(CORPUS_SCAFFOLD_FILES) | dirs
+	@python3 $(SCRIPTS_DIR)/extract_book_list.py \
+	  --mode corpus \
+	  "$(CORPUS_SELECTION)" \
+	  "$(CORPUS_SCAFFOLD_DIR)" \
+	  "$@"
 	@echo "Wrote booklist: $@"
 
 # -----------------------------
@@ -72,12 +70,12 @@ $(CORPUS_BOOKLIST): $(MANIFEST_CORPUS) $(CORPUS_FRONT_FILES) | dirs
 # -----------------------------
 verify: $(CORPUS_BOOKLIST)
 	@echo "Verifying corpus book list and chapter content..."
-	@python3 $(SCRIPTS_DIR)/verify_book.py "$(MANIFEST_CORPUS)" "$(CORPUS_BOOKLIST)"
+	@python3 $(SCRIPTS_DIR)/verify_book.py "$(CORPUS_SELECTION)" "$(CORPUS_BOOKLIST)"
 
 verify-structure: $(CORPUS_BOOKLIST)
 	@echo "Verifying corpus book structure (glyph checks skipped)..."
 	@python3 $(SCRIPTS_DIR)/verify_book.py \
-	  "$(MANIFEST_CORPUS)" \
+	  "$(CORPUS_SELECTION)" \
 	  "$(CORPUS_BOOKLIST)" \
 	  --skip-glyphs
 
@@ -104,29 +102,26 @@ check-corpus: $(CORPUS_BOOKLIST)
 
 # -----------------------------
 # TLDR Book
-#  - frontmatter/scaffold: pub/tldr-book/*.md (sorted)
-#  - chapters: extracted from pub/tldr-book/IER-tldr.md
+#   selection: pub/IER-tldr-selection.md
+#   scaffold:  pub/tldr-book/*.md (sorted by filename)
+#   output:    build/tldr-input.txt
 # -----------------------------
-MANIFEST_TLDR     := $(SRC_DIR)/tldr-book/IER-tldr.md
-FRONT_TLDR_DIR    := $(SRC_DIR)/tldr-book
+TLDR_SELECTION          := $(SRC_DIR)/IER-tldr-selection.md
+TLDR_SCAFFOLD_DIR       := $(SRC_DIR)/tldr-book
+TLDR_SCAFFOLD_FILES     := $(wildcard $(TLDR_SCAFFOLD_DIR)/*.md)
 
-TLDR_BOOKLIST     := $(BUILD_DIR)/tldr-input.txt
-TLDR_PDF          := $(BUILD_DIR)/IER-tldr-book.pdf
+TLDR_BOOKLIST           := $(BUILD_DIR)/tldr-input.txt
+TLDR_PDF                := $(BUILD_DIR)/IER-tldr-book.pdf
 
 tldr: $(TLDR_PDF)
 tldrlist: $(TLDR_BOOKLIST)
 
-TLDR_FRONT_FILES := $(wildcard $(FRONT_TLDR_DIR)/*.md)
-
-$(TLDR_BOOKLIST): $(MANIFEST_TLDR) $(TLDR_FRONT_FILES) | dirs
-	@rm -f "$@.tmp"
-	@# 1) prepend frontmatter/scaffold (optional)
-	@find "$(FRONT_TLDR_DIR)" -maxdepth 1 -type f -name '*.md' 2>/dev/null | sort > "$@.tmp" || true
-	@# 2) append extracted chapters from TLDR manifest-like source
-	@python3 $(SCRIPTS_DIR)/extract_book_list.py "$(MANIFEST_TLDR)" "$@.chapters.tmp"
-	@cat "$@.chapters.tmp" >> "$@.tmp"
-	@rm -f "$@.chapters.tmp"
-	@mv "$@.tmp" "$@"
+$(TLDR_BOOKLIST): $(TLDR_SELECTION) $(TLDR_SCAFFOLD_FILES) | dirs
+	@python3 $(SCRIPTS_DIR)/extract_book_list.py \
+	  --mode list \
+	  "$(TLDR_SELECTION)" \
+	  "$(TLDR_SCAFFOLD_DIR)" \
+	  "$@"
 	@echo "Wrote tldr booklist: $@"
 
 $(TLDR_PDF): $(TLDR_BOOKLIST) | dirs
