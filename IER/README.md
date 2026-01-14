@@ -120,6 +120,7 @@ Nothing outside this path adds commitments.
 * [`IER-contrast.md`](IER-contrast.md) — Incompatibilities with neighboring theories  
 * [`IER-critics.md`](IER-critics.md) — Objections, limits, and accepted costs  
 * [`IER-a-priori.md`](IER-a-priori.md) — Predictable objections to identity theories
+* [`IER-idealism.md`](IER-idealism.md) — Analytic idealism: shared diagnoses and decisive divergence  
 
 ---
 
