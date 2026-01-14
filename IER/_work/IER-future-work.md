@@ -192,7 +192,7 @@ Each clarification must appear **exactly once** as an **explicit non-inference**
 
 ---
 
-## **XII. Mathematical Notation & Glyph Hygiene (Mandatory, Corpus-Wide)**
+# **XII. Mathematical Notation & Glyph Hygiene (Mandatory, Corpus-Wide)**
 
 * [ ] Replace all Unicode mathematical glyphs with LaTeX notation
 * [ ] Enforce strict separation between math mode and prose
