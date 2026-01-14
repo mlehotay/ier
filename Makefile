@@ -47,7 +47,7 @@ $(PAPER_PDF): $(PAPER_SRC) | dirs
 #   scaffold:  pub/corpus-book/*.md (sorted by filename)
 #   output:    build/corpus-input.txt
 # -----------------------------
-CORPUS_SELECTION        := $(IER_DIR)/IER-manifest.md
+CORPUS_SELECTION        := $(SRC_DIR)/IER-corpus-selection.md
 CORPUS_SCAFFOLD_DIR     := $(SRC_DIR)/corpus-book
 CORPUS_SCAFFOLD_FILES   := $(wildcard $(CORPUS_SCAFFOLD_DIR)/*.md)
 
@@ -59,7 +59,6 @@ booklist: $(CORPUS_BOOKLIST)
 
 $(CORPUS_BOOKLIST): $(CORPUS_SELECTION) $(CORPUS_SCAFFOLD_FILES) | dirs
 	@python3 $(SCRIPTS_DIR)/extract_book_list.py \
-	  --mode corpus \
 	  "$(CORPUS_SELECTION)" \
 	  "$(CORPUS_SCAFFOLD_DIR)" \
 	  "$@"
@@ -118,7 +117,6 @@ tldrlist: $(TLDR_BOOKLIST)
 
 $(TLDR_BOOKLIST): $(TLDR_SELECTION) $(TLDR_SCAFFOLD_FILES) | dirs
 	@python3 $(SCRIPTS_DIR)/extract_book_list.py \
-	  --mode list \
 	  "$(TLDR_SELECTION)" \
 	  "$(TLDR_SCAFFOLD_DIR)" \
 	  "$@"
