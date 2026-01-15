@@ -6,15 +6,14 @@ import re
 import sys
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 
+# Backticked tokens; accept multiple per line.
 ENTRY_RE = re.compile(r"`([^`]+)`")
 
-# Part markers: any H2 header containing the word "part" (case-insensitive)
-PART_MARK_RE = re.compile(r"^##\s+.*\bpart\b", re.IGNORECASE)
-
-# Optional: if a header includes an explicit digit after "part", we’ll use it (e.g., "PART 2")
-PART_DIGIT_RE = re.compile(r"\bpart\b\s*([0-9]+)\b", re.IGNORECASE)
+# Structural markers (explicit markdown levels)
+H2_PART_RE = re.compile(r"^##\s+(?!#)(.+?)\s*$")   # "## ..." but not "###"
+H3_SECT_RE = re.compile(r"^###\s+(?!#)(.+?)\s*$")  # "### ..." but not "####"
 
 # Scaffold filename prefix: NN-description.md (two digits required)
 SCAFFOLD_PREFIX_RE = re.compile(r"^(\d{2})-.*\.md$")
@@ -104,74 +103,176 @@ def collect_scaffold_files(scaffold_dir: Path, repo_root: Path) -> List[Scaffold
     return parsed
 
 
-def next_part_index(current_part: int, header_line: str, have_seen_part_marker: bool) -> int:
-    """
-    When we hit a PART marker header:
-      - If it contains "part <digit>", use that digit (e.g., PART 2 -> 2).
-      - Otherwise:
-          * if we haven't seen any part marker yet, jump to 1
-          * else increment by 1
-    """
-    m = PART_DIGIT_RE.search(header_line)
-    if m:
-        return int(m.group(1))
-
-    if not have_seen_part_marker:
-        return 1
-    return current_part + 1
+def ensure_build_dir(repo_root: Path, build_dir_rel: str) -> Path:
+    build_dir = (repo_root / build_dir_rel).resolve()
+    build_dir.mkdir(parents=True, exist_ok=True)
+    return build_dir
 
 
-def extract_chapters_by_part(lines: List[str]) -> Dict[int, List[str]]:
+def make_part_break_file(
+    repo_root: Path,
+    build_dir_rel: str,
+    part_index: int,
+    part_title: str,
+) -> str:
     """
-    Extract all backticked .md entries.
-    Group by "part" markers:
-      - Anything before the first PART marker is Part 0.
-      - Each subsequent PART marker advances the part index.
+    Generate a purely-structural part boundary page under build/.
+    Policy:
+      - MUST create a page break at part boundaries.
+      - Include a heading so it can appear in the PDF outline (useful).
+    """
+    build_dir = ensure_build_dir(repo_root, build_dir_rel)
+
+    fname = f"_part_p{part_index:02d}.md"
+    out_path = build_dir / fname
+
+    title = part_title.strip()
+    content_lines = [
+        r"\newpage",
+        "",
+        f"# {title}" if title else "",
+        "",
+    ]
+    # Avoid trailing blank/empty-only file; keep deterministic formatting.
+    content = "\n".join([ln for ln in content_lines if ln != "" or True]).rstrip() + "\n"
+
+    out_path.write_text(content, encoding="utf-8")
+
+    try:
+        rel = out_path.relative_to(repo_root)
+        return str(rel)
+    except ValueError:
+        return str(out_path)
+
+
+def make_section_heading_file(
+    repo_root: Path,
+    build_dir_rel: str,
+    part_index: int,
+    section_index: int,
+    section_title: str,
+) -> str:
+    """
+    Generate a section heading marker under build/ (NO page break).
+    Goal: show up in outline without forcing pagination.
+    """
+    build_dir = ensure_build_dir(repo_root, build_dir_rel)
+
+    fname = f"_section_p{part_index:02d}_s{section_index:02d}.md"
+    out_path = build_dir / fname
+
+    title = section_title.strip()
+    # Use H2 so it nests under the Part H1 in outline.
+    content = f"## {title}\n" if title else "##\n"
+    out_path.write_text(content, encoding="utf-8")
+
+    try:
+        rel = out_path.relative_to(repo_root)
+        return str(rel)
+    except ValueError:
+        return str(out_path)
+
+
+def extract_stream_and_part_breaks(
+    lines: List[str],
+    repo_root: Path,
+    build_dir_rel: str = "build",
+) -> Tuple[Dict[int, List[str]], Dict[int, str]]:
+    """
+    Scan selection markdown and produce:
+      (1) stream_by_part: per-part content stream (chapters + section headings interleaved)
+      (2) auto_part_break_by_part: generated part-break file path for each H2 part marker
+
+    Rules:
+      - Part 0 = before first H2 (##)
+      - Each H2 (## ...) increments part index by 1 (no keyword required)
+      - Each H3 (### ...) increments the section index within that part and generates
+        a section heading file inserted before the next chapter path encountered.
+      - Backticked .md tokens are chapters (support multiple per line).
     """
     current_part = 0
-    have_seen_part_marker = False
-    out: Dict[int, List[str]] = {}
+    section_index = 0
+
+    stream_by_part: Dict[int, List[str]] = {}
+    auto_part_break_by_part: Dict[int, str] = {}
+
+    pending_section_inserts: List[str] = []
 
     for line in lines:
         s = line.strip()
 
-        if PART_MARK_RE.match(s):
-            current_part = next_part_index(current_part, s, have_seen_part_marker)
-            have_seen_part_marker = True
+        m_part = H2_PART_RE.match(s)
+        if m_part:
+            current_part += 1
+            section_index = 0
+            pending_section_inserts.clear()
+
+            part_title = m_part.group(1)
+            auto_part_break_by_part[current_part] = make_part_break_file(
+                repo_root=repo_root,
+                build_dir_rel=build_dir_rel,
+                part_index=current_part,
+                part_title=part_title,
+            )
             continue
 
-        m = ENTRY_RE.search(line)
-        if not m:
+        m_sect = H3_SECT_RE.match(s)
+        if m_sect:
+            section_index += 1
+            title = m_sect.group(1)
+            sect_rel = make_section_heading_file(
+                repo_root=repo_root,
+                build_dir_rel=build_dir_rel,
+                part_index=current_part,
+                section_index=section_index,
+                section_title=title,
+            )
+            pending_section_inserts.append(sect_rel)
             continue
 
-        p = normalize_path(m.group(1))
-        if not p:
+        tokens = ENTRY_RE.findall(line)
+        if not tokens:
             continue
 
-        out.setdefault(current_part, []).append(p)
+        for tok in tokens:
+            p = normalize_path(tok)
+            if not p:
+                continue
 
-    for k in list(out.keys()):
-        out[k] = dedup_preserve_order(out[k])
-    return out
+            # Insert pending section headings immediately before the next chapter
+            if pending_section_inserts:
+                stream_by_part.setdefault(current_part, []).extend(pending_section_inserts)
+                pending_section_inserts.clear()
+
+            stream_by_part.setdefault(current_part, []).append(p)
+
+    for k in list(stream_by_part.keys()):
+        stream_by_part[k] = dedup_preserve_order(stream_by_part[k])
+
+    return stream_by_part, auto_part_break_by_part
 
 
 def build_emit_list(
     scaffolds: List[ScaffoldFile],
-    chapters_by_part: Dict[int, List[str]],
+    stream_by_part: Dict[int, List[str]],
+    auto_part_break_by_part: Dict[int, str],
 ) -> List[str]:
     """
-    Authoritative rule:
-
+    Authoritative SCAFFOLD rule:
       part_index = floor(NN/10)
 
     For each part p:
       emit scaffolds with slot 0-5 (before)
-      then chapters for p
+      optionally emit autogenerated part break (see below)
+      then stream for p (chapters + generated section headings)
       then scaffolds with slot 6-9 (after)
 
-    Parts included are the union of:
-      - parts present in scaffolding
-      - parts present in chapter extraction
+    Autogenerated part break insertion policy:
+      - Part 0: never
+      - Part p>=1: emit the autogenerated part-break file *only if* there are no
+        "before" scaffolds (slots 0-5) for that part.
+        This guarantees a new page at part boundaries when no scaffold divider exists,
+        while not fighting authored part-header scaffolds when they do exist.
     """
     scaffolds_by_part: Dict[int, List[ScaffoldFile]] = {}
     for sf in scaffolds:
@@ -180,7 +281,7 @@ def build_emit_list(
     for p in list(scaffolds_by_part.keys()):
         scaffolds_by_part[p].sort(key=lambda sf: Path(sf.path).name)
 
-    parts = sorted(set(scaffolds_by_part.keys()) | set(chapters_by_part.keys()))
+    parts = sorted(set(scaffolds_by_part.keys()) | set(stream_by_part.keys()) | set(auto_part_break_by_part.keys()))
     if not parts:
         return []
 
@@ -191,7 +292,14 @@ def build_emit_list(
         after = [sf.path for sf in sfs if 6 <= sf.slot <= 9]
 
         emitted.extend(before)
-        emitted.extend(chapters_by_part.get(p, []))
+
+        # Autogenerated part boundary page break (heuristic policy)
+        if p >= 1 and not before:
+            pb = auto_part_break_by_part.get(p)
+            if pb:
+                emitted.append(pb)
+
+        emitted.extend(stream_by_part.get(p, []))
         emitted.extend(after)
 
     return dedup_preserve_order(emitted)
@@ -217,13 +325,18 @@ def main() -> None:
     scaffolds = collect_scaffold_files(scaffold_dir, repo_root)
 
     lines = selection_path.read_text(encoding="utf-8", errors="strict").splitlines()
-    chapters_by_part = extract_chapters_by_part(lines)
+    stream_by_part, auto_part_break_by_part = extract_stream_and_part_breaks(
+        lines,
+        repo_root=repo_root,
+        build_dir_rel="build",
+    )
 
-    emitted = build_emit_list(scaffolds, chapters_by_part)
+    emitted = build_emit_list(scaffolds, stream_by_part, auto_part_break_by_part)
     if not emitted:
         die("No input files found (scaffold + chapters is empty).")
 
     # Fail fast if any referenced file doesn't exist relative to repo root.
+    # (Generated part/section files are repo-relative and should exist already.)
     validate_paths_exist([p for p in emitted if not Path(p).is_absolute()], repo_root)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)

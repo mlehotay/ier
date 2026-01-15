@@ -23,16 +23,16 @@ This file is **non-canonical**.
 
 ## Core Rule
 
-> **Nothing is authored or inferred at build time. Everything is assembled mechanically.**
+> **Nothing is inferred at build time. Everything is assembled mechanically from explicit markers.**
 
 The build system:
 
-* never invents content
-* never rewrites files
-* never infers structure from headings or prose
+* never invents theory content
+* never rewrites existing source files
+* never infers structure from prose
 * never decides chapter membership implicitly
 
-All structure is **explicitly declared**.
+**Exception (explicit):** the build may generate **purely structural divider pages** (e.g., Section title pages) when a selection file explicitly declares them.
 
 ---
 
@@ -49,12 +49,12 @@ No other inputs are consulted.
 
 ## Selection Files
 
-A **selection file** is a Markdown document that explicitly lists included chapters.
+A **selection file** is a Markdown document that explicitly lists included chapters and (optionally) declares book structure.
 
-Rules:
+### Chapter path extraction (authoritative)
 
-* only backticked `.md` paths are extracted
-* order of appearance defines chapter order **within a Part**
+* only backticked tokens ending in `.md` are extracted as chapter candidates
+* order of appearance defines chapter order
 * duplicate paths are ignored after first occurrence
 * selection files are non-authoritative
 
@@ -63,7 +63,7 @@ Selection files may reference:
 * canonical files in `IER/`
 * non-canonical files in `pub/`
 
-### Path normalization
+### Path normalization (authoritative)
 
 During extraction:
 
@@ -78,46 +78,66 @@ Examples:
 
 ---
 
-## Part Markers in Selection Files
+## Structure Markers in Selection Files
 
-Selection files may be divided into Parts using **Part marker headers**.
+Selection files may declare **Book / Part / Section** structure using Markdown header levels.
 
-### Part marker syntax (authoritative)
+### Header levels (authoritative)
 
-A Part marker is:
+* `# ...` = **Book** (optional; informational only)
+* `## ...` = **Part marker** (authoritative for Part boundaries)
+* `### ...` = **Section marker** (authoritative for Section boundaries within a Part)
 
-> any **level-2 Markdown header** line (`## ...`) that contains the word **`part`** (case-insensitive).
+Header formatting (bold, numbering, roman numerals, em-dashes, etc.) is cosmetic. Only the header **level** matters.
 
-Examples (all valid Part markers):
+### Part indexing rule (authoritative)
 
-* `## PART I — CONTENT` *(Roman numerals are cosmetic)*
-* `## **PART 1 — CONTENT**`
-* `## Part 2`
-* `## part — appendix`
+Parts are numbered mechanically as the file is scanned top-to-bottom:
 
-Anything outside the header line is ignored. Formatting (bold, em-dash, etc.) is cosmetic.
+* everything **before the first `##`** is **Part 0**
+* the first `##` starts **Part 1**
+* each subsequent `##` increments the Part index by **1**
 
-### Part indexing rule for selection files (authoritative)
+Parts are ordered by appearance.
 
-Parts are numbered mechanically as the selection file is scanned top-to-bottom:
+### Section rule (authoritative)
 
-* everything **before the first Part marker** is **Part 0**
-* on each Part marker:
+Within a Part, each `###` starts a new Section.
 
-  * if the header contains a decimal digit immediately after the word `part` (e.g. `PART 2`), that digit is the new Part index
-  * otherwise:
+A Section marker triggers insertion of a **generated section divider page** into the render list:
 
-    * the first Part marker sets the Part index to **1**
-    * each subsequent Part marker increments the Part index by **1**
+* the divider page is emitted **after** the `###` marker and **before** the next chapter path that follows it
+* multiple `###` markers in a row produce multiple divider pages in that order
+* a `###` before any `##` belongs to **Part 0**
 
-This is intentionally simple and deterministic.
+---
 
-### Ordering semantics
+## Generated Section Divider Pages
 
-* chapter order is the order of backticked paths **within each Part**
-* Parts themselves are ordered by their numeric Part index
+Section divider pages are generated at build time and contain **no theory**.
 
-A selection file may omit Part markers; in that case all chapters are Part 0.
+### Naming (authoritative)
+
+Divider pages are written under `build/` with deterministic filenames, e.g.:
+
+* `build/_section_p{PP}_s{SS}.md`
+
+Where:
+
+* `PP` = two-digit Part index (`00`, `01`, `02`, …)
+* `SS` = two-digit Section index within that Part (`01`, `02`, …)
+
+(Optionally, implementations may add a slug suffix for readability; the numeric prefix is the ordering key.)
+
+### Contents (guidance)
+
+Divider pages should be minimal and PDF-friendly, typically:
+
+* a page break
+* a Section title
+* a page break
+
+Exact formatting is a publishing choice; the only requirement is that these pages are **purely structural**.
 
 ---
 
@@ -132,11 +152,11 @@ SCAFFOLD files:
 * contain no theoretical content
 * exist only to frame a specific book
 
-They are ordered **lexicographically by filename** (your numeric prefixes then do the work).
+They are ordered **lexicographically by filename** (numeric prefixes then do the work).
 
 ---
 
-## **SCAFFOLD Numbering and Placement Rule (Authoritative)**
+## SCAFFOLD Numbering and Placement Rule (Authoritative)
 
 SCAFFOLD filenames **must** begin with a two-digit numeric prefix:
 
@@ -144,7 +164,7 @@ SCAFFOLD filenames **must** begin with a two-digit numeric prefix:
 NN-description.md
 ```
 
-### Part assignment
+### Part assignment (authoritative)
 
 ```
 part_index = floor(NN / 10)
@@ -160,21 +180,18 @@ Examples:
 Part names in headings are cosmetic.
 Only numeric position matters.
 
----
-
 ### Fixed insertion rule per Part (authoritative)
 
 For each Part `p`, files are emitted in this order:
 
-| Slot range | Emitted order                            |
-| ---------- | ---------------------------------------- |
-| `p0–p5`    | SCAFFOLD files **before** chapters       |
-| —          | chapters (from selection file, in order) |
-| `p6–p9`    | SCAFFOLD files **after** chapters        |
-
-This rule is **universal** and never varies.
+| Slot range | Emitted order                                                           |
+| ---------- | ----------------------------------------------------------------------- |
+| `p0–p5`    | SCAFFOLD files **before** content                                       |
+| —          | content stream for that Part (chapters in order, with section dividers) |
+| `p6–p9`    | SCAFFOLD files **after** content                                        |
 
 Interleaving SCAFFOLD between individual chapters is not supported.
+Section divider pages are the only supported mid-Part insertions.
 
 ---
 
@@ -190,100 +207,13 @@ The script:
 
 1. reads the SCAFFOLD directory
 2. validates SCAFFOLD filenames (`NN-*.md`)
-3. extracts chapter paths from the selection file (grouped by Part markers)
-4. applies the fixed insertion rule per Part
+3. scans the selection file:
+
+   * tracks Part boundaries via `##`
+   * tracks Section boundaries via `###` (generating divider pages)
+   * extracts chapter paths from backticked `.md` tokens
+4. applies the fixed SCAFFOLD insertion rule per Part
 5. de-duplicates while preserving first occurrence
 6. writes `build/<book>-input.txt`
 
 Pandoc consumes this list verbatim.
-
----
-
-## Ground Truth
-
-```
-build/<book>-input.txt
-```
-
-This file is the **authoritative record** of what was built and in what order.
-
-Debugging order is always:
-
-1. booklist file
-2. selection file
-3. SCAFFOLD filenames
-4. scripts
-5. Makefile
-
-Never Pandoc first.
-
----
-
-## Rendering
-
-Pandoc is invoked with:
-
-* an explicit list of input files
-* no stdin
-* stable, declared rendering options
-
-The paper (`pub/IER-paper.md`) is a special case:
-
-* single authored file
-* no selection or SCAFFOLD
-* rendered directly
-
-This is a rendering exception, not an authority exception.
-
----
-
-## Validation and Fail-Fast Rules
-
-The build must fail if:
-
-* the selection file is missing
-* the SCAFFOLD directory is missing
-* any SCAFFOLD filename does not match `NN-*.md`
-* no chapters are extracted (after parsing selection file)
-* any referenced Markdown file does not exist
-* the final booklist is empty
-
----
-
-## Non-Goals
-
-This system does **not** support:
-
-* content-driven structure inference
-* heuristic ordering
-* filename-based corpus sorting
-* adaptive reading paths
-* publication semantics in canonical files
-
-Those are intentionally excluded.
-
----
-
-## Mental Model
-
-* **IER/** — canon and canonical order
-* **selection file** — what is included and how chapters are grouped into Parts
-* **SCAFFOLD directory** — how each Part is framed (before/after)
-* **scripts** — deterministic assembly
-* **build/** — disposable output
-
----
-
-## Status
-
-This document defines the **current intended build contract**.
-
-Any change to:
-
-* Part marker rules
-* SCAFFOLD numbering rules
-* selection semantics
-* script behavior
-* Makefile inputs
-
-must update this file.
