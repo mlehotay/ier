@@ -1,0 +1,21 @@
+% pub/tex/ier-paper.tex
+% Rendering discipline for IER paper / article PDFs.
+
+% -----------------------------
+% Paragraph / density discipline
+% -----------------------------
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{1em}
+
+% -----------------------------
+% Folios only — NO running heads
+% -----------------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+% Page number centered in footer (article norm)
+\fancyfoot[C]{\thepage}
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}

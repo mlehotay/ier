@@ -2,14 +2,14 @@
 
 ## **Status and Scope**
 
-This document defines **how IER publication artifacts are rendered and produced**.
+This document defines **how IER publication artifacts are rendered, formatted, and physically instantiated**.
 
 It governs:
 
-* pagination
-* page geometry
-* typography
-* print and digital rendering constraints
+* artifact-specific trim size and geometry
+* typography and density targets
+* pagination and structural layout
+* print and digital rendering discipline
 
 It does **not**:
 
@@ -17,6 +17,7 @@ It does **not**:
 * define canonical authority
 * define corpus membership or ordering
 * define deployment sequence
+* define reader pedagogy or motivation
 
 This document is **non-canonical** and subordinate to:
 
@@ -27,353 +28,257 @@ If any conflict exists, **the canon and manifest take precedence**.
 
 ---
 
-## **1. Publishing Target and Discipline**
+## **1. Artifact Classes and Physical Intent**
 
-IER is published as a **technical monograph**, not a pedagogical text, popular exposition, or narrative work.
+IER distinguishes **publication artifacts by epistemic role**, not by aesthetics.
 
-Rendering must prioritize:
+Each artifact class has a **distinct physical intent**, and rendering decisions must reinforce that intent.
 
-* density
-* navigability
-* citation stability
-* long-term reference use
+### **1.1 Anchor Artifact — IER Corpus Book**
 
-The design goal is **seriousness and restraint**, not approachability, aesthetic signaling, or reader motivation.
+The **IER Corpus Book** is the **sole deployment anchor**.
 
-The production target is **print-first**.
+Its physical form must support:
+
+* dense technical reference
+* non-linear consultation
+* stable pagination and citation
+* long-term archival use
+
+It is **not** optimized for cover-to-cover reading.
 
 ---
 
-## **2. Physical Format**
+### **1.2 Interface Artifacts**
 
-### **2.1 Trim Size**
+Interface artifacts are **explicitly non-authoritative** and downstream of the corpus book.
 
-Preferred trim size:
+They include:
 
-* **7 × 9 inches**
+* **IER TLDR Book**
+* **IER Paper**
 
-Acceptable alternates (for printer compatibility):
+Their physical form may prioritize readability and linear flow, but **must not signal authority**.
 
-* 6.875 × 9.25 inches
-* 7.5 × 9.25 inches
+---
 
-Trim size must support:
+## **2. Trim Size and Page Geometry**
 
-* high word density
+### **2.1 Geometry as a Functional Choice**
+
+Trim size is a **functional parameter**, not a genre or authority signal.
+
+Changing trim size:
+
+* does not alter epistemic status
+* does not alter authority
+* does not imply pedagogy
+
+It determines **information density and layout affordances only**.
+
+---
+
+### **2.2 Corpus Book Geometry (Reference-Optimized)**
+
+Permitted trim sizes:
+
+* **Preferred:** **7 × 10 inches**
+* **Alternate:** **8.5 × 11 inches**
+
+All editions of a given corpus-book release **must use exactly one trim size**.
+
+---
+
+### **2.3 TLDR Book Geometry (Reader-Optimized)**
+
+* **Required trim size:** **7 × 9 inches**
+
+This geometry supports:
+
 * stable line length
-* conventional academic shelving
-
-All editions of a given IER version must use a single trim size.
-
----
-
-### **2.2 Paper**
-
-* White paper only
-* No cream or tinted stock
-* No aesthetic paper signaling
-
-Binding assumptions:
-
-* perfect-bound or equivalent POD-compatible binding
-* no reliance on special paper weights or finishes
+* reduced visual fatigue
+* linear reading
 
 ---
 
-## **3. Typography**
+### **2.4 Paper Geometry**
 
-Typography must signal **technical reference**, not instruction, narrative pacing, or pedagogy.
+* **8.5 × 11 inches**
 
-### **3.1 Font System**
-
-The corpus book uses a **minimal, unified font system**:
-
-* **Body text:** Libertinus Serif
-* **Mathematics:** Libertinus Math
-* **Headings:** Libertinus Serif (same family, heavier weight)
-* **Monospace:** Inconsolata (for paths, identifiers, and inline literals only)
-
-Multiple decorative font families are not permitted.
+Optimized for academic circulation and digital distribution.
 
 ---
 
-### **3.2 Body Text**
+## **3. Typography System**
 
-* Serif body font required
-* High word density
-* Tight leading (≈ 1.2×)
-* Minimal paragraph spacing
-* No excess vertical whitespace
+### **3.1 Font Discipline**
 
-Typography must not imply:
+IER uses a **minimal, unified font system**.
 
-* tutorial pacing
-* motivational emphasis
-* rhetorical softening
+Default system:
 
----
+* **Body:** TeX Gyre Termes
+* **Headings:** TeX Gyre Termes (weight only)
+* **Sans:** TeX Gyre Heros (rare use)
+* **Monospace:** Inconsolata
+* **Math:** TeX Gyre Termes Math
 
-### **3.3 Headings**
-
-* Functional hierarchy only
-* No decorative styling
-* Visual distinction achieved primarily through weight and restrained size changes
-* Clear differentiation between:
-
-  * Parts
-  * Chapters
-  * Sections
-
-Headings exist to support navigation, not reader encouragement.
+Font substitutions are permitted **only within the same functional class**.
 
 ---
 
-### **3.4 Mathematics and Formal Elements**
+### **3.2 Typography Signals**
 
-* Display equations when non-trivial
-* Inline math only for simple expressions
-* Equation numbering **only** when cross-referenced
-* No decorative math styling
+Typography must signal:
 
-Formal elements must signal **necessity**, not pedagogy.
+* technical seriousness
+* reference-grade density
+* constraint-first exposition
 
----
+Typography must **not** signal:
 
-### **3.5 Tables**
-
-* Tables are first-class information carriers
-* Reduced font size permitted
-* Minimal ruling
-* Continuation across page breaks permitted with clear labeling
+* pedagogy
+* motivation
+* narrative pacing
+* authority inflation or softening
 
 ---
 
-### **3.6 Diagrams**
+## **4. Density and Leading Targets**
 
-* Black-and-white only
-* Vector-based
-* Captioned, not narrated
-* Diagrams must convey structure, not intuition
+### **4.1 Corpus Book**
 
-The corpus book should contain **very few diagrams**, and none that are decorative.
+* Tight leading (≈ 1.10)
+* Target density: **350–450 words per page**
 
 ---
 
-## **4. Pagination and Page-Break Rules**
+### **4.2 TLDR Book**
 
-Pagination follows **technical-monograph convention**.
+* Looser leading (≈ 1.20)
+* Density may be reduced for comfort, not pedagogy
 
-### **4.1 Recto and Verso**
+---
 
-* **Recto** = right-hand page = odd-numbered page
-* **Verso** = left-hand page = even-numbered page
+### **4.3 Paper**
+
+* Intermediate leading (≈ 1.15)
+
+---
+
+## **5. Pagination and Structural Rules**
+
+### **5.1 Recto and Verso**
+
+* Recto = right-hand page = odd
+* Verso = left-hand page = even
 
 Blank pages may be inserted to enforce recto alignment.
-Blank pages must contain no content.
+Blank pages contain no content.
 
 ---
 
-### **4.2 Major Structural Units (Recto Starts)**
+### **5.2 Recto Starts (Book-Class Artifacts)**
 
-The following units **must always begin on a recto page**:
+The following must begin on a recto page:
 
-* half-title pages (if present)
-* full title page
+* title pages
 * table of contents
-* preface(s)
-* introduction
+* prefaces
+* introductions
 * chapters
 * appendices
 * index
 
-If the preceding content ends on a recto page, a blank verso page is inserted.
+---
+
+### **5.3 Chapters vs Sections**
+
+* Chapters always start on a new recto page
+* Sections never force page breaks
+* Sections are navigational only
 
 ---
 
-### **4.3 Chapters**
+## **6. Tables, Mathematics, and Diagrams**
 
-* Every chapter starts on a new page
-* Every chapter start is recto-aligned
-* Chapter pagination is never inferred from content length
+### **Mathematics**
 
-Chapter boundaries are **structural**, not rhetorical.
+* Display equations when non-trivial
+* Number only when cross-referenced
+* No decorative styling
 
----
+### **Tables**
 
-### **4.4 Sections**
+* First-class information carriers
+* Minimal ruling
+* Page breaks permitted with continuity labels
 
-* Sections **do not** trigger page breaks
-* Sections may appear in the PDF outline
-* Sections must never force recto alignment
+### **Diagrams**
 
-Sections are navigational aids only.
-
----
-
-### **4.5 Front Matter and Main Matter**
-
-Front matter includes:
-
-* title pages
-* copyright
-* table of contents
-* prefaces
-* introduction
-
-Decisions about:
-
-* Roman vs Arabic numerals
-* front-matter page numbering visibility
-
-are **edition-level rendering choices**, not semantic ones.
+* Black-and-white
+* Vector-based
+* Extremely limited
+* Structural, not intuitive
 
 ---
 
-### **4.6 Terminal Blank Pages**
+## **7. Digital vs Print Discipline**
 
-Blank pages added to satisfy printer signature requirements:
+### **7.1 Canonical PDF**
 
-* are permitted
-* are not semantically meaningful
-* are not modeled at the content or build level
-
-Signature padding is a print concern, not a publishing rule.
+* Matches print pagination exactly
+* Serves as the citation reference
 
 ---
 
-## **5. Page Geometry**
+### **7.2 EPUB / HTML**
 
-### **5.1 Margins**
+Must preserve:
 
-* Inner and outer margins must account for binding
-* Inner margin must exceed outer margin
-* Top and bottom margins must allow:
-
-  * running heads (if used)
-  * page numbers
-
----
-
-### **5.2 Line Length**
-
-Line length must remain within conventional academic bounds.
-
-Typography and margins must jointly target:
-
-* readability at high density
-* stable visual rhythm
-* minimal eye fatigue
-
----
-
-### **5.3 Running Heads and Folios**
-
-* Page numbers are required
-* Placement must be consistent throughout the book
-* Running heads (if used) reflect:
-
-  * chapter title only
-
-Section-level running heads are not permitted.
-
----
-
-## **6. Density Targets**
-
-Target density:
-
-* **350–450 words per page**
-
-Variance is permitted for:
-
-* equations
-* tables
-* diagrams
-
-Density is an intentional signal of reference-grade material.
-
----
-
-## **7. Medium-Specific Constraints**
-
-### **7.1 Print**
-
-* Print edition establishes the canonical physical reference
-* Pagination must be stable across printings of the same edition
-
----
-
-### **7.2 PDF**
-
-* PDF must match print pagination exactly
-* PDF is the canonical digital reference
-* PDF is used for citation and archival purposes
-
----
-
-### **7.3 EPUB / HTML**
-
-EPUB and HTML editions:
-
-* must preserve:
-
-  * chapter order
-  * Part boundaries
-  * authority signaling
-* may relax:
-
-  * exact pagination
-  * recto/verso semantics
-
-They must not introduce:
-
-* reordering
-* summaries
-* adaptive reading paths
-* pedagogical restructuring
-
----
-
-## **8. What This Document Does Not Decide**
-
-This document does not decide:
-
-* corpus membership
 * chapter order
-* theoretical authority
-* reader pedagogy
-* deployment timing
-* edition pricing or access policy
+* Part boundaries
+* authority signaling
+
+May relax pagination and recto semantics.
+
+Must not introduce summaries or adaptive restructuring.
 
 ---
 
-## **9. Change Discipline**
+## **8. Change Discipline**
 
-Permitted changes:
+Permitted:
 
 * layout fixes
-* font substitutions of equivalent class
-* printer compatibility adjustments
+* equivalent font substitutions
+* geometry changes **between editions**
 
 Not permitted:
 
-* re-pagination of released editions
-* typography that implies authority changes
-* content-driven layout inference
+* post-release re-pagination
+* typography that implies authority change
+* density manipulation to disguise scope
 
 ---
 
-## **10. Relationship to Other Documents**
+## **9. Relationship to Other Documents**
 
-* `IER-canon.md` — authority and governance
-* `IER-manifest.md` — corpus membership and order
-* `IER-corpus-book.md` — artifact identity
-* `IER-build.md` — mechanical assembly
-* `IER-deployment.md` — release sequencing
-* `IER-legal.md` — legal context
+This document is orthogonal to:
+
+* `IER-canon.md`
+* `IER-manifest.md`
+* `IER-build.md`
+* `IER-deployment.md`
+* `IER-legal.md`
+
+Rendering decisions **never override** canonical or manifest-defined structure.
 
 ---
 
-### **End of `IER-publishing.md`**
+## **Final Statement**
+
+> Rendering governs **how the work is physically encountered**,
+> not **what the work claims**.
 
 ---

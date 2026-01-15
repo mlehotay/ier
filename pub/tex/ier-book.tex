@@ -1,0 +1,31 @@
+% pub/tex/ier-book.tex
+% Common rendering discipline for IER book-class PDFs.
+
+% -----------------------------
+% Paragraph / density discipline
+% -----------------------------
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{1em}
+
+% -----------------------------
+% Folios + running heads
+%   - Page numbers required
+%   - Chapter title only
+%   - No section-level heads
+% -----------------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+% Page number in outer header
+\fancyhead[RO,LE]{\thepage}
+
+% Chapter title only
+\fancyhead[LO]{\nouppercase{\leftmark}}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+
+% Prevent section titles from entering headers
+\renewcommand{\sectionmark}[1]{}
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}

@@ -43,7 +43,7 @@ Each book is defined by **exactly two inputs**, declared in the Makefile:
 1. a **selection file**
 2. a **SCAFFOLD directory**
 
-No other inputs are consulted.
+**Rendering configuration (non-content):** The build may also supply Pandoc/LaTeX configuration inputs (e.g., `pub/tex/*.tex` header includes or templates) that affect pagination, headers/footers, and typography. These inputs contain no theory, introduce no corpus content, and do not affect manifest ordering.
 
 ---
 
