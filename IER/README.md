@@ -130,6 +130,7 @@ Nothing outside this path adds commitments.
 * [`IER-ethics.md`](IER-ethics.md) — Experiential moral harm as organizational damage  
 * [`IER-diagnostics.md`](IER-diagnostics.md) — Structural non-diagnosability and precaution  
 * [`IER-morals.md`](IER-morals.md) — Worked moral cases under IER  
+* [`IER-guilt.md`](IER-guilt.md) — Guilt without fault under irreversible loss  
 * [`IER-dilemmas.md`](IER-dilemmas.md) — Why classic moral dilemmas misfire  
 * [`IER-duty.md`](IER-duty.md) — Duty, obligation, and responsibility distinctions  
 * [`IER-social-systems.md`](IER-social-systems.md) — Institutions as morally relevant without experience  

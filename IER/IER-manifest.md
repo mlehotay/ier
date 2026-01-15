@@ -131,44 +131,45 @@ Characteristics:
 43. **[T2] `IER-free-will.md`** — Free will without indeterminism
 44. **[T2] `IER-constraint.md`** — Ethical constraint and non-closure
 45. **[T2] `IER-morals.md`** — Concrete moral cases under IER
-46. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
-47. **[T2] `IER-duty.md`** — Duty, obligation, and responsibility
+46. **[T2] `IER-guilt.md`** — Guilt without fault under irreversible loss
+47. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
+48. **[T2] `IER-duty.md`** — Duty, obligation, and responsibility
 
 ---
 
 ### **Interface and Coupling Boundaries**
 
-48. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
-49. **[T2] `IER-gut.md`** — Enteric participation without subjecthood
-50. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
+49. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
+50. **[T2] `IER-gut.md`** — Enteric participation without subjecthood
+51. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
 
 ---
 
 ### **Relational and Multi-Subject Regimes**
 
-51. **[T2] `IER-relationships.md`** — Relationships as constraint-accommodation regimes
-52. **[T2] `IER-love.md`** — Long-horizon, mutual future binding without fusion
-53. **[T2] `IER-friendship.md`** — Mutual coordination without binding futures
-54. **[T2] `IER-family.md`** — Inherited, asymmetric relationships that shape identity
-55. **[T2] `IER-caregiving.md`** — Sustained one-sided stabilization
-56. **[T2] `IER-groups.md`** — Teams, institutions, and movements
+52. **[T2] `IER-relationships.md`** — Relationships as constraint-accommodation regimes
+53. **[T2] `IER-love.md`** — Long-horizon, mutual future binding without fusion
+54. **[T2] `IER-friendship.md`** — Mutual coordination without binding futures
+55. **[T2] `IER-family.md`** — Inherited, asymmetric relationships that shape identity
+56. **[T2] `IER-caregiving.md`** — Sustained one-sided stabilization
+57. **[T2] `IER-groups.md`** — Teams, institutions, and movements
 
 ---
 
 ### **Institutional and Cultural Systems**
 
-57. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
-58. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
-59. **[T2] `IER-corporations.md`** — Proof that corporations are not experiential persons
+58. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
+59. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
+60. **[T2] `IER-corporations.md`** — Proof that corporations are not experiential persons
 
 ---
 
 ### **Boundaries, Denials, and Comparative Work**
 
-60. **[T2] `IER-a-priori.md`** — Predictable objections to identity theories
-61. **[T2] `IER-denials.md`** — Explicit non-claims
-62. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
-63. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
+61. **[T2] `IER-a-priori.md`** — Predictable objections to identity theories
+62. **[T2] `IER-denials.md`** — Explicit non-claims
+63. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
+64. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
 
 ---
 
@@ -181,19 +182,19 @@ These documents are:
 * **non-governing**
 * rendered as **Book Part III**
 
-64. **[T4] `IER-intro.md`** — Where constraint and resolution live  
-65. **[T4] `IER-precis.md`** — Concise compression of IER’s core commitments
-66. **[T4] `IER-history.md`** — Historical dependencies and preconditions  
-67. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty  
-68. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification  
-69. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict  
-70. **[T4] `IER-idealism.md`** — Analytic idealism: shared diagnoses and decisive divergence
-71. **[T4] `IER-triangles.md`** — Dreamed geometry and structural isomorphism without representation  
-72. **[T4] `IER-equilibrium.md`** — What is it like to be an information system?
-73. **[T4] `IER-rubric.md`** — Separating theoretical adequacy from diagnostic convenience  
-74. **[T4] `IER-FAQ.md`** — Reader-facing clarifications  
-75. **[T4] `IER-glossary.md`** — Canon-constrained terminology  
-76. **[T4] `IER-index.md`** — Concept-to-document navigation
+65. **[T4] `IER-intro.md`** — Where constraint and resolution live  
+66. **[T4] `IER-precis.md`** — Concise compression of IER’s core commitments
+67. **[T4] `IER-history.md`** — Historical dependencies and preconditions  
+68. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty  
+69. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification  
+70. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict  
+71. **[T4] `IER-idealism.md`** — Analytic idealism: shared diagnoses and decisive divergence
+72. **[T4] `IER-triangles.md`** — Dreamed geometry and structural isomorphism without representation  
+73. **[T4] `IER-equilibrium.md`** — What is it like to be an information system?
+74. **[T4] `IER-rubric.md`** — Separating theoretical adequacy from diagnostic convenience  
+75. **[T4] `IER-FAQ.md`** — Reader-facing clarifications  
+76. **[T4] `IER-glossary.md`** — Canon-constrained terminology  
+77. **[T4] `IER-index.md`** — Concept-to-document navigation
 
 > **These documents constitute the complete reader-facing orientation layer of IER and correspond exactly to Book Part III.**
 
@@ -203,10 +204,10 @@ These documents are:
 
 These documents are **in-corpus** but **not book chapters**.
 
-77. **[T4] `README.md`** — Repository front-door orientation
-78. **[T4] `IER-canon.md`** — Canonical authority and governance rules
-79. **[T4] `IER-manifest.md`** — Corpus inventory and flat ordering
-80. **[T4] `IER-changelog.md`** — Version history and structural changes
+78. **[T4] `README.md`** — Repository front-door orientation
+79. **[T4] `IER-canon.md`** — Canonical authority and governance rules
+80. **[T4] `IER-manifest.md`** — Corpus inventory and flat ordering
+81. **[T4] `IER-changelog.md`** — Version history and structural changes
 
 ---
 
@@ -214,12 +215,12 @@ These documents are **in-corpus** but **not book chapters**.
 
 These materials are **internal, non-reader-facing publication infrastructure artifacts**.
 
-81. **`pub/IER-corpus-book.md`** — Publication and production procedures
-82. **`pub/IER-tldr-book.md`** — Publication and production procedures
-83. **`pub/IER-building.md`** — Author-facing book assembly instructions
-84. **`pub/IER-legal.md`** — Legal and IP reference
-85. **`pub/IER-deployment.md`** — Public release order & priority discipline
-86. **`pub/tldr-book/IER-tldr-manifest.md`** — Manifest/chapterlist for TLDR book
+82. **`pub/IER-corpus-book.md`** — Publication and production procedures
+83. **`pub/IER-tldr-book.md`** — Publication and production procedures
+84. **`pub/IER-building.md`** — Author-facing book assembly instructions
+85. **`pub/IER-legal.md`** — Legal and IP reference
+86. **`pub/IER-deployment.md`** — Public release order & priority discipline
+87. **`pub/tldr-book/IER-tldr-manifest.md`** — Manifest/chapterlist for TLDR book
 
 ---
 
@@ -227,7 +228,7 @@ These materials are **internal, non-reader-facing publication infrastructure art
 
 Part VI contains externally consumable publications derived from the IER corpus that are governed by, but do not contribute to, canonical authority or book structure.
 
-87. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
+88. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
 
 ---
 
