@@ -6,12 +6,22 @@ BUILD_DIR   := build
 
 PANDOC      := pandoc
 PANDOC_OPTS := \
-  -V geometry:margin=1in \
   --pdf-engine=xelatex \
-  -V mainfont="DejaVu Serif" \
-  -V sansfont="DejaVu Sans" \
-  -V monofont="DejaVu Sans Mono" \
-  -V mathfont="TeX Gyre DejaVu Math"
+  --top-level-division=chapter \
+  -V documentclass=book \
+  -V classoption=openright \
+  -V geometry:paperwidth=7in \
+  -V geometry:paperheight=9in \
+  -V geometry:inner=1.0in \
+  -V geometry:outer=0.85in \
+  -V geometry:top=0.9in \
+  -V geometry:bottom=0.95in \
+  -V fontsize=11pt \
+  -V linestretch=1.2 \
+  -V mainfont="Libertinus Serif" \
+  -V sansfont="Libertinus Sans" \
+  -V monofont="Inconsolata" \
+  -V mathfont="Libertinus Math"
 
 IER_DIR     := IER
 SRC_DIR     := pub

@@ -32,7 +32,9 @@ It governs **how documents relate to one another**, not what the theory claims.
   * does **not expand or modify theory claims**
   * determines what kinds of statements are admissible, authoritative, or disallowed
 
-**Canonical vs Non-Canonical Corpus Material**
+---
+
+### **Canonical vs Non-Canonical Corpus Material**
 
 Within the corpus:
 
@@ -240,26 +242,15 @@ IER uses typography to enforce **formal and syntactic distinctions**.
   variables (`$a$`, `$t$`), functions (`$I(t)$`), sets (`$S$`, `$\mathcal{R}$`), relations (`$T \subseteq S \times S$`), operators (`$\neq$, $\Rightarrow$, $\Delta$`), tuples (`$(S,T)$`), and derivatives (`$\dot{I}$`, `$\ddot{I}$`, `$\dddot{I}$`).
   Sentence punctuation appears **outside** math mode.
 
-* **Display math** must be enclosed in `$$ ... $$` and is required for multi-line equations and governing relations:
+* **Display math** must be enclosed in `$$ ... $$` and is required for multi-line equations and governing relations.
 
-  ```latex
-  $$
-  \ddot{I}(t)
-  $$
-  ```
+* **Conceptual terms inside math** must be wrapped in `\text{...}`.
 
-* **Conceptual terms inside math** must be wrapped in `\text{...}`:
-
-  ```latex
-  $\text{Intensity}(t) \sim \left| \ddot{I}_{\text{intrinsic}}(t) \right|$
-  ```
-
-* **Subscripts** use `_`; conceptual labels in subscripts must use `\text{...}`:
-  `$I_{\text{intrinsic}}(t)$`.
+* **Subscripts** use `_`; conceptual labels in subscripts must use `\text{...}`.
 
 * **Do not** use `\text{}` for genuine variables, functions, or operators.
 
-* **Unicode math glyphs are forbidden.** Use LaTeX operators only (`\neq`, `\Rightarrow`, `\subseteq`, `\in`, `\equiv`, `\Delta`).
+* **Unicode math glyphs are forbidden.** Use LaTeX operators only.
 
 * **Negation** uses `\neg` in math mode.
 
@@ -267,25 +258,136 @@ IER uses typography to enforce **formal and syntactic distinctions**.
 
 * **Capitalization** reflects defined constructs, not emphasis.
 
-These conventions are **project-canonical** and apply to all IER documents.
+These conventions are **project-canonical**. Violations are canonical errors even if rendered output appears visually similar.
+
+---
+
+# **Authoring and Rendering Discipline (Corpus-Wide)**
+
+These rules ensure that **all corpus documents render deterministically** under the IER build system (Pandoc → LaTeX → PDF).
+
+Violation of any rule below is a **canonical error**, even if no theoretical commitments are affected.
+
+---
+
+## **A1 — One H1 Title Per Document**
+
+Every corpus document must begin with exactly one `# ...` H1 title.
+
+* The first non-empty line must be the H1.
+* No other H1 headings are permitted.
+
+---
+
+## **A2 — Heading Levels Must Not Skip**
+
+Heading levels must advance or retreat by only one level at a time.
+
+* Allowed: `##` → `###` → `##`
+* Disallowed: `##` → `####`
+
+---
+
+## **A3 — No YAML Front Matter in Corpus Chapters**
+
+YAML front matter (`--- ... ---`) is disallowed in canonical corpus chapters.
+
+Edition-level metadata belongs in SCAFFOLD or publication-layer files only.
+
+---
+
+## **A4 — Raw LaTeX Is Restricted**
+
+Raw LaTeX is permitted only for:
+
+* mathematics
+* minimal local formatting not expressible in Markdown
+
+It must not include:
+
+* preamble or document structure commands
+* page layout directives
+* recto/verso enforcement
+
+---
+
+## **A5 — Code Blocks Must Be Fenced**
+
+All multi-line code or pseudo-code must use fenced code blocks (` ``` `).
+
+Indent-based code blocks are disallowed.
+
+---
+
+## **A6 — Lists Must Be Markdown-Native**
+
+Use Markdown list syntax only.
+
+Manual numbering or spacing hacks are prohibited.
+
+---
+
+## **A7 — Tables Must Be Pandoc-Compatible**
+
+Tables must use Pandoc-supported table syntax.
+
+HTML tables are disallowed unless explicitly verified.
+
+---
+
+## **A8 — Links and Paths**
+
+* Use backticks for file paths and identifiers.
+* Do not use backticks for mathematics.
+* Avoid bare URLs in prose.
+
+---
+
+## **A9 — Glyph and Unicode Discipline (Non-Math)**
+
+Avoid Unicode punctuation or spacing characters that may destabilize LaTeX rendering.
+
+ASCII is preferred for all structural tokens.
+
+---
+
+## **A10 — Rendering Ownership**
+
+Corpus documents must not enforce:
+
+* fonts
+* margins
+* trim size
+* recto/verso rules
+* ToC styling
+
+Rendering decisions are governed by `IER-publishing.md`.
+
+---
+
+## **A11 — Determinism Requirement**
+
+Formatting constructs that behave differently when concatenated with other files are disallowed unless explicitly supported by the build system.
 
 ---
 
 ## **Chapter Intermissions**
 
-Each chapter concludes with a brief **Intermission**. Intermissions are not summaries, arguments, or extensions of the chapter. They introduce no new claims, commitments, or foundations.
+Each chapter concludes with a brief **Intermission**.
 
-An Intermission serves as a **structural acknowledgment**: a short marker indicating what has become settled, constrained, or clarified as a result of the chapter. Its function is to provide cognitive closure and orientation without interrupting the argumentative flow.
+Intermissions:
 
-Each Intermission contains **exactly one element**, drawn from a small fixed set, chosen according to the epistemic role of the chapter:
+* introduce no new claims
+* are not summaries or arguments
+* provide structural acknowledgment only
 
-* **Structural Facts** state results that are now unavoidable given the framework.
-* **Constraint Aphorisms** compress the chapter’s central insight into a single sentence.
-* **Negative Space Markers** explicitly note what the chapter does *not* require or imply.
-* **Orientation Signals** provide reassurance, scope control, or reader positioning.
-* **Silent Achievements** mark rare conceptual thresholds without explanation.
+Each Intermission contains **exactly one** of the following:
 
-Intermissions are intentionally brief, uniform in placement, and non-interactive. They are designed to acknowledge progress, reduce interpretive drift, and reinforce the framework’s commitment to minimal structure and maximal constraint.
+* Structural Facts
+* Constraint Aphorisms
+* Negative Space Markers
+* Orientation Signals
+* Silent Achievements
 
 They may be read or ignored without loss of content.
 
@@ -295,12 +397,13 @@ They may be read or ignored without loss of content.
 
 IER is governed by:
 
-* a fixed corpus, explicitly enumerated
+* a fixed corpus
 * fixed identity and ethical commitments
 * explicit epistemic limits
 * global misuse containment
 * mandatory reader alignment
 * disciplined versioning
+* deterministic authoring rules
 
 IER does not soften its claims.
 
