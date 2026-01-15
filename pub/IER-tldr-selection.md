@@ -1,16 +1,5 @@
 # IER-TLDR-manifest.md
 
-scffolding files:
-00-copyright.md
-01-dedication.md
-10-part-1-header.md
-11-part-1-disclaimer.md
-19-part-1-appendix.md
-20-part-2-header.md
-27-goodbye.md
-
----
-
 ## **PART 0 — FRONT MATTER**
 
 87. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
