@@ -163,7 +163,6 @@ def structural_verify(
         errors += 1
 
     # 3) Non-book file included (strictly for IER/ paths)
-    # If something under IER/ is in book-input but not a canonical chapter, flag it.
     if allow_frontmatter:
         # allow frontmatter from elsewhere (pub/ etc.)
         pass
@@ -300,18 +299,306 @@ def glyph_verify(book_input_path: Path) -> int:
 
 
 # -----------------------------
+# Authoring + Build-rule verification
+# -----------------------------
+
+# A1/A2 heading discipline
+HEADING_RE = re.compile(r"^(#{1,6})\s+\S")
+
+# A3: YAML front matter (disallowed in corpus chapters)
+YAML_FM_LINE = re.compile(r"^---\s*$")
+
+# A4/A10: raw LaTeX that implies preamble/layout/doc-structure (banlist)
+LATEX_BANNED = [
+    r"\\documentclass\b",
+    r"\\usepackage\b",
+    r"\\begin\{document\}",
+    r"\\end\{document\}",
+    r"\\input\{",
+    r"\\include\{",
+    r"\\includeonly\b",
+    r"\\pagestyle\b",
+    r"\\thispagestyle\b",
+    r"\\geometry\b",
+    r"\\setlength\b",
+    r"\\addtolength\b",
+    r"\\linespread\b",
+    r"\\fontsize\b",
+    r"\\newcommand\b",
+    r"\\renewcommand\b",
+    r"\\def\b",
+]
+LATEX_BANNED_RE = re.compile("|".join(LATEX_BANNED))
+
+# A5: indent-code blocks are disallowed (heuristic outside fences)
+FENCE_RE = re.compile(r"^```")
+INDENT_CODE_RE = re.compile(r"^(?:\t| {4,})\S")
+
+# A7: HTML tables disallowed
+HTML_TABLE_RE = re.compile(r"<\s*table\b", re.IGNORECASE)
+
+# A8: bare URLs discouraged (treat as error unless allowed)
+BARE_URL_RE = re.compile(r"(?<!\()(?<!\[)(https?://\S+)", re.IGNORECASE)
+
+# A9: invisible unicode spaces that break determinism
+BAD_SPACE_RE = re.compile(r"[\u00A0\u2007\u202F\u200B\u200C\u200D\u2060]")
+
+# Build: divider page naming
+DIVIDER_RE = re.compile(r"^build/_section_p\d{2}_s\d{2}[^/]*\.md$")
+
+# Build: scaffold numbering (for known scaffold roots)
+SCAFFOLD_ROOTS = ("pub/corpus-book/", "pub/tldr-book/", "pub/paper/")
+SCAFFOLD_NAME_RE = re.compile(r"^\d{2}-[^/]+\.md$")
+
+
+def _iter_lines_with_state(text: str):
+    """
+    Yields (lineno, line, in_fence) as we scan, toggling in/out on ``` fences.
+    """
+    in_fence = False
+    for i, line in enumerate(text.splitlines(), 1):
+        if FENCE_RE.match(line.strip()):
+            in_fence = not in_fence
+            yield i, line, in_fence
+            continue
+        yield i, line, in_fence
+
+
+def _check_a1_one_h1_and_first(text: str, p: str) -> int:
+    errors = 0
+    lines = text.splitlines()
+
+    # Find first non-empty line
+    first_nonempty_idx = None
+    for i, line in enumerate(lines):
+        if line.strip():
+            first_nonempty_idx = i
+            break
+
+    if first_nonempty_idx is None:
+        print(f"ERROR: {p}:1: Empty file.", file=sys.stderr)
+        return 1
+
+    first = lines[first_nonempty_idx].rstrip("\n")
+
+    # YAML front matter disallowed especially because A1 requires H1 first
+    if YAML_FM_LINE.match(first.strip()):
+        print(f"ERROR: {p}:{first_nonempty_idx+1}: YAML front matter detected. First non-empty line must be an H1.", file=sys.stderr)
+        errors += 1
+
+    # Must be exactly one H1 title at top
+    if not first.startswith("# "):
+        print(f"ERROR: {p}:{first_nonempty_idx+1}: A1 violation: first non-empty line must be an H1 ('# ...').", file=sys.stderr)
+        errors += 1
+
+    # No other H1 headings permitted
+    for i, line in enumerate(lines, 1):
+        if line.startswith("# "):
+            if i != (first_nonempty_idx + 1):
+                print(f"ERROR: {p}:{i}: A1 violation: multiple H1 headings (only one permitted).", file=sys.stderr)
+                errors += 1
+    return errors
+
+
+def _check_a2_heading_no_skip(text: str, p: str) -> int:
+    """
+    Enforce: heading levels must not skip by more than 1 when moving downward.
+    (Retreats can be any amount; only 'advance' is constrained.)
+    """
+    errors = 0
+    prev_level: int | None = None
+    for lineno, line, in_fence in _iter_lines_with_state(text):
+        if in_fence:
+            continue
+        m = HEADING_RE.match(line)
+        if not m:
+            continue
+        level = len(m.group(1))
+        if prev_level is not None and level > prev_level + 1:
+            print(
+                f"ERROR: {p}:{lineno}: A2 violation: heading level jumps from H{prev_level} to H{level}.",
+                file=sys.stderr,
+            )
+            errors += 1
+        prev_level = level
+    return errors
+
+
+def _check_a4_a10_banned_latex(text: str, p: str) -> int:
+    errors = 0
+    for m in LATEX_BANNED_RE.finditer(text):
+        lineno = text.count("\n", 0, m.start()) + 1
+        frag = m.group(0)
+        print(
+            f"ERROR: {p}:{lineno}: A4/A10 violation: banned raw LaTeX directive detected ({frag}).",
+            file=sys.stderr,
+        )
+        errors += 1
+    return errors
+
+
+def _check_a5_no_indent_code(text: str, p: str) -> int:
+    errors = 0
+    prev_blank = False
+    for lineno, line, in_fence in _iter_lines_with_state(text):
+        if in_fence:
+            prev_blank = False
+            continue
+
+        if not line.strip():
+            prev_blank = True
+            continue
+
+        # Heuristic: lines that "look like" indented code blocks.
+        # We only flag when preceded by a blank line to reduce false positives in lists/quotes.
+        if prev_blank and INDENT_CODE_RE.match(line):
+            print(
+                f"ERROR: {p}:{lineno}: A5 violation: indent-based code block detected. Use fenced code blocks (``` ... ```).",
+                file=sys.stderr,
+            )
+            errors += 1
+
+        prev_blank = False
+    return errors
+
+
+def _check_a7_no_html_tables(text: str, p: str) -> int:
+    errors = 0
+    for m in HTML_TABLE_RE.finditer(text):
+        lineno = text.count("\n", 0, m.start()) + 1
+        print(
+            f"ERROR: {p}:{lineno}: A7 violation: HTML <table> detected. Use Pandoc-compatible Markdown tables.",
+            file=sys.stderr,
+        )
+        errors += 1
+    return errors
+
+
+def _check_a8_no_bare_urls(text: str, p: str, allow_bare_urls: bool) -> int:
+    if allow_bare_urls:
+        return 0
+    errors = 0
+    for m in BARE_URL_RE.finditer(text):
+        lineno = text.count("\n", 0, m.start()) + 1
+        url = m.group(1)
+        print(
+            f"ERROR: {p}:{lineno}: A8 violation: bare URL detected ({url}). Prefer a Markdown link or a reference.",
+            file=sys.stderr,
+        )
+        errors += 1
+    return errors
+
+
+def _check_a9_bad_spaces(text: str, p: str) -> int:
+    errors = 0
+    for m in BAD_SPACE_RE.finditer(text):
+        lineno = text.count("\n", 0, m.start()) + 1
+        ch = m.group(0)
+        codepoint = f"U+{ord(ch):04X}"
+        print(
+            f"ERROR: {p}:{lineno}: A9 violation: invisible/unstable whitespace detected ({codepoint}). Replace with ASCII space.",
+            file=sys.stderr,
+        )
+        errors += 1
+    return errors
+
+
+def _check_build_paths(paths: list[str]) -> int:
+    """
+    Build-system checks we can enforce from book-input.txt alone.
+    """
+    errors = 0
+    for p in paths:
+        # Divider pages must match deterministic naming
+        if p.startswith("build/_section_"):
+            if not DIVIDER_RE.match(p):
+                print(
+                    f"ERROR: {p}: Build violation: section divider page name must match build/_section_pPP_sSS*.md",
+                    file=sys.stderr,
+                )
+                errors += 1
+
+        # Scaffold files in known scaffold roots must be NN-*.md
+        for root in SCAFFOLD_ROOTS:
+            if p.startswith(root):
+                name = Path(p).name
+                if not SCAFFOLD_NAME_RE.match(name):
+                    print(
+                        f"ERROR: {p}: Build violation: SCAFFOLD file must be named NN-description.md (two-digit prefix).",
+                        file=sys.stderr,
+                    )
+                    errors += 1
+                break
+
+    return errors
+
+
+def authoring_verify(book_input_path: Path, allow_bare_urls: bool, scope: str) -> int:
+    """
+    Returns number of authoring/build-rule errors found.
+
+    scope:
+      - "all": check all .md files in book-input
+      - "canonical": check only IER/IER-*.md
+    """
+    errors = 0
+    paths = load_book_input(book_input_path)
+
+    errors += _check_build_paths(paths)
+
+    for p in paths:
+        if not p.endswith(".md"):
+            continue
+
+        if scope == "canonical" and not is_chapter_path(p):
+            continue
+
+        path = Path(p)
+        if not path.exists():
+            continue
+
+        text = path.read_text(encoding="utf-8", errors="replace")
+
+        errors += _check_a1_one_h1_and_first(text, p)
+        errors += _check_a2_heading_no_skip(text, p)
+        errors += _check_a4_a10_banned_latex(text, p)
+        errors += _check_a5_no_indent_code(text, p)
+        errors += _check_a7_no_html_tables(text, p)
+        errors += _check_a8_no_bare_urls(text, p, allow_bare_urls=allow_bare_urls)
+        errors += _check_a9_bad_spaces(text, p)
+
+    return errors
+
+
+# -----------------------------
 # Main
 # -----------------------------
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description="IER book verification: structure + glyph discipline.")
+    ap = argparse.ArgumentParser(description="IER book verification: structure + glyph discipline + authoring/build rules.")
     ap.add_argument("manifest", help="IER-manifest.md path")
     ap.add_argument("book_input", help="build/book-input.txt path")
 
     ap.add_argument(
         "--skip-glyphs",
         action="store_true",
-        help="Skip glyph/math-mode checks; only perform structural verification.",
+        help="Skip glyph/math-mode checks; only perform structural/authoring verification.",
+    )
+    ap.add_argument(
+        "--skip-authoring",
+        action="store_true",
+        help="Skip canon authoring/build-rule checks; only perform structural (+ optional glyph) verification.",
+    )
+    ap.add_argument(
+        "--authoring-scope",
+        choices=["all", "canonical"],
+        default="all",
+        help="Which files to apply authoring checks to (default: all).",
+    )
+    ap.add_argument(
+        "--allow-bare-urls",
+        action="store_true",
+        help="Do not error on bare URLs in prose (A8).",
     )
     ap.add_argument(
         "--no-preface",
@@ -342,16 +629,24 @@ def main() -> None:
         allow_frontmatter=True,
     )
 
+    authoring_errors = 0
+    if not args.skip_authoring:
+        authoring_errors = authoring_verify(
+            book_input_path=book_input_path,
+            allow_bare_urls=args.allow_bare_urls,
+            scope=args.authoring_scope,
+        )
+
     glyph_errors = 0
     if not args.skip_glyphs:
         glyph_errors = glyph_verify(book_input_path)
 
-    total = structural_errors + glyph_errors
+    total = structural_errors + authoring_errors + glyph_errors
     if total:
         print(f"\nVERIFICATION FAILED: {total} issue(s) found.", file=sys.stderr)
         sys.exit(1)
 
-    print("VERIFICATION PASSED: structure matches manifest and glyph discipline checks are clean.")
+    print("VERIFICATION PASSED: structure matches manifest; authoring/build rules and glyph discipline are clean.")
     sys.exit(0)
 
 
