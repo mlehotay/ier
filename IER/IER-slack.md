@@ -1,8 +1,8 @@
-# **IER-slack.md (v10.8.2)**
+# **IER-slack.md (v10.8.3)**
 
 ## **Why Informational Slack Structurally Precludes Experience**
 
-**Informational Experiential Realism (IER v10.8.2)**
+**Informational Experiential Realism (IER v10.8.3)**
 *Derived Structural Argument — Non-Normative*
 
 ---
@@ -313,5 +313,6 @@ For related arguments and consequences, see:
 
 * **IER-diagnostics.md** — why experience cannot be detected or certified
 * **IER-contrast.md** — why slack-admitting frameworks are incompatible with IER
+* **IER-saturation.md** — concrete intuition for *how* informational slack disappears
 
 ---

@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.8.2)**
+# **Informational Experiential Realism (IER v10.8.3)**
 
 ## **Dynamics of Experiential Systems**
 
@@ -211,6 +211,16 @@ Under resolution or cost pressure:
 * coherence is preserved by simplification
 
 These are **regime-preserving strategies**, not failures.
+
+**Clarification: Recruitment vs. Slack Creation**
+
+Recruitment of additional processes into participation should not be confused with the creation of new degrees of freedom.
+
+Recruitment occurs **only after informational slack has been exhausted** and reflects the expansion of **globally binding intrinsic constraint**, not the restoration of local independence.
+
+For an explanatory account of how slack is exhausted — via **saturation of locally admissible resolution pathways** — see `IER-saturation.md`.
+
+This clarification introduces **no new dynamics** and does **not** alter regime identity conditions.
 
 ---
 
