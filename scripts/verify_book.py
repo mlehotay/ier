@@ -4,311 +4,581 @@ from __future__ import annotations
 import argparse
 import re
 import sys
+from dataclasses import dataclass
 from pathlib import Path
+from typing import Iterable, Literal
+
+# ------------------------------------------------------------
+# Error / warning reporting
+# ------------------------------------------------------------
+
+Rule = str
 
 
-# -----------------------------
-# Manifest parsing (matches your extraction style)
-# -----------------------------
+@dataclass(frozen=True)
+class Issue:
+    path: str
+    line: int
+    rule: Rule
+    message: str
+    is_warning: bool = False
 
-ENTRY_RE = re.compile(r"`([^`]+)`")
-
-PART_I_RE = re.compile(r"^##\s+\*\*PART I\b")
-PART_IV_RE = re.compile(r"^##\s+\*\*PART IV\b")
-
-
-def die(msg: str) -> None:
-    print(f"ERROR: {msg}", file=sys.stderr)
-    sys.exit(1)
+    def render(self) -> str:
+        prefix = "WARN" if self.is_warning else "ERROR"
+        return f"{prefix}: {self.path}:{self.line}: {self.rule}: {self.message}"
 
 
-def normalize_path(token: str) -> str | None:
-    token = token.strip()
-    if not token.endswith(".md"):
-        return None
-    # Map bare canonical filenames to IER/
-    if "/" not in token and token.startswith("IER-"):
-        return f"IER/{token}"
-    return token
+class Reporter:
+    def __init__(self) -> None:
+        self.issues: list[Issue] = []
+
+    def error(self, path: str, line: int, rule: Rule, message: str) -> None:
+        self.issues.append(Issue(path=path, line=line, rule=rule, message=message, is_warning=False))
+
+    def warn(self, path: str, line: int, rule: Rule, message: str) -> None:
+        self.issues.append(Issue(path=path, line=line, rule=rule, message=message, is_warning=True))
+
+    def emit(self, summarize: bool = True) -> int:
+        # Deterministic order (insertion order), no extra noise on success.
+        errors = 0
+        counts: dict[str, int] = {}
+        for it in self.issues:
+            print(it.render(), file=sys.stderr)
+            if not it.is_warning:
+                errors += 1
+                counts[it.rule] = counts.get(it.rule, 0) + 1
+
+        if summarize and errors:
+            # compact summary by rule
+            parts = ", ".join(f"{k}={v}" for k, v in sorted(counts.items()))
+            print(f"ERROR: verify:0: SUMMARY: {errors} error(s) [{parts}]", file=sys.stderr)
+
+        return 1 if errors else 0
 
 
-def extract_corpus_parts_I_to_III(lines: list[str]) -> list[str]:
-    in_book = False
-    out: list[str] = []
-    for line in lines:
-        s = line.strip()
+# ------------------------------------------------------------
+# Import build logic (preferred approach)
+# ------------------------------------------------------------
 
-        if PART_I_RE.match(s):
-            in_book = True
+def _import_extractor() -> object:
+    scripts_dir = Path(__file__).resolve().parent
+    sys.path.insert(0, str(scripts_dir))
+    import extract_book_list as ebl  # type: ignore
+
+    return ebl
+
+
+# ------------------------------------------------------------
+# Booklist loading + integrity
+# ------------------------------------------------------------
+
+def load_booklist_lines(booklist_path: Path) -> list[tuple[int, str]]:
+    """
+    Returns [(lineno, raw_line_without_newline)], including blanks (caller decides).
+    """
+    out: list[tuple[int, str]] = []
+    for i, line in enumerate(booklist_path.read_text(encoding="utf-8", errors="strict").splitlines(), 1):
+        out.append((i, line))
+    return out
+
+
+def is_abs_path(s: str) -> bool:
+    try:
+        return Path(s).is_absolute()
+    except Exception:
+        return False
+
+
+def path_exists(repo_root: Path, p: str) -> bool:
+    pp = Path(p)
+    if pp.is_absolute():
+        return pp.exists()
+    return (repo_root / pp).exists()
+
+
+def verify_booklist_integrity(
+    rep: Reporter,
+    repo_root: Path,
+    booklist_path: Path,
+) -> list[str]:
+    lines = load_booklist_lines(booklist_path)
+
+    if not lines:
+        rep.error(str(booklist_path), 0, "BOOKLIST-EMPTY", "booklist is empty")
+        return []
+
+    paths: list[str] = []
+    first_line_by_path: dict[str, int] = {}
+
+    for lineno, raw in lines:
+        if raw.strip() == "":
+            rep.error(str(booklist_path), lineno, "BOOKLIST-BLANK", "blank/whitespace-only entry")
             continue
 
-        if PART_IV_RE.match(s):
-            in_book = False
+        p = raw  # preserve exact string; equality check requires exact match
+        paths.append(p)
 
-        if not in_book:
-            continue
+        if p in first_line_by_path:
+            rep.error(
+                str(booklist_path),
+                lineno,
+                "BOOKLIST-DUP",
+                f"duplicate path (first at line {first_line_by_path[p]}): {p}",
+            )
+        else:
+            first_line_by_path[p] = lineno
 
-        m = ENTRY_RE.search(line)
-        if not m:
-            continue
+        if not p.endswith(".md"):
+            rep.error(str(booklist_path), lineno, "BOOKLIST-EXT", f"non-.md entry: {p}")
 
-        p = normalize_path(m.group(1))
-        # Only canonical chapter files for Parts I–III are IER/IER-*.md
-        if p and p.startswith("IER/IER-") and p.endswith(".md"):
-            out.append(p)
+        if " " in p:
+            rep.warn(str(booklist_path), lineno, "BOOKLIST-SPACES", f"path contains spaces: {p}")
 
-    return dedup_preserve_order(out)
+        if not path_exists(repo_root, p):
+            rep.error(str(booklist_path), lineno, "BOOKLIST-MISSING", f"path does not exist: {p}")
 
+    if not paths:
+        # All lines were blank -> treat as empty list
+        rep.error(str(booklist_path), 0, "BOOKLIST-EMPTY", "booklist has no usable entries")
+        return []
 
-def dedup_preserve_order(paths: list[str]) -> list[str]:
-    seen: set[str] = set()
-    ordered: list[str] = []
-    for p in paths:
-        if p not in seen:
-            seen.add(p)
-            ordered.append(p)
-    return ordered
-
-
-# -----------------------------
-# Book-input loading
-# -----------------------------
-
-def load_book_input(booklist_path: Path) -> list[str]:
-    raw: list[str] = []
-    for line in booklist_path.read_text(encoding="utf-8", errors="strict").splitlines():
-        s = line.strip()
-        if not s:
-            continue
-        raw.append(s)
-    return raw
+    return paths
 
 
-# -----------------------------
-# Structural Verification
-# -----------------------------
+# ------------------------------------------------------------
+# Scaffold dir inference
+# ------------------------------------------------------------
 
-def is_chapter_path(p: str) -> bool:
-    return p.startswith("IER/IER-") and p.endswith(".md")
-
-
-def find_preface_index(paths: list[str], pattern: re.Pattern[str]) -> int | None:
-    for i, p in enumerate(paths):
-        if pattern.search(p):
-            return i
+def infer_scaffold_dir_from_selection(repo_root: Path, selection_path: Path) -> Path | None:
+    stem = selection_path.name.lower()
+    if "corpus" in stem:
+        return repo_root / "pub" / "corpus-book"
+    if "tldr" in stem:
+        return repo_root / "pub" / "tldr-book"
     return None
 
 
-def structural_verify(
-    manifest_path: Path,
-    book_input_path: Path,
-    require_preface: bool,
-    preface_regex: str,
-    allow_frontmatter: bool,
-) -> int:
+def infer_scaffold_dir_from_booklist(repo_root: Path, booklist_paths: list[str]) -> Path | None:
     """
-    Returns number of structural errors found.
+    Scan for pub/<x>/*.md. If exactly one directory is implied, return it.
     """
-    errors = 0
+    dirs: set[Path] = set()
+    for p in booklist_paths:
+        pp = Path(p)
+        if pp.is_absolute():
+            continue
+        parts = pp.parts
+        if len(parts) >= 3 and parts[0] == "pub" and parts[-1].endswith(".md"):
+            dirs.add(repo_root / parts[0] / parts[1])
+    if len(dirs) == 1:
+        return next(iter(dirs))
+    return None
 
-    manifest_lines = manifest_path.read_text(encoding="utf-8", errors="strict").splitlines()
-    expected_chapters = extract_corpus_parts_I_to_III(manifest_lines)
 
-    if not expected_chapters:
-        print("ERROR: Could not extract any Parts I–III chapters from manifest.", file=sys.stderr)
-        return 1
+def determine_scaffold_dir(
+    rep: Reporter,
+    repo_root: Path,
+    selection_path: Path,
+    booklist_paths: list[str],
+    scaffold_dir_flag: str | None,
+) -> Path | None:
+    if scaffold_dir_flag:
+        return (repo_root / scaffold_dir_flag).resolve() if not Path(scaffold_dir_flag).is_absolute() else Path(scaffold_dir_flag).resolve()
 
-    actual_paths = load_book_input(book_input_path)
+    inferred = infer_scaffold_dir_from_selection(repo_root, selection_path)
+    if inferred is not None:
+        return inferred.resolve()
 
-    if not actual_paths:
-        print("ERROR: book-input.txt is empty.", file=sys.stderr)
-        return 1
+    inferred2 = infer_scaffold_dir_from_booklist(repo_root, booklist_paths)
+    if inferred2 is not None:
+        return inferred2.resolve()
 
-    # 1) Missing files (existence check)
-    for p in actual_paths:
-        if not Path(p).exists():
-            print(f"ERROR: Listed file does not exist: {p}", file=sys.stderr)
-            errors += 1
+    rep.error("verify", 0, "INPUT-SCAFFOLD-DIR", "cannot determine scaffold dir; pass --scaffold-dir <dir>")
+    return None
 
-    # 2) Verify chapter subset against manifest, in order, with no extras
-    actual_chapters = [p for p in actual_paths if is_chapter_path(p)]
 
-    exp_set = set(expected_chapters)
-    act_set = set(actual_chapters)
+# ------------------------------------------------------------
+# Selection checks
+# ------------------------------------------------------------
 
-    missing = [p for p in expected_chapters if p not in act_set]
-    extra = [p for p in actual_chapters if p not in exp_set]
+SELECTION_ENTRY_RE = re.compile(r"`([^`]+)`")
+H4_OR_DEEPER_RE = re.compile(r"^####\s+(?!#)")
+YAML_FM_LINE_RE = re.compile(r"^---\s*$")
 
-    if missing:
-        print("ERROR: Missing canonical chapter(s) from book list:", file=sys.stderr)
-        for p in missing:
-            print(f"  - {p}", file=sys.stderr)
-        errors += len(missing)
 
-    if extra:
-        print("ERROR: Unexpected chapter(s) in book list (not in manifest Parts I–III):", file=sys.stderr)
-        for p in extra:
-            print(f"  - {p}", file=sys.stderr)
-        errors += len(extra)
+def verify_selection_hygiene(
+    rep: Reporter,
+    repo_root: Path,
+    selection_path: Path,
+    extractor: object,
+) -> list[str]:
+    """
+    Returns normalized selection paths (in appearance order, duplicates allowed).
+    """
+    text = selection_path.read_text(encoding="utf-8", errors="strict")
+    lines = text.splitlines()
 
-    # Order check: actual chapter sequence must equal expected sequence (after filtering)
-    if actual_chapters != expected_chapters:
-        print("ERROR: Chapter ordering mismatch against manifest Parts I–III.", file=sys.stderr)
-        print("  Expected:", file=sys.stderr)
-        for i, p in enumerate(expected_chapters, 1):
-            print(f"    {i:02d}  {p}", file=sys.stderr)
-        print("  Actual:", file=sys.stderr)
-        for i, p in enumerate(actual_chapters, 1):
-            print(f"    {i:02d}  {p}", file=sys.stderr)
-        errors += 1
+    # Disallow YAML front matter in selection
+    # (detect: first non-empty line is ---)
+    for i, line in enumerate(lines, 1):
+        if line.strip() == "":
+            continue
+        if YAML_FM_LINE_RE.match(line.strip()):
+            rep.error(str(selection_path), i, "SEL-YAML", "YAML front matter is not allowed in selection")
+        break
 
-    # 3) Non-book file included (strictly for IER/ paths)
-    if allow_frontmatter:
-        # allow frontmatter from elsewhere (pub/ etc.)
-        pass
+    # Warn on #### or deeper headings
+    for i, line in enumerate(lines, 1):
+        if H4_OR_DEEPER_RE.match(line.strip()):
+            rep.warn(str(selection_path), i, "SEL-H4", "found '####' or deeper heading; build ignores these markers")
 
-    for p in actual_paths:
-        if p.startswith("IER/") and not is_chapter_path(p):
-            print(f"ERROR: Non-book IER/ file included in book list: {p}", file=sys.stderr)
-            errors += 1
+    normalize_path = getattr(extractor, "normalize_path")
 
-    # 4) Preface presence / placement (strict but configurable)
-    if require_preface:
-        preface_pat = re.compile(preface_regex, re.IGNORECASE)
-        idx_preface = find_preface_index(actual_paths, preface_pat)
+    normalized: list[str] = []
+    for i, line in enumerate(lines, 1):
+        toks = SELECTION_ENTRY_RE.findall(line)
+        if not toks:
+            continue
+        for tok in toks:
+            p = normalize_path(tok)
+            if not p:
+                continue
+            normalized.append(p)
 
-        if idx_preface is None:
-            print(
-                f"ERROR: Preface missing. Expected a path matching /{preface_regex}/ in book list.",
-                file=sys.stderr,
-            )
-            errors += 1
-        else:
-            # must appear before first chapter
-            try:
-                first_chapter_idx = next(i for i, p in enumerate(actual_paths) if is_chapter_path(p))
-            except StopIteration:
-                first_chapter_idx = None
+            # Must exist (repo-relative)
+            if Path(p).is_absolute():
+                if not Path(p).exists():
+                    rep.error(str(selection_path), i, "SEL-MISSING", f"backticked path does not exist: {p}")
+            else:
+                if not (repo_root / p).exists():
+                    rep.error(str(selection_path), i, "SEL-MISSING", f"backticked path does not exist: {p}")
 
-            if first_chapter_idx is not None and idx_preface > first_chapter_idx:
-                print(
-                    f"ERROR: Preface appears after first chapter ({actual_paths[first_chapter_idx]}).",
-                    file=sys.stderr,
+    return normalized
+
+
+# ------------------------------------------------------------
+# Equivalence (recompute expected emitted list)
+# ------------------------------------------------------------
+
+def find_first_mismatch(expected: list[str], actual: list[str]) -> int | None:
+    n = min(len(expected), len(actual))
+    for i in range(n):
+        if expected[i] != actual[i]:
+            return i
+    if len(expected) != len(actual):
+        return n
+    return None
+
+
+def write_numbered_list(path: Path, items: list[str]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    lines = [f"{i+1:04d}\t{p}" for i, p in enumerate(items)]
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def report_compact_list_diff(
+    rep: Reporter,
+    booklist_path: Path,
+    expected: list[str],
+    actual: list[str],
+    mismatch_index: int,
+) -> None:
+    # List-level error -> line 0
+    ctx = 3
+    lo = max(0, mismatch_index - ctx)
+    hi = min(max(len(expected), len(actual)), mismatch_index + ctx + 1)
+
+    rep.error(
+        str(booklist_path),
+        0,
+        "LIST-MISMATCH",
+        f"first mismatch at index {mismatch_index} (0-based); expected len={len(expected)} actual len={len(actual)}",
+    )
+
+    # Add helpful adjacent context as additional list-level errors (still rule LIST-MISMATCH-CONTEXT).
+    for i in range(lo, hi):
+        exp = expected[i] if i < len(expected) else "<missing>"
+        act = actual[i] if i < len(actual) else "<missing>"
+        mark = ">>" if i == mismatch_index else "  "
+        rep.error(
+            str(booklist_path),
+            0,
+            "LIST-MISMATCH-CONTEXT",
+            f"{mark} [{i:04d}] expected: {exp}",
+        )
+        rep.error(
+            str(booklist_path),
+            0,
+            "LIST-MISMATCH-CONTEXT",
+            f"{mark} [{i:04d}] actual:   {act}",
+        )
+
+
+# ------------------------------------------------------------
+# Build mechanics invariants
+# ------------------------------------------------------------
+
+PART_DIV_RE = re.compile(r"^build/_part_p(\d{2})\.md$")
+SECT_DIV_RE = re.compile(r"^build/_section_p(\d{2})_s(\d{2})\.md$")
+BREAK_RE = re.compile(r"^build/_break_ch_(\d{4})\.md$")
+
+H1_RE = re.compile(r"^#\s+.+\S\s*$")
+H2_RE = re.compile(r"^##\s+.+\S\s*$")
+
+
+def first_nonempty_line(lines: list[str]) -> tuple[int, str] | None:
+    for i, line in enumerate(lines, 1):
+        if line.strip():
+            return i, line
+    return None
+
+
+def verify_generated_file_contracts(
+    rep: Reporter,
+    repo_root: Path,
+    path_str: str,
+) -> None:
+    """
+    Enforce §3.1 contracts on build/_*.md files.
+    """
+    if Path(path_str).is_absolute():
+        # generated files are expected to be repo-relative; still validate if absolute
+        p = Path(path_str)
+    else:
+        p = repo_root / path_str
+
+    if not p.exists():
+        # already caught by booklist integrity, but keep quiet here
+        return
+
+    rel = path_str
+
+    content = p.read_text(encoding="utf-8", errors="strict")
+    lines = content.splitlines()
+
+    m_part = PART_DIV_RE.match(rel)
+    if m_part:
+        part = int(m_part.group(1))
+        if part == 0:
+            rep.error(rel, 0, "GEN-PART0", "part divider for Part 0 is forbidden (build/_part_p00.md)")
+        fn = first_nonempty_line(lines)
+        if fn is None:
+            rep.error(rel, 1, "GEN-PART", "empty part divider file")
+            return
+        lineno, line = fn
+        if line.strip() != r"\cleardoublepage":
+            rep.error(rel, lineno, "GEN-PART", r"first non-empty line must be '\cleardoublepage'")
+        h1s = [i for i, l in enumerate(lines, 1) if l.startswith("# ")]
+        if len(h1s) != 1:
+            rep.error(rel, 0, "GEN-PART", f"must contain exactly one H1 ('# ...'); found {len(h1s)}")
+        return
+
+    m_sect = SECT_DIV_RE.match(rel)
+    if m_sect:
+        fn = first_nonempty_line(lines)
+        if fn is None:
+            rep.error(rel, 1, "GEN-SECTION", "empty section divider file")
+            return
+        lineno, line = fn
+        if line.strip() != r"\clearpage":
+            rep.error(rel, lineno, "GEN-SECTION", r"first non-empty line must be '\clearpage'")
+        h2s = [i for i, l in enumerate(lines, 1) if l.startswith("## ")]
+        if len(h2s) != 1:
+            rep.error(rel, 0, "GEN-SECTION", f"must contain exactly one H2 ('## ...'); found {len(h2s)}")
+        return
+
+    m_break = BREAK_RE.match(rel)
+    if m_break:
+        if r"\clearpage" not in content:
+            rep.error(rel, 0, "GEN-BREAK", r"chapter break must contain '\clearpage'")
+        return
+
+
+def verify_emitted_placement_invariants(
+    rep: Reporter,
+    expected_emitted: list[str],
+    selection_paths_norm: list[str],
+) -> None:
+    """
+    §3.2 placement invariants.
+
+    Important: extractor emits:
+      [section_divider]*, break, chapter_path
+    so we treat "section divider appears before a chapter" as:
+      section_divider -> break -> selection-chapter
+    """
+    selection_set = set(selection_paths_norm)
+
+    def is_break(p: str) -> bool:
+        return BREAK_RE.match(p) is not None
+
+    def is_section_div(p: str) -> bool:
+        return SECT_DIV_RE.match(p) is not None
+
+    # A) Chapter breaks precede every selection chapter path
+    for i, p in enumerate(expected_emitted):
+        if p in selection_set:
+            if i == 0 or not is_break(expected_emitted[i - 1]):
+                rep.error(
+                    "booklist",
+                    0,
+                    "INV-CH-BREAK",
+                    f"selection chapter '{p}' is not immediately preceded by a chapter break (build/_break_ch_*.md)",
                 )
-                errors += 1
 
-    return errors
-
-
-# -----------------------------
-# Glyph / math-mode verification
-# -----------------------------
-
-CHECKS = [
-    (
-        "Unicode arrows",
-        re.compile(r"[\u2190-\u21FF]"),
-        r"Use LaTeX operators (e.g. \Rightarrow, \Leftrightarrow) in math mode.",
-    ),
-    (
-        "Unicode math operators",
-        re.compile(r"[\u2200-\u22FF]"),
-        r"Use LaTeX operators (e.g. \neq, \subseteq, \in) in math mode.",
-    ),
-    (
-        "Checkmarks / X symbols",
-        re.compile(r"[✔✘✓✗✅❌]"),
-        "Replace with plain text (Yes/No, Has/Lacks).",
-    ),
-    (
-        "Unicode minus sign",
-        re.compile(r"−"),
-        r"Replace with '-' (ASCII) or use '-' inside LaTeX math mode.",
-    ),
-    (
-        "Unicode multiplication symbols",
-        re.compile(r"[×·]"),
-        r"Use \times or \cdot in LaTeX math mode.",
-    ),
-    (
-        "Greek letters (Unicode)",
-        re.compile(r"[\u0370-\u03FF]"),
-        r"Use LaTeX Greek (e.g. \alpha) in math mode.",
-    ),
-]
-
-INLINE_CODE_MATHLIKE = re.compile(
-    r"`[^`]*[=<>¬≈≠≤≥→←↔⇒⇔∈∉⊂⊆⊃⊇∪∩×·÷±∑∏√∞∀∃∧∨¬][^`]*`"
-)
-
-CODE_BLOCK_MATHLIKE = re.compile(
-    r"```[\s\S]*?[=<>¬≈≠≤≥→←↔⇒⇔∈∉⊂⊆⊃⊇∪∩×·÷±∑∏√∞∀∃∧∨¬][\s\S]*?```",
-    re.MULTILINE,
-)
+    # B) Section divider insertion: must be followed by break then selection chapter
+    for i, p in enumerate(expected_emitted):
+        if is_section_div(p):
+            if i + 2 >= len(expected_emitted):
+                rep.error("booklist", 0, "INV-SECTION", f"section divider '{p}' is stranded at end of list")
+                continue
+            p1 = expected_emitted[i + 1]
+            p2 = expected_emitted[i + 2]
+            if not is_break(p1) or p2 not in selection_set:
+                rep.error(
+                    "booklist",
+                    0,
+                    "INV-SECTION",
+                    f"section divider '{p}' must be followed by (break, selection chapter); got ({p1}, {p2})",
+                )
 
 
-def glyph_verify(book_input_path: Path) -> int:
+def segment_expected_by_part(
+    extractor: object,
+    scaffolds: list[object],
+    stream_by_part: dict[int, list[str]],
+    auto_part_divider_by_part: dict[int, str],
+) -> tuple[list[int], dict[int, list[str]]]:
     """
-    Returns number of glyph/misuse errors found.
-
-    Quiet mode: reports only file:line + rule + offending character (no Markdown excerpts).
+    Reconstruct the same per-part segments used by build_emit_list, so we can
+    enforce scaffold-slot discipline and part-divider policy structurally.
     """
-    errors = 0
-    paths = load_book_input(book_input_path)
+    # ScaffoldFile has attributes: part_index, slot, path
+    scaffolds_by_part: dict[int, list[object]] = {}
+    for sf in scaffolds:
+        scaffolds_by_part.setdefault(int(sf.part_index), []).append(sf)
+    for p in list(scaffolds_by_part.keys()):
+        scaffolds_by_part[p].sort(key=lambda s: Path(str(s.path)).name)
 
-    for p in paths:
-        path = Path(p)
-        if not path.exists():
-            # Structural validator already reports this; avoid duplicate noise.
+    parts = sorted(set(scaffolds_by_part.keys()) | set(stream_by_part.keys()) | set(auto_part_divider_by_part.keys()))
+    segs: dict[int, list[str]] = {}
+
+    for p in parts:
+        sfs = scaffolds_by_part.get(p, [])
+        before = [str(sf.path) for sf in sfs if 0 <= int(sf.slot) <= 5]
+        after = [str(sf.path) for sf in sfs if 6 <= int(sf.slot) <= 9]
+
+        chunk: list[str] = []
+        chunk.extend(before)
+
+        if p >= 1 and not before:
+            pd = auto_part_divider_by_part.get(p)
+            if pd:
+                chunk.append(pd)
+
+        chunk.extend(stream_by_part.get(p, []))
+        chunk.extend(after)
+        segs[p] = chunk
+
+    return parts, segs
+
+
+def verify_part_divider_policy_and_scaffold_slots(
+    rep: Reporter,
+    extractor: object,
+    scaffold_dir: Path,
+    scaffolds: list[object],
+    parts: list[int],
+    segs: dict[int, list[str]],
+    stream_by_part: dict[int, list[str]],
+    auto_part_divider_by_part: dict[int, str],
+) -> None:
+    """
+    §3.2C and §4.3
+    """
+    # Scaffold naming rule for *included* scaffold files
+    scaffold_name_re = re.compile(r"^(\d{2})-[^/]+\.md$")
+
+    for p in parts:
+        seg = segs.get(p, [])
+
+        # Which scaffolds belong to this part?
+        sfs = [sf for sf in scaffolds if int(sf.part_index) == p]
+        before_sc = [str(sf.path) for sf in sfs if 0 <= int(sf.slot) <= 5]
+        after_sc = [str(sf.path) for sf in sfs if 6 <= int(sf.slot) <= 9]
+
+        # 4.2 scaffold naming
+        for sf in sfs:
+            nm = Path(str(sf.path)).name
+            if not scaffold_name_re.match(nm):
+                rep.error(str(sf.path), 0, "SCAFFOLD-NAME", "scaffold must be named NN-description.md where NN is 00–99")
+
+        # 4.3 slot discipline (structural) within the expected segment
+        # In the expected segment, "before" scaffolds must occur before any stream content;
+        # "after" scaffolds must occur after all stream content.
+        stream = stream_by_part.get(p, [])
+        if stream:
+            # find first stream index within segment
+            idxs = [i for i, x in enumerate(seg) if x in set(stream)]
+            if idxs:
+                first_stream = min(idxs)
+                last_stream = max(idxs)
+                for bp in before_sc:
+                    try:
+                        i = seg.index(bp)
+                    except ValueError:
+                        continue
+                    if i > first_stream:
+                        rep.error("booklist", 0, "SCAFFOLD-SLOT", f"before-scaffold '{bp}' appears after stream start in part {p:02d}")
+                for ap in after_sc:
+                    try:
+                        i = seg.index(ap)
+                    except ValueError:
+                        continue
+                    if i < last_stream:
+                        rep.error("booklist", 0, "SCAFFOLD-SLOT", f"after-scaffold '{ap}' appears before stream end in part {p:02d}")
+
+        # 3.2C part divider insertion policy
+        if p == 0:
+            continue
+        pd = auto_part_divider_by_part.get(p)
+        if pd is None:
+            # If selection had a part heading, extractor created one; if not present we don't enforce here.
             continue
 
-        text = path.read_text(encoding="utf-8", errors="replace")
-
-        # Single-character / regex checks (quiet: no excerpt)
-        for label, pattern, advice in CHECKS:
-            for m in pattern.finditer(text):
-                lineno = text.count("\n", 0, m.start()) + 1
-                char = m.group(0)
-                print(
-                    f"ERROR: {p}:{lineno}: {label} detected ({char}). {advice}",
-                    file=sys.stderr,
-                )
-                errors += 1
-
-        # Inline code containing math-like glyphs (quiet: no content dump)
-        for m in INLINE_CODE_MATHLIKE.finditer(text):
-            lineno = text.count("\n", 0, m.start()) + 1
-            print(
-                f"ERROR: {p}:{lineno}: Math-like content inside inline code. "
-                "Use LaTeX math mode instead of backticks.",
-                file=sys.stderr,
-            )
-            errors += 1
-
-        # Fenced code blocks containing math-like glyphs (already quiet)
-        for m in CODE_BLOCK_MATHLIKE.finditer(text):
-            lineno = text.count("\n", 0, m.start()) + 1
-            print(
-                f"ERROR: {p}:{lineno}: Math-like content inside fenced code block. "
-                "Use display math ($$ ... $$) or prose.",
-                file=sys.stderr,
-            )
-            errors += 1
-
-    return errors
+        if before_sc:
+            # must not appear
+            if pd in seg:
+                rep.error("booklist", 0, "INV-PART-DIV", f"part divider '{pd}' must not appear for part {p:02d} when before-scaffolds exist")
+        else:
+            # must appear before stream (if any stream)
+            if stream_by_part.get(p):
+                if pd not in seg:
+                    rep.error("booklist", 0, "INV-PART-DIV", f"part divider '{pd}' must appear for part {p:02d} (no before-scaffolds)")
+                else:
+                    pd_i = seg.index(pd)
+                    # if stream exists, ensure pd comes before the first stream item
+                    stream_set = set(stream_by_part.get(p, []))
+                    stream_idxs = [i for i, x in enumerate(seg) if x in stream_set]
+                    if stream_idxs and pd_i > min(stream_idxs):
+                        rep.error("booklist", 0, "INV-PART-DIV", f"part divider '{pd}' must appear before part {p:02d} stream")
 
 
-# -----------------------------
-# Authoring + Build-rule verification
-# -----------------------------
+# ------------------------------------------------------------
+# Authoring rules (scoped)
+# ------------------------------------------------------------
 
-# A1/A2 heading discipline
 HEADING_RE = re.compile(r"^(#{1,6})\s+\S")
+FENCE_RE = re.compile(r"^```")
 
-# A3: YAML front matter (disallowed in corpus chapters)
-YAML_FM_LINE = re.compile(r"^---\s*$")
+INDENT_CODE_RE = re.compile(r"^(?:\t| {4,})\S")
+HTML_TABLE_RE = re.compile(r"<\s*table\b", re.IGNORECASE)
 
-# A4/A10: raw LaTeX that implies preamble/layout/doc-structure (banlist)
+# Bare URL: do not flag inside (...) or [...] immediately before url (light heuristic)
+BARE_URL_RE = re.compile(r"(?<!\()(?<!\[)(https?://\S+)", re.IGNORECASE)
+
+BAD_SPACE_RE = re.compile(r"[\u00A0\u2007\u202F\u200B\u200C\u200D\u2060]")
+
 LATEX_BANNED = [
     r"\\documentclass\b",
     r"\\usepackage\b",
@@ -330,31 +600,28 @@ LATEX_BANNED = [
 ]
 LATEX_BANNED_RE = re.compile("|".join(LATEX_BANNED))
 
-# A5: indent-code blocks are disallowed (heuristic outside fences)
-FENCE_RE = re.compile(r"^```")
-INDENT_CODE_RE = re.compile(r"^(?:\t| {4,})\S")
+# Glyph discipline (same spirit as old verifier, but scoped + rule IDs)
+GLYPH_CHECKS: list[tuple[str, re.Pattern[str], str]] = [
+    ("GLYPH-ARROW", re.compile(r"[\u2190-\u21FF]"), r"Use LaTeX operators (e.g. \Rightarrow, \Leftrightarrow) in math mode."),
+    ("GLYPH-OP", re.compile(r"[\u2200-\u22FF]"), r"Use LaTeX operators (e.g. \neq, \subseteq, \in) in math mode."),
+    ("GLYPH-CHECK", re.compile(r"[✔✘✓✗✅❌]"), "Replace with plain text (Yes/No, Has/Lacks)."),
+    ("GLYPH-MINUS", re.compile(r"−"), r"Replace with '-' (ASCII) or use '-' inside LaTeX math mode."),
+    ("GLYPH-MUL", re.compile(r"[×·]"), r"Use \times or \cdot in LaTeX math mode."),
+    ("GLYPH-GREEK", re.compile(r"[\u0370-\u03FF]"), r"Use LaTeX Greek (e.g. \alpha) in math mode."),
+]
 
-# A7: HTML tables disallowed
-HTML_TABLE_RE = re.compile(r"<\s*table\b", re.IGNORECASE)
+INLINE_CODE_MATHLIKE = re.compile(
+    r"`[^`]*[=<>¬≈≠≤≥→←↔⇒⇔∈∉⊂⊆⊃⊇∪∩×·÷±∑∏√∞∀∃∧∨¬][^`]*`"
+)
 
-# A8: bare URLs discouraged (treat as error unless allowed)
-BARE_URL_RE = re.compile(r"(?<!\()(?<!\[)(https?://\S+)", re.IGNORECASE)
-
-# A9: invisible unicode spaces that break determinism
-BAD_SPACE_RE = re.compile(r"[\u00A0\u2007\u202F\u200B\u200C\u200D\u2060]")
-
-# Build: divider page naming
-DIVIDER_RE = re.compile(r"^build/_section_p\d{2}_s\d{2}[^/]*\.md$")
-
-# Build: scaffold numbering (for known scaffold roots)
-SCAFFOLD_ROOTS = ("pub/corpus-book/", "pub/tldr-book/", "pub/paper/")
-SCAFFOLD_NAME_RE = re.compile(r"^\d{2}-[^/]+\.md$")
+# Detect any of the above in fenced code blocks (if present)
+CODE_BLOCK_MATHLIKE = re.compile(
+    r"```[\s\S]*?[=<>¬≈≠≤≥→←↔⇒⇔∈∉⊂⊆⊃⊇∪∩×·÷±∑∏√∞∀∃∧∨¬][\s\S]*?```",
+    re.MULTILINE,
+)
 
 
-def _iter_lines_with_state(text: str):
-    """
-    Yields (lineno, line, in_fence) as we scan, toggling in/out on ``` fences.
-    """
+def iter_lines_with_fence_state(text: str) -> Iterable[tuple[int, str, bool]]:
     in_fence = False
     for i, line in enumerate(text.splitlines(), 1):
         if FENCE_RE.match(line.strip()):
@@ -364,50 +631,47 @@ def _iter_lines_with_state(text: str):
         yield i, line, in_fence
 
 
-def _check_a1_one_h1_and_first(text: str, p: str) -> int:
-    errors = 0
+def check_unbalanced_fences(rep: Reporter, path: str, text: str) -> None:
+    fence_count = sum(1 for line in text.splitlines() if FENCE_RE.match(line.strip()))
+    if fence_count % 2 == 1:
+        rep.error(path, 0, "A-FENCE", "unbalanced fenced code blocks (odd number of ``` fences)")
+
+
+def check_a3_yaml_front_matter(rep: Reporter, path: str, text: str) -> None:
+    lines = text.splitlines()
+    for i, line in enumerate(lines, 1):
+        if line.strip() == "":
+            continue
+        if YAML_FM_LINE_RE.match(line.strip()):
+            rep.error(path, i, "A3", "YAML front matter is forbidden")
+        break
+
+
+def check_a1_canonical_h1_first(rep: Reporter, path: str, text: str) -> None:
     lines = text.splitlines()
 
-    # Find first non-empty line
-    first_nonempty_idx = None
-    for i, line in enumerate(lines):
-        if line.strip():
-            first_nonempty_idx = i
-            break
-
-    if first_nonempty_idx is None:
-        print(f"ERROR: {p}:1: Empty file.", file=sys.stderr)
-        return 1
-
-    first = lines[first_nonempty_idx].rstrip("\n")
-
-    # YAML front matter disallowed especially because A1 requires H1 first
-    if YAML_FM_LINE.match(first.strip()):
-        print(f"ERROR: {p}:{first_nonempty_idx+1}: YAML front matter detected. First non-empty line must be an H1.", file=sys.stderr)
-        errors += 1
-
-    # Must be exactly one H1 title at top
-    if not first.startswith("# "):
-        print(f"ERROR: {p}:{first_nonempty_idx+1}: A1 violation: first non-empty line must be an H1 ('# ...').", file=sys.stderr)
-        errors += 1
-
-    # No other H1 headings permitted
+    first_nonempty = None
     for i, line in enumerate(lines, 1):
-        if line.startswith("# "):
-            if i != (first_nonempty_idx + 1):
-                print(f"ERROR: {p}:{i}: A1 violation: multiple H1 headings (only one permitted).", file=sys.stderr)
-                errors += 1
-    return errors
+        if line.strip():
+            first_nonempty = (i, line)
+            break
+    if first_nonempty is None:
+        rep.error(path, 1, "A1", "empty file")
+        return
+
+    lineno, line = first_nonempty
+    if not line.startswith("# "):
+        rep.error(path, lineno, "A1", "first non-empty line must be exactly one H1 ('# ...')")
+
+    # Exactly one H1 total
+    h1s = [i for i, l in enumerate(lines, 1) if l.startswith("# ")]
+    if len(h1s) != 1:
+        rep.error(path, 0, "A1", f"must contain exactly one H1; found {len(h1s)}")
 
 
-def _check_a2_heading_no_skip(text: str, p: str) -> int:
-    """
-    Enforce: heading levels must not skip by more than 1 when moving downward.
-    (Retreats can be any amount; only 'advance' is constrained.)
-    """
-    errors = 0
+def check_a2_heading_no_skip(rep: Reporter, path: str, text: str) -> None:
     prev_level: int | None = None
-    for lineno, line, in_fence in _iter_lines_with_state(text):
+    for lineno, line, in_fence in iter_lines_with_fence_state(text):
         if in_fence:
             continue
         m = HEADING_RE.match(line)
@@ -415,239 +679,325 @@ def _check_a2_heading_no_skip(text: str, p: str) -> int:
             continue
         level = len(m.group(1))
         if prev_level is not None and level > prev_level + 1:
-            print(
-                f"ERROR: {p}:{lineno}: A2 violation: heading level jumps from H{prev_level} to H{level}.",
-                file=sys.stderr,
-            )
-            errors += 1
+            rep.error(path, lineno, "A2", f"heading level jumps from H{prev_level} to H{level}")
         prev_level = level
-    return errors
 
 
-def _check_a4_a10_banned_latex(text: str, p: str) -> int:
-    errors = 0
+def check_a4_banned_latex(rep: Reporter, path: str, text: str, allow_pagebreaks_only: bool) -> None:
+    """
+    Canonical: ban preamble/layout directives.
+    Scaffolds: allow \clearpage and \cleardoublepage; still ban preamble/layout directives.
+    """
     for m in LATEX_BANNED_RE.finditer(text):
-        lineno = text.count("\n", 0, m.start()) + 1
         frag = m.group(0)
-        print(
-            f"ERROR: {p}:{lineno}: A4/A10 violation: banned raw LaTeX directive detected ({frag}).",
-            file=sys.stderr,
-        )
-        errors += 1
-    return errors
+        # Allow pagebreak directives if allow_pagebreaks_only; they are not in this banlist anyway.
+        lineno = text.count("\n", 0, m.start()) + 1
+        rep.error(path, lineno, "A4", f"banned raw LaTeX directive detected ({frag})")
 
 
-def _check_a5_no_indent_code(text: str, p: str) -> int:
-    errors = 0
+def check_a5_no_indent_code(rep: Reporter, path: str, text: str) -> None:
     prev_blank = False
-    for lineno, line, in_fence in _iter_lines_with_state(text):
+    for lineno, line, in_fence in iter_lines_with_fence_state(text):
         if in_fence:
             prev_blank = False
             continue
 
-        if not line.strip():
+        if line.strip() == "":
             prev_blank = True
             continue
 
-        # Heuristic: lines that "look like" indented code blocks.
-        # We only flag when preceded by a blank line to reduce false positives in lists/quotes.
         if prev_blank and INDENT_CODE_RE.match(line):
-            print(
-                f"ERROR: {p}:{lineno}: A5 violation: indent-based code block detected. Use fenced code blocks (``` ... ```).",
-                file=sys.stderr,
-            )
-            errors += 1
-
+            rep.error(path, lineno, "A5", "indent-based code block detected; use fenced code blocks (``` ... ```)")
         prev_blank = False
-    return errors
 
 
-def _check_a7_no_html_tables(text: str, p: str) -> int:
-    errors = 0
+def check_a7_no_html_table(rep: Reporter, path: str, text: str) -> None:
     for m in HTML_TABLE_RE.finditer(text):
         lineno = text.count("\n", 0, m.start()) + 1
-        print(
-            f"ERROR: {p}:{lineno}: A7 violation: HTML <table> detected. Use Pandoc-compatible Markdown tables.",
-            file=sys.stderr,
-        )
-        errors += 1
-    return errors
+        rep.error(path, lineno, "A7", "HTML <table> detected; use Pandoc-compatible Markdown tables")
 
 
-def _check_a8_no_bare_urls(text: str, p: str, allow_bare_urls: bool) -> int:
-    if allow_bare_urls:
-        return 0
-    errors = 0
+BareUrlsMode = Literal["error", "warn", "ignore"]
+
+
+def check_a8_bare_urls(rep: Reporter, path: str, text: str, mode: BareUrlsMode) -> None:
+    if mode == "ignore":
+        return
     for m in BARE_URL_RE.finditer(text):
         lineno = text.count("\n", 0, m.start()) + 1
         url = m.group(1)
-        print(
-            f"ERROR: {p}:{lineno}: A8 violation: bare URL detected ({url}). Prefer a Markdown link or a reference.",
-            file=sys.stderr,
-        )
-        errors += 1
-    return errors
+        msg = f"bare URL detected ({url}); prefer a Markdown link"
+        if mode == "warn":
+            rep.warn(path, lineno, "A8", msg)
+        else:
+            rep.error(path, lineno, "A8", msg)
 
 
-def _check_a9_bad_spaces(text: str, p: str) -> int:
-    errors = 0
+def check_a9_bad_spaces(rep: Reporter, path: str, text: str) -> None:
     for m in BAD_SPACE_RE.finditer(text):
         lineno = text.count("\n", 0, m.start()) + 1
         ch = m.group(0)
         codepoint = f"U+{ord(ch):04X}"
-        print(
-            f"ERROR: {p}:{lineno}: A9 violation: invisible/unstable whitespace detected ({codepoint}). Replace with ASCII space.",
-            file=sys.stderr,
-        )
-        errors += 1
-    return errors
+        rep.error(path, lineno, "A9", f"invisible/unstable whitespace detected ({codepoint}); replace with ASCII space")
 
 
-def _check_build_paths(paths: list[str]) -> int:
-    """
-    Build-system checks we can enforce from book-input.txt alone.
-    """
-    errors = 0
-    for p in paths:
-        # Divider pages must match deterministic naming
-        if p.startswith("build/_section_"):
-            if not DIVIDER_RE.match(p):
-                print(
-                    f"ERROR: {p}: Build violation: section divider page name must match build/_section_pPP_sSS*.md",
-                    file=sys.stderr,
-                )
-                errors += 1
+def check_glyphs(rep: Reporter, path: str, text: str) -> None:
+    for rule, pat, advice in GLYPH_CHECKS:
+        for m in pat.finditer(text):
+            lineno = text.count("\n", 0, m.start()) + 1
+            ch = m.group(0)
+            rep.error(path, lineno, rule, f"detected '{ch}'. {advice}")
 
-        # Scaffold files in known scaffold roots must be NN-*.md
-        for root in SCAFFOLD_ROOTS:
-            if p.startswith(root):
-                name = Path(p).name
-                if not SCAFFOLD_NAME_RE.match(name):
-                    print(
-                        f"ERROR: {p}: Build violation: SCAFFOLD file must be named NN-description.md (two-digit prefix).",
-                        file=sys.stderr,
-                    )
-                    errors += 1
-                break
+    for m in INLINE_CODE_MATHLIKE.finditer(text):
+        lineno = text.count("\n", 0, m.start()) + 1
+        rep.error(path, lineno, "GLYPH-INLINE-CODE", "math-like glyphs inside inline code; use LaTeX math mode")
 
-    return errors
+    for m in CODE_BLOCK_MATHLIKE.finditer(text):
+        lineno = text.count("\n", 0, m.start()) + 1
+        rep.error(path, lineno, "GLYPH-FENCE", "math-like glyphs inside fenced code block; use math mode or prose")
 
 
-def authoring_verify(book_input_path: Path, allow_bare_urls: bool, scope: str) -> int:
-    """
-    Returns number of authoring/build-rule errors found.
+def classify_path(repo_root: Path, p: str, scaffold_dir: Path | None) -> Literal["generated", "canonical", "scaffold", "other"]:
+    if p.startswith("build/_") and p.endswith(".md"):
+        return "generated"
+    if p.startswith("IER/IER-") and p.endswith(".md"):
+        return "canonical"
+    if scaffold_dir is not None:
+        # Compare normalized absolute path if possible
+        try:
+            pp = (repo_root / p).resolve() if not Path(p).is_absolute() else Path(p).resolve()
+            if scaffold_dir in pp.parents:
+                return "scaffold"
+        except Exception:
+            pass
+    return "other"
 
-    scope:
-      - "all": check all .md files in book-input
-      - "canonical": check only IER/IER-*.md
-    """
-    errors = 0
-    paths = load_book_input(book_input_path)
 
-    errors += _check_build_paths(paths)
-
-    for p in paths:
+def verify_authoring(
+    rep: Reporter,
+    repo_root: Path,
+    booklist_paths: list[str],
+    scaffold_dir: Path | None,
+    scope: Literal["canonical", "all"],
+    bare_urls_mode: BareUrlsMode,
+    skip_glyphs: bool,
+) -> None:
+    for p in booklist_paths:
         if not p.endswith(".md"):
             continue
 
-        if scope == "canonical" and not is_chapter_path(p):
+        klass = classify_path(repo_root, p, scaffold_dir)
+
+        # Scope gate
+        if scope == "canonical" and klass != "canonical":
             continue
 
-        path = Path(p)
-        if not path.exists():
+        # Generated files are validated by §3.1 only; do not apply authoring blanket rules
+        if klass == "generated":
             continue
 
-        text = path.read_text(encoding="utf-8", errors="replace")
+        # Resolve path
+        fs_path = Path(p) if Path(p).is_absolute() else (repo_root / p)
+        if not fs_path.exists():
+            continue
+        text = fs_path.read_text(encoding="utf-8", errors="replace")
 
-        errors += _check_a1_one_h1_and_first(text, p)
-        errors += _check_a2_heading_no_skip(text, p)
-        errors += _check_a4_a10_banned_latex(text, p)
-        errors += _check_a5_no_indent_code(text, p)
-        errors += _check_a7_no_html_tables(text, p)
-        errors += _check_a8_no_bare_urls(text, p, allow_bare_urls=allow_bare_urls)
-        errors += _check_a9_bad_spaces(text, p)
+        # Always enforce fence balance as a stability rule (low false positives)
+        check_unbalanced_fences(rep, p, text)
 
-    return errors
+        # Rule sets
+        if klass == "canonical":
+            check_a3_yaml_front_matter(rep, p, text)
+            check_a1_canonical_h1_first(rep, p, text)
+            check_a2_heading_no_skip(rep, p, text)
+            check_a4_banned_latex(rep, p, text, allow_pagebreaks_only=False)
+            check_a5_no_indent_code(rep, p, text)
+            check_a7_no_html_table(rep, p, text)
+            check_a8_bare_urls(rep, p, text, bare_urls_mode)
+            check_a9_bad_spaces(rep, p, text)
+            if not skip_glyphs:
+                check_glyphs(rep, p, text)
+
+        elif klass == "scaffold":
+            # Partial strict: A3, A5, A7, A9; allow \clearpage/\cleardoublepage (not banned here)
+            check_a3_yaml_front_matter(rep, p, text)
+            # Optional A2 if headings present: just run it (low cost)
+            check_a2_heading_no_skip(rep, p, text)
+            check_a4_banned_latex(rep, p, text, allow_pagebreaks_only=True)
+            check_a5_no_indent_code(rep, p, text)
+            check_a7_no_html_table(rep, p, text)
+            check_a9_bad_spaces(rep, p, text)
+            # Glyph discipline is not required for scaffolds by spec; only do if scope==all AND user didn't skip
+            if scope == "all" and not skip_glyphs:
+                check_glyphs(rep, p, text)
+
+        else:
+            # "other": apply scaffold-like stability rules when scope=all
+            check_a3_yaml_front_matter(rep, p, text)
+            check_a5_no_indent_code(rep, p, text)
+            check_a7_no_html_table(rep, p, text)
+            check_a9_bad_spaces(rep, p, text)
+            check_a8_bare_urls(rep, p, text, bare_urls_mode)
+            if scope == "all" and not skip_glyphs:
+                check_glyphs(rep, p, text)
 
 
-# -----------------------------
+# ------------------------------------------------------------
 # Main
-# -----------------------------
+# ------------------------------------------------------------
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description="IER book verification: structure + glyph discipline + authoring/build rules.")
-    ap.add_argument("manifest", help="IER-manifest.md path")
-    ap.add_argument("book_input", help="build/book-input.txt path")
+    ap = argparse.ArgumentParser(
+        description="IER book verifier: booklist integrity, build equivalence, invariants, and scoped authoring discipline."
+    )
+    ap.add_argument("selection", help="selection markdown input (backticked .md paths)")
+    ap.add_argument("booklist", help="emitted booklist.txt produced by extract_book_list.py")
 
+    ap.add_argument("--skip-glyphs", action="store_true", help="Skip glyph/maths unicode discipline checks.")
+    ap.add_argument("--skip-authoring", action="store_true", help="Skip authoring checks (A-rules).")
     ap.add_argument(
-        "--skip-glyphs",
+        "--skip-structure",
         action="store_true",
-        help="Skip glyph/math-mode checks; only perform structural/authoring verification.",
+        help="Skip structure checks (equivalence + invariants + scaffold structural discipline); run authoring only.",
     )
     ap.add_argument(
-        "--skip-authoring",
+        "--scope",
+        choices=["canonical", "all"],
+        default="canonical",
+        help="Scope for authoring checks (default: canonical).",
+    )
+    ap.add_argument(
+        "--bare-urls",
+        choices=["error", "warn", "ignore"],
+        default="error",
+        help="How to treat bare URLs (default: error).",
+    )
+    ap.add_argument("--scaffold-dir", default=None, help="Explicit scaffold directory (recommended).")
+    ap.add_argument("--explain", action="store_true", help="Print computed summaries (counts).")
+    ap.add_argument(
+        "--diff-full",
         action="store_true",
-        help="Skip canon authoring/build-rule checks; only perform structural (+ optional glyph) verification.",
-    )
-    ap.add_argument(
-        "--authoring-scope",
-        choices=["all", "canonical"],
-        default="all",
-        help="Which files to apply authoring checks to (default: all).",
-    )
-    ap.add_argument(
-        "--allow-bare-urls",
-        action="store_true",
-        help="Do not error on bare URLs in prose (A8).",
-    )
-    ap.add_argument(
-        "--no-preface",
-        action="store_true",
-        help="Do not require a Preface entry in the book list.",
-    )
-    ap.add_argument(
-        "--preface-regex",
-        default=r"(preface|IER-paper)",
-        help=r"Regex used to locate the Preface entry in book-input (default: '(preface|IER-paper)').",
+        help="Write full numbered expected/actual lists under build/ on list mismatch.",
     )
 
     args = ap.parse_args()
 
-    manifest_path = Path(args.manifest).resolve()
-    book_input_path = Path(args.book_input).resolve()
+    repo_root = Path.cwd().resolve()
+    selection_path = Path(args.selection).resolve()
+    booklist_path = Path(args.booklist).resolve()
 
-    if not manifest_path.exists():
-        die(f"Manifest not found: {manifest_path}")
-    if not book_input_path.exists():
-        die(f"Book input list not found: {book_input_path}")
+    rep = Reporter()
 
-    structural_errors = structural_verify(
-        manifest_path=manifest_path,
-        book_input_path=book_input_path,
-        require_preface=(not args.no_preface),
-        preface_regex=args.preface_regex,
-        allow_frontmatter=True,
-    )
+    if not selection_path.exists():
+        rep.error(str(selection_path), 0, "INPUT", "selection file not found")
+        sys.exit(rep.emit())
 
-    authoring_errors = 0
-    if not args.skip_authoring:
-        authoring_errors = authoring_verify(
-            book_input_path=book_input_path,
-            allow_bare_urls=args.allow_bare_urls,
-            scope=args.authoring_scope,
+    if not booklist_path.exists():
+        rep.error(str(booklist_path), 0, "INPUT", "booklist file not found")
+        sys.exit(rep.emit())
+
+    extractor = _import_extractor()
+
+    # 1) Booklist integrity (always-on)
+    booklist_paths = verify_booklist_integrity(rep, repo_root, booklist_path)
+
+    # 6) Selection hygiene (always-on)
+    selection_paths_norm = verify_selection_hygiene(rep, repo_root, selection_path, extractor)
+
+    # Determine scaffold dir early (needed for structure + scaffold authoring classification)
+    scaffold_dir: Path | None = None
+    if not args.skip_structure or (not args.skip_authoring and args.scope == "all"):
+        scaffold_dir = determine_scaffold_dir(
+            rep,
+            repo_root=repo_root,
+            selection_path=selection_path,
+            booklist_paths=booklist_paths,
+            scaffold_dir_flag=args.scaffold_dir,
         )
 
-    glyph_errors = 0
-    if not args.skip_glyphs:
-        glyph_errors = glyph_verify(book_input_path)
+    # If integrity already yielded no usable list, stop early
+    if not booklist_paths:
+        sys.exit(rep.emit())
 
-    total = structural_errors + authoring_errors + glyph_errors
-    if total:
-        print(f"\nVERIFICATION FAILED: {total} issue(s) found.", file=sys.stderr)
-        sys.exit(1)
+    expected_emitted: list[str] | None = None
+    stream_by_part: dict[int, list[str]] | None = None
+    auto_part_divider_by_part: dict[int, str] | None = None
+    scaffolds: list[object] | None = None
 
-    print("VERIFICATION PASSED: structure matches manifest; authoring/build rules and glyph discipline are clean.")
-    sys.exit(0)
+    # 2) Recompute expected list and require exact equality (unless skip-structure)
+    if not args.skip_structure and scaffold_dir is not None:
+        collect_scaffold_files = getattr(extractor, "collect_scaffold_files")
+        extract_stream_and_dividers = getattr(extractor, "extract_stream_and_dividers")
+        build_emit_list = getattr(extractor, "build_emit_list")
+
+        scaffolds = collect_scaffold_files(scaffold_dir, repo_root)
+        sel_lines = selection_path.read_text(encoding="utf-8", errors="strict").splitlines()
+        stream_by_part, auto_part_divider_by_part, _part_has = extract_stream_and_dividers(
+            sel_lines,
+            repo_root=repo_root,
+            build_dir_rel="build",
+        )
+        expected_emitted = build_emit_list(scaffolds, stream_by_part, auto_part_divider_by_part)
+
+        # Exact equality
+        mismatch = find_first_mismatch(expected_emitted, booklist_paths)
+        if mismatch is not None:
+            report_compact_list_diff(rep, booklist_path, expected_emitted, booklist_paths, mismatch)
+            if args.diff_full:
+                build_dir = repo_root / "build"
+                stem = selection_path.stem
+                write_numbered_list(build_dir / f"{stem}-verify.expected.numbered.txt", expected_emitted)
+                write_numbered_list(build_dir / f"{stem}-verify.actual.numbered.txt", booklist_paths)
+
+    # 3) Build-mechanics invariants (generated files + placement + scaffold structure)
+    if not args.skip_structure:
+        # 3.1 generated structural files contracts (on actual list)
+        for p in booklist_paths:
+            if p.startswith("build/_") and p.endswith(".md"):
+                verify_generated_file_contracts(rep, repo_root, p)
+
+        # 3.2 placement invariants + scaffold slot discipline: only meaningful if we computed expected list
+        if expected_emitted is not None and scaffolds is not None and stream_by_part is not None and auto_part_divider_by_part is not None and scaffold_dir is not None:
+            verify_emitted_placement_invariants(rep, expected_emitted, selection_paths_norm)
+
+            parts, segs = segment_expected_by_part(extractor, scaffolds, stream_by_part, auto_part_divider_by_part)
+            verify_part_divider_policy_and_scaffold_slots(
+                rep,
+                extractor=extractor,
+                scaffold_dir=scaffold_dir,
+                scaffolds=scaffolds,
+                parts=parts,
+                segs=segs,
+                stream_by_part=stream_by_part,
+                auto_part_divider_by_part=auto_part_divider_by_part,
+            )
+
+            if args.explain:
+                # Low-noise summary (goes to stderr so it doesn't pollute success stdout)
+                total_chapters = sum(1 for p in expected_emitted if p in set(selection_paths_norm))
+                total_breaks = sum(1 for p in expected_emitted if BREAK_RE.match(p) is not None)
+                total_sections = sum(1 for p in expected_emitted if SECT_DIV_RE.match(p) is not None)
+                total_parts = sum(1 for p in expected_emitted if PART_DIV_RE.match(p) is not None)
+                total_scaffolds = sum(1 for p in expected_emitted if (not p.startswith("build/_")) and scaffold_dir in ((repo_root / p).resolve().parents if not Path(p).is_absolute() else Path(p).resolve().parents) if scaffold_dir is not None)
+                rep.warn("verify", 0, "EXPLAIN", f"expected: parts={total_parts} sections={total_sections} breaks={total_breaks} chapters={total_chapters} scaffolds~={total_scaffolds}")
+
+    # 5) Authoring rules (scoped)
+    if not args.skip_authoring:
+        verify_authoring(
+            rep,
+            repo_root=repo_root,
+            booklist_paths=booklist_paths,
+            scaffold_dir=scaffold_dir,
+            scope=args.scope,
+            bare_urls_mode=args.bare_urls,
+            skip_glyphs=args.skip_glyphs,
+        )
+
+    exit_code = rep.emit()
+    if exit_code == 0:
+        # Low-noise on success
+        sys.exit(0)
+    sys.exit(1)
 
 
 if __name__ == "__main__":

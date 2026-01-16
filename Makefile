@@ -87,8 +87,8 @@ PANDOC_TLDR_OPTS := \
 PANDOC_OPTS := $(PANDOC_PAPER_OPTS)
 
 .PHONY: all pubs dirs \
-        paper book booklist verify verify-structure check-corpus \
-        tldr tldrlist check-tldr \
+        paper book booklist verify verify-structure verify-authoring check-corpus \
+        tldr tldrlist verify-tldr verify-tldr-structure verify-tldr-authoring check-tldr \
         clean spotless rebuild
 
 # Default target
@@ -135,18 +135,32 @@ $(CORPUS_BOOKLIST): $(CORPUS_SELECTION) $(CORPUS_SCAFFOLD_FILES) | dirs
 	@echo "Wrote booklist: $@"
 
 # -----------------------------
-# Verification (manifest/order/sentinels + glyph discipline)
+# Verification (corpus)
+#   verify_book.py interface:
+#     python3 scripts/verify_book.py <selection.md> <booklist.txt> [flags]
 # -----------------------------
 verify: $(CORPUS_BOOKLIST)
 	@echo "Verifying corpus book list and chapter content..."
-	@python3 $(SCRIPTS_DIR)/verify_book.py "$(CORPUS_SELECTION)" "$(CORPUS_BOOKLIST)"
+	@python3 $(SCRIPTS_DIR)/verify_book.py \
+	  "$(CORPUS_SELECTION)" \
+	  "$(CORPUS_BOOKLIST)" \
+	  --scaffold-dir "$(CORPUS_SCAFFOLD_DIR)"
 
 verify-structure: $(CORPUS_BOOKLIST)
 	@echo "Verifying corpus book structure (glyph checks skipped)..."
 	@python3 $(SCRIPTS_DIR)/verify_book.py \
 	  "$(CORPUS_SELECTION)" \
 	  "$(CORPUS_BOOKLIST)" \
+	  --scaffold-dir "$(CORPUS_SCAFFOLD_DIR)" \
 	  --skip-glyphs
+
+verify-authoring: $(CORPUS_BOOKLIST)
+	@echo "Verifying corpus authoring rules only (skip structure)..."
+	@python3 $(SCRIPTS_DIR)/verify_book.py \
+	  "$(CORPUS_SELECTION)" \
+	  "$(CORPUS_BOOKLIST)" \
+	  --scaffold-dir "$(CORPUS_SCAFFOLD_DIR)" \
+	  --skip-structure
 
 # NOTE: Re-enable `verify` before any public or tagged release.
 # $(CORPUS_PDF): verify | dirs
@@ -191,6 +205,32 @@ $(TLDR_BOOKLIST): $(TLDR_SELECTION) $(TLDR_SCAFFOLD_FILES) | dirs
 	  "$(TLDR_SCAFFOLD_DIR)" \
 	  "$@"
 	@echo "Wrote tldr booklist: $@"
+
+# -----------------------------
+# Verification (tldr)
+# -----------------------------
+verify-tldr: $(TLDR_BOOKLIST)
+	@echo "Verifying TLDR book list and chapter content..."
+	@python3 $(SCRIPTS_DIR)/verify_book.py \
+	  "$(TLDR_SELECTION)" \
+	  "$(TLDR_BOOKLIST)" \
+	  --scaffold-dir "$(TLDR_SCAFFOLD_DIR)"
+
+verify-tldr-structure: $(TLDR_BOOKLIST)
+	@echo "Verifying TLDR book structure (glyph checks skipped)..."
+	@python3 $(SCRIPTS_DIR)/verify_book.py \
+	  "$(TLDR_SELECTION)" \
+	  "$(TLDR_BOOKLIST)" \
+	  --scaffold-dir "$(TLDR_SCAFFOLD_DIR)" \
+	  --skip-glyphs
+
+verify-tldr-authoring: $(TLDR_BOOKLIST)
+	@echo "Verifying TLDR authoring rules only (skip structure)..."
+	@python3 $(SCRIPTS_DIR)/verify_book.py \
+	  "$(TLDR_SELECTION)" \
+	  "$(TLDR_BOOKLIST)" \
+	  --scaffold-dir "$(TLDR_SCAFFOLD_DIR)" \
+	  --skip-structure
 
 $(TLDR_PDF): $(TLDR_BOOKLIST) $(IER_BOOK_TEX) | dirs
 	@test -s "$(TLDR_BOOKLIST)" || (echo "ERROR: empty book list: $(TLDR_BOOKLIST)" >&2; exit 1)
@@ -238,7 +278,9 @@ clean:
 	  $(PAPER_PDF) \
 	  $(CORPUS_PDF) $(CORPUS_BOOKLIST) $(BUILD_DIR)/corpus-input.numbered.txt \
 	  $(TLDR_PDF)   $(TLDR_BOOKLIST)   $(BUILD_DIR)/tldr-input.numbered.txt \
-	  $(BUILD_DIR)/*.numbered.txt
+	  $(BUILD_DIR)/*.numbered.txt \
+	  $(BUILD_DIR)/*-verify.expected.numbered.txt \
+	  $(BUILD_DIR)/*-verify.actual.numbered.txt
 
 # Remove the entire build directory (fresh checkout cleanliness)
 spotless: clean

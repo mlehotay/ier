@@ -1,172 +1,263 @@
 # Informational Experiential Realism (IER)
 
 This repository contains the **Informational Experiential Realism (IER)** project:
-the canonical theoretical corpus, non-canonical publication artifacts, and the
-governance and build infrastructure used to assemble public releases.
 
-**Authority rule:**  
-Only files under **`IER/`** are canonical (authoritative).  
-Everything outside `IER/` is non-canonical, non-authoritative, and downstream.
+- the **canonical theoretical corpus**
+- **publication artifacts** (books and papers)
+- and the **build, verification, and governance infrastructure** used to assemble and validate releases
+
+The repository is designed to make **structure explicit, deterministic, and verifiable**.  
+Nothing is implicitly ordered; nothing is trusted without verification.
 
 ---
 
-## Repository layout
+## Repository Structure
 
-```
-
-IER/           Canonical corpus (authoritative)
-governance/    Build, deployment, and legal governance (non-canonical)
-pub/           Publication artifacts + assembly inputs (non-canonical)
-scripts/       Build helpers
-assets/        Static assets (covers, figures)
-build/         Generated outputs (disposable)
-Makefile       Main build entry point
-
+```text
+IER/            Canonical IER theory chapters (authoritative content)
+pub/            Publication inputs (selections, scaffolds, papers)
+scripts/        Build helpers (extractor, verifier)
+build/          Generated outputs (disposable)
+assets/         Covers and static assets
+governance/     Build, publishing, legal, and deployment rules
+_work/          Drafts, plans, and non-canonical working notes
 ````
 
----
+### Canonical Content
 
-## Canonical corpus (`IER/`)
+* `IER/IER-*.md`
+  The canonical IER chapters. These files are subject to **strict authoring rules** and are the only files treated as canonical theory.
 
-The directory **`IER/`** contains the authoritative theory: definitions, constraints,
-arguments, and corpus structure.
+See:
 
-Key entry points:
-
-- **Corpus overview:**  
-  `IER/README.md`
-
-- **Normative specification:**  
-  `IER/IER-specification.md`
-
-- **Canon governance:**  
-  `IER/IER-canon.md`
-
-- **Corpus membership and ordering:**  
-  `IER/IER-manifest.md`
-
-If any document outside `IER/` conflicts with a document inside `IER/`,
-the material inside `IER/` takes precedence by definition.
+* [`IER/README.md`](IER/README.md)
+* [`IER/IER-canon.md`](IER/IER-canon.md)
 
 ---
 
-## Governance documents (`governance/`)
+## Publications
 
-The directory **`governance/`** contains non-canonical documents that govern
-**process**, not theory.
+IER is published in three main forms:
 
-These documents define how the project is built, released, and legally framed,
-but introduce no theoretical claims and carry no authority over the corpus itself.
+1. **Standalone paper**
+2. **Corpus book** (full reference work)
+3. **TLDR book** (condensed, reader-oriented)
 
-Key documents:
+### Paper
 
-- `governance/IER-build.md` — build and assembly rules
-- `governance/IER-publishing.md` — rendering and physical instantiation rules
-- `governance/IER-deployment.md` — public release order and immutability discipline
-- `governance/IER-legal.md` — legal and IP context for AI-assisted authorship
+* Source: [`pub/IER-paper.md`](pub/IER-paper.md)
+* Output: `build/IER-paper.pdf`
 
----
-
-## Publication artifacts (`pub/`)
-
-The directory **`pub/`** contains non-canonical artifacts used to assemble
-reader-facing publications derived from the corpus.
-
-These files are **downstream presentations only** and introduce no authority.
-
-Key artifacts:
-
-- `pub/IER-corpus-selection.md` — corpus book selection and structure
-- `pub/IER-tldr-selection.md` — TLDR / gateway book selection and structure
-- `pub/IER-paper.md` — standalone paper / preprint source
-
-Book-specific scaffolding (front matter, part headers, disclaimers, appendices)
-lives under:
-
-- `pub/corpus-book/`
-- `pub/tldr-book/`
-
-### TeX header includes (publication layer)
-
-Publication-layer TeX configuration lives under:
-
-- `pub/tex/ier-book.tex`  
-  Header for book-class artifacts (corpus book and TLDR book)
-
-- `pub/tex/ier-paper.tex`  
-  Header for article-class artifacts (paper and single-chapter PDFs)
-
-These files control pagination, headers/footers, and typography, but contain
-no theory and introduce no corpus content.
-
----
-
-## Build outputs
-
-Generated artifacts are written to **`build/`** and are disposable.
-
-Typical outputs include:
-
-- `build/IER-paper.pdf`
-- `build/IER-corpus-book.pdf`
-- `build/IER-tldr-book.pdf`
-
-Intermediate build products include:
-
-- `build/corpus-input.txt` — Pandoc input list for the corpus book
-- `build/tldr-input.txt` — Pandoc input list for the TLDR book
-- `build/*.numbered.txt` — numbered diagnostics for input order
-
----
-
-## Build system overview
-
-IER books are assembled mechanically using:
-
-- a **selection file** (explicit chapter paths and structure markers)
-- a **SCAFFOLD directory** (front matter and framing files)
-
-The build system:
-
-- extracts backticked `.md` paths from the selection file
-- tracks Part (`##`) and Section (`###`) structure markers
-- generates purely structural Markdown files:
-  - Part divider pages
-  - Section divider pages
-  - Chapter break pages
-- merges these with scaffold files according to fixed numeric rules
-- emits a final Pandoc input list consumed verbatim
-
-No theory is inferred, rewritten, reordered, or synthesized at build time.
-
----
-
-## Build commands
+Build with:
 
 ```bash
-make paper        # build paper / preprint PDF
-make book         # build corpus book PDF
-make tldr         # build TLDR / gateway book PDF
-make pubs         # build all publication artifacts
-
-make verify       # verify corpus book list + content discipline checks
-make verify-structure  # verify corpus book structure only (glyph checks skipped)
-
-make check-corpus # pandoc-check each corpus-book chapter individually
-make check-tldr   # pandoc-check each tldr-book chapter individually
-
-make clean        # remove generated artifacts
-make spotless     # remove entire build/ directory (fresh checkout cleanliness)
-````
+make paper
+```
 
 ---
 
-## Project-wide constraint
+### Corpus Book
 
-> **Nothing is inferred at build time.**
+* Selection file: [`pub/IER-corpus-selection.md`](pub/IER-corpus-selection.md)
+* Scaffold directory: [`pub/corpus-book/`](pub/corpus-book/)
+* Emitted list: `build/corpus-input.txt`
+* Output PDF: `build/IER-corpus-book.pdf`
 
-Artifacts are assembled mechanically from explicit manifests, selections,
-and scaffolding.
-No theory content is generated, reordered, or rewritten during the build.
+Build with:
+
+```bash
+make book
+```
+
+---
+
+### TLDR Book
+
+* Selection file: [`pub/IER-tldr-selection.md`](pub/IER-tldr-selection.md)
+* Scaffold directory: [`pub/tldr-book/`](pub/tldr-book/)
+* Emitted list: `build/tldr-input.txt`
+* Output PDF: `build/IER-tldr-book.pdf`
+
+Build with:
+
+```bash
+make tldr
+```
+
+---
+
+## Build Pipeline (Books)
+
+Book artifacts are assembled in **three explicit stages**:
+
+### 1. Selection
+
+Selection files declare:
+
+* chapter order
+* part boundaries (`##`)
+* section boundaries (`###`)
+
+Examples:
+
+* [`pub/IER-corpus-selection.md`](pub/IER-corpus-selection.md)
+* [`pub/IER-tldr-selection.md`](pub/IER-tldr-selection.md)
+
+Selection files are **structure-only** and contain backticked `.md` paths.
+
+---
+
+### 2. Emission
+
+The extractor:
+
+* [`scripts/extract_book_list.py`](scripts/extract_book_list.py)
+
+takes:
+
+```text
+selection.md + scaffold directory
+```
+
+and produces:
+
+* a deterministic Pandoc input list (`build/*-input.txt`)
+* generated structural pages in `build/`:
+
+  * part dividers
+  * section dividers
+  * chapter breaks
+
+This step is **mechanical**, not authoritative.
+
+---
+
+### 3. Verification (Authoritative)
+
+The verifier:
+
+* [`scripts/verify_book.py`](scripts/verify_book.py)
+
+is the **authoritative enforcement layer**.
+
+It:
+
+* recomputes the expected emitted list from the selection and scaffolds
+* requires **exact equality** with the emitted booklist
+* enforces structural invariants (divider placement, scaffold slots)
+* enforces scoped authoring rules on canonical content
+
+Verification is **not optional linting**.
+A book that does not verify is considered **invalid**.
+
+Run manually:
+
+```bash
+make verify
+make verify-tldr
+```
+
+---
+
+## Scaffold Files
+
+Book scaffolds live under:
+
+* `pub/corpus-book/`
+* `pub/tldr-book/`
+
+and must be named:
+
+```text
+NN-description.md
+```
+
+Where:
+
+* `NN // 10` → part index
+* `NN % 10`  → slot within the part
+
+Slot semantics:
+
+| Slot | Meaning        |
+| ---: | -------------- |
+|  0–5 | Before content |
+|  6–9 | After content  |
+
+These rules are **structural**, not cosmetic, and are enforced by the verifier.
+
+---
+
+## Verification Targets
+
+Common targets:
+
+```bash
+make verify                 # full corpus verification
+make verify-structure       # skip glyph checks
+make verify-authoring       # authoring rules only
+
+make verify-tldr
+make verify-tldr-structure
+make verify-tldr-authoring
+```
+
+---
+
+## Authoring Rules
+
+Canonical chapters (`IER/IER-*.md`) are subject to strict rules, including:
+
+* exactly one top-level `#` heading
+* no YAML front matter
+* no raw LaTeX preamble directives
+* no indent-based code blocks
+* no HTML tables
+* controlled Unicode and math glyph usage
+
+Scaffold files are checked with a **relaxed but stable** subset of rules.
+
+See governance documentation for details.
+
+---
+
+## Governance and Policies
+
+All build, publishing, and legal policies live under `governance/`:
+
+* [`governance/IER-build.md`](governance/IER-build.md)
+  Build mechanics and invariants
+
+* [`governance/IER-publishing.md`](governance/IER-publishing.md)
+  Release discipline and publication rules
+
+* [`governance/IER-deployment.md`](governance/IER-deployment.md)
+  Distribution and deployment guidance
+
+* [`governance/IER-legal.md`](governance/IER-legal.md)
+  Legal context for AI-assisted authorship **as of 2025**,
+
+---
+
+## Design Philosophy
+
+This repository is intentionally:
+
+* **explicit** over implicit
+* **deterministic** over convenient
+* **verified** over assumed
+
+If a structure matters, it is encoded.
+If a rule matters, it is enforced.
+If something changes, verification will fail loudly.
+
+---
+
+## Status
+
+Active development.
+Canonical content evolves carefully; build and verification rules evolve conservatively.
+
+Non-canonical drafts and planning material live under `_work/` and do not affect builds.
 
 ---
