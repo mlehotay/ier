@@ -168,9 +168,9 @@ Each clarification must appear **exactly once** as an **explicit non-inference**
 
 # **IX. Tooling, Build, and Publication Infrastructure**
 
-* [ ] Machine-readable manifest or index
-* [ ] Validation scripts for book build
-* [ ] Sentinel enforcement
+* [x] Machine-readable manifest or index
+* [x] Validation scripts for book build
+* [x] Sentinel enforcement
 * [ ] Automated tier-violation checks
 * [ ] Linting for forbidden language classes
 

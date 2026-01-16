@@ -71,37 +71,6 @@ No currently planned work meets the criteria for **v10.9**.
 
 # **Release Ladder**
 
-## **v10.8.2 — Structural Projection & Tooling Stabilization**
-
-**Intent:**
-
-> *The theory is closed; the book is mechanically safe.*
-
-### Scope
-
-This release is limited to **tooling, structure, and projection correctness**.
-
-### Includes
-
-* Manifest-driven book build enforcement
-* Sentinel file enforcement
-* Validation scripts (fail-loudly on drift)
-* TOC authority clarification
-* Pandoc / Make alignment
-* Repair of unstable or “wonky” PDF/EPUB outputs
-* One-time changelog entry (structural only)
-
-### Excludes
-
-* New corpus documents
-* Any Part I, II, or III content additions
-* Reader-facing explanatory expansion
-
-**Stopping condition:**
-When the book can be regenerated reproducibly and validation fails on any drift, this release is complete.
-
----
-
 ## **v10.8.3 — Part II Diachronic Completion**
 
 **Intent:**

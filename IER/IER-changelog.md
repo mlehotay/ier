@@ -197,22 +197,25 @@ Post-closure work is limited to clarification, pedagogy, application, and critiq
 
 ---
 
-## **v10.8.2 — Corpus Expansion and Publication Alignment (Patch)**
+## **v10.8.2 — Corpus Expansion & Publication Tooling (Patch)**
 
-**Status:** Patch release
-**Character:** Non-normative expansion and tooling
+**Status:** Released
+**Character:** Non-normative expansion, structural alignment, and build stabilization
 
-**No ontological, criterial, epistemic, or ethical commitments changed.**
-Normative authority remains fixed at **v10.8 / v10.8.1**.
+**No ontological, criterial, epistemic, or ethical commitments were changed.**
+All normative authority remains fixed at **v10.8 / v10.8.1**.
 
-This release incorporates **substantial new Tier-2 and Tier-4 material** added after v10.8.1, along with rewrites and publication tooling, while remaining fully within patch constraints.
+This release incorporates substantial **Tier-2 and Tier-4 explanatory material**, along with governance, build, and publication infrastructure needed to reliably assemble and validate the IER corpus.
 
 **Key updates:**
 
-* Added multiple non-normative explanatory articles (emotions, crying, panic, humour, pleasure, pain, intro)
-* Rewrote several Tier-2 articles for structural clarity and consistency
-* Completed math and typography normalization (LaTeX hardening)
-* Added manifest-driven book assembly and build tooling
+* Added and revised multiple non-normative explanatory articles
+* Completed relational, phenomenological, and regime-interruption coverage
+* Finalized canon, manifest, and tier enforcement
+* Implemented manifest-driven book assembly and validation tooling
+* Stabilized Pandoc / LaTeX rendering for paper and book outputs
 
 **Interpretive note:**
-v10.8.2 materially expands explanatory coverage and reader accessibility without reopening normative commitments.
+v10.8.2 reflects a **material expansion of explanatory coverage** and a **maturation of publication infrastructure**, without reopening normative commitments.
+
+---
