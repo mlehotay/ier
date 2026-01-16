@@ -190,11 +190,12 @@ These documents are:
 70. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict  
 71. **[T4] `IER-idealism.md`** — Analytic idealism: shared diagnoses and decisive divergence
 72. **[T4] `IER-triangles.md`** — Dreamed geometry and structural isomorphism without representation  
-73. **[T4] `IER-equilibrium.md`** — What is it like to be an information system?
-74. **[T4] `IER-rubric.md`** — Separating theoretical adequacy from diagnostic convenience  
-75. **[T4] `IER-FAQ.md`** — Reader-facing clarifications  
-76. **[T4] `IER-glossary.md`** — Canon-constrained terminology  
-77. **[T4] `IER-index.md`** — Concept-to-document navigation
+73. **[T4] `IER-magic-number.md`** — Cultural pressure on experiential unity, continuity, and irreducibility
+74. **[T4] `IER-equilibrium.md`** — What is it like to be an information system?
+75. **[T4] `IER-rubric.md`** — Separating theoretical adequacy from diagnostic convenience  
+76. **[T4] `IER-FAQ.md`** — Reader-facing clarifications  
+77. **[T4] `IER-glossary.md`** — Canon-constrained terminology  
+78. **[T4] `IER-index.md`** — Concept-to-document navigation
 
 > **These documents constitute the complete reader-facing orientation layer of IER and correspond exactly to Book Part III.**
 
@@ -204,10 +205,10 @@ These documents are:
 
 These documents are **in-corpus** but **not book chapters**.
 
-78. **[T4] `README.md`** — Repository front-door orientation
-79. **[T4] `IER-canon.md`** — Canonical authority and governance rules
-80. **[T4] `IER-manifest.md`** — Corpus inventory and flat ordering
-81. **[T4] `IER-changelog.md`** — Version history and structural changes
+79. **[T4] `README.md`** — Repository front-door orientation
+80. **[T4] `IER-canon.md`** — Canonical authority and governance rules
+81. **[T4] `IER-manifest.md`** — Corpus inventory and flat ordering
+82. **[T4] `IER-changelog.md`** — Version history and structural changes
 
 ---
 
@@ -215,12 +216,12 @@ These documents are **in-corpus** but **not book chapters**.
 
 These materials are **internal, non-reader-facing publication infrastructure artifacts**.
 
-82. **`pub/IER-corpus-book.md`** — Publication and production procedures
-83. **`pub/IER-tldr-book.md`** — Publication and production procedures
-84. **`pub/IER-building.md`** — Author-facing book assembly instructions
-85. **`pub/IER-legal.md`** — Legal and IP reference
-86. **`pub/IER-deployment.md`** — Public release order & priority discipline
-87. **`pub/tldr-book/IER-tldr-manifest.md`** — Manifest/chapterlist for TLDR book
+83. **`pub/IER-corpus-book.md`** — Publication and production procedures
+84. **`pub/IER-tldr-book.md`** — Publication and production procedures
+85. **`pub/IER-building.md`** — Author-facing book assembly instructions
+86. **`pub/IER-legal.md`** — Legal and IP reference
+87. **`pub/IER-deployment.md`** — Public release order & priority discipline
+88. **`pub/tldr-book/IER-tldr-manifest.md`** — Manifest/chapterlist for TLDR book
 
 ---
 
@@ -228,7 +229,7 @@ These materials are **internal, non-reader-facing publication infrastructure art
 
 Part VI contains externally consumable publications derived from the IER corpus that are governed by, but do not contribute to, canonical authority or book structure.
 
-88. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
+89. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
 
 ---
 

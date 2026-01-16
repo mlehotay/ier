@@ -1366,7 +1366,21 @@ This article is written in the spirit of engagement rather than refutation. Info
 
 ---
 
-## 73. IER-equilibrium.md
+## 73. IER-magic-number.md
+
+## 0. Status and Scope
+
+This article is **explanatory and non-normative**.
+It introduces **no new ontological, criterial, epistemic, or ethical commitments**.
+All binding authority remains fixed exclusively in the IER normative corpus.
+
+The song discussed below is **not treated as evidence, authority, or anticipation** of Informational Experiential Realism (IER). It is used as a **structural intuition pump**: a cultural artifact that surfaces recurring pressures about experience without resolving them.
+
+No familiarity with the song is required. The analysis is **structural rather than exegetical**.
+
+---
+
+## 74. IER-equilibrium.md
 
 ## **1. Why the Question Is Not Straightforward**
 
@@ -1378,7 +1392,7 @@ The difficulty is that *information system* names a **descriptive role**, while 
 
 ---
 
-## 74. IER-rubric.md
+## 75. IER-rubric.md
 
 ## **1. Why a New Rubric Is Needed**
 
@@ -1403,7 +1417,7 @@ This document exists to separate **theoretical adequacy** from **epistemic conve
 
 ---
 
-## 75. IER-FAQ.md
+## 76. IER-FAQ.md
 
 ## **Status and Purpose**
 
@@ -1424,7 +1438,7 @@ Where this FAQ discusses morality, it refers **only to experiential moral harm a
 
 ---
 
-## 76. IER-glossary.md
+## 77. IER-glossary.md
 
 ## **Status and Scope**
 
@@ -1443,7 +1457,7 @@ This glossary explains **how terms are used in IER**, not how they are used else
 
 ---
 
-## 77. IER-index.md
+## 78. IER-index.md
 
 ## **Status and Scope**
 
@@ -1467,7 +1481,7 @@ If a reference here appears inconsistent with a Tier-1 document, the Tier-1 docu
 
 ---
 
-## 78. README.md
+## 79. README.md
 
 ## What This Is
 
@@ -1492,7 +1506,7 @@ It is a theory of:
 
 ---
 
-## 79. IER-canon.md
+## 80. IER-canon.md
 
 ## **Status and Purpose**
 
@@ -1504,7 +1518,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 ---
 
-## 80. IER-manifest.md
+## 81. IER-manifest.md
 
 ## **Status and Function**
 
@@ -1524,7 +1538,7 @@ It does **not** define authority, governance rules, interpretive constraints, or
 
 ---
 
-## 81. IER-changelog.md
+## 82. IER-changelog.md
 
 ## **Informational Experiential Realism — Version History**
 

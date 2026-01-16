@@ -1,155 +1,183 @@
-# IER Build System (`IER-build.md`)
-
-This document defines **how IER publication artifacts are assembled and built**.
-
-It specifies:
-
-* what inputs a book consists of
-* how those inputs are ordered
-* how structural pages are generated
-* how the final Pandoc input list is produced
-
-It does **not** define theory, canon, authority, or deployment order.
+# IER Build System  
+**Mechanical Assembly and Verification Rules**
 
 ---
 
-## Status and Authority
+## Status and Scope
+
+This document defines **how Informational Experiential Realism (IER) publication
+artifacts are mechanically assembled and validated**.
+
+It governs:
+
+- how books are assembled from source files
+- how ordering and structure are determined
+- how structural pages are generated
+- how build outputs are verified for correctness
+
+It does **not**:
+
+- define theory, ontology, or claims
+- define canonical authority
+- define corpus membership or ordering
+- define rendering, typography, or physical format
+- define deployment order or release policy
+
+Those concerns live elsewhere.
+
+---
+
+## Authority and Precedence
 
 This document is **non-canonical**.
 
-* Canonical authority lives exclusively in `IER/`
-* If this document conflicts with any file in `IER/`, **the canon prevails**
+Authority resolves in the following order:
 
-This document governs **mechanical assembly only**.
+1. **Canonical theory** (`IER/`)
+2. **Corpus manifest and canon rules**
+3. **This build document**
+4. Rendering rules (`IER-publishing.md`)
+5. Tooling implementation details
+
+If this document conflicts with any canonical file,  
+**the canon prevails**.
 
 ---
 
 ## Core Principle
 
-> **Nothing is inferred at build time. Everything is assembled mechanically from explicit markers.**
+> **Nothing is inferred at build time. Everything is assembled mechanically from explicit declarations.**
 
 The build system:
 
-* never invents theory content
-* never rewrites existing source files
-* never infers structure from prose
-* never decides chapter membership implicitly
-* never alters canonical ordering
+- never invents content
+- never rewrites source files
+- never infers structure from prose
+- never guesses chapter membership
+- never alters canonical ordering
 
-**Explicit exception:**  
-The build system may generate **purely structural Markdown files**
-(Part dividers, Section dividers, Chapter breaks) when explicitly directed
-by structure markers in a selection file.
-
-These generated files contain **no theory**.
+All structure must be **explicitly declared**.
 
 ---
 
 ## Build Inputs (Per Book)
 
-Each book build is defined by **exactly two content inputs**, declared in the Makefile:
+Each book build is defined by **exactly two content inputs**:
 
 1. a **selection file**
 2. a **SCAFFOLD directory**
 
-In addition, the build may supply **publication-layer configuration inputs**
-(e.g. Pandoc options, TeX header includes) that affect layout and typography
-but introduce no content.
+In addition, the build may supply **publication-layer configuration**
+(e.g. Pandoc flags, TeX headers) that affect layout only and introduce no content.
 
 ---
 
 ## Selection Files
 
-A **selection file** is a Markdown document that explicitly lists included
-chapters and declares book structure.
+A **selection file** is a Markdown document that explicitly declares:
 
-Selection files are **non-authoritative**.
+- chapter inclusion
+- chapter order
+- Part boundaries
+- Section boundaries
+
+Selection files are **non-authoritative** and contain **no theory**.
+
+---
 
 ### Chapter Path Extraction (Authoritative)
 
-During scanning of the selection file:
+During a linear scan of the selection file:
 
-* only **backticked tokens** ending in `.md` are extracted as chapter candidates
-* **multiple backticked tokens per line are permitted**
-* order of appearance defines chapter order
-* duplicate paths are ignored after first occurrence
+- only **backticked tokens** ending in `.md` are extracted
+- multiple backticked tokens per line are permitted
+- order of appearance defines chapter order
+- duplicate paths are ignored after first occurrence
 
 Selection files may reference:
 
-* canonical files under `IER/`
-* non-canonical files under `pub/`
+- canonical files under `IER/`
+- non-canonical files under `pub/`
+
+---
 
 ### Path Normalization (Authoritative)
 
-Each extracted token is normalized as follows:
+Extracted tokens are normalized as follows:
 
-* tokens must end in `.md`
-* bare canonical filenames beginning with `IER-` are mapped to `IER/IER-*.md`
-* relative paths are preserved verbatim
+- tokens must end in `.md`
+- bare canonical filenames beginning with `IER-` are mapped to `IER/IER-*.md`
+- relative paths are preserved verbatim
 
 Examples:
 
-* `` `IER-theory.md` `` → `IER/IER-theory.md`
-* `` `IER/IER-theory.md` `` → `IER/IER-theory.md`
-* `` `pub/IER-paper.md` `` → `pub/IER-paper.md`
+- `` `IER-theory.md` `` → `IER/IER-theory.md`
+- `` `IER/IER-theory.md` `` → `IER/IER-theory.md`
+- `` `pub/IER-paper.md` `` → `pub/IER-paper.md`
+
+Unresolvable paths cause build failure.
 
 ---
 
 ## Structural Markers in Selection Files
 
-Selection files may declare **book structure** using Markdown heading levels.
+Selection files may declare book structure using Markdown heading levels.
 
-Only the **heading level** matters. Formatting is cosmetic.
+Only the **heading level** matters; formatting and wording are cosmetic.
 
 ### Header Levels (Authoritative)
 
-* `# ...`   → Book marker (informational only)
-* `## ...`  → **Part marker** (authoritative)
-* `### ...` → **Section marker** (authoritative)
+- `# ...`   → Book marker (informational only)
+- `## ...`  → **Part marker**
+- `### ...` → **Section marker**
 
-No keywords are required. Any valid Markdown heading at the specified level
-is treated as a structural marker.
+No keywords are required.
+
+---
 
 ### Part Indexing Rule (Authoritative)
 
-Parts are indexed mechanically while scanning top-to-bottom:
+Parts are indexed mechanically during scanning:
 
-* content before the first `##` belongs to **Part 0**
-* the first `##` starts **Part 1**
-* each subsequent `##` increments the Part index by 1
+- content before the first `##` belongs to **Part 0**
+- the first `##` begins **Part 1**
+- each subsequent `##` increments the Part index
 
 Parts are ordered strictly by appearance.
+
+---
 
 ### Section Rule (Authoritative)
 
 Within a Part:
 
-* each `###` increments the Section index
-* a Section divider is generated and **inserted immediately before**
-  the next chapter path encountered
-* multiple `###` markers in a row produce multiple Section dividers
-* a `###` before any `##` belongs to **Part 0**
+- each `###` increments the Section index
+- a Section divider is generated and inserted **immediately before**
+  the next chapter encountered
+- multiple `###` markers in sequence produce multiple dividers
+- a `###` before any `##` belongs to **Part 0**
 
 ---
 
 ## Generated Structural Pages
 
-The build system generates **purely structural Markdown files** under `build/`.
+The build system may generate **purely structural Markdown files** under `build/`.
 
 These files:
 
-* contain **no theory**
-* exist only to enforce deterministic pagination and structure
-* may contain raw LaTeX pagebreak commands
-* are consumed by Pandoc like any other input file
+- contain **no theory**
+- exist only to enforce deterministic structure and pagination
+- may include raw LaTeX page-break directives
+- are consumed by Pandoc like any other input file
+
+---
 
 ### 1. Part Divider Pages
 
-**Purpose:**  
-Ensure deterministic Part boundaries and recto starts when no authored
-Part-header scaffold exists.
+**Purpose**  
+Ensure deterministic Part boundaries when no authored Part scaffold exists.
 
-**Naming (Authoritative):**
+**Naming (Authoritative)**
 
 ```
 
@@ -159,27 +187,24 @@ build/_part_pPP.md
 
 Where `PP` is the two-digit Part index.
 
-**Contents (Authoritative):**
+**Contents (Authoritative)**
 
-* begins with `\cleardoublepage`
-* contains a single H1 with the Part title taken from the `## ...` marker
+- begins with `\cleardoublepage`
+- contains a single H1 with the Part title taken from the `##` marker
 
-**Emission Policy (Authoritative):**
+**Emission Policy (Authoritative)**
 
-* generated for Parts `p >= 1`
-* **emitted only if** there are **no** SCAFFOLD files for that Part
-  in slots `p0–p5`
-
-This prevents conflict with authored Part-header scaffolds.
+- generated for Parts `p ≥ 1`
+- emitted **only if** no SCAFFOLD files exist for that Part in slots `p0–p5`
 
 ---
 
 ### 2. Section Divider Pages
 
-**Purpose:**  
+**Purpose**  
 Provide explicit, paginated Section boundaries.
 
-**Naming (Authoritative):**
+**Naming (Authoritative)**
 
 ```
 
@@ -187,26 +212,21 @@ build/_section_pPP_sSS.md
 
 ```
 
-Where:
+**Contents (Authoritative)**
 
-* `PP` = two-digit Part index
-* `SS` = two-digit Section index within that Part
+- begins with `\clearpage`
+- contains a single H2 with the Section title from the `###` marker
 
-**Contents (Authoritative):**
-
-* begins with `\clearpage`
-* contains a single H2 with the Section title taken from the `### ...` marker
-
-Section dividers **do not enforce recto**.
+Section dividers do **not** enforce recto alignment.
 
 ---
 
 ### 3. Chapter Break Pages
 
-**Purpose:**  
-Ensure each chapter begins on a new page and flush floats deterministically.
+**Purpose**  
+Ensure each chapter starts on a new page and flushes floats deterministically.
 
-**Naming (Authoritative):**
+**Naming (Authoritative)**
 
 ```
 
@@ -214,39 +234,37 @@ build/_break_ch_NNNN.md
 
 ```
 
-Where `NNNN` is a zero-padded chapter counter in order of emission.
+**Contents (Authoritative)**
 
-**Contents (Authoritative):**
+- begins with `\clearpage`
 
-* begins with `\clearpage`
-
-A Chapter break page is inserted **immediately before every chapter path**.
+A Chapter Break is inserted **immediately before every chapter path**.
 
 ---
 
 ## SCAFFOLD Directories
 
-A **SCAFFOLD directory** contains publication-only Markdown files:
+A **SCAFFOLD directory** contains publication-only Markdown files such as:
 
-* front matter
-* authored Part headers
-* disclaimers
-* appendices
-* closers
+- front matter
+- authored Part headers
+- disclaimers
+- appendices
+- closers
 
 SCAFFOLD files:
 
-* are non-canonical
-* contain no theoretical content
-* exist only to frame a specific book
+- are non-canonical
+- contain no theoretical claims
+- exist only to frame a specific book
 
-SCAFFOLD files are ordered **lexicographically by filename**.
+Files are ordered **lexicographically by filename**.
 
 ---
 
-## SCAFFOLD Numbering and Placement Rule (Authoritative)
+### SCAFFOLD Naming and Placement (Authoritative)
 
-Each SCAFFOLD filename **must** begin with a two-digit numeric prefix:
+Each filename **must** begin with a two-digit numeric prefix:
 
 ```
 
@@ -254,7 +272,7 @@ NN-description.md
 
 ```
 
-### Part Assignment (Authoritative)
+Where:
 
 ```
 
@@ -263,28 +281,19 @@ slot       = NN % 10
 
 ```
 
-Examples:
-
-* `00-*.md` → Part 0
-* `10-*.md` → Part 1
-* `21-*.md` → Part 2, slot 1
-
-Part names in headings are cosmetic.
-Only numeric position matters.
+---
 
 ### Fixed Insertion Rule per Part (Authoritative)
 
 For each Part `p`, the emitted order is:
 
-| Slot range | Emitted order                                               |
-|-----------:|--------------------------------------------------------------|
-| `p0–p5`    | SCAFFOLD files **before** content                            |
-| —          | content stream (dividers + chapter breaks + chapters)        |
-| `p6–p9`    | SCAFFOLD files **after** content                             |
+| Slot range | Emission point                  |
+|----------:|---------------------------------|
+| `p0–p5`   | Before Part content             |
+| —         | Generated structure + chapters  |
+| `p6–p9`   | After Part content              |
 
-Interleaving SCAFFOLD files between individual chapters is not supported.
-
-Only **generated structural pages** may appear mid-Part.
+Interleaving SCAFFOLD files between individual chapters is **not supported**.
 
 ---
 
@@ -300,32 +309,53 @@ scripts/extract_book_list.py
 
 The script:
 
-1. reads and validates the SCAFFOLD directory
+1. validates the SCAFFOLD directory
 2. scans the selection file linearly
-3. tracks Part (`##`) and Section (`###`) markers
-4. extracts chapter paths from backticked `.md` tokens
-5. generates:
-   * Part divider pages (conditionally)
-   * Section divider pages
-   * Chapter break pages
-6. applies the fixed SCAFFOLD insertion rules per Part
-7. de-duplicates paths while preserving first occurrence
-8. writes:
-   * a Pandoc input list (e.g. `build/corpus-input.txt`)
-   * a numbered diagnostic file alongside it
+3. tracks Part and Section markers
+4. extracts chapter paths
+5. generates structural pages
+6. applies fixed SCAFFOLD insertion rules
+7. de-duplicates paths
+8. emits:
+   - a Pandoc input list (`build/*-input.txt`)
+   - a numbered diagnostic file
 
 Pandoc consumes the emitted list **verbatim**.
 
 ---
 
+## Verification
+
+Verification is **authoritative**.
+
+The verifier:
+
+```
+
+scripts/verify_book.py
+
+```
+
+- recomputes the expected emitted list
+- requires **exact equality** with the produced list
+- enforces all structural invariants
+- enforces scoped authoring rules
+
+A build that does not verify is considered **invalid**, even if Pandoc succeeds.
+
+---
+
 ## Failure Conditions
 
-The build fails if:
+The build or verification fails if:
 
-* the selection file references a non-existent `.md` file
-* a SCAFFOLD filename does not match `NN-*.md`
-* the emitted input list is empty
-* any referenced file cannot be resolved relative to the repository root
+- a referenced `.md` file does not exist
+- a SCAFFOLD filename violates naming rules
+- the emitted input list is empty
+- ordering invariants are violated
+- authoring rules are violated in canonical content
+
+Failures are **hard errors**, not warnings.
 
 ---
 
@@ -333,11 +363,11 @@ The build fails if:
 
 The IER build system is:
 
-* deterministic
-* explicit
-* non-inferential
-* content-preserving
-* canon-safe
+- deterministic
+- explicit
+- non-inferential
+- content-preserving
+- canon-safe
 
 It exists to **assemble**, not to interpret.
 
