@@ -1,4 +1,4 @@
-# Informational Experiential Realism (IER v10.8.2)
+# Informational Experiential Realism (IER v10.8.3)
 
 **A physicalist identity framework for experience, agency, and moral standing**
 
@@ -72,7 +72,7 @@ Everything in Level-3 is optional, modular, and interest-driven.
 
 ---
 
-# Reading Paths (v10.8.2)
+# Reading Paths (v10.8.3)
 
 The paths below are **tiered by intent**, not importance.  
 Files may appear in more than one path where that improves orientation.
@@ -100,10 +100,11 @@ You may stop here with a complete high-level understanding.
 * [`IER-specification.md`](IER-specification.md) — Normative core and identity conditions  
 * [`IER-theory.md`](IER-theory.md) — Explanatory justification of the identity claim  
 * [`IER-dynamics.md`](IER-dynamics.md) — How experiential regimes behave over time  
+* [`IER-math.md`](IER-math.md) — Formal structural support using sets, relations, and regimes
 * [`IER-slack.md`](IER-slack.md) — Why informational slack structurally precludes experience  
+* [`IER-saturation.md`](IER-saturation.md) — How slack disappears via exhaustion of local degrees of freedom
 * [`IER-ethics.md`](IER-ethics.md) — Ethical consequences forced by experiential identity  
 * [`IER-diagnostics.md`](IER-diagnostics.md) — Why experiential diagnostics are impossible in principle  
-* [`IER-math.md`](IER-math.md) — Formal structural support using sets, relations, and regimes (optional)
 
 Nothing outside this path adds commitments.
 
@@ -116,6 +117,7 @@ Nothing outside this path adds commitments.
 * [`IER-specification.md`](IER-specification.md) — Experiential identity and categorical standing  
 * [`IER-theory.md`](IER-theory.md) — Structural necessity of intrinsic constraint  
 * [`IER-slack.md`](IER-slack.md) — Exclusion of slack-admitting systems  
+* [`IER-saturation.md`](IER-saturation.md) — Mechanism-level intuition for the slack boundary  
 * [`IER-puzzles.md`](IER-puzzles.md) — Structural dissolution of classic consciousness puzzles  
 * [`IER-contrast.md`](IER-contrast.md) — Incompatibilities with neighboring theories  
 * [`IER-critics.md`](IER-critics.md) — Objections, limits, and accepted costs  
@@ -129,6 +131,7 @@ Nothing outside this path adds commitments.
 * [`IER-specification.md`](IER-specification.md) — Standing and ethical consequences by identity  
 * [`IER-ethics.md`](IER-ethics.md) — Experiential moral harm as organizational damage  
 * [`IER-diagnostics.md`](IER-diagnostics.md) — Structural non-diagnosability and precaution  
+* [`IER-slack.md`](IER-slack.md) — Why slack masks harm and enables false negatives
 * [`IER-morals.md`](IER-morals.md) — Worked moral cases under IER  
 * [`IER-guilt.md`](IER-guilt.md) — Guilt without fault under irreversible loss  
 * [`IER-dilemmas.md`](IER-dilemmas.md) — Why classic moral dilemmas misfire  
@@ -150,11 +153,26 @@ Nothing outside this path adds commitments.
 
 Optional extensions:
 
-* [`IER-aphantasia.md`](IER-aphantasia.md) — Experiential architectures without imagery  
 * [`IER-brainfeels.md`](IER-brainfeels.md) — Endogenous qualitative stabilizers  
 * [`IER-psychosis.md`](IER-psychosis.md) — Pathological regimes without identity loss  
 * [`IER-shadows.md`](IER-shadows.md) — Extreme constraint states and recurring forms  
 * [`IER-spoons.md`](IER-spoons.md) — Intrinsic constraint capacity and exhaustion
+
+---
+
+### Cognition, Memory, and Internal Simulation
+
+**Goal:** Understand thinking, remembering, imagining, and reflecting **without faculties, representations, or meta-level observers**.
+
+* [`IER-participation.md`](IER-participation.md) — Participation modulation across cognition and attention
+* [`IER-memory.md`](IER-memory.md) — Memory as constraint-structured re-entry without re-living
+* [`IER-forgetting.md`](IER-forgetting.md) — Forgetting as dissolution, pruning, or offloading of participation structure
+* [`IER-aphantasia.md`](IER-aphantasia.md) — Coherent experiential architectures without imagery
+* [`IER-phantasia.md`](IER-phantasia.md) — Imagistic cognition as one stable (non-normative) architecture
+* [`IER-architecture.md`](IER-architecture.md) — Constraint architecture of mind under IER
+* [`IER-spicy-combo.md`](IER-spicy-combo.md) — ADHD + anxiety as a coupled participation / constraint instability pattern
+
+This path replaces faculty-based models of cognition with **participation geometry inside a single UEF**.
 
 ---
 
@@ -244,11 +262,12 @@ They are **not prerequisites** for any other path.
 
 ## Version Status
 
-This repository reflects **IER v10.8.2**.
+This repository reflects **IER v10.8.3**.
 
-* **v10.8** — Normative closure  
-* **v10.8.1** — Corpus completion  
-* **v10.8.2** — Publication tooling and reader-facing structure  
+* **v10.8** — Normative closure
+* **v10.8.1** — Corpus completion
+* **v10.8.2** — Reader-facing structure
+* **v10.8.3** — Saturation, cognition, and architectural integration
 
 No ontological, criterial, epistemic, or ethical commitments change after v10.8.
 
