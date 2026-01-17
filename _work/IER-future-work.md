@@ -100,7 +100,7 @@ Each clarification must appear **exactly once** as an **explicit non-inference**
 ### **Memory & History**
 
 * [ ] Memory as structural history (hysteresis, path-dependence, sedimentation)
-* [ ] Explicit rejection of memory as storage, representation, or content
+* [x] Explicit rejection of memory as storage, representation, or content
 * [ ] Amnesia as narrative discontinuity without experiential loss
 * [ ] Memory authority without epistemic privilege
 

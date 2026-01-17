@@ -269,6 +269,36 @@ It is the only way memory can exist without storage.
 
 ---
 
+### **7.3 Structural History: Path Dependence and Sedimentation**
+
+Memory under IER is **structurally historical**.
+
+This historical character does not consist in stored records, preserved contents, or retained representations. It consists in **irreversible changes to constraint organization over time**.
+
+Two features are essential:
+
+**Path dependence.**
+The present organization of intrinsic constraint depends on the *specific sequence* of prior reorganizations the system has undergone, not merely on its current state. Attractor geometries are shaped by history: some reorganizations become possible only because others occurred first, and alternatives that were never traversed may remain inaccessible even if physically admissible in principle. Memory therefore constrains future viability by **how the system arrived here**, not by what it retains.
+
+**Sedimentation.**
+Over time, repeated or consequential reorganizations of constraint accumulate as **layers of structural bias**. Earlier layers may no longer be reproducible as memories, narratives, or explicit recollections, yet they continue to shape what reorganizations remain viable. Sedimentation is not storage and not content persistence. It is the enduring influence of prior constraint reshaping on present and future dynamics.
+
+These features explain why systems may exhibit:
+
+* stable skills without remembered learning
+* affective or behavioral dispositions without narrative origin
+* durable patterns that cannot be recalled, reconstructed, or accessed
+
+Importantly:
+
+* path dependence and sedimentation introduce **no epistemic authority**
+* they do **not** preserve facts, truths, or representations
+* they do **not** imply graded or partial subjecthood
+
+Plasticity operates both **before and after** the onset of a Unified Experiential Field. Pre-UEF plasticity constitutes **non-experiential preparation**: changes in physical organization that shape later viability without instantiating experience. Experiential onset remains **categorical**, and developmental change does not imply gradual acquisition of experience or proto-subjecthood.
+
+---
+
 ## **8. Why Memory Is Necessarily Reconstructive**
 
 Because memory is reproduced, not retrieved:
@@ -384,6 +414,7 @@ Under Informational Experiential Realism:
 * identity does **not** depend on recall
 * reconstruction is structural, not error
 * memory serves coherence, not truth
+* history shapes experience through **path dependence and sedimentation**, not preserved content
 
 > **Memory is not what the system keeps.
 > Memory is what the system can still become.**

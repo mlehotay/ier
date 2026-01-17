@@ -43,134 +43,173 @@ This document specifies **when and how subsets of that work should be released**
 
 ---
 
-## **Versioning Principle**
+# **Updated Release Roadmap (Refactored)**
 
-> **IER version numbers track changes in authoritative commitment, not effort.**
+## **Versioning Principle (Reaffirmed)**
 
-Accordingly:
+> **IER patch versions track changes in articulation, not expansion of authority.**
 
-* **PATCH releases (v10.8.x)** may include:
+All releases below preserve:
 
-  * articulation tightening
-  * consolidation of implied consequences
-  * translation and rubric-facing clarification
-  * misuse- and misreading-containment
-  * navigation and orientation improvements
+* the IER identity claim
+* categorical subjecthood
+* non-diagnosability
+* closed ethical commitments
+* canon authority structure
 
-* **MINOR releases (v10.9)** are permitted **only if**:
-
-  * identity conditions change
-  * necessary or sufficient conditions change
-  * ethical consequences change
-  * epistemic limits change
-  * normative closure is reopened
-
-No currently planned work meets the criteria for **v10.9**.
+No listed release reopens normative closure.
 
 ---
 
-# **Release Ladder**
-
-## **v10.8.3 — Part II Diachronic Completion**
+## **v10.8.3 — Saturation & Defensive Hardening**
 
 **Intent:**
 
-> *Time-extended experiential organization made explicit.*
+> *Make IER maximally resistant to misreading, misuse, and mis-evaluation.*
 
-This release draws **only** from items already enumerated in `IER-future-work.md`, specifically those that:
+This release prioritizes **articulation completeness**, **misuse containment**, and **rubric defense**.
 
-* close diachronic explanatory gaps
-* prevent representational or graded-onset imports
-* complete consequences already implied by IER v10.8
-
-### Scope discipline
-
-* Up to **four (4)** new **Tier-2** documents total
-* No new domains
-* No rubric packaging
-* No evaluation-facing material
-
-### Expected content families
-
-* Memory as structural history (not storage or representation)
-* Development and maturation as pre-UEF preparation
-* Skill, habit, expertise, and automaticity as attractor narrowing
-* Mood and temperament as long-horizon constraint bias
-
-### Absorption rule (mandatory)
-
-To prevent document sprawl, the following **must be absorbed** into existing documents as sections or appendices rather than standalone files:
-
-* Dreams → `IER-sleep.md`
-* Specious present / flow → `IER-continuity.md`
-* Amnesia → memory document
-* Attention → skill / agency document
-
-### Explicit exclusions
-
-* Rubric matrices
-* Falsifiability discussions
-* NCC or neuroscience reframing
-* AI evaluation or certification expansion
-
-**Stopping condition:**
-Readers can no longer plausibly import representational memory, proto-experience, or graded onset **without adding new theory**.
+It is a **lockdown release**, not a growth release.
 
 ---
 
-## **v10.8.4 — Rubric & Evaluation Hardening**
+### **Includes**
 
-**Intent:**
+#### **A. Mandatory Articulation Tightening**
 
-> *IER can be evaluated correctly without distortion.*
+(Explicit non-inferences; appear exactly once)
 
-This release is **evaluation-facing**, not phenomenology-facing.
+* Anti-isomorphism clarification
+* No nested subjects / no mini-fields
+* Temporal continuity ≠ timescale threshold
+* Autopoiesis / operational closure denial
+* Multiple realizability ≠ implementation independence
+* Global metaphor audit (representation, sufficiency, epistemic creep)
 
-### Scope
+#### **B. Misuse & Misreading Containment**
 
-Material that prevents **mis-evaluation**, **mis-ranking**, or **misclassification** of IER by external rubrics.
+* Diagnostic / proxy language sweep across Tier-2
+* Informational-language disclaimer verification
+* Phenomenology-adjacent graded-subjecthood audit
+* Global reinforcement: *experiential structure ≠ epistemic authority*
 
-### Includes
+#### **C. Rubric & Evaluation Hardening (Moved Forward)**
 
-* Explanandum matrices (what IER explains vs excludes)
+Evaluation-facing, **non-diagnostic** clarifications, including:
+
+* Explicit explanandum matrix (what IER explains vs excludes)
 * Identity conditions vs diagnostics clarification
+* “Identity ≠ detection rule” statement
 * Falsifiability without tests articulation
-* Theory contrast matrices
-* AI slack-based exclusion clarifications (non-certifying)
+* Structural underdetermination explanation
+* Theory contrast matrices (descriptive only)
+* Expanded “no certification” language for AI and engineering contexts
 
-### Tier discipline
+All rubric-facing material is **translation-only** and introduces no new claims.
 
-* Misuse-blocking → **Tier-3**
-* Orientation / translation → **Tier-4**
+These materials **do not define evaluation criteria**, **do not supply tests**, and **do not license third-person assessment**; they exist solely to prevent category errors in external evaluation.
 
-### Excludes
+#### **D. Navigation & Orientation Cleanup**
 
-* New experiential phenomena
-* Part II expansions
-* Engineering, detection, or implementation guidance
+* Glossary and index expansion
+* Canonical cross-linking
+* README reading-path audit
+* Minimal “where to go next” pointers by audience
+
+#### **E. History & Lineage Guardrails**
+
+* Explicit non-influence / non-refutation guardrail in `IER-history.md`
+* Reaffirmation of Specification exclusivity
 
 ---
 
-## **v10.8.5 — Reader Navigation & Polish (Optional)**
+### **Explicit Exclusions**
+
+* No new Part II domains
+* No diachronic expansion beyond existing memory/forgetting documents
+* No development, skill, mood, or attention treatments
+* No neuroscience reframing
+* No AI certification or detection proposals
+
+---
+
+### **Status of Memory & Forgetting**
+
+`IER-memory.md` and `IER-forgetting.md` remain in the corpus.
+
+They are treated in this release as:
+
+> **Stable but not yet fully integrated diachronic anchors.**
+
+Their broader theoretical integration is deferred.
+
+---
+
+## **v10.8.4 — Diachronic Organization (Focused Completion)**
 
 **Intent:**
 
-> *Lower friction, zero new substance.*
+> *Complete IER’s account of time-extended experiential organization.*
 
-This release is optional and non-blocking.
+This release treats diachrony **properly and deliberately**, without rushing.
 
-### Includes
+> This release introduces **no new primitives, mechanisms, criteria, or explanatory levels**. All material consists of **structural consequences and organizational clarifications** already implied by the IER identity claim.
 
-* Cross-linking improvements
-* Reading-path cleanup
+---
+
+### **Core Topics**
+
+* Memory as structural history (integration pass)
+* Forgetting as pruning / dissolution (integration pass)
+* Development and maturation as pre-UEF preparation
+* Skill, habit, automaticity, and flow as attractor narrowing
+* Long-horizon affect: mood and temperament
+* Attention as constraint allocation (integrative, optional)
+
+All material:
+
+* presupposes categorical onset
+* introduces no proto-experience
+* rejects representational storage
+* avoids sub-agents and scripts
+* preserves non-diagnosability
+
+---
+
+### **Explicit Exclusions**
+
+* Rubric packaging
+* Evaluation-facing matrices
+* AI boundary expansion
+* Engineering or implementation guidance
+
+---
+
+## **v10.8.5 — Navigation, Formatting, and Polish (Optional)**
+
+**Intent:**
+
+> *Reduce reader friction without changing substance.*
+
+> No changes in this release alter meaning, commitments, or interpretive constraints.
+
+---
+
+### **Includes**
+
 * Glossary and index polish
+* Cross-link refinement
+* Reading-path cleanup
+* Formatting, LaTeX, and glyph hygiene
 * Tone and clarity edits
 
-### Excludes
+---
+
+### **Excludes**
 
 * New documents
 * New sections
-* Structural or authority changes
+* Any authority-affecting change
 
 ---
 
@@ -194,14 +233,7 @@ No currently planned work meets these criteria.
 
 > **If a proposed addition does not prevent a concrete misreading or close a structural gap, it must not be released.**
 
-The following are **insufficient justifications** for new work:
-
-* “It would help some readers”
-* “Someone might ask”
-* “This completes the picture”
-* “This would be nice to have”
-
-All future releases must be defensible **solely** in terms of misreading prevention and structural inevitability.
+IER advances by **constraint**, not accumulation.
 
 ---
 

@@ -1,4 +1,4 @@
-# **IER Deployment and Release Policy (v10.8.2)**
+# **IER Deployment and Release Policy (v10.8.3)**
 
 ## **Status and Scope**
 
@@ -32,21 +32,14 @@ It is orthogonal to **`IER-publishing.md`**, which governs rendering and product
 
 ### **1.1 Anchor Before Interface Artifacts**
 
-Exhaustive or reference-grade artifacts must be publicly released **before any interface-layer artifacts**.
-
-Interface-layer artifacts include (but are not limited to):
-
-* gateway books
-* summaries
-* explanatory companions
-* preprint papers
+Exhaustive or reference-grade artifacts must be publicly released **before any interface-layer artifacts that reinterpret or explain the theory**.
 
 This principle prevents:
 
 * authority inversion
 * retroactive reframing
-* misclassification of stable work as “draft”
 * interface artifacts becoming de facto anchors
+* ambiguity about what constitutes the reference work
 
 ---
 
@@ -99,33 +92,79 @@ There is **exactly one anchor artifact** per IER version.
   * public timestamp
   * stable pagination
   * citation reference
-* Serves as the **deployment anchor**
 
-No other artifact may precede or substitute for this role.
+The corpus book is the **sole deployment anchor**.
+
+No other artifact may precede, substitute for, or compete with this role.
 
 ---
 
 ### **2.2 Interface Artifacts**
 
-Interface artifacts are **downstream, non-authoritative** presentations of the corpus.
+Interface artifacts are **downstream, non-authoritative** artifacts derived from the IER corpus.
 
 They exist to:
 
-* support reader onboarding
-* provide navigation and motivation
-* aid translators and secondary explainers
+* support access, onboarding, and orientation
+* expose or explain canonical material
+* reduce barriers to engagement
 
 They do **not**:
 
 * introduce new commitments
-* redefine canonical claims
+* modify or restate canonical claims
 * establish priority
 * substitute for the anchor artifact
 
-Current interface artifacts include:
+Interface artifacts fall into two sub-classes.
+
+---
+
+#### **2.2.1 Verbatim Interface Artifacts (Scope-Limited)**
+
+These artifacts consist of **verbatim canonical text**, mechanically assembled
+into a **partial compilation**.
+
+They:
+
+* include only a strict subset of the corpus
+* introduce no new prose except framing and disclaimers
+* preserve canonical ordering within their scope
+* introduce no interpretation, pedagogy, or exemplars
+
+A verbatim interface artifact:
+
+* is **non-authoritative**
+* does **not** replace the corpus book
+* does **not** establish citation priority
+* exists solely to improve access to foundational material
+
+Example:
+
+* **IER Foundations Compilation**
+
+---
+
+#### **2.2.2 Expository Interface Artifacts**
+
+These artifacts **reinterpret or explain** canonical material for readers.
+
+They may:
+
+* paraphrase
+* motivate
+* illustrate
+* condense
+* reorganize for reader flow
+
+They must explicitly defer to the corpus book.
+
+Planned or potential examples include:
 
 * **IER TLDR Book**
-* **IER Paper (Preprint)**
+* **IER Paper / Preprint**
+
+Readiness or existence of these artifacts is **not assumed** by this document.
 
 ---
 
@@ -133,9 +172,9 @@ Current interface artifacts include:
 
 ### **Step 1 — Corpus Book Release (Anchor)**
 
-The first public release is:
+The first authoritative public release for any IER version is:
 
-> **IER Corpus Book, Edition 0.1**
+> **IER Corpus Book, Edition X.Y**
 
 This release:
 
@@ -144,62 +183,40 @@ This release:
 * establishes the public reference artifact
 * anchors pagination and citation
 
-The corpus book:
-
-* may be sold or distributed freely
-* may exist in multiple physical or digital editions
-* remains the sole deployment anchor regardless of format
-
-This step **must occur before any interface artifact is released**.
+This step establishes deployment completeness for that version.
 
 ---
 
-### **Step 2 — TLDR Book Release (Gateway Interface)**
+### **Step 2 — Interface Artifact Releases (Optional, Downstream)**
 
-After the corpus book is publicly available, the following may be released:
+After the corpus book is publicly available, interface artifacts may be released.
 
-> **IER TLDR Book, Edition 0.1**
+These may include:
 
-The TLDR book:
+* verbatim interface artifacts
+* expository interface artifacts
+* preprints or explanatory companions
 
-* is a gateway / interface artifact
-* is explicitly **non-authoritative**
-* is explanatory and reader-facing
-* is intended for:
+Each must:
 
-  * gateway readers
-  * translators
-  * serious non-anchor audiences
-
-Framing requirements:
-
-* must explicitly defer to the corpus book
-* must identify the specific corpus book edition it explains
-* must not present itself as a substitute or summary sufficient for citation
-
-The TLDR book has **no priority over the paper** and no authority over any other artifact.
+* explicitly defer to the corpus book
+* identify the corpus book edition it reflects
+* state its non-authoritative status
 
 ---
 
-### **Step 3 — Paper Release (Condensed Interface)**
+### **Exception: Early Verbatim Interface Release**
 
-After the corpus book is publicly available, a paper may be released on:
+A verbatim interface artifact consisting exclusively of canonical text
+may be released **prior to completion of the full corpus book**, provided that:
 
-* Open Science Framework
-* PhilSci Archive
-* comparable preprint repositories
+* it is explicitly labeled as **partial**
+* it establishes no citation anchor
+* it introduces no interpretation or explanatory material
+* it defers explicitly to a future corpus book edition
 
-The paper must be framed as:
-
-* a condensed exposition
-* a non-authoritative interface
-* a downstream presentation
-
-The paper:
-
-* may be released before or after the TLDR book
-* must reference the corpus book as the primary artifact
-* must specify which corpus book edition it reflects
+This exception exists solely to improve access to foundational material and
+does **not** alter anchor primacy.
 
 ---
 
@@ -222,21 +239,25 @@ All interface artifacts **must** include clear language equivalent to:
 > *This artifact is a non-authoritative interface to Informational Experiential Realism.
 > The complete technical monograph is the IER Corpus Book, Edition X.Y.*
 
-This requirement applies to:
+---
 
-* TLDR book
-* paper
-* future summaries or companions
+### **4.3 Additional Requirement for Verbatim Interface Artifacts**
+
+Verbatim interface artifacts must additionally state:
+
+> *This artifact contains selected canonical chapters for access purposes.
+> The complete authoritative reference is the IER Corpus Book, which
+> supersedes this compilation in full.*
 
 ---
 
-### **4.3 Interface Artifact ↔ Interface Artifact**
+### **4.4 Interface Artifact ↔ Interface Artifact**
 
 Interface artifacts:
 
 * are siblings, not parents or children
 * do not claim priority over one another
-* may cross-reference, but must not imply dependency
+* may cross-reference without implying dependency
 
 All authority flows through the corpus book.
 
@@ -246,11 +267,12 @@ All authority flows through the corpus book.
 
 * The corpus book may be sold or freely distributed.
 * Interface artifacts may be sold or freely distributed.
-* Preprint papers must be freely accessible.
+* Preprint papers, if released, must be freely accessible.
 
-No artifact may imply that purchase is required to understand the core theoretical claims.
+No artifact may imply that purchase is required to understand the core
+theoretical claims.
 
-Pricing and distribution are **deployment choices**, not authority signals.
+Pricing and distribution are deployment choices, not authority signals.
 
 ---
 
@@ -261,10 +283,8 @@ Each deployment cycle maps:
 * **one IER version** → **one anchor corpus book**
 * **zero or more interface artifacts**
 
-Edition numbering reflects:
-
-* physical or digital rendering
-* not theoretical maturity
+Edition numbering reflects physical or digital rendering,
+not theoretical maturity.
 
 A new IER version resets the deployment cycle.
 
@@ -278,7 +298,7 @@ Deployment order does **not** modify:
 * corpus membership or ordering (`IER-manifest.md`)
 * rendering rules (`IER-publishing.md`)
 * legal context (`IER-legal.md`)
-* build mechanics or validation rules
+* build mechanics or validation rules (`IER-build.md`)
 
 Conflicts always resolve upstream in favor of the canon.
 
@@ -286,11 +306,7 @@ Conflicts always resolve upstream in favor of the canon.
 
 ## **Final Statement**
 
-> Deployment governs **how the work enters public space**, not **what the work claims**.
-> Authority flows from **canon → corpus book → interface artifacts** — never in reverse.
+> Deployment governs **how the work enters public space**,
+> not **what the work claims**.
 
----
-
-*End of `IER-deployment.md`*
-
----
+Authority flows from **canon → corpus book → interface artifacts** — never in reverse.
