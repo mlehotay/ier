@@ -1,240 +1,124 @@
-# **IER Publishing (v10.8.2)**
+# IER Corpus Book
 
-## **Publication Strategy, Format Discipline, and Execution Rules**
-
----
-
-## **Status and Purpose**
-
-This document defines the **publication and production rules** governing dissemination of the
-**Informational Experiential Realism (IER)** corpus.
-
-It introduces **no ontological, criterial, epistemic, or ethical claims**.
-
-It governs **how the book is rendered, packaged, and maintained**, not what the theory asserts.
-
-Public release sequencing is governed by `IER-deployment.md`.
+**Artifact Specification (Anchor Publication)**
 
 ---
 
-## **Dependency Order (Authoritative)**
+## 1. Artifact Identity
 
-This document is strictly subordinate to:
+**Title:** *Informational Experiential Realism (IER) — Corpus Book*
+**Artifact class:** Anchor publication
+**Epistemic role:** Reference-grade rendering of the IER corpus
+**Authority:** Non-canonical rendering artifact; authoritative structure and content derive from upstream canonical sources
 
-1. **`IER-canon.md`** — authority and governance
-2. **`IER-manifest.md`** — corpus membership and ordering
+The IER Corpus Book is the **primary anchor publication** for each released version of IER. It defines the stable, citeable reference surface for the theory as a whole.
 
-This document **must not**:
-
-* define corpus membership
-* define theoretical authority
-* introduce or reorder content
-* override manifest-defined ordering
-
-If any conflict appears, **the canon and manifest take precedence**.
+All other IER publications (including TLDR books, foundations compilations, and preprints) are **interface artifacts** and defer to the Corpus Book for pagination, ordering, and reference.
 
 ---
 
-## **Book Identity**
+## 2. Physical Format
 
-IER is published as:
+### 2.1 Trim Size
 
-> **A single-volume technical monograph**
+* **Trim size:** **8.5 × 11 inches (US Letter)**
 
-The book consists of **three Parts**, as defined by **manifest ordering and structural sentinels**:
+This trim size is fixed and mandatory for all editions of the Corpus Book.
 
-* **Part I — The IER Theory Proper**
-* **Part II — Applications, Elaborations, and Boundaries**
-* **Part III — Orientation, Context, and Navigation**
+### 2.2 Column Model
 
-No other structural divisions are permitted.
+* **Default page layout:** **Two columns**
 
----
+The two-column layout is the normative presentation mode throughout the body of the book.
 
-## **Authority and Dependency Discipline**
+Single-column pages are permitted **only** where required by content constraints, including:
 
-### **Normative Authority**
-
-Exactly one document is normatively authoritative:
-
-> **`IER-specification.md`**
-
-All book chapters—including ethics, applications, and orientation—are **non-authoritative**.
-
-### **Part Dependencies**
-
-* **Part I** is foundational and normatively sufficient.
-* **Part II** presupposes Part I in full and introduces no new foundations.
-* **Part III** is reader-facing orientation only and carries no authority.
-
-Layout, headings, and navigational signals must reinforce these dependencies.
+* title and major part-opening pages
+* wide tables
+* long display equations or formal structures
+* full-width figures or diagrams (if any)
 
 ---
 
-## **Primary Print Format (Normative Target)**
+## 3. Design Intent
 
-### **Trim Size**
+The Corpus Book is designed as a **high-density technical reference**, not as a teaching or onboarding text.
 
-* Preferred: **7 × 9 in**
-* Acceptable alternates:
+### 3.1 Reading Contract
 
-  * 6.875 × 9.25
-  * 7.5 × 9.25
+* Assumes a technically literate, motivated reader
+* Optimized for lookup, selective reading, and cross-reference
+* Not optimized for linear, cover-to-cover reading
 
-### **Paper**
+### 3.2 Tone and Density
 
-* **White paper only**
+* **Tone:** Formal, technical, declarative
+* **Information density:** High
+* **Visual pacing:** Compact and economical
+* **Headings:** Structural and functional, not pedagogical
 
-### **Typography**
-
-* Serif body font
-* High word density
-* Tight leading
-* Minimal paragraph spacing
-* Functional headings only
-
-Typography must not signal:
-
-* pedagogy
-* narrative pacing
-* motivational framing
+The overall design intent is closer to a **technical handbook** than to a narrative monograph.
 
 ---
 
-## **Mathematical and Formal Expression Discipline**
+## 4. Typographic and Layout Constraints
 
-* Display equations when non-trivial
-* Number equations only when cross-referenced
-* No decorative math styling
+Exact typographic parameters are implementation-dependent, but the following constraints define the intended character of the artifact:
 
-Formal elements must signal **necessity**, not instruction.
+* **Body text:** Highly legible technical typography
+* **Line spacing:** Tight but readable
+* **Paragraph spacing:** Minimal; avoid reader-oriented looseness
+* **Tables:** First-class elements; may span columns or pages
+* **Footnotes:** Permitted where appropriate
+* **Figures and diagrams:** Strongly discouraged; include only when strictly necessary
 
----
-
-## **Tables**
-
-* Tables are first-class information carriers
-* Reduced font size permitted
-* Minimal ruling
-* Page breaks allowed with continuity labels
+The visual language should prioritize precision, density, and navigability over approachability.
 
 ---
 
-## **Diagrams**
+## 5. Structural Requirements
 
-* Maximum: **two diagrams total**
-* Black-and-white only
-* Vector-based
-* Captioned, not narrated
+The Corpus Book must preserve:
 
----
+1. **Stable ordering** of material for a given release
+2. **Consistent part and section boundaries**
+3. **Stable pagination** within a release version
 
-## **Page Density Targets**
-
-* Target: **350–450 words per page**
-* Variance allowed for tables, equations, diagrams
+These properties are essential to its role as the anchor reference artifact.
 
 ---
 
-## **Digital Formats**
+## 6. Explicit Non-Goals
 
-### **PDF (Canonical Digital Edition)**
+The Corpus Book must **not**:
 
-* Matches print pagination exactly
-* Used for citation and archival reference
-* Single continuous pagination across all Parts
+* Provide pedagogical explanations or tutorials
+* Include summaries or “why this matters” commentary
+* Offer alternative reading paths or guided tours
+* Attempt to simplify or reinterpret the theory for accessibility
 
-### **EPUB / HTML (Secondary)**
-
-* Must preserve:
-
-  * manifest-defined ordering
-  * Part boundaries
-  * non-authoritative status of Part III
-* Must not introduce:
-
-  * reordering
-  * summaries
-  * adaptive reading paths
+Such functions are explicitly delegated to non-anchor interface publications.
 
 ---
 
-## **Versioning and Edition Mapping**
+## 7. Relationship to Other IER Publications
 
-* **Version** = theoretical authority (e.g., v10.8.2)
-* **Edition** = physical or digital rendering
+* The **TLDR Book** is a reader-oriented, expository interface artifact and is non-authoritative.
+* The **Foundations Compilation** is a verbatim interface artifact containing a defined subset of the corpus.
+* Preprints and derivative works defer to the Corpus Book for reference and citation.
 
-All editions map to **exactly one version**.
-
----
-
-## **Patch Discipline**
-
-Permitted:
-
-* typographical corrections
-* layout fixes
-* index and glossary improvements
-
-Not permitted:
-
-* new chapters
-* reordered content
-* restated foundations
-* authority changes
+Only the Corpus Book serves as the authoritative pagination and reference surface for a released IER version.
 
 ---
 
-## **ISBN, Attribution, and Disclosure**
+## 8. Stability and Change Control
 
-* One ISBN per physical format
-* Single authorial attribution
-* AI assistance disclosure optional and non-authorial
+Any change to:
 
----
+* trim size,
+* column policy,
+* or the epistemic role of the Corpus Book
 
-## **Reader Orientation Obligations**
-
-Published editions must include:
-
-* clear Part labeling
-* explicit authority disclaimers
-* a visible transition into Part III
-
-Orientation must not imply interpretive authority.
-
----
-
-## **Execution Checklist**
-
-### **Pre-Publication**
-
-* [ ] Manifest v10.8.2 validated
-* [ ] Chapter set matches Manifest Parts I–III exactly
-* [ ] Book includes Preface (IER-paper)
-* [ ] No governance or legal documents included
-* [ ] Layout proof reviewed
-
-### **Publication**
-
-* [ ] Print files uploaded
-* [ ] Proof approved
-* [ ] Digital editions archived
-
-### **Post-Publication**
-
-* [ ] Errata log opened
-* [ ] Patch policy enforced
-
----
-
-## **Summary**
-
-`IER-publishing.md` defines **how the book is rendered**, not **what the book is**.
-
-Corpus membership and ordering are defined **only** in `IER-manifest.md`.
-Authority is fixed **only** in `IER-canon.md`.
-
-This document exists to prevent drift—not to introduce judgment.
+requires a corresponding update to the IER publishing governance documents and a versioned revision of this specification.
 
 ---

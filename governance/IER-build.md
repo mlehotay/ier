@@ -58,6 +58,12 @@ The build system:
 
 All structure must be **explicitly declared**.
 
+**Layout Neutrality**
+
+The IER build system is layout-agnostic. Page geometry (e.g., trim size), column structure (single- or multi-column), and typographic presentation are controlled exclusively by artifact-specific publication-layer configuration (e.g., Pandoc options, TeX header includes), as defined in `IER-publishing.md`.
+
+The responsibility of the build process is limited to deterministic assembly, canonical ordering, and structural emission of content; it does not encode or assume any particular page layout or column model.
+
 ---
 
 ## Build Inputs (Per Book)

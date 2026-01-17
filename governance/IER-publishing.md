@@ -33,70 +33,154 @@ This document governs **rendering choices only**.
 
 ---
 
-## Artifact Classes and Intent
+## Core Principle
 
-IER distinguishes publication artifacts by **epistemic role**, not by aesthetics.
+> Rendering governs **how the work is physically encountered**,  
+> not **what the work claims**.
 
-Each artifact class has a **distinct physical intent** that rendering decisions
-must reinforce.
+Layout, typography, and geometry may reinforce epistemic role,
+but they **never confer authority**.
+
+---
+
+## Artifact Classes and Rendering Intent
+
+IER distinguishes publication artifacts by **epistemic role**.
+Rendering rules exist to make those roles *visibly legible*.
+
+---
 
 ### 1. Anchor Artifact — IER Corpus Book
 
 The **IER Corpus Book** is the **sole deployment anchor**.
 
-Its physical form must support:
+Rendering must support:
 
 * dense technical reference
 * non-linear consultation
 * stable pagination and citation
 * long-term archival use
 
-It is **not** optimized for cover-to-cover reading.
+Rendering characteristics:
+
+* high information density
+* minimal reader affordances
+* reference-oriented typography
+* constraint-first presentation
+
+This artifact is **not optimized for cover-to-cover reading**.
 
 ---
 
-### 2. Interface Artifacts
+### 2. Verbatim Interface Artifact — IER Foundations Compilation
 
-Interface artifacts are **explicitly non-authoritative** and downstream of the
-corpus book.
+The **IER Foundations Compilation** is a **verbatim interface artifact**
+consisting exclusively of a strict subset of canonical material.
 
-They include:
+Rendering intent:
 
-* **IER TLDR Book**
-* **IER Paper / Preprint**
+* technical monograph
+* reference-grade density
+* linear readability without pedagogy
 
-Their physical form may prioritize readability and linear flow, but **must not
-signal authority or completeness**.
+Constraints:
+
+* canonical text must appear **verbatim**
+* ordering must match canonical ordering within scope
+* no interpretive or explanatory material
+* only a foreword and mandatory disclaimers may be added
+
+This artifact:
+
+* is **non-authoritative**
+* does **not** establish citation priority
+* does **not** replace the corpus book
+
+---
+
+### 3. Expository Interface Artifact — IER TLDR Book
+
+The **IER TLDR Book** is a **reader-facing, expository interface artifact**.
+
+Rendering may prioritize:
+
+* linear reading flow
+* reduced visual fatigue
+* increased paragraph separation
+* looser leading
+
+Rendering must **not**:
+
+* imply completeness
+* mimic corpus-book density
+* signal authority or exhaustiveness
+
+---
+
+### 4. Paper / Preprint Artifact
+
+The **IER Paper** is a condensed interface artifact optimized for:
+
+* academic circulation
+* repository hosting
+* indexing and citation
+* rapid dissemination
+
+Rendering must conform to:
+
+* standard academic paper conventions
+* single-column layout
+* conservative typography
+
+This artifact carries **no authority** independent of the corpus book.
 
 ---
 
 ## Trim Size and Page Geometry
 
-### Geometry as a Functional Choice
-
-Trim size is a **functional parameter**, not a genre or authority signal.
-
-Changing trim size:
-
-* does not alter epistemic status
-* does not alter authority
-* does not imply pedagogy
-
-It determines **information density and layout affordances only**.
+Geometry is a **functional parameter**, not an authority signal.
 
 ---
 
 ### Corpus Book Geometry (Reference-Optimized)
 
-Default target:
-
-* **7 × 10 inches**
-
-Alternate (explicitly allowed):
+Required:
 
 * **8.5 × 11 inches**
 
-All editions of a given corpus-book release **must use exactly one trim size**.
+This geometry supports:
+
+* high information density
+* two-column layouts
+* wide tables and formal structures
+* handbook-style reference use
+
+Additional constraints:
+
+* single- or two-column layout permitted
+* column balance prioritized over narrative flow
+* tables and formal elements may span columns
+* all editions of a given version must share geometry
+
+---
+
+### Foundations Compilation Geometry
+
+Required:
+
+* **7 × 9 inches**
+
+The Foundations Compilation is rendered as a **technical monograph**
+optimized for readability without pedagogical signaling.
+
+Layout requirements:
+
+* single-column layout
+* typography class shared with the corpus book
+* high information density
+* minimal reader affordances
+
+This artifact must **not** visually resemble the TLDR book beyond trim size.
 
 ---
 
@@ -110,21 +194,31 @@ This geometry supports:
 
 * stable line length
 * reduced visual fatigue
-* linear reading
+* cover-to-cover reading
+
+Rendering may prioritize:
+
+* looser leading
+* increased paragraph separation
+* linear narrative flow
 
 ---
 
-### Paper Geometry
+### Paper / Preprint Geometry
+
+Required:
 
 * **8.5 × 11 inches**
 
-Optimized for academic circulation and digital distribution.
+Optimized for:
+
+* academic circulation
+* digital distribution
+* repository compatibility
 
 ---
 
 ## Typography System
-
-### Font Discipline
 
 IER uses a **minimal, unified font system**.
 
@@ -137,10 +231,6 @@ Default stack:
 * **Math:** TeX Gyre Termes Math
 
 Font substitutions are permitted **only within the same functional class**.
-
----
-
-### Typography Signals
 
 Typography must signal:
 
@@ -159,23 +249,14 @@ Typography must **not** signal:
 
 ## Density and Leading Targets
 
-### Corpus Book
+| Artifact                | Leading | Target Density (words/page) |
+|-------------------------|---------|-----------------------------|
+| Corpus Book             | ≈ 1.10  | 350–450                     |
+| Foundations Compilation | ≈ 1.10  | 350–450                     |
+| TLDR Book               | ≈ 1.20  | Reduced for comfort         |
+| Paper / Preprint        | ≈ 1.15  | Academic norms              |
 
-* Tight leading (≈ **1.10**)
-* Target density: **350–450 words per page**
-
----
-
-### TLDR Book
-
-* Looser leading (≈ **1.20**)
-* Density may be reduced for comfort, **not** pedagogy
-
----
-
-### Paper
-
-* Intermediate leading (≈ **1.15**)
+Variance is permitted for tables, equations, and diagrams.
 
 ---
 
@@ -185,64 +266,35 @@ Typography must **not** signal:
 
 The build system may generate **purely structural Markdown files** under `build/`:
 
-* Part divider pages (`_part_pPP.md`)
-* Section divider pages (`_section_pPP_sSS.md`)
-* Chapter break pages (`_break_ch_NNNN.md`)
+* Part divider pages
+* Section divider pages
+* Chapter break pages
 
 These files:
 
 * contain **no theory**
 * exist only to enforce deterministic pagination
 * may include raw LaTeX pagebreak directives
-  (`\cleardoublepage`, `\clearpage`)
 * are consumed by Pandoc like any other input file
 
 They are part of the **publication layer**, not the corpus.
 
 ---
 
-### Recto and Verso
+### Recto and Verso Discipline
 
 * Recto = right-hand page = odd
 * Verso = left-hand page = even
 
-Blank pages may be inserted to enforce recto alignment.
-Blank pages contain no content.
-
----
-
-### Recto Starts (Book-Class Artifacts)
-
-The following must begin on a recto page:
+Recto starts are required for:
 
 * title pages
 * tables of contents
-* prefaces and introductions
+* prefaces and forewords
 * Part boundaries
 * chapters
 * appendices
 * indices
-
-Recto enforcement may be achieved by:
-
-* class options (e.g. `openright`)
-* build-generated `\cleardoublepage`
-* authored scaffold files
-
----
-
-### Chapters vs Sections
-
-* Chapters always start on a new page
-* For book-class artifacts, chapters start on a recto page
-* Sections never force recto alignment
-* Sections are navigational only
-
-Build behavior:
-
-* Part dividers may force recto starts
-* Chapter break pages enforce new-page starts
-* Section dividers enforce new-page starts without recto enforcement
 
 ---
 
@@ -330,8 +382,8 @@ This document is orthogonal to:
 * `IER-deployment.md`
 * `IER-legal.md`
 
-Rendering decisions **never override** canonical authority, corpus membership,
-or build ordering rules.
+Rendering decisions **never override** canonical authority,
+corpus membership, build ordering, or deployment rules.
 
 ---
 
@@ -339,5 +391,3 @@ or build ordering rules.
 
 > Rendering governs **how the work is physically encountered**,  
 > not **what the work claims**.
-
----

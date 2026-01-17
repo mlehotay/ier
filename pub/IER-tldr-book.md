@@ -1,353 +1,142 @@
-# IER Foundations Book — Decisions and Guidance (Summary)
+# IER TLDR Book
 
-## 1. Reader Stratification
-
-We identified three distinct reader types, each served by a different artifact:
-
-### **Anchor Readers**
-
-* Target artifact: **Full IER corpus book** (technical monograph).
-* Characteristics:
-
-  * Comfortable with outline-dense, constraint-first material.
-  * Seek formal clarity, exact claims, and citeable reference.
-* Status:
-
-  * This book is the **anchor artifact** in deployment terms.
-  * High rigor, low pedagogy is appropriate and intentional.
-
-### **Gateway Readers**
-
-* Target artifact: **IER Foundations book** (shorter, prose, non-authoritative).
-* Characteristics:
-
-  * Serious but not yet invested.
-  * Need motivation, examples, repetition in multiple registers.
-  * Could become anchor readers.
-* Core need:
-
-  * Understanding *why* the theory is structured as it is, not just *what* it says.
-
-### **Casual Readers**
-
-* Not directly targeted.
-* Exposure only via:
-
-  * talks
-  * interviews
-  * secondary commentary
-  * possibly skimming the preprint paper
-* Attempting to directly serve this group would harm rigor and clarity for the other two.
-
-There is also an **implicit fourth group**:
-
-* **Translators** (people who explain IER to others).
-* The foundations book will strongly shape how IER is represented by them.
+**Artifact Specification (Expository Interface Publication)**
 
 ---
 
-## 2. Diagnosis: Why “Prose Part I Only” Fails
+## 1. Artifact Identity
 
-A foundations book that is *only* Part I rewritten in prose would be:
+**Title:** *Informational Experiential Realism (IER) — TLDR Book*
+**Artifact class:** Interface publication
+**Epistemic role:** Expository, reader-oriented interface to the IER corpus
+**Authority:** Non-authoritative; defers to the IER Corpus Book for ordering, pagination, and reference
 
-* cognitively demanding
-* psychologically unrewarding
-* “all reader demands, no payoff”
+The IER TLDR Book is an **interpretive interface artifact** whose purpose is to make the structure, concepts, and motivations of IER intelligible without serving as a reference anchor.
 
-Part I is constraint-establishing by design and withholds applications and intuitions.
-This is correct for anchor readers but insufficient for gateway readers.
-
-Therefore, **pure foundations is structurally incomplete as a book**, even if well written.
+It is not a substitute for the Corpus Book and must never be treated as a citeable authority.
 
 ---
 
-## 3. Key Design Constraint: No Authority Creep
+## 2. Relationship to the Corpus Book
 
-Simply including Tier 2 or Tier 4 articles as chapters is **not acceptable**, because it would:
+The TLDR Book is explicitly **downstream of** and **subordinate to** the IER Corpus Book.
 
-* blur authority boundaries
-* invert dependency structure
-* make it appear that conclusions are part of the foundations
-* undermine the deployment discipline of IER
+* All conceptual claims derive from the corpus.
+* Any overlap with canonical text is illustrative, not authoritative.
+* Pagination, ordering, and reference authority reside exclusively in the Corpus Book.
 
-The foundations book must remain:
-
-* explicitly **non-authoritative**
-* clearly **downstream** of the corpus book
-* an **interface**, not a fork or reorganization
+The TLDR Book exists to **explain**, not to define.
 
 ---
 
-## 4. Solution: Exemplars, Not Chapters
+## 3. Physical Format
 
-To provide reader reward without authority confusion:
+### 3.1 Trim Size
 
-* Use **illustrative exemplars**, not full articles.
-* Draw selectively from Tier 2 / Tier 4 material.
-* Present them as:
+* **Trim size:** **7 × 9 inches**
 
-  * short
-  * clearly labeled
-  * non-derivational
-  * consequence-oriented
+This trim size is fixed for all editions of the TLDR Book.
 
-Purpose:
+### 3.2 Column Model
 
-* Give “proof of life”
-* Show what kind of work the constraints do
-* Provide closure signals
+* **Default page layout:** **Single column**
 
-Heuristic:
+The single-column layout supports narrative flow, explanation, and extended prose.
 
-> If a reader could cite it *instead of* the main corpus book, it does not belong.
+Two-column layouts are not permitted in the TLDR Book.
 
 ---
 
-## 5. Recommended High-Level Structure of the Foundations Book
+## 4. Design Intent
 
-### **Front Matter (Calibration)**
+The TLDR Book is designed as a **reader-forward, explanatory monograph** that emphasizes clarity, continuity, and conceptual accessibility.
 
-* Purpose and status of the book (explicitly non-authoritative).
-* Relationship to:
+### 4.1 Reading Contract
 
-  * the IER corpus book
-  * the preprint paper
-* “How to read this book”:
+* Supports linear, cover-to-cover reading
+* Encourages conceptual orientation and synthesis
+* Assumes no prior exposure to the corpus ordering
 
-  * explains constraint-first style
-  * sets expectations
-  * clarifies role of examples vs arguments
+The TLDR Book may reorder, summarize, or group ideas for explanatory purposes.
 
 ---
 
-### **Core Foundations**
+## 5. Tone, Density, and Style
 
-* One chapter per **each of the 7 core articles**.
-* Written in continuous prose.
-* Emphasis on:
+* **Tone:** Explanatory, precise, but conversational relative to the Corpus Book
+* **Information density:** Moderate
+* **Pacing:** Intentionally relaxed compared to the anchor artifact
+* **Paragraph structure:** Shorter paragraphs permitted
+* **Headings:** Conceptual and pedagogical rather than purely structural
 
-  * motivation
-  * problem pressure
-  * why alternatives fail
-* No formal dependency enforcement in prose, but ordering preserved.
-* Each chapter ends with:
-
-  * “what this enables later”
-  * pointer to the canonical article
+The design should resemble a **technical monograph or extended essay**, not a handbook.
 
 ---
 
-### **Interleaved Payoff Sections**
+## 6. Content Constraints
 
-* Occur after every 1–2 foundations chapters.
-* Length: ~3–6 pages.
-* Content:
+The TLDR Book **may**:
 
-  * illustrative consequences
-  * intuitive downstream implications
-  * disambiguations and clarifications
-* Explicitly labeled as:
+* Summarize or restate concepts from the corpus
+* Use illustrative examples and analogies
+* Reorganize material to improve comprehension
+* Quote short passages from the corpus for illustration
 
-  * downstream
-  * non-authoritative
-  * non-derivational
+The TLDR Book **must not**:
 
-These sections are what make the book *feel good* to read.
-
----
-
-### **Orientation and Closure**
-
-Essential for reader satisfaction.
-
-Include:
-
-* What IER explicitly does **not** try to do.
-* Limits, non-goals, common misreadings.
-* Conceptual overview of the full corpus:
-
-  * Parts I–III
-  * what kinds of questions each tier answers
-* “Where to go next” reading guidance.
-
-This gives a sense of completion without claiming completeness.
+* Introduce new theoretical claims
+* Modify or reinterpret definitions in ways that diverge from the corpus
+* Establish independent terminology
+* Present itself as a definitive or complete reference
 
 ---
 
-## 6. Specific Component Decisions
+## 7. Structural Characteristics
 
-### **Glossary**
+* Structure is determined by explanatory coherence, not canonical ordering
+* Chapters may synthesize multiple corpus sections
+* Cross-references to the Corpus Book are encouraged where precision is required
 
-* Strongly recommended.
-* Tailored to the foundations book.
-* Includes conceptual glosses, not just definitions.
-* Explicitly warns when stricter canonical definitions exist elsewhere.
+The TLDR Book may include:
 
----
-
-### **IER-intro.md**
-
-* Should **not** be included verbatim.
-* Its *function* should be used:
-
-  * orientation language
-  * corpus mapping
-* Best folded into:
-
-  * front calibration
-  * or closing orientation section
+* Introductory framing
+* Transitional material
+* Conceptual summaries
+* Forward references to deeper material in the corpus
 
 ---
 
-### **Optional Appendices**
+## 8. Explicit Non-Goals
 
-Lightweight, optional, but useful:
+The TLDR Book must **not**:
 
-* Common confusions
-* Why the outline format exists
-* Rigor vs accessibility
+* Serve as a citation or reference standard
+* Replace the Corpus Book for technical work
+* Act as a verbatim reproduction of canonical text
+* Conflate explanation with authority
 
-These primarily help translators and reviewers.
-
----
-
-## 7. Deployment Consistency
-
-The foundations book:
-
-* comes **after** the corpus book
-* introduces **no new commitments**
-* carries **no authority**
-* serves as an explanatory interface
-
-This is fully consistent with existing IER deployment principles and does **not** require changing them.
+It is an **interface**, not an anchor.
 
 ---
 
-## 8. Meta-Decision: Project Context
+## 9. Relationship to Other IER Publications
 
-This discussion does **not** belong in `IER-book`.
+* The **Corpus Book** is the sole anchor publication.
+* The **Foundations Compilation** is a verbatim subset interface with minimal framing.
+* Preprints and academic articles serve scholarly dissemination roles.
 
-* `IER-book` = assembly and publishing infrastructure
-* This discussion = reader modeling, interface design, pedagogical strategy
-
-Conclusion:
-
-* This conversation should continue in the **main IER project context** (or a dedicated exposition/interface thread), not in IER-book.
+The TLDR Book occupies the space between **first contact** and **deep reference**, but claims no authority of its own.
 
 ---
 
-## Bottom Line
+## 10. Stability and Change Control
 
-* Reader stratification is correct and stable.
-* A foundations book is justified and strategically sound.
-* It must go beyond Part I prose **without importing authority**.
-* Exemplars provide payoff without hierarchy collapse.
-* Glossary and orientation are essential.
-* This is an interface-layer design problem, not a book-assembly problem.
+Any change to:
 
----
----
+* trim size,
+* column policy,
+* or the epistemic role of the TLDR Book
 
-# TLDR: An Introduction to Informational Experiential Realism
-## Manuscript Assembly Manifest (Non-Authoritative)
+requires a corresponding update to IER publishing governance documents and a versioned revision of this specification.
 
 ---
-
-## Status and Role
-
-This file defines the **assembly order** for the
-**TLDR / gateway book**:
-
-> **TLDR: An Introduction to Informational Experiential Realism**
-
-This manuscript is:
-
-* **non-canonical**
-* **non-authoritative**
-* **purely expository**
-* **downstream of the IER corpus**
-
-It introduces **no definitions, criteria, thresholds, or commitments**.
-All authoritative content of Informational Experiential Realism (IER)
-is fixed exclusively in the canonical corpus under `IER/`.
-
-This file exists **only** to specify build order.
-
----
-
-## Assembly Conventions
-
-* Paths are relative to the repository root.
-* Canonical content is included **verbatim** from `IER/`.
-* Manuscript-only content (front matter, exemplars, orientation) lives in `manuscripts/`.
-* Inclusion order encodes **reader flow**, not authority.
-* Inclusion does **not** imply endorsement, derivation, or dependency inversion.
-
----
-
-## FRONT MATTER (MANUSCRIPT-ONLY)
-
-manuscripts/00-tldr-front-matter.md
-manuscripts/01-how-to-read-this-book.md
-
----
-
-## ORIENTATION
-
-manuscripts/02-what-ier-is-and-is-not.md
-
----
-
-## CORE FOUNDATIONS (PROSE PRESENTATION)
-
-# These chapters correspond one-to-one with the
-# canonical Part I documents, but are written
-# as explanatory prose. Each chapter must defer
-# explicitly to its canonical counterpart.
-
-manuscripts/10-experience-as-identity.md          # ↔ IER/IER-specification.md
-manuscripts/11-why-theory-is-needed.md            # ↔ IER/IER-theory.md
-manuscripts/12-dynamics-and-regimes.md             # ↔ IER/IER-dynamics.md
-manuscripts/13-constraint-and-formal-structure.md  # ↔ IER/IER-math.md
-manuscripts/14-why-slack-blocks-experience.md      # ↔ IER/IER-slack.md
-manuscripts/15-ethical-reality-by-identity.md      # ↔ IER/IER-ethics.md
-manuscripts/16-why-diagnostics-are-impossible.md   # ↔ IER/IER-diagnostics.md
-
----
-
-## EXEMPLAR INTERLUDES (ILLUSTRATIVE, NON-DERIVATIONAL)
-
-# These sections provide payoff and intuition.
-# They introduce no claims and may not be cited
-# in place of canonical material.
-
-manuscripts/20-exemplar-regimes-and-stability.md
-manuscripts/21-exemplar-harm-without-suffering.md
-manuscripts/22-exemplar-uncertainty-and-precaution.md
-
----
-
-## ORIENTATION AND CLOSURE
-
-manuscripts/30-limits-non-goals-and-misreadings.md
-manuscripts/31-how-the-full-corpus-fits-together.md
-manuscripts/32-where-to-go-next.md
-
----
-
-## GLOSSARY (TLDR-SCOPED)
-
-# Glossary entries are explanatory only.
-# Canonical definitions remain authoritative.
-
-manuscripts/40-tldr-glossary.md
-
----
-
-## END OF MANIFEST
-
-# If this file conflicts with IER-manifest.md
-# or any canonical document, the canonical
-# document takes precedence and this file
-# is void to the extent of the conflict.
