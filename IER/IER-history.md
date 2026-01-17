@@ -5,7 +5,25 @@
 **Tier:** 4 — Explanatory / Historical
 **Status:** Non-normative
 **Scope:** Historical context only
-**Version:** v10.8.1-compatible
+**Version:** v10.8.3
+
+This document is **historical and explanatory only**.
+
+It is:
+
+* **not a claim of influence**  
+  (no historical figure, school, or framework is asserted to have influenced IER)
+
+* **not a refutation project**  
+  (no position is argued against or evaluated for correctness)
+
+* **not a criterial mapping**  
+  (no historical theory is claimed to approximate, partially satisfy, or fail IER’s criteria)
+
+* **not a moral evaluation of predecessors**  
+  (no historical framework is praised, blamed, or ethically assessed)
+
+It identifies **structural preconditions and constraint failures** that explain why IER could only be formulated **after** certain historical developments.
 
 ---
 
@@ -21,7 +39,7 @@ The goal of this document is to clarify:
 * why many closely related frameworks were **structurally insufficient**, and
 * why the articulation of IER occurred **late in the historical sequence** rather than earlier.
 
-This is not a survey of all theories of consciousness, nor a claim of intellectual influence. It is a **dependency analysis**: an account of what had to be in place—and what had to fail—for IER’s formulation to become possible.
+Only `IER-specification.md` is normative and criterial; no historical claim in this document carries definitional, identity, epistemic, or ethical authority.
 
 ---
 
@@ -320,32 +338,10 @@ Taken together, these positions progressively **eliminate degrees of freedom**. 
 
 The following diagram makes this closure explicit.
 
-```mermaid
-flowchart TB
-    %% Historical approaches
-    IT["Identity Theory<br/>✔ Identity Relation<br/>✘ Organizational Specificity"]
-    F["Functionalism<br/>✔ Abstract Structure<br/>✘ Experiential Ownership"]
-    D["Dynamical Approaches<br/>✔ Process & Continuity<br/>✘ Experiential Identity"]
-    P["Phenomenology<br/>✔ Lived Experience<br/>✘ Ontological Commitment"]
-    S["Synchronicity<br/>✔ Meaningfulness<br/>✘ Epistemic Discipline"]
-    H["Hard-Problem Discourse<br/>✔ Ontological Seriousness<br/>✘ Explanatory Closure"]
+![Structural exhaustion of historical approaches leading to the IER identity claim](../assets/IER-history.png)
 
-    %% Missing space
-    GAP["Remaining Logical Space<br/>• Experience is Real<br/>• Physically Identified<br/>• Organizationally Specific<br/>• Owned (First-Person)<br/>• Epistemically Constrained"]
-
-    %% IER
-    IER["IER (Informational Experiential Realism)<br/>Experience ≡ Specific Information-Bearing Physical Organization<br/>No Eliminativism<br/>No Metaphysical Projection"]
-
-    %% Relations
-    IT --> GAP
-    F --> GAP
-    D --> GAP
-    P --> GAP
-    S --> GAP
-    H --> GAP
-
-    GAP --> IER
-```
+*Diagram: Structural exhaustion of historical approaches leading to the IER identity claim.  
+This figure is explanatory only and introduces no new ontological, criterial, epistemic, or ethical commitments.*
 
 ### Why IER Is Not Optional
 
@@ -364,7 +360,7 @@ The historical narrative thus closes not with pluralism, but with **logical exha
 
 ## **16. The Formulation of Informational Experiential Realism**
 
-Informational Experiential Realism was formulated **within this project** in 2025.
+Informational Experiential Realism was formulated **within this project** in December 2025.
 
 IER makes a single central claim:
 
@@ -400,6 +396,8 @@ All claims about experience, identity, and ethical consequence are defined elsew
 
 ---
 
-**End of document.**
+### **Intermission — Structural Fact**
 
----
+This history records **constraints, not causes**.  
+It explains why certain formulations became possible only after others failed,  
+without asserting lineage, influence, or evaluation.

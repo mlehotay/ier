@@ -88,8 +88,8 @@ Each clarification must appear **exactly once** as an **explicit non-inference**
 
 # **IV. History & Lineage Guardrails (Mandatory)**
 
-* [ ] Add guardrail box to `IER-history.md` (no influence, no refutation, no evaluation)
-* [ ] Reaffirm Specification exclusivity explicitly
+* [x] Add guardrail box to `IER-history.md` (no influence, no refutation, no evaluation)
+* [x] Reaffirm Specification exclusivity explicitly
 
 ---
 
