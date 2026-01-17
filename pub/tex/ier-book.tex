@@ -2,6 +2,33 @@
 % Common rendering discipline for IER book-class PDFs.
 
 % -----------------------------
+% Column mode (publication-layer only)
+%   Default: single column
+%   Corpus book can opt into two-column body via:
+%     -V header-includes="\\def\\iercolumnmode{two}"
+%
+% Implementation note:
+%   Pandoc books are built with --toc. We keep the TOC in one column,
+%   and switch to two columns immediately AFTER the TOC.
+% -----------------------------
+\usepackage{etoolbox}
+
+% Default to single column unless overridden in header-includes.
+\newcommand{\IERColumnMode}{one}
+\ifdef{\iercolumnmode}{\renewcommand{\IERColumnMode}{\iercolumnmode}}{}
+
+% Convenience switches (safe no-ops unless mode=two)
+\newcommand{\IERMaybeTwoColumn}{%
+  \ifdefstrequal{\IERColumnMode}{two}{\twocolumn}{}%
+}
+\newcommand{\IERMaybeOneColumn}{%
+  \ifdefstrequal{\IERColumnMode}{two}{\onecolumn}{}%
+}
+
+% Keep TOC single-column; switch after TOC if mode=two.
+\apptocmd{\tableofcontents}{\clearpage\IERMaybeTwoColumn}{}{}
+
+% -----------------------------
 % Paragraph / density discipline
 % -----------------------------
 \setlength{\parskip}{0pt}
@@ -29,3 +56,8 @@
 
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\footrulewidth}{0pt}
+
+% If we are in two-column mode and something forces one-column pages later,
+% authors/scaffold can explicitly switch back using:
+%   \IERMaybeOneColumn  ...  \IERMaybeTwoColumn
+% (These are safe in single-column mode: they do nothing.)

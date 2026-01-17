@@ -28,7 +28,7 @@ PANDOC_FONTS := \
   -V monofont="Inconsolata" \
   -V mathfont="TeX Gyre Termes Math"
 
-# Book baseline (corpus + TLDR)
+# Book baseline (corpus + TLDR + foundations)
 PANDOC_BOOK_COMMON := \
   $(PANDOC_FONTS) \
   -V documentclass=book \
@@ -54,22 +54,21 @@ PANDOC_PAPER_OPTS := \
   -V geometry:margin=1in \
   -V linestretch=1.15
 
-# Corpus book: anchor reference artifact (default 7x10)
+# Corpus book: anchor reference artifact (8.5x11, 2-column body)
+# NOTE: Two-column behavior is enabled via a LaTeX macro defined here and
+# implemented in pub/tex/ier-book.tex (publication-layer concern).
 PANDOC_CORPUS_OPTS := \
   $(PANDOC_BOOK_COMMON) \
   -V classoption=openright \
-  -V geometry:paperwidth=7in \
-  -V geometry:paperheight=10in \
-  -V geometry:inner=1.0in \
-  -V geometry:outer=0.9in \
-  -V geometry:top=0.95in \
-  -V geometry:bottom=1.0in \
+  -V geometry:paperwidth=8.5in \
+  -V geometry:paperheight=11in \
+  -V geometry:inner=1.05in \
+  -V geometry:outer=0.85in \
+  -V geometry:top=0.85in \
+  -V geometry:bottom=0.95in \
+  -V header-includes="\\def\\iercolumnmode{two}" \
+  -V header-includes="\\setlength{\\columnsep}{0.25in}" \
   -V linestretch=1.10
-
-# If you want US-letter reference geometry for the corpus book,
-# swap the two lines below into PANDOC_CORPUS_OPTS (and remove 7x10):
-#   -V geometry:paperwidth=8.5in \
-#   -V geometry:paperheight=11in \
 
 # TLDR book: gateway / reading artifact (7x9)
 PANDOC_TLDR_OPTS := \
@@ -83,18 +82,33 @@ PANDOC_TLDR_OPTS := \
   -V geometry:bottom=0.95in \
   -V linestretch=1.20
 
+# Foundations compilation book: canonical subset compilation (7x9, single-column)
+PANDOC_FOUNDATIONS_OPTS := \
+  $(PANDOC_BOOK_COMMON) \
+  -V classoption=openright \
+  -V geometry:paperwidth=7in \
+  -V geometry:paperheight=9in \
+  -V geometry:inner=0.95in \
+  -V geometry:outer=0.85in \
+  -V geometry:top=0.9in \
+  -V geometry:bottom=0.95in \
+  -V linestretch=1.10
+
 # Default opts for generic single-chapter builds
 PANDOC_OPTS := $(PANDOC_PAPER_OPTS)
 
 .PHONY: all pubs dirs \
-        paper book booklist verify verify-structure verify-authoring check-corpus \
+        paper \
+        corpus corpuslist verify-corpus verify-corpus-structure verify-corpus-authoring check-corpus \
         tldr tldrlist verify-tldr verify-tldr-structure verify-tldr-authoring check-tldr \
+        foundations foundationslist verify-foundations verify-foundations-structure verify-foundations-authoring check-foundations \
         clean spotless rebuild
 
 # Default target
 all: paper
 
-pubs: paper book tldr
+# Build all publication PDFs
+pubs: paper corpus tldr foundations
 
 dirs:
 	@mkdir -p $(BUILD_DIR)
@@ -124,29 +138,27 @@ CORPUS_SCAFFOLD_FILES   := $(wildcard $(CORPUS_SCAFFOLD_DIR)/*.md)
 CORPUS_BOOKLIST         := $(BUILD_DIR)/corpus-input.txt
 CORPUS_PDF              := $(BUILD_DIR)/IER-corpus-book.pdf
 
-book: $(CORPUS_PDF)
-booklist: $(CORPUS_BOOKLIST)
+corpus: $(CORPUS_PDF)
+corpuslist: $(CORPUS_BOOKLIST)
 
 $(CORPUS_BOOKLIST): $(CORPUS_SELECTION) $(CORPUS_SCAFFOLD_FILES) | dirs
 	@python3 $(SCRIPTS_DIR)/extract_book_list.py \
 	  "$(CORPUS_SELECTION)" \
 	  "$(CORPUS_SCAFFOLD_DIR)" \
 	  "$@"
-	@echo "Wrote booklist: $@"
+	@echo "Wrote corpus booklist: $@"
 
 # -----------------------------
 # Verification (corpus)
-#   verify_book.py interface:
-#     python3 scripts/verify_book.py <selection.md> <booklist.txt> [flags]
 # -----------------------------
-verify: $(CORPUS_BOOKLIST)
+verify-corpus: $(CORPUS_BOOKLIST)
 	@echo "Verifying corpus book list and chapter content..."
 	@python3 $(SCRIPTS_DIR)/verify_book.py \
 	  "$(CORPUS_SELECTION)" \
 	  "$(CORPUS_BOOKLIST)" \
 	  --scaffold-dir "$(CORPUS_SCAFFOLD_DIR)"
 
-verify-structure: $(CORPUS_BOOKLIST)
+verify-corpus-structure: $(CORPUS_BOOKLIST)
 	@echo "Verifying corpus book structure (glyph checks skipped)..."
 	@python3 $(SCRIPTS_DIR)/verify_book.py \
 	  "$(CORPUS_SELECTION)" \
@@ -154,7 +166,7 @@ verify-structure: $(CORPUS_BOOKLIST)
 	  --scaffold-dir "$(CORPUS_SCAFFOLD_DIR)" \
 	  --skip-glyphs
 
-verify-authoring: $(CORPUS_BOOKLIST)
+verify-corpus-authoring: $(CORPUS_BOOKLIST)
 	@echo "Verifying corpus authoring rules only (skip structure)..."
 	@python3 $(SCRIPTS_DIR)/verify_book.py \
 	  "$(CORPUS_SELECTION)" \
@@ -162,9 +174,9 @@ verify-authoring: $(CORPUS_BOOKLIST)
 	  --scaffold-dir "$(CORPUS_SCAFFOLD_DIR)" \
 	  --skip-structure
 
-# NOTE: Re-enable `verify` before any public or tagged release.
-# $(CORPUS_PDF): verify | dirs
-# $(CORPUS_PDF): verify-structure | dirs
+# NOTE: Re-enable `verify-corpus` before any public or tagged release.
+# $(CORPUS_PDF): verify-corpus | dirs
+# $(CORPUS_PDF): verify-corpus-structure | dirs
 $(CORPUS_PDF): $(CORPUS_BOOKLIST) $(IER_BOOK_TEX) | dirs
 	@# Guard: do NOT let pandoc block by reading stdin
 	@test -s "$(CORPUS_BOOKLIST)" || (echo "ERROR: empty book list: $(CORPUS_BOOKLIST)" >&2; exit 1)
@@ -250,6 +262,72 @@ check-tldr: $(TLDR_BOOKLIST) $(IER_BOOK_TEX)
 	echo "All tldr-book chapters passed individual Pandoc check."
 
 # -----------------------------
+# Foundations Book
+#   selection: pub/IER-foundations-selection.md
+#   scaffold:  pub/foundations-book/*.md (sorted by filename)
+#   output:    build/foundations-input.txt
+# -----------------------------
+FOUNDATIONS_SELECTION        := $(SRC_DIR)/IER-foundations-selection.md
+FOUNDATIONS_SCAFFOLD_DIR     := $(SRC_DIR)/foundations-book
+FOUNDATIONS_SCAFFOLD_FILES   := $(wildcard $(FOUNDATIONS_SCAFFOLD_DIR)/*.md)
+
+FOUNDATIONS_BOOKLIST         := $(BUILD_DIR)/foundations-input.txt
+FOUNDATIONS_PDF              := $(BUILD_DIR)/IER-foundations-book.pdf
+
+foundations: $(FOUNDATIONS_PDF)
+foundationslist: $(FOUNDATIONS_BOOKLIST)
+
+$(FOUNDATIONS_BOOKLIST): $(FOUNDATIONS_SELECTION) $(FOUNDATIONS_SCAFFOLD_FILES) | dirs
+	@python3 $(SCRIPTS_DIR)/extract_book_list.py \
+	  "$(FOUNDATIONS_SELECTION)" \
+	  "$(FOUNDATIONS_SCAFFOLD_DIR)" \
+	  "$@"
+	@echo "Wrote foundations booklist: $@"
+
+# -----------------------------
+# Verification (foundations)
+# -----------------------------
+verify-foundations: $(FOUNDATIONS_BOOKLIST)
+	@echo "Verifying foundations book list and chapter content..."
+	@python3 $(SCRIPTS_DIR)/verify_book.py \
+	  "$(FOUNDATIONS_SELECTION)" \
+	  "$(FOUNDATIONS_BOOKLIST)" \
+	  --scaffold-dir "$(FOUNDATIONS_SCAFFOLD_DIR)"
+
+verify-foundations-structure: $(FOUNDATIONS_BOOKLIST)
+	@echo "Verifying foundations book structure (glyph checks skipped)..."
+	@python3 $(SCRIPTS_DIR)/verify_book.py \
+	  "$(FOUNDATIONS_SELECTION)" \
+	  "$(FOUNDATIONS_BOOKLIST)" \
+	  --scaffold-dir "$(FOUNDATIONS_SCAFFOLD_DIR)" \
+	  --skip-glyphs
+
+verify-foundations-authoring: $(FOUNDATIONS_BOOKLIST)
+	@echo "Verifying foundations authoring rules only (skip structure)..."
+	@python3 $(SCRIPTS_DIR)/verify_book.py \
+	  "$(FOUNDATIONS_SELECTION)" \
+	  "$(FOUNDATIONS_BOOKLIST)" \
+	  --scaffold-dir "$(FOUNDATIONS_SCAFFOLD_DIR)" \
+	  --skip-structure
+
+$(FOUNDATIONS_PDF): $(FOUNDATIONS_BOOKLIST) $(IER_BOOK_TEX) | dirs
+	@test -s "$(FOUNDATIONS_BOOKLIST)" || (echo "ERROR: empty book list: $(FOUNDATIONS_BOOKLIST)" >&2; exit 1)
+	$(PANDOC) $$(cat "$(FOUNDATIONS_BOOKLIST)") \
+	  --toc --toc-depth=1 \
+	  -o "$@" $(PANDOC_FOUNDATIONS_OPTS)
+
+check-foundations: $(FOUNDATIONS_BOOKLIST) $(IER_BOOK_TEX)
+	@echo "Checking foundations-book Markdown files..."
+	@set -e; \
+	n=0; \
+	while read f; do \
+	  n=$$((n+1)); \
+	  echo "[$$n] Testing $$f"; \
+	  $(PANDOC) $$f -t pdf -o /dev/null $(PANDOC_FOUNDATIONS_OPTS); \
+	done < "$(FOUNDATIONS_BOOKLIST)"; \
+	echo "All foundations-book chapters passed individual Pandoc check."
+
+# -----------------------------
 # Generic: build any single chapter PDF from IER/ or pub/
 #   Defaults to paper/article rendering discipline (no running heads).
 # -----------------------------
@@ -278,9 +356,13 @@ clean:
 	  $(PAPER_PDF) \
 	  $(CORPUS_PDF) $(CORPUS_BOOKLIST) $(BUILD_DIR)/corpus-input.numbered.txt \
 	  $(TLDR_PDF)   $(TLDR_BOOKLIST)   $(BUILD_DIR)/tldr-input.numbered.txt \
+	  $(FOUNDATIONS_PDF) $(FOUNDATIONS_BOOKLIST) $(BUILD_DIR)/foundations-input.numbered.txt \
 	  $(BUILD_DIR)/*.numbered.txt \
 	  $(BUILD_DIR)/*-verify.expected.numbered.txt \
-	  $(BUILD_DIR)/*-verify.actual.numbered.txt
+	  $(BUILD_DIR)/*-verify.actual.numbered.txt \
+	  $(BUILD_DIR)/_break_ch_*.md \
+	  $(BUILD_DIR)/_part_*.md \
+	  $(BUILD_DIR)/_section_*.md
 
 # Remove the entire build directory (fresh checkout cleanliness)
 spotless: clean
