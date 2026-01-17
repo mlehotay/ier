@@ -6,6 +6,9 @@
 
 ## What This Is
 
+This directory (`IER/`) contains the **canonical theoretical corpus** of
+Informational Experiential Realism. All normative claims, definitions, and commitments originate here.
+
 **Informational Experiential Realism (IER)** is a strictly physicalist **identity theory of experience**.
 
 IER holds that:
