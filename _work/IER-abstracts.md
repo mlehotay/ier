@@ -295,7 +295,7 @@ Psychosis is treated neither as revelation nor as ontological transition, but as
 
 ---
 
-## 16. IER-spoons.md
+## 15. IER-spoons.md
 
 ## **Abstract**
 
@@ -331,7 +331,26 @@ Pacing is analyzed as **state-linked rather than content-linked**, **organizatio
 
 ---
 
-## 18. IER-art.md
+## 18. IER-tickling.md
+
+## **Orientation: Why Tickling Is Structurally Interesting**
+
+Tickling produces a distinctive and puzzling cluster of effects:
+
+* involuntary laughter
+* rapid escalation of salience
+* loss of fine motor inhibition
+* narrowing of admissible action
+* extreme responsiveness despite epistemic awareness
+* occasional autonomic release (including urination)
+
+These effects are often grouped together descriptively but rarely explained structurally.
+
+Under **Informational Experiential Realism (IER)**, tickling is not notable because of how it feels, but because of **how it reorganizes intrinsic constraint under externally imposed perturbation**.
+
+---
+
+## 19. IER-art.md
 
 ## **Abstract**
 
@@ -343,7 +362,7 @@ No new primitives, norms, diagnostics, or epistemic authorities are introduced. 
 
 ---
 
-## 19. IER-music.md
+## 20. IER-music.md
 
 ## **Status and Scope**
 
@@ -372,7 +391,7 @@ The purpose of this document is narrow and structural:
 
 ---
 
-## 20. IER-continuity.md
+## 21. IER-continuity.md
 
 ## Abstract
 
@@ -382,7 +401,7 @@ This article argues that the puzzle arises from a category error. Under IER, **e
 
 ---
 
-## 21. IER-persistence.md
+## 22. IER-persistence.md
 
 ## **Abstract**
 
@@ -396,7 +415,7 @@ This document introduces no new primitives and makes no claims beyond those impl
 
 ---
 
-## 22. IER-sleep.md
+## 23. IER-sleep.md
 
 ## **Orientation: Why Unconscious States Create Persistent Confusion**
 
@@ -415,7 +434,7 @@ Whether experience exists at a given time depends **only** on whether a Unified 
 
 ---
 
-## 23. IER-sleep-variants.md
+## 24. IER-sleep-variants.md
 
 ## **Orientation: Why Sleep Variants Matter**
 
@@ -442,7 +461,7 @@ The guiding question of this document is therefore:
 
 ---
 
-## 24. IER-dormancy.md
+## 25. IER-dormancy.md
 
 ## **1. Orientation: Why Dormancy Matters for IER**
 
@@ -469,7 +488,7 @@ Informational Experiential Realism (IER) answers **no** — not as a value judgm
 
 ---
 
-## 25. IER-access.md
+## 26. IER-access.md
 
 ## **Abstract**
 
@@ -483,7 +502,7 @@ Making this boundary explicit explains why costly, coherent, identity-defining e
 
 ---
 
-## 26. IER-meaning.md
+## 27. IER-meaning.md
 
 ## **Abstract**
 
@@ -497,7 +516,7 @@ Meaning is experientially real and identity-shaping, while remaining strictly **
 
 ---
 
-## 27. IER-happiness.md
+## 28. IER-happiness.md
 
 ## **0. Status, Scope, and Canon Position**
 
@@ -528,7 +547,7 @@ This document exists for **misuse containment and structural clarification**, no
 
 ---
 
-## 28. IER-intentionality.md
+## 29. IER-intentionality.md
 
 ## Abstract
 
@@ -540,7 +559,7 @@ This document explains intentionality as a **derived feature of intrinsically co
 
 ---
 
-## 29. IER-insight.md
+## 30. IER-insight.md
 
 ## **Abstract**
 
@@ -555,7 +574,7 @@ It does not disclose reality.
 
 ---
 
-## 30. IER-disagreement.md
+## 31. IER-disagreement.md
 
 ## 1. The Standard Misframing of Disagreement
 
@@ -575,7 +594,7 @@ A persistent remainder exists: disagreements that survive explanation, shared ev
 
 ---
 
-## 31. IER-synchronicity.md
+## 32. IER-synchronicity.md
 
 ## **1. Purpose and Scope**
 
@@ -600,7 +619,7 @@ It is a **dependency analysis** of why synchronicity mattered historically—and
 
 ---
 
-## 32. IER-truth.md
+## 33. IER-truth.md
 
 ## **Abstract**
 
@@ -615,7 +634,7 @@ Reality is not organized by experience.
 
 ---
 
-## 33. IER-puzzles.md
+## 34. IER-puzzles.md
 
 ## **Status and Scope**
 
@@ -632,7 +651,7 @@ Its purpose is to catalog the **canonical philosophical puzzles of consciousness
 
 ---
 
-## 34. IER-attractors.md
+## 35. IER-attractors.md
 
 ## **Abstract**
 
@@ -646,7 +665,7 @@ The account introduces no new primitives, criteria, or diagnostics. All claims a
 
 ---
 
-## 35. IER-patterns.md
+## 36. IER-patterns.md
 
 ## **Why Nature Repeats Itself Without a Designer**
 
@@ -662,7 +681,7 @@ It is **attractors**.
 
 ---
 
-## 36. IER-types.md
+## 37. IER-types.md
 
 ## **Abstract**
 
@@ -674,7 +693,7 @@ This article explains how apparent human “types” emerge from **attractor-bas
 
 ---
 
-## 37. IER-shadows.md
+## 38. IER-shadows.md
 
 ## **Abstract**
 
@@ -690,7 +709,7 @@ The analysis preserves IER’s categorical account of experience, rejects graded
 
 ---
 
-## 38. IER-NDE.md
+## 39. IER-NDE.md
 
 ## **0. Orientation: Why Near-Death Experiences Are Structurally Confusing**
 
@@ -717,7 +736,225 @@ It explains NDEs strictly in terms of **experiential organization under extreme 
 
 ---
 
-## 39. IER-resolution.md
+## 40. IER-sedimentation.md
+
+## **0. Orientation: Why History Needs a Mechanism**
+
+Across many domains, systems behave differently tomorrow because of what happened yesterday.
+
+In most theoretical frameworks, this fact is explained by appealing—explicitly or implicitly—to **stored history**:
+
+* retained traces
+* internal records
+* encoded representations
+* latent contents awaiting retrieval
+
+Under Informational Experiential Realism, these explanations are structurally unavailable.
+
+IER identifies experience with the operation of a physical system under **globally binding intrinsic constraint**, not with the presence of internal archives. When an experiential regime ends, nothing experiential remains to be stored.
+
+Yet history clearly matters.
+
+This document introduces **sedimentation** as the mechanism by which history can persist **without the past persisting**.
+
+> **Orientation signal:**
+> *A system can be shaped by its past without containing it.*
+
+---
+
+## 41. IER-hysteresis.md
+
+## **0. Orientation: Why Hysteresis Comes Before Memory**
+
+Many systems behave differently now because of what happened before.
+
+In everyday language, this fact is often described as *memory*.
+
+Under Informational Experiential Realism, that description is usually incorrect.
+
+Most systems whose present behavior depends on their past:
+
+* do not store records
+* do not encode representations
+* do not retrieve prior states
+* do not re-experience anything
+
+What they exhibit instead is **hysteresis**.
+
+> **Hysteresis is not remembering the past.
+> It is being shaped by it.**
+
+IER requires this distinction because **memory**, as treated later in the corpus, is an **experiential phenomenon**. Hysteresis is not. But without hysteresis, memory would have no structural substrate on which to operate.
+
+---
+
+## 42. IER-calibration.md
+
+## **0. Orientation: Why Calibration Looks Like Memory**
+
+When a system’s responses change over time in a persistent way, observers naturally reach for cognitive language:
+
+* the system has *learned*
+* it *remembers* past conditions
+* it has *adapted* based on experience
+
+These descriptions feel intuitive because the system’s **future responses depend on its past**.
+
+Under Informational Experiential Realism, this inference is structurally mistaken.
+
+Calibration drift provides a clear case where:
+
+* nothing is stored
+* nothing is represented
+* nothing is recalled
+
+yet the system **cannot respond as it once did**.
+
+> **Orientation signal:**
+> *Nothing is remembered — yet nothing responds as before.*
+
+---
+
+## 43. IER-memory.md
+
+## **1. Orientation: Why Memory Is Persistently Misunderstood**
+
+Memory is one of the most over-reified concepts in theories of mind.
+Across philosophy, psychology, neuroscience, and everyday language, memory is almost universally treated as **storage**:
+
+* information is *kept*
+* representations are *stored*
+* records are *retrieved*
+
+Even frameworks that reject literal storage often retain its structure implicitly, speaking instead of *encoded traces*, *engrams*, or *access paths* to retained content.
+
+Informational Experiential Realism (IER) rejects this entire framing.
+
+The error is not empirical.
+It is **ontological**.
+
+Under IER, there is nothing whose role is to *contain* past experience. There are only physical systems operating under intrinsic constraint, some of which sustain **Unified Experiential Fields (UEFs)**. Memory must therefore be explained **without** positing stored experiential objects.
+
+---
+
+## 44. IER-forgetting.md
+
+## **1. Orientation: Why Forgetting Is Almost Always Misframed**
+
+Forgetting is nearly always described as a *negative* event:
+
+* loss of information
+* decay of memory
+* erasure of content
+* failure of access
+
+These framings share a hidden assumption:
+that memory is something *kept*, and forgetting is what happens when it is *lost*.
+
+Under Informational Experiential Realism (IER), this assumption is false.
+
+There is nothing to erase.
+
+Forgetting must therefore be explained **without invoking loss**, decay, or deletion.
+
+---
+
+## 45. IER-participation.md
+
+## **1. Orientation: Why Mental Categories Multiply Unnecessarily**
+
+Ordinary and scientific discourse partitions mental life into many purported faculties:
+
+* memory
+* imagination
+* reflection
+* metacognition
+* planning
+* rumination
+
+These are commonly treated as distinct mechanisms, modules, or levels. Under Informational Experiential Realism (IER), this proliferation is structurally suspect.
+
+IER identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous regime operating under intrinsic constraint. Once such a regime exists, there is no room for additional experiential subsystems, observers, or meta-levels.
+
+Any account that multiplies faculties must therefore answer a prior question:
+
+> **How can a single regime give rise to many apparently different cognitive modes without fragmenting subjecthood?**
+
+IER’s answer is structural, not taxonomic.
+
+---
+
+## 46. IER-architecture.md
+
+## **0. Orientation: Why Mental Architecture Must Be Rewritten**
+
+Most contemporary models of mind implicitly rely on architectural metaphors inherited from computation:
+
+* memory as storage
+* cognition as module invocation
+* control as arbitration
+* reflection as meta-level observation
+
+These metaphors presume that cognition consists in **operations over representations** housed in separable components.
+
+Under Informational Experiential Realism (IER), this framing fails at a structural level.
+
+IER identifies experience with the operation of a **Unified Experiential Field (UEF)**: a single, globally dominant, intrinsically constrained physical regime. Once such a regime exists, there is:
+
+* no room for parallel experiential subsystems
+* no dormant experiential stores
+* no meta-observers standing outside experience
+
+Any viable architecture must therefore explain how **many cognitive modes** arise **within one regime**, without multiplying subjects, observers, or experiential instantiations.
+
+This document provides that architecture.
+
+---
+
+## 47. IER-aphantasia.md
+
+## **Abstract**
+
+This article describes a stable experiential architecture characterized by the absence of voluntary sensory imagery, selectively deployed inner speech, strictly single-channel experiential dominance, and emotionally rich but indirectly accessed affective structure. Emotional content typically enters experience through interoceptive signals, symbolic mediation, or delayed conceptual integration rather than immediate perceptual feeling.
+
+Under Informational Experiential Realism (IER), this organization is interpreted as a **coherent Unified Experiential Field (UEF)** whose architecture **excludes imagistic buffering and parallel experiential participation pathways**. Because perceptual simulation and concurrent experiential streams are unavailable to waking participation, intrinsic constraint must stabilize through alternative organizational routes. One such route—examined separately—is the emergence of *brainfeels* as **endogenous qualitative stabilizers**.
+
+This architecture illustrates how phenomenological diversity arises from **differences in constraint organization**, not from differences in experiential standing.
+
+---
+
+## 48. IER-phantasia.md
+
+## **Abstract**
+
+This article offers a **speculative illustration** of a mental architecture that appears common among humans: one in which **imagistic reproduction—especially visual imagery—serves as a primary scaffold for cognition, memory, imagination, and planning**.
+
+Under Informational Experiential Realism (IER), this organization is interpreted not as a richer or more complete form of experience, but as **one stable way of resolving intrinsic constraint** within a single Unified Experiential Field (UEF). Visual and multimodal imagery function here as a **high-bandwidth topology-reproduction substrate**, enabling rapid relational organization, emotional coupling, and future simulation.
+
+This architecture is presented solely as a **contrast case** to non-imagistic organizations (such as those described in the companion aphantasia illustration), demonstrating how phenomenological diversity arises from **differences in constraint organization**, not from differences in experiential standing.
+
+---
+
+## 49. IER-spicy-combo.md
+
+## **1. Orientation: Why ADHD + Anxiety Is Structurally Misread**
+
+ADHD and anxiety are commonly described as:
+
+* independent conditions
+* co-morbid traits
+* additive impairments
+
+Under Informational Experiential Realism (IER), this framing is structurally incorrect.
+
+IER does not treat cognitive styles as modular deficits.
+It treats them as **stable regimes of constraint management**.
+
+When ADHD and anxiety co-occur, the result is not two problems layered together, but **one unstable geometry** produced by **incompatible regulation strategies operating simultaneously**.
+
+---
+
+## 50. IER-resolution.md
 
 ## **Abstract**
 
@@ -725,7 +962,7 @@ Physical systems routinely undergo transitions in which multiple futures are phy
 
 ---
 
-## 40. IER-agency.md
+## 51. IER-agency.md
 
 ## **Abstract**
 
@@ -737,7 +974,7 @@ This document explains agency as **owned resolution of intrinsic constraint** op
 
 ---
 
-## 41. IER-choice.md
+## 52. IER-choice.md
 
 ## **Abstract**
 
@@ -751,7 +988,7 @@ This document explains the Choice Space, its interpretive graph representation, 
 
 ---
 
-## 42. IER-free-will.md
+## 53. IER-free-will.md
 
 ## **Abstract**
 
@@ -763,7 +1000,7 @@ This document explains why indeterminism is neither necessary nor sufficient for
 
 ---
 
-## 43. IER-constraint.md
+## 54. IER-constraint.md
 
 ## 1. Constraint as the Central Ethical Form
 
@@ -788,7 +1025,7 @@ This document explains that constraint-based role.
 
 ---
 
-## 44. IER-morals.md
+## 55. IER-morals.md
 
 ## **1. Why a “Morals” Document Is Needed**
 
@@ -817,7 +1054,7 @@ Those separations feel counterintuitive until they are **worked through concrete
 
 ---
 
-## 45. IER-guilt.md
+## 56. IER-guilt.md
 
 ## 0. Orientation and scope
 
@@ -850,7 +1087,7 @@ The task here is explanatory: to show how **guilt can be structurally inevitable
 
 ---
 
-## 46. IER-dilemmas.md
+## 57. IER-dilemmas.md
 
 ## **Status and Scope**
 
@@ -870,7 +1107,7 @@ If any interpretation here conflicts with the Specification, the Specification t
 
 ---
 
-## 47. IER-duty.md
+## 58. IER-duty.md
 
 ## **Status and Scope**
 
@@ -892,146 +1129,7 @@ The purpose of this document is clarificatory:
 
 ---
 
-## 48. IER-participation.md
-
-## **1. Orientation: Why Mental Categories Multiply Unnecessarily**
-
-Ordinary and scientific discourse partitions mental life into many purported faculties:
-
-* memory
-* imagination
-* reflection
-* metacognition
-* planning
-* rumination
-
-These are commonly treated as distinct mechanisms, modules, or levels. Under Informational Experiential Realism (IER), this proliferation is structurally suspect.
-
-IER identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous regime operating under intrinsic constraint. Once such a regime exists, there is no room for additional experiential subsystems, observers, or meta-levels.
-
-Any account that multiplies faculties must therefore answer a prior question:
-
-> **How can a single regime give rise to many apparently different cognitive modes without fragmenting subjecthood?**
-
-IER’s answer is structural, not taxonomic.
-
----
-
-## 49. IER-memory.md
-
-## **1. Orientation: Why Memory Is Persistently Misunderstood**
-
-Memory is one of the most over-reified concepts in theories of mind.
-Across philosophy, psychology, neuroscience, and everyday language, memory is almost universally treated as **storage**:
-
-* information is *kept*
-* representations are *stored*
-* records are *retrieved*
-
-Even frameworks that reject literal storage often retain its structure implicitly, speaking instead of *encoded traces*, *engrams*, or *access paths* to retained content.
-
-Informational Experiential Realism (IER) rejects this entire framing.
-
-The error is not empirical.
-It is **ontological**.
-
-Under IER, there is nothing whose role is to *contain* past experience. There are only physical systems operating under intrinsic constraint, some of which sustain **Unified Experiential Fields (UEFs)**. Memory must therefore be explained **without** positing stored experiential objects.
-
----
-
-## 50. IER-forgetting.md
-
-## **1. Orientation: Why Forgetting Is Almost Always Misframed**
-
-Forgetting is nearly always described as a *negative* event:
-
-* loss of information
-* decay of memory
-* erasure of content
-* failure of access
-
-These framings share a hidden assumption:
-that memory is something *kept*, and forgetting is what happens when it is *lost*.
-
-Under Informational Experiential Realism (IER), this assumption is false.
-
-There is nothing to erase.
-
-Forgetting must therefore be explained **without invoking loss**, decay, or deletion.
-
----
-
-## 51. IER-aphantasia.md
-
-## **Abstract**
-
-This article describes a stable experiential architecture characterized by the absence of voluntary sensory imagery, selectively deployed inner speech, strictly single-channel experiential dominance, and emotionally rich but indirectly accessed affective structure. Emotional content typically enters experience through interoceptive signals, symbolic mediation, or delayed conceptual integration rather than immediate perceptual feeling.
-
-Under Informational Experiential Realism (IER), this organization is interpreted as a **coherent Unified Experiential Field (UEF)** whose architecture **excludes imagistic buffering and parallel experiential participation pathways**. Because perceptual simulation and concurrent experiential streams are unavailable to waking participation, intrinsic constraint must stabilize through alternative organizational routes. One such route—examined separately—is the emergence of *brainfeels* as **endogenous qualitative stabilizers**.
-
-This architecture illustrates how phenomenological diversity arises from **differences in constraint organization**, not from differences in experiential standing.
-
----
-
-## 52. IER-phantasia.md
-
-## **Abstract**
-
-This article offers a **speculative illustration** of a mental architecture that appears common among humans: one in which **imagistic reproduction—especially visual imagery—serves as a primary scaffold for cognition, memory, imagination, and planning**.
-
-Under Informational Experiential Realism (IER), this organization is interpreted not as a richer or more complete form of experience, but as **one stable way of resolving intrinsic constraint** within a single Unified Experiential Field (UEF). Visual and multimodal imagery function here as a **high-bandwidth topology-reproduction substrate**, enabling rapid relational organization, emotional coupling, and future simulation.
-
-This architecture is presented solely as a **contrast case** to non-imagistic organizations (such as those described in the companion aphantasia illustration), demonstrating how phenomenological diversity arises from **differences in constraint organization**, not from differences in experiential standing.
-
----
-
-## 53. IER-architecture.md
-
-## **0. Orientation: Why Mental Architecture Must Be Rewritten**
-
-Most contemporary models of mind implicitly rely on architectural metaphors inherited from computation:
-
-* memory as storage
-* cognition as module invocation
-* control as arbitration
-* reflection as meta-level observation
-
-These metaphors presume that cognition consists in **operations over representations** housed in separable components.
-
-Under Informational Experiential Realism (IER), this framing fails at a structural level.
-
-IER identifies experience with the operation of a **Unified Experiential Field (UEF)**: a single, globally dominant, intrinsically constrained physical regime. Once such a regime exists, there is:
-
-* no room for parallel experiential subsystems
-* no dormant experiential stores
-* no meta-observers standing outside experience
-
-Any viable architecture must therefore explain how **many cognitive modes** arise **within one regime**, without multiplying subjects, observers, or experiential instantiations.
-
-This document provides that architecture.
-
----
-
-## 54. IER-spicy-combo.md
-
-## **1. Orientation: Why ADHD + Anxiety Is Structurally Misread**
-
-ADHD and anxiety are commonly described as:
-
-* independent conditions
-* co-morbid traits
-* additive impairments
-
-Under Informational Experiential Realism (IER), this framing is structurally incorrect.
-
-IER does not treat cognitive styles as modular deficits.
-It treats them as **stable regimes of constraint management**.
-
-When ADHD and anxiety co-occur, the result is not two problems layered together, but **one unstable geometry** produced by **incompatible regulation strategies operating simultaneously**.
-
----
-
-## 55. IER-helmets.md
+## 59. IER-helmets.md
 
 ## **Abstract**
 
@@ -1043,7 +1141,7 @@ The helmet case serves as the *external-interface boundary condition* in a seque
 
 ---
 
-## 56. IER-gut.md
+## 60. IER-gut.md
 
 ## Abstract
 
@@ -1058,7 +1156,7 @@ But it matters by **participation**, not by **subjecthood**.
 
 ---
 
-## 57. IER-implants.md
+## 61. IER-implants.md
 
 ## **Abstract**
 
@@ -1074,7 +1172,7 @@ They enable **participation without fusion**.
 
 ---
 
-## 58. IER-relationships.md
+## 62. IER-relationships.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1099,7 +1197,7 @@ This document serves as the **foundational map and index** for the *Relational a
 
 ---
 
-## 59. IER-love.md
+## 63. IER-love.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1125,7 +1223,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 60. IER-friendship.md
+## 64. IER-friendship.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1150,7 +1248,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 61. IER-family.md
+## 65. IER-family.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1175,7 +1273,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 62. IER-caregiving.md
+## 66. IER-caregiving.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1200,7 +1298,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 63. IER-groups.md
+## 67. IER-groups.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1225,7 +1323,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 64. IER-social-systems.md
+## 68. IER-social-systems.md
 
 ### **Purpose and Orientation**
 
@@ -1244,7 +1342,7 @@ The constraints described here are **structural**, not punitive, and are intende
 
 ---
 
-## 65. IER-traditions.md
+## 69. IER-traditions.md
 
 ## **Purpose and Orientation**
 
@@ -1269,7 +1367,7 @@ No claims are made about truth, salvation, revelation, or correctness.
 
 ---
 
-## 66. IER-corporations.md
+## 70. IER-corporations.md
 
 ### **1.1 What This Article Does**
 
@@ -1289,7 +1387,7 @@ The argument is **ontological and structural**, not empirical. It does not depen
 
 ---
 
-## 67. IER-disclaimers.md
+## 71. IER-disclaimers.md
 
 ## **1. Purpose**
 
@@ -1316,7 +1414,7 @@ Where an interpretation conflicts with the constraints below, **the interpretati
 
 ---
 
-## 68. IER-diagnostics.md
+## 72. IER-diagnostics.md
 
 ## **Abstract**
 
@@ -1330,7 +1428,7 @@ Combined with **structural privacy**, this entails a specific form of non-diagno
 
 ---
 
-## 69. IER-rubric.md
+## 73. IER-rubric.md
 
 ## **1. Why a New Rubric Is Needed**
 
@@ -1355,7 +1453,7 @@ This document exists to separate **theoretical adequacy** from **epistemic conve
 
 ---
 
-## 70. IER-denials.md
+## 74. IER-denials.md
 
 ## **Why a Denials Document Is Necessary**
 
@@ -1372,7 +1470,7 @@ What follows is a representative, high-coverage list of **explicit non-claims**.
 
 ---
 
-## 71. IER-a-priori.md
+## 75. IER-a-priori.md
 
 ## **Purpose**
 
@@ -1401,7 +1499,7 @@ It clarifies **how they are evaluated and why that evaluation is unusually fraug
 
 ---
 
-## 72. IER-contrast.md
+## 76. IER-contrast.md
 
 Informational Experiential Realism (IER v10.8) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
 
@@ -1409,7 +1507,7 @@ This identity claim entails commitments that sharply distinguish IER from many n
 
 ---
 
-## 73. IER-critics.md
+## 77. IER-critics.md
 
 ## **Purpose**
 
@@ -1429,7 +1527,34 @@ The central critical question is therefore:
 
 ---
 
-## 74. IER-intro.md
+## 78. IER-reading-paths.md
+
+## **How IER Is Meant to Be Read**
+
+IER is **not meant to be read linearly** and **not meant to be read in full** by most readers.
+
+There is:
+
+* no “complete” reader
+* no expected coverage
+* no privileged path
+* no hidden test of understanding
+
+IER is a **modular corpus** designed to support **many legitimate modes of engagement** without distortion or authority creep.
+
+### General Guidance
+
+* Start with a **Level-1 path**.
+* If desired, choose **one** Level-2 specialization.
+* Everything in Level-3 is **optional, modular, and interest-driven**.
+
+Stopping early is allowed.  
+Stopping permanently is allowed.  
+Returning selectively is allowed.
+
+---
+
+## 79. IER-intro.md
 
 ## Orientation
 
@@ -1443,7 +1568,7 @@ If any tension appears, those documents take precedence.
 
 ---
 
-## 75. IER-precis.md
+## 80. IER-precis.md
 
 ## 1. Orientation
 
@@ -1453,7 +1578,7 @@ IER is strict not by preference, but by consequence. The identity claim it advan
 
 ---
 
-## 76. IER-history.md
+## 81. IER-history.md
 
 ## **1. Purpose and Scope**
 
@@ -1471,7 +1596,7 @@ This is not a survey of all theories of consciousness, nor a claim of intellectu
 
 ---
 
-## 77. IER-futures.md
+## 82. IER-futures.md
 
 ## **Abstract**
 
@@ -1487,7 +1612,7 @@ The comparison illustrates that **IER constrains moral reality but does not dete
 
 ---
 
-## 78. IER-dont-panic.md
+## 83. IER-dont-panic.md
 
 ## **Why This Document Exists**
 
@@ -1515,7 +1640,7 @@ This document exists to say, clearly and explicitly:
 
 ---
 
-## 79. IER-strictness.md
+## 84. IER-strictness.md
 
 *A Reader-Facing Primer*
 
@@ -1532,7 +1657,7 @@ Its purpose is orientation, not enforcement.
 
 ---
 
-## 80. IER-idealism.md
+## 85. IER-idealism.md
 
 ## **Purpose**
 
@@ -1549,7 +1674,7 @@ This document exists to manage **interpretive pressure**, not to adjudicate meta
 
 ---
 
-## 81. IER-triangles.md
+## 86. IER-triangles.md
 
 ## **1. Why the Triangle Question Matters**
 
@@ -1565,7 +1690,7 @@ This article is written in the spirit of engagement rather than refutation. Info
 
 ---
 
-## 82. IER-magic-number.md
+## 87. IER-magic-number.md
 
 ## 0. Status and Scope
 
@@ -1579,7 +1704,7 @@ No familiarity with the song is required. The analysis is **structural rather th
 
 ---
 
-## 83. IER-equilibrium.md
+## 88. IER-equilibrium.md
 
 ## **1. Why the Question Is Not Straightforward**
 
@@ -1591,7 +1716,7 @@ The difficulty is that *information system* names a **descriptive role**, while 
 
 ---
 
-## 84. IER-FAQ.md
+## 89. IER-FAQ.md
 
 ## **Status and Purpose**
 
@@ -1612,7 +1737,7 @@ Where this FAQ discusses morality, it refers **only to experiential moral harm a
 
 ---
 
-## 85. IER-glossary.md
+## 90. IER-glossary.md
 
 ## **Status and Scope**
 
@@ -1631,7 +1756,7 @@ This glossary explains **how terms are used in IER**, not how they are used else
 
 ---
 
-## 86. IER-index.md
+## 91. IER-index.md
 
 ## **Status and Scope**
 
@@ -1655,7 +1780,7 @@ If a reference here appears inconsistent with a Tier-1 document, the Tier-1 docu
 
 ---
 
-## 87. README.md
+## 92. README.md
 
 ## What This Is
 
@@ -1680,7 +1805,7 @@ It is a theory of:
 
 ---
 
-## 88. IER-canon.md
+## 93. IER-canon.md
 
 ## **Status and Purpose**
 
@@ -1692,7 +1817,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 ---
 
-## 89. IER-manifest.md
+## 94. IER-manifest.md
 
 ## **Status and Function**
 
@@ -1712,7 +1837,7 @@ It does **not** define authority, governance rules, interpretive constraints, or
 
 ---
 
-## 90. IER-changelog.md
+## 95. IER-changelog.md
 
 ## **Informational Experiential Realism — Version History**
 

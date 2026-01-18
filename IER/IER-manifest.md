@@ -208,19 +208,20 @@ These documents are:
 * **non-governing**
 * rendered as **Book Part III**
 
-78. **[T4] `IER-intro.md`** — Where constraint and resolution live  
-79. **[T4] `IER-precis.md`** — Concise compression of IER’s core commitments
-80. **[T4] `IER-history.md`** — Historical dependencies and preconditions  
-81. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty  
-82. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification  
-83. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict  
-84. **[T4] `IER-idealism.md`** — Analytic idealism: shared diagnoses and decisive divergence
-85. **[T4] `IER-triangles.md`** — Dreamed geometry and structural isomorphism without representation  
-86. **[T4] `IER-magic-number.md`** — Cultural pressure on experiential unity, continuity, and irreducibility
-87. **[T4] `IER-equilibrium.md`** — What is it like to be an information system?
-88. **[T4] `IER-FAQ.md`** — Reader-facing clarifications  
-89. **[T4] `IER-glossary.md`** — Canon-constrained terminology  
-90. **[T4] `IER-index.md`** — Concept-to-document navigation
+78. **[T4] `IER-reading-paths.md`** — Suggested reading paths organized by IER topic  
+79. **[T4] `IER-intro.md`** — Where constraint and resolution live  
+80. **[T4] `IER-precis.md`** — Concise compression of IER’s core commitments
+81. **[T4] `IER-history.md`** — Historical dependencies and preconditions  
+82. **[T4] `IER-futures.md`** — Cultural equilibria under experiential uncertainty  
+83. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification  
+84. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict  
+85. **[T4] `IER-idealism.md`** — Analytic idealism: shared diagnoses and decisive divergence
+86. **[T4] `IER-triangles.md`** — Dreamed geometry and structural isomorphism without representation  
+87. **[T4] `IER-magic-number.md`** — Cultural pressure on experiential unity, continuity, and irreducibility
+88. **[T4] `IER-equilibrium.md`** — What is it like to be an information system?
+89. **[T4] `IER-FAQ.md`** — Reader-facing clarifications  
+90. **[T4] `IER-glossary.md`** — Canon-constrained terminology  
+91. **[T4] `IER-index.md`** — Concept-to-document navigation
 
 > **These documents constitute the complete reader-facing orientation layer of IER and correspond exactly to Book Part III.**
 
@@ -232,20 +233,20 @@ These documents are **in-corpus** and **canon-governed**, but are **not book cha
 
 They define **authority, structure, process, and navigation**, not theory.
 
-91. **`README.md`** — Repository front-door orientation
-92. **`IER-canon.md`** — Canonical authority, alignment rules, and governance
-93. **`IER-manifest.md`** — Corpus inventory and flat ordering
-94. **`IER-changelog.md`** — Version history and structural changes
+92. **`README.md`** — Repository front-door orientation
+93. **`IER-canon.md`** — Canonical authority, alignment rules, and governance
+94. **`IER-manifest.md`** — Corpus inventory and flat ordering
+95. **`IER-changelog.md`** — Version history and structural changes
 
 ### **Governance Subdirectory (Canon-Governed Infrastructure)**
 
 These files govern **how IER is built, published, interpreted, and read**, but introduce **no theoretical or ethical content**.
 
-95. **`governance/IER-build.md`** — Mechanical assembly and verification
-96. **`governance/IER-deployment.md`** — Release order and authority anchoring
-97. **`governance/IER-legal.md`** — Legal context for AI-assisted authorship
-98. **`governance/IER-publishing.md`** — Book rendering and physical instantiation
-99. **`governance/IER-readers.md`** — Audience analysis and reading patterns
+96. **`governance/IER-build.md`** — Mechanical assembly and verification
+97. **`governance/IER-deployment.md`** — Release order and authority anchoring
+98. **`governance/IER-legal.md`** — Legal context for AI-assisted authorship
+99. **`governance/IER-publishing.md`** — Book rendering and physical instantiation
+100. **`governance/IER-readers.md`** — Audience analysis and reading patterns
 
 > These files are **canon-constrained** but **non-authoritative**: they regulate process, not claims.
 
@@ -256,10 +257,10 @@ These files govern **how IER is built, published, interpreted, and read**, but i
 These materials are **in-corpus** but **non-canonical** and **non-reader-facing**.
 They exist solely to support **publication, assembly, and derivative formatting**.
 
-100. **`IER-paper-spec.md`** — Specification for academic paper derivation
-101. **`IER-corpus-book.md`** — Full-corpus book assembly instructions
-102. **`IER-foundations-book.md`** — Foundations-only book assembly
-103. **`IER-tldr-book.md`** — TLDR book assembly
+101. **`IER-paper-spec.md`** — Specification for academic paper derivation
+102. **`IER-corpus-book.md`** — Full-corpus book assembly instructions
+103. **`IER-foundations-book.md`** — Foundations-only book assembly
+104. **`IER-tldr-book.md`** — TLDR book assembly
 
 > Nothing in Part V may be cited for theoretical, ethical, or diagnostic authority.
 
@@ -270,24 +271,24 @@ They exist solely to support **publication, assembly, and derivative formatting*
 Part VI contains **externally consumable works** derived from the IER corpus.
 They are **governed by canon**, but **do not contribute to canonical authority**.
 
-104. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
+105. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
 
 ### **Selection Files (Reader-Scoped Subsets)**
 
 These files declare **which canonical chapters** appear in the publications
 
-105. **`IER-corpus-selection.md`** — Selected corpus chapters
-106. **`IER-foundations-selection.md`** — Foundations-only selection
-107. **`IER-tldr-selection.md`** — TLDR reader selection
+106. **`IER-corpus-selection.md`** — Selected corpus chapters
+107. **`IER-foundations-selection.md`** — Foundations-only selection
+108. **`IER-tldr-selection.md`** — TLDR reader selection
 
 ### **Scaffold Directories**
 
 These directories contain **publication-only** Markdown and TeX files.
 
-108. **`tex/`** — Build-layer LaTeX scaffolding
-109. **`corpus-book/`** — Front matter and disclaimers, etc
-110. **`foundations-book/`** — Foreword, etc
-111. **`tldr-book/`** — Selected corpus articles
+109. **`tex/`** — Build-layer LaTeX scaffolding
+110. **`corpus-book/`** — Front matter and disclaimers, etc
+111. **`foundations-book/`** — Foreword, etc
+112. **`tldr-book/`** — Selected corpus articles
 
 ---
 
