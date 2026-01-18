@@ -1,16 +1,16 @@
-# **IER-Rubric.md**
+# **IER-rubric.md**
 
 ## **Evaluating Theories of Experience Without Smuggling Assumptions**
 
-**Informational Experiential Realism (IER v10.8.2)**
-**Tier:** T4 — Methodological Orientation
-**Status:** Non-Normative
+**Informational Experiential Realism (IER v10.8.3)**  
+**Tier:** 3 — Evaluation Misuse Containment  
+**Status:** Non-normative, constraint-enforcing  
 
 ---
 
 ## **Status and Scope**
 
-This document establishes a **method for evaluating theories of experience** that is compatible with **identity theories**, including but not limited to **Informational Experiential Realism (IER)**.
+This document establishes **constraints on how theories of experience may be evaluated**, compatible with identity theories, including but not limited to Informational Experiential Realism (IER).
 
 It:
 
@@ -347,9 +347,9 @@ It mis-evaluates it.
 
 ### **Appendix A — Application of the IER Evaluation Method to Informational Experiential Realism (Updated)**
 
-**Status:** Method Application
-**Tier:** T4 — Orientation / Methodological Transparency
-**Normativity:** None
+**Status:** Method Illustration  
+**Tier:** T4 — Orientation / Methodological Transparency  
+**Normativity:** None  
 
 **Purpose:**
 To demonstrate how **Informational Experiential Realism (IER)** is evaluated **under the current IER evaluation rubric**, and to show how identity-based theories can satisfy methodological demands **without conceding epistemic or diagnostic criteria**.

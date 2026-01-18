@@ -2,16 +2,17 @@
 
 ## **What Informational Experiential Realism Explicitly Denies**
 
-### *A Boundary Statement on Non-Claims, Misinterpretations, and Prohibited Inferences*
+### *A Tier-3 Boundary Statement on Non-Claims, Misinterpretations, and Prohibited Inferences*
 
-**Informational Experiential Realism (IER v10.8.3)**
-*Derived Clarification Document — Non-Normative*
+**Informational Experiential Realism (IER v10.8.3)**  
+**Tier:** 3 — Misuse & Misreading Containment  
+**Status:** Non-normative, constraint-enforcing  
 
 ---
 
 ## **Status and Scope**
 
-This document is **explanatory** and **non-normative**.
+This document is **non-normative** and **constraint-enforcing**.
 
 All axioms, definitions, identity conditions, and necessary entailments of Informational Experiential Realism (IER) are fixed exclusively in the
 **IER Normative Specification** (“the Spec”).

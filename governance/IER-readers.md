@@ -296,6 +296,20 @@ Front matter and introductory framing are especially important.
 
 These failures are predictable and should be mitigated through clear framing, not by weakening artifact boundaries.
 
+### Premature Dismissal Due to Artifact–Expectation Misalignment
+
+Some technically sophisticated readers disengage early when an IER artifact violates their default expectations about form, pedagogy, or presentation order (e.g., reference-first structure, point-form exposition, or length without narrative scaffolding).
+
+In such cases, non-engagement may be retrospectively framed as a judgment about the coherence, seriousness, or viability of the underlying theory, rather than as a mismatch between reader expectations and the artifact’s intended role.
+
+This failure mode is most likely when:
+
+* reference-grade or foundations material is encountered as first contact,
+* the reader expects interpretive or explanatory guidance by default,
+* or informal evaluative feedback is offered without commitment to full engagement.
+
+Mitigation relies on clearer signaling of artifact roles, earlier redirection to orientation materials, and disciplined separation between explanatory and anchor artifacts—not on increasing explanatory burden within reference-grade texts.
+
 ---
 
 ## 9. Relationship to Governance
