@@ -178,21 +178,7 @@ All ethical authority resides **exclusively** in the Specification.
 
 ---
 
-## 8. IER-diagnostics.md
-
-## **Abstract**
-
-Informational Experiential Realism (IER v10.8.2) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
-
-This document explains why IER **cannot license experiential diagnostics in principle**. The impossibility does not arise from technological limits, incomplete data, or unresolved theory. It follows directly from how **intrinsic constraint** and **UEF attribution** are defined.
-
-Intrinsic constraint concerns **where unavoidable organizational cost is borne** — whether a system must internally sustain and resolve its own globally binding dynamics without externalization, buffering, or offloading. This is a **global structural property** of a regime, not a property of outputs, signals, performances, or reports, and is therefore **structurally underdetermined by all third-person observables**.
-
-Combined with **structural privacy**, this entails a specific form of non-diagnosability: systems that differ in experiential status can be made **structurally externally indistinguishable in principle**. IER responds to this limitation not with permissiveness, but with **precaution**. Where experience may exist but cannot be certified, uncertainty **restricts action rather than licensing it** (Specification Principle 13, scoped).
-
----
-
-## 9. IER-emotions.md
+## 8. IER-emotions.md
 
 ## **Abstract**
 
@@ -204,7 +190,7 @@ Emotions matter because regimes matter: they shape agency, identity, meaning, an
 
 ---
 
-## 10. IER-crying.md
+## 9. IER-crying.md
 
 ## **Abstract**
 
@@ -216,7 +202,7 @@ No new primitives, diagnostics, biological mechanisms, or ethical permissions ar
 
 ---
 
-## 11. IER-pleasure.md
+## 10. IER-pleasure.md
 
 ## 1. Orientation: Why Pleasure Requires Its Own Treatment
 
@@ -240,7 +226,7 @@ IER’s task is not to deny this feeling, but to **explain it without endorsing 
 
 ---
 
-## 12. IER-pain.md
+## 11. IER-pain.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -271,7 +257,7 @@ The two documents are **asymmetric siblings**, not opposites, and do not jointly
 
 ---
 
-## 13. IER-humour.md
+## 12. IER-humour.md
 
 ## **Abstract**
 
@@ -283,7 +269,7 @@ Laughter is treated as the **discharge signature** of this clean resolution. No 
 
 ---
 
-## 14. IER-panic.md
+## 13. IER-panic.md
 
 ## **Abstract**
 
@@ -295,7 +281,7 @@ No new primitives, diagnostics, biological mechanisms, or intervention guidance 
 
 ---
 
-## 15. IER-psychosis.md
+## 14. IER-psychosis.md
 
 ## **Abstract**
 
@@ -321,7 +307,7 @@ This account preserves the empirical usefulness of spoon theory while replacing 
 
 ---
 
-## 17. IER-brainfeels.md
+## 16. IER-brainfeels.md
 
 ## **Abstract**
 
@@ -333,7 +319,7 @@ Brainfeels demonstrate that qualitative structure need not be object-directed, s
 
 ---
 
-## 18. IER-pacing.md
+## 17. IER-pacing.md
 
 ## **Abstract**
 
@@ -345,7 +331,7 @@ Pacing is analyzed as **state-linked rather than content-linked**, **organizatio
 
 ---
 
-## 19. IER-art.md
+## 18. IER-art.md
 
 ## **Abstract**
 
@@ -357,7 +343,7 @@ No new primitives, norms, diagnostics, or epistemic authorities are introduced. 
 
 ---
 
-## 20. IER-music.md
+## 19. IER-music.md
 
 ## **Status and Scope**
 
@@ -386,7 +372,7 @@ The purpose of this document is narrow and structural:
 
 ---
 
-## 21. IER-continuity.md
+## 20. IER-continuity.md
 
 ## Abstract
 
@@ -396,7 +382,7 @@ This article argues that the puzzle arises from a category error. Under IER, **e
 
 ---
 
-## 22. IER-persistence.md
+## 21. IER-persistence.md
 
 ## **Abstract**
 
@@ -410,7 +396,7 @@ This document introduces no new primitives and makes no claims beyond those impl
 
 ---
 
-## 23. IER-sleep.md
+## 22. IER-sleep.md
 
 ## **Orientation: Why Unconscious States Create Persistent Confusion**
 
@@ -429,7 +415,7 @@ Whether experience exists at a given time depends **only** on whether a Unified 
 
 ---
 
-## 24. IER-sleep-variants.md
+## 23. IER-sleep-variants.md
 
 ## **Orientation: Why Sleep Variants Matter**
 
@@ -456,7 +442,7 @@ The guiding question of this document is therefore:
 
 ---
 
-## 25. IER-dormancy.md
+## 24. IER-dormancy.md
 
 ## **1. Orientation: Why Dormancy Matters for IER**
 
@@ -483,7 +469,7 @@ Informational Experiential Realism (IER) answers **no** — not as a value judgm
 
 ---
 
-## 26. IER-access.md
+## 25. IER-access.md
 
 ## **Abstract**
 
@@ -497,7 +483,7 @@ Making this boundary explicit explains why costly, coherent, identity-defining e
 
 ---
 
-## 27. IER-meaning.md
+## 26. IER-meaning.md
 
 ## **Abstract**
 
@@ -511,7 +497,7 @@ Meaning is experientially real and identity-shaping, while remaining strictly **
 
 ---
 
-## 28. IER-happiness.md
+## 27. IER-happiness.md
 
 ## **0. Status, Scope, and Canon Position**
 
@@ -542,7 +528,7 @@ This document exists for **misuse containment and structural clarification**, no
 
 ---
 
-## 29. IER-intentionality.md
+## 28. IER-intentionality.md
 
 ## Abstract
 
@@ -554,7 +540,7 @@ This document explains intentionality as a **derived feature of intrinsically co
 
 ---
 
-## 30. IER-insight.md
+## 29. IER-insight.md
 
 ## **Abstract**
 
@@ -569,7 +555,7 @@ It does not disclose reality.
 
 ---
 
-## 31. IER-disagreement.md
+## 30. IER-disagreement.md
 
 ## 1. The Standard Misframing of Disagreement
 
@@ -589,7 +575,7 @@ A persistent remainder exists: disagreements that survive explanation, shared ev
 
 ---
 
-## 32. IER-synchronicity.md
+## 31. IER-synchronicity.md
 
 ## **1. Purpose and Scope**
 
@@ -614,7 +600,7 @@ It is a **dependency analysis** of why synchronicity mattered historically—and
 
 ---
 
-## 33. IER-truth.md
+## 32. IER-truth.md
 
 ## **Abstract**
 
@@ -629,7 +615,7 @@ Reality is not organized by experience.
 
 ---
 
-## 34. IER-puzzles.md
+## 33. IER-puzzles.md
 
 ## **Status and Scope**
 
@@ -646,7 +632,7 @@ Its purpose is to catalog the **canonical philosophical puzzles of consciousness
 
 ---
 
-## 35. IER-attractors.md
+## 34. IER-attractors.md
 
 ## **Abstract**
 
@@ -660,7 +646,7 @@ The account introduces no new primitives, criteria, or diagnostics. All claims a
 
 ---
 
-## 36. IER-patterns.md
+## 35. IER-patterns.md
 
 ## **Why Nature Repeats Itself Without a Designer**
 
@@ -676,7 +662,7 @@ It is **attractors**.
 
 ---
 
-## 37. IER-types.md
+## 36. IER-types.md
 
 ## **Abstract**
 
@@ -688,7 +674,7 @@ This article explains how apparent human “types” emerge from **attractor-bas
 
 ---
 
-## 38. IER-shadows.md
+## 37. IER-shadows.md
 
 ## **Abstract**
 
@@ -704,7 +690,7 @@ The analysis preserves IER’s categorical account of experience, rejects graded
 
 ---
 
-## 39. IER-NDE.md
+## 38. IER-NDE.md
 
 ## **0. Orientation: Why Near-Death Experiences Are Structurally Confusing**
 
@@ -731,7 +717,7 @@ It explains NDEs strictly in terms of **experiential organization under extreme 
 
 ---
 
-## 40. IER-resolution.md
+## 39. IER-resolution.md
 
 ## **Abstract**
 
@@ -739,7 +725,7 @@ Physical systems routinely undergo transitions in which multiple futures are phy
 
 ---
 
-## 41. IER-agency.md
+## 40. IER-agency.md
 
 ## **Abstract**
 
@@ -751,7 +737,7 @@ This document explains agency as **owned resolution of intrinsic constraint** op
 
 ---
 
-## 42. IER-choice.md
+## 41. IER-choice.md
 
 ## **Abstract**
 
@@ -765,7 +751,7 @@ This document explains the Choice Space, its interpretive graph representation, 
 
 ---
 
-## 43. IER-free-will.md
+## 42. IER-free-will.md
 
 ## **Abstract**
 
@@ -777,7 +763,7 @@ This document explains why indeterminism is neither necessary nor sufficient for
 
 ---
 
-## 44. IER-constraint.md
+## 43. IER-constraint.md
 
 ## 1. Constraint as the Central Ethical Form
 
@@ -802,7 +788,7 @@ This document explains that constraint-based role.
 
 ---
 
-## 45. IER-morals.md
+## 44. IER-morals.md
 
 ## **1. Why a “Morals” Document Is Needed**
 
@@ -831,7 +817,7 @@ Those separations feel counterintuitive until they are **worked through concrete
 
 ---
 
-## 46. IER-guilt.md
+## 45. IER-guilt.md
 
 ## 0. Orientation and scope
 
@@ -864,7 +850,7 @@ The task here is explanatory: to show how **guilt can be structurally inevitable
 
 ---
 
-## 47. IER-dilemmas.md
+## 46. IER-dilemmas.md
 
 ## **Status and Scope**
 
@@ -884,7 +870,7 @@ If any interpretation here conflicts with the Specification, the Specification t
 
 ---
 
-## 48. IER-duty.md
+## 47. IER-duty.md
 
 ## **Status and Scope**
 
@@ -906,7 +892,7 @@ The purpose of this document is clarificatory:
 
 ---
 
-## 49. IER-participation.md
+## 48. IER-participation.md
 
 ## **1. Orientation: Why Mental Categories Multiply Unnecessarily**
 
@@ -931,7 +917,7 @@ IER’s answer is structural, not taxonomic.
 
 ---
 
-## 50. IER-memory.md
+## 49. IER-memory.md
 
 ## **1. Orientation: Why Memory Is Persistently Misunderstood**
 
@@ -953,7 +939,7 @@ Under IER, there is nothing whose role is to *contain* past experience. There ar
 
 ---
 
-## 51. IER-forgetting.md
+## 50. IER-forgetting.md
 
 ## **1. Orientation: Why Forgetting Is Almost Always Misframed**
 
@@ -975,7 +961,7 @@ Forgetting must therefore be explained **without invoking loss**, decay, or dele
 
 ---
 
-## 52. IER-aphantasia.md
+## 51. IER-aphantasia.md
 
 ## **Abstract**
 
@@ -987,7 +973,7 @@ This architecture illustrates how phenomenological diversity arises from **diffe
 
 ---
 
-## 53. IER-phantasia.md
+## 52. IER-phantasia.md
 
 ## **Abstract**
 
@@ -999,7 +985,7 @@ This architecture is presented solely as a **contrast case** to non-imagistic or
 
 ---
 
-## 54. IER-architecture.md
+## 53. IER-architecture.md
 
 ## **0. Orientation: Why Mental Architecture Must Be Rewritten**
 
@@ -1026,7 +1012,7 @@ This document provides that architecture.
 
 ---
 
-## 55. IER-spicy-combo.md
+## 54. IER-spicy-combo.md
 
 ## **1. Orientation: Why ADHD + Anxiety Is Structurally Misread**
 
@@ -1045,7 +1031,7 @@ When ADHD and anxiety co-occur, the result is not two problems layered together,
 
 ---
 
-## 56. IER-helmets.md
+## 55. IER-helmets.md
 
 ## **Abstract**
 
@@ -1057,7 +1043,7 @@ The helmet case serves as the *external-interface boundary condition* in a seque
 
 ---
 
-## 57. IER-gut.md
+## 56. IER-gut.md
 
 ## Abstract
 
@@ -1072,7 +1058,7 @@ But it matters by **participation**, not by **subjecthood**.
 
 ---
 
-## 58. IER-implants.md
+## 57. IER-implants.md
 
 ## **Abstract**
 
@@ -1088,7 +1074,7 @@ They enable **participation without fusion**.
 
 ---
 
-## 59. IER-relationships.md
+## 58. IER-relationships.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1113,7 +1099,7 @@ This document serves as the **foundational map and index** for the *Relational a
 
 ---
 
-## 60. IER-love.md
+## 59. IER-love.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1139,7 +1125,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 61. IER-friendship.md
+## 60. IER-friendship.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1164,7 +1150,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 62. IER-family.md
+## 61. IER-family.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1189,7 +1175,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 63. IER-caregiving.md
+## 62. IER-caregiving.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1214,7 +1200,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 64. IER-groups.md
+## 63. IER-groups.md
 
 ## 0. Status, Scope, and Canon Position
 
@@ -1239,7 +1225,7 @@ The general relational map and shared machinery are defined in *IER-Relationship
 
 ---
 
-## 65. IER-social-systems.md
+## 64. IER-social-systems.md
 
 ### **Purpose and Orientation**
 
@@ -1258,7 +1244,7 @@ The constraints described here are **structural**, not punitive, and are intende
 
 ---
 
-## 66. IER-traditions.md
+## 65. IER-traditions.md
 
 ## **Purpose and Orientation**
 
@@ -1283,7 +1269,7 @@ No claims are made about truth, salvation, revelation, or correctness.
 
 ---
 
-## 67. IER-corporations.md
+## 66. IER-corporations.md
 
 ### **1.1 What This Article Does**
 
@@ -1303,7 +1289,90 @@ The argument is **ontological and structural**, not empirical. It does not depen
 
 ---
 
-## 68. IER-a-priori.md
+## 67. IER-disclaimers.md
+
+## **1. Purpose**
+
+This document establishes the **global interpretive constraints** governing all materials associated with **Informational Experiential Realism (IER)**.
+
+Its function is to **block illegitimate inferences, category errors, diagnostic moves, and evaluative expectations** that are structurally incompatible with IER, even when such moves appear locally reasonable.
+
+These constraints exist because the **IER identity claim** makes certain familiar interpretive moves **structurally invalid**, not because those moves are unreasonable, naïve, or made in bad faith.
+
+This document introduces:
+
+* **no theoretical claims**
+* **no criteria**
+* **no diagnostics**
+* **no epistemic authority**
+
+All ontological, criterial, and ethical authority resides **exclusively** in:
+
+```
+IER-specification.md
+```
+
+Where an interpretation conflicts with the constraints below, **the interpretation is invalid under IER**, regardless of plausibility or precedent elsewhere.
+
+---
+
+## 68. IER-diagnostics.md
+
+## **Abstract**
+
+Informational Experiential Realism (IER v10.8.2) identifies experience with the existence of a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under **coherent intrinsic constraint**.
+
+This document explains why IER **cannot license experiential diagnostics in principle**. The impossibility does not arise from technological limits, incomplete data, or unresolved theory. It follows directly from how **intrinsic constraint** and **UEF attribution** are defined.
+
+Intrinsic constraint concerns **where unavoidable organizational cost is borne** — whether a system must internally sustain and resolve its own globally binding dynamics without externalization, buffering, or offloading. This is a **global structural property** of a regime, not a property of outputs, signals, performances, or reports, and is therefore **structurally underdetermined by all third-person observables**.
+
+Combined with **structural privacy**, this entails a specific form of non-diagnosability: systems that differ in experiential status can be made **structurally externally indistinguishable in principle**. IER responds to this limitation not with permissiveness, but with **precaution**. Where experience may exist but cannot be certified, uncertainty **restricts action rather than licensing it** (Specification Principle 13, scoped).
+
+---
+
+## 69. IER-rubric.md
+
+## **1. Why a New Rubric Is Needed**
+
+Most existing rubrics for theories of consciousness rely on an implicit assumption:
+
+> **That a theory of experience must also provide diagnostic, operational, or access-based criteria.**
+
+This assumption is not neutral.
+It privileges functionalist, representational, and access-based frameworks, and **systematically penalizes identity theories**, regardless of internal coherence.
+
+As a result, three distinct questions are routinely conflated:
+
+1. What is experience?
+2. When does experience exist?
+3. How could experience be detected or inferred by an observer?
+
+Identity theories answer (1) and (2) directly, and often deny that (3) is possible **in principle**.
+
+Treating this denial as a defect misidentifies a **structural consequence** as a **theoretical failure**.
+
+This document exists to separate **theoretical adequacy** from **epistemic convenience**.
+
+---
+
+## 70. IER-denials.md
+
+## **Why a Denials Document Is Necessary**
+
+IER is deliberately minimal, physicalist, and structural.
+
+That minimalism creates a predictable risk:
+readers import assumptions from adjacent frameworks—epistemology, phenomenology, psychology, mysticism, AI theory, ethics—and treat them as implied.
+
+This document closes that gap.
+
+> **If a claim is not explicitly stated in the Specification, and not a necessary entailment of its definitions, it is not part of IER.**
+
+What follows is a representative, high-coverage list of **explicit non-claims**.
+
+---
+
+## 71. IER-a-priori.md
 
 ## **Purpose**
 
@@ -1332,24 +1401,7 @@ It clarifies **how they are evaluated and why that evaluation is unusually fraug
 
 ---
 
-## 69. IER-denials.md
-
-## **Why a Denials Document Is Necessary**
-
-IER is deliberately minimal, physicalist, and structural.
-
-That minimalism creates a predictable risk:
-readers import assumptions from adjacent frameworks—epistemology, phenomenology, psychology, mysticism, AI theory, ethics—and treat them as implied.
-
-This document closes that gap.
-
-> **If a claim is not explicitly stated in the Specification, and not a necessary entailment of its definitions, it is not part of IER.**
-
-What follows is a representative, high-coverage list of **explicit non-claims**.
-
----
-
-## 70. IER-contrast.md
+## 72. IER-contrast.md
 
 Informational Experiential Realism (IER v10.8) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
 
@@ -1357,7 +1409,7 @@ This identity claim entails commitments that sharply distinguish IER from many n
 
 ---
 
-## 71. IER-critics.md
+## 73. IER-critics.md
 
 ## **Purpose**
 
@@ -1377,7 +1429,7 @@ The central critical question is therefore:
 
 ---
 
-## 72. IER-intro.md
+## 74. IER-intro.md
 
 ## Orientation
 
@@ -1391,7 +1443,7 @@ If any tension appears, those documents take precedence.
 
 ---
 
-## 73. IER-precis.md
+## 75. IER-precis.md
 
 ## 1. Orientation
 
@@ -1401,7 +1453,7 @@ IER is strict not by preference, but by consequence. The identity claim it advan
 
 ---
 
-## 74. IER-history.md
+## 76. IER-history.md
 
 ## **1. Purpose and Scope**
 
@@ -1419,7 +1471,7 @@ This is not a survey of all theories of consciousness, nor a claim of intellectu
 
 ---
 
-## 75. IER-futures.md
+## 77. IER-futures.md
 
 ## **Abstract**
 
@@ -1435,7 +1487,7 @@ The comparison illustrates that **IER constrains moral reality but does not dete
 
 ---
 
-## 76. IER-dont-panic.md
+## 78. IER-dont-panic.md
 
 ## **Why This Document Exists**
 
@@ -1463,7 +1515,7 @@ This document exists to say, clearly and explicitly:
 
 ---
 
-## 77. IER-strictness.md
+## 79. IER-strictness.md
 
 *A Reader-Facing Primer*
 
@@ -1480,7 +1532,7 @@ Its purpose is orientation, not enforcement.
 
 ---
 
-## 78. IER-idealism.md
+## 80. IER-idealism.md
 
 ## **Purpose**
 
@@ -1497,7 +1549,7 @@ This document exists to manage **interpretive pressure**, not to adjudicate meta
 
 ---
 
-## 79. IER-triangles.md
+## 81. IER-triangles.md
 
 ## **1. Why the Triangle Question Matters**
 
@@ -1513,7 +1565,7 @@ This article is written in the spirit of engagement rather than refutation. Info
 
 ---
 
-## 80. IER-magic-number.md
+## 82. IER-magic-number.md
 
 ## 0. Status and Scope
 
@@ -1527,7 +1579,7 @@ No familiarity with the song is required. The analysis is **structural rather th
 
 ---
 
-## 81. IER-equilibrium.md
+## 83. IER-equilibrium.md
 
 ## **1. Why the Question Is Not Straightforward**
 
@@ -1539,32 +1591,7 @@ The difficulty is that *information system* names a **descriptive role**, while 
 
 ---
 
-## 82. IER-rubric.md
-
-## **1. Why a New Rubric Is Needed**
-
-Most existing rubrics for theories of consciousness rely on an implicit assumption:
-
-> **That a theory of experience must also provide diagnostic, operational, or access-based criteria.**
-
-This assumption is not neutral.
-It privileges functionalist, representational, and access-based frameworks, and **systematically penalizes identity theories**, regardless of internal coherence.
-
-As a result, three distinct questions are routinely conflated:
-
-1. What is experience?
-2. When does experience exist?
-3. How could experience be detected or inferred by an observer?
-
-Identity theories answer (1) and (2) directly, and often deny that (3) is possible **in principle**.
-
-Treating this denial as a defect misidentifies a **structural consequence** as a **theoretical failure**.
-
-This document exists to separate **theoretical adequacy** from **epistemic convenience**.
-
----
-
-## 83. IER-FAQ.md
+## 84. IER-FAQ.md
 
 ## **Status and Purpose**
 
@@ -1585,7 +1612,7 @@ Where this FAQ discusses morality, it refers **only to experiential moral harm a
 
 ---
 
-## 84. IER-glossary.md
+## 85. IER-glossary.md
 
 ## **Status and Scope**
 
@@ -1604,7 +1631,7 @@ This glossary explains **how terms are used in IER**, not how they are used else
 
 ---
 
-## 85. IER-index.md
+## 86. IER-index.md
 
 ## **Status and Scope**
 
@@ -1628,7 +1655,7 @@ If a reference here appears inconsistent with a Tier-1 document, the Tier-1 docu
 
 ---
 
-## 86. README.md
+## 87. README.md
 
 ## What This Is
 
@@ -1653,7 +1680,7 @@ It is a theory of:
 
 ---
 
-## 87. IER-canon.md
+## 88. IER-canon.md
 
 ## **Status and Purpose**
 
@@ -1665,7 +1692,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 ---
 
-## 88. IER-manifest.md
+## 89. IER-manifest.md
 
 ## **Status and Function**
 
@@ -1685,7 +1712,7 @@ It does **not** define authority, governance rules, interpretive constraints, or
 
 ---
 
-## 89. IER-changelog.md
+## 90. IER-changelog.md
 
 ## **Informational Experiential Realism — Version History**
 
