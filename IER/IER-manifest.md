@@ -139,7 +139,7 @@ Characteristics:
 
 ### **Cognition, Memory, and Internal Simulation**
 
-49.  **[T2] `IER-participation.md`** — Participation modulation across cognition, attention, and metacognition
+49. **[T2] `IER-participation.md`** — Participation modulation across cognition, attention, and metacognition
 50. **[T2] `IER-memory.md`** — Memory as constraint-structured re-entry without re-living
 51. **[T2] `IER-forgetting.md`** — Forgetting as dissolution, pruning, or offloading of participation structure
 52. **[T2] `IER-aphantasia.md`** — Architectural diversity within intact UEFs  
@@ -215,33 +215,66 @@ These documents are:
 
 ## **PART IV — NAVIGATION AND GOVERNANCE (NON-BOOK)**
 
-These documents are **in-corpus** but **not book chapters**.
+These documents are **in-corpus** and **canon-governed**, but are **not book chapters** and are **not reader-facing content**.
 
-86. **[T4] `README.md`** — Repository front-door orientation
-87. **[T4] `IER-canon.md`** — Canonical authority and governance rules
-88. **[T4] `IER-manifest.md`** — Corpus inventory and flat ordering
-89. **[T4] `IER-changelog.md`** — Version history and structural changes
+They define **authority, structure, process, and navigation**, not theory.
+
+86. **`README.md`** — Repository front-door orientation
+87. **`IER-canon.md`** — Canonical authority, alignment rules, and governance
+88. **`IER-manifest.md`** — Corpus inventory and flat ordering
+89. **`IER-changelog.md`** — Version history and structural changes
+
+### **Governance Subdirectory (Canon-Governed Infrastructure)**
+
+These files govern **how IER is built, published, interpreted, and read**, but introduce **no theoretical or ethical content**.
+
+90. **`governance/IER-build.md`** — Mechanical assembly and verification
+91. **`governance/IER-deployment.md`** — Release order and authority anchoring
+92. **`governance/IER-legal.md`** — Legal context for AI-assisted authorship
+93. **`governance/IER-publishing.md`** — Book rendering and physical instantiation
+94. **`governance/IER-readers.md`** — Audience analysis and reading patterns
+
+> These files are **canon-constrained** but **non-authoritative**: they regulate process, not claims.
 
 ---
 
 ## **PART V — NON-CANONICAL PUBLICATION MATERIAL (IN-CORPUS)**
 
-These materials are **internal, non-reader-facing publication infrastructure artifacts**.
+These materials are **in-corpus** but **non-canonical** and **non-reader-facing**.
+They exist solely to support **publication, assembly, and derivative formatting**.
 
-90. **`pub/IER-corpus-book.md`** — Publication and production procedures
-91. **`pub/IER-tldr-book.md`** — Publication and production procedures
-92. **`pub/IER-building.md`** — Author-facing book assembly instructions
-93. **`pub/IER-legal.md`** — Legal and IP reference
-94. **`pub/IER-deployment.md`** — Public release order & priority discipline
-95. **`pub/tldr-book/IER-tldr-manifest.md`** — Manifest/chapterlist for TLDR book
+95. **`IER-paper-spec.md`** — Specification for academic paper derivation
+96. **`IER-corpus-book.md`** — Full-corpus book assembly instructions
+97. **`IER-foundations-book.md`** — Foundations-only book assembly
+98. **`IER-tldr-book.md`** — TLDR book assembly
+
+> Nothing in Part V may be cited for theoretical, ethical, or diagnostic authority.
 
 ---
 
 ## **PART VI — DERIVED READER-FACING PUBLICATIONS (NON-CANONICAL)**
 
-Part VI contains externally consumable publications derived from the IER corpus that are governed by, but do not contribute to, canonical authority or book structure.
+Part VI contains **externally consumable works** derived from the IER corpus.
+They are **governed by canon**, but **do not contribute to canonical authority**.
 
-96. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
+99. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
+
+### **Selection Files (Reader-Scoped Subsets)**
+
+These files declare **which canonical chapters** appear in the publications
+
+100. **`IER-corpus-selection.md`** — Selected corpus chapters
+101. **`IER-foundations-selection.md`** — Foundations-only selection
+102. **`IER-tldr-selection.md`** — TLDR reader selection
+
+### **Scaffold Directories**
+
+These directories contain **publication-only** Markdown and TeX files.
+
+103. **`tex/`** — Build-layer LaTeX scaffolding
+104. **`corpus-book/`** — Front matter and disclaimers, etc
+105. **`foundations-book/`** — Foreword, etc
+106. **`tldr-book/`** — Selected corpus articles
 
 ---
 
@@ -253,12 +286,12 @@ Any file not explicitly enumerated above is **non-corpus**, regardless of reposi
 
 ## **Closing Statement**
 
-This manifest defines **what counts as IER v10.8.2**.
+This manifest defines **what counts as IER v10.8.3**.
 
 * Authority is fixed exclusively by **`IER-canon.md`**
 * Inclusion implies governance
 * Governance does **not** imply reader-facing status
-* Book exhaustiveness applies **only** to **Parts I–III**
+* Corpus book exhaustiveness applies **only** to **Parts I–III**
 
 > **If a document is not meant to be read by a book reader, it does not belong in the book.**
 
