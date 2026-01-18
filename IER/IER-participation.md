@@ -1,4 +1,11 @@
-# **IER-participation.md — Participation, Reproduction, and the Shape of Thought**
+# **IER-participation.md**
+
+## **Participation, Reproduction, and the Shape of Thought**
+
+**Informational Experiential Realism (IER v10.8.x)**
+*Explanatory Article — Non-Normative*
+
+---
 
 ## **Status and Scope**
 
@@ -10,13 +17,32 @@ It:
 * establishes **no criteria, diagnostics, or thresholds**
 * does **not** define when experience exists
 * does **not** rank cognitive styles, capacities, or outcomes
+* does **not** posit faculties, modules, observers, or representational levels
 
 All binding authority remains fixed **exclusively** in:
 
-* `IER-specification.md`
-* canon-binding derivatives
+```
+IER-specification.md
+IER-theory.md
+IER-dynamics.md
+IER-math.md
+IER-canon.md
+```
 
-This document identifies and articulates a **structural invariant** already entailed by the IER identity claim.
+If any interpretation here conflicts with those documents, the conflict is void.
+
+### **Prerequisites and Position in the Reading Path**
+
+This document **presupposes** the structural accounts developed in:
+
+* `IER-sedimentation.md` — structural history without storage
+* `IER-hysteresis.md` — persistent constraint shaping present response
+* `IER-memory.md` — experiential re-entry without retrieval
+* `IER-forgetting.md` — participation failure without loss
+
+No mechanisms from those documents are re-derived here.
+
+This document serves as a **capstone**: it shows how thinking, remembering, imagining, planning, reflection, and metacognition all arise from **one reproduction operation inside a single Unified Experiential Field (UEF)**, parameterized by participation.
 
 ---
 
@@ -31,7 +57,8 @@ Ordinary and scientific discourse partitions mental life into many purported fac
 * planning
 * rumination
 
-These are commonly treated as distinct mechanisms, modules, or levels. Under Informational Experiential Realism (IER), this proliferation is structurally suspect.
+These are commonly treated as distinct mechanisms, modules, or levels.
+Under Informational Experiential Realism, this proliferation is structurally suspect.
 
 IER identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous regime operating under intrinsic constraint. Once such a regime exists, there is no room for additional experiential subsystems, observers, or meta-levels.
 
@@ -39,7 +66,7 @@ Any account that multiplies faculties must therefore answer a prior question:
 
 > **How can a single regime give rise to many apparently different cognitive modes without fragmenting subjecthood?**
 
-IER’s answer is structural, not taxonomic.
+IER’s answer is **structural**, not taxonomic.
 
 ---
 
@@ -47,9 +74,11 @@ IER’s answer is structural, not taxonomic.
 
 IER entails the following invariant:
 
-> **A Unified Experiential Field can reproduce constraint topologies at variable participation depths, across different temporal anchors, without re-instantiating full experiential regimes.**
+> **A Unified Experiential Field can reproduce constraint topologies at variable participation depths, across different temporal anchors, drawing only on structurally sedimented history, without re-instantiating full experiential regimes.**
 
-This capacity is not optional. Without it, the following would be impossible under an identity theory:
+This capacity is not optional.
+
+Without it, the following would be impossible under an identity theory:
 
 * memory without reliving
 * imagination without commitment
@@ -57,7 +86,7 @@ This capacity is not optional. Without it, the following would be impossible und
 * metacognition without regress
 * planning without action
 
-This document makes that capacity explicit.
+This document makes that invariant explicit.
 
 ---
 
@@ -67,10 +96,13 @@ This document makes that capacity explicit.
 
 IER distinguishes between:
 
-* **instantiating a regime**: bearing intrinsic constraint at full system scale, and
-* **reproducing a topology**: re-entering the *shape* of constraint organization at reduced participation.
+* **instantiating a regime** — bearing intrinsic constraint at full system scale, and
+* **reproducing a topology** — re-entering the *shape* of constraint organization at reduced participation.
 
-Reproduction does **not** imply replay, simulation, or duplication of experience. It is not a weaker form of the same event. It is a different mode of engagement with the same organizational structure.
+Reproduction does **not** imply replay, simulation, or duplication of experience.
+
+It is not a weaker version of the same event.
+It is a **different mode of engagement** with the same organizational structure.
 
 A topology may be reproduced:
 
@@ -100,7 +132,7 @@ The same constraint topology may therefore appear:
 * as remembered structure
 * as recognized pattern
 
-This single continuous parameter — **participation depth** — does the explanatory work that is often assigned to separate faculties.
+This single continuous parameter — **participation depth** — does the explanatory work often assigned to separate faculties.
 
 ---
 
@@ -110,12 +142,12 @@ In addition to participation depth, reproduction varies along a second axis: **t
 
 Constraint topologies may be reproduced as:
 
-* **past-anchored** (previously lived organizations)
-* **present-anchored** (current organizational state)
-* **possible-anchored** (never-lived but admissible organizations)
-* **future-anchored** (potentially owned trajectories)
+* **past-anchored** — previously lived organizations
+* **present-anchored** — current organizational state
+* **possible-anchored** — never-lived but admissible organizations
+* **future-anchored** — potentially owned trajectories
 
-Temporal anchoring interacts with participation depth to generate distinct phenomenological modes without introducing new mechanisms.
+Temporal anchoring interacts with participation depth to generate distinct phenomenological modes **without introducing new mechanisms**.
 
 ---
 
@@ -135,6 +167,8 @@ Because participation is gated, memory:
 
 This explains why remembering does not require reliving, and why fidelity is neither guaranteed nor required.
 
+This usage presupposes the structural account developed in **`IER-memory.md`** and introduces no additional mechanisms.
+
 ---
 
 ## **6. Forgetting as Participation Failure**
@@ -142,7 +176,6 @@ This explains why remembering does not require reliving, and why fidelity is nei
 Forgetting occurs when a previously viable topology can no longer be reproduced coherently under current intrinsic constraint.
 
 Nothing is erased.
-
 What fails is **participation viability**.
 
 Topologies that require:
@@ -151,7 +184,9 @@ Topologies that require:
 * sharp exclusion
 * high precision
 
-fail earlier than those satisfied by lawful continuity. This explains why names fail before actions, labels before narratives, and point-like bindings before trajectory-like ones.
+fail earlier than those satisfied by lawful continuity.
+
+This follows the non-loss, non-erasure account developed in **`IER-forgetting.md`**.
 
 ---
 
@@ -167,7 +202,7 @@ These reproductions:
 * impose no inevitability
 * tolerate distortion
 
-Imagination is therefore structurally safe exploration.
+Imagination is therefore **structurally safe exploration**.
 
 ---
 
@@ -197,7 +232,8 @@ It answers questions of *shape*, not *content*:
 * “Is this unstable?”
 * “Is something tightening?”
 
-Reflection does not observe experience; it reproduces its organization cheaply.
+Reflection does not observe experience.
+It reproduces its organization cheaply.
 
 ---
 
@@ -228,7 +264,8 @@ It is a **dynamical failure mode** in which:
 * attractor width collapses
 * switching cost increases
 
-Rumination feels reflective but is structurally distinct from reflection. It tightens constraint instead of revealing its shape.
+Rumination feels reflective but is structurally distinct from reflection.
+It tightens constraint instead of revealing its shape.
 
 ---
 
@@ -242,7 +279,7 @@ The phenomena above are parameterized by a small set of continuous controls:
 4. **Temporal anchoring** — where reproduction points in time
 5. **Switching cost** — how difficult it is to leave a topology
 
-Different settings of these parameters generate the full range of modes discussed, without invoking separate faculties.
+Different settings of these parameters generate the full range of cognitive modes discussed, **without invoking separate faculties**.
 
 ---
 
@@ -256,7 +293,8 @@ ADHD corresponds to a regime characterized by:
 * wide attractors
 * low switching cost
 
-This configuration favors exploration, novelty, and rapid reconfiguration. It resists narrow, precision-hungry topologies.
+This configuration favors exploration, novelty, and rapid reconfiguration.
+It resists narrow, precision-hungry topologies.
 
 ---
 
@@ -270,15 +308,17 @@ Anxiety corresponds to a regime characterized by:
 
 This configuration preserves coherence under perceived threat by tightening futures and increasing urgency.
 
-Neither regime is an error. Each is a tradeoff in constraint management.
+Neither regime is an error.
+Each is a tradeoff in constraint management.
 
 ---
 
 ## **12. Why Regulation Is Bodily First**
 
-Because participation depth is a physical parameter of intrinsic constraint, regulation is most effective when it acts **before** symbolic thought.
+Because participation depth is a **physical parameter** of intrinsic constraint, regulation is most effective when it acts **before** symbolic thought.
 
-Movement, posture, environment, and sensory input alter participation directly. Cognitive reframing cannot override constraint geometry on its own.
+Movement, posture, environment, and sensory input alter participation directly.
+Cognitive reframing cannot override constraint geometry on its own.
 
 This explains why breaks, motion, and distance are structurally effective.
 
@@ -294,7 +334,7 @@ This document does **not**:
 * optimize productivity
 * soften identity claims
 
-It identifies a structural invariant and nothing more.
+It identifies a **structural invariant** and nothing more.
 
 ---
 
@@ -313,7 +353,7 @@ Under Informational Experiential Realism:
 
 ---
 
-### **Intermission — Orientation Signal**
+## **Intermission — Orientation Signal**
 
 When a system requests motion, silence, or distance,
 that request is not interruption.

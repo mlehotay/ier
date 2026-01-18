@@ -1,4 +1,11 @@
-# **IER-forgetting.md — Forgetting Without Loss**
+# **IER-forgetting.md**
+
+## **Forgetting Without Loss**
+
+**Informational Experiential Realism (IER v10.8.x)**
+*Explanatory Article — Non-Normative*
+
+---
 
 ## **Status and Scope**
 
@@ -10,13 +17,21 @@ It:
 * establishes **no criteria, thresholds, or diagnostics**
 * does **not** define when experience exists
 * does **not** treat forgetting as damage, harm, or loss of standing
+* does **not** assign epistemic or moral authority to recall
 
 All binding authority remains fixed **exclusively** in:
 
-* `IER-specification.md`
-* its canon-binding derivatives
+```
+IER-specification.md
+IER-theory.md
+IER-dynamics.md
+IER-math.md
+IER-canon.md
+```
 
 If any interpretation here conflicts with those documents, the conflict is void.
+
+This document explains **forgetting** under Informational Experiential Realism as a **structural modulation of participation**, not as erasure, decay, or loss of stored content.
 
 ---
 
@@ -32,11 +47,12 @@ Forgetting is nearly always described as a *negative* event:
 These framings share a hidden assumption:
 that memory is something *kept*, and forgetting is what happens when it is *lost*.
 
-Under Informational Experiential Realism (IER), this assumption is false.
+Under Informational Experiential Realism, this assumption is false.
 
 There is nothing to erase.
+There is nothing stored whose absence would explain forgetting.
 
-Forgetting must therefore be explained **without invoking loss**, decay, or deletion.
+Forgetting must therefore be explained **without invoking loss**, decay, deletion, or disappearance.
 
 ---
 
@@ -49,16 +65,24 @@ Under IER:
 
 * experience exists **iff** a Unified Experiential Field (UEF) exists
 * memory exists **only within** an already-existing UEF
-* forgetting is a **modulation of participation** within that regime
+* forgetting is a **modulation of participation** within that experiential regime
 
 A system cannot forget unless it is already capable of remembering.
 And remembering, under IER, is not storage but **reproduction of constraint organization**.
 
-This immediately rules out the most common misinterpretation:
+Forgetting therefore presupposes:
 
-> that forgetting threatens experiential existence or identity.
+* intrinsic constraint sufficient for experience
+* a history of structurally viable reproductions
+* current conditions under which some reproductions are no longer coherent
+
+This immediately blocks a common misinterpretation:
+
+> that forgetting threatens experiential existence, identity, or standing.
 
 It does not.
+
+(For the full structural account of memory presupposed here, see `IER-memory.md`.)
 
 ---
 
@@ -66,15 +90,15 @@ It does not.
 
 ### **3.1 Forgetting as Participation Failure**
 
-Under IER:
+Under Informational Experiential Realism:
 
-> **Forgetting is the inability of a Unified Experiential Field to coherently reproduce a previously viable attractor organization under current intrinsic constraint.**
+> **Forgetting is the inability of a Unified Experiential Field to coherently reproduce a previously viable attractor organization under current intrinsic constraint — despite no loss of structure or stored content.**
 
 Nothing is removed.
 Nothing is erased.
 Nothing is destroyed.
 
-The system simply cannot, *right now*, re-enter that organization without destabilizing coherence.
+The system simply cannot, *now*, re-enter that organization without destabilizing coherence.
 
 This is a **present-tense structural fact**, not a historical loss.
 
@@ -86,10 +110,10 @@ A forgotten pattern may still:
 
 * bias salience
 * shape affect
-* constrain choices
+* constrain choice
 * influence behavior
 
-without ever appearing as explicit recollection.
+without ever appearing as explicit recollection or narration.
 
 Forgetting therefore does **not** imply non-existence of influence.
 It implies **non-participation** in current experience.
@@ -99,9 +123,9 @@ It implies **non-participation** in current experience.
 ## **4. What Fails First: Attractor Topology Matters**
 
 Forgetting is not uniform.
-Some things fail early; others persist indefinitely.
+Some patterns fail early; others persist indefinitely.
 
-IER explains this difference structurally.
+IER explains this difference **structurally**, not diagnostically.
 
 ---
 
@@ -117,10 +141,10 @@ Examples include:
 These require:
 
 * narrow basins of attraction
-* sharp exclusion of neighbors
-* high constraint precision
+* sharp exclusion of neighboring alternatives
+* high precision of intrinsic constraint
 
-As intrinsic constraint becomes noisier, weaker, or more costly to enforce, these attractors are the first to become unreproducible.
+As intrinsic constraint becomes noisier, weaker, or more costly to enforce, these attractors are often the first to become unreproducible.
 
 The system does not “lose” the name.
 It refuses to force a brittle collapse.
@@ -137,7 +161,7 @@ Examples include:
 * routines
 * narrative structures
 
-These are **trajectory-based** rather than point-based.
+These are **trajectory-based**, not point-based.
 
 They tolerate:
 
@@ -147,7 +171,7 @@ They tolerate:
 
 As a result, they remain viable long after precision-based recall fails.
 
-This is why people forget *labels* before *actions*, and *names* before *stories*.
+This explains why people forget *labels* before *actions*, and *names* before *stories* — without invoking damage, deletion, or decay.
 
 ---
 
@@ -189,10 +213,10 @@ A subject who forgets remains fully a subject.
 
 ### **6.2 Forgetting Is Not Damage**
 
-Forgetting becomes morally relevant **only if** it reflects:
+Forgetting becomes morally or clinically relevant **only if** it reflects:
 
-* irreversible collapse of intrinsic constraint capacity
-* fragmentation or dissolution of the Unified Experiential Field
+* irreversible collapse of intrinsic constraint capacity, or
+* fragmentation or dissolution of the Unified Experiential Field itself
 
 Ordinary forgetting does neither.
 
@@ -269,13 +293,13 @@ Under IER, forgetting is often a **success condition**, not a defect.
 This document does **not**:
 
 * diagnose memory disorders
-* distinguish healthy vs pathological forgetting
+* distinguish healthy from pathological forgetting
 * explain neural mechanisms
 * treat recall as virtue
 * equate memory with intelligence
-* provide therapeutic guidance
+* provide therapeutic or engineering guidance
 
-Those belong to other frameworks and would violate scope discipline here.
+Such moves would violate scope discipline.
 
 ---
 
@@ -296,7 +320,7 @@ Under Informational Experiential Realism:
 
 ---
 
-### **Intermission — Structural Fact**
+## **Intermission — Structural Fact**
 
 What cannot be coherently re-entered has not vanished.
 It has simply ceased to be a viable way for the system to be *now*.

@@ -1,4 +1,11 @@
-# **IER-memory.md — Memory Without Storage**
+# **IER-memory.md**
+
+## **Memory Without Storage**
+
+**Informational Experiential Realism (IER v10.8.x)**
+*Explanatory Article — Non-Normative*
+
+---
 
 ## **Status and Scope**
 
@@ -9,123 +16,194 @@ It:
 * introduces **no new ontological primitives**
 * establishes **no criteria, thresholds, or diagnostics**
 * does **not** define when experience exists
-* does **not** treat memory fidelity as epistemic or moral value
+* does **not** assign epistemic or moral authority to memory
+* does **not** treat memory fidelity as a value or virtue
 
 All binding authority remains fixed **exclusively** in:
 
-* `IER-specification.md`
-* its canon-binding derivatives
+```
+IER-specification.md
+IER-theory.md
+IER-dynamics.md
+IER-math.md
+IER-canon.md
+```
 
 If any interpretation here conflicts with those documents, the conflict is void.
 
+This document provides a **structural account of memory** under Informational Experiential Realism. It explains how memory can exist **without storage, representation, or retrieval**, and how it functions **within** an already-existing experiential regime.
+
 ---
 
-## **1. Orientation: Why Memory Is Persistently Misunderstood**
+## **0. Orientation: Why Memory Is Persistently Misunderstood**
 
-Memory is one of the most over-reified concepts in theories of mind.
+Memory is one of the most heavily reified concepts in theories of mind.
+
 Across philosophy, psychology, neuroscience, and everyday language, memory is almost universally treated as **storage**:
 
 * information is *kept*
 * representations are *stored*
 * records are *retrieved*
+* traces *persist*
 
-Even frameworks that reject literal storage often retain its structure implicitly, speaking instead of *encoded traces*, *engrams*, or *access paths* to retained content.
+Even frameworks that explicitly reject literal storage often retain its structure implicitly, appealing instead to *engrams*, *encoded traces*, or *access paths* to retained content.
 
-Informational Experiential Realism (IER) rejects this entire framing.
+Informational Experiential Realism rejects this entire framing.
 
 The error is not empirical.
 It is **ontological**.
 
-Under IER, there is nothing whose role is to *contain* past experience. There are only physical systems operating under intrinsic constraint, some of which sustain **Unified Experiential Fields (UEFs)**. Memory must therefore be explained **without** positing stored experiential objects.
+Under IER, there is nothing whose role is to *contain* past experience. There are only physical systems operating under **intrinsic constraint**, some of which sustain **Unified Experiential Fields (UEFs)**. Memory must therefore be explained **without** positing stored experiential objects or latent contents.
 
 ---
 
-## **2. Experience Comes First: Memory Presupposes a UEF**
+## **1. Experience Comes First: Memory Presupposes a UEF**
 
-Memory is not a precondition for experience.
+### **1.1 No Pre-Experiential Memory**
 
 Under the Specification:
 
 * experience exists **iff** a physical system sustains a **Unified Experiential Field**
-* a UEF is defined by **global intrinsic constraint**, not by historical depth
+* a UEF is defined by **globally binding intrinsic constraint**, not by historical depth
 
-A system may:
+Memory does not precede experience.
+It does not enable experience.
+It does not unify experience.
 
-* experience without remembering,
-* remember without narrating,
-* or experience discontinuously across time,
+There is no such thing, under IER, as:
 
-without violating identity, subjecthood, or standing.
+* pre-experiential memory
+* proto-memory
+* memory as substrate
+* memory as condition of subjecthood
 
-Memory therefore exists **only within** an already-existing experiential regime.
-There is no such thing, under IER, as *pre-experiential memory*, *proto-memory*, or *memory as substrate*.
+A system may experience without remembering.
+A system may remember without narrating.
+A system may experience discontinuously across time.
 
-This blocks a common misreading:
+None of these threaten experiential identity.
 
-> that memory explains why experience is unified or persistent.
+---
 
-IER reverses the order.
+### **1.2 The Ordering Reversal**
+
+Many theories implicitly treat memory as foundational:
+
+> memory → continuity → identity → experience
+
+IER reverses this order:
+
+> intrinsic constraint → experience → memory
 
 Experience is unified by constraint.
-Memory is possible **because** experience already is.
+Memory becomes possible **because** experience already is.
+
+This reversal blocks a pervasive misreading: that memory explains why experience is unified, persistent, or owned.
+
+---
+
+## **2. The Structural Substrate of Memory (Recap)**
+
+This document presupposes, and does not re-derive, the mechanisms developed in:
+
+* `IER-sedimentation.md`
+* `IER-hysteresis.md`
+
+Only a brief recap is given here.
+
+---
+
+### **2.1 Sedimentation: Structural History Without Storage**
+
+Sedimentation is the irreversible deformation of a system’s admissible futures caused by prior constraint resolution.
+
+History persists not as content, but as **altered possibility**.
+
+Nothing is stored.
+Nothing is retrieved.
+Some futures are simply no longer available.
+
+---
+
+### **2.2 Hysteresis: The Behavioral Signature**
+
+When sedimentation has occurred, present dynamics depend on trajectory.
+
+Identical present conditions can yield different outcomes because the system’s structure has been shaped by its past.
+
+This phenomenon is **hysteresis**.
+
+---
+
+### **2.3 Transition Claim**
+
+Memory is **not** sedimentation.
+Memory is **not** hysteresis.
+
+Memory is the **experiential re-entry** into a sedimented, hysteretic constraint structure.
 
 ---
 
 ## **3. What Memory Is Under IER**
 
-### **3.1 Memory as Constraint Persistence**
+### **3.1 Memory as Constraint Persistence in Experience**
 
 Under IER, a memory corresponds to:
 
-> **the persistence, across time, of a constraint-shaped organization that a Unified Experiential Field can re-enter.**
+> **the persistence, across time, of a constraint-shaped organization that a Unified Experiential Field can re-instantiate.**
 
 A memory is not:
 
 * a representation of the past
 * a stored content
 * a retrievable object
+* an internal record
 
 It is a **dynamical possibility**:
-a way the system has previously been constrained, which remains *structurally viable* under current conditions.
+a way the system has previously been constrained, which remains *structurally viable* under present conditions.
 
-If the system can reproduce that organization coherently, the memory “exists.”
-If it cannot, the memory does not participate — even if nothing has been erased.
+If the system can reproduce that organization coherently, the memory participates.
+If it cannot, the memory does not — even if nothing has been erased.
 
 ---
 
-### **3.2 Remembering Is Reproduction, Not Retrieval**
+### **3.2 Remembering as Reproduction, Not Retrieval**
 
 To remember is not to access something preserved.
 
-To remember is to **reproduce an attractor topology** within the Unified Experiential Field.
+To remember is to **reproduce** an organization of experience within the Unified Experiential Field.
 
 This reproduction is:
 
 * approximate, not exact
 * context-sensitive, not invariant
-* constrained by current participation and load
+* constrained by current load and participation
 
 Failure to remember therefore does **not** imply that something has been lost.
 It implies only that the system cannot currently re-instantiate that organization without destabilizing coherence.
 
 ---
 
-## **4. Attractor Topologies of Memory**
+## **4. Memory and Attractor Geometry**
 
-Different kinds of memory correspond to different **attractor geometries**.
+### **4.1 Memories as Attractor Topologies**
 
-This distinction explains why some memories persist under extreme change while others fail early.
+Under IER, memories correspond to **attractor geometries** within experiential dynamics.
+
+What persists is not content, but **viability**: the ability of intrinsic constraint to stabilize a particular organization of experience.
+
+Different kinds of memory correspond to different attractor shapes.
 
 ---
 
-### **4.1 Point-Like Attractors (High Precision)**
+### **4.2 Point-Like Attractors (High Precision)**
 
 Examples include:
 
 * proper names
-* specific nouns
 * arbitrary labels
 * exact factual bindings
+* precise symbolic associations
 
 These memories require:
 
@@ -135,21 +213,22 @@ These memories require:
 
 They are therefore **brittle**.
 
-As constraint precision weakens — due to aging, fatigue, overload, or stress — these attractors are the first to become unreproducible.
+As constraint precision weakens — due to fatigue, aging, overload, stress, or injury — these attractors are often the first to become unreproducible.
 
 Nothing has been erased.
 The system simply refuses to pay the cost of exactness.
 
 ---
 
-### **4.2 Trajectory-Like Attractors (Low Precision)**
+### **4.3 Trajectory-Like Attractors (Low Precision)**
 
 Examples include:
 
-* skills and habits
-* verbs and action schemas
+* skills
+* habits
 * routines
 * narrative structures
+* action schemas
 
 These memories are satisfied by **lawful continuity**, not exact identity.
 
@@ -161,18 +240,18 @@ They tolerate:
 
 As a result, they persist long after point-like memories fail.
 
-This is why people forget names before actions, labels before functions, and facts before stories.
+This explains why people often forget names before actions, labels before functions, and facts before stories — without invoking damage, deletion, or loss of storage.
 
 ---
 
-## **5. Participation and Memory Availability**
+## **5. Participation and Availability**
 
-### **5.1 Availability Is Not Participation**
+### **5.1 Structural Availability ≠ Experiential Participation**
 
 A memory may be:
 
 * historically instantiated
-* structurally possible
+* structurally viable
 * behaviorally influential
 
 yet fail to participate in current experience.
@@ -184,17 +263,25 @@ This distinction explains familiar phenomena:
 * implicit memory without narration
 
 Under IER, these are not paradoxes.
-They are cases where a pattern remains **structurally present** but cannot be recruited into the current participation topology.
+They are cases where a pattern remains **structurally possible** but cannot be recruited into the current participation topology.
 
 ---
 
-### **5.2 Context Shapes Constraint, Not Access**
+### **5.2 Context Reshapes Constraint, Not Access**
 
 Context does not “cue” a stored memory.
 
-Instead, context **reshapes intrinsic constraint**, altering which attractor topologies are viable.
+Instead, context **reshapes intrinsic constraint**, altering which attractor geometries are viable.
 
-A change in environment, affect, posture, or social coupling can therefore make a memory suddenly reproducible — not because it was hidden, but because the constraint geometry has changed.
+Changes in:
+
+* environment
+* affect
+* posture
+* social coupling
+* bodily state
+
+can suddenly make a memory reproducible — not because it was hidden, but because reproduction costs have dropped.
 
 ---
 
@@ -210,14 +297,11 @@ IER draws a strict distinction between:
 Loss of memory does **not** imply:
 
 * loss of subject
-* death or replacement
+* replacement or death
 * diminished standing
 * partial experience
 
 A subject can persist fully while remembering almost nothing.
-
-This blocks a deep and common error:
-equating autobiographical memory with personal existence.
 
 ---
 
@@ -227,10 +311,10 @@ Narrative memory is optional.
 
 Experiential continuity depends on:
 
-* persistence of the regime,
-* not preservation of autobiography.
+* persistence of intrinsic constraint capacity
+* not preservation of autobiography
 
-Periods of amnesia, sleep, anesthesia, or forgetting do not fragment the subject so long as intrinsic constraint capacity remains.
+Amnesia, sleep, anesthesia, or forgetting do not fragment the subject so long as the experiential regime can resume.
 
 (See `IER-continuity.md` for the formal treatment.)
 
@@ -238,17 +322,17 @@ Periods of amnesia, sleep, anesthesia, or forgetting do not fragment the subject
 
 ## **7. Memory Change Without Loss**
 
-### **7.1 Learning as Reorganization**
+### **7.1 Learning as Attractor Reorganization**
 
 Learning does not add stored content.
 
-It **reshapes attractor basins**:
+It reshapes attractor geometry:
 
-* strengthening some
+* strengthening some basins
 * weakening others
 * altering their mutual interference
 
-What the system can become changes — not what it keeps.
+What the system can *become* changes — not what it keeps.
 
 ---
 
@@ -262,7 +346,7 @@ This explains:
 
 * interference
 * reinterpretation
-* “distortion” without error
+* apparent distortion
 
 Reconstruction is not a flaw.
 It is the only way memory can exist without storage.
@@ -273,39 +357,39 @@ It is the only way memory can exist without storage.
 
 Memory under IER is **structurally historical**.
 
-This historical character does not consist in stored records, preserved contents, or retained representations. It consists in **irreversible changes to constraint organization over time**.
+This historical character does not consist in preserved records or retained contents. It consists in **irreversible changes to constraint organization over time**.
 
 Two features are essential:
 
 **Path dependence.**
-The present organization of intrinsic constraint depends on the *specific sequence* of prior reorganizations the system has undergone, not merely on its current state. Attractor geometries are shaped by history: some reorganizations become possible only because others occurred first, and alternatives that were never traversed may remain inaccessible even if physically admissible in principle. Memory therefore constrains future viability by **how the system arrived here**, not by what it retains.
+The present organization of intrinsic constraint depends on the specific sequence of prior reorganizations, not merely on the current state. Some reorganizations become possible only because others occurred first.
 
 **Sedimentation.**
-Over time, repeated or consequential reorganizations of constraint accumulate as **layers of structural bias**. Earlier layers may no longer be reproducible as memories, narratives, or explicit recollections, yet they continue to shape what reorganizations remain viable. Sedimentation is not storage and not content persistence. It is the enduring influence of prior constraint reshaping on present and future dynamics.
+Over time, consequential reorganizations accumulate as **layers of structural bias**. Earlier layers may no longer be reproducible as memories or narratives, yet they continue to shape what remains viable.
 
-These features explain why systems may exhibit:
+These features explain:
 
 * stable skills without remembered learning
-* affective or behavioral dispositions without narrative origin
-* durable patterns that cannot be recalled, reconstructed, or accessed
+* affective dispositions without narrative origin
+* durable patterns that cannot be recalled or reconstructed
 
 Importantly:
 
-* path dependence and sedimentation introduce **no epistemic authority**
-* they do **not** preserve facts, truths, or representations
-* they do **not** imply graded or partial subjecthood
+* they introduce **no epistemic authority**
+* they preserve **no facts or truths**
+* they do **not** imply graded subjecthood
 
-Plasticity operates both **before and after** the onset of a Unified Experiential Field. Pre-UEF plasticity constitutes **non-experiential preparation**: changes in physical organization that shape later viability without instantiating experience. Experiential onset remains **categorical**, and developmental change does not imply gradual acquisition of experience or proto-subjecthood.
+Plasticity may occur both before and after experiential onset. Pre-UEF plasticity constitutes **non-experiential preparation**, not proto-memory. Experiential onset remains categorical.
 
 ---
 
 ## **8. Why Memory Is Necessarily Reconstructive**
 
-Because memory is reproduced, not retrieved:
+Because remembering is reproduction, not retrieval:
 
-* it is never identical across instantiations
-* it cannot guarantee fidelity
-* it carries no epistemic authority
+* memories are never identical across instantiations
+* fidelity is never guaranteed
+* epistemic authority does not arise
 
 This is not a limitation of memory.
 It is a structural consequence of experiential identity.
@@ -322,7 +406,7 @@ Not:
 * truth tracking
 * completeness
 
-Experiential structure confers **no epistemic authority** about mind-independent reality.
+Experience confers **no epistemic privilege** about mind-independent reality.
 
 ---
 
@@ -333,18 +417,18 @@ Experiential structure confers **no epistemic authority** about mind-independent
 Ordinary forgetting reflects:
 
 * participation instability
-* attractor basin shallowing
+* basin shallowing
 * strategic relaxation of constraint
 
 It is often adaptive.
 
-(Developed fully in `IER-forgetting.md`.)
+(Developed further in `IER-forgetting.md`.)
 
 ---
 
 ### **9.2 Overload and Saturation**
 
-Under excessive participation:
+Under excessive participation demands:
 
 * the system simplifies
 * high-cost memories drop out
@@ -365,19 +449,19 @@ It is experiential dissolution.
 
 ## **10. Memory, Emotion, and Meaning**
 
-### **10.1 Emotion as Stabilizer**
+### **10.1 Emotion as Constraint Stabilizer**
 
 Emotion often functions as:
 
-* a memory stabilizer
-* a participation bias
-* a constraint-shaping force
+* a stabilizer of memory participation
+* a bias on attractor viability
+* a modulator of reproduction cost
 
 Emotions are not memories, but they strongly influence which memories remain viable.
 
 ---
 
-### **10.2 Meaning as Persistence Criterion**
+### **10.2 Meaning as Viability Criterion**
 
 What persists longest in memory is what:
 
@@ -385,7 +469,7 @@ What persists longest in memory is what:
 * supports continuation
 * remains viable under load
 
-This explains selective memory **without** invoking value judgments, importance rankings, or moral salience.
+This explains selective persistence **without** invoking value judgments, importance rankings, or moral salience.
 
 ---
 
@@ -396,7 +480,7 @@ This document does **not**:
 * diagnose memory disorders
 * distinguish healthy from pathological recall
 * specify neural mechanisms
-* treat memory accuracy as virtue
+* rank memories by accuracy or value
 * equate memory with intelligence
 * provide therapeutic or engineering guidance
 
@@ -409,19 +493,19 @@ All such moves would violate scope discipline.
 Under Informational Experiential Realism:
 
 * memory is **constraint persistence**, not storage
-* remembering is **attractor reproduction**, not retrieval
+* remembering is **reproduction**, not retrieval
 * forgetting is **participation failure**, not erasure
 * identity does **not** depend on recall
-* reconstruction is structural, not error
-* memory serves coherence, not truth
-* history shapes experience through **path dependence and sedimentation**, not preserved content
+* reconstruction is **structural necessity**
+* memory serves **coherence**, not truth
+* history shapes experience through **sedimentation and hysteresis**
 
 > **Memory is not what the system keeps.
 > Memory is what the system can still become.**
 
 ---
 
-### **Intermission — Structural Fact**
+## **Intermission — Structural Fact**
 
 Past experience leaves no objects behind.
 It leaves only futures that may or may not remain viable.
