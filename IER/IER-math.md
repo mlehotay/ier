@@ -2,7 +2,7 @@
 
 ## **Orders of Information, Graph Structure, and Regime Coherence in IER**
 
-**Version 10.8.2 — Mathematical Support Document**
+**Version 10.8.3 — Mathematical Support Document**
 
 ---
 
@@ -261,7 +261,17 @@ No assumptions are made about memory, report, or narrative identity.
 
 ---
 
-## **12. Ethical Non-Inference**
+## **12. Non-Inference: Temporal Continuity Is Not a Timescale Threshold**
+
+The requirement that a Unified Experiential Field persist across **non-zero duration** does **not** introduce a measurable temporal threshold, minimum interval, or calibratable timescale.
+
+Temporal continuity in IER is a **regime-formal condition**: it specifies that the same globally coherent constraint regime must remain satisfied across successive configurations.
+
+No duration—short or long—is sufficient or insufficient *by itself*. Duration does not function as a proxy, indicator, or criterion for experience.
+
+---
+
+## **13. Ethical Non-Inference**
 
 Nothing in this document defines moral standing, assigns degrees of value, or licenses ethical inference.
 
@@ -269,7 +279,7 @@ Ethical conclusions are derived exclusively in `IER-ethics.md`.
 
 ---
 
-## **13. Summary**
+## **14. Summary**
 
 This document formalizes the IER identity claim using:
 

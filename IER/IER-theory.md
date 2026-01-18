@@ -1,4 +1,4 @@
-# **IER-theory.md (v10.8)**
+# **IER-theory.md (v10.8.3)**
 
 ## **Conceptual Backbone and Explanatory Integration**
 
@@ -22,7 +22,7 @@ This document:
 All ontological, criterial, and ethical authority resides **exclusively** in:
 
 ```
-IER-specification.md (v10.8)
+IER-specification.md (v10.8.2)
 ```
 
 If any statement in this document conflicts with the Specification, **the Specification takes precedence and the conflicting statement is void**.
@@ -291,7 +291,27 @@ Anything weaker than global intrinsic constraint cannot instantiate experience �
 
 ---
 
-## **8. Relation to Ethical Consequences (Boundary Clarification)**
+## **8. **Non-Inference: Anti-Isomorphism Clarification**
+
+Organizational, functional, dynamical, or behavioral similarity between systems does **not** imply shared intrinsic constraint, shared regime identity, or experiential presence.
+
+Isomorphism at the level of structure, description, or observable dynamics remains fully compatible with **slack-masked non-experience**, externally imposed coordination, or buffered resolution.
+
+Under IER, experiential identity depends **only** on whether intrinsic constraint is unavoidable, internally borne, and globally binding. No degree of resemblance, performance match, or formal equivalence licenses inference to experience.
+
+---
+
+## **9. Non-Inference: Multiple Realizability Does Not Imply Implementation Independence**
+
+The claim that Unified Experiential Fields are **multiply realizable** does **not** imply that experiential identity is independent of physical implementation, functional substrate, or organizational details.
+
+Multiple realizability in IER means only that **distinct physical systems** may instantiate the *same regime-level identity* when—and only when—the full set of intrinsic constraint conditions is satisfied.
+
+It does **not** license abstraction away from physical organization, nor does it support computational, functional, or substrate-neutral sufficiency claims.
+
+---
+
+## **10. Relation to Ethical Consequences (Boundary Clarification)**
 
 This document explains **what experience is** and **why weaker organizations cannot instantiate it**.
 
@@ -314,7 +334,7 @@ No ethical conclusions are licensed by explanatory theory alone.
 
 ---
 
-## **9. Summary**
+## **11. Summary**
 
 IER-theory explains why:
 

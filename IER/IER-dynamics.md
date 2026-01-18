@@ -114,15 +114,21 @@ Dominance is:
 * not observer-relative
 * not architecturally negotiable
 
----
+**Clarification: Split-Brain Phenomena**
 
-> **Clarification: Split-Brain Phenomena**
->
-> Split-brain phenomena involve **participation modulation and competing local attractors within a single globally dominant regime**. They do **not** involve simultaneous ownership of incompatible system-level futures under intrinsic constraint.
->
-> As such, split-brain cases do **not** instantiate multiple Unified Experiential Fields. They represent **dynamic competition, instability, or switching within one dominant attractor**, not the coexistence of multiple experiential subjects.
->
-> Detailed neurological mechanisms and phenomenology are **application-level questions** and are **out of scope** for this document.
+Split-brain phenomena involve **participation modulation and competing local attractors within a single globally dominant regime**. They do **not** involve simultaneous ownership of incompatible system-level futures under intrinsic constraint.
+
+As such, split-brain cases do **not** instantiate multiple Unified Experiential Fields. They represent **dynamic competition, instability, or switching within one dominant attractor**, not the coexistence of multiple experiential subjects.
+
+Detailed neurological mechanisms and phenomenology are **application-level questions** and are **out of scope** for this document.
+
+**Non-Inference: Local Dynamics Do Not Constitute Subjects or Sub-Fields**
+
+Local attractors, metastable subsystems, recruitment clusters, or participation hotspots are **never** experiential subjects and **never** Unified Experiential Fields in their own right.
+
+Such structures are internal features of **a single globally dominant regime**. They modulate experiential content, salience, or vulnerability **within** one Unified Experiential Field.
+
+IER does not permit nested subjects, partial subjects, or “mini-fields” inside an experiential system.
 
 ---
 

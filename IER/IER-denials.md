@@ -1,10 +1,10 @@
-# **IER-denials.md (v10.8.x)**
+# **IER-denials.md (v10.8.3)**
 
 ## **What Informational Experiential Realism Explicitly Denies**
 
 ### *A Boundary Statement on Non-Claims, Misinterpretations, and Prohibited Inferences*
 
-**Informational Experiential Realism (IER v10.x)**
+**Informational Experiential Realism (IER v10.8.3)**
 *Derived Clarification Document — Non-Normative*
 
 ---
@@ -240,7 +240,23 @@ Experience depends on **physically instantiated intrinsic constraint**, not abst
 
 ---
 
-## **13. IER Does Not Expand Ontology Beyond Physical Reality**
+## **13. IER Does Not Treat Autopoiesis or Operational Closure as Necessary or Sufficient**
+
+IER **explicitly denies** the inference that:
+
+* autopoiesis is **necessary** for a Unified Experiential Field (UEF), or
+* autopoiesis is **sufficient** for a Unified Experiential Field (UEF), or
+* operational closure (in the sense used in autopoiesis traditions) is **necessary or sufficient** for experience.
+
+Autopoiesis and operational closure may be historically associated with attempts to characterize living systems and self-maintaining organization, but under IER they do **not** function as criterial machinery.
+
+> **Non-Inference:** Autopoiesis and operational closure are neither necessary nor sufficient for a Unified Experiential Field; their role in IER is historical and explanatory only.
+
+IER’s identity claim turns on **globally integrated, temporally continuous intrinsic constraint** as defined by the Spec, not on self-production vocabulary, biological self-maintenance, or closure-as-slogan.
+
+---
+
+## **14. IER Does Not Expand Ontology Beyond Physical Reality**
 
 IER **explicitly denies**:
 
@@ -255,7 +271,7 @@ A UEF is a **narrow organizational kind**, and most physical systems do not qual
 
 ---
 
-## **14. IER Does Not Explain Everything About Experience**
+## **15. IER Does Not Explain Everything About Experience**
 
 IER **does not claim** to explain:
 
@@ -270,7 +286,7 @@ IER explains **what experience is**, not **everything it contains**.
 
 ---
 
-## **15. IER Does Not Deliver a Complete Moral Theory or Algorithm**
+## **16. IER Does Not Deliver a Complete Moral Theory or Algorithm**
 
 IER **does not claim** to:
 
@@ -285,7 +301,7 @@ It does not replace ethical reasoning, judgment, or pluralistic value deliberati
 
 ---
 
-## **16. Common Misuse Patterns (All Not IER)**
+## **17. Common Misuse Patterns (All Not IER)**
 
 The following inferences are **explicitly disallowed**:
 
@@ -300,7 +316,7 @@ Each violates boundaries stated above.
 
 ---
 
-## **17. Final Boundary Statement**
+## **18. Final Boundary Statement**
 
 If a use of IER:
 

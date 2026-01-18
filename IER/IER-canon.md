@@ -1,4 +1,4 @@
-# **IER Canon (v10.8.2)**
+# **IER Canon (v10.8.3)**
 
 ## **Canonical Authority, Alignment, and Governance Rules**
 
@@ -6,7 +6,7 @@
 
 ## **Status and Purpose**
 
-This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** project as of **version 10.8.2**.
+This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** project as of **version 10.8.3**.
 
 It introduces **no ontological, criterial, epistemic, or ethical claims**.
 
@@ -20,7 +20,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 * Inclusion in the corpus means:
 
-  * the document is part of “IER v10.8.2”
+  * the document is part of “IER v10.8.3”
   * it is subject to the governance rules of this canon
   * it may be cited for orientation, exposition, or structure as appropriate
 
@@ -45,7 +45,7 @@ Within the corpus:
   * may not be cited to resolve theoretical disputes
   * must defer to canonical-authoritative material in all cases
 
-**Non-corpus material** consists of files present in the repository but **not enumerated in the manifest**. These are outside the scope of IER v10.8.2.
+**Non-corpus material** consists of files present in the repository but **not enumerated in the manifest**. These are outside the scope of IER v10.8.3.
 
 **Document inventories, tier assignments, and inclusion status are defined exclusively in `IER-manifest.md`.**
 
@@ -201,6 +201,14 @@ Costs (ethical discomfort, epistemic opacity) must be acknowledged as consequenc
 ### **G6.5 — No Adversarial Tone Toward the Reader**
 
 IER may be uncompromising in substance, never prosecutorial in tone.
+
+---
+
+## **G7 — Metaphor Constraint (Global)**
+
+Terms such as *representation*, *carrying*, *encoding*, *tracking*, *sufficiency*, or *access* are used, where they appear, **purely as descriptive shorthand**.
+
+No metaphor licenses inference to semantic content, functional sufficiency, epistemic authority, or representational structure. Where metaphor risks such inference, the literal structural interpretation governs.
 
 ---
 

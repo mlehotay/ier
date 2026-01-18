@@ -67,12 +67,12 @@ Failure on any item invalidates the work.
 
 Each clarification must appear **exactly once** as an **explicit non-inference**.
 
-* [ ] Anti-isomorphism clarification (`IER-theory.md`)
-* [ ] No nested subjects / no mini-fields (`IER-dynamics.md`)
-* [ ] Temporal continuity ≠ timescale threshold (`IER-theory.md` or `IER-math.md`)
-* [ ] Autopoiesis / operational closure denial (`IER-denials.md` or `IER-FAQ.md`)
-* [ ] Multiple realizability ≠ implementation independence (`IER-theory.md`)
-* [ ] Global metaphor audit (representation, sufficiency, epistemic creep)
+* [x] Anti-isomorphism clarification (`IER-theory.md`)
+* [x] No nested subjects / no mini-fields (`IER-dynamics.md`)
+* [x] Temporal continuity ≠ timescale threshold (`IER-theory.md` or `IER-math.md`)
+* [x] Autopoiesis / operational closure denial (`IER-denials.md` or `IER-FAQ.md`)
+* [x] Multiple realizability ≠ implementation independence (`IER-theory.md`)
+* [x] Global metaphor audit (representation, sufficiency, epistemic creep)
 
 ---
 
