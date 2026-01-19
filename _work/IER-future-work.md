@@ -99,10 +99,10 @@ Each clarification must appear **exactly once** as an **explicit non-inference**
 
 ### **Memory & History**
 
-* [ ] Memory as structural history (hysteresis, path-dependence, sedimentation)
+* [x] Memory as structural history (hysteresis, path-dependence, sedimentation)
 * [x] Explicit rejection of memory as storage, representation, or content
-* [ ] Amnesia as narrative discontinuity without experiential loss
-* [ ] Memory authority without epistemic privilege
+* [x] Amnesia as narrative discontinuity without experiential loss
+* [x] Memory authority without epistemic privilege
 
 ### **Development & Preparation**
 
@@ -159,10 +159,10 @@ Each clarification must appear **exactly once** as an **explicit non-inference**
 
 *(Misuse-blocking only; no certification.)*
 
-* [ ] Expanded slack-based exclusion arguments for AI architectures
-* [ ] Explicit “no certification” and “no sufficiency” language
-* [ ] Clarify compatibility with neuroscience without becoming one
-* [ ] Reaffirm engineering irrelevance to experiential attribution
+* [x] Expanded slack-based exclusion arguments for AI architectures
+* [x] Explicit “no certification” and “no sufficiency” language
+* [x] Clarify compatibility with neuroscience without becoming one
+* [x] Reaffirm engineering irrelevance to experiential attribution
 
 ---
 
@@ -187,8 +187,8 @@ Each clarification must appear **exactly once** as an **explicit non-inference**
 
 # **XI. Tier Assignment Corrections (Mandatory)**
 
-* [ ] Reclassify `IER-math.md` → T2
-* [ ] Reclassify `IER-ethics.md` → T2
+* [x] Reclassify `IER-math.md` → T2
+* [x] Reclassify `IER-ethics.md` → T2
 
 ---
 
