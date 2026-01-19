@@ -15,6 +15,10 @@ TEX_DIR        := $(SRC_DIR)/tex
 IER_BOOK_TEX   := $(TEX_DIR)/ier-book.tex
 IER_PAPER_TEX  := $(TEX_DIR)/ier-paper.tex
 
+# Automated tier consistency checking
+TIER_CHECK   := $(SCRIPTS_DIR)/tier_check.py
+MANIFEST     := IER-manifest.md
+
 # -----------------------------
 # Shared Pandoc/TeX baselines
 # -----------------------------
@@ -98,6 +102,7 @@ PANDOC_FOUNDATIONS_OPTS := \
 PANDOC_OPTS := $(PANDOC_PAPER_OPTS)
 
 .PHONY: all pubs dirs \
+        verify verify-tier \
         paper \
         corpus corpuslist verify-corpus verify-corpus-structure verify-corpus-authoring check-corpus \
         tldr tldrlist verify-tldr verify-tldr-structure verify-tldr-authoring check-tldr \
@@ -122,8 +127,19 @@ PAPER_PDF := $(BUILD_DIR)/IER-paper.pdf
 
 paper: $(PAPER_PDF)
 
-$(PAPER_PDF): $(PAPER_SRC) $(IER_PAPER_TEX) | dirs
+$(PAPER_PDF): verify-tier $(PAPER_SRC) $(IER_PAPER_TEX) | dirs
 	$(PANDOC) $< -o $@ $(PANDOC_PAPER_OPTS)
+
+# -----------------------------
+# Verification (tier consistency)
+# -----------------------------
+verify-tier:
+	@echo "Verifying tier consistency against $(MANIFEST)..."
+	@python3 $(TIER_CHECK)
+
+# Aggregate verification target (convenience)
+verify: verify-tier verify-corpus verify-tldr verify-foundations
+	@echo "All verification targets passed."
 
 # -----------------------------
 # Corpus Book
@@ -177,7 +193,9 @@ verify-corpus-authoring: $(CORPUS_BOOKLIST)
 # NOTE: Re-enable `verify-corpus` before any public or tagged release.
 # $(CORPUS_PDF): verify-corpus | dirs
 # $(CORPUS_PDF): verify-corpus-structure | dirs
-$(CORPUS_PDF): $(CORPUS_BOOKLIST) $(IER_BOOK_TEX) | dirs
+# $(CORPUS_PDF): verify-tier $(CORPUS_BOOKLIST) $(IER_BOOK_TEX) | dirs
+# $(CORPUS_PDF): $(CORPUS_BOOKLIST) $(IER_BOOK_TEX) | dirs
+$(CORPUS_PDF): verify-tier $(CORPUS_BOOKLIST) $(IER_BOOK_TEX) | dirs
 	@# Guard: do NOT let pandoc block by reading stdin
 	@test -s "$(CORPUS_BOOKLIST)" || (echo "ERROR: empty book list: $(CORPUS_BOOKLIST)" >&2; exit 1)
 	$(PANDOC) $$(cat "$(CORPUS_BOOKLIST)") \
@@ -244,7 +262,7 @@ verify-tldr-authoring: $(TLDR_BOOKLIST)
 	  --scaffold-dir "$(TLDR_SCAFFOLD_DIR)" \
 	  --skip-structure
 
-$(TLDR_PDF): $(TLDR_BOOKLIST) $(IER_BOOK_TEX) | dirs
+$(TLDR_PDF): verify-tier $(TLDR_BOOKLIST) $(IER_BOOK_TEX) | dirs
 	@test -s "$(TLDR_BOOKLIST)" || (echo "ERROR: empty book list: $(TLDR_BOOKLIST)" >&2; exit 1)
 	$(PANDOC) $$(cat "$(TLDR_BOOKLIST)") \
 	  --toc --toc-depth=1 \
@@ -310,7 +328,7 @@ verify-foundations-authoring: $(FOUNDATIONS_BOOKLIST)
 	  --scaffold-dir "$(FOUNDATIONS_SCAFFOLD_DIR)" \
 	  --skip-structure
 
-$(FOUNDATIONS_PDF): $(FOUNDATIONS_BOOKLIST) $(IER_BOOK_TEX) | dirs
+$(FOUNDATIONS_PDF): verify-tier $(FOUNDATIONS_BOOKLIST) $(IER_BOOK_TEX) | dirs
 	@test -s "$(FOUNDATIONS_BOOKLIST)" || (echo "ERROR: empty book list: $(FOUNDATIONS_BOOKLIST)" >&2; exit 1)
 	$(PANDOC) $$(cat "$(FOUNDATIONS_BOOKLIST)") \
 	  --toc --toc-depth=1 \
