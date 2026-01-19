@@ -91,6 +91,7 @@ You may stop here with a complete high-level understanding.
 * [`IER-saturation.md`](IER-saturation.md) — How slack disappears via exhaustion of local degrees of freedom  
 * [`IER-ethics.md`](IER-ethics.md) — Ethical consequences forced by experiential identity  
 * [`IER-diagnostics.md`](IER-diagnostics.md) — Why experiential diagnostics are impossible in principle  
+* [`IER-correlates.md`](IER-correlates.md) — Why structural correlates cannot license experiential diagnostics
 
 Nothing outside this path adds commitments.
 
@@ -105,10 +106,13 @@ They presuppose Level-1 familiarity but add **no new foundations**.
 
 ### **Philosophy of Mind & Consciousness**
 
+**Focus:** Theoretical structure, identity claims, and philosophical consequences.
+
 * [`IER-specification.md`](IER-specification.md) — Experiential identity and categorical standing  
 * [`IER-theory.md`](IER-theory.md) — Structural necessity of intrinsic constraint  
 * [`IER-slack.md`](IER-slack.md) — Exclusion of slack-admitting systems  
 * [`IER-saturation.md`](IER-saturation.md) — Intuition for the slack boundary  
+* [`IER-intelligence.md`](IER-intelligence.md) — Why intelligence does not imply consciousness
 * [`IER-puzzles.md`](IER-puzzles.md) — Structural dissolution of classic consciousness puzzles  
 * [`IER-contrast.md`](IER-contrast.md) — Incompatibilities with neighboring theories  
 * [`IER-critics.md`](IER-critics.md) — Objections, limits, and accepted costs  
@@ -120,10 +124,14 @@ They presuppose Level-1 familiarity but add **no new foundations**.
 
 ### **Ethics, AI, and Moral Uncertainty**
 
+**Focus:** Moral standing, risk, and responsibility under epistemic limits.
+
 * [`IER-specification.md`](IER-specification.md) — Standing and ethical consequences by identity  
 * [`IER-ethics.md`](IER-ethics.md) — Ethical consequences and applications (non-normative derivative)  
 * [`IER-constraint.md`](IER-constraint.md) — Constraint as the central ethical form (non-optimizing ethics)  
 * [`IER-diagnostics.md`](IER-diagnostics.md) — Structural non-diagnosability and precaution  
+* [`IER-intelligence.md`](IER-intelligence.md) — Why intelligence does not imply experiential standing  
+* [`IER-engineering.md`](IER-engineering.md) — Why engineering success cannot certify or approach experience
 * [`IER-slack.md`](IER-slack.md) — Why slack masks harm and enables false negatives  
 * [`IER-denials.md`](IER-denials.md) — Explicit non-claims that block common ethical misreads  
 * [`IER-morals.md`](IER-morals.md) — Concrete moral cases under IER  
@@ -137,6 +145,8 @@ They presuppose Level-1 familiarity but add **no new foundations**.
 ---
 
 ### **Lived Experience & Phenomenology**
+
+**Focus:** What experience is like *once it exists*.
 
 * [`IER-emotions.md`](IER-emotions.md) — Emotions as stable organizations of intrinsic constraint  
 * [`IER-crying.md`](IER-crying.md) — Crying as a regime-preserving stabilization maneuver  
@@ -158,10 +168,26 @@ They presuppose Level-1 familiarity but add **no new foundations**.
 
 ---
 
+### **Agency, Choice, and Responsibility**
+
+**Focus:** Action, ownership, and responsibility under intrinsic constraint.
+
+* [`IER-resolution.md`](IER-resolution.md) — Resolution, ownership, and admissible control  
+* [`IER-agency.md`](IER-agency.md) — Agency as owned resolution of intrinsic constraint  
+* [`IER-choice.md`](IER-choice.md) — Choice spaces and admissible futures  
+* [`IER-free-will.md`](IER-free-will.md) — Free will without indeterminism  
+* [`IER-duty.md`](IER-duty.md) — Responsibility distinctions without moral inflation  
+* [`IER-spoons.md`](IER-spoons.md) — Collapse of agency under constraint exhaustion  
+
+---
+
 ### **Cognition, Memory, and Internal Simulation**
 
-**Goal:** Understand thinking, remembering, imagining, and reflecting **without faculties, representations, or meta-level observers**.
+**Focus:** What cognition must be if experience is a single unified regime.
 
+* [`IER-cognition.md`](IER-cognition.md) — What cognition must be if experience is a single unified regime  
+* [`IER-psychology.md`](IER-psychology.md) — Psychological categories as patterns of constraint organization  
+* [`IER-narrative-self.md`](IER-narrative-self.md) — Why experience organizes around a self without containing one  
 * [`IER-participation.md`](IER-participation.md) — Participation modulation across cognition and attention  
 * [`IER-architecture.md`](IER-architecture.md) — Constraint architecture of mind under IER  
 * [`IER-memory.md`](IER-memory.md) — Memory as constraint-structured re-entry without re-living  
@@ -172,19 +198,6 @@ They presuppose Level-1 familiarity but add **no new foundations**.
 * [`IER-sedimentation.md`](IER-sedimentation.md) — Structural history without storage  
 * [`IER-hysteresis.md`](IER-hysteresis.md) — Persistent constraint and path-dependent response  
 * [`IER-calibration.md`](IER-calibration.md) — Calibration drift as structural sedimentation  
-
-This path replaces faculty-based models with **participation geometry inside a single UEF**.
-
----
-
-### **Agency, Choice, and Responsibility**
-
-* [`IER-resolution.md`](IER-resolution.md) — Resolution, ownership, and admissible control  
-* [`IER-agency.md`](IER-agency.md) — Agency as owned resolution of intrinsic constraint  
-* [`IER-choice.md`](IER-choice.md) — Choice spaces and admissible futures  
-* [`IER-free-will.md`](IER-free-will.md) — Free will without indeterminism  
-* [`IER-duty.md`](IER-duty.md) — Responsibility distinctions without moral inflation  
-* [`IER-spoons.md`](IER-spoons.md) — Collapse of agency under constraint exhaustion  
 
 ---
 
@@ -197,6 +210,8 @@ They are **not prerequisites** for any other path.
 
 ### **Time, Continuity, and Regime Interruption**
 
+**Focus:** When experience stops, resumes, or changes without subject replacement.
+
 * [`IER-continuity.md`](IER-continuity.md) — Experiential gaps without subject replacement  
 * [`IER-persistence.md`](IER-persistence.md) — Deep experiential change without identity break  
 * [`IER-sleep.md`](IER-sleep.md) — Sleep, anesthesia, and unconscious intervals  
@@ -208,8 +223,11 @@ They are **not prerequisites** for any other path.
 
 ### **Meaning, Access, Narrative, and Disagreement**
 
+**Focus:** Why experience feels meaningful, structured, and authoritative without conferring epistemic privilege.
+
 * [`IER-access.md`](IER-access.md) — Experiential access vs epistemic authority  
 * [`IER-meaning.md`](IER-meaning.md) — Meaning without ontological inflation  
+* [`IER-narrative-self.md`](IER-narrative-self.md) — Narrative coherence without a self entity
 * [`IER-insight.md`](IER-insight.md) — Sudden reorganization of intrinsic constraint  
 * [`IER-disagreement.md`](IER-disagreement.md) — Disagreement without experiential privilege  
 * [`IER-happiness.md`](IER-happiness.md) — Why happiness cannot ground value or ethics  
@@ -221,6 +239,8 @@ They are **not prerequisites** for any other path.
 
 ### **Dynamics, Attractors, and Formal Structure**
 
+**Focus:** Recurrent forms, stability, and structure across experiential systems.
+
 * [`IER-dynamics.md`](IER-dynamics.md) — Regime behavior under intrinsic constraint  
 * [`IER-math.md`](IER-math.md) — Formal expression of regimes and coherence  
 * [`IER-attractors.md`](IER-attractors.md) — Soft attractors in experience  
@@ -230,6 +250,8 @@ They are **not prerequisites** for any other path.
 ---
 
 ### **Relationships and Multi-Subject Reality**
+
+**Focus:** How multiple subjects coordinate without merging.
 
 * [`IER-relationships.md`](IER-relationships.md) — Relational regimes as constraint accommodation  
 * [`IER-love.md`](IER-love.md) — Long-horizon mutual future binding without fusion  
@@ -242,6 +264,8 @@ They are **not prerequisites** for any other path.
 
 ### **Institutions, Culture, and Collective Systems**
 
+**Focus:** Large-scale systems that matter morally without experiencing.
+
 * [`IER-social-systems.md`](IER-social-systems.md) — Institutions without subjecthood  
 * [`IER-traditions.md`](IER-traditions.md) — Traditions as constraint-management systems  
 * [`IER-corporations.md`](IER-corporations.md) — Proof that corporations are not experiential persons  
@@ -249,6 +273,8 @@ They are **not prerequisites** for any other path.
 ---
 
 ### **Interfaces and Boundary Stress Tests**
+
+**Focus:** Where experience ends — and why intuitions fail near the boundary.
 
 * [`IER-helmets.md`](IER-helmets.md) — Immersive interfaces and participation  
 * [`IER-gut.md`](IER-gut.md) — Enteric participation without subjecthood  
@@ -262,6 +288,7 @@ These are not foundations. They are *helpful ways in*.
 
 * [`IER-precis.md`](IER-precis.md) — Concise compression of core commitments  
 * [`IER-strictness.md`](IER-strictness.md) — Why the framework is intentionally strict  
+* [`IER-scope.md`](IER-scope.md) — Why IER answers identity but refuses purpose and contingency
 * [`IER-FAQ.md`](IER-FAQ.md) — Reader-facing clarifications  
 * [`IER-history.md`](IER-history.md) — Historical dependencies and preconditions  
 * [`IER-equilibrium.md`](IER-equilibrium.md) — What is it like to be an information system?  
@@ -272,10 +299,11 @@ These are not foundations. They are *helpful ways in*.
 
 ### **Interpretive Closure and Misuse Containment**
 
-These documents prevent common category errors, imported expectations, and illicit “practical” moves.
+**Focus:** Preventing illegitimate inferences and structural misreads.
 
 * [`IER-disclaimers.md`](IER-disclaimers.md) — Global interpretive constraints  
 * [`IER-diagnostics.md`](IER-diagnostics.md) — Structural limits on diagnostics and inference  
+* [`IER-correlates.md`](IER-correlates.md) — Why structural correlates cannot ground negative inference
 * [`IER-denials.md`](IER-denials.md) — Explicit non-claims of the framework  
 * [`IER-rubric.md`](IER-rubric.md) — Separating theoretical adequacy from diagnostic convenience  
 * [`IER-contrast.md`](IER-contrast.md) — Structural incompatibilities  
