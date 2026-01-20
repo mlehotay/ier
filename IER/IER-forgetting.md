@@ -339,11 +339,11 @@ It has simply ceased to be a viable way for the system to be *now*.
 
 ## **A.1 Why This Case Matters**
 
-Anterograde amnesia is often misinterpreted as evidence that memory is a prerequisite for experience, continuity, or subjecthood.
+Anterograde amnesia is frequently misinterpreted as evidence that **memory is required for experience, continuity, or subjecthood**.
 
-Under Informational Experiential Realism, this interpretation is incorrect.
+Under Informational Experiential Realism (IER), this interpretation is structurally incorrect.
 
-This appendix provides a **canonical structural walkthrough** showing how **experiential continuity** can remain fully intact despite profound disruption of **autobiographical memory formation**.
+This appendix provides a **canonical structural walkthrough** showing how **experiential continuity** may remain fully intact despite severe disruption of **autobiographical memory formation**, without invoking storage, loss of content, or graded subjecthood.
 
 ---
 
@@ -358,25 +358,27 @@ At each moment:
 * perception, affect, and action participate coherently
 * global intrinsic constraint remains intact
 
-From the standpoint of IER, this is sufficient for full experiential subjecthood.
+From the standpoint of IER, this is sufficient for **full experiential subjecthood**.
 
-No appeal to memory is required.
+No appeal to memory, recall, or narrative persistence is required for experience to exist.
 
 ---
 
-## **A.3 The Disruption: Failure of New Narrative Viability**
+## **A.3 The Disruption: Failure of New Narrative Reproducibility**
 
 Following the onset of anterograde amnesia:
 
-* newly formed experiential organizations fail to become **reproducible attractor geometries**
-* recent events cannot be coherently re-entered as narrative memory
-* autobiographical continuity across time is disrupted
+* newly instantiated experiential organizations fail to remain **reproducible** over time
+* recent experiences cannot be coherently re-entered as autobiographical memory
+* narrative continuity across time is disrupted
 
 Crucially:
 
-* no stored content is lost
-* no experiential contents are erased
-* no experiential absence occurs
+* experience still occurs when it occurs
+* no moment of experience is absent or incomplete
+* no “stored experiential content” is lost (since none exists under IER)
+
+What is disrupted are the **physical and organizational conditions required for later reproduction** of newly formed experiential organizations as explicit narrative participation.
 
 What fails is **future participation**, not past existence.
 
@@ -384,24 +386,24 @@ What fails is **future participation**, not past existence.
 
 ## **A.4 What Continues vs What Fails**
 
-This case requires a sharp distinction between two forms of continuity:
+This case requires a sharp distinction between two forms of continuity.
 
 ### **Experiential Continuity (Preserved)**
 
 * The Unified Experiential Field remains intact.
-* Experience resumes moment to moment without fragmentation.
-* The subject continues to feel, perceive, act, and respond.
+* Experience proceeds moment to moment without fragmentation.
+* The subject continues to perceive, feel, act, and respond coherently.
 * Regime continuity is preserved.
 
 ### **Autobiographical Continuity (Disrupted)**
 
-* Newly instantiated experiential organizations do not remain viable for later reproduction.
+* Newly formed experiential organizations do not remain viable for later reproduction.
 * Narrative memory cannot stabilize across time.
-* The subject cannot recall recent experiences as past events.
+* Recent experiences cannot be recalled as past events.
 
 These are **distinct structural phenomena**.
 
-The failure of the second does not compromise the first.
+The failure of autobiographical continuity does **not** compromise experiential continuity.
 
 ---
 
@@ -410,18 +412,19 @@ The failure of the second does not compromise the first.
 Under Informational Experiential Realism:
 
 * remembering is **reproduction**, not retrieval
-* memory depends on the **ongoing viability** of attractor organizations
+* memory depends on the **ongoing viability** of experiential attractor organizations
 * forgetting reflects **participation unavailability**, not erasure
 
 In anterograde amnesia:
 
 * experiential organizations occur normally
-* sedimentation may still shape behavior and affect
-* but the system cannot later reproduce those organizations as explicit memory
+* intrinsic constraint sufficient for experience persists
+* but newly formed organizations cannot later be re-entered as explicit memory
+
+Non-narrative **sedimentation** may still occur, shaping salience, affect, and response tendencies without becoming available as autobiographical recall.
 
 The experiential regime continues uninterrupted.
-
-Only narrative participation fails.
+Only **narrative participation** fails.
 
 ---
 
@@ -446,13 +449,26 @@ As long as the experiential regime can resume, the subject remains temporally co
 
 ---
 
-## **A.8 What This Case Does *Not* Imply**
+## **A.8 Scope Clarification (Clinical Non-Claims)**
+
+This appendix:
+
+* does **not** deny neurological injury or physical disruption
+* does **not** explain biological mechanisms of amnesia
+* does **not** function as a diagnostic or clinical model
+* does **not** replace neuroscientific or medical accounts
+
+It addresses only the **identity-level question** of how experience and subjecthood relate to memory under IER.
+
+---
+
+## **A.9 What This Case Does *Not* Imply**
 
 This walkthrough does **not** imply:
 
 * partial or diminished experience
 * degraded subjecthood
-* episodic “death” between moments
+* episodic disappearance of the subject
 * loss of moral or experiential standing
 * storage failure or content deletion
 
@@ -460,12 +476,12 @@ It demonstrates only that **memory participation is optional**, while experience
 
 ---
 
-## **A.9 Summary**
+## **A.10 Summary**
 
 In anterograde amnesia:
 
 * experience occurs normally
-* memory formation fails as future participation
+* newly formed autobiographical memory fails as future participation
 * narrative continuity is disrupted
 * experiential continuity is preserved
 

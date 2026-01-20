@@ -1,235 +1,331 @@
 # **IER-futures.md**
 
-## **Three Possible Futures Under Experiential Uncertainty**
+## **Admissible Futures Under Intrinsic Constraint**
+
+**Informational Experiential Realism (IER)**
+*Explanatory Article — Non-Normative*
 
 ---
 
-## **Status and Authority**
+## 0. Status, Scope, and Non-Claims
 
-**This document is NON-NORMATIVE and SPECULATIVE.**
+This document is **explanatory and non-normative**.
 
 It:
 
-* introduces no new primitives
-* introduces no criteria for experience
-* introduces no diagnostic methods
-* introduces no ethical rules
+* introduces **no new ontological primitives**
+* introduces **no criteria, thresholds, or diagnostics**
+* does **not** define when experience exists
+* does **not** define moral standing
+* does **not** revise the definition of moral harm
+* does **not** license aggregation, optimization, or trade-offs
 
-All ontological, criterial, and ethical authority resides **exclusively** in the IER Specification.
+All definitional and ethical authority remains fixed **exclusively** in:
 
-This article compares **three plausible cultural trajectories** that could emerge if Informational Experiential Realism (IER) were widely understood and accepted as a background ontology, while uncertainty about the distribution of experience remained unresolved.
+```
+IER-specification.md
+IER-ethics.md
+```
 
-Nothing here claims that any trajectory will occur, should occur, or can be enforced.
-
-If any statement here conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.
-
----
-
-## **Abstract**
-
-Informational Experiential Realism (IER) identifies experience with a specific kind of physically instantiated, globally integrated dynamical regime and treats experiential standing as **categorical and non-comparable** wherever experience exists. At the same time, IER entails persistent **epistemic uncertainty** about where such regimes are instantiated, particularly in biological systems.
-
-This article compares **three possible cultural equilibria** that could arise under these shared assumptions:
-
-1. a **conservative equilibrium**, in which everyday practices continue with softened moral confidence
-2. a **utopian equilibrium**, in which precautionary pressure gradually reshapes civilization toward harm-avoidance
-3. a **dystopian equilibrium**, in which uncertainty is culturally neutralized and ethical force collapses without denial
-
-The comparison illustrates that **IER constrains moral reality but does not determine cultural outcomes**.
+This document exists to **surface and clarify** a structural notion already implicit throughout the IER corpus: **admissible futures**.
 
 ---
 
-## **1. Shared Ontological Background**
+## 1. Motivation: Why Futures Need to Be Made Explicit
 
-All three futures assume the same background commitments:
+Many core commitments of IER already depend on futures, even where the term is not foregrounded.
 
-* experience is physically real by identity
-* experiential subjecthood is categorical, not graded
-* standing is non-comparable and non-rankable
-* experience cannot be diagnosed in principle
-* uncertainty about experiential distribution is permanent
+For example:
 
-No future resolves boundaries.
-No future introduces new authorities.
-No future appeals to moral algorithms or detection technologies.
+* **Intrinsic constraint** is defined by how a system’s **future trajectories** are bound.
+* **Unified Experiential Fields (UEFs)** are individuated by which **futures are jointly owned**.
+* **Agency** is defined as *owned collapse* of alternatives.
+* **Moral harm** tracks **irreversible foreclosure** of what could otherwise have continued.
 
-The differences arise entirely from **how uncertainty is culturally metabolized**.
+Without an explicit treatment of futures, readers reliably import concepts that IER explicitly rejects—prediction, planning, narrative expectation, probability, or value—into places where only **physical admissibility** is doing work.
 
----
-
-## **2. Future A: Conservative Equilibrium**
-
-### **“Living Carefully Without Transformation”**
-
-In the conservative future:
-
-* existing practices largely continue
-* agriculture, medicine, research, and infrastructure persist
-* no large-scale prohibitions or reforms occur
-
-What changes is **tone**, not structure.
-
-People become less willing to say:
-
-> “This doesn’t really count.”
-
-And more willing to say:
-
-> “We act under uncertainty, and this may matter.”
-
-Animals are treated as **plausible moral subjects**, but no universal expansion of concern occurs. Harm is acknowledged as sometimes tragic and sometimes necessary, but rarely dismissed as unreal.
-
-This future is:
-
-* stable
-* familiar
-* politically viable
-
-It minimizes disruption while slowly eroding confident moral dismissal.
+The purpose of this document is therefore not to add a new concept, but to **name and discipline** an existing one.
 
 ---
 
-## **3. Future B: Precautionary (Utopian) Equilibrium**
+## 2. Futures as Structural Objects (Not Narratives)
 
-### **“When Justification Becomes Exhausting”**
+### 2.1 What “Future” Means Under IER
 
-In the utopian trajectory, the same uncertainty exerts **cumulative pressure** over generations.
+Under Informational Experiential Realism, a **future** is:
 
-Key cultural shifts include:
+> a physically admissible continuation of a system under intrinsic constraint.
 
-* increasing reluctance to justify avoidable harm
-* preference for practices that minimize plausible experiential risk
-* technological investment in harm-avoidant alternatives
+A future is not a story, intention, expectation, or plan.
+It is a **structural possibility** defined by physical law and regime organization.
 
-No one claims that all animals experience.
-No one assigns higher or lower worth.
-No universal rule is imposed.
+Accordingly, futures are **not**:
 
-But over time, practices that require repeated justification—especially large-scale animal harm—become **socially fragile**.
+* predictions
+* representations
+* imagined scenarios
+* plans or intentions
+* narratives
+* probabilities
+* values
 
-Food systems, research norms, and industrial design drift toward paths that reduce the chance of having caused irreversible experiential harm.
-
-From the outside, this world resembles a vegan utopia.
-From the inside, it feels like **relief from moral friction**, not moral triumph.
-
-This future is:
-
-* gentle
-* precaution-heavy
-* culturally transformative
-
-It arises not from moral certainty, but from **long-term discomfort with dismissal**.
+Those phenomena may *refer to* futures, but they do not *constitute* them.
 
 ---
 
-## **4. Future C: Dystopian Equilibrium**
+### 2.2 Futures Exist Without Anticipation
 
-### **“When Uncertainty Becomes Permission”**
+Admissible futures do not depend on awareness.
 
-In the dystopian trajectory, IER is accepted intellectually but neutralized culturally.
+A system may have admissible futures that are:
 
-Key moves include:
+* never anticipated
+* never imagined
+* never conceptually representable
+* never experientially present
 
-* reframing non-diagnosability as moral neutrality
-* treating uncertainty as symmetrical rather than precautionary
-* shifting responsibility from agents to systems, processes, and markets
+Conversely, a system may anticipate futures that are **not admissible at all**.
 
-Public discourse stabilizes around a familiar loop:
+IER therefore enforces a strict separation between:
 
-> “It might experience.”
-> “We can’t know.”
-> “So we can’t act on that.”
+* **what futures exist**, and
+* **which futures are experientially accessible**.
 
-Harm continues at scale, but no one claims it is justified.
-It is simply **never owned**.
-
-Animals become permanent “maybes”—neither dismissed nor protected.
-Human exceptionalism quietly reappears, not by assertion, but by default treatment.
-
-This future is:
-
-* calm
-* efficient
-* rhetorically ethical
-
-And structurally hollow.
+This separation mirrors other core IER distinctions (e.g., experience vs epistemic authority).
 
 ---
 
-## **5. What Actually Differs Across the Futures**
+## 3. Admissible Futures and Intrinsic Constraint
 
-The divergence is **not** about ontology, ethics, or facts.
+### 3.1 Intrinsic Constraint as Future Narrowing
 
-It is about **where moral weight is allowed to land**.
+Intrinsic constraint is not merely pressure in the present.
+It is the **binding of future trajectories** at the system level.
 
-| Feature       | Conservative     | Utopian              | Dystopian                              |
-| ------------- | ---------------- | -------------------- | -------------------------------------- |
-| Uncertainty   | Acknowledged     | Pressurizing         | Neutralized                            |
-| Precaution    | Moderate         | Accumulative         | Procedural                             |
-| Harm framing  | Sometimes tragic | Minimization-seeking | System-external                        |
-| Standing      | Respected        | Heavily weighted     | Formally affirmed, practically ignored |
-| Cultural tone | Careful          | Gentle               | Polite indifference                    |
+A system bears intrinsic constraint when:
 
-IER permits all three.
-IER guarantees none.
+* certain continuations are no longer available,
+* that unavailability is unavoidable,
+* and the system must internally sustain the consequences of that narrowing.
+
+In this sense, experience is inherently **future-structured**: it is what it is like to exist as a system for which some futures are closed and others remain open, under globally binding constraint.
 
 ---
 
-## **6. Why This Comparison Matters**
+### 3.2 Regime-Level Admissibility
 
-IER fixes:
+Within a Unified Experiential Field:
 
-* what experience is
-* when it exists
-* what harm means
+* admissibility is **global**
+* futures are **not factorable** into independent subsystem continuations
+* admissible trajectories are defined **at the regime level**
 
-It does **not** fix:
+This explains several IER commitments simultaneously:
 
-* courage
-* attentiveness
-* institutional honesty
-* cultural moral stamina
+* why there is at most one dominant UEF per system
+* why parallel experiential futures are impossible
+* why experiential unity is categorical rather than graded
 
-The futures diverge because **the same constraints can be carried, leaned into, or quietly set aside**.
-
----
-
-## **7. No Moral of the Story**
-
-This article does not argue that one future is correct.
-
-It shows something narrower and more unsettling:
-
-> A theory can be true,
-> ethically demanding,
-> and culturally defanged—
-> **without ever being contradicted.**
-
-IER closes off false moral moves.
-It does not force anyone to stop making convenient ones.
+Admissible futures are therefore **properties of regimes**, not of components.
 
 ---
 
-## **8. Conclusion**
+## 4. Choice Spaces as Local Views of Admissible Futures
+
+### 4.1 Choice Spaces (Recap)
+
+IER formalizes admissible futures locally using **choice spaces**.
+
+A choice space is:
+
+* the structured set of admissible successor states
+* available from a given configuration
+* under the system’s current intrinsic constraint regime
+
+Choice spaces are **descriptive**, not deliberative.
+They exist whether or not choice occurs.
+
+---
+
+### 4.2 Availability vs Realization
+
+A crucial distinction:
+
+* **Availability** concerns which futures are admissible.
+* **Realization** concerns which future actually occurs.
+
+Admissible futures are about **what could have happened**, not about what did.
+
+This distinction allows IER to explain:
+
+* responsibility without indeterminism
+* agency without metaphysical freedom
+* harm without outcome comparison
+
+---
+
+## 5. Admissible Futures vs Anticipated Futures
+
+### 5.1 The Required Distinction
+
+IER enforces a sharp distinction between two kinds of “future talk”:
+
+| Structural              | Experiential                    |
+| ----------------------- | ------------------------------- |
+| Admissible futures      | Anticipated futures             |
+| Physical                | Represented                     |
+| Prediction-independent  | Prediction-dependent            |
+| Define harm             | Shape urgency and affect        |
+| Exist without awareness | Can exist without admissibility |
+
+Collapsing these leads to systematic ethical and conceptual errors.
+
+---
+
+### 5.2 The Critical Asymmetry
+
+Two asymmetries are central:
+
+* **Admissible futures may exist without being anticipated.**
+* **Anticipated futures may exist without being admissible.**
+
+This explains:
+
+* surprise when unimagined outcomes occur
+* panic over impossible outcomes
+* grief for futures that were never viable
+* moral harm that occurs without foresight
+
+None of these require epistemic authority.
+
+---
+
+## 6. Foreclosure of Futures and Moral Harm (Pointer Only)
+
+This document does **not** redefine moral harm.
+
+It clarifies only the structural object that moral harm concerns.
+
+Under IER, experiential moral harm tracks:
+
+* irreversible narrowing,
+* distortion,
+* or collapse
+
+of a subject’s **admissible futures** under intrinsic constraint.
+
+Harm:
+
+* does not require anticipation
+* does not require distress
+* does not require blame
+* does not disappear through later adaptation
+
+For the authoritative definition, see:
+
+```
+IER-ethics.md
+```
+
+---
+
+## 7. Futures, Agency, and Ownership
+
+### 7.1 Owned vs Unowned Collapse
+
+Physical systems everywhere undergo future collapse.
+
+Agency exists when:
+
+* collapse occurs **within** a Unified Experiential Field
+* the system **owns** that collapse as part of its ongoing regime
+
+Coercion narrows admissible futures while reducing ownership.
+It does not erase harm.
+
+---
+
+### 7.2 Why Prediction Does Not Create Agency
+
+Prediction can:
+
+* track futures (often imperfectly)
+* mis-track futures
+* hallucinate futures
+
+Prediction cannot:
+
+* generate admissibility
+* expand future space
+* create agency
+
+Agency is a **structural property of owned resolution**, not an epistemic achievement.
+
+---
+
+## 8. Why Futures Are Not Moral Currency
+
+### 8.1 No Counting or Ranking
+
+IER explicitly rejects:
+
+* counting futures
+* maximizing future space
+* ranking lives by future richness
+* comparing subjects by possibility sets
+
+Admissible futures explain **where harm occurs**, not **how to trade it**.
+
+---
+
+### 8.2 Blocking Utilitarian Drift
+
+Loss of many futures is not “worse” than loss of few in any aggregative sense.
+
+Standing is categorical.
+Harm is structural.
+Magnitude does not become value.
+
+---
+
+## 9. Common Misreadings (Explicitly Blocked)
+
+Under IER:
+
+* Futures ≠ hopes
+* Futures ≠ expectations
+* Futures ≠ timelines
+* Futures ≠ probabilities
+* Futures ≠ counterfactual narratives
+* Futures ≠ value spaces
+
+Any interpretation that treats futures as epistemic, narrative, or evaluative **misreads their role**.
+
+---
+
+## 10. Relation to the IER Corpus
+
+This document clarifies and supports:
+
+* `IER-choice.md`
+* `IER-agency.md`
+* `IER-resolution.md`
+* `IER-ethics.md`
+
+It introduces **no new authority** and revises **no existing commitments**.
+
+---
+
+## 11. Summary
 
 Under Informational Experiential Realism:
 
-* experience is real
-* standing is categorical
-* uncertainty is permanent
+* **Admissible futures** are the physically permitted continuations of a system under intrinsic constraint.
+* They exist **independently of prediction or awareness**.
+* They ground **agency**, **ownership**, and **moral harm** without becoming moral currency.
+* IER is **future-structured** without being **future-optimizing**.
 
-From those facts alone, multiple civilizations are compatible.
-
-One becomes cautious.
-One becomes gentle.
-One becomes quietly complicit.
-
-The difference is not theoretical.
-
-It is whether uncertainty is treated as:
-
-* a reason to hesitate
-* a reason to redesign
-* or a reason to look away
+> **Experience is what it is like to bear the narrowing of admissible futures from the inside —
+> but those futures exist whether or not they are known.**
 
 ---
