@@ -1535,7 +1535,26 @@ Combined with **structural privacy**, this entails a specific form of non-diagno
 
 ---
 
-## 77. IER-rubric.md
+## 77. IER-falsifiability.md
+
+## Status and Tier
+
+**Tier:** T3 — Misuse-Blocking / Epistemic Boundary
+**Status:** Canon-binding in a negative sense
+**Normative Authority:** None
+
+This document introduces **no new ontological, criterial, epistemic, or ethical commitments**.
+All authoritative claims remain fixed exclusively in:
+
+- `IER-specification.md`
+- `IER-theory.md`
+- `IER-ethics.md`
+
+This document exists solely to clarify **how Informational Experiential Realism (IER) can fail**, and to prevent predictable misapplications of falsifiability standards that do not apply to identity theories.
+
+---
+
+## 78. IER-rubric.md
 
 ## **1. Why a New Rubric Is Needed**
 
@@ -1560,7 +1579,7 @@ This document exists to separate **theoretical adequacy** from **epistemic conve
 
 ---
 
-## 78. IER-denials.md
+## 79. IER-denials.md
 
 ## **Why a Denials Document Is Necessary**
 
@@ -1577,7 +1596,7 @@ What follows is a representative, high-coverage list of **explicit non-claims**.
 
 ---
 
-## 79. IER-a-priori.md
+## 80. IER-a-priori.md
 
 ## **Purpose**
 
@@ -1606,7 +1625,7 @@ It clarifies **how they are evaluated and why that evaluation is unusually fraug
 
 ---
 
-## 80. IER-intelligence.md
+## 81. IER-intelligence.md
 
 ## **Orientation: Why This Confusion Persists**
 
@@ -1626,7 +1645,7 @@ This article explains **why the link breaks**, even under idealized intelligence
 
 ---
 
-## 81. IER-engineering.md
+## 82. IER-engineering.md
 
 ### **1.2 What This Document Is For**
 
@@ -1642,7 +1661,7 @@ In particular, this document aims to:
 
 ---
 
-## 82. IER-contrast.md
+## 83. IER-contrast.md
 
 Informational Experiential Realism (IER v10.8) identifies experience with a **specific organizational and dynamical regime** instantiated by certain physical systems: a **Unified Experiential Field (UEF)** operating under **coherent intrinsic constraint**.
 
@@ -1650,7 +1669,26 @@ This identity claim entails commitments that sharply distinguish IER from many n
 
 ---
 
-## 83. IER-critics.md
+## 84. IER-comparison.md
+
+## **Document Scope and Disclaimer**
+
+This document provides a **rubric-aligned comparative overview** of major theories and frameworks concerning experience, consciousness, and mind.
+
+It:
+
+* introduces **no new ontological commitments**
+* asserts **no evaluative rankings or scores**
+* establishes **no criteria, diagnostics, or thresholds**
+* makes **no claims about empirical adequacy or truth**
+* does **not** argue for IER over competing theories
+
+All summaries are **charitable, theory-relative, and descriptive**.
+If any entry conflicts with a theory’s own canonical statements, the theory’s own formulation takes precedence.
+
+---
+
+## 85. IER-critics.md
 
 ## **Purpose**
 
@@ -1670,7 +1708,7 @@ The central critical question is therefore:
 
 ---
 
-## 84. IER-reading-paths.md
+## 86. IER-reading-paths.md
 
 ## **How IER Is Meant to Be Read**
 
@@ -1697,7 +1735,7 @@ Returning selectively is allowed.
 
 ---
 
-## 85. IER-intro.md
+## 87. IER-intro.md
 
 ## Orientation
 
@@ -1711,7 +1749,7 @@ If any tension appears, those documents take precedence.
 
 ---
 
-## 86. IER-precis.md
+## 88. IER-precis.md
 
 ## 1. Orientation
 
@@ -1721,7 +1759,7 @@ IER is strict not by preference, but by consequence. The identity claim it advan
 
 ---
 
-## 87. IER-history.md
+## 89. IER-history.md
 
 ## **1. Purpose and Scope**
 
@@ -1739,7 +1777,7 @@ This is not a survey of all theories of consciousness, nor a claim of intellectu
 
 ---
 
-## 88. IER-futures.md
+## 90. IER-futures.md
 
 ## **Abstract**
 
@@ -1755,7 +1793,7 @@ The comparison illustrates that **IER constrains moral reality but does not dete
 
 ---
 
-## 89. IER-dont-panic.md
+## 91. IER-dont-panic.md
 
 ## **Why This Document Exists**
 
@@ -1783,7 +1821,7 @@ This document exists to say, clearly and explicitly:
 
 ---
 
-## 90. IER-strictness.md
+## 92. IER-strictness.md
 
 *A Reader-Facing Primer*
 
@@ -1800,7 +1838,7 @@ Its purpose is orientation, not enforcement.
 
 ---
 
-## 91. IER-scope.md
+## 93. IER-scope.md
 
 ## **1. Motivation: Why Scope Discipline Matters**
 
@@ -1832,7 +1870,7 @@ Only the former fall within IER’s scope.
 
 ---
 
-## 92. IER-idealism.md
+## 94. IER-idealism.md
 
 ## **Purpose**
 
@@ -1849,7 +1887,7 @@ This document exists to manage **interpretive pressure**, not to adjudicate meta
 
 ---
 
-## 93. IER-triangles.md
+## 95. IER-triangles.md
 
 ## **1. Why the Triangle Question Matters**
 
@@ -1865,7 +1903,7 @@ This article is written in the spirit of engagement rather than refutation. Info
 
 ---
 
-## 94. IER-magic-number.md
+## 96. IER-magic-number.md
 
 ## 0. Status and Scope
 
@@ -1879,7 +1917,7 @@ No familiarity with the song is required. The analysis is **structural rather th
 
 ---
 
-## 95. IER-equilibrium.md
+## 97. IER-equilibrium.md
 
 ## **1. Why the Question Is Not Straightforward**
 
@@ -1891,7 +1929,21 @@ The difficulty is that *information system* names a **descriptive role**, while 
 
 ---
 
-## 96. IER-FAQ.md
+## 98. IER-explanandum.md
+
+## 1. Purpose of This Document
+
+The purpose of this document is to state, **explicitly and in one place**, what Informational Experiential Realism (IER):
+
+* **does explain**
+* **does not attempt to explain**
+* **explicitly rejects as illegitimate evaluative demands**
+
+This document exists to prevent **explanandum drift**, **diagnostic smuggling**, and **mis-evaluation based on epistemic convenience**.
+
+---
+
+## 99. IER-FAQ.md
 
 ## **Status and Purpose**
 
@@ -1912,7 +1964,7 @@ Where this FAQ discusses morality, it refers **only to experiential moral harm a
 
 ---
 
-## 97. IER-glossary.md
+## 100. IER-glossary.md
 
 ## **Status and Scope**
 
@@ -1931,7 +1983,7 @@ This glossary explains **how terms are used in IER**, not how they are used else
 
 ---
 
-## 98. IER-index.md
+## 101. IER-index.md
 
 ## **Status and Scope**
 
@@ -1955,7 +2007,7 @@ If a reference here appears inconsistent with a Tier-1 document, the Tier-1 docu
 
 ---
 
-## 99. README.md
+## 102. README.md
 
 ## What This Is
 
@@ -1980,7 +2032,7 @@ It is a theory of:
 
 ---
 
-## 100. IER-canon.md
+## 103. IER-canon.md
 
 ## **Status and Purpose**
 
@@ -1992,7 +2044,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 ---
 
-## 101. IER-manifest.md
+## 104. IER-manifest.md
 
 ## **Status and Function**
 
@@ -2012,7 +2064,7 @@ It does **not** define authority, governance rules, interpretive constraints, or
 
 ---
 
-## 102. IER-changelog.md
+## 105. IER-changelog.md
 
 ## **Informational Experiential Realism — Version History**
 

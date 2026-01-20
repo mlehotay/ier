@@ -1,10 +1,10 @@
-# **IER-contrast.md (v10.8.1)**
+# **IER-contrast.md (v10.8.3)**
 
 ## **Contrast and Boundary Clarifications**
 
 ### **How Informational Experiential Realism Differs from Adjacent Frameworks**
 
-**Informational Experiential Realism (IER v10.8.1)**
+**Informational Experiential Realism (IER v10.8.3)**
 *Derived Explanatory Document — Non-Normative*
 
 ---
@@ -14,7 +14,7 @@
 This document is a **non-normative, explanatory derivative** of:
 
 ```
-IER-specification.md   (v10.8)
+IER-specification.md   (v10.8.2)
 ```
 
 It:
@@ -429,5 +429,54 @@ If a framework allows **any** of the following, it is incompatible with IER:
 * epistemic authority of experience
 * emergence as a “further fact”
 * substrate-independent instantiation
+
+---
+
+# **Appendix B — Rubric-Aligned Orientation Matrix**
+
+### *Descriptive Commitments Across Theories of Experience*
+
+This matrix compresses the contrasts above into a **rubric-aligned orientation table**.
+It tracks **how different frameworks situate experience** along shared descriptive dimensions and makes **no evaluative or adjudicative claims**.
+
+The rubric dimensions used here are defined and justified in **`IER-rubric.md`**.
+IER’s explanandum boundaries and scope exclusions are fixed in **`IER-explanandum.md`**.
+
+---
+
+| **Rubric Dimension**                | **IER**                                   | **IIT**                                   | **GNW**                         | **Predictive Processing**     | **Panpsychism**                   | **Enactivism (Non-Identity)**          |
+| ----------------------------------- | ----------------------------------------- | ----------------------------------------- | ------------------------------- | ----------------------------- | --------------------------------- | -------------------------------------- |
+| **Explanandum Framing**             | Experience itself                         | Experience as intrinsic causal power      | Access consciousness            | Cognition, perception, action | Experience as fundamental         | Sense-making, lived engagement         |
+| **Ontological Claim Type**          | Physicalist **identity** (UEF)            | Identity with integrated causal structure | Functional-architectural        | Framework-level (agnostic)    | Fundamental property              | Process-relational stance              |
+| **Unity & Subjecthood**             | **Categorical**, one per UEF              | Graded, nested complexes                  | Global availability             | Implicit                      | Ubiquitous; aggregation required  | Relational / contextual                |
+| **Phenomenal Structure**            | Structurally grounded, non-primitive      | Primitive but structured                  | Largely bracketed               | Representational / variable   | Primitive                         | Descriptive, lived structure           |
+| **Time, Persistence & Gaps**        | UEF persistence; real gaps                | Discrete temporal grains                  | Ignition events                 | Continuous dynamics           | Often assumed                     | Activity-based continuity              |
+| **Diagnostics & Epistemic Access**  | **Denied in principle**                   | Constitutive and central                  | Required                        | Permitted                     | Metaphysical attribution          | Permitted (phenomenology, interaction) |
+| **Testability / Defeat Conditions** | Identity / coherence failure              | Conceptual + empirical                    | Empirical dissociation          | Functional / empirical        | Conceptual coherence              | Explanatory coherence                  |
+| **AI & Artificial Systems**         | Possible, never certifiable               | Broadly inclusive                         | Functionally inclusive          | Broadly applicable            | Broad inclusion                   | Conditional (autonomy, embodiment)     |
+| **Ethical Standing**                | Categorical subjecthood                   | Typically graded                          | Bracketed                       | Bracketed                     | Often expansive                   | Relational / contextual                |
+| **Evaluator Hazards**               | Identity refusal misread as unfalsifiable | Φ treated as a meter                      | Access conflated with existence | Mistaken for full ontology    | “Everything conscious” caricature | Treated as identity theory             |
+
+---
+
+## **How to Read This Matrix**
+
+* The matrix is **descriptive, not evaluative**.
+  It does not rank, score, or adjudicate theories.
+
+* Rubric dimensions are **orientation lenses**, not demands.
+  A theory may reject a dimension as illegitimate.
+
+* **Refusal of diagnostics, access, or measurement is treated as a commitment, not a defect**, in line with `IER-rubric.md`.
+
+* IER’s entries reflect **explanandum discipline**, not comparative ambition, as fixed in `IER-explanandum.md`.
+
+---
+
+## **Single-Line Orientation**
+
+Apparent disputes across theories often arise not from data, but from **differences in explanandum, explanatory form, and epistemic expectations**.
+
+This matrix exists to make those differences explicit—**not to resolve them**.
 
 ---

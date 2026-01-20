@@ -113,17 +113,6 @@ Failure on any item invalidates the work.
 
 ---
 
-# **VII. Rubric & Evaluation Hardening**
-
-* [ ] Explanandum matrix (what IER explains vs excludes)
-* [ ] Identity conditions vs diagnostics clarification
-* [ ] “Identity ≠ detection rule” explicit statement
-* [ ] Falsifiability without tests articulation
-* [ ] Structural underdetermination explanation
-* [ ] Contrast matrix with major theories (descriptive only)
-
----
-
 # **X. Consistency & Drift Audits (Ongoing, Non-Blocking)**
 
 * [ ] Tier consistency checks
