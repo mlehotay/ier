@@ -63,19 +63,6 @@ Failure on any item invalidates the work.
 
 ---
 
-# **II. Mandatory Articulation Tightening (Non-Normative)**
-
-Each clarification must appear **exactly once** as an **explicit non-inference**.
-
-* [x] Anti-isomorphism clarification (`IER-theory.md`)
-* [x] No nested subjects / no mini-fields (`IER-dynamics.md`)
-* [x] Temporal continuity ≠ timescale threshold (`IER-theory.md` or `IER-math.md`)
-* [x] Autopoiesis / operational closure denial (`IER-denials.md` or `IER-FAQ.md`)
-* [x] Multiple realizability ≠ implementation independence (`IER-theory.md`)
-* [x] Global metaphor audit (representation, sufficiency, epistemic creep)
-
----
-
 # **III. Misuse & Misreading Containment (Mandatory)**
 
 * [ ] Scan Tier-2 documents for proxy / diagnostic phrasing
@@ -86,23 +73,7 @@ Each clarification must appear **exactly once** as an **explicit non-inference**
 
 ---
 
-# **IV. History & Lineage Guardrails (Mandatory)**
-
-* [x] Add guardrail box to `IER-history.md` (no influence, no refutation, no evaluation)
-* [x] Reaffirm Specification exclusivity explicitly
-
----
-
 # **V. Diachronic & Time-Extended Organization (Part II Completion)**
-
-*(All items here presuppose categorical onset and intact UEF identity.)*
-
-### **Memory & History**
-
-* [x] Memory as structural history (hysteresis, path-dependence, sedimentation)
-* [x] Explicit rejection of memory as storage, representation, or content
-* [x] Amnesia as narrative discontinuity without experiential loss
-* [x] Memory authority without epistemic privilege
 
 ### **Development & Preparation**
 
@@ -144,8 +115,6 @@ Each clarification must appear **exactly once** as an **explicit non-inference**
 
 # **VII. Rubric & Evaluation Hardening**
 
-*(Evaluation-facing; no new experiential claims.)*
-
 * [ ] Explanandum matrix (what IER explains vs excludes)
 * [ ] Identity conditions vs diagnostics clarification
 * [ ] “Identity ≠ detection rule” explicit statement
@@ -155,40 +124,12 @@ Each clarification must appear **exactly once** as an **explicit non-inference**
 
 ---
 
-# **VIII. AI, Engineering, and Boundary Stress Tests**
-
-*(Misuse-blocking only; no certification.)*
-
-* [x] Expanded slack-based exclusion arguments for AI architectures
-* [x] Explicit “no certification” and “no sufficiency” language
-* [x] Clarify compatibility with neuroscience without becoming one
-* [x] Reaffirm engineering irrelevance to experiential attribution
-
----
-
-# **IX. Tooling, Build, and Publication Infrastructure**
-
-* [x] Machine-readable manifest or index
-* [x] Validation scripts for book build
-* [x] Sentinel enforcement
-* [ ] Automated tier-violation checks
-* [ ] Linting for forbidden language classes
-
----
-
 # **X. Consistency & Drift Audits (Ongoing, Non-Blocking)**
 
 * [ ] Tier consistency checks
 * [ ] Ethics language audit against v10.8 closure
 * [ ] Reader-alignment tone audit
 * [ ] Verification that non-canonical docs are not cited as authority
-
----
-
-# **XI. Tier Assignment Corrections (Mandatory)**
-
-* [x] Reclassify `IER-math.md` → T2
-* [x] Reclassify `IER-ethics.md` → T2
 
 ---
 
