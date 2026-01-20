@@ -219,3 +219,41 @@ This release incorporates substantial **Tier-2 and Tier-4 explanatory material**
 v10.8.2 reflects a **material expansion of explanatory coverage** and a **maturation of publication infrastructure**, without reopening normative commitments.
 
 ---
+
+## **v10.8.3 — Saturation, Hardening, and Corpus Expansion (Patch)**
+
+**Status:** Released
+**Character:** Defensive articulation and unplanned completion
+
+**No ontological, criterial, epistemic, or ethical commitments were changed.**
+All normative authority remains fixed at **v10.8 / v10.8.1**.
+
+This release completes IER’s **misreading resistance and evaluation stability**, while also incorporating a larger-than-planned expansion of non-normative explanatory material that proved necessary to close recurrent confusions.
+
+### **Key outcomes:**
+
+* **Saturation articulated**
+
+  * Added a full structural account of **informational saturation** explaining how informational slack disappears
+  * No new identity conditions, thresholds, or diagnostics introduced
+
+* **Misuse and rubric hardening**
+
+  * Centralized mandatory non-inferences (no nested subjects, no thresholds, no implementation-independence drift, no autopoiesis)
+  * Completed explanandum, correlates, diagnostics, falsifiability, and rubric defenses
+  * Explicitly separated identity claims from detection, evaluation, and engineering expectations
+
+* **Substantial corpus expansion (unplanned)**
+
+  * Added major Tier-2 and Tier-3 documents clarifying:
+
+    * cognition, psychology, narrative self, memory, forgetting, participation, and architecture
+    * intelligence and engineering limits
+    * correlates, diagnostics, and scope boundaries
+  * Added comparison materials and structured reading paths to stabilize external engagement
+
+### **Interpretive note:**
+
+**v10.8.3 marks the point at which IER becomes evaluation-stable and corpus-complete against predictable misreadings.**
+
+---

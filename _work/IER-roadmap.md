@@ -43,7 +43,7 @@ This document specifies **when and how subsets of that work should be released**
 
 ---
 
-# **Updated Release Roadmap (Refactored)**
+# **Release Roadmap**
 
 ## **Versioning Principle (Reaffirmed)**
 
@@ -61,90 +61,6 @@ No listed release reopens normative closure.
 
 ---
 
-## **v10.8.3 — Saturation & Defensive Hardening**
-
-**Intent:**
-
-> *Make IER maximally resistant to misreading, misuse, and mis-evaluation.*
-
-This release prioritizes **articulation completeness**, **misuse containment**, and **rubric defense**.
-
-It is a **lockdown release**, not a growth release.
-
----
-
-### **Includes**
-
-#### **A. Mandatory Articulation Tightening**
-
-(Explicit non-inferences; appear exactly once)
-
-* Anti-isomorphism clarification
-* No nested subjects / no mini-fields
-* Temporal continuity ≠ timescale threshold
-* Autopoiesis / operational closure denial
-* Multiple realizability ≠ implementation independence
-* Global metaphor audit (representation, sufficiency, epistemic creep)
-
-#### **B. Misuse & Misreading Containment**
-
-* Diagnostic / proxy language sweep across Tier-2
-* Informational-language disclaimer verification
-* Phenomenology-adjacent graded-subjecthood audit
-* Global reinforcement: *experiential structure ≠ epistemic authority*
-
-#### **C. Rubric & Evaluation Hardening (Moved Forward)**
-
-Evaluation-facing, **non-diagnostic** clarifications, including:
-
-* Explicit explanandum matrix (what IER explains vs excludes)
-* Identity conditions vs diagnostics clarification
-* “Identity ≠ detection rule” statement
-* Falsifiability without tests articulation
-* Structural underdetermination explanation
-* Theory contrast matrices (descriptive only)
-* Expanded “no certification” language for AI and engineering contexts
-
-All rubric-facing material is **translation-only** and introduces no new claims.
-
-These materials **do not define evaluation criteria**, **do not supply tests**, and **do not license third-person assessment**; they exist solely to prevent category errors in external evaluation.
-
-#### **D. Navigation & Orientation Cleanup**
-
-* Glossary and index expansion
-* Canonical cross-linking
-* README reading-path audit
-* Minimal “where to go next” pointers by audience
-
-#### **E. History & Lineage Guardrails**
-
-* Explicit non-influence / non-refutation guardrail in `IER-history.md`
-* Reaffirmation of Specification exclusivity
-
----
-
-### **Explicit Exclusions**
-
-* No new Part II domains
-* No diachronic expansion beyond existing memory/forgetting documents
-* No development, skill, mood, or attention treatments
-* No neuroscience reframing
-* No AI certification or detection proposals
-
----
-
-### **Status of Memory & Forgetting**
-
-`IER-memory.md` and `IER-forgetting.md` remain in the corpus.
-
-They are treated in this release as:
-
-> **Stable but not yet fully integrated diachronic anchors.**
-
-Their broader theoretical integration is deferred.
-
----
-
 ## **v10.8.4 — Diachronic Organization (Focused Completion)**
 
 **Intent:**
@@ -154,8 +70,6 @@ Their broader theoretical integration is deferred.
 This release treats diachrony **properly and deliberately**, without rushing.
 
 > This release introduces **no new primitives, mechanisms, criteria, or explanatory levels**. All material consists of **structural consequences and organizational clarifications** already implied by the IER identity claim.
-
----
 
 ### **Core Topics**
 
@@ -174,7 +88,19 @@ All material:
 * avoids sub-agents and scripts
 * preserves non-diagnosability
 
----
+#### **B. Misuse & Misreading Containment**
+
+* Diagnostic / proxy language sweep across Tier-2
+* Informational-language disclaimer verification
+* Phenomenology-adjacent graded-subjecthood audit
+* Global reinforcement: *experiential structure ≠ epistemic authority*
+
+#### **D. Navigation & Orientation Cleanup**
+
+* Glossary and index expansion
+* Canonical cross-linking
+* README reading-path audit
+* Minimal “where to go next” pointers by audience
 
 ### **Explicit Exclusions**
 
@@ -193,8 +119,6 @@ All material:
 
 > No changes in this release alter meaning, commitments, or interpretive constraints.
 
----
-
 ### **Includes**
 
 * Glossary and index polish
@@ -202,8 +126,6 @@ All material:
 * Reading-path cleanup
 * Formatting, LaTeX, and glyph hygiene
 * Tone and clarity edits
-
----
 
 ### **Excludes**
 

@@ -1,4 +1,4 @@
-# **IER — Future Work and Articulation Ledger (Expanded)**
+# **IER — Future Work and Articulation Ledger**
 
 ## **Status**
 
