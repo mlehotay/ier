@@ -88,27 +88,6 @@ All material:
 * avoids sub-agents and scripts
 * preserves non-diagnosability
 
-#### **B. Misuse & Misreading Containment**
-
-* Diagnostic / proxy language sweep across Tier-2
-* Informational-language disclaimer verification
-* Phenomenology-adjacent graded-subjecthood audit
-* Global reinforcement: *experiential structure ≠ epistemic authority*
-
-#### **D. Navigation & Orientation Cleanup**
-
-* Glossary and index expansion
-* Canonical cross-linking
-* README reading-path audit
-* Minimal “where to go next” pointers by audience
-
-### **Explicit Exclusions**
-
-* Rubric packaging
-* Evaluation-facing matrices
-* AI boundary expansion
-* Engineering or implementation guidance
-
 ---
 
 ## **v10.8.5 — Navigation, Formatting, and Polish (Optional)**
@@ -126,6 +105,20 @@ All material:
 * Reading-path cleanup
 * Formatting, LaTeX, and glyph hygiene
 * Tone and clarity edits
+
+#### **B. Misuse & Misreading Containment**
+
+* Diagnostic / proxy language sweep across Tier-2
+* Informational-language disclaimer verification
+* Phenomenology-adjacent graded-subjecthood audit
+* Global reinforcement: *experiential structure ≠ epistemic authority*
+
+#### **D. Navigation & Orientation Cleanup**
+
+* Glossary and index expansion
+* Canonical cross-linking
+* README reading-path audit
+* Minimal “where to go next” pointers by audience
 
 ### **Excludes**
 

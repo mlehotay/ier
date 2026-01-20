@@ -324,3 +324,153 @@ Under Informational Experiential Realism:
 
 What cannot be coherently re-entered has not vanished.
 It has simply ceased to be a viable way for the system to be *now*.
+
+---
+
+---
+
+# **Appendix — Canonical Case: Anterograde Amnesia With Preserved Experience**
+
+**Tier:** T2
+**Status:** Explanatory, non-normative
+**Scope:** Illustrative only
+
+---
+
+## **A.1 Why This Case Matters**
+
+Anterograde amnesia is often misinterpreted as evidence that memory is a prerequisite for experience, continuity, or subjecthood.
+
+Under Informational Experiential Realism, this interpretation is incorrect.
+
+This appendix provides a **canonical structural walkthrough** showing how **experiential continuity** can remain fully intact despite profound disruption of **autobiographical memory formation**.
+
+---
+
+## **A.2 Initial Condition: Preserved Experiential Regime**
+
+Consider a subject who sustains a **Unified Experiential Field (UEF)**.
+
+At each moment:
+
+* experience is present
+* experiential contents are unified
+* perception, affect, and action participate coherently
+* global intrinsic constraint remains intact
+
+From the standpoint of IER, this is sufficient for full experiential subjecthood.
+
+No appeal to memory is required.
+
+---
+
+## **A.3 The Disruption: Failure of New Narrative Viability**
+
+Following the onset of anterograde amnesia:
+
+* newly formed experiential organizations fail to become **reproducible attractor geometries**
+* recent events cannot be coherently re-entered as narrative memory
+* autobiographical continuity across time is disrupted
+
+Crucially:
+
+* no stored content is lost
+* no experiential contents are erased
+* no experiential absence occurs
+
+What fails is **future participation**, not past existence.
+
+---
+
+## **A.4 What Continues vs What Fails**
+
+This case requires a sharp distinction between two forms of continuity:
+
+### **Experiential Continuity (Preserved)**
+
+* The Unified Experiential Field remains intact.
+* Experience resumes moment to moment without fragmentation.
+* The subject continues to feel, perceive, act, and respond.
+* Regime continuity is preserved.
+
+### **Autobiographical Continuity (Disrupted)**
+
+* Newly instantiated experiential organizations do not remain viable for later reproduction.
+* Narrative memory cannot stabilize across time.
+* The subject cannot recall recent experiences as past events.
+
+These are **distinct structural phenomena**.
+
+The failure of the second does not compromise the first.
+
+---
+
+## **A.5 Structural Explanation Under IER**
+
+Under Informational Experiential Realism:
+
+* remembering is **reproduction**, not retrieval
+* memory depends on the **ongoing viability** of attractor organizations
+* forgetting reflects **participation unavailability**, not erasure
+
+In anterograde amnesia:
+
+* experiential organizations occur normally
+* sedimentation may still shape behavior and affect
+* but the system cannot later reproduce those organizations as explicit memory
+
+The experiential regime continues uninterrupted.
+
+Only narrative participation fails.
+
+---
+
+## **A.6 Explicit Criterion Statement**
+
+> **Memory is not a criterion for experience.**
+
+A system may fully experience while being unable to remember having done so.
+
+---
+
+## **A.7 Mapping to Temporal Continuity**
+
+This case illustrates a core temporal distinction in IER:
+
+* **Regime continuity** depends on the persistence of intrinsic constraint sufficient for a Unified Experiential Field.
+* **Narrative continuity** depends on the reproducibility of autobiographical attractor organizations.
+
+Anterograde amnesia disrupts only the latter.
+
+As long as the experiential regime can resume, the subject remains temporally continuous in the sense relevant to experience and standing.
+
+---
+
+## **A.8 What This Case Does *Not* Imply**
+
+This walkthrough does **not** imply:
+
+* partial or diminished experience
+* degraded subjecthood
+* episodic “death” between moments
+* loss of moral or experiential standing
+* storage failure or content deletion
+
+It demonstrates only that **memory participation is optional**, while experience is categorical.
+
+---
+
+## **A.9 Summary**
+
+In anterograde amnesia:
+
+* experience occurs normally
+* memory formation fails as future participation
+* narrative continuity is disrupted
+* experiential continuity is preserved
+
+The subject does not disappear between moments.
+
+They simply cannot later re-enter what they were.
+
+---
