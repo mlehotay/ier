@@ -49,6 +49,14 @@ Understanding why prevents downstream confusion, ethical misapplication, and mis
 
 ---
 
+## Relation to Falsifiability
+
+The absence of experiential diagnostics under IER should not be mistaken for unfalsifiability.
+
+The conditions under which Informational Experiential Realism would fail as a theory — internal contradiction, coherence failure, or displacement by a superior identity claim — are specified in `IER-falsifiability.md`. None of those failure modes are adjudicable by tests, measurements, or third-person access.
+
+---
+
 ## **Global Informational Language Disclaimer**
 
 All uses of *information*, *constraint*, *integration*, *coherence*, *signal*, *observable*, and *diagnostic* in this document are **descriptive shorthand only**.
