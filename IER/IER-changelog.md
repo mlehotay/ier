@@ -257,3 +257,59 @@ This release completes IER’s **misreading resistance and evaluation stability*
 **v10.8.3 marks the point at which IER becomes evaluation-stable and corpus-complete against predictable misreadings.**
 
 ---
+
+## **v10.8.4 — Diachronic Organization (Focused Completion)**
+
+**Status:** Patch
+**Normative impact:** None
+**Canon status:** v10.8 remains normatively closed
+
+### **Intent**
+
+Complete IER’s account of **time-extended experiential organization** without introducing new primitives, criteria, diagnostics, or explanatory levels.
+
+All changes make **implicit structural consequences explicit** and improve internal coherence and misuse resistance.
+
+### **Key Changes**
+
+* **Experiential moral harm clarified as a genus**, not a single form.
+
+  * Explicitly distinguishes multiple organizational modes of intrinsic-constraint damage.
+  * Adds no new harm kinds, thresholds, standing rules, or obligations.
+  * Updates `IER-harm.md` accordingly.
+
+* **Diachronic integration of memory and forgetting**.
+
+  * Memory treated as structural history, not storage.
+  * Forgetting treated as participation loss or dissolution, not erasure.
+  * Added anterograde amnesia appendix to `IER-forgetting.md`.
+
+* **Reworked futures framing**.
+
+  * Clarified distinction between **admissible futures** (structural) and **anticipated futures** (epistemic).
+  * Blocks belief-based smuggling into ethics and responsibility.
+  * No new normative constraints introduced.
+
+* **Topology-based explanatory synthesis**.
+
+  * Added `IER-topology.md` and `IER-topo-companion.md`.
+  * Unifies time, identity, memory, agency, possibility, and harm as topological structure.
+  * Explanatory only; no ontological or diagnostic claims.
+
+* **New explanatory ethics applications**.
+
+  * Added `IER-gaslighting.md`, `IER-propaganda.md`, and `IER-masochism.md` (all non-normative).
+
+### **Non-Changes (Explicit)**
+
+This release does **not** modify:
+
+* experiential identity claims
+* categorical standing or onset
+* responsibility structure
+* epistemic limits or non-diagnosability
+* canon authority or versioning rules
+
+> **v10.8.4 improves compression, clarity, and alignment without altering any binding commitments.**
+
+---
