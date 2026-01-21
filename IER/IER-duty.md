@@ -156,6 +156,8 @@ Obligations do **not** bind identity across regime failure.
 
 ## **5. Responsibility**
 
+> *This document introduces responsibility only to distinguish it structurally from duty and obligation. A full treatment of responsibility — including coercion, ignorance, distributed systems, and the separation of responsibility from harm magnitude — is developed in `IER-responsibility.md`.*
+
 ### **5.1 Core Definition**
 
 > **Under IER, responsibility is the attribution of causal and organizational ownership for outcomes that occur within a subject’s admissible choice space under intrinsic constraint.**

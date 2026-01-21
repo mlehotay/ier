@@ -139,85 +139,90 @@ Characteristics:
 46. **[T2] `IER-memory.md`** — Memory as constraint-structured re-entry
 47. **[T2] `IER-forgetting.md`** — Forgetting as participation failure without loss
 48. **[T2] `IER-participation.md`** — Participation modulation across cognition
-49. **[T2] `IER-architecture.md`** — Constraint architecture of mind
-50. **[T2] `IER-aphantasia.md`** — Architectural diversity within intact UEFs
-51. **[T2] `IER-phantasia.md`** — Imagistic cognition as one stable architecture
-52. **[T2] `IER-spicy-combo.md`** — ADHD + anxiety as coupled constraint pattern
+49. **[T2] `IER-attention.md`** — TBD
+50. **[T2] `IER-skill.md`** — TBD
+51. **[T2] `IER-mood.md`** — TBD
+52. **[T2] `IER-architecture.md`** — Constraint architecture of mind
+53. **[T2] `IER-aphantasia.md`** — Architectural diversity within intact UEFs
+54. **[T2] `IER-phantasia.md`** — Imagistic cognition as one stable architecture
+55. **[T2] `IER-spicy-combo.md`** — ADHD + anxiety as coupled constraint pattern
 
 ---
 
 ### **Agency, Choice, and Ethics in Practice**
 
-53. **[T2] `IER-resolution.md`** — Resolution, ownership, and admissible control
-54. **[T2] `IER-agency.md`** — Agency as owned resolution of intrinsic constraint
-55. **[T2] `IER-choice.md`** — Choice spaces and admissible futures
-56. **[T2] `IER-free-will.md`** — Free will without indeterminism
-57. **[T2] `IER-constraint.md`** — Ethical constraint and non-closure
-58. **[T2] `IER-harm.md`** — Experiential moral harm as structural damage to intrinsic constraint
-59. **[T2] `IER-gaslighting.md`** — Analyzes gaslighting as imposed experiential miscoordination
-60. **[T2] `IER-masochism.md`** — How chosen painful intensity can remain coherent and non-harmful
-61. **[T2] `IER-morals.md`** — Concrete moral cases under IER
-62. **[T2] `IER-guilt.md`** — Guilt without fault under irreversible loss
-63. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
-64. **[T2] `IER-duty.md`** — Duty, obligation, and responsibility
-65. **[T2] `IER-futures.md`** — Admissible futures viewed from structural and experiential perspectives
+56. **[T2] `IER-resolution.md`** — Resolution, ownership, and admissible control
+57. **[T2] `IER-agency.md`** — Agency as owned resolution of intrinsic constraint
+58. **[T2] `IER-choice.md`** — Choice spaces and admissible futures
+59. **[T2] `IER-free-will.md`** — Free will without indeterminism
+60. **[T2] `IER-constraint.md`** — Ethical constraint and non-closure
+61. **[T2] `IER-harm.md`** — Experiential moral harm as structural damage to intrinsic constraint
+62. **[T2] `IER-gaslighting.md`** — Analyzes gaslighting as imposed experiential miscoordination
+63. **[T2] `IER-masochism.md`** — How chosen painful intensity can remain coherent and non-harmful
+64. **[T2] `IER-morals.md`** — Concrete moral cases under IER
+65. **[T2] `IER-guilt.md`** — Guilt without fault under irreversible loss
+66. **[T2] `IER-dilemmas.md`** — Structural misframing of classic dilemmas
+67. **[T2] `IER-duty.md`** — Duty, obligation, and responsibility
+68. **[T2] `IER-responsibility.md`** — TBD
+69. **[T2] `IER-futures.md`** — Admissible futures viewed from structural and experiential perspectives
 
 ---
 
 ### **Interface and Coupling Boundaries**
 
-66. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
-67. **[T2] `IER-gut.md`** — Enteric participation without subjecthood
-68. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
+70. **[T2] `IER-helmets.md`** — Immersive interfaces and participation
+71. **[T2] `IER-gut.md`** — Enteric participation without subjecthood
+72. **[T2] `IER-implants.md`** — Neural implants and boundary stress tests
+73. **[T2] `IER-development.md`** — TBD
 
 ---
 
 ### **Relational and Multi-Subject Regimes**
 
-69. **[T2] `IER-relationships.md`** — Relationships as constraint-accommodation regimes
-70. **[T2] `IER-love.md`** — Long-horizon, mutual future binding without fusion
-71. **[T2] `IER-friendship.md`** — Mutual coordination without binding futures
-72. **[T2] `IER-family.md`** — Inherited, asymmetric relationships that shape identity
-73. **[T2] `IER-caregiving.md`** — Sustained one-sided stabilization
-74. **[T2] `IER-groups.md`** — Teams, institutions, and movements
+74. **[T2] `IER-relationships.md`** — Relationships as constraint-accommodation regimes
+75. **[T2] `IER-love.md`** — Long-horizon, mutual future binding without fusion
+76. **[T2] `IER-friendship.md`** — Mutual coordination without binding futures
+77. **[T2] `IER-family.md`** — Inherited, asymmetric relationships that shape identity
+78. **[T2] `IER-caregiving.md`** — Sustained one-sided stabilization
+79. **[T2] `IER-groups.md`** — Teams, institutions, and movements
 
 ---
 
 ### **Institutional and Cultural Systems**
 
-75. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
-76. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
-77. **[T2] `IER-corporations.md`** — Proof that corporations are not experiential persons
-78. **[T2] `IER-propaganda.md`** — Propaganda as large-scale reshaping of experiential resolution space
+80. **[T2] `IER-social-systems.md`** — Institutions without subjecthood
+81. **[T2] `IER-traditions.md`** — Traditions as constraint-management systems
+82. **[T2] `IER-corporations.md`** — Proof that corporations are not experiential persons
+83. **[T2] `IER-propaganda.md`** — Propaganda as large-scale reshaping of experiential resolution space
 
 ---
 
-### **Structural Projections**
+### **Structural Projections of Constraint**
 
-79. **[T4] `IER-hexad.md`** — Six recurring structural projections across the IER corpus
-80. **[T2] `IER-topology.md`** — Constraint structure presupposed by all projections
+84. **[T4] `IER-hexad.md`** — Six recurring structural projections across the IER corpus
+85. **[T2] `IER-topology.md`** — Constraint structure presupposed by all projections
 
 ---
 
 ### **Misuse, Interpretation, and Evaluation Constraints (Tier 3)**
 
-81. **[T3] `IER-disclaimers.md`** — Global interpretive constraints
-82. **[T3] `IER-correlates.md`** — Why structural correlates cannot license experiential diagnostics
-83. **[T3] `IER-diagnostics.md`** — Structural limits on diagnostics and inference
-84. **[T3] `IER-falsifiability.md`** — Clarifies how IER could fail without diagnostics
-85. **[T3] `IER-rubric.md`** — Separating theoretical adequacy from diagnostic convenience
-86. **[T3] `IER-denials.md`** — Explicit non-claims
-87. **[T3] `IER-a-priori.md`** — Predictable objection patterns to identity theories
+86. **[T3] `IER-disclaimers.md`** — Global interpretive constraints
+87. **[T3] `IER-correlates.md`** — Why structural correlates cannot license experiential diagnostics
+88. **[T3] `IER-diagnostics.md`** — Structural limits on diagnostics and inference
+89. **[T3] `IER-falsifiability.md`** — Clarifies how IER could fail without diagnostics
+90. **[T3] `IER-rubric.md`** — Separating theoretical adequacy from diagnostic convenience
+91. **[T3] `IER-denials.md`** — Explicit non-claims
+92. **[T3] `IER-a-priori.md`** — Predictable objection patterns to identity theories
 
 ---
 
 ### **Comparative and Critical Engagement**
 
-88. **[T2] `IER-intelligence.md`** — Why intelligence does not imply experience
-89. **[T2] `IER-engineering.md`** — Why engineering cannot certify experience
-90. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
-91. **[T2] `IER-comparison.md`** — Rubric-aligned overview of neighboring theories
-92. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
+93. **[T2] `IER-intelligence.md`** — Why intelligence does not imply experience
+94. **[T2] `IER-engineering.md`** — Why engineering cannot certify experience
+95. **[T2] `IER-contrast.md`** — Incompatibilities with neighboring theories
+96. **[T2] `IER-comparison.md`** — Rubric-aligned overview of neighboring theories
+97. **[T2] `IER-critics.md`** — Objections, costs, and accepted consequences
 
 ---
 
@@ -230,22 +235,22 @@ These documents are:
 * **non-governing**
 * rendered as **Book Part III**
 
-93. **[T4] `IER-reading-paths.md`** — Suggested reading paths organized by IER topic  
-94. **[T4] `IER-intro.md`** — Where constraint and resolution live  
-95. **[T4] `IER-precis.md`** — Concise compression of IER’s core commitments
-96. **[T4] `IER-history.md`** — Historical dependencies and preconditions  
-97. **[T4] `IER-sociology.md`** — Cultural equilibria under experiential uncertainty  
-98. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification  
-99. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict  
-100. **[T4] `IER-scope.md`** —  Why IER answers identity but refuses purpose and contingency
-101. **[T4] `IER-idealism.md`** — Analytic idealism: shared diagnoses and decisive divergence
-102. **[T4] `IER-triangles.md`** — Dreamed geometry and structural isomorphism without representation  
-103. **[T4] `IER-magic-number.md`** — Cultural pressure on experiential unity, continuity, and irreducibility
-104. **[T4] `IER-equilibrium.md`** — What is it like to be an information system?
-105. **[T4] `IER-explanandum.md`** — States IER’s explanandum and rejects illegitimate explanatory demands
-106. **[T4] `IER-FAQ.md`** — Reader-facing clarifications  
-107. **[T4] `IER-glossary.md`** — Canon-constrained terminology  
-108. **[T4] `IER-index.md`** — Concept-to-document navigation
+98. **[T4] `IER-reading-paths.md`** — Suggested reading paths organized by IER topic  
+99. **[T4] `IER-intro.md`** — Where constraint and resolution live  
+100. **[T4] `IER-precis.md`** — Concise compression of IER’s core commitments
+101. **[T4] `IER-history.md`** — Historical dependencies and preconditions  
+102. **[T4] `IER-sociology.md`** — Cultural equilibria under experiential uncertainty  
+103. **[T4] `IER-dont-panic.md`** — Reader reassurance and scope clarification  
+104. **[T4] `IER-strictness.md`** — Why the framework is intentionally strict  
+105. **[T4] `IER-scope.md`** —  Why IER answers identity but refuses purpose and contingency
+106. **[T4] `IER-idealism.md`** — Analytic idealism: shared diagnoses and decisive divergence
+107. **[T4] `IER-triangles.md`** — Dreamed geometry and structural isomorphism without representation  
+108. **[T4] `IER-magic-number.md`** — Cultural pressure on experiential unity, continuity, and irreducibility
+109. **[T4] `IER-equilibrium.md`** — What is it like to be an information system?
+110. **[T4] `IER-explanandum.md`** — States IER’s explanandum and rejects illegitimate explanatory demands
+111. **[T4] `IER-FAQ.md`** — Reader-facing clarifications  
+112. **[T4] `IER-glossary.md`** — Canon-constrained terminology  
+113. **[T4] `IER-index.md`** — Concept-to-document navigation
 
 > **These documents constitute the complete reader-facing orientation layer of IER and correspond exactly to Book Part III.**
 
@@ -257,20 +262,20 @@ These documents are **in-corpus** and **canon-governed**, but are **not book cha
 
 They define **authority, structure, process, and navigation**, not theory.
 
-109. **`README.md`** — Repository front-door orientation
-110. **`IER-canon.md`** — Canonical authority, alignment rules, and governance
-111. **`IER-manifest.md`** — Corpus inventory and flat ordering
-112. **`IER-changelog.md`** — Version history and structural changes
+114. **`README.md`** — Repository front-door orientation
+115. **`IER-canon.md`** — Canonical authority, alignment rules, and governance
+116. **`IER-manifest.md`** — Corpus inventory and flat ordering
+117. **`IER-changelog.md`** — Version history and structural changes
 
 ### **Governance Subdirectory (Canon-Governed Infrastructure)**
 
 These files govern **how IER is built, published, interpreted, and read**, but introduce **no theoretical or ethical content**.
 
-113. **`governance/IER-build.md`** — Mechanical assembly and verification
-114. **`governance/IER-publishing.md`** — Book rendering and physical instantiation
-115. **`governance/IER-deployment.md`** — Release order and authority anchoring
-116. **`governance/IER-legal.md`** — Legal context for AI-assisted authorship
-117. **`governance/IER-readers.md`** — Audience analysis and reading patterns
+118. **`governance/IER-build.md`** — Mechanical assembly and verification
+119. **`governance/IER-publishing.md`** — Book rendering and physical instantiation
+120. **`governance/IER-deployment.md`** — Release order and authority anchoring
+121. **`governance/IER-legal.md`** — Legal context for AI-assisted authorship
+122. **`governance/IER-readers.md`** — Audience analysis and reading patterns
 
 > These files are **canon-constrained** but **non-authoritative**: they regulate process, not claims.
 
@@ -281,10 +286,10 @@ These files govern **how IER is built, published, interpreted, and read**, but i
 These materials are **in-corpus** but **non-canonical** and **non-reader-facing**.
 They exist solely to support **publication, assembly, and derivative formatting**.
 
-118. **`IER-paper-spec.md`** — Specification for academic paper derivation
-119. **`IER-corpus-book.md`** — Full-corpus book assembly instructions
-120. **`IER-foundations-book.md`** — Foundations-only book assembly
-121. **`IER-tldr-book.md`** — TLDR book assembly
+123. **`IER-paper-spec.md`** — Specification for academic paper derivation
+124. **`IER-corpus-book.md`** — Full-corpus book assembly instructions
+125. **`IER-foundations-book.md`** — Foundations-only book assembly
+126. **`IER-tldr-book.md`** — TLDR book assembly
 
 > Nothing in Part V may be cited for theoretical, ethical, or diagnostic authority.
 
@@ -295,24 +300,24 @@ They exist solely to support **publication, assembly, and derivative formatting*
 Part VI contains **externally consumable works** derived from the IER corpus.
 They are **governed by canon**, but **do not contribute to canonical authority**.
 
-122. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
+127. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
 
 ### **Selection Files (Reader-Scoped Subsets)**
 
 These files declare **which canonical chapters** appear in the publications
 
-123. **`IER-corpus-selection.md`** — Selected corpus chapters
-124. **`IER-foundations-selection.md`** — Foundations-only selection
-125. **`IER-tldr-selection.md`** — TLDR reader selection
+128. **`IER-corpus-selection.md`** — Selected corpus chapters
+129. **`IER-foundations-selection.md`** — Foundations-only selection
+130. **`IER-tldr-selection.md`** — TLDR reader selection
 
 ### **Scaffold Directories**
 
 These directories contain **publication-only** Markdown and TeX files.
 
-126. **`tex/`** — Build-layer LaTeX scaffolding
-127. **`corpus-book/`** — Front matter and disclaimers, etc
-128. **`foundations-book/`** — Foreword, etc
-129. **`tldr-book/`** — Selected corpus articles
+131. **`tex/`** — Build-layer LaTeX scaffolding
+132. **`corpus-book/`** — Front matter and disclaimers, etc
+133. **`foundations-book/`** — Foreword, etc
+134. **`tldr-book/`** — Selected corpus articles
 
 ---
 
