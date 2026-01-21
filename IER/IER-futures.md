@@ -1,212 +1,253 @@
 # **IER-futures.md**
 
-## **Admissible Futures Under Intrinsic Constraint**
+## **Admissible Futures: Structural and Experiential Views**
 
 **Informational Experiential Realism (IER)**
 *Explanatory Article — Non-Normative*
 
 ---
 
-## 0. Status, Scope, and Non-Claims
+## 0. Status, Scope, and Framing Discipline
 
 This document is **explanatory and non-normative**.
 
 It:
 
 * introduces **no new ontological primitives**
-* introduces **no criteria, thresholds, or diagnostics**
+* introduces **no criteria, thresholds, diagnostics, or metrics**
 * does **not** define when experience exists
 * does **not** define moral standing
 * does **not** revise the definition of moral harm
 * does **not** license aggregation, optimization, or trade-offs
 
-All definitional and ethical authority remains fixed **exclusively** in:
+All ontological and ethical authority remains fixed **exclusively** in:
 
 ```
 IER-specification.md
 IER-ethics.md
 ```
 
-This document exists to **surface and clarify** a structural notion already implicit throughout the IER corpus: **admissible futures**.
+### Framing commitment
+
+This document presents **one structural object — admissible futures — under two equivalent explanatory views**:
+
+* a **structural (physical / third-person)** view, and
+* an **experiential (inside-the-regime)** view.
+
+These are not alternative definitions, competing accounts, or distinct entities.
+They are two ways of describing **the same constraint structure**, analogous to how IER treats experience itself as having an outside (physical) and an inside (what-it-is-like) description without dualism.
 
 ---
 
-## 1. Motivation: Why Futures Need to Be Made Explicit
+## 1. Motivation: Why Futures Require a Dual Explanatory Treatment
 
-Many core commitments of IER already depend on futures, even where the term is not foregrounded.
+Across the IER corpus, many central claims are already forward-looking:
 
-For example:
+* intrinsic constraint binds **future trajectories**
+* Unified Experiential Fields are individuated by which **futures are jointly owned**
+* agency concerns **owned resolution of alternatives**
+* moral harm concerns **irreversible foreclosure of what could have continued**
 
-* **Intrinsic constraint** is defined by how a system’s **future trajectories** are bound.
-* **Unified Experiential Fields (UEFs)** are individuated by which **futures are jointly owned**.
-* **Agency** is defined as *owned collapse* of alternatives.
-* **Moral harm** tracks **irreversible foreclosure** of what could otherwise have continued.
+Despite this, discussions of futures reliably collapse into:
 
-Without an explicit treatment of futures, readers reliably import concepts that IER explicitly rejects—prediction, planning, narrative expectation, probability, or value—into places where only **physical admissibility** is doing work.
+* prediction or expectation,
+* narrative plans,
+* probabilities,
+* or value-laden “possible worlds.”
 
-The purpose of this document is therefore not to add a new concept, but to **name and discipline** an existing one.
+These confusions arise because admissible futures play **two explanatory roles at once**:
 
----
+1. they structure **dynamics, reachability, and stability** from the outside, and
+2. they structure **continuity, identity, and becoming** from the inside.
 
-## 2. Futures as Structural Objects (Not Narratives)
+Treating only one of these perspectives invites systematic misinterpretation.
+Treating them as two objects would violate IER’s identity discipline.
 
-### 2.1 What “Future” Means Under IER
-
-Under Informational Experiential Realism, a **future** is:
-
-> a physically admissible continuation of a system under intrinsic constraint.
-
-A future is not a story, intention, expectation, or plan.
-It is a **structural possibility** defined by physical law and regime organization.
-
-Accordingly, futures are **not**:
-
-* predictions
-* representations
-* imagined scenarios
-* plans or intentions
-* narratives
-* probabilities
-* values
-
-Those phenomena may *refer to* futures, but they do not *constitute* them.
+The solution is the same one IER already uses for experience itself:
+**one structure, two explanatory views.**
 
 ---
 
-### 2.2 Futures Exist Without Anticipation
+## 2. The Single Underlying Object: Admissible Futures
 
-Admissible futures do not depend on awareness.
+### 2.1 Core Definition (View-Neutral)
 
-A system may have admissible futures that are:
+An **admissible future** is a physically permitted continuation of a system’s organization of intrinsic constraint that remains compatible with the persistence of a **Unified Experiential Field (UEF)**.
 
-* never anticipated
-* never imagined
-* never conceptually representable
-* never experientially present
+Admissible futures are:
 
-Conversely, a system may anticipate futures that are **not admissible at all**.
+* defined by physical law and regime organization,
+* constrained by the system’s present intrinsic-constraint structure,
+* shaped irreversibly by the system’s structural history,
+* independent of prediction, anticipation, belief, or narrative access.
 
-IER therefore enforces a strict separation between:
+Admissible futures exist **whether or not** they are anticipated, represented, or even representable by the system.
 
-* **what futures exist**, and
-* **which futures are experientially accessible**.
-
-This separation mirrors other core IER distinctions (e.g., experience vs epistemic authority).
+This definition is **shared by both explanatory views**.
 
 ---
 
-## 3. Admissible Futures and Intrinsic Constraint
+## 3. The Structural (Physical / Dynamical) View of Futures
 
-### 3.1 Intrinsic Constraint as Future Narrowing
+### 3.1 Futures as Reachable, Coherence-Preserving Trajectories
 
-Intrinsic constraint is not merely pressure in the present.
-It is the **binding of future trajectories** at the system level.
+From the structural perspective, admissible futures are:
 
-A system bears intrinsic constraint when:
+* **dynamically reachable trajectories**
+* through the space of possible intrinsic-constraint organizations
+* that preserve **global coherence** of the Unified Experiential Field
+* and do not induce regime collapse or fragmentation.
 
-* certain continuations are no longer available,
-* that unavailability is unavoidable,
-* and the system must internally sustain the consequences of that narrowing.
+This is the **third-person, dynamical** description of futures.
 
-In this sense, experience is inherently **future-structured**: it is what it is like to exist as a system for which some futures are closed and others remain open, under globally binding constraint.
-
----
-
-### 3.2 Regime-Level Admissibility
-
-Within a Unified Experiential Field:
-
-* admissibility is **global**
-* futures are **not factorable** into independent subsystem continuations
-* admissible trajectories are defined **at the regime level**
-
-This explains several IER commitments simultaneously:
-
-* why there is at most one dominant UEF per system
-* why parallel experiential futures are impossible
-* why experiential unity is categorical rather than graded
-
-Admissible futures are therefore **properties of regimes**, not of components.
+It does not describe what the system expects, plans, or experiences.
+It describes which continuations are **physically viable**.
 
 ---
 
-## 4. Choice Spaces as Local Views of Admissible Futures
+### 3.2 Intrinsic Constraint, Reachability, and Regime Stability
 
-### 4.1 Choice Spaces (Recap)
+Intrinsic constraint determines:
 
-IER formalizes admissible futures locally using **choice spaces**.
+* which transitions are reachable,
+* which reorganizations are viable,
+* which perturbations can be absorbed without loss of coherence.
 
-A choice space is:
+As intrinsic constraint reorganizes over time, the set of admissible futures may:
 
-* the structured set of admissible successor states
-* available from a given configuration
-* under the system’s current intrinsic constraint regime
-
-Choice spaces are **descriptive**, not deliberative.
-They exist whether or not choice occurs.
-
----
-
-### 4.2 Availability vs Realization
-
-A crucial distinction:
-
-* **Availability** concerns which futures are admissible.
-* **Realization** concerns which future actually occurs.
-
-Admissible futures are about **what could have happened**, not about what did.
-
-This distinction allows IER to explain:
-
-* responsibility without indeterminism
-* agency without metaphysical freedom
-* harm without outcome comparison
-
----
-
-## 5. Admissible Futures vs Anticipated Futures
-
-### 5.1 The Required Distinction
-
-IER enforces a sharp distinction between two kinds of “future talk”:
-
-| Structural              | Experiential                    |
-| ----------------------- | ------------------------------- |
-| Admissible futures      | Anticipated futures             |
-| Physical                | Represented                     |
-| Prediction-independent  | Prediction-dependent            |
-| Define harm             | Shape urgency and affect        |
-| Exist without awareness | Can exist without admissibility |
-
-Collapsing these leads to systematic ethical and conceptual errors.
-
----
-
-### 5.2 The Critical Asymmetry
-
-Two asymmetries are central:
-
-* **Admissible futures may exist without being anticipated.**
-* **Anticipated futures may exist without being admissible.**
+* shrink,
+* expand,
+* bifurcate,
+* or collapse.
 
 This explains:
 
-* surprise when unimagined outcomes occur
-* panic over impossible outcomes
-* grief for futures that were never viable
-* moral harm that occurs without foresight
+* regime stability,
+* dominance,
+* failure modes,
+* and the conditions under which experience ceases.
 
-None of these require epistemic authority.
+No representational or epistemic notions are involved.
 
 ---
 
-## 6. Foreclosure of Futures and Moral Harm (Pointer Only)
+### 3.3 Structural History and Path Dependence
 
-This document does **not** redefine moral harm.
+A system’s past persists **not as stored content**, but as **constraints on what it can still become**.
+
+Because intrinsic constraint is reorganized irreversibly:
+
+* identical present configurations may have different admissible futures,
+* some future organizations become permanently unreachable,
+* others stabilize and remain viable across long durations.
+
+This path dependence:
+
+* does not involve memory storage,
+* does not require representation,
+* reflects real changes in physical organization.
+
+This is the **dynamics-facing** account of history.
+
+---
+
+## 4. The Experiential (Inside-the-Regime) View of Futures
+
+### 4.1 Futures as What the System Can Still Become
+
+From within a Unified Experiential Field, admissible futures appear as:
+
+* the system’s remaining possibilities for **coherent continuation**,
+* what the subject can still *become*,
+* what remains viable for identity to persist.
+
+This is not a subjective redefinition of futures.
+It is the **inside description** of the same structural constraints.
+
+Where the structural view speaks of reachability,
+the experiential view speaks of **becoming**.
+
+---
+
+### 4.2 Continuity Without Recall
+
+Experiential continuity does **not** require:
+
+* narrative memory,
+* autobiographical recall,
+* representational access to the past.
+
+Continuity requires only that:
+
+* a non-empty set of admissible futures remains,
+* and those futures preserve regime coherence.
+
+This explains why:
+
+* subjects persist across unconscious gaps,
+* anesthesia and sleep need not destroy identity,
+* continuity is forward-structured rather than backward-stored.
+
+---
+
+### 4.3 Memory and Forgetting as Future Viability
+
+From the experiential view:
+
+* **Memory** corresponds to the continued admissibility of certain experiential organizations.
+* **Forgetting** corresponds to the loss of future viability of those organizations.
+
+Nothing is erased.
+Nothing is deleted.
+
+What changes is **what can still happen**.
+
+Memory and forgetting are therefore not primarily backward-looking phenomena.
+They are differences in **future accessibility** under intrinsic constraint.
+
+---
+
+## 5. The Equivalence Claim (No Dualism)
+
+### 5.1 One Structure, Two Views
+
+The structural and experiential views:
+
+* describe the **same admissible futures**,
+* differ only in explanatory orientation,
+* introduce no additional ontology.
+
+There is no gap to bridge:
+
+* the “inside” is simply what the structure is like when borne,
+* the “outside” is what the same structure looks like when described dynamically.
+
+This is exactly parallel to IER’s treatment of experience itself.
+
+---
+
+### 5.2 Explicitly Blocked Misreadings
+
+This dual-view framework does **not** imply:
+
+* two kinds of futures,
+* epistemic access to structure,
+* representational mediation,
+* narrative authority,
+* probabilistic interpretation,
+* or value ranking.
+
+The views are **explanatory**, not ontological.
+
+---
+
+## 6. Admissible Futures and Moral Harm (Orientation Only)
+
+This document does **not** define moral harm.
 
 It clarifies only the structural object that moral harm concerns.
 
-Under IER, experiential moral harm tracks:
+Under IER, experiential moral harm involves:
 
 * irreversible narrowing,
 * distortion,
@@ -214,14 +255,17 @@ Under IER, experiential moral harm tracks:
 
 of a subject’s **admissible futures** under intrinsic constraint.
 
-Harm:
+From the structural view:
 
-* does not require anticipation
-* does not require distress
-* does not require blame
-* does not disappear through later adaptation
+* harm is deformation of future-space viability.
 
-For the authoritative definition, see:
+From the experiential view:
+
+* harm is forced reorganization of what the subject can still become.
+
+These describe **the same damage**.
+
+Authoritative definitions remain in:
 
 ```
 IER-ethics.md
@@ -229,103 +273,63 @@ IER-ethics.md
 
 ---
 
-## 7. Futures, Agency, and Ownership
+## 7. Why Futures Are Not Moral Currency
 
-### 7.1 Owned vs Unowned Collapse
-
-Physical systems everywhere undergo future collapse.
-
-Agency exists when:
-
-* collapse occurs **within** a Unified Experiential Field
-* the system **owns** that collapse as part of its ongoing regime
-
-Coercion narrows admissible futures while reducing ownership.
-It does not erase harm.
-
----
-
-### 7.2 Why Prediction Does Not Create Agency
-
-Prediction can:
-
-* track futures (often imperfectly)
-* mis-track futures
-* hallucinate futures
-
-Prediction cannot:
-
-* generate admissibility
-* expand future space
-* create agency
-
-Agency is a **structural property of owned resolution**, not an epistemic achievement.
-
----
-
-## 8. Why Futures Are Not Moral Currency
-
-### 8.1 No Counting or Ranking
+Both explanatory views agree on what admissible futures **do not** imply.
 
 IER explicitly rejects:
 
-* counting futures
-* maximizing future space
-* ranking lives by future richness
-* comparing subjects by possibility sets
+* counting futures,
+* ranking futures,
+* maximizing possibility space,
+* trading futures across subjects.
 
-Admissible futures explain **where harm occurs**, not **how to trade it**.
+Admissible futures explain **where harm occurs**, not **how to optimize outcomes**.
 
----
-
-### 8.2 Blocking Utilitarian Drift
-
-Loss of many futures is not “worse” than loss of few in any aggregative sense.
-
-Standing is categorical.
-Harm is structural.
+Standing remains categorical.
 Magnitude does not become value.
 
 ---
 
-## 9. Common Misreadings (Explicitly Blocked)
+## 8. Relation to the IER Corpus
 
-Under IER:
+The **structural view** supports and is used by:
 
-* Futures ≠ hopes
-* Futures ≠ expectations
-* Futures ≠ timelines
-* Futures ≠ probabilities
-* Futures ≠ counterfactual narratives
-* Futures ≠ value spaces
+* `IER-dynamics.md`
+* `IER-math.md`
+* `IER-saturation.md`
+* `IER-hysteresis.md`
 
-Any interpretation that treats futures as epistemic, narrative, or evaluative **misreads their role**.
+The **experiential view** supports and is used by:
 
----
+* `IER-theory.md`
+* `IER-continuity.md`
+* `IER-memory.md`
+* `IER-forgetting.md`
+* `IER-persistence.md`
 
-## 10. Relation to the IER Corpus
-
-This document clarifies and supports:
-
-* `IER-choice.md`
-* `IER-agency.md`
-* `IER-resolution.md`
-* `IER-ethics.md`
-
-It introduces **no new authority** and revises **no existing commitments**.
+No document redefines admissible futures.
+Each selects the explanatory view appropriate to its task.
 
 ---
 
-## 11. Summary
+## 9. Summary
 
-Under Informational Experiential Realism:
+* Admissible futures are **physically permitted continuations** under intrinsic constraint.
+* They form a **single structural object**.
+* That object admits:
 
-* **Admissible futures** are the physically permitted continuations of a system under intrinsic constraint.
-* They exist **independently of prediction or awareness**.
-* They ground **agency**, **ownership**, and **moral harm** without becoming moral currency.
-* IER is **future-structured** without being **future-optimizing**.
+  * a **structural / physical** description (reachability, stability),
+  * an **experiential** description (continuity, becoming).
+* These views are equivalent, not competing.
+* Together, they allow IER to explain:
 
-> **Experience is what it is like to bear the narrowing of admissible futures from the inside —
-> but those futures exist whether or not they are known.**
+  * dynamics and identity,
+  * memory and forgetting,
+  * agency and moral harm,
+  * without storage, representation, or epistemic privilege.
+
+> **Just as experience is one thing with an inside and an outside,
+> admissible futures are one structure with two explanatory faces.**
 
 ---
