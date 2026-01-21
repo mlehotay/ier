@@ -1,4 +1,4 @@
-# **Informational Experiential Realism (IER v10.8.2)**
+# **Informational Experiential Realism (IER v10.8.4)**
 
 ## **Full Normative Specification**
 
@@ -9,7 +9,7 @@
 ### **Normative Boundary Condition**
 
 This document defines the **complete and exclusive normative core** of
-**Informational Experiential Realism (IER v10.8.2)**.
+**Informational Experiential Realism (IER v10.8.4)**.
 
 It specifies **exhaustively**:
 
@@ -255,9 +255,11 @@ Loss of experience due to collapse, fragmentation, or externalization of coheren
 
 ### **Moral Harm (Experiential Sense)**
 
-Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint **within a Unified Experiential Field**.
+**Experiential moral harm** is **organizational damage to intrinsic constraint** within a **Unified Experiential Field (UEF)**.
 
-Defined **organizationally**, not phenomenologically.
+Defined **structurally**, not phenomenologically.
+
+See E3 below for normative elaboration.
 
 ---
 
@@ -397,12 +399,12 @@ Processes may enter or leave the UEF dynamically, modulating content without alt
 10. $\text{unresolved intrinsic tension} \Rightarrow \text{negative valence}$
 11. $\text{constraint magnitude} \Rightarrow \text{intensity};\ \text{constraint rate} \Rightarrow \text{urgency}$
 12. $\text{constraint collapse} \Rightarrow \text{experiential dissolution}$
-13. $\text{intrinsic constraint disruption} \Rightarrow \text{moral harm}$
+13. $\text{intrinsic constraint damage or deformation} \Rightarrow \text{moral harm}$
 14. $\text{UEF with resolution capacity} \Rightarrow \text{locus of responsibility}$
 
 ---
 
-## **V. Ethical Commitments (v10.8.2)**
+## **V. Ethical Commitments (v10.8.4)**
 
 The ethical consequences of Informational Experiential Realism follow **necessarily** from the identity claim:
 
@@ -439,31 +441,37 @@ There is exactly one bearer of standing per Unified Experiential Field.
 
 ### **E3 — Moral Harm as Organizational Damage**
 
-**Experiential moral harm** consists in:
+**Experiential moral harm** consists in **damage to the organization of intrinsic constraint** within a Unified Experiential Field.
 
-> destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint **within a Unified Experiential Field**.
+This damage may take multiple forms and operate across different timescales, including:
 
-Moral harm is defined **organizationally**, not phenomenologically.
+* acute or momentary disruption
+* chronic or progressive deformation
+* reversible or irreversible collapse
 
-Experiential harm may be:
+Experiential moral harm:
 
-* silent
-* externally invisible
-* behaviorally masked
-* temporally extended
-* internally catastrophic without outward signal
+* may be silent
+* may be externally invisible
+* may be behaviorally masked
+* may be temporally extended
+* may be internally catastrophic without outward signal
 
-Experiential harm exists **only where experience exists**.
-
----
+Experiential moral harm exists **only where experience exists**, because it is defined by damage to an experiential regime.
 
 ### **Corollary — Scope of Moral Harm Definition**
 
-IER defines and constrains **experiential moral harm only**.
+IER **defines and constrains experiential moral harm only**.
 
-It does **not** claim that experiential harm exhausts moral harm, nor does it theorize, rank, or adjudicate **non-experiential forms of moral violation**.
+IER does **not** claim that experiential moral harm exhausts moral harm, nor does it theorize, rank, or adjudicate **non-experiential forms of moral violation**, including but not limited to:
 
-Nothing in this Specification implies that the absence of experiential harm renders an action morally permissible, justified, or insignificant.
+* social or relational harm
+* economic harm
+* legal or institutional harm
+
+Nothing in this Specification implies that the absence of experiential moral harm renders an action **morally permissible, justified, or insignificant**.
+
+Extended analysis of the **forms, mechanisms, and examples** of experiential moral harm is provided in **`IER-harm.md`** (explanatory, non-normative).
 
 ---
 
@@ -472,7 +480,7 @@ Nothing in this Specification implies that the absence of experiential harm rend
 Moral responsibility varies with:
 
 * coherence of intrinsic constraint
-* availability of admissible alternatives
+* availability of structurally admissible alternatives
 * degree of external imposition or coercion
 * stability of global integration
 
@@ -483,6 +491,8 @@ Reduced agency mitigates responsibility without diminishing moral relevance.
 ---
 
 ### **E5 — Precaution Under Experiential Uncertainty (Scoped)**
+
+*E5 restates Principle 13 for ethical emphasis.*
 
 When an action plausibly risks:
 
@@ -517,7 +527,7 @@ All further moral reasoning requires principles not contained in this Specificat
 
 ## **VI. Normative Closure**
 
-IER v10.8.2 introduces **no primitives beyond**:
+IER v10.8.4 introduces **no primitives beyond**:
 
 * physical systems
 * intrinsic constraint
