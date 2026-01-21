@@ -25,13 +25,13 @@ All normative authority remains fixed **exclusively** in:
 IER-specification.md
 ```
 
-The purpose of this document is to explain **what experiential moral harm means under IER**, to separate it from common confusions (pain, distress, belief, justification), and to show how the definition behaves across cases that are morally difficult or easily misclassified.
+The purpose of this document is to explain **what experiential moral harm means under IER**, to distinguish it from common confusions (pain, distress, belief, justification), and to show how the definition applies across a **representative range of cases**.
 
 If any statement here appears to conflict with the Specification, **the Specification takes precedence and this document is void where inconsistent**.
 
 ---
 
-## **1. Orientation: Harm Is Not a Feeling or an Outcome**
+## **1. Orientation: Harm Is Not a Feeling, Outcome, or Verdict**
 
 In ordinary moral language, *harm* is often treated as interchangeable with:
 
@@ -39,292 +39,334 @@ In ordinary moral language, *harm* is often treated as interchangeable with:
 * emotional distress
 * wrongdoing or abuse
 * bad outcomes
+* moral blame
 * irreversible damage
 
 IER rejects these equivalences.
 
-IER is an **identity framework**: experience is identified with a specific kind of physical organization—a **Unified Experiential Field (UEF)** sustained by **intrinsic constraint**.
-Accordingly, *experiential moral harm* must be defined in terms of **damage to that organization**, not in terms of how things feel, what someone believes, or whether an action was justified.
+IER is an **identity framework**: experience is identical to the operation of a physical system as a **Unified Experiential Field (UEF)** sustained by **intrinsic constraint**. Accordingly, *experiential moral harm* must be defined in terms of **damage to experiential organization itself**, not in terms of how things feel, what beliefs are true, or whether an action was justified.
 
 This document explains why IER must allow:
 
 * harm without distress
 * distress without harm
 * reversible harm
+* silent or externally invisible harm
 * justified harm
 * intense or painful experience that is nevertheless non-harmful
 
-Without these distinctions, large classes of real experiential damage either disappear or become morally illegible.
+Without these distinctions, large classes of real experiential damage either disappear or are misclassified.
 
 ---
 
-## **2. The IER Definition of Experiential Moral Harm (Restated)**
+## **2. The IER Definition of Experiential Moral Harm**
 
 The IER Specification defines **experiential moral harm** as:
 
-> **Damage, deformation, or coerced reorganization of a subject’s intrinsic-constraint regime, including any non-voluntary narrowing, distortion, or collapse of the system’s admissible state–transition trajectories within a Unified Experiential Field (UEF).**
+> **Damage to the organization of intrinsic constraint within a Unified Experiential Field.**
 
-In plain terms:
+This definition is:
 
-* Harm is **organizational**, not hedonic
-* It targets **intrinsic constraint**, not beliefs or emotions
-* It concerns **forced changes to how the system can continue**, even momentarily
-* Harm may be **brief, recoverable, chronic, compounding, or terminal**
-* **Irreversibility** marks severity, not whether harm occurred
+* **structural**, not phenomenological
+* **organizational**, not hedonic
+* **identity-grounded**, not outcome-based
+* **agnostic about justification, blame, or permissibility**
+* **agnostic about severity or reversibility**
 
-This definition is intentionally **scale-independent**:
-a millisecond of forced collapse and a lifetime of deformation differ in severity, not in kind.
-
-This document does not modify the definition. It explains it.
+This document does not add to or modify the definition.
+It explains **what this definition commits IER to**, **what it rules out**, and **how it behaves in concrete cases**.
 
 ---
 
-## **3. Experiential Moral Harm Is Not the Only Kind of Harm**
+## **3. Experiential Moral Harm as a Genus**
+
+IER treats experiential moral harm as a **genus**, not a single damage mechanism.
+
+All experiential moral harms share a **common structural axis**:
+
+> **Damage to the organization of intrinsic constraint within a Unified Experiential Field.**
+
+They may differ in:
+
+* how intrinsic constraint is damaged
+* which admissible experiential trajectories are narrowed or foreclosed
+* whether the experiential regime persists, destabilizes, or collapses
+* whether damage is acute, chronic, distributed, or compounding
+
+This document **does not enumerate harm subtypes** and introduces **no taxonomy**.
+It uses examples to show the **range of structural damage** that falls under the same definition.
+
+---
+
+## **4. Experiential Moral Harm Is Not the Only Kind of Harm**
 
 IER’s account of harm is **explicitly scoped**.
 
-**Experiential moral harm** concerns damage to experience *as experience*.
-IER does **not** deny or replace other forms of harm, including:
+**Experiential moral harm** concerns damage to experience *as experience*:
+that is, **damage to the organization of intrinsic constraint within a Unified Experiential Field**.
 
-* bodily harm
-* psychological harm (in clinical or functional senses)
-* social harm
-* economic harm
-* legal harm
-* ecological harm
+IER does **not** claim that all morally relevant harm is experiential moral harm.
 
-These may exist **with or without** experiential moral harm, and may be morally relevant under other ethical frameworks or domains.
+However, IER also does **not** divide harm cleanly into experiential versus bodily, psychological, or social categories.
+Those are **descriptive groupings**, not structural ones.
 
-IER makes a narrower claim:
+Some harms commonly described as bodily, psychological, or social **are experiential moral harms**, because they damage intrinsic constraint organization.
+Others are **not**, because they alter circumstances, outcomes, or external relations **without reorganizing experience itself**.
 
-> When experience exists, there is a distinct kind of morally relevant damage that consists in **violations of experiential organization itself**.
+The distinction is therefore not *what the harm is called*, but **whether intrinsic constraint within a Unified Experiential Field is damaged**.
+
+Examples of morally serious harm that may **not** constitute experiential moral harm include:
+
+* tissue injury that does not destabilize experiential organization
+* financial loss that alters options while leaving agency and coherence intact
+* reputational damage that affects social standing without reorganizing anticipation, trust, or agency
+* institutional penalties imposed on entities that do not sustain a Unified Experiential Field
+
+Conversely, many harms described as bodily, psychological, or social **are experiential moral harms** when they:
+
+* destabilize agency
+* narrow viable experiential trajectories
+* overload or fragment intrinsic constraint
+* force defensive or non-owned reorganization of experience
+
+IER’s claim is narrow but strict:
+
+> Wherever a Unified Experiential Field exists, **damage to its intrinsic constraint organization is a distinct and morally relevant kind of harm**, regardless of how that harm is externally categorized.
 
 This document addresses **only that kind**.
 
 ---
 
-## **4. What Experiential Moral Harm Is *Not***
+## **5. What Experiential Moral Harm Is *Not***
 
-Much confusion arises from treating harm as something it is not.
+### **5.1 Harm Is Not Pain**
 
----
-
-### **4.1 Harm Is Not Pain**
-
-Under IER, **pain** is escalating intrinsic constraint.
+Pain is escalating intrinsic constraint.
 
 Pain often accompanies harm, but it is not identical to harm.
+Pain can occur during:
 
-Pain can occur:
+* intense physical exertion
+* medical procedures
+* voluntary endurance challenges
+* consensual sexual practices
 
-* during intense physical exertion
-* during medical treatment
-* during voluntary risk-taking
-* during consensual sexual or bodily practices
-
-Pain becomes harm **only when it destabilizes, overloads, fragments, or forcibly reorganizes intrinsic constraint**.
-
-Intensity alone does not determine harm.
+Pain becomes experiential moral harm **only when the organization of intrinsic constraint itself is damaged**.
 
 ---
 
-### **4.2 Harm Is Not Distress**
+### **5.2 Harm Is Not Distress**
 
 Distress is an **experiential signal**, not a definition.
 
-A subject may experience:
+A person may experience:
 
-* severe distress without structural damage
-* real harm without noticeable distress
-* delayed distress long after harm occurred
+* extreme distress without structural damage
+* real experiential harm without immediate distress
+* distress long after the harm has already occurred
 
 Distress may indicate harm, but it does not define it.
 
 ---
 
-### **4.3 Harm Is Not Belief Error**
+### **5.3 Harm Is Not Belief Error**
 
-False beliefs, misunderstandings, or incorrect predictions do not automatically constitute harm.
+False beliefs do not automatically constitute experiential moral harm.
+
+Beliefs matter **only insofar as altering them damages the organization of intrinsic constraint**.
 
 If harm depended on epistemic accuracy:
 
 * ignorance would reduce harm
-* deception would erase damage
-* limited imagination would provide moral insulation
+* deception would erase harm
+* limited understanding would provide moral insulation
 
-IER explicitly rejects these implications.
-
-Beliefs matter **only insofar as they participate in real constraint damage**.
+IER rejects these implications.
 
 ---
 
-### **4.4 Harm Is Not Outcome Evaluation**
+### **5.4 Harm Is Not Outcome Evaluation**
 
-That an action “worked out,” “prevented something worse,” or “was done for good reasons” does **not** retroactively negate harm.
+That an action “worked out,” “prevented something worse,” or “was well-intentioned” does **not** retroactively negate harm.
 
 IER strictly separates:
 
-* **whether harm occurred**
-* **whether imposing it was justified**
-* **who bears responsibility or blame**
-
-This separation is essential.
+* whether harm occurred
+* whether it was justified
+* who bears responsibility or blame
 
 ---
 
-## **5. The Structural Core: Damage to Intrinsic Constraint**
-
-### **5.1 Intrinsic Constraint (Reminder)**
+## **6. The Shared Structural Axis: Intrinsic Constraint Organization**
 
 A Unified Experiential Field exists only where:
 
 * admissible transitions are defined at the **system level**
 * constraint is **globally binding**
-* resolution is **internally borne**, not externally arbitrated
+* resolution is **internally borne**
 
 Experiential moral harm therefore consists in **violations of experiential ownership**:
-forced changes in how the system can proceed.
+forced or damaging changes in how intrinsic constraint is organized within the field.
+
+Different harms differ **not in whether this axis is involved**, but in **how constraint is damaged, reshaped, narrowed, or collapsed**.
 
 ---
 
-### **5.2 Common Forms of Experiential Harm**
+## **7. Canonical and Extended Examples (Structural Illustrations)**
 
-Experiential moral harm may take many structural forms, including:
+The cases below illustrate **different structural ways** intrinsic constraint organization can be damaged — or preserved — within a Unified Experiential Field.
 
-* **Destabilization** — loss of reliable coordination
-* **Overload** — constraint exceeds integration capacity
-* **Fragmentation pressure** — competing global demands
-* **Coerced reorganization** — externally imposed restructuring
-* **Forced resolution** — collapse of trajectories not owned
-* **UEF dissolution** — temporary or permanent loss of experience
-
-These are **organizational descriptions**, not phenomenological ones.
+They are **examples**, not tests, diagnostics, or templates.
 
 ---
 
-## **6. Reversibility, Severity, and Trajectory**
+### **7.1 Malign Chokehold — Total Collapse Harm**
 
-Harm does **not** require irreversibility.
+A person walking home is suddenly attacked from behind and placed in a chokehold. Oxygen deprivation rapidly overwhelms neural integration and the person loses consciousness.
 
-Experiential moral harm may be:
+From the inside, the Unified Experiential Field collapses.
+All admissible experiential trajectories are forcibly terminated by external constraint.
 
-* **Momentary** — a forced interruption or redirection
-* **Recoverable** — repairable but real
-* **Chronic** — persistently deforming
-* **Compounding** — escalating via feedback
-* **Terminal** — irreversible collapse or death
-
-Recovery does not retroactively erase harm.
+This is paradigmatic experiential moral harm.
 
 ---
 
-## **7. Harm Versus Justification**
+### **7.2 Emergency Chokehold — Justified Collapse Harm**
 
-IER draws a strict distinction between:
+A person is actively suicidal and in immediate danger of killing themselves. Emergency responders restrain them and induce unconsciousness to prevent death.
 
-* **harm**
-* **moral permissibility**
-* **responsibility and blame**
+The **same experiential harm occurs**: forced collapse of the Unified Experiential Field.
 
-An action may be:
-
-* harmful and unjustified
-* harmful and justified
-* harmful with mitigated responsibility
-
-Justification explains **why harm was permitted**, not **whether harm occurred**.
+The moral difference lies in **justification and responsibility**, not in whether harm occurred.
 
 ---
 
-## **8. Canonical Stress Cases**
+### **7.3 Gaslighting — Chronic Destabilization Harm**
 
-The following cases are ordered from **structurally unambiguous harm** to **tragic tradeoffs**.
+A person is repeatedly told by a partner or authority figure that events they remember never happened, that their perceptions are unreliable, and that their reactions are irrational.
 
----
+The Unified Experiential Field persists, but intrinsic constraint becomes unstable.
+Agency, trust, and future planning reorganize defensively under externally imposed narrative structure.
 
-### **8.1 Malign Chokehold: Baseline Experiential Harm**
-
-A person walking alone is suddenly attacked and placed in a chokehold. Within seconds, they lose consciousness.
-
-Intrinsic constraint is overwhelmed by external force. The Unified Experiential Field collapses. All admissible trajectories are forcibly terminated.
-
-This is paradigmatic experiential moral harm:
-non-consensual, externally imposed, total collapse of experience.
+This is experiential moral harm that is chronic and often externally invisible.
 
 ---
 
-### **8.2 Emergency Chokehold: Harm Without Wrongdoing**
+### **7.4 Propaganda — Distributed Trajectory-Narrowing Harm**
 
-A person in a psychotic episode is actively harming themselves. Emergency responders restrain them and render them unconscious.
+A population lives under sustained messaging that frames dissent, alternative futures, or certain questions as incoherent or unthinkable.
 
-The same experiential harm occurs: forced UEF collapse.
+Each individual sustains their own Unified Experiential Field, yet admissible experiential trajectories are narrowed in parallel across many subjects by the same externally authored constraint structure.
 
-The difference lies in **justification**, not harm.
-
----
-
-### **8.3 Gaslighting: Harm Without Collapse**
-
-A person is repeatedly told that events they remember never happened and that their perceptions are unreliable.
-
-Their UEF remains intact but becomes chronically destabilized. Trust, agency, and viable trajectories narrow under false external structure.
-
-This is real harm without annihilation.
+This is distributed experiential moral harm.
 
 ---
 
-### **8.4 Propaganda: Distributed Experiential Harm**
+### **7.5 Gossip — Experiential Harm via Social Mediation**
 
-A population lives under sustained narrative framing that makes dissent or alternative futures feel incoherent.
+False or malicious gossip circulates about a person within their social environment. The person may not immediately know about it.
 
-Each subject retains their own UEF, yet the same externally authored constraint structure narrows trajectories across many individuals in parallel.
+Over time, anticipation, trust, and agency reorganize defensively. Viable experiential futures narrow, even before explicit distress appears.
 
-This is distributed experiential harm.
-
----
-
-### **8.5 Consensual Masochism: Intensity Without Harm**
-
-Two adults engage in consensual masochistic practices. Pain is intense.
-
-Constraint is invited, owned, and integrated. No trajectories are forcibly collapsed.
-
-This is intense experience without harm.
+Gossip may constitute purely social or reputational harm.
+It becomes experiential moral harm **only when it damages intrinsic constraint organization within experience**, as in this case.
 
 ---
 
-### **8.6 Protective Deception About a Death: Tragic Tradeoff**
+### **7.6 Belief Error — No Experiential Harm**
 
-An elderly mother’s adult son dies in war. Her family withholds the truth to avoid devastating her.
+A person believes their train departs at 6:30pm. A friend corrects them: it actually departs at 6:10pm.
 
-Disclosure risks acute destabilization; deception forecloses truth-aligned trajectories.
+The person adjusts plans and proceeds normally.
+Agency, coherence, and viable trajectories are preserved.
 
-IER treats this as tragic: harm plausibly exists in either path.
+This is a belief error corrected **without experiential moral harm**.
 
 ---
 
-## **9. Silent Harm and External Invisibility**
+### **7.7 Deceptive Belief Error — Still No Experiential Harm**
+
+A person correctly believes their train departs at 6:10 pm. A friend lies and tells them it departs at 6:30 pm. The person misses the train but calmly replans their day.
+
+Despite deception and inconvenience, the organization of intrinsic constraint remains intact.
+Agency, coherence, and viable experiential trajectories are preserved.
+
+This is **not** experiential moral harm.
+
+**Reminder:**  
+That this case does not involve experiential moral harm does **not** imply that the lie was morally permissible, justified, or insignificant.
+Lying may still constitute a moral wrong under other ethical considerations (e.g., trust, respect, obligation, or responsibility), even when it does not damage experiential organization.
+
+IER’s claim here is narrow:
+
+> **Absence of experiential moral harm does not entail moral permissibility.**
+
+---
+
+### **7.8 Structural Risk Belief Correction — Harm Depends on Constraint Impact**
+
+A person sincerely believes they are an immortal dragon. This belief organizes identity, agency, and emotional stability.
+
+Correcting the belief may restore coherence **or** catastrophically destabilize experiential organization.
+
+IER does not adjudicate justification.
+IER clarifies structure: experiential moral harm occurs **iff** intrinsic constraint organization is damaged.
+
+This is a **structural risk case**, not a belief-error case.
+
+---
+
+### **7.9 Protective Deception About a Death — Tragic Tradeoff Harm**
+
+An elderly parent’s adult child dies suddenly. Family members withhold the truth to avoid immediate experiential collapse.
+
+Disclosure risks acute destabilization.
+Deception forecloses truth-aligned experiential trajectories.
+
+IER treats this as tragic: experiential moral harm plausibly exists under either option.
+
+---
+
+## **8. Silent Harm and External Invisibility**
 
 Experiential moral harm may be:
 
 * behaviorally invisible
-* socially masked
 * affectively quiet
+* socially normalized
+* delayed in expression
 
 IER therefore rejects appearance-based moral inference.
 
 ---
 
-## **10. Responsibility and Precaution (Pointer Only)**
+## **9. Responsibility and Precaution (Structural Pointer)**
 
-* Harm tracks structure.
-* Responsibility tracks access and authorship.
-* Reduced capacity mitigates blame, not damage.
-* Uncertainty increases moral caution.
+IER distinguishes:
+
+* **harm** — damage to experiential organization
+* **responsibility** — authorship and access to constraint-shaping action
+
+Responsibility scales with:
+
+* access to alternatives
+* degree of coercion
+* stability of agency
+* epistemic access to structural risk (not outcome certainty)
+
+Relevant elaborations appear in:
+
+* `IER-duty.md`
+* `IER-constraint.md`
+* `IER-dilemmas.md`
+* Specification Principle E5 (precaution under experiential uncertainty)
+
+This document does **not** adjudicate responsibility.
+It clarifies **what damage looks like**.
 
 ---
 
-## **11. Misreadings Explicitly Blocked**
+## **10. Misreadings Explicitly Blocked**
 
 IER rejects:
 
@@ -333,21 +375,25 @@ IER rejects:
 * “It was reversible, so no harm.”
 * “It prevented something worse, so no harm.”
 * “They never knew, so no harm.”
+* “The belief was false, so correction can’t be harmful.”
 
 ---
 
-## **12. Summary**
+## **11. Summary**
 
 Under Informational Experiential Realism:
 
-* Experiential moral harm is **structural**
-* It concerns **forced changes in experiential trajectories**
-* It is **not defined by pain, distress, or belief**
-* It may be **momentary, silent, reversible, or justified**
+* Experiential moral harm is **damage to intrinsic constraint organization**
+* It is **structural**, not phenomenological
+* It is a **genus**, not a single damage mode
+* It may be **acute, chronic, distributed, silent, or tragic**
+* It is **not defined by pain, distress, belief accuracy, or outcome**
 * It is **one kind of harm among others**
-* It is morally relevant wherever experience exists
-
-This strictness is not inflationary.
-It is what it takes to treat **experience itself** as morally real.
+* It is morally relevant **wherever experience exists**
 
 ---
+
+### **Intermission — Structural Fact**
+
+> **Experiential moral harm is not about making experience unpleasant.
+> It is about damaging experience as an organized way of continuing at all.**

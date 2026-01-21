@@ -1,4 +1,4 @@
-# **IER Canon (v10.8.3)**
+# **IER Canon (v10.8.4)**
 
 ## **Canonical Authority, Alignment, and Governance Rules**
 
@@ -6,7 +6,7 @@
 
 ## **Status and Purpose**
 
-This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** project as of **version 10.8.3**.
+This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** project as of **version 10.8.4**.
 
 It introduces **no ontological, criterial, epistemic, or ethical claims**.
 
@@ -20,7 +20,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 * Inclusion in the corpus means:
 
-  * the document is part of “IER v10.8.3”
+  * the document is part of “IER v10.8.4”
   * it is subject to the governance rules of this canon
   * it may be cited for orientation, exposition, or structure as appropriate
 
@@ -45,7 +45,7 @@ Within the corpus:
   * may not be cited to resolve theoretical disputes
   * must defer to canonical-authoritative material in all cases
 
-**Non-corpus material** consists of files present in the repository but **not enumerated in the manifest**. These are outside the scope of IER v10.8.3.
+**Non-corpus material** consists of files present in the repository but **not enumerated in the manifest**. These are outside the scope of IER v10.8.4.
 
 **Document inventories, tier assignments, and inclusion status are defined exclusively in `IER-manifest.md`.**
 
@@ -112,11 +112,12 @@ Violation of any rule below is a **canonical error**, even absent direct contrad
 
 All informational language must be readable **only** as shorthand for:
 
-> physically instantiated state distinctions that modulate a system’s own future dynamics under intrinsic constraint.
+> **physically instantiated state distinctions that modulate a system’s own future dynamics under intrinsic constraint.**
 
-No informational primitives, representations, semantics, or epistemic contents may be introduced.
+No informational primitives, representations, semantics, epistemic contents, or conserved quantities may be introduced.
 
-Documents using informational language **must include an explicit disclaimer** to this effect.
+Canonical documents must **prefer the adjectival form *informational* over the noun *information***, even where “information” would feel more natural in ordinary usage.
+This preference exists to prevent ontological reification by grammar.
 
 ---
 
