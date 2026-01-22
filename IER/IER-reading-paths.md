@@ -71,6 +71,7 @@ These paths are suitable for **all readers**, regardless of background.
 
 **Goal:** Understand what IER claims, why it is strict, and what it does *not* ask of you.
 
+* [`IER-commitments.md`](IER-commitments.md) — Conditions of intelligibility (optional pre-step)
 * [`IER-intro.md`](IER-intro.md) — Where constraint and resolution live in physical systems  
 * [`IER-specification.md`](IER-specification.md) — Normative definition of experience and standing  
 * [`IER-dont-panic.md`](IER-dont-panic.md) — Reassurance about scope, responsibility, and uncertainty  
@@ -286,6 +287,7 @@ They are **not prerequisites** for any other path.
 
 These are not foundations. They are *helpful ways in*.
 
+* [`IER-commitments.md`](IER-commitments.md) — Conditions of intelligibility
 * [`IER-precis.md`](IER-precis.md) — Concise compression of core commitments  
 * [`IER-strictness.md`](IER-strictness.md) — Why the framework is intentionally strict  
 * [`IER-scope.md`](IER-scope.md) — Why IER answers identity but refuses purpose and contingency

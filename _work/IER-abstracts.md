@@ -2143,7 +2143,21 @@ Returning selectively is allowed.
 
 ---
 
-## 104. IER-intro.md
+## 104. IER-commitments.md
+
+## **Why This Article Exists**
+
+IER is an identity theory with strict exclusions.
+It does not proceed by semantic enrichment, interpretive pluralism, or reconciliation with neighboring frameworks.
+
+Many intelligent, good-faith readers encounter IER and find it incoherent, incomplete, or illegitimate.
+In nearly all such cases, the issue is not misunderstanding of particular claims, but refusal—often implicit—to relinquish background assumptions that IER explicitly denies.
+
+This article makes those background commitments visible in advance.
+
+---
+
+## 105. IER-intro.md
 
 ## Orientation
 
@@ -2157,7 +2171,7 @@ If any tension appears, those documents take precedence.
 
 ---
 
-## 105. IER-precis.md
+## 106. IER-precis.md
 
 ## 1. Orientation
 
@@ -2167,7 +2181,7 @@ IER is strict not by preference, but by consequence. The identity claim it advan
 
 ---
 
-## 106. IER-history.md
+## 107. IER-history.md
 
 ## **1. Purpose and Scope**
 
@@ -2185,7 +2199,7 @@ This is not a survey of all theories of consciousness, nor a claim of intellectu
 
 ---
 
-## 107. IER-sociology.md
+## 108. IER-sociology.md
 
 ## **Abstract**
 
@@ -2195,7 +2209,7 @@ This article compares three plausible **cultural equilibria** that could arise i
 
 ---
 
-## 108. IER-dont-panic.md
+## 109. IER-dont-panic.md
 
 ## **Why This Document Exists**
 
@@ -2223,7 +2237,7 @@ This document exists to say, clearly and explicitly:
 
 ---
 
-## 109. IER-strictness.md
+## 110. IER-strictness.md
 
 *A Reader-Facing Primer*
 
@@ -2240,7 +2254,7 @@ Its purpose is orientation, not enforcement.
 
 ---
 
-## 110. IER-scope.md
+## 111. IER-scope.md
 
 ## **1. Motivation: Why Scope Discipline Matters**
 
@@ -2272,7 +2286,7 @@ Only the former fall within IER’s scope.
 
 ---
 
-## 111. IER-idealism.md
+## 112. IER-idealism.md
 
 ## **Purpose**
 
@@ -2289,7 +2303,7 @@ This document exists to manage **interpretive pressure**, not to adjudicate meta
 
 ---
 
-## 112. IER-triangles.md
+## 113. IER-triangles.md
 
 ## **1. Why the Triangle Question Matters**
 
@@ -2305,7 +2319,7 @@ This article is written in the spirit of engagement rather than refutation. Info
 
 ---
 
-## 113. IER-magic-number.md
+## 114. IER-magic-number.md
 
 ## 0. Status and Scope
 
@@ -2319,7 +2333,7 @@ No familiarity with the song is required. The analysis is **structural rather th
 
 ---
 
-## 114. IER-equilibrium.md
+## 115. IER-equilibrium.md
 
 ## **1. Why the Question Is Not Straightforward**
 
@@ -2331,7 +2345,7 @@ The difficulty is that *information system* names a **descriptive role**, while 
 
 ---
 
-## 115. IER-explanandum.md
+## 116. IER-explanandum.md
 
 ## 1. Purpose of This Document
 
@@ -2345,7 +2359,7 @@ This document exists to prevent **explanandum drift**, **diagnostic smuggling**,
 
 ---
 
-## 116. IER-FAQ.md
+## 117. IER-FAQ.md
 
 ## **Status and Purpose**
 
@@ -2366,7 +2380,7 @@ Where this FAQ discusses morality, it refers **only to experiential moral harm a
 
 ---
 
-## 117. IER-glossary.md
+## 118. IER-glossary.md
 
 ## **Status and Scope**
 
@@ -2385,7 +2399,7 @@ This glossary explains **how terms are used in IER**, not how they are used else
 
 ---
 
-## 118. IER-index.md
+## 119. IER-index.md
 
 ## **Status and Scope**
 
@@ -2409,7 +2423,7 @@ If a reference here appears inconsistent with a Tier-1 document, the Tier-1 docu
 
 ---
 
-## 119. README.md
+## 120. README.md
 
 ## What This Is
 
@@ -2434,7 +2448,7 @@ It is a theory of:
 
 ---
 
-## 120. IER-canon.md
+## 121. IER-canon.md
 
 ## **Status and Purpose**
 
@@ -2446,7 +2460,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 ---
 
-## 121. IER-manifest.md
+## 122. IER-manifest.md
 
 ## **Status and Function**
 
@@ -2466,7 +2480,7 @@ It does **not** define authority, governance rules, interpretive constraints, or
 
 ---
 
-## 122. IER-changelog.md
+## 123. IER-changelog.md
 
 ## **Informational Experiential Realism — Version History**
 
