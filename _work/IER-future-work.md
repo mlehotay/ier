@@ -73,46 +73,6 @@ Failure on any item invalidates the work.
 
 ---
 
-# **V. Diachronic & Time-Extended Organization (Part II Completion)**
-
-### **Development & Preparation**
-
-* [ ] Development as accumulation of constraint-bearing capacity
-* [ ] Pre-UEF preparation without proto-experience
-* [ ] Infant / maturation trajectories with categorical onset preserved
-
-### **Skill, Habit, Automaticity**
-
-* [ ] Skill as attractor narrowing and load reduction
-* [ ] Habit without scripts, sub-agents, or representations
-* [ ] Automaticity as simplification, not delegation
-* [ ] Flow as regime persistence across temporal windows
-
-### **Affect Over Long Horizons**
-
-* [ ] Mood as persistent constraint bias
-* [ ] Temperament as long-horizon attractor geometry
-* [ ] Mood disorder framing without clinical diagnostics
-
-### **Attention (Integrative, Optional)**
-
-* [ ] Attention as constraint allocation
-* [ ] Participation recruitment vs subject creation
-* [ ] Attention ≠ control, authorship, or epistemic access
-
----
-
-# **VI. State-Specific Clarifications (Consolidative)**
-
-* [ ] Dreams conscious iff UEF persists (input-independence argument)
-* [ ] Specious present as minimal temporal coherence window
-* [ ] Experiential flow without sampling or snapshots
-* [ ] Fringe awareness as low-participation content
-* [ ] Tip-of-the-tongue and “something’s off” phenomena
-* [ ] Dissociation and ownership disruption without subject loss
-
----
-
 # **X. Consistency & Drift Audits (Ongoing, Non-Blocking)**
 
 * [ ] Tier consistency checks

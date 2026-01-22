@@ -2,7 +2,7 @@
 
 ## **Memory Without Storage**
 
-**Informational Experiential Realism (IER v10.8.x)**
+**Informational Experiential Realism (IER v10.8.4)**
 *Explanatory Article — Non-Normative*
 
 ---
@@ -46,7 +46,7 @@ Across philosophy, psychology, neuroscience, and everyday language, memory is al
 * records are *retrieved*
 * traces *persist*
 
-Even frameworks that explicitly reject literal storage often retain its structure implicitly, appealing instead to *engrams*, *encoded traces*, or *access paths* to retained content.
+Even frameworks that reject literal storage often retain its structure implicitly, appealing instead to *engrams*, *encoded traces*, or *access paths* to retained content.
 
 Informational Experiential Realism rejects this entire framing.
 
@@ -55,11 +55,13 @@ It is **ontological**.
 
 Under IER, there is nothing whose role is to *contain* past experience. There are only physical systems operating under **intrinsic constraint**, some of which sustain **Unified Experiential Fields (UEFs)**. Memory must therefore be explained **without** positing stored experiential objects or latent contents.
 
+Memory is also frequently misused as a source of *authority*—as if vividness, certainty, or identity-feel implied truth. Under IER, such authority-feel is an internal participation phenomenon, not an epistemic credential.
+
 ---
 
 ## **1. Experience Comes First: Memory Presupposes a UEF**
 
-### **1.1 No Pre-Experiential Memory**
+### **1.1 No Memory Without Experience**
 
 Under the Specification:
 
@@ -70,18 +72,12 @@ Memory does not precede experience.
 It does not enable experience.
 It does not unify experience.
 
-There is no such thing, under IER, as:
+Under IER, **memory names a mode of re-entry within an ongoing experiential regime**. It is not a cache that exists independently of experience.
 
-* pre-experiential memory
-* proto-memory
-* memory as substrate
-* memory as condition of subjecthood
+A system may be shaped by its past without remembering it.
+History may persist as constraint without ever appearing in experience.
 
-A system may experience without remembering.
-A system may remember without narrating.
-A system may experience discontinuously across time.
-
-None of these threaten experiential identity.
+That phenomenon is **sedimentation and hysteresis**, not memory.
 
 ---
 
@@ -240,8 +236,6 @@ They tolerate:
 
 As a result, they persist long after point-like memories fail.
 
-This explains why people often forget names before actions, labels before functions, and facts before stories — without invoking damage, deletion, or loss of storage.
-
 ---
 
 ## **5. Participation and Availability**
@@ -260,10 +254,9 @@ This distinction explains familiar phenomena:
 
 * tip-of-the-tongue states
 * recognition without recall
-* implicit memory without narration
+* implicit influence without narration
 
-Under IER, these are not paradoxes.
-They are cases where a pattern remains **structurally possible** but cannot be recruited into the current participation topology.
+A pattern may remain **structurally decisive**—biasing salience, affect, and action—while never appearing as recollection. Under IER, this is not “hidden content.” It is **history as constraint**, not history as a retrievable thing.
 
 ---
 
@@ -305,18 +298,13 @@ A subject can persist fully while remembering almost nothing.
 
 ---
 
-### **6.2 Continuity Without Narrative**
+### **6.2 Diachronic Identity Is Not Memory-Based**
 
-Narrative memory is optional.
+Experiential persistence, when it persists, is **system/regime-based**: continuity of the physical organization capable of sustaining a Unified Experiential Field.
 
-Experiential continuity depends on:
+Autobiographical memory can support narrative self-modeling, but it does not constitute the subject.
 
-* persistence of intrinsic constraint capacity
-* not preservation of autobiography
-
-Amnesia, sleep, anesthesia, or forgetting do not fragment the subject so long as the experiential regime can resume.
-
-(See `IER-continuity.md` for the formal treatment.)
+Irreversible change in what can be remembered is **not**, by itself, a criterion of subject replacement.
 
 ---
 
@@ -359,27 +347,9 @@ Memory under IER is **structurally historical**.
 
 This historical character does not consist in preserved records or retained contents. It consists in **irreversible changes to constraint organization over time**.
 
-Two features are essential:
+Earlier reorganizations may no longer be reproducible as memories or narratives, yet they continue to shape what remains viable.
 
-**Path dependence.**
-The present organization of intrinsic constraint depends on the specific sequence of prior reorganizations, not merely on the current state. Some reorganizations become possible only because others occurred first.
-
-**Sedimentation.**
-Over time, consequential reorganizations accumulate as **layers of structural bias**. Earlier layers may no longer be reproducible as memories or narratives, yet they continue to shape what remains viable.
-
-These features explain:
-
-* stable skills without remembered learning
-* affective dispositions without narrative origin
-* durable patterns that cannot be recalled or reconstructed
-
-Importantly:
-
-* they introduce **no epistemic authority**
-* they preserve **no facts or truths**
-* they do **not** imply graded subjecthood
-
-Plasticity may occur both before and after experiential onset. Pre-UEF plasticity constitutes **non-experiential preparation**, not proto-memory. Experiential onset remains categorical.
+Unremembered history can therefore remain **decisive** without ever becoming recollection.
 
 ---
 
@@ -391,8 +361,7 @@ Because remembering is reproduction, not retrieval:
 * fidelity is never guaranteed
 * epistemic authority does not arise
 
-This is not a limitation of memory.
-It is a structural consequence of experiential identity.
+The *feeling* that a memory is decisive—vividness, certainty, “this is who I am”—is an internal stability signal within a UEF. It tracks coherence and reproduction cost, not truth.
 
 Memory serves:
 
@@ -422,8 +391,6 @@ Ordinary forgetting reflects:
 
 It is often adaptive.
 
-(Developed further in `IER-forgetting.md`.)
-
 ---
 
 ### **9.2 Overload and Saturation**
@@ -447,48 +414,21 @@ It is experiential dissolution.
 
 ---
 
-## **10. Memory, Emotion, and Meaning**
+## **10. What This Document Does *Not* License**
 
-### **10.1 Emotion as Constraint Stabilizer**
+This document does **not** license the following inferences:
 
-Emotion often functions as:
+* memory is storage or internal archiving
+* memory can exist without experience
+* autobiographical recall constitutes identity
+* loss of recall implies subject loss or replacement
+* vividness or certainty confer epistemic authority
 
-* a stabilizer of memory participation
-* a bias on attractor viability
-* a modulator of reproduction cost
-
-Emotions are not memories, but they strongly influence which memories remain viable.
-
----
-
-### **10.2 Meaning as Viability Criterion**
-
-What persists longest in memory is what:
-
-* stabilizes intrinsic constraint
-* supports continuation
-* remains viable under load
-
-This explains selective persistence **without** invoking value judgments, importance rankings, or moral salience.
+Any such inference exceeds scope and conflicts with the IER specification.
 
 ---
 
-## **11. What This Document Does *Not* Do**
-
-This document does **not**:
-
-* diagnose memory disorders
-* distinguish healthy from pathological recall
-* specify neural mechanisms
-* rank memories by accuracy or value
-* equate memory with intelligence
-* provide therapeutic or engineering guidance
-
-All such moves would violate scope discipline.
-
----
-
-## **12. Summary**
+## **11. Summary**
 
 Under Informational Experiential Realism:
 
@@ -496,12 +436,13 @@ Under Informational Experiential Realism:
 * remembering is **reproduction**, not retrieval
 * forgetting is **participation failure**, not erasure
 * identity does **not** depend on recall
+* unremembered history can remain structurally decisive
+* felt authority does **not** grant epistemic authority
 * reconstruction is **structural necessity**
 * memory serves **coherence**, not truth
-* history shapes experience through **sedimentation and hysteresis**
 
-> **Memory is not what the system keeps.
-> Memory is what the system can still become.**
+> **Memory is not what the system keeps.**
+> **Memory is what the system can still become.**
 
 ---
 
@@ -509,3 +450,5 @@ Under Informational Experiential Realism:
 
 Past experience leaves no objects behind.
 It leaves only futures that may or may not remain viable.
+
+---

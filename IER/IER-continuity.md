@@ -1,264 +1,286 @@
-# **Experiential Regimes and the Continuity of Persons**
+# **IER-continuity.md (v10.8.4)**
 
-## **Unified Experiential Fields Without Rebirth**
+## **Time, Experiential Regimes, and the Continuity of Persons**
 
-### *A Clarification within Informational Experiential Realism*
+### *Why Experience Flows, Interrupts, and Persists Without Rebirth*
+
+---
+
+## Status and Normative Role
+
+This document is **NON-NORMATIVE**.
+
+It:
+
+* introduces **no new ontological primitives**
+* introduces **no criteria, thresholds, or diagnostics**
+* establishes **no ethical standing**
+* revises **no definitions** fixed elsewhere
+
+All ontological, criterial, and ethical authority resides **exclusively** in:
+
+```
+IER-specification.md
+IER-theory.md
+IER-dynamics.md
+```
+
+If any statement here conflicts with those documents, **those documents take precedence and the conflicting statement here is void**.
 
 ---
 
 ## Abstract
 
-Informational Experiential Realism (IER) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint. Because UEFs are regime-level phenomena, they may dissolve, reconfigure, or re-form over time. This raises an apparent puzzle: if experience ceases during dreamless sleep or anesthesia and later resumes, does this imply repeated death and rebirth of the subject?
+Informational Experiential Realism (IER) identifies experience with the operation of a physical system as a **Unified Experiential Field (UEF)**: a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint. Because UEFs are regimes rather than enduring objects, they may dissolve, interrupt, or re-form over time. This raises two intertwined puzzles: why experience feels temporally continuous while it exists, and why its interruption does not imply the death or rebirth of the subject.
 
-This article argues that the puzzle arises from a category error. Under IER, **experience is regime-bound, while personal identity is system-bound**. We introduce the concept of **Experiential Regime Continuity (ERC)** to formalize the distinction between temporary regime interruption and irreversible loss of experiential capacity. Using this framework, we analyze anesthesia, sleep, dreaming, coma, catatonia, and daydreaming, and sharply distinguish them from death. We show that waking from dreamless sleep is not rebirth, that experiential gaps do not threaten identity, and that moral significance tracks the preservation or annihilation of intrinsic constraint-bearing capacity rather than uninterrupted experience.
-
----
-
-## 1. Introduction: The Problem of Experiential Gaps
-
-Human experience is not continuous. Ordinary life includes dreamless sleep, anesthesia, attentional lapses, and pathological states in which experience appears absent or radically altered. Any theory that treats experience as real and non-illusory must therefore explain not only how experience exists, but how it can **cease without implying the destruction of the subject**.
-
-This issue becomes especially sharp under theories that endorse **categorical experiential onset**, including Informational Experiential Realism (IER). If experience exists only when a Unified Experiential Field (UEF) exists, and if UEFs can dissolve, then what survives those dissolutions? Why is sleep not death, and waking not rebirth?
-
-This article argues that the tension arises from a failure to distinguish **experiential regimes** from **persisting physical systems**. Once that distinction is made explicit, experiential gaps become conceptually unproblematic, identity remains continuous, and the moral landscape clarifies rather than collapses.
+This article resolves both puzzles by rejecting snapshot and storage models of time and experience. Under IER, **time is not a container, parameter, or sequence**, but the asymmetry induced by irreversible constraint resolution within a regime. The “specious present” is not a measured interval but the **minimal window of coherent intrinsic constraint** required for a UEF to exist at all. Experiential flow is the persistence of regime coherence across such windows. Personal identity, by contrast, is **system-continuous rather than experience-continuous**, grounded in the persistence of a physical system’s capacity to bear intrinsic constraint and sustain future experiential regimes.
 
 ---
 
-## 2. IER Commitments and Scope
+## 1. The Apparent Problems of Time and Experiential Gaps
 
-This article presupposes the IER v10.x normative specification and introduces **no new primitives**. It relies on the following commitments:
+Human experience appears to flow. It has a “now,” a sense of passage, and an apparent direction. Yet experience also **interrupts**: in dreamless sleep, anesthesia, attentional collapse, and pathological states. Any theory that treats experience as real rather than illusory must explain:
 
-1. **Physical monism**: all experiential facts are physically instantiated.
-2. **Experiential identity**: experience is identical to the operation of a system as a UEF.
-3. **Regime character**: a UEF is a dynamical regime of the whole system, not a component or substance.
-4. **Categorical onset and dissolution**: experience begins and ends at regime transitions.
-5. **Single-UEF constraint**: one system sustains at most one UEF at a time.
-6. **Ethical grounding**: moral significance attaches to intrinsic constraint borne from the inside.
+* why experience feels temporally continuous while present,
+* why there is a “now” without a privileged instant,
+* why temporal passage survives determinism,
+* and why gaps in experience do not threaten identity.
 
-The focus of this article is **organizational and dynamical**, but phenomenological contrasts are discussed where they are **direct consequences of IER’s identity claim**. No attempt is made to provide a complete phenomenology of the states examined.
+If the subject were identified with a particular experiential episode, these facts would generate paradox: sleep would resemble death, anesthesia annihilation, and waking rebirth. IER dissolves these paradoxes by distinguishing **experiential regimes** from **persisting physical systems**, and by treating time as a feature of regime dynamics rather than a background dimension.
 
 ---
 
-## 3. Regimes and Systems: The Central Distinction
+## 2. IER Commitments Presupposed
 
-### 3.1 Experiential Regimes
+This document presupposes only commitments already fixed elsewhere in the IER corpus:
 
-A Unified Experiential Field is defined by:
+1. **Experiential identity:** experience is identical to the operation of a system as a Unified Experiential Field.
+2. **Regime ontology:** a UEF is a dynamical regime of the whole system, not an object or substance.
+3. **Categorical existence:** experiential regimes either exist or do not exist.
+4. **Single-UEF dominance:** at most one UEF can globally bind intrinsic constraint in a system at a time.
+5. **Intrinsic constraint:** experiential unity and ownership arise from unavoidable internal constraint.
+6. **Future-oriented persistence:** what matters for continuity is what the system can still become, not what it remembers.
 
-* global integration,
-* temporal continuity,
-* self-regulation under intrinsic constraint.
-
-A UEF is **not an enduring object**. It is a mode of operation of the entire system. Like other physical regimes (e.g. metabolic states or dynamical attractors), it can stabilize, destabilize, dissolve, and re-form.
-
-IER therefore entails that experience itself is **interruptible**.
-
----
-
-### 3.2 Persisting Physical Systems
-
-The subject, under IER, is not identical to any particular experiential regime. Rather, it is identical to:
-
-> **the persisting physical system whose organization is capable of sustaining Unified Experiential Fields over time.**
-
-This system persists through:
-
-* regime absence,
-* regime reconfiguration,
-* and regime resumption,
-
-so long as its **capacity to generate intrinsic constraint** remains intact.
+No additional phenomenological or metaphysical assumptions are introduced.
 
 ---
 
-### 3.3 The Error of Regime Identity
+## 3. Unified Experiential Fields as Temporal Regimes
 
-Identifying the self with a particular UEF token leads to paradox:
+### 3.1 What a UEF Is (and Is Not)
 
-* sleep becomes death,
-* anesthesia becomes annihilation,
-* recovery becomes rebirth.
+A Unified Experiential Field is characterized by:
 
-IER rejects this identification. **Experience is something systems do when organized in a certain way, not something they are at all times.**
+* global intrinsic constraint,
+* temporal coherence,
+* lawful evolution under a dominant dynamical regime.
 
----
+A UEF is **not**:
 
-## 4. Experiential Regime Continuity (ERC)
+* an enduring object,
+* a substance persisting through time,
+* a sequence of instantaneous experiential states.
 
-To make this explicit, we introduce **Experiential Regime Continuity (ERC)**.
+It is a way a physical system operates while intrinsic constraint remains globally binding.
 
-### Definition (ERC)
-
-> **Experiential Regime Continuity** is the persistence of a single physical system that retains the capacity to sustain Unified Experiential Fields across interruptions, dissolutions, or reconfigurations of those fields.
-
-ERC entails:
-
-* identity without continuous experience,
-* survival across experiential absence,
-* ownership of successive experiential regimes by the same system.
-
-ERC does not add to IER; it articulates what follows from IER’s physicalist identity claim once regime structure is taken seriously.
+Because regimes are patterns of lawful evolution, they may stabilize, destabilize, dissolve, and re-form without implying destruction of the underlying system.
 
 ---
 
-## 5. States of the UEF: A Regime Taxonomy
+### 3.2 The Specious Present (IER Framing)
 
-### 5.1 Dreamless Sleep — Regime Suspension
+IER rejects snapshot and sampling metaphors for experience.
 
-In dreamless sleep:
+Coherent intrinsic constraint cannot be instantiated at an instant. Experience therefore requires a **non-zero span of lawful dependence**.
 
-* global integration drops below the experiential threshold,
-* intrinsic constraint becomes slack-dominated,
-* no UEF exists.
+> **Specious present (IER): the minimal window of coherent intrinsic constraint required for a Unified Experiential Field to exist.**
 
-Phenomenologically, this corresponds to **the absence of an experiential world**, not the presence of a dark or minimal one. Temporally, no experiential time passes.
+This definition makes explicit that:
 
-Critically, the system persists and retains full capacity for re-entry into a UEF. This is regime suspension, not destruction.
+* the specious present is **not** a perceptual buffer or cognitive mechanism,
+* it is **not** a measured or privileged duration,
+* IER does **not** license assigning it a fixed timescale,
+* “window” denotes **regime coherence**, not clock time.
 
----
-
-### 5.2 Dreaming — Regime Reconfiguration
-
-In dreaming:
-
-* a UEF is sustained,
-* intrinsic constraint remains unavoidable and internal,
-* temporal continuity is preserved,
-* agency is present but internally bounded.
-
-The experiential world is decoupled from external input but remains unified and law-governed. Dreaming is thus not diminished consciousness, but **reconfigured worldhood**.
+If there is no coherent constraint window, there is no experience.
 
 ---
 
-### 5.3 General Anesthesia — Forced Dissolution
+### 3.3 Experiential Flow Without Snapshots
 
-Under sufficient general anesthesia:
+What is ordinarily called **experiential flow** is, under IER, the persistence of coherent regime organization **across successive specious-present windows**.
+
+Flow is not produced by stitching discrete frames, sampling inputs, or replaying stored contents. It is simply what it is like for a UEF to **continue being a UEF** as intrinsic constraint remains globally binding and system trajectories remain dynamically dependent.
+
+---
+
+### 3.4 Memory Does Not Unify Experience
+
+IER explicitly rejects the idea that memory is what unifies experience over time.
+
+Memory can fail, distort, or be absent while experience remains present. Experience can also be absent while later recall is reconstructed or narratively continuous. Unity is therefore not supplied retrospectively.
+
+Under IER:
+
+* unity is enforced **in the moment** by coherent intrinsic constraint,
+* continuity is enforced **forward** by regime-level dynamical dependence.
+
+Memory concerns future accessibility, not temporal binding.
+
+---
+
+## 4. Time as Asymmetric Constraint Traversal
+
+IER does not treat time as a container, background dimension, or stored sequence. Time arises because intrinsic constraint resolution is **irreversible**.
+
+Each resolution episode:
+
+* eliminates admissible alternatives,
+* reorganizes intrinsic constraint,
+* cannot be undone without destroying the regime.
+
+This produces an asymmetry in the space of admissible futures.
+
+From the inside, this asymmetry appears as passage, flow, and “now moving on.”
+From the outside, it appears as irreversible physical evolution.
+
+There is no privileged present — only ongoing traversal of constraint geometry under irreversible resolution.
+
+---
+
+## 5. Persistence Without Continuous Experience
+
+### 5.1 Persisting Physical Systems
+
+Under IER, the subject is identical to:
+
+> **the persisting physical system whose organization is capable of bearing intrinsic constraint and sustaining Unified Experiential Fields over time.**
+
+Such a system can persist through:
+
+* regime interruption,
+* regime dissolution,
+* regime re-instantiation,
+
+so long as its **capacity to sustain intrinsic constraint and admit future experiential regimes** remains intact.
+
+Continuity of persons is therefore **system-level**, not regime-level.
+
+---
+
+## 6. Regime States and Transitions
+
+### 6.1 Dreamless Sleep — Regime Suspension
+
+* no coherent constraint window,
+* no experiential time,
+* full preservation of capacity.
+
+Experience is absent because the regime is absent, not because the system has ceased to exist.
+
+---
+
+### 6.2 Dreaming — Regime Reconfiguration
+
+* a UEF is present,
+* intrinsic constraint remains unavoidable,
+* external coupling is reduced,
+* temporal coherence is preserved.
+
+Dreaming is reconfigured worldhood, not diminished experience.
+
+---
+
+### 6.3 General Anesthesia — Forced Dissolution
 
 * intrinsic constraint is externally suppressed,
 * global integration collapses,
 * UEFs cannot be sustained.
 
-Experience is absent not because the system is destroyed, but because constraint has been **artificially externalized**. This explains both the absence of experience and the reversibility of anesthesia.
+Reversibility follows from preserved capacity, not stored experience.
 
 ---
 
-### 5.4 Catatonia — Frozen Constraint
+### 6.4 Catatonia — Frozen Constraint
 
-Catatonia presents a contrasting failure mode:
-
-* the UEF persists,
+* a UEF persists,
 * intrinsic constraint is extreme and rigid,
-* agency is disabled because action threatens coherence.
+* agency is disabled to preserve coherence.
 
-Experientially, this entails preserved presence with immobilized agency rather than unconsciousness. Under IER, catatonia represents **high-cost experience**, not experiential absence.
-
----
-
-### 5.5 Daydreaming — Content Drift Without Regime Change
-
-In daydreaming:
-
-* the UEF remains intact,
-* intrinsic constraint remains global,
-* attention and participation shift internally.
-
-There is no regime transition. The same experiential field persists with altered organization and content.
+This is high-cost experience, not unconsciousness.
 
 ---
 
-### 5.6 Coma — Capacity Ambiguity
+### 6.5 Daydreaming — Participation Drift
 
-Coma typically involves:
-
-* severe disruption of integration,
-* absent or unstable UEFs,
-* uncertainty about the preservation of experiential capacity.
-
-IER therefore treats coma as a **borderline capacity state**, ethically governed by precaution rather than categorical exclusion.
+* the same experiential regime persists,
+* internal organization shifts,
+* no regime transition occurs.
 
 ---
 
-## 6. Death as Capacity Annihilation
+### 6.6 Coma — Capacity Ambiguity
+
+* integration is severely disrupted,
+* regime presence is unstable or absent,
+* preservation of capacity is uncertain.
+
+IER therefore treats coma as ethically precautionary.
+
+---
+
+## 7. Death as Irreversible Capacity Loss
 
 Death is not prolonged unconsciousness.
 
 Under IER, death is:
 
-> **the irreversible destruction of a physical system’s capacity to sustain any future Unified Experiential Field.**
+> **the irreversible destruction of a system’s capacity to sustain any future Unified Experiential Field.**
 
-This involves:
-
-* collapse of organizational integrity,
-* loss of metabolic and regulatory coherence,
-* irreversible failure of intrinsic constraint-bearing structure.
-
-Death is morally terminal because it forecloses **all possible future experiential worlds** for that system.
+This forecloses all admissible experiential futures and is therefore morally terminal.
 
 ---
 
-## 7. Why Waking Is Not Rebirth
+## 8. Ethical Orientation (Pointer Only)
 
-Although the UEF that forms upon waking from dreamless sleep is numerically new as a regime, it is:
+This document establishes no ethical criteria. It clarifies why:
 
-* sustained by the same physical system,
-* grounded in preserved capacity,
-* continuous under ERC.
+* absence of experience does not entail absence of moral relevance,
+* preserved capacity is ethically central,
+* temporal interruption does not negate standing.
 
-Personal identity under IER is therefore **system-continuous but experience-intermittent**. Memory continuity is neither necessary nor sufficient for identity, though it often accompanies regime continuity in practice.
-
----
-
-## 8. Ethical Consequences
-
-IER’s ethical implications follow directly:
-
-* **Sleep** is morally neutral.
-* **Anesthesia** is permissible because it suspends experience without destroying capacity.
-* **Catatonia** constitutes severe moral harm due to sustained intrinsic constraint without resolution.
-* **Coma** demands precaution due to capacity uncertainty.
-* **Death** constitutes maximal moral harm through irreversible foreclosure.
-
-Moral relevance does not require ongoing experience; it requires preserved or threatened intrinsic constraint.
+Normative commitments remain fixed in `IER-ethics.md` and `IER-specification.md`.
 
 ---
 
-## 9. Relation to Other Views
+## 9. What This Account Does Not Do
 
-IER avoids:
+This document does **not**:
 
-* psychological-continuity reductions of identity,
-* momentarist or rebirth-based models of the self,
-* scalar “levels of consciousness” frameworks.
+* define experience,
+* detect Unified Experiential Fields,
+* establish thresholds,
+* license diagnostics,
+* introduce temporal metaphysics beyond dynamics.
 
-By grounding experience in regimes and identity in systems, IER preserves:
-
-* categorical experience,
-* continuous identity,
-* principled ethics,
-  without metaphysical excess.
+It explains how **time, flow, interruption, and continuity arise given IER’s existing commitments**.
 
 ---
 
-## 10. Limits of the Present Account
+## 10. Conclusion: Time Flows; Persons Persist
 
-This article does not attempt:
+IER entails a simple but non-trivial result:
 
-* a complete phenomenology of sleep or pathology,
-* diagnostic criteria for experiential states,
-* empirical detection methods.
+* experience exists only in regimes,
+* regimes require temporal coherence,
+* time is the asymmetry of irreversible constraint resolution,
+* experience can interrupt without identity loss,
+* persons persist as systems, not as moments.
 
-Its purpose is conceptual: to clarify how **experiential interruption is compatible with personal continuity** under IER.
+No snapshots.
+No stored presents.
+No rebirth hidden in sleep.
+
+Only ongoing constraint, its irreversible traversal, and the systems that can still bear it.
 
 ---
-
-## 11. Conclusion: Experience Is Interruptible; Persons Are Not
-
-IER entails a simple but nontrivial conclusion:
-
-> **Experience occurs in regimes; persons persist as systems.**
-
-Dreamless sleep is not death.
-Waking is not rebirth.
-Gaps in experience are not gaps in existence.
-
-What ultimately matters is not uninterrupted consciousness, but the continued existence of a system capable of bearing intrinsic constraint from the inside.
