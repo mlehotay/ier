@@ -266,37 +266,38 @@ This release completes IER’s **misreading resistance and evaluation stability*
 
 ### **Intent**
 
-Complete IER’s account of **time-extended experiential organization** without introducing new primitives, criteria, diagnostics, or explanatory levels.
+Complete IER’s account of **time-extended experiential organization** without introducing new primitives, criteria, diagnostics, or authority.
 
-All changes make **implicit structural consequences explicit** and improve internal coherence and misuse resistance.
+All changes make **implicit structural consequences explicit**, improving coherence, alignment, and misuse resistance.
 
 ### **Key Changes**
 
-* **Experiential moral harm clarified as a genus**, not a single form.
+* **Experiential moral harm clarified as a genus**
 
-  * Explicitly distinguishes multiple organizational modes of intrinsic-constraint damage.
-  * Adds no new harm kinds, thresholds, standing rules, or obligations.
-  * Updates `IER-harm.md` accordingly.
+  * Explicitly distinguishes multiple organizational damage modes.
+  * No new harm kinds, thresholds, or obligations.
+  * `IER-harm.md` updated accordingly.
 
-* **Diachronic integration of memory and forgetting**.
+* **Diachronic organization completed across cognition, agency, and identity**
 
-  * Memory treated as structural history, not storage.
-  * Forgetting treated as participation loss or dissolution, not erasure.
+  * Memory and forgetting treated structurally (history and participation), not as storage or erasure.
   * Added anterograde amnesia appendix to `IER-forgetting.md`.
+  * Identity grounded in forward constraint ownership, not recall.
+  * Agency, responsibility, skill, mood, attention, and development unified as time-extended constraint reorganization.
+  * Clarifies persistence through change without subject multiplication or replacement.
 
-* **Reworked futures framing**.
+* **Futures framing reworked**
 
-  * Clarified distinction between **admissible futures** (structural) and **anticipated futures** (epistemic).
-  * Blocks belief-based smuggling into ethics and responsibility.
-  * No new normative constraints introduced.
+  * Sharp distinction between **admissible futures** (structural) and **anticipated futures** (epistemic).
+  * Blocks belief- and expectation-based smuggling into ethics and responsibility.
 
-* **Topology-based explanatory synthesis**.
+* **Topology-based synthesis**
 
-  * Added `IER-topology.md` and `IER-topo-companion.md`.
-  * Unifies time, identity, memory, agency, possibility, and harm as topological structure.
+  * Added `IER-topology.md` (and companion material).
+  * Unifies time, identity, memory, agency, possibility, and harm as shared constraint structure.
   * Explanatory only; no ontological or diagnostic claims.
 
-* **New explanatory ethics applications**.
+* **New explanatory ethics applications**
 
   * Added `IER-gaslighting.md`, `IER-propaganda.md`, and `IER-masochism.md` (all non-normative).
 

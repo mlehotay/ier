@@ -30,7 +30,7 @@ It is:
 * a **scope limiter**, not a roadmap
 * a **misuse-containment tool**, not a theory agenda
 
-Release sequencing is governed separately by `IER-roadmap.md`.
+Release sequencing and version boundaries are governed separately by `IER-roadmap.md`.
 
 ---
 
@@ -63,26 +63,104 @@ Failure on any item invalidates the work.
 
 ---
 
+# **II. Hexad & Projection Architecture (Permitted, Non-Enforcing)**
+
+These items concern **making explicit** the projection structure already implicit in IER.
+They do **not** authorize refactors, deletions, or theory changes.
+
+### **II.A Architectural Declaration**
+
+* [ ] Introduce `IER-hexad.md` as a reader-facing map of explanatory projections
+* [ ] Introduce `IER-interface.md` as an internal projection-discipline document
+* [ ] Explicitly designate `IER-topology.md` as keystone synthesis
+* [ ] Add **Explanatory Orientation** sections to projection-owner articles
+
+> These additions declare structure; they do not enforce compliance.
+
+---
+
+### **II.B Diagnostic Projection Audits (Non-Binding)**
+
+* [ ] Develop projection audit templates (Time, Memory, Identity, Agency, History, Possibility)
+* [ ] Conduct audits to identify leakage, overreach, and synthesis
+* [ ] Record audit results without requiring remediation
+* [ ] Distinguish legacy prose from interface violations
+
+Audit outcomes are **informational only** unless and until refactor work is separately authorized.
+
+---
+
+### **II.C Explicit Non-Goals (Hexad Phase)**
+
+The following are **not** authorized by the hexad architecture alone:
+
+* mandatory projection refactors
+* deletion of legacy explanations
+* relocation of material between files
+* enforcement of isolation discipline
+* reinterpretation of existing claims
+
+---
+
 # **III. Misuse & Misreading Containment (Mandatory)**
 
 * [ ] Scan Tier-2 documents for proxy / diagnostic phrasing
 * [ ] Verify informational-language disclaimers everywhere required
 * [ ] Audit phenomenology-adjacent documents for graded subjecthood creep
 * [ ] Reinforce “experiential structure ≠ epistemic authority” globally
-* [ ] Verify no implicit certification language remains
+* [ ] Verify no implicit certification or detection language remains
 
 ---
 
-# **X. Consistency & Drift Audits (Ongoing, Non-Blocking)**
+# **IV. Optional Projection Refactor Work (Deferred, Staged)**
+
+These items are **permitted but not required**.
+
+They may occur only **after** hexad architecture is declared and only **one projection at a time**.
+
+* [ ] Refactor a projection article to answer exactly one hexad question
+* [ ] Relocate (not delete) cross-projection material to correct owners
+* [ ] Move synthesis exclusively to `IER-topology.md`
+* [ ] Create projection-pure anchor versions where useful
+* [ ] Preserve all substantive theory via relocation or downstream documents
+
+No refactor may:
+
+* introduce new claims
+* weaken normative closure
+* privilege one projection as foundational
+
+---
+
+# **V. Consequence & Case Articulation (Cross-Projection, Non-Foundational)**
+
+These documents may integrate projections **explicitly**, provided they do not claim authority.
+
+* [ ] Coma, anesthesia, and interruption cases
+* [ ] Death and irreversible loss cases
+* [ ] Developmental and maturation narratives
+* [ ] Harm, collapse, and foreclosure illustrations
+* [ ] Reader-facing “how this fits together” explanations
+
+These documents:
+
+* may rely on topology
+* may integrate projections
+* must not redefine any projection
+* must not be cited as authority
+
+---
+
+# **VI. Consistency & Drift Audits (Ongoing, Non-Blocking)**
 
 * [ ] Tier consistency checks
 * [ ] Ethics language audit against v10.8 closure
-* [ ] Reader-alignment tone audit
-* [ ] Verification that non-canonical docs are not cited as authority
+* [ ] Reader-alignment and tone audit
+* [ ] Verification that non-canonical documents are not cited as authority
 
 ---
 
-# **XII. Mathematical Notation & Glyph Hygiene (Mandatory, Corpus-Wide)**
+# **VII. Mathematical Notation & Glyph Hygiene (Mandatory, Corpus-Wide)**
 
 * [ ] Replace all Unicode mathematical glyphs with LaTeX notation
 * [ ] Enforce strict separation between math mode and prose
@@ -93,7 +171,7 @@ Failure on any item invalidates the work.
 
 ---
 
-# **XIII. Explicit Non-Goals (Binding)**
+# **VIII. Explicit Non-Goals (Binding)**
 
 The following are **out of scope** and must not appear in future work:
 
@@ -118,7 +196,7 @@ Any such change would require:
   → **What work is permitted** (exhaustive)
 
 * `IER-roadmap.md`
-  → **How and when subsets are released**
+  → **When and how subsets are released**
 
 This document **does not define release sequencing**.
 
@@ -126,11 +204,11 @@ This document **does not define release sequencing**.
 
 ## **Closure Condition**
 
-When Sections **II, III, IV, and XI** are complete:
+When Sections **I, II.A, III, VI, and VII** are complete:
 
 > **IER is articulation-complete under its own canon rules.**
 
-All remaining items are consolidation, translation, or navigation —
+All remaining items are consolidation, illustration, or navigation —
 not unfinished theory.
 
 ---
