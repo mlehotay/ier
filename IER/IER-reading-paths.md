@@ -218,7 +218,7 @@ They are **not prerequisites** for any other path.
 * [`IER-sleep.md`](IER-sleep.md) — Sleep, anesthesia, and unconscious intervals  
 * [`IER-sleep-variants.md`](IER-sleep-variants.md) — Non-standard sleep regimes and constraint relief  
 * [`IER-dormancy.md`](IER-dormancy.md) — Dormancy as experiential null interval  
-* [`IER-NDE.md`](IER-NDE.md) — Near-death experiences without metaphysics or survival claims  
+* [`IER-neurology.md`](IER-neurology.md) — Neurological phenomena mapped onto IER regime structure  
 
 ---
 
