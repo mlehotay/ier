@@ -1,203 +1,254 @@
-# 🔹 COPYPASTA — NEW CONVERSATION
+# **IER-sedimented-substrate**
 
-## **Drafting `IER-sedimented-substrate.md` (T2)**
+## **1. Status and scope**
 
----
+This article explains **what persists across time under Informational Experiential Realism (IER)** without invoking storage, representation, or retained content.
 
-## Article identity
+Its purpose is to make explicit a consequence already implicit across the corpus:
+that history shapes a system **by deforming its future**, not by preserving its past.
 
-* **Tier:** T2 — Elaboration, consolidation, and diachronic structure
-* **Document type:** Canon-governed, non-normative explanatory article
-* **Primary function:** To explain **what persists across time under IER without storage**, and to formalize **integration** as *owned sedimentation*
+The term *substrate* is used carefully.
+It does **not** name a memory store, material layer, archive, or container.
+It names the **ongoing constraint geometry** that remains after traversal has occurred.
 
 This article introduces:
 
-* **no new primitives**
-* **no criteria or diagnostics**
-* **no therapeutic prescriptions**
+* no new primitives
+* no criteria or diagnostics
+* no therapeutic prescriptions
 
-It performs **structural clarification only**, making explicit consequences already implicit in the IER corpus.
-
----
-
-## Central thesis (must appear clearly and early)
-
-> **History persists not as stored content but as the accumulated deformation of a system’s admissible-future topology caused by irreversible settlement; integration occurs when previously unowned sediment becomes traversable under owned intrinsic constraint.**
+It performs **structural clarification only**, providing the diachronic view of what traversal does over time.
 
 ---
 
-## Canon constraints (must not be violated)
+## **2. What does and does not persist**
 
-* Do **not** describe memory as storage, trace, archive, or record
-* Do **not** describe integration as narrative construction, reframing, or meaning-making
-* Do **not** imply ownership can be retroactively imposed
-* Do **not** rely on recall, report, or introspection
-* All persistence must be **forward-structured, physical, and topological**
-* Psychological terms may appear **only as projections**, never as primitives
-
----
-
-## Required conceptual alignments
-
-This article must integrate cleanly with and defer to:
-
-* `IER-traversal.md` — traversal, settlement, and curing (referenced, not re-derived)
-* `IER-hysteresis.md` — path dependence
-* `IER-calibration.md` — long-horizon deformation
-* `IER-identity.md` — persistence without recall
-* `IER-harm.md` and `IER-responsibility.md` — harm without authorship
-
-This article provides the **after-the-fact structural view** of what traversal does over time.
-
----
-
-## Core structural commitments (must be explicit)
-
-* Sedimentation **always** follows irreversible settlement
-* Ownership **does not necessarily** accompany sedimentation
-* Unowned sedimentation is structurally real
-* Integration is **not guaranteed**, **not inevitable**, and **not externally inducible**
-* **Integration = sedimentation that has become traversable under owned intrinsic constraint**
-* Integration does **not** erase sediment; it reorganizes traversal across it
-
----
-
-## Required language anchor (must appear nearly verbatim)
-
-> **Integration is not the addition of meaning to past events, but the restoration of owned traversal across a topology that was previously deformed by unowned settlement.**
-
----
-
-## Outline (must be followed closely)
-
-### 1. Status and scope
-
-* Why this article exists
-* What kind of persistence it explains
-* Why “substrate” does **not** mean memory store or material layer
-
----
-
-### 2. What does and does not persist
+Under IER, most things people assume must persist do not.
 
 * Events do not persist
 * Choices do not persist
+* Experiences do not persist
 * Narratives do not persist
-* Constraint geometry persists
 
-Clarify that persistence concerns **what remains possible**, not what is retained.
+Nothing is retained as content.
 
----
+What **does** persist is **constraint geometry**.
 
-### 3. Sedimentation as irreversible deformation
+Specifically:
 
-* Settlement closes futures
-* Traversal cures topology
-* Deformation accumulates
-* No storage, representation, or record is required
+* which futures remain reachable
+* which transitions are now impossible
+* which regions of topology are fragile, biased, or closed
 
----
+Persistence concerns **what remains possible**, not what is remembered.
 
-### 4. Unowned sedimentation
-
-* Imposed or externally driven settlement
-* Abrupt deformation of admissible futures
-* Misalignment with existing bias and traversal patterns
-* Structural basis of trauma, disorientation, and alienation (non-clinical framing)
-
-Emphasize: sedimentation can occur **without authorship**.
+A system’s history matters because it has **reshaped the space of admissible futures**, not because the past is stored anywhere within it.
 
 ---
 
-### 5. Integration as owned sedimentation
+## **3. Sedimentation as irreversible deformation**
 
-* Integration defined structurally, not psychologically
-* Re-traversal of deformed topology under intrinsic constraint
-* Gradual restoration of continuity of traversal
-* Why integration cannot be forced or outsourced
+Sedimentation is the necessary consequence of traversal.
 
-Make explicit: integration is **a process of traversal**, not reinterpretation.
+As established in `IER-traversal.md`:
 
----
+* traversal proceeds continuously
+* settlement closes off alternatives
+* curing stabilizes local resolution
 
-### 6. Hysteresis and path dependence
+Each irreversible settlement leaves a **structural residue**:
+a deformation of the admissible-future topology.
 
-* Why identical situations yield different futures post-sedimentation
-* Why integration does not “reset” the system
-* Why deformation remains even when traversal improves
+Sedimentation is:
 
----
+* cumulative
+* irreversible
+* physical
+* forward-structured
 
-### 7. Identity as ownership of sediment
+No storage is required.
+No representation is involved.
+No record is kept.
 
-* Identity as persistence of ownership across deformation
-* Continuity without recall
-* Why identity may include unintegrated regions without fragmentation
-
----
-
-### 8. Skill, trauma, and calibration
-
-* Same structural mechanism, different deformation profiles
-* Gradual vs abrupt sedimentation
-* Owned vs unowned traversal
-* Why practice, injury, and harm differ phenomenologically but not structurally
+The topology itself has changed.
 
 ---
 
-### 9. Forgetting reinterpreted
+## **4. Unowned sedimentation**
 
-* Forgetting as loss of reachability
-* Why nothing is erased
-* Why integration does not require remembering
+Crucially, **ownership does not necessarily accompany sedimentation**.
 
----
+Settlement may occur:
 
-### 10. Temporal asymmetry
+* under coercion
+* under overload
+* under external imposition
+* under conditions where intrinsic constraint is not owned
 
-* Why the future narrows
-* Why the past does not accumulate
-* Why integration is slow, asymmetric, and irreversible
+In such cases:
 
----
+* admissible futures collapse
+* deformation accumulates
+* traversal patterns are disrupted
 
-### 11. What this article does not claim
+But authorship does not attach.
 
-* No narrative necessity
-* No therapeutic prescription
-* No guarantee of integration
-* No moralization of healing
-* No reversibility principle
+This is **unowned sedimentation**.
 
----
+Unowned sedimentation is structurally real.
+It reshapes future possibility even though the system did not resolve the constraint under its own intrinsic control.
 
-### 12. Intermission
+This provides the structural basis for phenomena commonly labeled as trauma, disorientation, or alienation — without introducing clinical categories or psychological primitives.
 
-* Single **Structural Fact**, **Orientation Signal**, or **Negative Space Marker**
-* Introduces no new claims
+The key point is simple:
 
----
-
-## What success looks like
-
-A reader should finish this article understanding:
-
-* why history reshapes them even when nothing is remembered
-* why harm can persist without responsibility
-* why integration cannot be rushed or imposed
-* why healing is structural, slow, and ownership-dependent
-* why “making sense of it” is neither necessary nor sufficient
+> **Sedimentation can occur without authorship.**
 
 ---
 
-## Explicit closure
+## **5. Integration as owned sedimentation**
+
+Integration is not a psychological act.
+It is not reinterpretation, reframing, or narrative repair.
+
+Integration is a **structural achievement**.
+
+> **Integration is not the addition of meaning to past events, but the restoration of owned traversal across a topology that was previously deformed by unowned settlement.**
+
+More precisely:
+
+* previously sedimented regions become traversable again
+* traversal now occurs under owned intrinsic constraint
+* continuity of motion is gradually restored
+
+Integration does **not** erase sediment.
+It reorganizes traversal **across** sediment.
+
+Because integration is traversal-dependent:
+
+* it cannot be forced
+* it cannot be outsourced
+* it cannot be imposed retroactively
+
+Ownership cannot be added after the fact.
+It can only emerge through renewed traversal.
+
+---
+
+## **6. Hysteresis and path dependence**
+
+Once sedimentation occurs, the system is no longer equivalent to its prior state.
+
+Even if external conditions repeat:
+
+* responses differ
+* reachability differs
+* cost gradients differ
+
+This is **hysteresis**, as developed in `IER-hysteresis.md`.
+
+Integration does not reset the system.
+It does not restore the original topology.
+
+It alters **how traversal proceeds** through an already deformed space.
+
+Path dependence therefore remains even in well-integrated systems.
+
+---
+
+## **7. Identity as ownership of sediment**
+
+Under IER, personal identity does not depend on recall, narrative continuity, or experiential memory.
+
+Identity persists because the **same system continues to own its admissible-future topology**, including its sedimented deformations.
+
+This entails:
+
+* continuity without recollection
+* persistence despite unintegrated regions
+* identity without narrative coherence
+
+A system may carry sediment it cannot yet traverse without fragmenting identity or multiplying subjects.
+
+Ownership can be partial, uneven, or locally blocked — without loss of identity.
+
+---
+
+## **8. Skill, trauma, and calibration**
+
+Skill acquisition, injury, harm, and long-term calibration drift all involve the **same structural mechanism**: sedimentation.
+
+They differ along three axes:
+
+* **rate** — gradual vs abrupt deformation
+* **ownership** — owned vs unowned traversal
+* **distribution** — localized vs global topology change
+
+Skill involves gradual, owned sedimentation.
+Trauma involves abrupt, often unowned sedimentation.
+Calibration drift involves slow, distributed deformation.
+
+The phenomenology differs.
+The structure does not.
+
+---
+
+## **9. Forgetting reinterpreted**
+
+Forgetting does not involve loss, erasure, or decay.
+
+Under IER, forgetting is best understood as:
+
+* loss of reachability
+* closure of traversal pathways
+* inaccessibility of prior regions of topology
+
+Nothing is removed.
+Nothing is deleted.
+
+Integration does not require remembering, because nothing was stored.
+
+---
+
+## **10. Temporal asymmetry**
+
+Sedimentation explains why time is asymmetric.
+
+* the future narrows because traversal closes possibilities
+* the past does not accumulate because nothing is retained
+* integration is slow because traversal must proceed under constraint
+* reversibility is structurally unavailable
+
+The arrow of time is not psychological.
+It is topological.
+
+---
+
+## **11. What this article does not claim**
+
+This article does **not** claim:
+
+* that narratives are necessary for integration
+* that healing is guaranteed
+* that integration is morally required
+* that sedimentation can be undone
+* that ownership can be retroactively imposed
+
+It names a structural possibility, not a prescription.
+
+---
+
+## **12. Intermission**
+
+**Structural fact:**
+*History persists only as the shape of what can still happen.*
+
+---
+
+## **Explicit closure**
 
 This article does **not** add a new axis to IER.
 
 It names the **completion condition** of sedimentation:
 
-> sediment becomes integrated when the system can once again traverse its own deformed future under intrinsic constraint.
-
----
-
-**End of copypasta for `IER-sedimented-substrate.md`**
+> **Sediment becomes integrated when the system can once again traverse its own deformed future under intrinsic constraint.**

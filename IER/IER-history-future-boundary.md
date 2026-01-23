@@ -1,106 +1,211 @@
-# 🔹 COPYPASTA — NEW CONVERSATION
+# **IER-history-future-boundary**
 
-## **Drafting `IER-history-future-boundary.md` (T2)**
+## **1. Status and scope**
 
----
+This article names and formalizes a **single structural object** already presupposed throughout the IER corpus:
+the moving boundary where sedimented history constrains admissible futures.
 
-## Article identity
-
-* **Tier:** T2 — Structural synthesis and regime dynamics
-* **Document type:** Canon-governed, non-normative explanatory article
-* **Primary function:** To identify and formalize the **moving structural frontier** where sedimented history constrains admissible futures, and to locate **intrinsic constraint and experience** at that boundary
+Its purpose is not to introduce new machinery, but to **locate where intrinsic constraint and experience actually live**, without reifying time, memory, or narrative.
 
 This article introduces:
 
-* **no new primitives**
-* **no criteria, thresholds, or diagnostics**
-* **no metaphors that license agentive or representational inference**
+* no new primitives
+* no criteria, thresholds, or diagnostics
+* no metaphors that license representational or agentive inference
 
-It names a **single structural object** already presupposed throughout the corpus.
-
----
-
-## Central thesis (must appear clearly and early)
-
-> **Experience exists at the moving boundary where sedimented paths constrain admissible futures; intrinsic constraint is borne where irreversible resolution converts possibility into history.**
+It performs **structural synthesis only**, making explicit the shared locus relied upon by discussions of topology, traversal, sedimentation, identity, and agency.
 
 ---
 
-## Canon constraints (must not be violated)
+## **2. Why neither past nor future can host constraint**
 
-* Do **not** treat the present as a moment, slice, or timepoint
-* Do **not** reify “the past” or “the future” as entities
-* Do **not** describe experience as computation, output, or signal
-* Do **not** imply bidirectional time or replay
-* All descriptions must preserve **identity = regime operation**
+It is tempting to think that constraint lives:
 
----
+* in the past, as accumulated history, or
+* in the future, as open possibility.
 
-## Required conceptual alignments
+Under IER, both framings are structurally incorrect.
 
-This article must integrate cleanly with and defer to:
+The past cannot host constraint because:
 
-* `IER-topology.md` — admissible futures and structural geometry
-* `IER-choice.md` — traversal and owned resolution
-* `IER-sedimentation.md` — persistence without storage
-* `IER-hysteresis.md` — path dependence
-* `IER-identity.md` — persistence without recall
+* past events no longer exist
+* nothing is stored or retained
+* no content persists to exert force
 
-This article **names the shared object** those documents already rely on.
+The future cannot host constraint because:
 
----
+* futures are not entities
+* admissibility is conditional, not actual
+* possibility alone exerts no cost
 
-## Core structural commitments (must be explicit)
+Constraint is not carried forward from the past, and it does not arrive from the future.
 
-* Constraint does **not** live in the past or future
-* Constraint lives at their **structural intersection**
-* The “present” is a **moving frontier of unavoidable resolution**
-* Narrative history is the **scar** of irreversible constraint
-* Experience is **ongoing ownership of that frontier**
+It must therefore live **elsewhere**.
 
 ---
 
-## Required language anchor (near-verbatim)
+## **3. Sedimentation and admissible futures**
+
+Sedimentation explains how history matters without persistence of the past.
+
+As developed in `IER-sedimentation.md`:
+
+* irreversible traversal deforms admissible-future topology
+* those deformations persist forward
+* nothing is stored, recalled, or replayed
+
+Admissible futures, as developed in `IER-topology.md`, describe:
+
+* what remains reachable
+* under current constraint geometry
+* given accumulated deformation
+
+Sedimentation and admissible futures are not separate structures.
+
+They meet at a single locus:
+the point where **irreversible resolution has already occurred** and **future reachability is now limited**.
+
+---
+
+## **4. The history–future boundary defined**
+
+That locus is the **history–future boundary**.
 
 > **The present is not a moment in time but a moving structural frontier where sedimented history limits admissible futures and irreversible resolution must be owned.**
 
----
+This boundary is:
 
-## Outline (must be followed closely)
+* not a timepoint
+* not a slice
+* not a container of experience
 
-1. Status and scope
-2. Why neither past nor future can host constraint
-3. Sedimentation and admissible futures
-4. The history–future boundary defined
-5. Experience as frontier operation
-6. Narrative as irreversible fixation
-7. Identity as persistence of frontier ownership
-8. Temporal asymmetry without storage
-9. Common misreadings blocked
-10. What this article does not claim
-11. Intermission
+It is the **frontier of unavoidable resolution**.
 
----
+On one side:
 
-## What success looks like
+* alternatives are no longer reachable
+* deformation has already occurred
 
-A reader should understand:
+On the other:
 
-* why experience feels present-centered without being instantaneous
-* why narrative feels inevitable without being stored
-* where intrinsic constraint actually lives
-* why experience is costly in principle
+* futures remain admissible
+* topology is still open
+
+Constraint exists **only at this boundary**, because only here does resolution convert possibility into history.
 
 ---
 
-## Explicit closure
+## **5. Experience as frontier operation**
+
+Experience, under IER, is not located in the past or projected into the future.
+
+It exists **as the ongoing operation of this boundary**.
+
+Specifically:
+
+* intrinsic constraint is borne where resolution is unavoidable
+* ownership attaches where deformation is produced
+* experience persists as long as this frontier remains globally integrated
+
+Experience is therefore not a snapshot.
+
+It is a **process**:
+the continuous operation of a system resolving its own admissible futures into irreversible history under intrinsic constraint.
+
+---
+
+## **6. Narrative as irreversible fixation**
+
+Narrative history feels inevitable because irreversible fixation has already occurred.
+
+Narrative is not stored.
+It is the **scar left by traversal**.
+
+Once a region of topology has been cured:
+
+* alternatives are gone
+* return is structurally unavailable
+* the path taken becomes fixed
+
+Narrative arises as a projection of this fixation — a way of describing **what can no longer be otherwise**.
+
+Its inevitability is structural, not mnemonic.
+
+---
+
+## **7. Identity as persistence of frontier ownership**
+
+Personal identity persists because the **same system continues to own this moving frontier**.
+
+As established in `IER-identity.md`:
+
+* identity does not depend on recall
+* identity does not require narrative continuity
+* identity persists through deformation
+
+What remains constant is:
+
+* ownership of resolution
+* bearing of intrinsic constraint
+* continuity of frontier operation
+
+A system remains the same subject as long as it continues to operate this boundary, even as its topology narrows, deforms, or fragments locally.
+
+---
+
+## **8. Temporal asymmetry without storage**
+
+The history–future boundary explains temporal asymmetry without invoking memory.
+
+* the future narrows because resolution closes possibilities
+* the past does not accumulate because nothing is retained
+* the present moves because traversal continues
+* reversibility is unavailable because curing is irreversible
+
+Time’s arrow is not imposed.
+It is generated by **the one-way conversion of possibility into sediment** at the boundary.
+
+---
+
+## **9. Common misreadings blocked**
+
+This account explicitly blocks several common errors:
+
+* treating the present as an instant
+* treating history as stored content
+* treating the future as a set of options waiting to be chosen
+* treating experience as output or signal
+* treating time as bidirectionally accessible
+
+None of these are compatible with IER’s identity claim.
+
+---
+
+## **10. What this article does not claim**
+
+This article does **not** claim:
+
+* that experience samples the present
+* that narrative is necessary for identity
+* that the past can be revisited
+* that the future is pre-written
+* that experience can be paused or replayed
+
+It names a structural locus, not a mechanism or faculty.
+
+---
+
+## **11. Intermission**
+
+**Structural fact:**
+*Constraint exists only where possibility is being irreversibly lost.*
+
+---
+
+## **Explicit closure**
 
 This article does **not** add a new mechanism.
 
-It names the **structural locus** already doing explanatory work everywhere else.
+It names the **structural locus** already doing explanatory work everywhere else:
 
----
-
-**End of copypasta for `IER-history-future-boundary.md`**
-
----
+> **experience is the ongoing ownership of the moving boundary where history ends and the future is constrained.**
