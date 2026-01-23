@@ -1,101 +1,192 @@
-# 🔹 COPYPASTA — NEW CONVERSATION
+# **IER-trauma**
 
-## **Drafting `IER-trauma.md` (T2)**
+## **1. Status and scope**
 
----
+This article explains **trauma as a structural phenomenon** under Informational Experiential Realism (IER).
 
-## Article identity
-
-* **Tier:** T2 — Harm, deformation, and unowned settlement
-* **Document type:** Canon-governed, non-normative explanatory article
-* **Primary function:** To explain **trauma as abrupt, unowned sedimentation** that deforms admissible futures without authorship or integration
+Its purpose is to make explicit how harm can persist **without memory, narrative, pathology, or defect**, by identifying trauma as a specific form of **unowned sedimentation** that deforms admissible futures forward in time.
 
 This article introduces:
 
-* **no clinical criteria**
-* **no diagnostic categories**
-* **no therapeutic prescriptions**
+* no clinical criteria
+* no diagnostic categories
+* no therapeutic prescriptions
 
 It is **structural, not medical**.
+It explains *what trauma is* in IER terms, not how to treat it.
 
 ---
 
-## Central thesis (must appear clearly and early)
+## **2. Why trauma is not memory**
 
-> **Trauma is the persistent deformation of a system’s admissible-future topology caused by abrupt, unowned settlement that could not be traversed under intrinsic constraint at the time it occurred.**
+Trauma is commonly framed as a problem of memory:
+remembering too much, remembering incorrectly, or failing to integrate what is remembered.
 
----
+Under IER, this framing is structurally incorrect.
 
-## Canon constraints (must not be violated)
+Memory does not persist as stored content.
+Events do not remain present.
+Nothing is retained as a trace.
 
-* Do **not** equate trauma with distress or memory
-* Do **not** moralize recovery
-* Do **not** require narrative, meaning, or belief
-* Do **not** imply pathology or defect
-* Do **not** imply integration is obligatory or guaranteed
+Yet trauma persists.
 
----
+This alone is sufficient to show that trauma **cannot be memory**.
 
-## Required conceptual alignments
+Trauma operates even when:
 
-Must integrate with:
+* the event is not recalled
+* the event was never consciously experienced
+* the event is misremembered or forgotten
+* the system cannot form narrative
 
-* `IER-harm.md` — harm as structural damage
-* `IER-sedimentation.md` — persistence without storage
-* `IER-ownership.md` — unowned constraint
-* `IER-identity.md` — persistence without coherence
-* `IER-gaslighting.md` — imposed miscoordination
+Trauma therefore cannot be what is remembered.
 
 ---
 
-## Core structural commitments (must be explicit)
+## **3. Abrupt settlement and unowned constraint**
 
-* Trauma is **structural**, not epistemic
-* Trauma can exist without memory or fear
-* Trauma narrows futures forward, not backward
-* Trauma involves **unowned sedimentation**
-* Integration is possible but not required for identity persistence
+Trauma arises when **irreversible settlement occurs abruptly** under conditions where intrinsic constraint **cannot be owned**.
+
+Such conditions include:
+
+* overwhelming force
+* extreme speed
+* imposed coordination
+* deprivation of viable traversal
+
+In these cases:
+
+* admissible futures collapse
+* deformation is fixed
+* traversal cannot proceed
+* ownership cannot attach
+
+The system continues to exist and experience, but the settlement was **not authored**.
+
+This is unowned sedimentation.
 
 ---
 
-## Required language anchor
+## **4. Deformation of admissible futures**
+
+The defining effect of trauma is **forward deformation**.
 
 > **Trauma is not what is remembered, but what can no longer be traversed.**
 
----
+After traumatic sedimentation:
 
-## Outline (must be followed closely)
+* certain futures become unreachable
+* transitions become prohibitively costly
+* regions of topology collapse or rigidify
 
-1. Status and scope
-2. Why trauma is not memory
-3. Abrupt settlement and unowned constraint
-4. Deformation of admissible futures
-5. Intrusion, avoidance, and rigidity (structural reinterpretation)
-6. Integration vs persistence
-7. Trauma without blame or defect
-8. Why healing cannot be imposed
-9. What this article does not claim
-10. Intermission
+This narrowing applies **from the present forward**, not backward into the past.
+
+The past does not persist.
+The future does — but in a deformed way.
 
 ---
 
-## What success looks like
+## **5. Intrusion, avoidance, and rigidity (structural reinterpretation)**
 
-Readers should understand:
+Common trauma phenomena can be reinterpreted structurally:
 
-* why trauma persists without recall
-* why safety does not erase deformation
-* why harm can exist without responsibility
-* why “processing” is neither necessary nor sufficient
+* **Intrusion** reflects involuntary traversal into steep, cured regions of topology
+* **Avoidance** reflects loss of low-cost paths around deformed regions
+* **Rigidity** reflects attractor narrowing and increased switching cost
+
+None of these require:
+
+* fear as a primitive
+* belief or appraisal
+* narrative meaning
+
+They are **topological consequences** of unowned sedimentation.
 
 ---
 
-## Explicit closure
+## **6. Integration vs persistence**
+
+Integration is not required for survival, identity, or moral standing.
+
+A system may persist with trauma indefinitely.
+
+Integration, where it occurs, consists in:
+
+* gradual re-traversal of deformed regions
+* under owned intrinsic constraint
+* without erasing sediment
+
+Integration does not undo trauma.
+It reorganizes traversal across it.
+
+Crucially:
+
+* integration is not guaranteed
+* integration is not obligatory
+* lack of integration is not failure
+
+---
+
+## **7. Trauma without blame or defect**
+
+Because trauma involves **unowned settlement**, it does not imply:
+
+* weakness
+* failure
+* poor coping
+* defective structure
+
+Nor does it assign responsibility.
+
+Harm can exist without authorship.
+Deformation can occur without fault.
+
+This is a structural fact, not a moral judgment.
+
+---
+
+## **8. Why healing cannot be imposed**
+
+Ownership cannot be applied retroactively.
+
+Because trauma arises from unowned settlement, integration cannot be forced by:
+
+* instruction
+* interpretation
+* exposure
+* explanation
+* reassurance
+
+Traversal must occur **under intrinsic constraint** for ownership to attach.
+
+Anything imposed externally risks repeating unowned deformation.
+
+---
+
+## **9. What this article does not claim**
+
+This article does **not** claim:
+
+* that trauma is a disorder
+* that trauma requires memory or fear
+* that recovery is necessary or inevitable
+* that meaning-making resolves deformation
+* that trauma defines a person
+
+It explains a structure, not a pathology.
+
+---
+
+## **10. Intermission**
+
+**Structural fact:**
+*Trauma persists because the future has been reshaped, not because the past remains.*
+
+---
+
+## **Explicit closure**
 
 This article does **not** pathologize.
 
-It explains how **experience survives abrupt unowned deformation**.
-
----
-
-**End of copypasta for `IER-trauma.md`**
+It explains how **experience survives abrupt unowned deformation** —
+how a Unified Experiential Field continues to operate even when parts of its future have become unreachable.

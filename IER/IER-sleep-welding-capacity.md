@@ -1,99 +1,172 @@
-# 🔹 COPYPASTA — NEW CONVERSATION
+# **IER-sleep-welding-capacity**
 
-## **Drafting `IER-sleep-welding-capacity.md` (T2)**
+## **1. Status and scope**
 
----
+This article explains **why sleep is structurally required** under Informational Experiential Realism (IER), without appeal to biology, optimization, or function-driven narratives.
 
-## Article identity
-
-* **Tier:** T2 — Regime stability and recovery
-* **Document type:** Canon-governed, non-normative explanatory article
-* **Primary function:** To explain **why sleep is structurally required** as recovery of capacity to bear irreversible resolution
+Its purpose is to clarify sleep as a **regime-preserving recovery maneuver**: a necessary suspension of irreversible resolution that restores a system’s capacity to continue bearing intrinsic constraint without collapse.
 
 This article introduces:
 
-* **no biological mechanisms**
-* **no medical guidance**
-* **no optimization principles**
+* no biological mechanisms
+* no medical guidance
+* no optimization principles
 
-It explains sleep as a **regime-preserving maneuver**.
-
----
-
-## Central thesis
-
-> **Wakeful experience irreversibly converts admissible futures into sedimented history, consuming intrinsic organizational capacity; sleep restores the ability to continue that conversion without regime collapse.**
+It explains sleep in purely **structural and dynamical terms**, as a consequence of how experience operates over time.
 
 ---
 
-## Canon constraints
+## **2. Irreversible resolution as cost**
 
-* Do **not** equate capacity with metabolic energy
-* Do **not** treat sleep as memory consolidation
-* Do **not** imply experience is “turned off” for rest
-* Do **not** introduce teleology
+Under IER, wakeful experience is not passive.
 
----
+As established in `IER-traversal.md` and `IER-sedimentation.md`, wakeful experience involves:
 
-## Required alignments
+* continuous traversal of admissible futures
+* irreversible settlement of alternatives
+* accumulation of sedimented constraint
 
-Must integrate with:
+Each irreversible resolution imposes **organizational cost**.
 
-* `IER-sleep.md`
-* `IER-dreaming.md`
-* `IER-spoons.md`
-* `IER-dynamics.md` — stability windows
+This cost is not hedonic, cognitive, or metabolic.
+It is the cost of **bearing intrinsic constraint while converting possibility into history**.
 
----
-
-## Core commitments
-
-* Welding cannot proceed indefinitely
-* Capacity depletion narrows futures
-* Agency collapses before experience
-* Dreams involve low-commitment traversal
-* Sleep suspends irreversible fixation
+Resolution is unavoidable.
+Cost is unavoidable.
 
 ---
 
-## Required language anchor
+## **3. Capacity depletion**
+
+A Unified Experiential Field has a **finite capacity** to bear irreversible resolution while remaining coherent.
+
+As wakefulness continues:
+
+* sedimentation accumulates
+* constraint gradients steepen
+* available futures narrow
+* participation load increases
+
+This depletion does not end experience.
+It erodes **agency first**.
+
+The system remains experiential, but:
+
+* traversal becomes forced
+* responsiveness collapses
+* ownership of resolution degrades
+
+This is not failure.
+It is structural exhaustion.
+
+---
+
+## **4. Wakefulness as continuous welding**
+
+Wakefulness can be understood as **continuous welding** of topology.
+
+Each act of resolution:
+
+* fuses one continuation
+* excludes others
+* fixes deformation into the future structure
+
+Welding is irreversible.
+It cannot proceed indefinitely without destabilizing the regime.
+
+There is no pause button during wakefulness.
+Even in stillness, traversal continues.
+
+---
+
+## **5. Sleep as suspension of welding**
+
+Sleep interrupts this process.
 
 > **Sleep functions as a regime-level recovery maneuver that attenuates irreversible resolution and restores future-bearing capacity.**
 
----
+During sleep:
 
-## Outline
+* irreversible fixation is reduced or suspended
+* participation narrows
+* global cost accumulation slows
+* the regime remains intact
 
-1. Status and scope
-2. Irreversible resolution as cost
-3. Capacity depletion
-4. Wakefulness as continuous welding
-5. Sleep as suspension of welding
-6. Dreaming as low-cost traversal
-7. Exhaustion and agency collapse
-8. What this article does not claim
-9. Intermission
+Experience is not “turned off.”
+What changes is **how much irreversible settlement is allowed to occur**.
+
+Sleep preserves the regime by **limiting further welding**, not by repairing damage or consolidating content.
 
 ---
 
-## What success looks like
+## **6. Dreaming as low-cost traversal**
 
-Readers understand:
+Dreaming occurs within sleep as a form of **low-commitment traversal**.
 
-* why sleep is mandatory
-* why stimulants fake capacity
-* why burnout feels like narrowed time
+Dream traversal:
+
+* engages topology lightly
+* avoids irreversible fixation
+* permits motion without curing
+* carries minimal intrinsic cost
+
+This explains why dreams:
+
+* feel vivid but non-binding
+* rarely sediment futures
+* dissolve without consequence
+
+Dreaming allows movement without welding.
 
 ---
 
-## Explicit closure
+## **7. Exhaustion and agency collapse**
+
+When sleep is delayed or disrupted:
+
+* welding continues past safe capacity
+* admissible futures narrow sharply
+* switching cost explodes
+* agency collapses
+
+Experience persists, but ownership degrades.
+
+This explains why exhaustion feels like:
+
+* loss of choice
+* inevitability
+* temporal compression
+* narrowed possibility
+
+Stimulants may mask symptoms by forcing traversal, but they do not restore capacity.
+They accelerate welding.
+
+---
+
+## **8. What this article does not claim**
+
+This article does **not** claim:
+
+* that sleep consolidates memories
+* that sleep optimizes performance
+* that experience ceases during sleep
+* that sleep exists for biological advantage
+* that sleep deficits are purely physiological
+
+It offers **structural explanation only**.
+
+---
+
+## **9. Intermission**
+
+**Structural fact:**
+*Irreversible resolution consumes the very capacity required to continue it.*
+
+---
+
+## **Explicit closure**
 
 Sleep is not for optimization.
 
-It is for **survival of the experiential regime**.
-
----
-
-**End of copypasta for `IER-sleep-welding-capacity.md`**
-
----
+It is for **survival of the experiential regime** —
+a necessary suspension of welding that restores the capacity to bear the future without collapse.
