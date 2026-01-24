@@ -1,4 +1,4 @@
-# **IER Canon (v10.8.4)**
+# **IER Canon (v10.9.0)**
 
 ## **Canonical Authority, Alignment, and Governance Rules**
 
@@ -6,7 +6,7 @@
 
 ## **Status and Purpose**
 
-This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** project as of **version 10.8.4**.
+This document defines the **canonical authority rules, interpretive constraints, alignment requirements, conflict resolution order, and version discipline** governing the **Informational Experiential Realism (IER)** project as of **version 10.9.0**.
 
 It introduces **no ontological, criterial, epistemic, or ethical claims**.
 
@@ -20,7 +20,7 @@ It governs **how documents relate to one another**, not what the theory claims.
 
 * Inclusion in the corpus means:
 
-  * the document is part of “IER v10.8.4”
+  * the document is part of “IER v10.9.0”
   * it is subject to the governance rules of this canon
   * it may be cited for orientation, exposition, or structure as appropriate
 
@@ -45,7 +45,7 @@ Within the corpus:
   * may not be cited to resolve theoretical disputes
   * must defer to canonical-authoritative material in all cases
 
-**Non-corpus material** consists of files present in the repository but **not enumerated in the manifest**. These are outside the scope of IER v10.8.4.
+**Non-corpus material** consists of files present in the repository but **not enumerated in the manifest**. These are outside the scope of IER v10.9.0.
 
 **Document inventories, tier assignments, and inclusion status are defined exclusively in `IER-manifest.md`.**
 
@@ -202,6 +202,15 @@ Costs (ethical discomfort, epistemic opacity) must be acknowledged as consequenc
 ### **G6.5 — No Adversarial Tone Toward the Reader**
 
 IER may be uncompromising in substance, never prosecutorial in tone.
+
+## **G6.6 — No Fictional Audience Inference**
+
+Corpus documents must not **presume**, **invoke**, or **imply** any pre-existing audience, interpretive community, readership pattern, or history of engagement with IER.
+
+References to “typical reactions,” “established confusions,” “common interpretations,” or any phrasing that suggests prior dissemination or reception are disallowed.
+A reader may be addressed only as the immediate addressee of the document at hand, without attributing background familiarity, interpretive habits, or community membership.
+
+Any implication of an antecedent audience constitutes a **canonical error**, as it introduces a false interpretive structure into the corpus.
 
 ---
 
