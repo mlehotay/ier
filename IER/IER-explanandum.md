@@ -1,7 +1,7 @@
 # **IER Explanandum and Scope Clarification**
 
 **Project:** Informational Experiential Realism (IER)
-**Version:** v10.8.3
+**Version:** v10.9.0
 **Tier:** T4 — Orientation / Translation
 **Normativity:** None
 **Status:** Expository / Consolidative Only
@@ -25,6 +25,9 @@ The purpose of this document is to state, **explicitly and in one place**, what 
 * **explicitly rejects as illegitimate evaluative demands**
 
 This document exists to prevent **explanandum drift**, **diagnostic smuggling**, and **mis-evaluation based on epistemic convenience**.
+
+IER’s explanandum is deliberately narrow.
+Answering it constrains many adjacent domains without directly addressing them.
 
 ### 1.1 What This Document Is Not
 
@@ -123,6 +126,23 @@ Identity is treated as a **legitimate explanatory form**, not as a detection rul
 
 ---
 
+### 4.3 Structural Projections and Explanandum Discipline
+
+Across the IER corpus, multiple descriptive projections recur
+(e.g., time, agency, identity, memory, possibility).
+
+These projections do **not** expand IER’s explanandum.
+They are overlapping descriptive lenses applied to the **same identity claim**,
+introduced to support orientation, navigation, and explanatory access.
+
+* No projection introduces an independent target of explanation.  
+* No projection functions as an ontological axis.  
+* No projection licenses additional criteria, diagnostics, or evaluative standards.  
+
+The explanandum remains singular: **experience / experiential subjecthood**.
+
+---
+
 ## 5. Scope of Applicability (Non-Diagnostic)
 
 IER’s ontology applies, in principle, to:
@@ -156,7 +176,7 @@ These exclusions are **structural consequences** of IER’s identity claim, not 
 
 ## 7. Relationship to Other Disciplines (Clarificatory)
 
-* **Neuroscience:** compatible but not reducible; IER is not a neuroscience theory
+* **Neuroscience:** compatible but not reducible; IER fixes the ontological target that neuroscience may describe without settling
 * **Psychology / AI:** descriptive overlap possible; never criterial
 * **Ethics:** downstream of ontology; never justificatory
 * **Engineering:** no optimization targets or design prescriptions implied
@@ -176,7 +196,7 @@ This document does **not**:
 
 ---
 
-# **Appendix A — IER Rubric Coverage Map (IER v10.8.3)**
+# **Appendix A — IER Rubric Coverage Map (IER v10.9.0)**
 
 **Status:** Expository / Navigational
 **Function:** Ensure explicit coverage of every rubric principle
