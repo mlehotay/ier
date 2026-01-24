@@ -363,3 +363,190 @@ All occur **within one Unified Experiential Field**, using the same machinery.
 > Resolution fails within experience.*
 
 ---
+
+---
+
+## **Appendix A — On the DSM and Diagnostic Categories (Interpretive Guardrails)**
+
+### **A.1 Scope and Intent**
+
+This appendix clarifies how diagnostic categories from the *Diagnostic and Statistical Manual of Mental Disorders* (DSM) may—and may not—be interpreted within **Informational Experiential Realism (IER)**.
+
+This appendix:
+
+* introduces **no new diagnostics**
+* does **not** critique clinical practice
+* does **not** dispute the utility of diagnosis for care, access, or coordination
+* does **not** replace or reinterpret DSM criteria
+
+Its sole purpose is to **block category errors** when DSM labels are read as explanations of experiential structure.
+
+---
+
+### **A.2 What the DSM Is (Structurally)**
+
+Within IER, DSM categories are understood as:
+
+* pragmatic classification tools
+* phenomenological cluster labels
+* coordination instruments for institutions
+* shorthand for recurring patterns of distress and impairment
+
+They are optimized for:
+
+* inter-rater reliability
+* communication among clinicians
+* treatment planning and reimbursement
+* public health tracking
+
+They are **not optimized for**:
+
+* ontological accuracy
+* identification of internal mechanisms
+* experiential architecture
+* causal explanation
+* subject-level metaphysics
+
+IER treats this as a **design fact**, not a flaw.
+
+---
+
+### **A.3 What the DSM Is *Not***
+
+Under IER, DSM categories are **not**:
+
+* natural kinds
+* discrete internal entities
+* modular failures of mind
+* exhaustive descriptions of experience
+* measures of experiential standing
+* indicators of diminished subjecthood or agency by identity
+
+No inference about **what kind of experiencer someone is** may be drawn from the presence or absence of a DSM diagnosis.
+
+---
+
+### **A.4 Description vs Explanation**
+
+IER draws a strict distinction between:
+
+* **descriptive classification**
+  (what patterns tend to co-occur)
+
+and
+
+* **structural explanation**
+  (why those patterns arise)
+
+DSM categories operate entirely at the **descriptive level**.
+
+IER explanations operate at the level of:
+
+* intrinsic constraint
+* admissible futures
+* bias formation
+* collapse
+* inertia
+* closure
+* coupling
+* interface mismatch
+
+Using a DSM label as an explanation is a **category mistake**.
+
+---
+
+### **A.5 Mapping Without Reification**
+
+IER allows *mapping* between DSM categories and structural patterns, but blocks *reification*.
+
+Illustrative (non-diagnostic) correspondences include:
+
+* ADHD-labeled patterns → dispersion of bias gradients
+* OCD-labeled patterns → closure failure with looping
+* Anxiety-labeled patterns → vigilance-driven narrowing
+* Depressive patterns → flattened future topology
+* Tourette-labeled patterns → premature constraint discharge
+
+These mappings are:
+
+* many-to-one
+* one-to-many
+* context-dependent
+* non-exclusive
+
+Comorbidity is therefore **expected**, not anomalous.
+
+---
+
+### **A.6 Autism and Non-Pathological Architectures**
+
+IER explicitly distinguishes:
+
+* **architectural variation** (e.g., autism)
+* **resolution deformation** (psychopathology)
+
+Some DSM categories include phenomena that, under IER, are **not psychopathological at all**, but reflect:
+
+* stable constraint architectures
+* participation topology differences
+* interface mismatches
+
+In such cases, the DSM label tracks **institutional need**, not internal failure.
+
+---
+
+### **A.7 Responsibility, Agency, and Diagnosis**
+
+IER affirms that:
+
+* agency may be constrained without being absent
+* responsibility may attenuate without disappearing
+* ownership persists even when resolution fails
+
+DSM diagnoses **do not** settle questions of:
+
+* moral responsibility
+* epistemic authority
+* credibility
+* competence
+* standing
+
+Such questions require **independent normative analysis**, not diagnostic inference.
+
+---
+
+### **A.8 Why IER Does Not “Fix” the DSM**
+
+IER does not attempt to revise, replace, or correct the DSM because:
+
+* the DSM is not intended to be an ontological theory
+* explanatory demands exceed its design scope
+* conflating coordination tools with theory degrades both
+
+IER operates **upstream and orthogonally**, providing a structural account that can coexist with diagnostic practice without conflict.
+
+---
+
+### **A.9 Summary Constraint**
+
+The single governing rule is:
+
+> **DSM categories may describe patterns of distress, but they do not explain experiential structure.**
+
+Any interpretation that treats diagnostic labels as:
+
+* internal mechanisms
+* kinds of minds
+* explanations of agency
+* measures of experiential standing
+
+is **structurally invalid under IER**.
+
+---
+
+### **Appendix Intermission — Structural Fact**
+
+Classification can be indispensable
+without being explanatory.
+
+---
