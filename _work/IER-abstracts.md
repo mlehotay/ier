@@ -2516,3 +2516,362 @@ This changelog records **conceptual, structural, and governance-level changes** 
 It does **not** list minor edits, wording tweaks, formatting changes, or routine refactors.
 
 ---
+
+## 000. IER-settlement.md
+
+## **1. Orientation: The Missing Verb**
+
+Readers often feel that something is missing between:
+
+* *multiple possible futures*, and
+* *one future that actually occurs*.
+
+That missing thing is usually named with a verb:
+
+*choose*, *decide*, *select*, *actualize*, *commit*.
+
+Under Informational Experiential Realism, all such verbs mislead.
+
+They suggest:
+
+* an operation performed on futures,
+* a selector applied to alternatives, or
+* a moment where reality is “made real.”
+
+IER forbids all three.
+
+The aim of this article is to show that **nothing needs to act** for a future to become fixed. What happens instead is **settlement**: the loss of alternatives under intrinsic constraint.
+
+---
+
+## 000. IER-owned-resolution.md
+
+## **1. Orientation: Resolution Never Pauses**
+
+Every physical system resolves forward in time.
+
+States succeed states.
+Possibilities collapse into actualities.
+Something happens rather than nothing.
+
+Resolution never pauses — **but it may slow, destabilize, or reorganize**.
+
+This is true whether or not experience exists.
+
+> **Resolution is universal and uninterrupted; what varies is where its cost is borne.**
+
+IER does not explain why resolution occurs.
+It explains **when and why resolution becomes owned**, rather than merely occurring.
+
+---
+
+## 000. IER-navigation-control.md
+
+## **1. Status and scope**
+
+This article explains **how a Unified Experiential Field navigates structure** without invoking faculties, representations, retrieval, or internal controllers.
+
+Its purpose is to make explicit a consequence already fixed by `IER-cognition.md`:
+if cognition is topology reproduction under constraint, then *navigation* must consist in **continuous modulation of how traversal occurs**, not in accessing stored content or operating mental tools.
+
+This article introduces:
+
+* no new faculties
+* no modular architecture
+* no representational mechanisms
+
+It formalizes navigation as **parameterized traversal of topology**, fully consistent with IER’s identity claim.
+
+---
+
+## 000. IER-traversal.md
+
+## **Why “choice” needs a dynamic account**
+
+Ordinary language treats choice as a **punctate act**: a moment of selection among options.
+
+That picture fails structurally under IER.
+
+Resolution does not occur at isolated instants.
+It unfolds continuously as a system moves through a constrained space of admissible futures.
+
+Several familiar intuitions point to this already:
+
+* “Doing nothing” still has consequences
+* Delay itself forecloses alternatives
+* Momentum, habit, and pressure shape outcomes without any decisive moment
+
+These are not failures of choice.
+They are signatures of **continuous traversal**.
+
+If a system exists under intrinsic constraint, then **resolution always happens**.
+The only question is not *whether* traversal occurs, but **how it unfolds and where its cost is borne**.
+
+---
+
+## 000. IER-choice-topology.md
+
+## **Why the confusion keeps arising**
+
+The confusion this article resolves is not conceptual error.
+It is a predictable consequence of using **different vocabularies for the same structure** in different explanatory contexts.
+
+Across the corpus:
+
+* *choice space* appears when discussing agency, responsibility, and action
+* *admissible futures* appears when discussing time, continuity, and constraint
+* *topology* appears when discussing global structure presupposed by all of the above
+
+Each term arose to solve a local explanatory problem.
+None were intended to introduce a distinct ontological object.
+
+However, because these vocabularies are introduced in different chapters and applied to different questions, readers (and authors) naturally infer multiplicity:
+
+> *Are there three things here?
+> Or one thing described three ways?*
+
+The correct answer is **one thing**.
+
+This article makes that explicit.
+
+---
+
+## 000. IER-sedimented-substrate.md
+
+## **1. Status and scope**
+
+This article explains **what persists across time under Informational Experiential Realism (IER)** without invoking storage, representation, or retained content.
+
+Its purpose is to make explicit a consequence already implicit across the corpus:
+that history shapes a system **by deforming its future**, not by preserving its past.
+
+The term *substrate* is used carefully.
+It does **not** name a memory store, material layer, archive, or container.
+It names the **ongoing constraint geometry** that remains after traversal has occurred.
+
+This article introduces:
+
+* no new primitives
+* no criteria or diagnostics
+* no therapeutic prescriptions
+
+It performs **structural clarification only**, providing the diachronic view of what traversal does over time.
+
+---
+
+## 000. IER-history-future-boundary.md
+
+## **1. Status and scope**
+
+This article names and formalizes a **single structural object** already presupposed throughout the IER corpus:
+the moving boundary where sedimented history constrains admissible futures.
+
+Its purpose is not to introduce new machinery, but to **locate where intrinsic constraint and experience actually live**, without reifying time, memory, or narrative.
+
+This article introduces:
+
+* no new primitives
+* no criteria, thresholds, or diagnostics
+* no metaphors that license representational or agentive inference
+
+It performs **structural synthesis only**, making explicit the shared locus relied upon by discussions of topology, traversal, sedimentation, identity, and agency.
+
+---
+
+## 000. IER-trauma.md
+
+## **1. Status and scope**
+
+This article explains **trauma as a structural phenomenon** under Informational Experiential Realism (IER).
+
+Its purpose is to make explicit how harm can persist **without memory, narrative, pathology, or defect**, by identifying trauma as a specific form of **unowned sedimentation** that deforms admissible futures forward in time.
+
+This article introduces:
+
+* no clinical criteria
+* no diagnostic categories
+* no therapeutic prescriptions
+
+It is **structural, not medical**.
+It explains *what trauma is* in IER terms, not how to treat it.
+
+---
+
+## 000. IER-sleep-welding-capacity.md
+
+## **1. Status and scope**
+
+This article explains **why sleep is structurally required** under Informational Experiential Realism (IER), without appeal to biology, optimization, or function-driven narratives.
+
+Its purpose is to clarify sleep as a **regime-preserving recovery maneuver**: a necessary suspension of irreversible resolution that restores a system’s capacity to continue bearing intrinsic constraint without collapse.
+
+This article introduces:
+
+* no biological mechanisms
+* no medical guidance
+* no optimization principles
+
+It explains sleep in purely **structural and dynamical terms**, as a consequence of how experience operates over time.
+
+---
+
+## 000. IER-embodiment.md
+
+## **1. Orientation: Why Embodiment Needs Explanation**
+
+IER defines experience by **closure**: the unavoidable bearing of intrinsic constraint within a Unified Experiential Field.
+
+Closure is:
+
+* functional, not anatomical
+* regime-level, not organism-level
+* defined independently of bodies
+
+And yet, across cases, **bodies keep mattering**.
+
+Fatigue collapses choice.
+Pain reorganizes futures.
+Damage limits viability.
+Interfaces fail.
+Offloading saturates.
+
+This article explains **why embodiment matters once closure is already fixed**, without redefining closure or experience.
+
+---
+
+## 000. IER-inertia.md
+
+## **1. Orientation: Why Nothing Ever Stops**
+
+Physical systems do not pause.
+
+They do not wait for deliberation.
+They do not suspend while alternatives are considered.
+They do not halt to ask what should happen next.
+
+States succeed states.
+Trajectories continue.
+Resolution unfolds.
+
+This is true of rocks, storms, markets, institutions, and organisms.
+It is also true **inside experience**, when experience exists.
+
+The question IER addresses here is not *why motion exists*, but:
+
+> **Why continuation is the default condition, and why interruption requires additional work.**
+
+That default is called **inertia**.
+
+---
+
+## 000. IER-bias.md
+
+## **1. Orientation: Why Futures Are Not Equal**
+
+At many moments, multiple futures are physically admissible.
+
+Yet they are rarely **equally viable**.
+
+Some continuations feel close at hand.
+Others feel distant, fragile, or already fading.
+Some require little to sustain.
+Others demand constant reorganization.
+
+This unevenness appears:
+
+* before deliberation
+* without evaluation
+* prior to choice
+* even in non-experiential systems
+
+IER calls this unevenness **bias**.
+
+---
+
+## 000. IER-doomsday.md
+
+## **Orientation**
+
+Concerns about artificial intelligence and existential catastrophe often rely on an implicit assumption:
+
+> *If an AI system were conscious, it would not destroy humanity.
+> The danger comes from AI systems that are not conscious.*
+
+This article exists to examine that assumption.
+
+It does **not** evaluate the likelihood of AI catastrophe.
+It does **not** propose safety measures or governance strategies.
+It does **not** discuss ethics, moral standing, or harm.
+It makes **no empirical claims** about where or how consciousness exists.
+
+Its purpose is narrower and more technical:
+
+> **to dissolve a recurring conceptual error—treating consciousness as a safety mechanism.**
+
+---
+
+## 000. IER-psychopathology.md
+
+## 1. Orientation: Why Psychopathology Needs a Structural Account
+
+Psychopathology persistently resists explanation by:
+
+* intelligence
+* insight
+* motivation
+* effort
+* belief revision
+* self-knowledge
+
+People often:
+
+* understand their situation accurately,
+* want to act differently,
+* exert sustained effort,
+* and remain unable to resolve the problem.
+
+This creates pressure to invoke:
+
+* broken control systems,
+* defective cognition,
+* motivational weakness,
+* or hidden agents inside the mind.
+
+Under Informational Experiential Realism, these moves are structurally unavailable.
+
+IER identifies experience with the operation of a **single Unified Experiential Field** operating under **globally binding intrinsic constraint**. There are:
+
+* no internal observers,
+* no executive homunculi,
+* no separate experiential subsystems,
+* no stored scripts running independently of ownership.
+
+Psychopathology must therefore be explained **within one intact experiential regime**, without fragmenting subjecthood or outsourcing agency.
+
+---
+
+## 000. IER-topo-reader.md
+
+### Why this companion exists
+
+If you have been reading the IER corpus, you may have noticed a recurring convergence. Discussions of memory seem to turn into discussions of the future. Identity survives without recall. Agency looks less like choosing and more like collapse. History matters without being stored. Time appears without ever being added as a separate ingredient.
+
+This companion exists to make that convergence explicit.
+
+IER-topology does not introduce a new theory. It points out that many ideas already developed elsewhere in the corpus are **the same structure, described from different angles**. This document is a guide to that recognition, written without formal machinery.
+
+---
+
+## 000. IER-addiction.md
+
+## 1. Orientation: Why Addiction Is Structurally Misread
+
+Addiction is commonly framed as a problem of *control*: a person knows what they should do but fails to do it; impulses “hijack” behavior; a higher self must restrain a lower one. These framings presuppose a layered mind with executive modules that stand outside experience and issue commands.
+
+IER rejects this picture. A system that sustains a Unified Experiential Field does not contain an inner controller, a separate decision-maker, or a place from which experience is overridden. All resolution occurs *within* a single, globally integrated regime.
+
+The felt loss of control that accompanies addiction therefore requires a different explanation—one that does not multiply agents or posit failures of character.
+
+**Orientation signal**
+
+> *Addiction feels like loss of control because viable alternatives have collapsed, not because control has been stolen.*

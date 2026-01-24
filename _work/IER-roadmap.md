@@ -26,159 +26,124 @@ If any conflict arises, **canonical documents take precedence and this document 
 
 It exists to:
 
-1. Map **which kinds of work belong in which versions**
-2. Prevent **scope creep across patch releases**
-3. Separate **architectural change** from **cleanup and polish**
-4. Provide a psychologically and structurally finite release ladder
+1. Describe **what kinds of work justify which version increments**
+2. Prevent **patch-version scope creep**
+3. Distinguish **structural consolidation** from **editorial cleanup**
+4. Keep the project **finite, legible, and non-aspirational**
 
 This document is **not**:
 
-* a list of tasks
-* a substitute for `IER-future-work.md`
+* a task list
+* a promise of future work
 * a theory roadmap
-* a promise of future features
+* a substitute for `IER-future-work.md`
 
 `IER-future-work.md` remains the **authoritative inventory of permissible work**.
-This document specifies **when and how subsets of that work should be released**.
+This document governs **when and how subsets of that work are released**.
+
+---
+
+# **Versioning Principle (Reaffirmed)**
+
+> **IER version numbers track changes in binding interpretive structure, not repository activity.**
+
+All post–v10.8 releases preserve:
+
+* the IER identity claim
+* categorical subjecthood
+* non-diagnosability
+* ethical closure
+* canon authority hierarchy
+
+No release listed here reopens normative closure.
 
 ---
 
 # **Release Roadmap**
 
-## **Versioning Principle (Reaffirmed)**
-
-> **IER patch versions track changes in articulation and structure, not expansion of authority.**
-
-All releases below preserve:
-
-* the IER identity claim
-* categorical subjecthood
-* non-diagnosability
-* closed ethical commitments
-* canon authority structure
-
-No listed release reopens normative closure.
-
----
-
-## **v10.8.5 — Freeze, Canon Lock, and Baseline Stabilization**
+## **v10.9.0 — Structural Consolidation of Choice, Time, and History**
 
 **Intent:**
 
-> *Establish a stable, pre-hexad baseline.*
+> *Make explicit a large set of interdependent structures that were previously implicit, scattered, or underdetermined.*
 
-This release **does not introduce new architecture**.
-It exists to ensure that the corpus entering the hexad phase is **internally consistent, readable, and frozen**.
+This release performs **no foundational revision** and introduces **no new primitives**.
+It **does** substantially **narrow admissible interpretations** by consolidating how IER treats:
 
-### **Includes**
+* choice and traversal
+* admissible futures
+* resolution and ownership
+* temporal asymmetry
+* sedimentation and history
+* deformation of future possibility
+* psychopathology as resolution failure
 
-#### **A. Mechanical & Editorial Cleanup**
+### **Characteristics**
 
-* Formatting, LaTeX, and glyph hygiene
-* Minor clarity edits (no semantic change)
-* Typographical corrections
-* Cross-reference consistency
+* Significant **Tier-2 expansion**
+* Coordinated clarification across many documents
+* Explicit closure of previously “hand-wavy” explanatory gaps
+* Reader-facing synthesis added where needed
 
-#### **B. Navigation & Orientation Polish**
+This release should be understood as:
 
-* Glossary and index refinement
-* Reading-path cleanup
-* README and entry-point alignment
-* Minimal audience-specific pointers
+> **a single, coherent interpretive tightening event**,
+> not a sequence of incremental patches.
 
-#### **C. Misuse & Misreading Containment (Non-Structural)**
+### **Hexad Integration (Reduced-Scale)**
 
-* Diagnostic / proxy language sweep (Tier-2 only)
-* Informational-language disclaimer verification
-* Reinforcement: *experiential structure ≠ epistemic authority*
-* No new interface rules or enforcement mechanisms
+Work related to the hexad and projection structure is **merged into this release**, but **at deliberately reduced rigidity**.
 
-### **Explicit Exclusions**
+Specifically:
 
-* No new documents
-* No projection discipline
-* No refactors
-* No audits
-* No scope reclassification
+* The hexad is treated as a **recurring explanatory pattern**, not a governing ontology
+* Projections are understood as **overlapping descriptive lenses**, not orthogonal axes
+* Articles may legitimately span multiple projections
+* No enforcement of projection purity is introduced
+* No refactors are required to “fit” a projection
 
-**Outcome:**
-A clean, locked **pre-hexad corpus** suitable for architectural overlay.
-
----
-
-## **v10.9.0 — Hexad & Projection Architecture (Structural Declaration)**
-
-**Intent:**
-
-> *Make explicit the projection architecture already implicit in IER.*
-
-This release introduces **no new theory**.
-It introduces **explicit structure about how existing theory is organized and interpreted**.
-
-### **Core Additions**
-
-* `IER-hexad.md`
-  *Reader-facing map of the six explanatory projections*
-
-* `IER-interface.md`
-  *Internal projection-discipline and isolation rules*
-
-* Mandatory **Explanatory Orientation** sections (added, not enforced)
-
-* Explicit designation of `IER-topology.md` as **keystone synthesis**
-
-### **Critical Scope Rule**
-
-> **This release declares architecture; it does not enforce compliance.**
-
-Projection articles:
-
-* may fail audits
-* may contain legacy leakage
-* are not required to be refactored
-
-Audits are **diagnostic only**.
+`IER-hexad.md` and related materials serve as **orientation and navigation aids**, not architectural constraints.
 
 ### **Explicit Non-Goals**
 
-* No projection rewrites
-* No material relocation
-* No deletions of legacy prose
-* No narrowing of existing explanations
+This release does **not**:
+
+* introduce projection isolation rules
+* enforce interface discipline
+* require article realignment
+* delete or relocate legacy prose
+* claim that the hexad is exhaustive or privileged
 
 **Outcome:**
-IER becomes **self-aware of its projection structure**, without destabilizing content.
+
+IER becomes **structurally clearer, temporally grounded, and choice-coherent**, without sacrificing organic overlap or explanatory richness.
 
 ---
 
-## **v10.9.1+ — Projection Refactor Passes (Optional, Staged)**
+## **v10.9.1+ — Optional Clarification and Alignment Passes**
 
 **Intent:**
 
-> *Align legacy projection articles with the declared architecture, incrementally and without urgency.*
+> *Improve clarity and local coherence without reopening structure.*
 
-These are **optional, future releases**, not commitments.
+These are **optional patch releases**, not obligations.
 
 ### **Permitted Work**
 
-* One projection at a time
-* Interface-compliant refactors
-* Relocation (not loss) of material
-* Creation of:
-
-  * Topology-only synthesis
-  * Projection-pure anchors
-  * Cross-projection “consequence” documents
+* Local clarification edits
+* Cross-reference cleanup
+* Light reorganization for readability
+* Non-semantic tightening of language
+* Correction of accidental ambiguity revealed by v10.9.0
 
 ### **Explicit Constraints**
 
-* No new theory
-* No new authority
-* No change to ethical closure
-* No requirement that all projections be refactored
+* No new documents that add binding structure
+* No reclassification of article scope
+* No introduction of enforcement mechanisms
+* No expansion of projection discipline
 
-**Outcome:**
-Structural cleanliness improves **without sacrificing prior insight**.
+These releases exist **only if they prevent concrete misreadings**.
 
 ---
 
@@ -188,10 +153,10 @@ A bump to **v10.10** is **not authorized** under this roadmap.
 
 It would be justified **only if**:
 
-* identity conditions change
+* the identity claim changes
 * necessary or sufficient conditions change
 * ethical consequences change
-* epistemic limits are altered
+* epistemic limits are revised
 * normative closure is reopened
 
 No currently anticipated work meets these criteria.
@@ -200,7 +165,7 @@ No currently anticipated work meets these criteria.
 
 ## **Global Guardrail**
 
-> **If a proposed addition does not prevent a concrete misreading or resolve a structural ambiguity, it must not be released.**
+> **If a proposed addition does not block a real misreading or resolve a structural ambiguity, it must not be released.**
 
 IER advances by **constraint**, not accumulation.
 
@@ -209,13 +174,13 @@ IER advances by **constraint**, not accumulation.
 ## **Relationship to `IER-future-work.md`**
 
 * `IER-future-work.md`
-  → **What** work is permitted (exhaustive, authoritative checklist)
+  → **What** work is permitted (complete inventory)
 
 * `IER-roadmap.md`
-  → **When and how** subsets of that work are released
+  → **When and how** that work may be released
 
 The checklist governs scope.
-The roadmap governs sequencing and discipline.
+The roadmap governs discipline.
 
 ---
 
@@ -226,13 +191,13 @@ IER is **normatively closed**.
 Future releases exist only to:
 
 * stabilize articulation
-* make implicit structure explicit
-* prevent long-term drift
-* preserve interpretive coherence
+* consolidate structure
+* make implicit dependencies explicit
+* prevent interpretive drift
 
-This roadmap is intentionally finite.
+This roadmap is intentionally short and conservative.
 
-> **IER does not advance by expansion.
-> It completes by constraint.**
+> **IER does not grow by adding ideas.
+> It completes by removing ambiguity.**
 
 ---

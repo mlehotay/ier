@@ -1,5 +1,5 @@
-# Informational Experiential Realism (IER)  
-**Repository Overview — v10.8.3**
+# Informational Experiential Realism (IER)
+**Repository Overview — v10.9.x**
 
 ---
 
@@ -7,200 +7,75 @@
 
 This repository contains the **Informational Experiential Realism (IER)** project:
 
-- the **canonical theoretical corpus**
-- **publication artifacts** derived from that corpus
-- the **build, verification, and governance infrastructure** used to assemble releases
+* the **canonical theoretical corpus**
+* **publication artifacts** derived from that corpus
+* **build, verification, and governance infrastructure**
 
-The repository is designed to make **structure explicit, deterministic, and verifiable**.
+The repository is designed to make **authority, structure, and ordering explicit**.
 
-Nothing is implicitly ordered.  
 Nothing is inferred at build time.  
 Nothing authoritative is downstream of tooling.
 
-This README is intended for **contributors, reviewers, and technically literate readers**
-who need to understand the project’s **structure, authority boundaries, and discipline**.
-It is **not** an introduction to the theory itself.
+This README is for **contributors and reviewers**.  
+It is **not** an introduction to the theory.
 
 ---
 
 ## Repository Structure
 
 ```text
-IER/            Canonical IER theory chapters (authoritative)
-pub/            Publication-layer inputs (selections, scaffolds, interface drafts)
+IER/            Canonical IER theory corpus (authoritative)
+pub/            Publication-layer selections and scaffolds
 scripts/        Build and verification tools
 build/          Generated outputs (disposable)
-assets/         Covers and static assets
-governance/     Build, publishing, deployment, legal, and reader-discipline rules
-_work/          Drafts, planning notes, non-canonical material
+assets/         Static assets
+governance/     Build, publishing, deployment, and reader-discipline rules
+_work/          Drafts and non-canonical material
 ````
 
-Each major directory defines its own role and constraints.
-Read the local `README.md` files before modifying or interpreting contents.
+Each directory defines its own role and constraints.
+Read local `README.md` files before interpreting contents.
 
 ---
 
-## Canonical Content
+## Canonical Authority
 
-All **theoretical authority** lives exclusively under `IER/`.
+All **theoretical authority** lives exclusively under [`IER/`](IER/).
 
-* Canonical chapters are named `IER/IER-*.md`
-* These files define **all** authoritative claims, criteria, and commitments
+Key files:
 
-See:
+* [`IER/README.md`](IER/README.md) — corpus orientation (non-authoritative)
+* [`IER/IER-canon.md`](IER/IER-canon.md) — authority, alignment, and versioning rules
+* [`IER/IER-manifest.md`](IER/IER-manifest.md) — official corpus inventory and ordering
 
-* `IER/README.md` — theory orientation and reading paths (non-authoritative)
-* `IER/IER-canon.md` — authority, alignment, and versioning rules
-* `IER/IER-manifest.md` — official corpus inventory and ordering
-
-Nothing outside `IER/` has theoretical authority.
+Nothing outside [`IER/`](IER/) has theoretical or ethical authority.
 
 ---
 
 ## Publication Artifacts
 
-IER is published in distinct **artifact classes** with different epistemic roles.
+Books and papers are **derived views** of the corpus.
+They introduce **no independent authority**.
 
-All publication artifacts are **derived views** of the canonical corpus and carry
-**no independent theoretical authority**.
+Primary artifacts:
 
-The primary artifact classes are:
+* **Corpus Book** — deployment anchor
+* **Paper** — scholarly interface
+* **TLDR Book** — reader-facing explanation
+* **Foundations Book** — verbatim foundational subset
 
-1. **Paper** — condensed scholarly interface
-2. **Corpus Book** — full technical monograph (deployment anchor)
-3. **TLDR Book** — reader-facing explanatory interface
-4. **Foundations Book** — verbatim foundational subset interface
-
-These artifacts differ by **epistemic role**, not merely by length or style.
-
----
-
-### Paper (Scholarly Interface)
-
-* Source: `pub/IER-paper.md`
-* Output: `build/IER-paper.pdf`
-
-Build with:
-
-```bash
-make paper
-```
-
-The paper is **non-authoritative** and downstream of the corpus book.
-It is intended for academic circulation, critique, and citation.
+Build details are defined in
+[`governance/IER-build.md`](governance/IER-build.md).
 
 ---
 
-### Corpus Book (Anchor Artifact)
+## Governance & Verification
 
-* Selection file: `pub/IER-corpus-selection.md`
-* Scaffold directory: `pub/corpus-book/`
-* Output: `build/IER-corpus-book.pdf`
+Build, publishing, deployment, and reader-discipline rules live under
+[`governance/`](governance/).
 
-Build with:
-
-```bash
-make book
-```
-
-The Corpus Book is the **sole deployment anchor** for a given IER version.
-It establishes stable ordering, pagination, and citation reference.
-
----
-
-### TLDR Book (Gateway Interface)
-
-* Selection file: `pub/IER-tldr-selection.md`
-* Scaffold directory: `pub/tldr-book/`
-* Output: `build/IER-tldr-book.pdf`
-
-Build with:
-
-```bash
-make tldr
-```
-
-This artifact is explicitly **non-authoritative** and reader-facing.
-It exists to explain, not to define.
-
----
-
-### Foundations Book (Verbatim Interface)
-
-* Selection file: `pub/IER-foundations-selection.md`
-* Output: `build/IER-foundations-book.pdf`
-
-This artifact contains a **verbatim subset** of canonical material corresponding
-to IER’s foundations, with minimal framing and no interpretation.
-
-It is **non-authoritative** and does not replace the corpus book.
-
----
-
-## Build and Verification (High Level)
-
-Book artifacts are produced by a **mechanical, non-inferential build system**:
-
-* Chapter inclusion and ordering are declared explicitly
-* Structural pages may be generated, but never theory
-* Verification is mandatory for validity
-
-This README intentionally does **not** duplicate build mechanics.
-
-For authoritative details, see:
-
-* `governance/IER-build.md`
-
----
-
-## Verification
-
-Verification is **not optional linting**.
-
-A book that does not verify is considered **invalid**, regardless of whether
-Pandoc succeeds.
-
-Common targets:
-
-```bash
-make verify
-make verify-tldr
-```
-
-Verification scope and invariants are defined in `IER-build.md`.
-
----
-
-## Governance
-
-All non-canonical constraints governing **build mechanics, publishing,
-deployment, readership, and legal context** live under `governance/`.
-
-See `governance/README.md` for:
-
-* authority boundaries
-* document roles
-* conflict resolution rules
-* guidance on when each governance file applies
-
-Key governance documents include:
-
-* `governance/IER-build.md`
-  Mechanical assembly rules and verification invariants
-
-* `governance/IER-publishing.md`
-  Rendering, typography, and physical format rules
-
-* `governance/IER-deployment.md`
-  Release order, anchoring discipline, and immutability rules
-
-* `governance/IER-readers.md`
-  Audience analysis and reading patterns
-
-* `governance/IER-legal.md`
-  Legal context for AI-assisted authorship (as of 2025)
-
-If documents conflict, authority resolves **upstream** toward the canon.
+Verification is **mandatory**.
+A build that does not verify is invalid.
 
 ---
 
@@ -208,14 +83,10 @@ If documents conflict, authority resolves **upstream** toward the canon.
 
 This repository is intentionally:
 
-* **explicit** over implicit
-* **deterministic** over convenient
-* **verified** over assumed
-* **canon-safe** over flexible
-
-If a structure matters, it is encoded.
-If a rule matters, it is enforced.
-If something changes, verification fails loudly.
+* explicit over implicit
+* deterministic over convenient
+* verified over assumed
+* canon-safe over flexible
 
 ---
 
@@ -223,9 +94,5 @@ If something changes, verification fails loudly.
 
 Active development.
 
-* Canonical theory evolves cautiously
-* Build and verification rules evolve conservatively
-* Governance clarifies constraints, not content
-* Non-canonical drafts live under `_work/` and never affect builds
-
----
+Canonical theory evolves cautiously.
+Non-canonical drafts live under [`_work/`](_work/) and never affect builds.

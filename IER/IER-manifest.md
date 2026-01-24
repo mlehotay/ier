@@ -1,4 +1,4 @@
-# **IER Manifest (v10.8.4)**
+# **IER Manifest (v10.8.5)**
 
 ## **Corpus Inventory and Flat Ordering**
 
@@ -7,7 +7,7 @@
 ## **Status and Function**
 
 This document enumerates the **complete corpus** of the
-**Informational Experiential Realism (IER)** project as of **version 10.8.4**.
+**Informational Experiential Realism (IER)** project as of **version 10.8.5**.
 
 It defines:
 
@@ -269,20 +269,20 @@ These documents are **in-corpus** and **canon-governed**, but are **not book cha
 
 They define **authority, structure, process, and navigation**, not theory.
 
-121. **`README.md`** — Repository front-door orientation
-122. **`IER-canon.md`** — Canonical authority, alignment rules, and governance
-123. **`IER-manifest.md`** — Corpus inventory and flat ordering
-124. **`IER-changelog.md`** — Version history and structural changes
+- **`README.md`** — Repository front-door orientation
+- **`IER-canon.md`** — Canonical authority, alignment rules, and governance
+- **`IER-manifest.md`** — Corpus inventory and flat ordering
+- **`IER-changelog.md`** — Version history and structural changes
 
 ### **Governance Subdirectory (Canon-Governed Infrastructure)**
 
 These files govern **how IER is built, published, interpreted, and read**, but introduce **no theoretical or ethical content**.
 
-125. **`governance/IER-build.md`** — Mechanical assembly and verification
-126. **`governance/IER-publishing.md`** — Book rendering and physical instantiation
-127. **`governance/IER-deployment.md`** — Release order and authority anchoring
-128. **`governance/IER-legal.md`** — Legal context for AI-assisted authorship
-129. **`governance/IER-readers.md`** — Audience analysis and reading patterns
+- **`governance/IER-build.md`** — Mechanical assembly and verification
+- **`governance/IER-publishing.md`** — Book rendering and physical instantiation
+- **`governance/IER-deployment.md`** — Release order and authority anchoring
+- **`governance/IER-legal.md`** — Legal context for AI-assisted authorship
+- **`governance/IER-readers.md`** — Audience analysis and reading patterns
 
 > These files are **canon-constrained** but **non-authoritative**: they regulate process, not claims.
 
@@ -293,10 +293,10 @@ These files govern **how IER is built, published, interpreted, and read**, but i
 These materials are **in-corpus** but **non-canonical** and **non-reader-facing**.
 They exist solely to support **publication, assembly, and derivative formatting**.
 
-130. **`IER-paper-spec.md`** — Specification for academic paper derivation
-131. **`IER-corpus-book.md`** — Full-corpus book assembly instructions
-132. **`IER-foundations-book.md`** — Foundations-only book assembly
-133. **`IER-tldr-book.md`** — TLDR book assembly
+- **`IER-paper-spec.md`** — Specification for academic paper derivation
+- **`IER-corpus-book.md`** — Full-corpus book assembly instructions
+- **`IER-foundations-book.md`** — Foundations-only book assembly
+- **`IER-tldr-book.md`** — TLDR book assembly
 
 > Nothing in Part V may be cited for theoretical, ethical, or diagnostic authority.
 
@@ -307,24 +307,51 @@ They exist solely to support **publication, assembly, and derivative formatting*
 Part VI contains **externally consumable works** derived from the IER corpus.
 They are **governed by canon**, but **do not contribute to canonical authority**.
 
-134. **`pub/IER-paper.md`** — Academic paper form of the IER thesis
+- **`pub/IER-paper.md`** — Academic paper form of the IER thesis
 
 ### **Selection Files (Reader-Scoped Subsets)**
 
 These files declare **which canonical chapters** appear in the publications
 
-135. **`IER-corpus-selection.md`** — Selected corpus chapters
-136. **`IER-foundations-selection.md`** — Foundations-only selection
-137. **`IER-tldr-selection.md`** — TLDR reader selection
+- **`IER-corpus-selection.md`** — Selected corpus chapters
+- **`IER-foundations-selection.md`** — Foundations-only selection
+- **`IER-tldr-selection.md`** — TLDR reader selection
 
 ### **Scaffold Directories**
 
 These directories contain **publication-only** Markdown and TeX files.
 
-138. **`tex/`** — Build-layer LaTeX scaffolding
-139. **`corpus-book/`** — Front matter and disclaimers, etc
-140. **`foundations-book/`** — Foreword, etc
-141. **`tldr-book/`** — Selected corpus articles
+- **`tex/`** — Build-layer LaTeX scaffolding
+- **`corpus-book/`** — Front matter and disclaimers, etc
+- **`foundations-book/`** — Foreword, etc
+- **`tldr-book/`** — Selected corpus articles
+
+---
+---
+
+## **Additions (Post v10.8.4)**
+
+> Appended to preserve existing flat ordering and avoid renumbering.
+> These entries are canon-governed by `IER-canon.md`.
+
+### **PART II — ADDITIONAL TOPICS, APPLICATIONS, AND BOUNDARIES (continued)**
+
+* **`IER-settlement.md`** — How a single future becomes fixed through loss of alternatives under intrinsic constraint.
+* **`IER-owned-resolution.md`** — When universal resolution becomes owned within experience.
+* **`IER-navigation-control.md`** — Navigation as continuous modulation of traversal through constraint topology.
+* **`IER-traversal.md`** — Choice reconceived as continuous traversal that forecloses futures over time.
+* **`IER-choice-topology.md`** — Choice space, admissible futures, and topology as one structure.
+* **`IER-sedimented-substrate.md`** — Persistence across time as sedimented constraint geometry.
+* **`IER-history-future-boundary.md`** — The moving boundary where history constrains futures.
+* **`IER-trauma.md`** — Trauma as unowned sedimentation deforming future possibilities.
+* **`IER-sleep-welding-capacity.md`** — Sleep as restoring capacity to bear intrinsic constraint.
+* **`IER-embodiment.md`** — How bodies shape constraint geometry and viable futures.
+* **`IER-inertia.md`** — Inertia as default continuation of resolution.
+* **`IER-bias.md`** — Uneven viability among admissible futures.
+* **`IER-doomsday.md`** — Why consciousness is not a safety mechanism.
+* **`IER-psychopathology.md`** — Psychopathology as resolution failure within one regime.
+* **`IER-topo-reader.md`** — Reader guide to topology unifying memory, identity, and agency.
+* **`IER-addiction.md`** — Addiction as a deep low-cost attractor in choice topology
 
 ---
 
@@ -336,7 +363,7 @@ Any file not explicitly enumerated above is **non-corpus**, regardless of reposi
 
 ## **Closing Statement**
 
-This manifest defines **what counts as IER v10.8.3**.
+This manifest defines **what counts as IER v10.8.5**.
 
 * Authority is fixed exclusively by **`IER-canon.md`**
 * Inclusion implies governance
