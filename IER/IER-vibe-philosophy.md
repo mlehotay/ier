@@ -2,15 +2,15 @@
 
 ## Orientation: Why a Methodological Article Exists
 
-This document describes a methodological posture used in the development of Informational Experiential Realism (IER).
+This document describes a methodological posture used during the development of Informational Experiential Realism (IER).
 
 It does not argue for the framework.
 It does not contribute to its authority.
 It does not introduce norms, criteria, or evaluative standards.
 
-All identity claims, exclusions, and ethical consequences remain fixed elsewhere.
+All identity claims, exclusions, and ethical consequences remain fixed elsewhere in the corpus.
 
-The purpose here is limited and descriptive: to articulate **how explanatory candidates were constrained, rejected, or retained**, without presenting that process as evidence or justification.
+The scope here is limited and descriptive: to articulate **how explanatory candidates were constrained, stressed, and discarded**, without presenting that process as evidence, justification, or recommendation.
 
 ---
 
@@ -30,14 +30,13 @@ Here, *vibe* names a narrow methodological sensitivity:
 
 > **Sensitivity to structural instability prior to explicit contradiction.**
 
-This sensitivity functions as an early warning system, not as a decision rule.
-
+This sensitivity functions as an early warning signal.
 It flags when an explanation:
 
 * depends on language doing hidden work,
 * survives only under restricted application,
 * requires continual qualification to remain coherent,
-* or fails when followed through across domains.
+* or fails when extended across domains.
 
 Vibe philosophy does not treat these signals as conclusions.
 It treats them as prompts for escalation.
@@ -61,7 +60,7 @@ The governing question was invariant:
 
 > **Can this explanation survive full extension without exception clauses, graded identity, or concealed rescue mechanisms?**
 
-Explanations that failed under any of these pressures were discarded, regardless of their elegance, familiarity, or appeal.
+Explanations that failed under any of these pressures were discarded, regardless of elegance, familiarity, or appeal.
 
 ---
 
@@ -107,6 +106,70 @@ It tests whether intuitions survive unrestricted application.
 
 ---
 
+## Rapid Theory Development (RTD)
+
+Some drafting phases proceeded in a mode analogous to **Rapid Application Development (RAD)** in software engineering.
+
+The analogy is methodological, not disciplinary.
+
+RAD emphasizes rapid prototyping to surface hidden requirements and failure modes early, rather than to converge on correctness or final architecture.
+In a parallel way, **Rapid Theory Development (RTD)** functioned as a way to **expose structural failure quickly and cheaply**.
+
+Under RTD:
+
+* speed was used to accelerate *collapse*, not convergence,
+* provisional formulations were expected to be discarded,
+* rhetorical polish was deferred,
+* and stability under pressure mattered more than local coherence.
+
+RTD did not determine what survived.
+It increased the rate at which explanations encountered constraint.
+
+---
+
+## Use of AI Within RTD
+
+AI systems were sometimes used as **instrumental tools** within RTD.
+
+This use did not treat AI output as:
+
+* authoritative
+* correct
+* insightful
+* epistemically privileged
+* or justificatory
+
+AI functioned as a **high-throughput surface for escalation**.
+
+It was used to:
+
+* generate rapid variations of an explanation,
+* extend claims across domains without protective framing,
+* surface implicit assumptions embedded in language,
+* and reveal where forbidden distinctions quietly re-entered.
+
+The value of AI in this role was primarily negative rather than positive:
+it made it easier to see **where an explanation failed**, not where it succeeded.
+
+No claim in IER depends on AI-generated content.
+All constraints, exclusions, and commitments remain fixed independently of any drafting tool.
+
+---
+
+## Why This Does Not Alter Authorship or Authority
+
+The use of RTD or AI does not modify authorship, responsibility, or authority.
+
+IER’s claims do not depend on:
+
+* who produced a sentence,
+* how quickly variants were generated,
+* or what tool mediated language production.
+
+RTD affected only the **rate and breadth of constraint confrontation**, not the structure of what survived it.
+
+---
+
 ## Why This Is Not Intuitionism
 
 No intuition is granted authority within this methodology.
@@ -121,25 +184,6 @@ It tracks which structure collapses first under full extension.
 
 ---
 
-## Consequence of the Method
-
-A methodology that:
-
-* forbids exception clauses,
-* blocks graded identity,
-* rejects diagnostics,
-* and enforces ethical consequence
-
-will produce theories that are strict and non-negotiable.
-
-This is not a stylistic outcome.
-It is a structural one.
-
-The method does not aim to make theories comfortable.
-It aims to make them **non-escapable** if true.
-
----
-
 ## What This Document Does Not License
 
 This document does not license:
@@ -147,11 +191,12 @@ This document does not license:
 * arguing from vibes
 * dismissing objections by affective response
 * substituting felt coherence for analysis
-* claiming authority based on methodological posture
+* claiming authority based on method
+* treating RTD or AI use as normative or recommended
 
-The posture described here is neither required nor recommended.
+The posture described here is neither required nor endorsed.
 
-It is reported because it shaped the framework’s constraints, not because it confers legitimacy.
+It is reported solely because it shaped how constraints were applied during development.
 
 ---
 
