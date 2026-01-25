@@ -1,4 +1,4 @@
-# **IER Manifest (v10.8.5)**
+# **IER Manifest (v10.9.0)**
 
 ## **Corpus Inventory and Flat Ordering**
 
@@ -7,7 +7,7 @@
 ## **Status and Function**
 
 This document enumerates the **complete corpus** of the
-**Informational Experiential Realism (IER)** project as of **version 10.8.5**.
+**Informational Experiential Realism (IER)** project as of **version 10.9.0**.
 
 It defines:
 
@@ -149,7 +149,7 @@ Characteristics:
 56. **[T2] `IER-architecture.md`** — Constraint architecture of mind
 57. **[T2] `IER-aphantasia.md`** — Architectural diversity within intact UEFs
 58. **[T2] `IER-phantasia.md`** — Imagistic cognition as one stable architecture
-59. **[T2] `IER-spicy-combo.md`** — ADHD + anxiety as coupled constraint pattern
+59. **[T2] `IER-coupled-regimes.md`** — ADHD + anxiety as coupled constraint pattern
 
 ---
 
@@ -363,7 +363,7 @@ Any file not explicitly enumerated above is **non-corpus**, regardless of reposi
 
 ## **Closing Statement**
 
-This manifest defines **what counts as IER v10.8.5**.
+This manifest defines **what counts as IER v10.9.0**.
 
 * Authority is fixed exclusively by **`IER-canon.md`**
 * Inclusion implies governance

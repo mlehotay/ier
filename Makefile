@@ -10,6 +10,18 @@ IER_DIR     := IER
 SRC_DIR     := pub
 SCRIPTS_DIR := scripts
 
+# -----------------------------
+# Dependency metadata + ordering verification
+# -----------------------------
+MANIFEST      := $(IER_DIR)/IER-manifest.md
+BUNDLES_YML   := assets/bundles.yml
+
+DEPS_SCRIPT   := $(SCRIPTS_DIR)/generate_deps.py
+VERIFY_ORDER  := $(SCRIPTS_DIR)/verify_order.py
+
+DEPS_YML      := $(BUILD_DIR)/dependencies.yml
+PREREQS_MD    := $(BUILD_DIR)/IER-prerequisites.md
+
 # TeX includes (publication-layer)
 TEX_DIR        := $(SRC_DIR)/tex
 IER_BOOK_TEX   := $(TEX_DIR)/ier-book.tex
@@ -102,6 +114,7 @@ PANDOC_OPTS := $(PANDOC_PAPER_OPTS)
         corpus corpuslist verify-corpus verify-corpus-structure verify-corpus-authoring check-corpus \
         tldr tldrlist verify-tldr verify-tldr-structure verify-tldr-authoring check-tldr \
         foundations foundationslist verify-foundations verify-foundations-structure verify-foundations-authoring check-foundations \
+		deps prereqs \
         clean spotless rebuild
 
 # Default target
@@ -113,6 +126,24 @@ pubs: paper corpus tldr foundations
 dirs:
 	@mkdir -p $(BUILD_DIR)
 	@mkdir -p $(TEX_DIR)
+
+deps: $(DEPS_YML)
+prereqs: $(PREREQS_MD)
+
+$(DEPS_YML): $(MANIFEST) $(BUNDLES_YML) $(DEPS_SCRIPT) | dirs
+	@python3 $(DEPS_SCRIPT) \
+	  --manifest "$(MANIFEST)" \
+	  --bundles  "$(BUNDLES_YML)" \
+	  --out-deps "$@"
+	@echo "Wrote deps: $@"
+
+$(PREREQS_MD): $(MANIFEST) $(BUNDLES_YML) $(DEPS_SCRIPT) | dirs
+	@python3 $(DEPS_SCRIPT) \
+	  --manifest "$(MANIFEST)" \
+	  --bundles  "$(BUNDLES_YML)" \
+	  --out-prereqs "$@"
+	@echo "Wrote prerequisites: $@"
+
 
 # -----------------------------
 # Paper (standalone authored composition)
@@ -177,7 +208,11 @@ verify-corpus-authoring: $(CORPUS_BOOKLIST)
 # NOTE: Re-enable `verify-corpus` before any public or tagged release.
 # $(CORPUS_PDF): verify-corpus | dirs
 # $(CORPUS_PDF): verify-corpus-structure | dirs
-$(CORPUS_PDF): $(CORPUS_BOOKLIST) $(IER_BOOK_TEX) | dirs
+$(CORPUS_PDF): $(CORPUS_BOOKLIST) $(IER_BOOK_TEX) $(DEPS_YML) | dirs
+	@python3 $(VERIFY_ORDER) \
+	  --deps "$(DEPS_YML)" \
+	  --selection "$(CORPUS_SELECTION)" \
+	  --booklist "$(CORPUS_BOOKLIST)"
 	@# Guard: do NOT let pandoc block by reading stdin
 	@test -s "$(CORPUS_BOOKLIST)" || (echo "ERROR: empty book list: $(CORPUS_BOOKLIST)" >&2; exit 1)
 	$(PANDOC) $$(cat "$(CORPUS_BOOKLIST)") \
@@ -244,7 +279,11 @@ verify-tldr-authoring: $(TLDR_BOOKLIST)
 	  --scaffold-dir "$(TLDR_SCAFFOLD_DIR)" \
 	  --skip-structure
 
-$(TLDR_PDF): $(TLDR_BOOKLIST) $(IER_BOOK_TEX) | dirs
+$(TLDR_PDF): $(TLDR_BOOKLIST) $(IER_BOOK_TEX) $(DEPS_YML) | dirs
+	@python3 $(VERIFY_ORDER) \
+	  --deps "$(DEPS_YML)" \
+	  --selection "$(TLDR_SELECTION)" \
+	  --booklist "$(TLDR_BOOKLIST)"
 	@test -s "$(TLDR_BOOKLIST)" || (echo "ERROR: empty book list: $(TLDR_BOOKLIST)" >&2; exit 1)
 	$(PANDOC) $$(cat "$(TLDR_BOOKLIST)") \
 	  --toc --toc-depth=1 \
@@ -310,7 +349,11 @@ verify-foundations-authoring: $(FOUNDATIONS_BOOKLIST)
 	  --scaffold-dir "$(FOUNDATIONS_SCAFFOLD_DIR)" \
 	  --skip-structure
 
-$(FOUNDATIONS_PDF): $(FOUNDATIONS_BOOKLIST) $(IER_BOOK_TEX) | dirs
+$(FOUNDATIONS_PDF): $(FOUNDATIONS_BOOKLIST) $(IER_BOOK_TEX) $(DEPS_YML) | dirs
+	@python3 $(VERIFY_ORDER) \
+	  --deps "$(DEPS_YML)" \
+	  --selection "$(FOUNDATIONS_SELECTION)" \
+	  --booklist "$(FOUNDATIONS_BOOKLIST)"
 	@test -s "$(FOUNDATIONS_BOOKLIST)" || (echo "ERROR: empty book list: $(FOUNDATIONS_BOOKLIST)" >&2; exit 1)
 	$(PANDOC) $$(cat "$(FOUNDATIONS_BOOKLIST)") \
 	  --toc --toc-depth=1 \
