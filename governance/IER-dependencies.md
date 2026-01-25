@@ -1,6 +1,6 @@
 # **IER-dependencies.md**
 
-## **Dependency Metadata, Prerequisite Generation, and Flat Ordering Procedure**
+## **Dependency Metadata Semantics and Validation Expectations**
 
 ### **NON-CANONICAL · NON-CORPUS · NOT READER-FACING**
 
@@ -10,39 +10,33 @@
 
 This document is **NOT CANONICAL** and **NOT PART OF THE IER CORPUS**.
 
-Under the rule defined in `IER-manifest.md`:
+It introduces **no ontological, criterial, epistemic, ethical, diagnostic, or interpretive commitments**.
 
-> **Non-Corpus Material** — Any file not explicitly enumerated in the manifest is **non-corpus**, regardless of repository location or filename.
+It carries **no interpretive or adjudicative authority** and may not be cited to interpret or extend IER.
 
-Accordingly:
+If any statement here conflicts with a corpus document (especially `IER-canon.md` or `IER-manifest.md`),
+the corpus document takes precedence and this document is void at the point of conflict.
 
-* This document introduces **no ontological, criterial, epistemic, ethical, or diagnostic commitments**
-* It carries **no interpretive or adjudicative authority**
-* It may **not** be cited to interpret, defend, evaluate, or extend Informational Experiential Realism (IER)
-* If any statement here conflicts with a corpus document—especially  
-  `IER-canon.md`, `IER-specification.md`, `IER-theory.md`, `IER-dynamics.md`, `IER-ethics.md`, or `IER-topology.md`—  
-  **the corpus document takes precedence and this document is void at the point of conflict**
-
-This document exists **solely for internal author coordination**, dependency hygiene, and build-layer behavior.
+This document exists solely to define **how dependency metadata is meant to be declared and understood**
+for internal coordination and build hygiene.
 
 ---
 
 ## **0. Purpose**
 
-IER is a large, evolving corpus whose internal coherence depends on **explicitly declared dependencies**.
+IER is a large, evolving corpus whose internal coherence benefits from **explicitly declared dependencies**.
 
-This document defines the **procedure** for:
+This document defines:
 
-1. recording dependency metadata in a single authoritative location
-2. classifying dependencies by type
-3. validating the dependency graph mechanically
-4. deriving secondary artifacts, including:
-   * a prerequisites index (`IER-prerequisites.md`)
-   * one or more flat orderings (repository or book)
-   * chapter headers and footers for publication builds
+1. the **meaning** of dependency metadata fields
+2. the **minimal stable schema** for declaring dependency metadata in chapters
+3. **validation expectations** (what “well-formed dependency metadata” means)
+4. the status of **derived artifacts** produced from the metadata
 
-This document does **not** determine which dependencies are correct.  
-It defines **how dependencies are declared, checked, and projected**.
+This document does **not** define the build system, and it does **not** define generator interfaces.
+
+- Build assembly/verification rules live in `IER-build.md`.
+- Script interfaces live in `scripts/README.md`.
 
 ---
 
@@ -54,29 +48,30 @@ Each corpus chapter may contain **YAML front matter** used **exclusively** for d
 
 This YAML:
 
-* is **author-facing**
-* is **non-reader-facing**
-* is the **single authoritative source** of dependency information
-* must be **stripped from all publication outputs** (books, PDFs, EPUB, public HTML)
+- is **author-facing**
+- is **non-reader-facing**
+- is the **single authoritative source** of dependency information
+- must be **stripped from all publication outputs** (books, PDFs, EPUB, public HTML)
 
-Any other dependency artifact (including `IER-prerequisites.md`) is a **derived view** and is **non-authoritative**.
+Any other dependency artifact (including generated YAML summaries or prerequisite tables)
+is a **derived view** and is **non-authoritative**.
 
-### **1.2 Relationship to Canon Rule A3**
+### **1.2 Non-Interpretive Constraint**
 
-The use of YAML here is permitted under Canon Rule A3 as clarified:
+Dependency metadata:
 
-* the YAML contains **only dependency metadata**
-* it introduces **no theoretical, ethical, epistemic, or diagnostic authority**
-* it is never visible to readers
-* it is removed during all publication builds
+- does **not** establish correctness of any claim
+- does **not** introduce new theory
+- does **not** alter corpus membership
+- does **not** override manifest ordering or build policy
 
-YAML is treated as an **authorial coordination mechanism**, not publication metadata.
+It is an internal coordination mechanism and a mechanical validation surface only.
 
 ---
 
 ## **2. Minimal YAML Schema (Stable Core)**
 
-All dependency metadata lives under a single top-level key:
+All dependency metadata lives under a single top-level key: `ier:`.
 
 ```yaml
 ---
@@ -88,40 +83,67 @@ ier:
     structural: []
     guardrails: []
   provides: []
-  gates: []
+  gates:
+    opens: []
+    requires: []
   status: canonical
 ---
 ````
 
-### **2.1 Field Semantics (Non-Interpretive)**
+### **2.1 Field Meanings (Non-Interpretive)**
 
 * `tier`
-  Repository tier label (T1–T4). Organizational only. Does not determine book placement.
+
+  * Repository tier label (e.g., `T1`–`T4`). Organizational only.
+  * Does not determine book placement by itself.
 
 * `role`
-  Dependency-management role, used for validation expectations only.
-  Typical values:
-  `FOUNDATION`, `BRIDGE`, `ELABORATION`, `CONSTRAINT`, `FORMALISM`,
-  `CASE`, `ORIENTATION`, `COMPARISON`.
+
+  * Dependency-management role used for expectations and hygiene.
+  * Typical values (illustrative):
+    `FOUNDATION`, `BRIDGE`, `ELABORATION`, `CONSTRAINT`, `FORMALISM`,
+    `CASE`, `ORIENTATION`, `COMPARISON`.
 
 * `requires.hard`
-  Semantic prerequisites. If removed, the chapter’s claims become ill-defined.
+
+  * **Semantic prerequisites.**
+  * If removed, the chapter’s claims become ill-defined.
+  * Hard prerequisites define the irreducible partial order: if A hard-requires B, B must precede A
+    in any valid flat ordering.
 
 * `requires.structural`
-  Machinery prerequisites required for precision (prevents metaphor and implicit imports).
+
+  * **Machinery prerequisites** required for precision.
+  * Prevents “teleporting concepts,” implicit imports, and metaphor creep.
+  * Structural prerequisites may influence adjacency and grouping but are not the minimal order constraint.
 
 * `requires.guardrails`
-  Binding misuse and interpretation constraints (e.g., diagnostics, correlates, scope limits).
-  These are **not** “read-first” requirements.
+
+  * **Interpretive/usage constraints** that prevent misuse.
+  * These are not “read-first narrative inputs.”
+  * They are binding constraints on scope, inference, certification, or diagnostic misuse.
 
 * `provides`
-  New vocabulary, structural objects, or conceptual moves introduced by this chapter.
 
-* `gates`
-  Conceptual domains this chapter introduces or is permitted to use (see §5).
+  * New vocabulary, structural objects, constraints, or conceptual moves introduced by the chapter.
+  * “Provides” is descriptive; it does not automatically create reverse links or inferred dependency edges.
+
+* `gates.opens`
+
+  * Named conceptual domains this chapter explicitly opens for legitimate downstream use.
+
+* `gates.requires`
+
+  * Named domains this chapter requires to be opened upstream.
+  * **Must be explicitly declared**. It is not inferable from `requires.*`.
 
 * `status`
-  Corpus status marker (`canonical`, `in-corpus-non-canonical`, `deprecated`, `draft`).
+
+  * Corpus status marker (illustrative): `canonical`, `in-corpus-non-canonical`, `deprecated`, `draft`.
+
+### **2.2 No Implicit Defaults Rule**
+
+All lists must be explicit (`[]` if empty). No silent defaults should be inferred downstream.
 
 ---
 
@@ -131,55 +153,49 @@ ier:
 
 Hard prerequisites are **semantic necessities**.
 
-If chapter A hard-depends on chapter B, then B must precede A in any valid flat ordering.
-
-Hard prerequisites define the **irreducible partial order** of the corpus.
-
----
+* If A hard-depends on B, B must precede A in any valid flat ordering.
+* Hard prerequisites define the core partial order of the corpus.
 
 ### **3.2 Structural Prerequisites**
 
-Structural prerequisites provide machinery or vocabulary required to keep claims precise.
+Structural prerequisites provide machinery required to keep claims precise.
 
 They exist to prevent:
 
 * metaphor creep
 * silent use of later-developed structures
-* “teleporting concepts”
+* “teleporting concepts” (using tools that have not yet been introduced)
 
-Structural prerequisites may influence adjacency in flat orderings but do not define minimal order.
-
----
+Structural prerequisites may influence recommended reading flow, but do not define minimal order.
 
 ### **3.3 Guardrail Prerequisites**
 
 Guardrail prerequisites bind interpretation and prohibit misuse.
 
-They apply especially to chapters touching:
+They apply especially to chapters involving:
 
 * diagnostics
 * correlates
 * epistemic authority
-* inference or certification limits
+* certification or inference limits
+* scope boundaries that must not be crossed
 
-Guardrails are **interpretive constraints**, not narrative inputs.
+Guardrails are constraints, not narrative dependencies.
 
 ---
 
 ## **4. Bundles (Optional Compression Mechanism)**
 
-Bundles are named sets of dependency identifiers used as shorthand.
+Bundles are named sets of dependency identifiers used as shorthand to reduce repetition.
 
-Examples (illustrative only):
+* Bundles are expanded during dependency processing.
+* Bundles carry no independent authority.
+* Bundles are a convenience layer only.
 
-* `FND` — core identity foundations
-* `REG` — regime and participation machinery
-* `SLK` — slack and saturation machinery
-* `HIS` — sedimentation and history machinery
-* `TOP` — topology and admissible futures
-* `GRD` — misuse-blocking constraints
+Bundle definition sources and expansion behavior are implementation concerns
+(see `scripts/README.md` and the generator script), but the semantic rule here is:
 
-Bundles are expanded during generation and carry no independent authority.
+> A bundle token is equivalent to enumerating its members in the same dependency category.
 
 ---
 
@@ -191,152 +207,116 @@ A gate enforces the rule:
 
 > A chapter may not use domain X unless it depends (hard or structural) on a chapter that opens gate X.
 
-Typical gated domains include (illustrative):
+Key points:
 
-* TOPOLOGY
-* HISTORY
-* TRAVERSAL / AGENCY-II
-* DIAGNOSTIC-LIMITS
-
-Gate enforcement is mechanical, not interpretive.
+* Gates are mechanical discipline, not interpretation.
+* `gates.requires` must be explicit; it is not inferred from dependencies.
+* Gate checking is a hygiene mechanism: it prevents premature domain use.
 
 ---
 
-## **6. Validation Rules**
+## **6. Validation Expectations**
 
-All dependency metadata must satisfy the following checks.
+This section defines what *well-formed* dependency metadata means.
+Specific tooling may enforce a subset, but these are the intended checks.
 
-### **6.1 No Hard Cycles**
+### **6.1 Identifier Validity**
+
+All identifiers appearing in:
+
+* `requires.hard`
+* `requires.structural`
+* `requires.guardrails`
+
+must resolve to:
+
+* a real chapter identifier (e.g., `IER-…` stems), or
+* a defined bundle token (if bundles are enabled)
+
+### **6.2 No Hard Cycles**
 
 No chapter may directly or indirectly hard-depend on itself.
 
----
+Hard cycles are always invalid.
 
-### **6.2 Bridge Exposure Rule**
+### **6.3 Manifest Scope Consistency**
 
-Any chapter with `role: BRIDGE` must:
+Dependency checking is performed over a declared scope (typically manifest-enumerated chapters).
 
-* declare at least two structural prerequisites
-* declare a non-empty `provides` list (unless explicitly a pure index)
-* declare at least one gate or translation role
+Within the checked scope:
 
----
+* references must resolve
+* required files must exist on disk (for build hygiene)
 
-### **6.3 Guardrail Propagation**
+### **6.4 Bridge Hygiene (Role-Dependent Expectations)**
 
-Any chapter that discusses diagnostics, correlates, epistemic limits, or certification must include the relevant guardrail prerequisites.
+If `role: BRIDGE`, the chapter is expected to:
 
----
+* declare enough structural prerequisites to make the bridge real
+* declare non-empty `provides` (unless explicitly a pure index)
+* open or translate at least one conceptual domain when appropriate
 
-### **6.4 Identifier Validity**
+This rule is about preventing “mystery bridges” (bridges that do not declare what they connect).
 
-All identifiers in `requires.*` must resolve to:
+### **6.5 Guardrail Presence for High-Risk Domains**
 
-* an existing chapter stem (`IER-…`), or
-* a defined bundle token
+Chapters that discuss diagnostics, correlates, certification, epistemic limits, or inference boundaries
+are expected to include relevant guardrail prerequisites.
 
----
+This is a discipline rule: it prevents authors from accidentally publishing “power without constraints.”
 
-## **7. Generating `IER-prerequisites.md`**
+### **6.6 No Inference Rule (Downstream)**
 
-`IER-prerequisites.md` is generated by parsing YAML metadata across chapters.
+Validation and projection tools must not:
 
-It is:
-
-* non-authoritative
-* regenerated automatically
-* intended for auditing, navigation, and review
-
-Conflicts are resolved in favor of chapter YAML.
-
----
-
-## **8. Deriving Flat Orderings**
-
-### **8.1 Flat Ordering as Projection**
-
-A flat ordering is derived by:
-
-1. expanding bundles
-2. computing a topological sort over `requires.hard`
-3. applying adjacency heuristics using `requires.structural`
-4. applying presentation rules (e.g., meta material last)
-
-Multiple valid flat orderings may exist.
+* infer missing dependencies
+* collapse categories (hard/structural/guardrails)
+* rewrite chapter YAML
+* “fix” metadata silently
+* generate interpretive prose
 
 ---
 
-### **8.2 Repository Tiers vs Book Parts**
+## **7. Derived Artifacts**
 
-Repository tiers (T1–T4) are organizational and need not correspond to book parts.
+Tools may produce derived artifacts, such as:
 
-Book parts are **presentation projections**.
+* a consolidated dependency YAML file (e.g., `build/dependencies.yml`)
+* an audit-facing prerequisites report (e.g., `build/IER-prerequisites.md`)
+* ordering checks and reports
 
-#### **Policy Note — Diagnostics in Book Foundations**
+All such artifacts are:
 
-`IER-diagnostics.md` may appear in **Book Part I (Foundations)** even if it remains in a **T3 section** in the repository.
+* **derived**
+* **non-authoritative**
+* used for inspection, validation, and build hygiene only
 
-This reflects its role as a foundational interpretive constraint for readers, not a change in authority.
-
----
-
-## **9. Chapter Headers and Footers (Publication Builds)**
-
-### **9.1 Headers**
-
-Headers may be generated from YAML metadata and may include:
-
-* Tier
-* Role
-* Declared prerequisites
-* Applicable guardrails
-
-Headers are reader-facing projections and carry no independent authority.
+They must never be treated as a new source of truth.
 
 ---
 
-### **9.2 Footers**
+## **8. Relationship to Build System**
 
-Footers may be generated from:
+* `IER-build.md` defines mechanical assembly and authoritative verification of booklists.
+* Dependency tooling supports hygiene (generation + validation + order checking) but does not
+  define corpus membership or canonical ordering.
 
-* dependency graph adjacency
-* downstream dependents
-* editorial reading paths
+Script invocation details, CLI flags, and exact output formats are specified in:
 
-Footers are intentionally flexible and may include intermissions or transitions.
-
----
-
-## **10. Build Requirement: Strip YAML**
-
-All publication outputs must strip YAML front matter.
-
-This requirement applies to:
-
-* PDF
-* EPUB
-* HTML
-* any public derivative
-
-The build system (Make + Pandoc) must enforce this step.
+* `scripts/README.md`
 
 ---
 
-## **11. Change Policy**
+## **9. Non-Goals**
 
-This procedure may evolve.
+This document does not:
 
-Permitted changes:
+* determine which dependencies are “correct” in a philosophical or interpretive sense
+* establish reading order as pedagogy
+* create authority beyond chapter text + canon + manifest
+* define publication rendering, layout, or typography
+* define deployment or release policy
 
-* adding optional metadata fields
-* refining roles or gates
-* refining validation rules
-* adjusting projection policies
-
-Prohibited changes:
-
-* introducing theoretical claims here
-* using this document to resolve corpus disputes
-* treating derived artifacts as authoritative
+It defines only a disciplined, explicit, mechanically checkable dependency metadata layer.
 
 ---
