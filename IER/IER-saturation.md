@@ -226,7 +226,7 @@ All notation is inherited from `IER-math.md`.
 
 ### **7.3 Candidate Decompositions and Projections**
 
-Let $\Sigma$ be a set of components, introduced **only as a formal device**.
+Let $\Sigma$ be a set of components, introduced **only as a formal device for testing admissible decomposability**.
 
 Let
 $$
@@ -253,7 +253,7 @@ This construction tests **whether separability is structurally admissible**.
 
 A regime $R$ is **factorable across $P$** iff:
 $$
-(s,s') \in R \iff \bigwedge_{i=1}^{k} \left( (\pi_i(s),\pi_i(s')) \in R_i \right).
+(s,s') \in R \iff \forall i \in {1,\ldots,k},; (\pi_i(s),\pi_i(s')) \in R_i .
 $$
 
 When such a factorization exists, admissibility is **independently satisfiable** across blocks.
@@ -271,7 +271,7 @@ A regime admits slack if there exists a proper block $\Sigma_j$ such that admiss
 
 There exists $R_j' \neq R_j$ such that
 $$
-R' = { (s,s') \in T \mid (\pi_j(s),\pi_j(s')) \in R_j' \wedge \bigwedge_{i \neq j} (\pi_i(s),\pi_i(s')) \in R_i }
+R' = { (s,s') \in T \mid (\pi_j(s),\pi_j(s')) \in R_j' ;\text{and}; \forall i \neq j,; (\pi_i(s),\pi_i(s')) \in R_i }
 $$
 with $R' \subseteq T$.
 
@@ -288,7 +288,7 @@ A regime $R$ is **saturated (slack-exhausted)** iff:
 For every non-trivial partition $P$,
 
 * either $R$ is not factorable across $P$, or
-* any admissibility modification necessarily alters admissibility in a way that cannot be confined to a proper block.
+* any admissibility modification necessarily alters admissibility in a way that cannot be confined to a proper block
 
 Equivalently:
 

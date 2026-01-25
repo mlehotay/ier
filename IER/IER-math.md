@@ -2,7 +2,7 @@
 
 ## **Orders of Information, Graph Structure, and Regime Coherence in IER**
 
-**Version 10.8.3 — Mathematical Support Document**
+**Version 10.9.0 — Mathematical Support Document**
 
 ---
 
@@ -54,6 +54,8 @@ The pair $(S,T)$ induces a directed graph whose nodes are configurations and who
 
 No probabilities, representations, or observers are assumed.
 
+*Notation conventions and mathematical background are summarized in **Appendix A**.*
+
 ---
 
 ## **2. Orders of Information**
@@ -100,7 +102,7 @@ Constraint structure describes global restrictions on evolution. It does not, by
 
 At the coherence order, the question is whether a constraint regime has **system-level closure**.
 
-A regime is coherent when its admissible transitions cannot be decomposed into independently satisfiable parts over a non-trivial partition of the system.
+A regime is coherent when its admissible transitions cannot be decomposed into independently satisfiable parts over a non-trivial partition of the system components.
 
 Coherence specifies **what must evolve as one**.
 
@@ -291,5 +293,76 @@ This document formalizes the IER identity claim using:
 Experience, when present, corresponds to a single coherent regime characterized by global intrinsic constraint.
 
 Mathematics here clarifies structure. It does not explain experience, measure it, or provide epistemic access to it.
+
+---
+
+## **Appendix A — Mathematical Background**
+
+This appendix lists the **minimal mathematical background** required to read
+`IER-math.md` and `IER-saturation.md`.
+
+No additional mathematical machinery is used anywhere in IER.
+
+---
+
+### **A.1 Sets and Relations**
+
+IER models physical systems using sets and relations.
+
+* **Set (mathematics)**
+  [https://en.wikipedia.org/wiki/Set_(mathematics)](https://en.wikipedia.org/wiki/Set_%28mathematics%29)
+
+* **Binary relation**
+  [https://en.wikipedia.org/wiki/Binary_relation](https://en.wikipedia.org/wiki/Binary_relation)
+  *(used to represent physically admissible transitions and regime-restricted admissibility)*
+
+* **Partition of a set**
+  [https://en.wikipedia.org/wiki/Partition_of_a_set](https://en.wikipedia.org/wiki/Partition_of_a_set)
+  *(used to test whether admissibility can be decomposed across system components)*
+
+---
+
+### **A.2 Logic**
+
+IER uses only elementary first-order logical structure.
+
+* **Universal quantification ((\forall))**
+  [https://en.wikipedia.org/wiki/Universal_quantification](https://en.wikipedia.org/wiki/Universal_quantification)
+  *(used to express simultaneous admissibility across all blocks of a partition)*
+
+---
+
+### **A.3 Graph Structure**
+
+Relations are interpreted structurally as directed graphs.
+
+* **Directed graph**
+  [https://en.wikipedia.org/wiki/Directed_graph](https://en.wikipedia.org/wiki/Directed_graph)
+  *(states as nodes; admissible transitions as directed edges)*
+
+* **Reachability (graph theory)**
+  [https://en.wikipedia.org/wiki/Reachability](https://en.wikipedia.org/wiki/Reachability)
+  *(used to characterize admissible futures and regime-restricted evolution)*
+
+* **Induced subgraph**
+  [https://en.wikipedia.org/wiki/Induced_subgraph](https://en.wikipedia.org/wiki/Induced_subgraph)
+  *(used to represent regime restriction and coherence windows without adding structure)*
+
+---
+
+### **A.4 Factorability**
+
+The central structural question in IER concerns whether admissibility relations can be decomposed.
+
+* **Factorization**
+  [https://en.wikipedia.org/wiki/Factorization](https://en.wikipedia.org/wiki/Factorization)
+  *(used in the sense of **relation factorability across a partition**, not algebraic or probabilistic factorization)*
+
+---
+
+### **Appendix Orientation Signal**
+
+> *IER uses only the minimal mathematics required to express structural admissibility and its failure.
+> No probabilistic, computational, representational, or metric concepts are assumed or implied.*
 
 ---
