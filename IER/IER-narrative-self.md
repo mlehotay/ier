@@ -110,10 +110,13 @@ Narrative:
 * reduces switching cost between temporal anchors
 * compresses complex history into viable structure
 
-Narrative does **not** describe experience from the outside.
-It **organizes experience from the inside**.
+**Structurally, narrative does not operate by spanning temporal regions or accessing retained past content.**
+It operates **locally at the history–future boundary**, where sedimented deformation constrains which future trajectories remain intelligible from the present.
 
-This is why narrative feels central rather than ornamental. It is not a story layered on top of life; it is a way intrinsic constraint remains bearable across time.
+Narrative does **not** describe experience from the outside.
+It **organizes experience from the inside**, as a frontier-local mode of stabilizing intrinsic constraint as irreversible resolution proceeds.
+
+This is why narrative feels central rather than ornamental. It is not a story layered on top of life; it is a way intrinsic constraint remains bearable **at the moving boundary where past is already fixed and future remains admissible**.
 
 ---
 
