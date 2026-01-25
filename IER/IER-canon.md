@@ -306,11 +306,22 @@ Heading levels must advance or retreat by only one level at a time.
 
 ---
 
-## **A3 — No YAML Front Matter in Corpus Chapters**
+## **A3 — Corpus Chapters Must Be Free of Publication and Edition Metadata**
 
-YAML front matter (`--- ... ---`) is disallowed in canonical corpus chapters.
+Canonical corpus chapters must not include publication-layer or edition-level metadata
+intended for readers, publishers, or external systems.
 
-Edition-level metadata belongs in SCAFFOLD or publication-layer files only.
+**Authorial Dependency Metadata Exception**
+
+Machine-readable metadata may appear in corpus chapters only for internal dependency
+management, provided that it:
+
+* is non-reader-facing
+* is stripped during all publication builds
+* introduces no ontological, criterial, ethical, epistemic, or diagnostic commitments
+* does not alter the interpretation of the chapter’s theoretical claims
+
+Any other use of embedded metadata is disallowed.
 
 ---
 
