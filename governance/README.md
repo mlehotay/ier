@@ -172,6 +172,25 @@ It makes no claims about consciousness, agency, or moral standing.
 
 ---
 
+### `IER-authoring.md`
+
+**Corpus Authoring and Dependency Declaration Discipline** *(in-corpus)*
+
+* how canonical chapters are authored as standalone theoretical units
+* mandatory YAML front-matter requirements for corpus chapters
+* semantics of dependency metadata (`hard`, `structural`, `guardrails`)
+* use of `provides`, gates, and bundles for dependency hygiene
+* expectations for resolving dependency and ordering verification failures
+
+This document governs **how authors write and annotate corpus material** so that
+theory, dependency structure, and build verification remain aligned.
+
+It introduces **no theory**, defines **no authority**, and carries **no reader-facing obligations**.
+Its role is to enforce explicitness, prevent silent dependency drift, and ensure that
+mechanical validation reflects real theoretical commitments.
+
+---
+
 ### Other Files in This Directory
 
 Files marked
@@ -222,6 +241,7 @@ You are operating in the **wrong layer**.
 * Planning or sequencing releases → **IER-deployment.md**
 * Writing or revising interface artifacts → **IER-readers.md**
 * Concerned about authorship or disclosure → **IER-legal.md**
+* Writing or revising canonical corpus chapters → **IER-authoring.md**
 * Coordinating dependencies or tooling → **non-corpus internal procedures**
 
 If you are asking *“what does IER claim?”*

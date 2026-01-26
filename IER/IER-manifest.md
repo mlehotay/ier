@@ -20,7 +20,7 @@ It does **not** define authority, governance rules, interpretive constraints, or
 > Definitions of *corpus*, *canon*, *canonical*, *non-canonical*, and *non-corpus* are given exclusively in **`IER-canon.md`**.
 > This manifest must be read as **subordinate to the canon**.
 
-> **Mechanical note:** Only backticked IER-*.md entries in list items are treated as corpus inventory by tooling.
+> **Mechanical note:** Only backticked **IER-*.md** entries in list items are treated as corpus inventory by tooling.
 
 ---
 
@@ -276,7 +276,7 @@ Authority relationships are governed **exclusively** by `IER-canon.md`.
 
 ---
 
-## **NAVIGATION AND GOVERNANCE**
+## **Navigation and Governance**
 
 ### **Repository Orientation**
 
@@ -297,14 +297,14 @@ Authority relationships are governed **exclusively** by `IER-canon.md`.
 - governance/IER-expectations.md
 - governance/IER-interface.md
 
-## **NON-CANONICAL PUBLICATION MATERIAL**
+## **Non-Canonical Publication Material**
 
 - pub/IER-paper-spec.md
 - pub/IER-corpus-book.md
 - pub/IER-foundations-book.md
 - pub/IER-tldr-book.md
 
-## **DERIVED READER-FACING PUBLICATIONS (NON-CANONICAL)**
+## **Derived Reader-Facing Publications (Non-Canonical)**
 
 The files are **externally consumable works** derived from the IER corpus.
 They are **governed by canon**, but **do not contribute to canonical authority**.
