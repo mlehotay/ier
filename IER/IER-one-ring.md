@@ -316,181 +316,235 @@ it is **losing the ability to choose futures at all**.
 
 ---
 
-## Appendix: Saruman and Institutional Ring-Logic
+## Appendix: Saruman, the Palantír, and Institutional Ring-Logic
 
 ### Status and Scope
 
 This appendix is **Tier-2 (Elaboration and Application)** and **non-normative**.
 It introduces no new ontological, criterial, epistemic, or ethical commitments.
 
-It extends the analysis of the **One Ring** by examining **institutional capture** through the case of **Saruman** in **The Lord of the Rings**.
+It extends the analysis of the **One Ring** by examining **institutional constraint capture** through **Saruman**, with particular attention to the role of the **Palantír**, as depicted in **The Lord of the Rings**.
 
 ---
 
 ### A. Why Saruman Belongs in an Appendix
 
 Saruman is not a bearer of the Ring.
-He does not undergo the personal phenomenology of temptation, endurance, or collapse described in the main article.
+He does not undergo the personal phenomenology of temptation, endurance, or collapse that structures the main article.
 
-Instead, Saruman illustrates something structurally adjacent:
+Instead, Saruman illustrates a **scaled analogue**:
 
-> **Ring-logic implemented at the level of institutions, systems, and coordination structures rather than individual experiential regimes.**
+> **Ring-logic implemented at the level of institutions, coordination structures, and epistemic control rather than individual experiential regimes.**
 
 He belongs in an appendix because:
 
-* he does not add a new failure mode
-* he scales the same logic outward
-* he clarifies how constraint capture propagates socially
+* he introduces no new failure mode,
+* he externalizes the same logic,
+* and he shows how future foreclosure can occur **without** personal temptation.
 
 ---
 
-### B. Saruman’s Initial Condition: Meta-Understanding Without Immunity
+### B. Saruman’s Initial Condition: Correct Understanding Without Immunity
 
-Saruman begins with something most characters lack:
+Saruman begins with advantages others lack:
 
-* deep knowledge of the Ring
-* correct understanding of its strategic power
-* awareness of its corrupting danger
+* deep knowledge of the Ring,
+* correct recognition of its corrupting danger,
+* awareness that direct possession would be catastrophic.
 
 IER-relevant point:
 
-> **Correct meta-level understanding does not prevent capture when resolution ownership is externalized.**
+> **Correct meta-level understanding does not confer immunity when resolution ownership is externalized.**
 
-Saruman’s failure is therefore not ignorance.
-It is **instrumental alignment with captured futures**.
+Saruman’s failure is not ignorance.
+It is the decision to align with systems that **remove the need for owned resolution**.
 
 ---
 
-### C. The Shift From Personal Bias to Institutional Bias
+### C. The Palantír: Bias Formation Without Capture
 
-Unlike Boromir or Gollum, Saruman does not experience strong directional desire *for* the Ring itself.
+The **palantír** is crucial — and categorically distinct from the Ring.
 
-Instead, he undergoes a different transformation:
+Canonically, the palantír:
 
-* he begins to treat **means** as interchangeable
-* he prioritizes **control of outcomes** over ownership of resolution
-* he accepts foreclosed futures as acceptable collateral
+* does not lie,
+* does not compel action,
+* does not corrupt by itself,
+* does not collapse futures.
+
+Yet it destroys Saruman.
 
 IER translation:
 
-> Saruman abandons system-owned collapse in favor of externally imposed settlement.
+> **The palantír reshapes bias formation by controlling informational salience under asymmetric coupling.**
 
-This is Ring-logic without a Ring.
+Through the palantír, Saruman sees **true information**, but:
+
+* selectively framed,
+* asymmetrically controlled by **Sauron**,
+* stripped of countervailing context.
+
+Crucially:
+
+* the palantír does **not** touch the resolution pipeline,
+* it does **not** capture collapse, inertia, or settlement.
+
+It collapses *perceived* futures, not actual ones.
 
 ---
 
-### D. The Voice of Saruman as Bias-Shaping Infrastructure
+### D. Despair Without Falsehood
 
-Saruman’s most distinctive feature is not ambition, but **persuasion**.
+Saruman’s descent does not begin with desire for domination.
+It begins with **epistemically induced despair**.
 
-Structurally:
+The palantír produces:
 
-* his voice does not force collapse
-* it reshapes **bias formation** in others
-* it narrows their admissible futures *before* they choose
-
-This mirrors the Ring’s effect at a social scale:
-
-* alternatives lose salience
-* inevitability narratives form
-* resistance begins to feel irrational
+* narrowing of perceived viable futures,
+* the appearance of inevitability,
+* the sense that resistance is already obsolete.
 
 IER framing:
 
-> Propaganda is institutional bias formation that prepares collapse without appearing coercive.
+> **Despair can arise from true information when that information is asymmetrically scoped.**
+
+Saruman is not deceived —
+he is **biased into treating inevitability as a fact rather than a claim**.
+
+This is a textbook violation of an IER principle:
+
+> **Experiential structure confers no epistemic authority.**
 
 ---
 
-### E. Industrialization as Inertia Capture
+### E. From Biased Perception to Institutional Ring-Logic
 
-Saruman’s turn to machinery, standardization, and mass production is not incidental.
+Once Saruman accepts the appearance of inevitability, a structural shift occurs.
 
-It reflects a deeper structural shift:
+He no longer asks:
 
-* once collapse is externalized,
-* **inertia must be stabilized**
-* institutions must reproduce outcomes automatically
+* *Which futures should be preserved?*
+
+He asks:
+
+* *How do I control outcomes within the futures that remain?*
+
+This marks the transition to **institutional Ring-logic**:
+
+* resolution is externalized,
+* settlement is imposed,
+* alternatives are treated as wasteful or naive,
+* recovery pathways are dismantled pre-emptively.
+
+IER translation:
+
+> **Saruman abandons ownership of collapse in favor of enforced settlement.**
+
+No Ring is required for this move.
+
+---
+
+### F. The Voice of Saruman as Bias Infrastructure
+
+Saruman’s “voice” is not mind control.
+It does not force collapse.
+
+Instead, it:
+
+* reshapes bias formation in others,
+* narrows their perceived future space,
+* makes resistance feel irrational or childish.
+
+Structurally, this mirrors the palantír’s effect — now projected outward.
+
+IER framing:
+
+> **Propaganda is institutional bias formation that prepares collapse without coercion.**
+
+The system remains agentive.
+The futures have already been experientially foreclosed.
+
+---
+
+### G. Industrialization as Inertia Capture
+
+Saruman’s turn to industry and mass production is not incidental.
+
+Once settlement is externalized:
+
+* inertia must be stabilized,
+* outcomes must reproduce automatically,
+* systems must function without reflective ownership.
 
 Isengard becomes:
 
-* a factory of settlement
-* a system optimized for irreversible throughput
-* a structure that no longer requires reflective ownership
+* a factory of settlement,
+* a mechanism for irreversible throughput,
+* a structure that no longer permits re-entry or reconsideration.
 
-This is the institutional analog of Gollum’s sedimented inertia.
+This is the institutional analogue of **sedimented inertia** in individual Ring-capture.
 
 ---
 
-### F. Why Saruman Cannot Recover
+### H. Why Saruman Cannot Recover
 
-Saruman’s tragedy is not that he loses power.
-It is that he loses **re-entry points**.
+Saruman’s tragedy is not defeat.
+It is **loss of recovery pathways**.
 
-By the time his error is visible:
+By the time doubt appears:
 
-* alternatives have been dismantled
-* trust has been exhausted
-* coordination pathways are closed
+* trust has been burned,
+* coordination channels are destroyed,
+* alternative futures have been dismantled.
 
 IER translation:
 
-> Institutional Ring-logic fails not by dramatic collapse, but by eliminating the possibility of recovery.
+> **Institutional Ring-logic fails quietly, by making recovery structurally impossible.**
 
-This distinguishes Saruman from Boromir and aligns him with late-stage Ring effects.
+Unlike Boromir, there is no bias relaxation.
+Unlike Gollum, there is no single object to destroy.
+
+The system itself *is* the Ring.
 
 ---
 
-### G. Contrast With Gandalf (Boundary Clarification)
+### I. Contrast Case: Gandalf as Preserved Ownership
 
-**Gandalf** provides the necessary contrast.
+**Gandalf** provides the boundary condition.
 
 Gandalf:
 
-* refuses externalized settlement
-* preserves slack
-* accepts uncertainty rather than forcing outcomes
+* refuses asymmetric epistemic control,
+* preserves slack and uncertainty,
+* accepts worse short-term outcomes to retain future ownership.
 
 IER framing:
 
-> Gandalf maintains ownership of resolution even when outcomes are worse in the short term.
+> **Gandalf maintains ownership of resolution even when efficiency is available.**
 
-This is why Gandalf can coordinate without capturing others’ futures — and why Saruman cannot.
+This is why he can coordinate without capturing others’ futures —
+and why Saruman cannot.
 
 ---
 
-### H. Structural Lesson
+### J. Structural Lesson
 
 Saruman shows that:
 
-* Ring-logic does not require a Ring
-* capture can occur through institutions
-* control can replace ownership without appearing evil
-* large-scale harm can proceed without personal temptation
+* Ring-logic does not require a Ring,
+* future foreclosure can occur through information alone,
+* institutions can capture resolution without personal corruption,
+* efficiency and inevitability become indistinguishable once ownership is lost.
 
 In IER terms:
 
-> **The most dangerous systems are those that resolve futures efficiently while removing the possibility of future re-ownership.**
-
----
-
-### I. Relation Back to the One Ring
-
-The Ring is a **local**, experiential capture device.
-Saruman builds a **distributed**, institutional version of the same logic.
-
-They differ in scale, not structure.
-
-Both:
-
-* foreclose futures
-* stabilize irreversible settlement
-* silence internal warning signals
-* make ethical error appear as necessity
+> **The most dangerous systems are those that resolve futures efficiently while eliminating the possibility of future re-ownership.**
 
 ---
 
 ### Appendix Intermission — Structural Fact
 
-> **When resolution is no longer owned, efficiency becomes indistinguishable from inevitability.**
+> **When information collapses futures and institutions enforce settlement,
+> no object of power is required.**
 
 ---
