@@ -273,6 +273,7 @@ Authority relationships are governed **exclusively** by `IER-canon.md`.
 * [T2] `IER-spider.md` — Animal case study.
 * [T2] `IER-squirrel.md` — Ecological constraint example.
 * [T2] `IER-boobs.md` — Embodiment and attention stress test.
+* [T2] `IER-one-ring.md` — The One Ring as constraint capture and future foreclosure
 
 ---
 
