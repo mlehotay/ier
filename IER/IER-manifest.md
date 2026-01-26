@@ -241,6 +241,7 @@ Authority relationships are governed **exclusively** by `IER-canon.md`.
 * [T2] `IER-traditions.md` — Traditions as constraint management.
 * [T2] `IER-corporations.md` — Why corporations are not persons.
 * [T2] `IER-propaganda.md` — Large-scale reshaping of resolution space.
+* [T2] `IER-capture.md` — Totalizing dynamics without coercion or deception
 
 ---
 
