@@ -548,3 +548,224 @@ In IER terms:
 > no object of power is required.**
 
 ---
+
+## Appendix (Real-World Analogue): Media Systems and Institutional Constraint Capture
+
+### Status and Scope
+
+This appendix is **Tier-2 (Elaboration and Application)** and **non-normative**.
+It introduces no new ontological, criterial, epistemic, or ethical commitments.
+
+It provides a **non-fictional analogue** to the Saruman appendix by examining how **modern media and information systems** can induce institutional constraint capture without deception, coercion, or centralized malice.
+
+---
+
+### A. Why Media Systems Are the Right Analogue
+
+Modern societies do not possess:
+
+* objects that capture collapse directly (no Ring),
+* or artifacts that override agency.
+
+But they *do* possess systems that:
+
+* shape bias formation at scale,
+* control salience asymmetrically,
+* induce despair or inevitability narratives,
+* and prepare institutions to externalize settlement.
+
+The closest real-world analogue to the palantír is not surveillance alone —
+it is **mass media + continuous information exposure**.
+
+---
+
+### B. The “Palantír” Replacement: Continuous Broadcast Media
+
+Consider a generic, non-personified system:
+
+* 24/7 news channels
+* live dashboards
+* rolling crisis metrics
+* algorithmic feeds
+* constant alerts and projections
+
+Key properties:
+
+* information is largely *true*
+* no single lie is required
+* no coercion is applied
+* participation is nominally voluntary
+
+IER translation:
+
+> **Continuous media exposure reshapes bias formation by controlling salience, not by falsifying content.**
+
+Like the palantír, the system:
+
+* does not collapse futures directly,
+* does not command action,
+* does not replace agency.
+
+Yet it changes everything.
+
+---
+
+### C. Asymmetric Visibility and the Collapse of Perceived Futures
+
+Media systems exhibit **asymmetric visibility**:
+
+* crises are vivid and constant,
+* failures are salient,
+* successes are diffuse,
+* slow variables disappear,
+* long-horizon alternatives fade.
+
+This produces a familiar experiential effect:
+
+* some outcomes feel inevitable,
+* resistance feels naïve,
+* non-participation feels irresponsible.
+
+IER framing:
+
+> **True information, unevenly framed, can collapse perceived futures without ever touching the resolution pipeline.**
+
+No deception is required.
+Only repetition, selection, and framing.
+
+---
+
+### D. Despair Without Falsehood (Modern Form)
+
+Like Saruman, institutions exposed to this environment often respond *rationally*:
+
+* “We must act quickly.”
+* “There is no time for deliberation.”
+* “This is the only viable option.”
+* “Opting out is unrealistic.”
+
+This is not panic.
+It is **instrumental despair**.
+
+IER translation:
+
+> The system treats **biased perception of inevitability as evidence of necessity**.
+
+At this point, institutions begin to change *how* they resolve futures.
+
+---
+
+### E. From Bias to Institutional Ring-Logic
+
+Once inevitability is accepted, a shift occurs:
+
+* decision-making accelerates,
+* reversibility is deprioritized,
+* exceptions are eliminated,
+* policies harden into pipelines,
+* outcomes are locked in “for safety.”
+
+This is **institutional Ring-logic without a Ring**:
+
+* collapse is pre-structured,
+* inertia is automated,
+* settlement becomes enforced.
+
+No villain is needed.
+Everyone is “just responding to reality.”
+
+---
+
+### F. Automation, Standardization, and Inertia Capture
+
+As systems scale, they rely on:
+
+* automation,
+* metrics,
+* standard operating procedures,
+* compliance frameworks.
+
+These stabilize outcomes — but also:
+
+* eliminate local judgment,
+* suppress signal from deviation,
+* make rollback prohibitively costly.
+
+IER framing:
+
+> **Automation stabilizes inertia faster than humans can reassess bias.**
+
+This is the real-world equivalent of Isengard’s factories:
+
+* efficient,
+* reliable,
+* irreversible.
+
+---
+
+### G. Why Recovery Fails
+
+When doubt eventually appears:
+
+* alternative institutions no longer exist,
+* exit costs are too high,
+* trust has eroded,
+* slack has been eliminated.
+
+Like Saruman, the system cannot recover — not because no one wants to, but because **re-entry points are gone**.
+
+IER translation:
+
+> **Institutional capture fails quietly by removing the possibility of reconsideration.**
+
+---
+
+### H. Contrast Case: Preserved Ownership in Media-Light Systems
+
+Some organizations resist capture by:
+
+* limiting continuous exposure,
+* decoupling decisions from live feeds,
+* preserving deliberation latency,
+* maintaining reversible policies,
+* tolerating inefficiency.
+
+These systems often look:
+
+* slower,
+* less “responsive,”
+* less optimized.
+
+IER framing:
+
+> **Latency and slack preserve ownership of resolution.**
+
+This is the real-world analogue of Gandalf’s refusal to use the palantír.
+
+---
+
+### I. Structural Lesson (Non-Fictional)
+
+The danger is not:
+
+* misinformation,
+* propaganda,
+* lies,
+* or bad actors.
+
+It is:
+
+> **the conversion of visibility into inevitability,
+> and inevitability into enforced settlement.**
+
+Media systems do not need to deceive to totalize.
+They only need to **collapse perceived futures faster than institutions can re-own them**.
+
+---
+
+### Appendix Intermission — Structural Fact
+
+> **When information arrives faster than reconsideration,
+> institutions stop choosing and start executing.**
+
+---
