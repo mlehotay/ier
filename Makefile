@@ -18,6 +18,7 @@ BUNDLES_YML   := assets/bundles.yml
 
 DEPS_SCRIPT   := $(SCRIPTS_DIR)/generate_deps.py
 VERIFY_ORDER  := $(SCRIPTS_DIR)/verify_order.py
+LINT_MANIFEST := $(SCRIPTS_DIR)/lint_manifest.py
 
 DEPS_YML      := $(BUILD_DIR)/dependencies.yml
 PREREQS_MD    := $(BUILD_DIR)/IER-prerequisites.md
@@ -114,11 +115,11 @@ PANDOC_OPTS := $(PANDOC_PAPER_OPTS)
         corpus corpuslist verify-corpus verify-corpus-structure verify-corpus-authoring check-corpus \
         tldr tldrlist verify-tldr verify-tldr-structure verify-tldr-authoring check-tldr \
         foundations foundationslist verify-foundations verify-foundations-structure verify-foundations-authoring check-foundations \
-		deps prereqs \
+		deps prereqs lint-manifest \
         clean spotless rebuild
 
 # Default target
-all: paper
+all: pubs
 
 # Build all publication PDFs
 pubs: paper corpus tldr foundations
@@ -130,14 +131,18 @@ dirs:
 deps: $(DEPS_YML)
 prereqs: $(PREREQS_MD)
 
-$(DEPS_YML): $(MANIFEST) $(BUNDLES_YML) $(DEPS_SCRIPT) | dirs
+lint-manifest: $(MANIFEST) $(LINT_MANIFEST)
+	@echo "Linting manifest..."
+	@python3 $(LINT_MANIFEST) --manifest "$(MANIFEST)"
+
+$(DEPS_YML): lint-manifest $(MANIFEST) $(BUNDLES_YML) $(DEPS_SCRIPT) | dirs
 	@python3 $(DEPS_SCRIPT) \
 	  --manifest "$(MANIFEST)" \
 	  --bundles  "$(BUNDLES_YML)" \
 	  --out-deps "$@"
 	@echo "Wrote deps: $@"
 
-$(PREREQS_MD): $(MANIFEST) $(BUNDLES_YML) $(DEPS_SCRIPT) | dirs
+$(PREREQS_MD): lint-manifest $(MANIFEST) $(BUNDLES_YML) $(DEPS_SCRIPT) | dirs
 	@python3 $(DEPS_SCRIPT) \
 	  --manifest "$(MANIFEST)" \
 	  --bundles  "$(BUNDLES_YML)" \
@@ -405,7 +410,8 @@ clean:
 	  $(BUILD_DIR)/*-verify.actual.numbered.txt \
 	  $(BUILD_DIR)/_break_ch_*.md \
 	  $(BUILD_DIR)/_part_*.md \
-	  $(BUILD_DIR)/_section_*.md
+	  $(BUILD_DIR)/_section_*.md \
+	  $(DEPS_YML) $(PREREQS_MD)
 
 # Remove the entire build directory (fresh checkout cleanliness)
 spotless: clean
