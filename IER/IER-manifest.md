@@ -86,6 +86,7 @@ Authority relationships are governed **exclusively** by `IER-canon.md`.
 * [T2] `IER-crying.md` — Crying as a regime-preserving stabilization maneuver.
 * [T2] `IER-pleasure.md` — Pleasure as coherent, low-conflict constraint.
 * [T2] `IER-pain.md` — Pain as escalating intrinsic constraint.
+* [T2] `IER-desire.md` — Desire as biased constraint toward particular futures.
 * [T2] `IER-humour.md` — Humour as safe incoherence with clean resolution.
 * [T2] `IER-panic.md` — Panic and shutdown as regime-level responses.
 * [T2] `IER-spoons.md` — Constraint capacity, depletion, and exhaustion.
@@ -93,6 +94,7 @@ Authority relationships are governed **exclusively** by `IER-canon.md`.
 * [T2] `IER-pacing.md` — Background motor participation in cognition.
 * [T2] `IER-tickling.md` — Loss of voluntary control without loss of experience.
 * [T2] `IER-yawning.md` — Yawning as global constraint reset.
+* [T2] `IER-hiccups.md` — Involuntary respiratory disruption and partial suppression.
 * [T2] `IER-art.md` — Art and beauty as constraint-shaping structures.
 * [T2] `IER-music.md` — Music as temporal constraint shaping.
 
@@ -106,6 +108,8 @@ Authority relationships are governed **exclusively** by `IER-canon.md`.
 * [T2] `IER-sleep.md` — Sleep, anesthesia, and unconscious intervals.
 * [T2] `IER-dreaming.md` — Dreaming under a persistent UEF.
 * [T2] `IER-sleep-variants.md` — Non-standard sleep regimes.
+* [T2] `IER-sleep-actions.md` — Action without wakeful ownership in sleep-adjacent regimes.
+* [T2] `IER-parasomnias.md` — Parasomnias as boundary-stress cases for sleep, agency, and continuity.
 * [T2] `IER-dormancy.md` — Dormancy as an experiential null interval.
 * [T2] `IER-sleep-welding-capacity.md` — Sleep as restoring constraint-bearing capacity.
 
@@ -178,16 +182,19 @@ Authority relationships are governed **exclusively** by `IER-canon.md`.
 * [T2] `IER-choice.md` — Choice spaces and foreclosure.
 * [T2] `IER-traversal.md` — Choice as continuous traversal.
 * [T2] `IER-choice-topology.md` — Choice space and topology unified.
+* [T2] `IER-looping.md` — TBD
 * [T2] `IER-free-will.md` — Free will without indeterminism.
 * [T2] `IER-constraint.md` — Ethical constraint without closure.
 * [T2] `IER-harm.md` — Moral harm as structural damage.
 * [T2] `IER-gaslighting.md` — Gaslighting as imposed miscoordination.
+* [T2] `IER-suggestion.md` — Action-shaping without belief control.
 * [T2] `IER-masochism.md` — Chosen pain without harm.
 * [T2] `IER-morals.md` — Concrete moral cases.
 * [T2] `IER-guilt.md` — Guilt without fault.
 * [T2] `IER-dilemmas.md` — Misframing of classic dilemmas.
 * [T2] `IER-duty.md` — Duty and obligation.
 * [T2] `IER-responsibility.md` — Responsibility as authorship attribution.
+
 
 ---
 
@@ -217,6 +224,8 @@ Authority relationships are governed **exclusively** by `IER-canon.md`.
 * [T2] `IER-NDE.md` — Near-death experiences without metaphysics.
 * [T2] `IER-addiction.md` — Addiction as low-cost attractor.
 * [T2] `IER-doomsday.md` — Why consciousness is not a safety mechanism.
+* [T2] `IER-extremes.md` — Emergency performance, collapse margins, and overdrive regimes.
+
 
 ---
 
