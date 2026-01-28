@@ -11,7 +11,7 @@ This document defines the **repository-level governance and workflow** for manag
 
 * versioning discipline
 * git tagging and release mechanics
-* management of the public subtree
+* management of the repository export subtree
 * synchronization between private and public repositories
 * acceptance and integration of public contributions
 
@@ -44,7 +44,7 @@ The git repository is the **authoritative substrate** of Informational Experient
 
 All public artifacts — including but not limited to:
 
-* seed release materials
+* the Seed Release
 * corpus books
 * preprints and papers
 * interface or explanatory publications
@@ -76,7 +76,8 @@ All authoritative changes originate upstream in the private repository.
 The repository may contain multiple top-level directories serving distinct roles. Typical examples include:
 
 * `IER/` — authoritative working corpus (private)
-* `public/` — material designated for public release
+* `pub/` — publishing workspace
+* `pub/ier-repo/` — repository export surface
 * `governance/` — governance and workflow documents
 * `docs/` or similar — non-authoritative supporting material
 
@@ -84,43 +85,51 @@ Directory names are conventional; authority is determined by governance rules, n
 
 ---
 
-### **2.2 The `public/` Boundary**
+### **2.2 The `pub/ier-repo/` Boundary**
 
-The `public/` directory defines a **hard release boundary**.
+The directory:
 
-* Only files under `public/` may be synchronized to the public repository.
-* Files outside `public/` are treated as private by default.
-* Accidental inclusion of material under `public/` is considered a release-blocking error.
+```
+pub/ier-repo/
+```
 
-The `public/` boundary is the sole mechanism by which material becomes eligible for public release.
+defines a **hard repository export boundary**.
+
+Rules:
+
+* Only files under `pub/ier-repo/` may be synchronized to the public repository.
+* Files outside `pub/ier-repo/` are treated as private or internal by default.
+* Accidental inclusion of material under `pub/ier-repo/` is considered a release-blocking error.
+
+This directory is the **sole mechanism** by which material becomes eligible for public repository release.
 
 ---
 
-## **3. Public Subtree Synchronization**
+## **3. Public Repository Synchronization**
 
 ### **3.1 Subtree Model**
 
-The public repository is synchronized from the private repository using a **subtree workflow**.
+The public repository is synchronized from the private repository using a **subtree workflow** rooted at `pub/ier-repo/`.
 
 Key properties:
 
-* only the contents of `public/` are exported
+* only the contents of `pub/ier-repo/` are exported
 * private history and files are not disclosed
 * synchronization may occur in either direction
 
-The subtree model is chosen to preserve a single authoritative history while enabling collaboration and visibility.
+The subtree model preserves a single authoritative history while enabling public collaboration.
 
 ---
 
 ### **3.2 Synchronization Procedures**
 
-**Private → Public**
+#### **Private → Public**
 
-* Changes under `public/` are committed in the private repository.
+* Changes under `pub/ier-repo/` are committed in the private repository.
 * Updates are pushed to the public repository as a subtree.
 * Tags intended for public reference are mirrored.
 
-**Public → Private**
+#### **Public → Private**
 
 * Public pull requests may be merged in the public repository.
 * Changes are periodically pulled upstream using squash commits.
@@ -132,7 +141,7 @@ The subtree model is chosen to preserve a single authoritative history while ena
 
 ### **4.1 Global IER Version Namespace**
 
-IER uses a **single, global version namespace**, e.g.:
+IER uses a **single, global version namespace**, for example:
 
 ```
 v10.8.4
@@ -247,40 +256,9 @@ No subsequent release is a Seed Release.
 
 ---
 
-### **6.2 Version Releases (Ongoing)**
+## **7. Graduation of Content to the Repository Export Surface**
 
-Version releases correspond to normal IER version progression.
-
-They may include:
-
-* changes to canonical material
-* graduation of additional files into `public/`
-* preparation for future publications
-
-Each version release is anchored by a core version tag.
-
----
-
-### **6.3 Distribution and Publication Releases**
-
-Distribution artifacts include:
-
-* GitHub Releases
-* books and monographs
-* PDFs and ebooks
-* preprints and papers
-
-These artifacts:
-
-* must reference a specific repository tag
-* must state their artifact class and authority scope
-* do not define or advance IER versions
-
----
-
-## **7. Graduation of Content to Public**
-
-Files become public through **deliberate graduation** into the `public/` subtree.
+Files become publicly visible through **deliberate graduation** into `pub/ier-repo/`.
 
 Rules:
 
@@ -344,8 +322,8 @@ Immutability applies equally to free and commercial distributions.
 
 The project may adopt:
 
-* git aliases for subtree sync and tagging
-* CI checks for `public/` hygiene
+* git aliases for subtree synchronization and tagging
+* CI checks for `pub/ier-repo/` hygiene
 * GitHub Releases for distribution convenience
 
 These tools are advisory and do not confer authority.
