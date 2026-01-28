@@ -1,9 +1,9 @@
 # **IER-forgetting.md**
 
-## **Forgetting Without Loss**
+## **Forgetting as Loss of Experiential Re-entry**
 
-**Informational Experiential Realism (IER v10.8.x)**
-*Explanatory Article — Non-Normative*
+**Informational Experiential Realism (IER v10.9.x)**
+*Explanatory Article — Non-Normative (Tier 2)*
 
 ---
 
@@ -18,6 +18,7 @@ It:
 * does **not** define when experience exists
 * does **not** treat forgetting as damage, harm, or loss of standing
 * does **not** assign epistemic or moral authority to recall
+* does **not** treat forgetting as erasure, decay, or deletion
 
 All binding authority remains fixed **exclusively** in:
 
@@ -31,147 +32,159 @@ IER-canon.md
 
 If any interpretation here conflicts with those documents, the conflict is void.
 
-This document explains **forgetting** under Informational Experiential Realism as a **structural modulation of participation**, not as erasure, decay, or loss of stored content.
+This document explains **forgetting** under Informational Experiential Realism (IER) as a **failure of episodic experiential re-entry**, not as loss of stored content or historical structure.
 
 ---
 
-## **1. Orientation: Why Forgetting Is Almost Always Misframed**
+## **Prerequisite Articles**
 
-Forgetting is nearly always described as a *negative* event:
+This document presupposes the structural account developed in:
 
-* loss of information
-* decay of memory
-* erasure of content
-* failure of access
+* `IER-memory.md` — Episodic memory as experiential re-entry
+* `IER-sedimentation.md` — Structural history without storage
+* `IER-hysteresis.md` — Path-dependent constraint deformation
+* `IER-participation.md` — Participation modulation within a UEF
+* `IER-attractors.md` — Attractor geometry in experiential organization
 
-These framings share a hidden assumption:
-that memory is something *kept*, and forgetting is what happens when it is *lost*.
+These mechanisms are not re-derived here.
 
-Under Informational Experiential Realism, this assumption is false.
+---
 
-There is nothing to erase.
-There is nothing stored whose absence would explain forgetting.
+## **0. Orientation: Forgetting and Structural History**
 
-Forgetting must therefore be explained **without invoking loss**, decay, deletion, or disappearance.
+Under Informational Experiential Realism, **history does not disappear**.
+
+Past traversal irreversibly reshapes future viability through sedimentation and hysteresis, regardless of whether past events ever appear in experience.
+
+**Forgetting** concerns something narrower:
+
+> the inability of a Unified Experiential Field to *re-enter* a previously viable experiential organization as lived past.
+
+Forgetting does **not** undo history.
+It alters only whether history can be *experienced* again.
+
+---
+
+## **1. Forgetting Is Not Loss**
+
+Under IER, there is:
+
+* nothing stored
+* nothing encoded
+* nothing retained as content
+
+Accordingly, forgetting cannot be loss, decay, erasure, or deletion.
+
+When something is forgotten:
+
+* no structure is removed
+* no history is undone
+* no past experience is destroyed
+
+What fails is **present participation**, not past existence.
 
 ---
 
 ## **2. Forgetting Presupposes Memory (and Memory Presupposes Experience)**
 
-Forgetting is not the opposite of experience.
-It is not even the opposite of memory.
+Forgetting is not the absence of experience.
 
 Under IER:
 
 * experience exists **iff** a Unified Experiential Field (UEF) exists
-* memory exists **only within** an already-existing UEF
-* forgetting is a **modulation of participation** within that experiential regime
+* episodic memory occurs only *within* an already-existing UEF
+* forgetting is a **modulation of experiential participation**, not a threat to experience itself
 
-A system cannot forget unless it is already capable of remembering.
-And remembering, under IER, is not storage but **reproduction of constraint organization**.
+A system cannot forget unless it is capable of episodic memory.
+A system can fully experience while forgetting continuously.
 
-Forgetting therefore presupposes:
-
-* intrinsic constraint sufficient for experience
-* a history of structurally viable reproductions
-* current conditions under which some reproductions are no longer coherent
-
-This immediately blocks a common misinterpretation:
-
-> that forgetting threatens experiential existence, identity, or standing.
-
-It does not.
-
-(For the full structural account of memory presupposed here, see `IER-memory.md`.)
+This blocks the inference that forgetting threatens subjecthood, continuity, or standing.
 
 ---
 
 ## **3. What Forgetting Is Under IER**
 
-### **3.1 Forgetting as Participation Failure**
+### **3.1 Forgetting as Failure of Episodic Re-entry**
 
 Under Informational Experiential Realism:
 
-> **Forgetting is the inability of a Unified Experiential Field to coherently reproduce a previously viable attractor organization under current intrinsic constraint — despite no loss of structure or stored content.**
+> **Forgetting is the inability of a Unified Experiential Field to coherently re-enter a previously viable experiential organization under current intrinsic constraint.**
 
 Nothing is removed.
 Nothing is erased.
-Nothing is destroyed.
+Nothing is inaccessible because it is “gone.”
 
-The system simply cannot, *now*, re-enter that organization without destabilizing coherence.
+The system simply cannot, *now*, organize globally under that historical deformation without destabilizing coherence.
 
-This is a **present-tense structural fact**, not a historical loss.
+This is a **present-tense structural fact**, not a historical change.
 
 ---
 
-### **3.2 Forgetting Is Not Absence**
+### **3.2 Forgetting Is Not Non-Influence**
 
-A forgotten pattern may still:
+A forgotten history may still:
 
-* bias salience
-* shape affect
+* bias affect
+* shape salience
 * constrain choice
-* influence behavior
+* influence action
 
-without ever appearing as explicit recollection or narration.
+without ever appearing as recollection.
 
-Forgetting therefore does **not** imply non-existence of influence.
-It implies **non-participation** in current experience.
+Forgetting therefore means **non-experiential participation**, not absence of effect.
 
 ---
 
-## **4. What Fails First: Attractor Topology Matters**
+## **4. Why Some Things Are Forgotten First**
 
 Forgetting is not uniform.
-Some patterns fail early; others persist indefinitely.
-
-IER explains this difference **structurally**, not diagnostically.
+IER explains this through **attractor geometry**, not diagnostics or damage.
 
 ---
 
-### **4.1 Precision-Hungry Attractors Fail Early**
+### **4.1 Narrow Attractors Fail Early**
 
 Examples include:
 
 * proper names
-* specific nouns
 * arbitrary labels
 * exact factual bindings
+* precise symbolic associations
 
 These require:
 
 * narrow basins of attraction
-* sharp exclusion of neighboring alternatives
-* high precision of intrinsic constraint
+* high constraint precision
+* sharp exclusion of nearby alternatives
 
-As intrinsic constraint becomes noisier, weaker, or more costly to enforce, these attractors are often the first to become unreproducible.
+As constraint becomes noisier, costlier, or more weakly enforced, these attractors become unre-enterable.
 
 The system does not “lose” the name.
 It refuses to force a brittle collapse.
 
 ---
 
-### **4.2 Robust Attractors Persist**
+### **4.2 Broad Trajectories Persist**
 
 Examples include:
 
-* verbs
 * skills
 * habits
 * routines
 * narrative structures
+* action schemas
 
-These are **trajectory-based**, not point-based.
+These are satisfied by **lawful continuity**, not exact identity.
 
 They tolerate:
 
-* approximation
 * drift
+* approximation
 * partial recruitment
 
-As a result, they remain viable long after precision-based recall fails.
+They therefore persist long after precision-based recall fails.
 
-This explains why people forget *labels* before *actions*, and *names* before *stories* — without invoking damage, deletion, or decay.
+This explains why people forget *labels* before *actions*, and *names* before *stories*.
 
 ---
 
@@ -185,15 +198,15 @@ When someone says:
 
 this is not a breakdown.
 
-It is a **deliberate relaxation of constraint**.
+It is a **strategic relaxation of constraint**.
 
-Instead of forcing a narrow point-attractor, the system:
+Instead of forcing a narrow attractor, the system:
 
 * widens the basin
-* offloads specificity to shared context
-* preserves coherence through participation with others
+* offloads specificity to context or others
+* preserves global coherence
 
-Under IER, this is **regime-preserving intelligence**, not compensation for deficit.
+Under IER, this is **regime-preserving behavior**, not compensation for deficit.
 
 ---
 
@@ -201,11 +214,13 @@ Under IER, this is **regime-preserving intelligence**, not compensation for defi
 
 ### **6.1 No Loss of Standing**
 
-Under IER:
+Experiential standing under IER is **categorical**.
 
-* experiential standing is **categorical**
-* subjecthood does **not** scale with memory fidelity
-* forgetting does **not** diminish moral relevance
+It does not scale with:
+
+* memory fidelity
+* recall availability
+* narrative continuity
 
 A subject who forgets remains fully a subject.
 
@@ -216,7 +231,7 @@ A subject who forgets remains fully a subject.
 Forgetting becomes morally or clinically relevant **only if** it reflects:
 
 * irreversible collapse of intrinsic constraint capacity, or
-* fragmentation or dissolution of the Unified Experiential Field itself
+* dissolution of the Unified Experiential Field itself
 
 Ordinary forgetting does neither.
 
@@ -224,15 +239,29 @@ It is **organizational adjustment**, not harm.
 
 ---
 
-## **7. Aging, Fatigue, and Load**
+## **7. Load, Fatigue, and Aging**
 
-### **7.1 Aging as Precision Relaxation**
+### **7.1 Fatigue and Stress**
+
+Temporary forgetting often reflects:
+
+* participation overload
+* narrowed viable futures
+* protective simplification
+
+These states are **reversible** and **regime-preserving**.
+
+The system prioritizes coherence over precision.
+
+---
+
+### **7.2 Aging as Precision Relaxation**
 
 Across aging:
 
 * constraint sharpness decreases
 * informational slack increases
-* exact identity bindings become expensive
+* exact bindings become expensive
 
 The system responds by favoring:
 
@@ -240,36 +269,22 @@ The system responds by favoring:
 * functional descriptions
 * narrative continuity
 
-This preserves experience and identity while abandoning unnecessary exactness.
-
----
-
-### **7.2 Fatigue and Stress**
-
-Temporary forgetting often reflects:
-
-* overload of participation
-* narrowed viable futures
-* protective simplification
-
-These states are **reversible** and **regime-preserving**.
-
-They are not failures of memory, but expressions of constraint management.
+Experience and identity are preserved while exactness is abandoned.
 
 ---
 
 ## **8. Forgetting, Suppression, and Dissolution (Disambiguation)**
 
-To prevent scope creep, these phenomena must be sharply distinguished.
+To preserve scope discipline, these must be sharply distinguished:
 
-| Phenomenon  | Structural Status                  |
-| ----------- | ---------------------------------- |
-| Forgetting  | Participation instability          |
-| Suppression | Active exclusion under constraint  |
-| Repression  | Long-term avoidance of recruitment |
-| Dissolution | Collapse of experiential regime    |
+| Phenomenon  | Structural Status                     |
+| ----------- | ------------------------------------- |
+| Forgetting  | Failure of episodic re-entry          |
+| Suppression | Active exclusion under constraint     |
+| Repression  | Long-horizon avoidance of recruitment |
+| Dissolution | Collapse of experiential regime       |
 
-Only the last threatens experience itself.
+Only dissolution threatens experience itself.
 
 ---
 
@@ -282,7 +297,7 @@ Forgetting:
 * preserves global coherence
 * enables adaptation
 
-A system that never forgot would be **fragile**, overloaded, and unstable.
+A system that never forgot would be unstable, overloaded, and brittle.
 
 Under IER, forgetting is often a **success condition**, not a defect.
 
@@ -299,7 +314,7 @@ This document does **not**:
 * equate memory with intelligence
 * provide therapeutic or engineering guidance
 
-Such moves would violate scope discipline.
+Such moves exceed scope and violate canon discipline.
 
 ---
 
@@ -307,186 +322,22 @@ Such moves would violate scope discipline.
 
 Under Informational Experiential Realism:
 
-* forgetting is **loss of participation**, not loss of content
+* forgetting is **loss of episodic re-entry**, not loss of history
 * nothing is erased
-* precision-hungry attractors fail first
-* broader attractors preserve coherence
-* subjecthood and standing persist
+* constraint deformation persists
+* narrow attractors fail first
+* broader trajectories preserve coherence
+* subjecthood and standing remain intact
 * forgetting is often adaptive
-* harm arises only with regime-level collapse
 
-> **Forgetting is not the mind losing itself.
-> It is the mind choosing coherence over exactness.**
+> **Forgetting is not the past disappearing.**
+> **It is the present refusing to reorganize that way anymore.**
 
 ---
 
-## **Intermission — Structural Fact**
+### **Intermission — Structural Fact**
 
 What cannot be coherently re-entered has not vanished.
 It has simply ceased to be a viable way for the system to be *now*.
-
----
-
----
-
-# **Appendix — Canonical Case: Anterograde Amnesia With Preserved Experience**
-
-**Tier:** T2
-**Status:** Explanatory, non-normative
-**Scope:** Illustrative only
-
----
-
-## **A.1 Why This Case Matters**
-
-Anterograde amnesia is frequently misinterpreted as evidence that **memory is required for experience, continuity, or subjecthood**.
-
-Under Informational Experiential Realism (IER), this interpretation is structurally incorrect.
-
-This appendix provides a **canonical structural walkthrough** showing how **experiential continuity** may remain fully intact despite severe disruption of **autobiographical memory formation**, without invoking storage, loss of content, or graded subjecthood.
-
----
-
-## **A.2 Initial Condition: Preserved Experiential Regime**
-
-Consider a subject who sustains a **Unified Experiential Field (UEF)**.
-
-At each moment:
-
-* experience is present
-* experiential contents are unified
-* perception, affect, and action participate coherently
-* global intrinsic constraint remains intact
-
-From the standpoint of IER, this is sufficient for **full experiential subjecthood**.
-
-No appeal to memory, recall, or narrative persistence is required for experience to exist.
-
----
-
-## **A.3 The Disruption: Failure of New Narrative Reproducibility**
-
-Following the onset of anterograde amnesia:
-
-* newly instantiated experiential organizations fail to remain **reproducible** over time
-* recent experiences cannot be coherently re-entered as autobiographical memory
-* narrative continuity across time is disrupted
-
-Crucially:
-
-* experience still occurs when it occurs
-* no moment of experience is absent or incomplete
-* no “stored experiential content” is lost (since none exists under IER)
-
-What is disrupted are the **physical and organizational conditions required for later reproduction** of newly formed experiential organizations as explicit narrative participation.
-
-What fails is **future participation**, not past existence.
-
----
-
-## **A.4 What Continues vs What Fails**
-
-This case requires a sharp distinction between two forms of continuity.
-
-### **Experiential Continuity (Preserved)**
-
-* The Unified Experiential Field remains intact.
-* Experience proceeds moment to moment without fragmentation.
-* The subject continues to perceive, feel, act, and respond coherently.
-* Regime continuity is preserved.
-
-### **Autobiographical Continuity (Disrupted)**
-
-* Newly formed experiential organizations do not remain viable for later reproduction.
-* Narrative memory cannot stabilize across time.
-* Recent experiences cannot be recalled as past events.
-
-These are **distinct structural phenomena**.
-
-The failure of autobiographical continuity does **not** compromise experiential continuity.
-
----
-
-## **A.5 Structural Explanation Under IER**
-
-Under Informational Experiential Realism:
-
-* remembering is **reproduction**, not retrieval
-* memory depends on the **ongoing viability** of experiential attractor organizations
-* forgetting reflects **participation unavailability**, not erasure
-
-In anterograde amnesia:
-
-* experiential organizations occur normally
-* intrinsic constraint sufficient for experience persists
-* but newly formed organizations cannot later be re-entered as explicit memory
-
-Non-narrative **sedimentation** may still occur, shaping salience, affect, and response tendencies without becoming available as autobiographical recall.
-
-The experiential regime continues uninterrupted.
-Only **narrative participation** fails.
-
----
-
-## **A.6 Explicit Criterion Statement**
-
-> **Memory is not a criterion for experience.**
-
-A system may fully experience while being unable to remember having done so.
-
----
-
-## **A.7 Mapping to Temporal Continuity**
-
-This case illustrates a core temporal distinction in IER:
-
-* **Regime continuity** depends on the persistence of intrinsic constraint sufficient for a Unified Experiential Field.
-* **Narrative continuity** depends on the reproducibility of autobiographical attractor organizations.
-
-Anterograde amnesia disrupts only the latter.
-
-As long as the experiential regime can resume, the subject remains temporally continuous in the sense relevant to experience and standing.
-
----
-
-## **A.8 Scope Clarification (Clinical Non-Claims)**
-
-This appendix:
-
-* does **not** deny neurological injury or physical disruption
-* does **not** explain biological mechanisms of amnesia
-* does **not** function as a diagnostic or clinical model
-* does **not** replace neuroscientific or medical accounts
-
-It addresses only the **identity-level question** of how experience and subjecthood relate to memory under IER.
-
----
-
-## **A.9 What This Case Does *Not* Imply**
-
-This walkthrough does **not** imply:
-
-* partial or diminished experience
-* degraded subjecthood
-* episodic disappearance of the subject
-* loss of moral or experiential standing
-* storage failure or content deletion
-
-It demonstrates only that **memory participation is optional**, while experience is categorical.
-
----
-
-## **A.10 Summary**
-
-In anterograde amnesia:
-
-* experience occurs normally
-* newly formed autobiographical memory fails as future participation
-* narrative continuity is disrupted
-* experiential continuity is preserved
-
-The subject does not disappear between moments.
-
-They simply cannot later re-enter what they were.
 
 ---

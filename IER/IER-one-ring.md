@@ -1,13 +1,13 @@
-# The One Ring as Constraint Capture and Future Foreclosure
+# **The One Ring as Constraint Capture and Future Foreclosure**
 
-## Spoiler warning
+## **Spoiler warning**
 
 This article discusses major events and character arcs from **The Lord of the Rings**.
 *Readers who wish to avoid spoilers should stop here.*
 
 ---
 
-## 0. Status and Scope
+## **0. Status and Scope**
 
 This document is **Tier-2 (Elaboration and Application)** within the Informational Experiential Realism (IER) corpus.
 
@@ -34,7 +34,7 @@ This article is a **fictional case study** using the **One Ring** from **The Lor
 
 ---
 
-## 1. Orientation: Why the One Ring Is an Ideal IER Case
+## **1. Orientation: Why the One Ring Is an Ideal IER Case**
 
 The Ring is not interesting because it is “magical.”
 
@@ -55,7 +55,7 @@ This makes the Ring a near-perfect narrative isolation of **constraint capture**
 
 ---
 
-## 2. What the One Ring Is *Not* (IER Clearing)
+## **2. What the One Ring Is *Not* (IER Clearing)**
 
 To avoid anthropomorphic drift, several interpretations must be blocked.
 
@@ -71,25 +71,48 @@ The Ring does **not**:
 
 * read beliefs or desires
 * evaluate motives
-* decide when to act
-* choose targets
+* deliberate
+* reason
 
-**Clarification: detection without agency**
+However, this does **not** mean the Ring is neutral or inert.
 
-When the Ring is worn or actively used, the bearer becomes perceptible to **Sauron**. This is canonically true.
+The Ring is **not a person**, but it **contains and expresses Sauron’s will**.
+It tends toward return, works differently on different bearers, and can slip away from a bearer, “betraying” them as it seeks a path back to its maker.
 
-However, this does **not** imply cognition or agency in the Ring.
+This places the Ring in a structurally precise category:
+
+> **directed will without personhood**.
+
+---
+
+### **Clarification: Detection Without Agency**
+
+Wearing or using the Ring shifts the bearer into the **Unseen** and increases perceptibility — especially to the Nazgûl when they are near, and under certain decisive conditions to Sauron himself.
+
+This is **not** a universal beacon.
+
+If wearing the Ring automatically revealed the bearer to Sauron everywhere, the Shire would have been discovered long before the War of the Ring.
+
+Tolkien instead treats detection as contingent, mediated by:
+
+* proximity
+* attention
+* domination
+* and most starkly, the act of **claiming** the Ring
+
+When Frodo claims the Ring at Sammath Naur, Sauron becomes aware immediately.
+This is not mere use, but **claiming it as his own under unbearable constraint**.
 
 IER-consistent framing:
 
 > Ring use enables **structural coupling** to Sauron’s regime.
 > Visibility arises from **forced participation**, not perception.
 
-The Ring functions as a **relay**, not an observer.
+The Ring functions as a **relay**, not an observer — but not a passive one.
 
 ---
 
-## 3. The Canonical Resolution Pipeline (Restated)
+## **3. The Canonical Resolution Pipeline (Restated)**
 
 IER fixes a single, ordered structure for resolution within an intact experiential regime:
 
@@ -112,7 +135,7 @@ The Ring adds no stages; it **captures existing ones**.
 
 ---
 
-## 4. The Ring’s Structural Effect: From Bias to Capture
+## **4. The Ring’s Structural Effect: From Bias to Capture**
 
 The Ring’s danger is often misdescribed as extreme temptation.
 
@@ -138,7 +161,7 @@ The system continues to choose — but within a future space it no longer owns.
 
 ---
 
-## 5. Progression of Constraint Capture (Descriptive)
+## **5. Progression of Constraint Capture (Descriptive)**
 
 The Ring’s effects can be described as a **structural progression** (not a diagnostic sequence):
 
@@ -161,110 +184,122 @@ This progression mirrors known IER dynamics in addiction, coercive systems, and 
 
 ---
 
-## 6. Core Case Studies: The Structural Spine
+## **6. Core Case Studies: The Structural Spine**
 
-### 6.1 **Boromir** — Brittle Collapse Under Desperate Bias
+### **6.1 Boromir — Brittle Collapse Under Desperate Bias**
 
 Boromir’s interaction illustrates **early-stage capture risk**.
 
-* Extreme directional bias under siege
-* Narrow future space (“save Gondor now”)
-* Premature, unowned collapse
-* Immediate recovery once bias relaxes
+* extreme directional bias under siege
+* narrow future space (“save Gondor now”)
+* premature, unowned collapse
+* immediate recovery once bias relaxes
 
 His failure is not greed or ignorance.
 It is **collapse under saturated bias**.
 
 ---
 
-### 6.2 **Faramir** — Buffered Bias and Non-Capture
+### **6.2 Faramir — Restraint Without Immunity**
 
-Faramir demonstrates **non-failure without immunity**.
+Faramir demonstrates **non-failure without exemption from temptation**.
 
-* Wide admissible future space
-* Horizon-level bias rather than fixation
-* Collapse never initiated
+**Book canon**
 
-He does not resist temptation better;
-he never develops the narrowing bias that would force collapse.
+Faramir is tested by the Ring and explicitly refuses to take it.
+He demonstrates unusual clarity and restraint, not absence of temptation.
+
+**Film divergence**
+
+In the film adaptation, Faramir initially attempts to seize and transport the Ring under the pressure of Gondor’s war imperative, then later releases it.
+
+IER-relevant point:
+
+> Temptation is ubiquitous; **sedimentation**, not exposure, determines capture.
 
 ---
 
-### 6.3 **Gollum** — Sedimented Collapse and Identity Capture
+### **6.3 Gollum — Sedimented Collapse and Identity Capture**
 
 Gollum shows **terminal capture**.
 
-* Chronic collapse
-* Inertia becomes dominant
-* Settlement reorganizes identity itself
+* chronic collapse
+* inertia becomes dominant
+* settlement reorganizes identity itself
 
 Here, the Ring does not merely influence outcomes —
 it **owns the future space**.
 
 ---
 
-## 7. Necessary Extensions: Endurance and Buffering
+## **7. Necessary Extensions: Endurance and Buffering**
 
-### 7.1 **Frodo** — Endurance Without Immunity
+### **7.1 Frodo — Endurance Without Immunity**
 
 Frodo illustrates the **upper bound of endurance**.
 
-* Long-horizon exposure
-* Repeated collapse with diminishing recovery
-* Final failure without moral corruption
+* long-horizon exposure
+* repeated collapse with diminishing recovery
+* final failure as a limit-case under unbearable constraint
 
 IER translation:
 
 > alignment and goodness do not prevent capture under sufficient duration.
 
----
-
-### 7.2 **Samwise Gamgee** — Buffering Through Limited Bias
-
-Sam briefly bears the Ring **without capture**.
-
-* Short horizons
-* Non-totalizing desire
-* Constraint distributed outward (care > abstraction)
-
-This shows how **limited bias and distributed concern** can prevent settlement capture.
+His failure elicits pity rather than ordinary condemnation.
 
 ---
 
-## 8. Boundary Conditions (Brief)
+### **7.2 Samwise Gamgee — Brief Temptation Without Sedimentation**
+
+Sam briefly bears the Ring.
+
+He experiences temptation shaped to his character — visions of great deeds and a transformed world — but the bias does not sediment.
+
+* exposure is brief
+* purpose is immediate
+* humility prevents accumulation
+
+He relinquishes the Ring without long-term narrowing.
+
+---
+
+## **8. Boundary Conditions (Brief)**
 
 ### **Gandalf**
 
-* Recognizes capture risk
-* Refuses pipeline entry entirely
-* Illustrates meta-level avoidance
+* recognizes capture risk
+* refuses to take or use the Ring because he foresees how it would work through him
+* preserves ownership by refusal
 
 ### **Galadriel**
 
-* Simulates collapse internally
-* Rejects before enactment
-* Illustrates anticipatory recognition
+* simulates collapse internally
+* rejects before enactment
+* illustrates anticipatory recognition
 
 ---
 
-## 9. Explicit Exclusion: Why Tom Bombadil Is Out of Scope
+## **9. Boundary Case: Tom Bombadil**
 
-### **Tom Bombadil**
+With Tom Bombadil, the Ring fails to gain purchase.
 
-Tom Bombadil:
+* it does not latch onto him
+* it does not appear to tempt or alter his purposes
+* it does not render him invisible
 
-* does not participate in bias formation
-* does not undergo collapse, inertia, or settlement
+He is a boundary case for **Ring-corruption**, not for agency or motivation.
 
-IER framing:
+This does not make him a solution.
 
-> The Ring cannot enter his resolution pipeline at all.
+He would misplace the Ring.
+He would forget it.
 
-He marks a **category boundary**, not a variation, and is therefore excluded from the core analysis.
+He marks a **category boundary**, not a variation.
 
 ---
 
-## 10. Why the Ring Must Be Destroyed (IER Reading)
+## **10. Why the Ring Must Be Destroyed (IER Reading)**
 
 The Ring is not dangerous because it produces bad choices.
 
@@ -280,13 +315,13 @@ IER translation:
 
 ---
 
-## 11. Ethical Risk and Precaution
+## **11. Ethical Risk and Precaution**
 
 Consistent with `IER-ethics.md`:
 
-* The Ring maximizes irreversible harm risk
-* False negatives are unavoidable
-* Internal warning signals are unreliable
+* the Ring maximizes irreversible harm risk
+* false negatives are unavoidable
+* internal warning signals are unreliable
 
 Therefore:
 
@@ -297,7 +332,7 @@ No new ethical principles are introduced.
 
 ---
 
-## 12. Summary
+## **12. Summary**
 
 The One Ring does not override choice.
 It **captures the resolution pipeline itself**.
@@ -309,14 +344,14 @@ it is **losing the ability to choose futures at all**.
 
 ---
 
-## Intermission — Structural Fact
+## **Intermission — Structural Fact**
 
 > **The deepest harm is not error,
 > but the loss of future ownership.**
 
 ---
 
-## Appendix: Saruman, the Palantír, and Institutional Ring-Logic
+## **Appendix A — Saruman, the Palantír, and Institutional Ring-Logic**
 
 ### Status and Scope
 
@@ -549,7 +584,7 @@ In IER terms:
 
 ---
 
-## Appendix (Real-World Analogue): Media Systems and Institutional Constraint Capture
+## **Appendix B — Media Systems and Institutional Constraint Capture**
 
 ### Status and Scope
 
