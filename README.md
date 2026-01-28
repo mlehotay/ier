@@ -1,98 +1,42 @@
 # Informational Experiential Realism (IER)
-**Repository Overview — v10.9.x**
+
+This repository hosts **public-facing artifacts** of **Informational Experiential Realism (IER)**, a theory of experience defined by a determinate identity claim, its structural exclusions, and its ethical consequences.
+
+This is a **curated export repository**, not the primary development environment.
 
 ---
 
-## Purpose
+## Scope and Authority
 
-This repository contains the **Informational Experiential Realism (IER)** project:
+Contents here are derived from **tagged repository states** governed by explicit versioning and immutability rules.
 
-* the **canonical theoretical corpus**
-* **publication artifacts** derived from that corpus
-* **build, verification, and governance infrastructure**
+This repository:
 
-The repository is designed to make **authority, structure, and ordering explicit**.
+* does **not** define canonical authority
+* does **not** establish corpus completeness
+* does **not** confer authority by venue or distribution
 
-Nothing is inferred at build time.  
-Nothing authoritative is downstream of tooling.
-
-This README is for **contributors and reviewers**.  
-It is **not** an introduction to the theory.
+Authoritative control resides upstream and is fixed by global IER versions and immutable git tags.
 
 ---
 
-## Repository Structure
+## Versions and Releases
 
-```text
-IER/            Canonical IER theory corpus (authoritative)
-pub/            Publication-layer selections and scaffolds
-scripts/        Build and verification tools
-build/          Generated outputs (disposable)
-assets/         Static assets
-governance/     Build, publishing, deployment, and reader-discipline rules
-_work/          Drafts and non-canonical material
-````
+IER uses a single global version namespace (e.g. `v10.9.0`).
 
-Each directory defines its own role and constraints.
-Read local `README.md` files before interpreting contents.
+Releases are anchored to git tags, including:
+
+* `ier-seed` — one-time existence anchor
+* `ier-vX.Y.Z` — core IER versions
+
+GitHub Releases, if present, are derivative.
 
 ---
 
-## Canonical Authority
+## Contributions
 
-All **theoretical authority** lives exclusively under [`IER/`](IER/).
-
-Key files:
-
-* [`IER/README.md`](IER/README.md) — corpus orientation (non-authoritative)
-* [`IER/IER-canon.md`](IER/IER-canon.md) — authority, alignment, and versioning rules
-* [`IER/IER-manifest.md`](IER/IER-manifest.md) — official corpus inventory and ordering
-
-Nothing outside [`IER/`](IER/) has theoretical or ethical authority.
+Pull requests may improve presentation or tooling but must not modify identity claims, exclusions, or versioning. Canonical changes occur upstream.
 
 ---
 
-## Publication Artifacts
-
-Books and papers are **derived views** of the corpus.
-They introduce **no independent authority**.
-
-Primary artifacts:
-
-* **Corpus Book** — deployment anchor
-* **Paper** — scholarly interface
-* **TLDR Book** — reader-facing explanation
-* **Foundations Book** — verbatim foundational subset
-
-Build details are defined in
-[`governance/IER-build.md`](governance/IER-build.md).
-
----
-
-## Governance & Verification
-
-Build, publishing, deployment, and reader-discipline rules live under
-[`governance/`](governance/).
-
-Verification is **mandatory**.
-A build that does not verify is invalid.
-
----
-
-## Design Philosophy
-
-This repository is intentionally:
-
-* explicit over implicit
-* deterministic over convenient
-* verified over assumed
-* canon-safe over flexible
-
----
-
-## Status
-
-Active development.
-
-Canonical theory evolves cautiously.
-Non-canonical drafts live under [`_work/`](_work/) and never affect builds.
+> This repository establishes availability, not authority.
