@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Informational Experiential Realism"
+authors:
+  - family-names: "Lehotay"
+    given-names: "Michael"
+version: "10.10.7"
+date-released: "2026-05-31"
+license: "CC-BY-NC-4.0"
+repository-code: "https://github.com/mlehotay/ier"
