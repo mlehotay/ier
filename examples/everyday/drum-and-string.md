@@ -2,9 +2,6 @@
 
 ## Field Unity and Boundary Conditions: Drumhead and Guitar String Analogies for the Unified Experiential Field
 
-**Informational Experiential Realism (IER v10.10.7)**  
-*Tier 4 · Explanatory · Structural · Non-Normative*
-
 ## Status, Scope, and Authority
 
 This document introduces two complementary physical analogies for understanding structural properties of the Unified Experiential Field (UEF) described in Informational Experiential Realism.
@@ -49,13 +46,9 @@ A drumhead is a tensioned membrane capable of supporting distributed vibration p
 
 When the membrane is sufficiently tensioned, a disturbance propagates across the entire surface:
 
-```text
-local strike
-v
-waves propagate across membrane
-v
-global vibration pattern
-```
+1. local strike
+2. waves propagate across membrane
+3. global vibration pattern
 
 The surface behaves as one coupled dynamical field.
 
@@ -81,13 +74,9 @@ Just as the sound of a drum is identical to the vibration of its membrane intera
 
 In a tensioned drumhead:
 
-```text
-disturbance anywhere
-v
-field-wide propagation
-v
-whole-surface pattern
-```
+1. disturbance anywhere
+2. field-wide propagation
+3. whole-surface pattern
 
 Every region of the membrane participates in the evolving pattern.
 
@@ -101,9 +90,9 @@ This illustrates a key property of the UEF:
 
 Drumhead vibrations evolve smoothly:
 
-```text
-pattern(t) -> pattern(t+1)
-```
+$$
+\mathrm{pattern}(t) \to \mathrm{pattern}(t+1)
+$$
 
 Each configuration emerges from the previous one.
 
@@ -167,13 +156,9 @@ finger ----------- bridge
 
 The vibration reorganizes immediately:
 
-```text
-new boundary
-v
-new standing wave pattern
-v
-different note
-```
+1. new boundary
+2. new standing wave pattern
+3. different note
 
 But the change is reversible.
 
@@ -211,13 +196,9 @@ This illustrates hard bonding in IER.
 
 Hard bonding occurs when:
 
-```text
-resolution
-+
-welding
-v
-constraint integrated into the substrate
-```
+1. resolution
+2. welding
+3. constraint integrated into the substrate
 
 The constraint structure of the system has changed in a way that affects all subsequent dynamics.
 
@@ -240,13 +221,9 @@ The string analogy also helps illustrate attention.
 
 A finger can move along the string, temporarily modifying the boundary conditions that shape vibration patterns.
 
-```text
-moving finger
-v
-temporary boundary modulation
-v
-different vibration patterns stabilize
-```
+1. moving finger
+2. temporary boundary modulation
+3. different vibration patterns stabilize
 
 This resembles attention in IER.
 

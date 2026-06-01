@@ -236,29 +236,25 @@ The study becomes substantially clearer when mapped onto the IER frontier-resolu
 
 IER describes resolution not as a single event, but as an ordered structural transformation:
 
-```text
-continuous frontier operation
--> binding
--> soft bonding
--> curvature
--> collapse
--> welding
--> propagation
--> sedimentation
-```
+1. continuous frontier operation
+2. binding
+3. soft bonding
+4. curvature
+5. collapse
+6. welding
+7. propagation
+8. sedimentation
 
 Or more explicitly:
 
-```text
-organizations appear
--> some participate
--> some become frontier-relevant
--> reversible coupling deforms admissible continuation
--> collapse contracts reachability
--> welding integrates consequence
--> propagation redistributes deformation
--> sedimentation stabilizes history
-```
+1. organizations appear
+2. some participate
+3. some become frontier-relevant
+4. reversible coupling deforms admissible continuation
+5. collapse contracts reachability
+6. welding integrates consequence
+7. propagation redistributes deformation
+8. sedimentation stabilizes history
 
 The neuroscience hierarchy maps strikingly well onto this structure.
 
@@ -380,12 +376,14 @@ IER distinguishes:
 
 This may be denoted:
 
-<math><mi>&Lambda;</mi><mo>&#x2061;</mo><mrow><mo>(</mo><mi>s</mi><mo>)</mo></mrow><mo>&subseteq;</mo><mi>A</mi><mo>&#x2061;</mo><mrow><mo>(</mo><mi>s</mi><mo>)</mo></mrow></math>
+$$
+\Lambda(s) \subseteq A(s)
+$$
 
 where:
 
-* <math><mi>A</mi><mo>&#x2061;</mo><mrow><mo>(</mo><mi>s</mi><mo>)</mo></mrow></math> denotes admissible successors,
-* and <math><mi>&Lambda;</mi><mo>&#x2061;</mo><mrow><mo>(</mo><mi>s</mi><mo>)</mo></mrow></math> denotes coherence-preserving successors.
+* $A(s)$ denotes admissible successors,
+* and $\Lambda(s)$ denotes coherence-preserving successors.
 
 This distinction matters for interpreting the experiment.
 
@@ -611,11 +609,7 @@ should produce different cortical hierarchy profiles.
 
 ### Cross-Domain Generalization
 
-Music,
-speech,
-motor sequencing,
-and narrative pacing
-should recruit analogous frontier-stack organization because all involve:
+Music, speech, motor sequencing, and narrative pacing should recruit analogous frontier-stack organization because all involve:
 
 * admissible continuation,
 * coherence preservation,
@@ -713,37 +707,37 @@ Subjective time becomes:
 
 ### Admissible continuation
 
-<math><mi>A</mi><mo>&#x2061;</mo><mrow><mo>(</mo><mi>s</mi><mo>)</mo></mrow></math>
-
-The set of admissible successor configurations available under intrinsic constraint.
+$A(s)$ denotes the set of admissible successor configurations available under intrinsic constraint.
 
 
 ### Coherence-preserving continuation
 
-<math><mi>&Lambda;</mi><mo>&#x2061;</mo><mrow><mo>(</mo><mi>s</mi><mo>)</mo></mrow><mo>&subseteq;</mo><mi>A</mi><mo>&#x2061;</mo><mrow><mo>(</mo><mi>s</mi><mo>)</mo></mrow></math>
+$$
+\Lambda(s) \subseteq A(s)
+$$
 
 The subset of admissible successors preserving ongoing coherent organization.
 
 
 ### Collapse
 
-<math><msub><mi>A</mi><msubsup><mi>t</mi><mi>c</mi><mo>+</mo></msubsup></msub><mo>&#x2061;</mo><mrow><mo>(</mo><mi>s</mi><mo>)</mo></mrow><mo>&subset;</mo><msub><mi>A</mi><msubsup><mi>t</mi><mi>c</mi><mo>-</mo></msubsup></msub><mo>&#x2061;</mo><mrow><mo>(</mo><mi>s</mi><mo>)</mo></mrow></math>
+$$
+A_{t_c^+}(s) \subset A_{t_c^-}(s)
+$$
 
 Atomic contraction of admissible continuation.
 
 
 ### Frontier stack
 
-```text
-participation
--> binding
--> soft bonding
--> curvature
--> collapse
--> welding
--> propagation
--> sedimentation
-```
+1. participation
+2. binding
+3. soft bonding
+4. curvature
+5. collapse
+6. welding
+7. propagation
+8. sedimentation
 
 The ordered resolution sequence through which admissible continuation becomes irreversible history.
 

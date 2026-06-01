@@ -2,9 +2,6 @@
 
 ## A Playing-Card Example of Slack, Saturation, and Regime Transition
 
-**Informational Experiential Realism (IER v10.10.7)**  
-*Tier 4 · Example · Illustrative · Non-Normative*
-
 ## Status, Scope, and Authority
 
 This example is illustrative and non-normative.

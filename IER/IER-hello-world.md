@@ -81,8 +81,7 @@ Formally (descriptively, not mathematically):
 
 ### Consequence
 
-No part of the system can “finish first.”
-Resolution is an all-or-nothing affair.
+No part of the system can “finish first.” Resolution is an all-or-nothing affair.
 
 ### Why this matters
 

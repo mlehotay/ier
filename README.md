@@ -3,10 +3,7 @@
 This repository contains the public source release of **Informational Experiential
 Realism (IER) v10.10.7**.
 
-IER is a physicalist identity framework for experience. It treats experience
-not as an emergent extra, representation, computation, signal, or report, but
-as identical to the operation of a physical system in a globally integrated,
-temporally extended, intrinsically constrained regime.
+IER is a physicalist identity framework for experience. It treats experience not as an emergent extra, representation, computation, signal, or report, but as identical to the operation of a physical system in a globally integrated, temporally extended, intrinsically constrained regime.
 
 
 ## What Is Included
@@ -63,8 +60,7 @@ Lehotay, Michael. Informational Experiential Realism. Version 10.10.7. 2026.
 
 ## License
 
-The text of this work is licensed under the Creative Commons
-Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+The text of this work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 See:
 

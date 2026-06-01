@@ -14,7 +14,7 @@ ier:
 
 ## *Learning, Plasticity, and Change Within Unified Experiential Fields*
 
-**Informational Experiential Realism (IER v10.x)**  
+**Informational Experiential Realism (IER v10.10.2)**\
 *Tier 2 · Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -44,7 +44,7 @@ If any interpretation in this document conflicts with the Spec, the Spec takes p
 
 ## Abstract
 
-Informational Experiential Realism (IER v10.x) holds that experience exists if and only if a physical system sustains a Unified Experiential Field (UEF): a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. Entry into such a regime is categorical, and experiential subjecthood is binary. At the same time, lived experience clearly changes over time through learning, development, trauma, and recovery.
+Informational Experiential Realism (IER v10.10.2) holds that experience exists if and only if a physical system sustains a Unified Experiential Field (UEF): a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. Entry into such a regime is categorical, and experiential subjecthood is binary. At the same time, lived experience clearly changes over time through learning, development, trauma, and recovery.
 
 This article explains how deep experiential change is possible without violating categorical onset, identity conditions, or the unity of experience. It distinguishes between (1) the persistence of a UEF as an experiential subject and (2) changes in the organization and participation of processes within that UEF. Under IER, learning and plasticity are understood as reorganizations of intrinsic constraint and dynamic recruitment or dismissal of participating processes, not as the creation of new subjects or partial experiential entities.
 

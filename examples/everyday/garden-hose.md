@@ -2,9 +2,6 @@
 
 ## Boundary Conditions and Flow Patterns
 
-**Informational Experiential Realism (IER v10.9.4)**  
-*Tier 4 · Orientation Chapter · Non-Normative · Explicitly Metaphorical*
-
 ## Status, Scope, and Authority
 
 This document is explicitly metaphorical.

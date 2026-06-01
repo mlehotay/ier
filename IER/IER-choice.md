@@ -21,8 +21,7 @@ ier:
 
 This document is NON-NORMATIVE.
 
-It provides an explanatory and structural account of *choice* under
-Informational Experiential Realism (IER v10.8.2).
+It provides an explanatory and structural account of *choice* under Informational Experiential Realism (IER v10.8.2).
 
 This document:
 
@@ -45,7 +44,7 @@ All uses of *information*, *informational structure*, *choice space*, *state*, *
 They refer exclusively to:
 
 > physically instantiated state distinctions that modulate a system’s own future dynamics under intrinsic constraint,
-> as defined in IER Specification II.A (Physical Information).
+> as defined in [*Physical Information*](IER-specification.md#physical-information-derived).
 
 No representational, semantic, deliberative, or epistemic notions are introduced.
 

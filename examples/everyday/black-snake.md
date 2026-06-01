@@ -2,9 +2,6 @@
 
 ## Trajectory Formation Under Constraint
 
-**Informational Experiential Realism (IER v10.10.7)**  
-*Tier 4 · Orientation Chapter · Non-Normative · Explicitly Metaphorical*
-
 ## Status, Scope, and Authority
 
 This document is explicitly metaphorical.

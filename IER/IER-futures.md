@@ -135,7 +135,7 @@ Once intrinsic constraint is globally binding:
 
 ### Multiplicity
 
-Multiplicity holds at ( s ) iff:
+Multiplicity holds at $s$ iff:
 
 $$
 |A_{\text{UEF}}(s)| > 1.
@@ -189,7 +189,7 @@ Failure is not slack.
 
 ### Successor Realization
 
-Lawful continuation from a boundary configuration \( s \) to a successor configuration \( s' \) occurs when:
+Lawful continuation from a boundary configuration $s$ to a successor configuration $s'$ occurs when:
 
 $$
 s' \in A_{\text{UEF}}(s).
@@ -283,12 +283,7 @@ Counterfactual discourse is historical reference, not current frontier structure
 
 ## Collapse and Domain Restriction
 
-Collapse operates exclusively over:
-
-Collapse:
 Collapse operates exclusively over $A_{\text{UEF}}(s)$.
-
-Collapse:
 
 * contracts admissibility
 * forecloses reachable raw successors

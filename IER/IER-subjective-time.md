@@ -103,17 +103,11 @@ All temporal phenomenology arises from:
 
 ### Future Openness
 
-At boundary configuration ( s ):
-
-```text
-A(s)
-```
-
-denotes admissible continuation.
+At boundary configuration $s$, $A(s)$ denotes admissible continuation.
 
 Future openness corresponds to:
 
-* multiplicity of ( A(s) )
+* multiplicity of $A(s)$
 * unresolved continuation
 * structural indeterminacy
 
@@ -128,9 +122,9 @@ It is:
 
 Collapse contracts admissibility:
 
-```text
-$A_{t^+}(s) \subset A_{t^-}(s)$
-```
+$$
+A_{t^+}(s) \subset A_{t^-}(s)
+$$
 
 This contraction is:
 
@@ -198,9 +192,9 @@ This produces:
 
 Discreteness arises only when:
 
-```text
-$A_{t^+}(s) \subset A_{t^-}(s)$
-```
+$$
+A_{t^+}(s) \subset A_{t^-}(s)
+$$
 
 That is:
 
@@ -286,9 +280,9 @@ Collapse alone does not produce temporal structure.
 
 The required sequence is:
 
-```text
-collapse -> welding -> propagation
-```
+1. collapse
+2. welding
+3. propagation
 
 
 ### Welding
@@ -574,7 +568,7 @@ Additionally:
 | duration           | registered deformation density       |
 | temporal hierarchy | nested envelopes                     |
 | past fixity        | welded deformation                   |
-| future openness    | admissible futures ( A(s) )          |
+| future openness    | admissible futures $A(s)$            |
 | flow appearance    | ordered collapse-indexed progression |
 
 

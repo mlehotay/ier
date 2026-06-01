@@ -140,8 +140,7 @@ Each resolution episode:
 
 This produces an asymmetry in the space of admissible futures.
 
-From the inside, this asymmetry appears as passage, flow, and “now moving on.”
-From the outside, it appears as irreversible physical evolution.
+From the inside, this asymmetry appears as passage, flow, and “now moving on.” From the outside, it appears as irreversible physical evolution.
 
 There is no privileged present — only ongoing traversal of constraint geometry under irreversible resolution.
 

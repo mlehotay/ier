@@ -18,9 +18,7 @@ It reinterprets a recent cortical timing study through the IER framework, arguin
 
 rather than representation of elapsed time by an internal clock.
 
-The accompanying [Neuroscience Primer](neuroscience-primer.md) is intended for
-readers familiar with IER but not with neuroscience terminology or cortical
-organization.
+The accompanying [Neuroscience Primer](neuroscience-primer.md) is intended for readers familiar with IER but not with neuroscience terminology or cortical organization.
 
 
 ## Scope
@@ -58,8 +56,7 @@ The duration reinterpretation depends on existing IER structural machinery devel
 
 For this reason, the repository includes a supporting subset of IER articles alongside this example set.
 
-These supporting documents remain in the source corpus and should be treated as
-the authoritative source locations.
+These supporting documents remain in the source corpus and should be treated as the authoritative source locations.
 
 
 ## Included Example Files

@@ -276,6 +276,6 @@ Under Informational Experiential Realism:
 
 ## Intermission — Negative Space Marker
 
-You can build the entire scaffold
-without crossing the line,
+You can build the entire scaffold\
+without crossing the line,\
 because the line is not made of scaffolding.

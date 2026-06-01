@@ -166,16 +166,14 @@ The specious present belongs to the final reversible region of frontier dynamics
 
 The relevant sequence is:
 
-```text
-participation
--> salience gradients
--> binding
--> soft bonding
--> curvature
--> collapse
--> welding
--> propagation
-```
+1. participation
+2. salience gradients
+3. binding
+4. soft bonding
+5. curvature
+6. collapse
+7. welding
+8. propagation
 
 The specious present concerns the region before collapse.
 
