@@ -6,11 +6,11 @@
 
 This example is illustrative and non-normative.
 
-It introduces no new IER primitives, criteria, diagnostics, thresholds, or authority. Its purpose is to provide an intuitive example of slack, saturation, constraint propagation, and regime reorganization using a simple social ranking system.
+It introduces no new IER primitives, criteria, diagnostics, thresholds, or authority. Its purpose is to provide an intuitive example of slack, saturation, constraint propagation, coherence, and regime reorganization using a simple social ranking system.
 
-The Lonely Hearts Runners are not a Unified Experiential Field (UEF), and this article is not about consciousness, intrinsic closure, ownership, collapse, or any other UEF-specific concepts. Instead, it examines a more general constrained system. The example shows how a system can initially absorb change locally, how increasing constraint causes consequences to propagate more broadly, how saturation occurs when the existing organizational rule can no longer preserve the distinctions it was designed to maintain, and how reorganization can create a new regime capable of absorbing further change. The goal is not to model UEF formation, but to build intuition for the structural concepts of slack and saturation that later appear elsewhere in the theory.
+The Lonely Hearts Runners are not a Unified Experiential Field (UEF), and this article is not about consciousness, intrinsic closure, ownership, collapse, or any other UEF-specific concepts. Instead, it examines a more general constrained system. The example shows how a system can absorb disturbance while slack remains available, how increasing coupling compresses slack, how saturation occurs when all available degrees of freedom within a regime have been exhausted, and how continued growth eventually forces a choice between reorganization and incoherence.
 
-The example concerns a fictional running club called the Lonely Hearts Runners.
+The goal is not to model UEF formation. The goal is to build intuition for the structural concepts of slack and saturation that appear throughout the theory.
 
 ## The Club Rule
 
@@ -28,31 +28,41 @@ At first, the system works smoothly.
 
 Each runner has a unique card. The ranking is easy to read. The club identity is coherent: everyone understands what the Hearts mean, and every singlet expresses both membership and rank.
 
-The card system is not merely decorative. It is a small structural regime for organizing rank, identity, and recognition.
+The card system is not merely decorative.
+
+It is a small organizational regime for maintaining distinctions.
 
 ## High Slack
 
 Suppose the club has only eight runners.
 
-There are still unused Hearts available. If a new runner joins, the system can absorb them. If someone improves, ranks can shift. If someone leaves, the remaining runners can move without breaking the symbolic scheme.
+There are still five unused Hearts.
 
-The system has slack because local changes can be handled without forcing a change in the whole organizing rule.
+If a new runner joins, they can be assigned a card.
 
-In IER terms, slack is the capacity of a system to absorb, localize, defer, or otherwise resolve constraint without requiring reorganization of the governing structure.
+If someone improves, ranks can shift.
 
-The unused Hearts are not themselves slack. They are evidence that local resolution pathways remain available within the existing ranking regime.
+If someone leaves, the structure can adjust.
 
-Slack concerns how constraint can be resolved, not how many future outcomes exist.
+The system has slack because local changes can be absorbed without forcing reorganization of the governing rule.
 
-The club can preserve coherence because it still has room to absorb change within the existing rule.
+In IER terms, slack concerns the local absorbability of constraint.
+
+The unused Hearts are not themselves slack.
+
+They are evidence that local resolution pathways remain available.
+
+The ranking system can still accommodate disturbance while preserving its existing structure.
 
 ## Slack Compression
 
 As the club grows, the unused Hearts disappear.
 
-With twelve runners, almost every rank is occupied. A new fast runner now creates more than a local adjustment. If someone enters near the top, everyone below may shift.
+With twelve runners, almost every position is occupied.
 
-A single change propagates through the ranking structure:
+A new fast runner now creates more than a local adjustment.
+
+If someone enters near the top, everyone below may shift:
 
 ```text
 new runner enters at third fastest
@@ -62,17 +72,21 @@ Ten of Hearts becomes Nine of Hearts
 ...
 ```
 
-The structure still works, but it has become tighter.
+The structure still works.
 
-The important change is not emotional or social discomfort. It is structural coupling. More identities now depend on each other. A local rank change has global consequences.
+The club remains coherent.
 
-The important change is not merely that fewer Heart cards remain available.
+Every card still maps uniquely to a runner.
 
-The important change is that fewer opportunities remain to resolve disturbance locally within the existing rule.
+But the system has become increasingly coupled.
 
-Constraint increasingly propagates through the entire ranking structure.
+Changes propagate farther.
 
-Slack has compressed.
+Disturbances affect more identities.
+
+The remaining slack is shrinking.
+
+Constraint is becoming increasingly difficult to absorb locally.
 
 ## Saturation
 
@@ -80,176 +94,241 @@ Now the thirteenth Heart is assigned.
 
 The Hearts suit is full.
 
-At this point, the original system reaches saturation. It can no longer represent another distinct runner using the same rule.
+At this point, the system reaches saturation.
 
-The problem is not that the club has become too large in an ordinary sense. The problem is that the original symbolic structure cannot continue preserving the distinctions it was designed to preserve.
+Every available position within the existing regime is occupied.
 
-The rule:
+Every runner still possesses a unique card.
+
+Every card still possesses a unique interpretation.
+
+Nothing has broken.
+
+The regime remains fully coherent.
+
+Saturation is not incoherence.
+
+Saturation is the final coherent state available within the existing organizational structure.
+
+The Hearts-only system has exhausted its slack.
+
+No further growth can be absorbed without changing something more fundamental.
+
+The regime still works.
+
+It simply has no remaining degrees of freedom.
+
+## The Fork Beyond Saturation
+
+Saturation does not immediately produce failure.
+
+Instead, it creates a fork.
+
+The next disturbance can no longer be absorbed within the existing rule.
+
+The system now faces two possibilities:
 
 ```text
-rank = position within Hearts
+        saturated regime
+               |
+   ┌───────────┴───────────┐
+   |                       |
+
+reorganization       incoherence
 ```
 
-has exhausted its available positions.
+One path preserves distinctions by changing the regime.
 
-At saturation, the Hearts-only regime has exhausted its slack.
+The other preserves the regime by sacrificing distinctions.
 
-The existing rule can no longer preserve the distinctions it was designed to preserve while continuing to absorb additional constraint locally.
+This distinction is critical.
 
-Any further growth now requires either coherence failure or reorganization.
+Saturation is not failure.
+
+It is the boundary at which further continuation requires a choice.
 
 ## Rank Conflict
 
-Without reorganization, the fourteenth runner creates a conflict.
+Suppose a fourteenth runner joins.
 
-Two runners cannot both be the same card if the card is supposed to encode unique rank. If two people both wear the Seven of Hearts, the singlet no longer uniquely identifies rank.
+If the club refuses to reorganize, a conflict appears.
 
-This is a coherence failure.
+Two runners cannot both be assigned the same card if the card is supposed to encode unique rank.
 
-The issue is not that members disagree about what the card means. The issue is that the symbolic system no longer globally constrains interpretation. The same symbol now points to more than one rank position.
+If two people both wear the Seven of Hearts, the singlet no longer uniquely identifies rank.
 
-The old regime can no longer maintain the club’s identity structure.
+This is not saturation.
+
+This is coherence failure.
+
+The issue is not disagreement.
+
+The issue is structural.
+
+The symbolic system no longer preserves the distinctions it was designed to maintain.
+
+The same symbol now points to multiple entities.
+
+The regime has become incoherent.
 
 ## Introducing a New Degree of Freedom
 
-To preserve coherence, the club introduces Diamonds.
+The club chooses the other branch.
 
-The fourteenth runner can now be assigned a Diamond card.
+Instead of sacrificing distinctions, it introduces Diamonds.
 
-This changes the structure of the system. The card no longer encodes rank by Hearts alone. Rank is now organized through both suit and rank.
+The fourteenth runner receives a Diamond card.
 
-Before saturation:
+The organizational rule changes.
+
+Before reorganization:
 
 ```text
 rank = position within Hearts
 ```
 
-After regime transition:
+After reorganization:
 
 ```text
 rank = suit + position
 ```
 
-This is not just adding another label. It introduces a new degree of freedom.
+The system has gained a new degree of freedom.
 
-The ranking space has changed.
+This is not merely adding more labels.
 
-This is not merely the addition of more card positions.
+It is changing the structure of the representational space itself.
 
-It is the introduction of a new organizational dimension.
-
-The structure of admissible distinctions has changed.
-
-The original Hearts-only regime reached saturation because it exhausted its available local resolution pathways.
-
-The Diamonds regime constitutes a new organizational regime with a new set of local resolution pathways.
+The club can once again maintain unique distinctions.
 
 ## Regime Transition
 
 The introduction of Diamonds marks a regime transition.
 
-The club does not preserve coherence by stretching the old rule indefinitely. It preserves coherence by reorganizing the space in which rank can be expressed.
+The club does not preserve coherence by stretching the old rule indefinitely.
 
-A one-dimensional symbolic system becomes a two-dimensional symbolic system:
+It preserves coherence by reorganizing the space in which distinctions are expressed.
+
+A one-dimensional ranking system becomes a two-dimensional ranking system:
 
 ```text
-old regime: one suit, ordered ranks
-new regime: multiple suits, ordered ranks within or across suits
+old regime:
+    suit position
+
+new regime:
+    suit + position
 ```
 
-The transition creates new admissible distinctions. It also creates new governance questions:
+The transition creates a new organizational structure.
 
+It also creates new governance questions:
+
+* Are Hearts ranked above Diamonds?
 * Does Ace of Diamonds come after Two of Hearts?
-* Are all Hearts ranked above all Diamonds?
-* Does each suit represent a division, cohort, or tier?
-* Can promotion move someone from Diamonds into Hearts?
+* Do suits represent divisions, cohorts, or tiers?
+* Can runners move between suits?
 
-A new regime solves the saturation problem, but it also requires new rules for coherence.
+The new regime solves the saturation problem.
 
-## Propagation After Transition
+But it must establish new rules to preserve coherence.
 
-The transition also changes how rank changes propagate.
+## Slack in the New Regime
 
-Under the Hearts-only regime, adding a faster runner near the top could force a long cascade through the entire club.
+The important point is not that the old regime regained slack.
 
-Under the multi-suit regime, the club may be able to localize some changes within a suit, division, or tier.
+It did not.
 
-For example:
+The Hearts-only regime remained saturated.
 
-```text
-Hearts = top thirteen runners
-Diamonds = next thirteen runners
-Clubs = next thirteen runners
-Spades = next thirteen runners
-```
+Instead, a new regime was created.
 
-Now a runner moving within Diamonds may not immediately disturb Hearts.
+That new regime possesses its own degrees of freedom.
 
-The significance is not merely that more positions now exist.
+Its own local resolution pathways.
 
-The significance is that the new regime possesses additional ways to absorb and organize change.
+Its own slack.
 
-The Hearts-only regime reached saturation and could not continue.
+This distinction matters.
 
-The introduction of suits creates a different regime that once again possesses slack.
+Slack belongs to a regime.
 
-## Coherence and Fragility
+When a regime saturates, its slack is exhausted.
 
-The example also shows that coherence and slack are not the same thing.
+Reorganization creates a different regime with different possibilities.
 
-A Hearts-only club may be highly coherent when small. Everyone understands the identity system. The branding is clean and memorable. But it becomes fragile as membership approaches the capacity of the suit.
+## Coherence and Slack
 
-A multi-suit club has more slack. It can handle more runners and more rank movement. But it may require more explicit governance to remain coherent.
+The example also illustrates that coherence and slack are different concepts.
 
-More slack can increase flexibility.
+A system may be:
 
-But more slack can also weaken the immediacy of the original identity structure.
+* coherent and high-slack
+* coherent and low-slack
+* coherent and saturated
 
-The Lonely Hearts Runners face a familiar structural tradeoff:
+The Hearts-only club at thirteen runners is coherent and saturated.
 
-```text
-tight coherence + low slack = elegant but fragile
-expanded slack + more degrees of freedom = robust but more complex
-```
+The Hearts-only club at eight runners is coherent and slack-rich.
+
+These are different structural states.
+
+Coherence concerns preservation of distinctions.
+
+Slack concerns the absorbability of constraint.
+
+They often interact.
+
+They are not identical.
 
 ## Everyday Compression
 
 The Lonely Hearts Runners illustrate several IER concepts in ordinary terms.
 
-| Club feature                                          | IER concept illustrated         |
-| ----------------------------------------------------- | ------------------------------- |
-| unused Hearts and available local resolution pathways | slack                           |
-| full Hearts suit                                      | saturation                      |
-| duplicate card conflict                               | coherence failure               |
-| rank reshuffling after a fast newcomer                | constraint propagation          |
-| adding Diamonds                                       | new degree of freedom           |
-| moving from Hearts-only to multi-suit ranking         | regime transition               |
-| new rules for interpreting suits                      | governance after reorganization |
+| Club Feature                      | IER Concept                         |
+| --------------------------------- | ----------------------------------- |
+| Unused Hearts                     | Available local resolution pathways |
+| Ability to absorb rank changes    | Slack                               |
+| Increasing propagation of changes | Slack compression                   |
+| Full Hearts suit                  | Saturation                          |
+| Duplicate card assignments        | Coherence failure                   |
+| Adding Diamonds                   | New degree of freedom               |
+| Hearts to Hearts + Diamonds       | Regime transition                   |
+| Suit-ordering questions           | Governance                          |
 
-The example is useful because nothing mystical is happening.
+Nothing mystical is happening.
 
-A small symbolic system is asked to preserve unique distinctions under increasing pressure. At first, it has spare capacity to absorb change within its existing rules. Then that capacity shrinks. Eventually it saturates. To avoid conflict, the system must reorganize.
+A simple symbolic system is attempting to preserve distinctions under increasing pressure.
 
-That is the structural lesson.
+At first, disturbance can be absorbed locally.
+
+As available degrees of freedom disappear, propagation increases.
+
+Eventually the regime saturates.
+
+At saturation, the system remains coherent but possesses no remaining slack.
+
+Further growth forces a choice between incoherence and reorganization.
 
 ## Final Compression
 
-The Lonely Hearts Runners begin with a coherent one-suit identity regime.
+The Lonely Hearts Runners begin with a coherent regime containing substantial slack.
 
-Growth consumes slack.
+Growth compresses that slack.
 
-Saturation exhausts the local resolution pathways available within the existing rule.
+At saturation, all available degrees of freedom within the regime have been exhausted.
 
-Introducing Diamonds creates a new organizational regime with a new set of available distinctions.
+The regime remains coherent.
 
-The club preserves coherence by transitioning into a new symbolic regime.
+The next increment creates a fork.
+
+Either distinctions are sacrificed and coherence fails, or the regime reorganizes and new degrees of freedom are introduced.
 
 In compressed form:
 
-> A system with slack can absorb disturbance within its existing organizational rules.
+> Slack is the capacity to absorb constraint within an existing regime.
 >
-> As slack disappears, local changes propagate more broadly through the structure.
+> Saturation is the exhaustion of that capacity.
 >
-> At saturation, the existing regime can no longer preserve the distinctions it was designed to maintain.
+> Saturation is not incoherence.
 >
-> Continued operation requires reorganization into a new regime with new local resolution pathways.
+> It is the final coherent state available before further growth requires either reorganization or failure.
