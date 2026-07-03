@@ -2,11 +2,11 @@
 ier:
   tier: T2
   role: PROJECTION
-  layer: projection
+  layer: framework
   domain:
-  - communication
-  - representation
-  category: historical_reconstruction
+  - projection
+  - institutions
+  category: comparative_boundary
   status: draft
   filename: IER-mcluhan.md
 ---
@@ -15,11 +15,11 @@ ier:
 
 ## Marshall McLuhan Reconstructed Through Informational Experiential Realism
 
-**Informational Experiential Realism (IER v10.10.7)**
+**Informational Experiential Realism (IER v10.10.7)**  
 *Projection Analysis | Non-Normative*
 
 
-## Status and Scope
+## Status, Scope, and Authority
 
 This document is explanatory and non-normative.
 
@@ -92,9 +92,9 @@ An organization is encoded into a representational form and later reconstructed.
 
 ```text
 organization
-      ↓
+      |
 representation
-      ↓
+      |
 reconstruction
 ```
 
@@ -195,9 +195,9 @@ They require reconstruction.
 
 ```text
 organization
-    ↓
+    |
 representation
-    ↓
+    |
 reconstruction
 ```
 
@@ -343,19 +343,19 @@ The progression is roughly:
 
 ```text
 representation
-        ↓
+        |
 representational ecology
-        ↓
+        |
 participation
-        ↓
+        |
 situations
-        ↓
+        |
 behavior
-        ↓
+        |
 social coordination
-        ↓
+        |
 culture
-        ↓
+        |
 institutions
 ```
 

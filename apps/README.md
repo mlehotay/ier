@@ -1,0 +1,83 @@
+# Applications
+
+Applying Informational Experiential Realism to External Domains
+
+## Purpose
+
+The `apps/` directory contains non-canonical applications of Informational Experiential Realism (IER).
+
+Applications explore how the theory may be used to interpret, analyze, or investigate external domains. They are intended to exercise the framework, generate new research questions, and demonstrate how IER can be applied beyond its core theoretical corpus.
+
+Applications are not part of the canonical IER ontology. They introduce no new theoretical commitments and possess no normative authority.
+
+Changes within an application do not modify the theory itself.
+
+
+## Relationship to the IER Corpus
+
+The repository is organized into distinct layers with different purposes.
+
+* `IER/` contains the canonical theory.
+* `examples/` contains short illustrative examples and intuition pumps.
+* `apps/` contains larger exploratory projects that apply IER to external domains.
+
+Applications may:
+
+* interpret existing scientific or historical frameworks,
+* explore toy models and simulations,
+* investigate potential research programs,
+* generate hypotheses for future work.
+
+Applications may evolve, be revised, or even be abandoned without affecting the canonical IER corpus.
+
+
+## Current Applications
+
+### `game-of-life/`
+
+Constraint Cartography in a Toy Universe
+
+This application explores Conway's Game of Life as a fully observable environment for investigating persistent organization, trajectory structure, and explainability.
+
+The project examines whether concepts developed within IER — such as constraint organization, frontier geometry, trajectory classes, and Constraint Cartography — can be explored within a simple deterministic cellular automaton.
+
+The Game of Life application combines:
+
+* executable software,
+* research notes,
+* design documents,
+* exploratory analyses,
+* and proposed research directions.
+
+Its purpose is not to validate IER, but to provide a simplified environment in which organizational ideas can be developed, visualized, and tested.
+
+
+### `abhidharma/`
+
+A Classical Phenomenological Taxonomy Through the Lens of IER
+
+This application explores the Abhidharma tradition as one of humanity's most extensive historical investigations of conscious experience.
+
+Rather than treating the Abhidharma primarily as a religious or metaphysical system, this application examines it as a large-scale phenomenological atlas describing recurring experiential structures, transitions, and patterns of conditioning.
+
+The project asks:
+
+> *How might an independently developed taxonomy of experience be interpreted through Informational Experiential Realism?*
+
+The emphasis is comparative rather than doctrinal.
+
+The application does not attempt to validate Buddhist doctrine or reinterpret Buddhism as IER. Instead, it investigates how a modern structural theory of experience relates to a rich historical corpus of phenomenological observation.
+
+
+## Future Applications
+
+The `apps/` architecture is intended to support additional exploratory projects as the theory develops.
+
+Future applications may investigate other scientific, computational, philosophical, or phenomenological domains while preserving a clear separation between exploratory work and the canonical IER corpus.
+
+
+## Guiding Principle
+
+Applications are places where Informational Experiential Realism is used, not where it is defined.
+
+They exist to explore the reach, usefulness, and explanatory power of the theory while preserving the stability and independence of the canonical IER framework.

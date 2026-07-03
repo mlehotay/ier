@@ -1,0 +1,19 @@
+# Build output
+gol
+*.o
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage / profiling (future-proofing)
+*.gcda
+*.gcno
+*.prof
+*.out
+
+# Core dumps
+core

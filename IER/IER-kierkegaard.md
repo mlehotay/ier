@@ -2,11 +2,11 @@
 ier:
   tier: T2
   role: PROJECTION
-  layer: projection
+  layer: framework
   domain:
-  - philosophy
-  - psychology
-  category: historical_reconstruction
+  - phenomenology
+  - cognition
+  category: comparative_boundary
   status: draft
   filename: IER-kierkegaard.md
 ---
@@ -15,11 +15,11 @@ ier:
 
 ## A Structural Reconstruction of Existential Selfhood
 
-**Informational Experiential Realism (IER v10.10.7)**
+**Informational Experiential Realism (IER v10.10.7)**  
 *T2 | Comparative / Translation Article | Canon-Constrained | Non-Normative*
 
 
-## Status, Scope, and Authority Firewall
+## Status, Scope, and Authority
 
 This document is explanatory and non-normative.
 
