@@ -119,13 +119,9 @@ Information is the exclusion of continuations that would otherwise remain admiss
 
 The dependency relation is therefore:
 
-```
-
-constraint $\to$ admissible continuation
-organization under constraint $\to$ exclusion
-information $\to$ structured exclusion
-
-```
+$\text{constraint} \to \text{admissible continuation}$<br>
+$\text{organization under constraint} \to \text{exclusion}$<br>
+$\text{information} \to \text{structured exclusion}$
 
 Constraint defines the space of possible continuation.
 
@@ -225,19 +221,15 @@ Criticality occurs when small perturbations can produce large changes in admissi
 
 In ordinary regimes:
 
-```
-
-small perturbation $\to$ small change in $A(s)$
-
-```
+$$
+\text{small perturbation} \to \text{small change in } A(s)
+$$
 
 In critical regimes:
 
-```
-
-small perturbation $\to$ large change in $A(s)$
-
-```
+$$
+\text{small perturbation} \to \text{large change in } A(s)
+$$
 
 Because information corresponds to excluded continuation, critical regimes may produce large informational consequences from small perturbations.
 
@@ -335,16 +327,11 @@ Nothing more.
 
 The dependency structure is:
 
-```
-
-constraint
-$\to$ admissible continuation
-$\to$ organization under constraint
-$\to$ exclusion of continuation
-$\to$ information
-$\to$ irreversible collapse and sedimentation
-
-```
+$\text{constraint} \to \text{admissible continuation}$<br>
+$\to \text{organization under constraint}$<br>
+$\to \text{exclusion of continuation}$<br>
+$\to \text{information}$<br>
+$\to \text{irreversible collapse and sedimentation}$
 
 Information is therefore:
 
