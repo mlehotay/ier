@@ -721,12 +721,12 @@ The application should behave like a small but proper command-line tool.
 
 ### Likely option set
 
-* `--width N`
-* `--height N`
-* `--delay MS`
-* `--seed N`
-* `--pattern NAME`
-* `--load FILE`
+* `--width` N
+* `--height` N
+* `--delay` MS
+* `--seed` N
+* `--pattern` NAME
+* `--load` FILE
 * `--bounded`
 * `--toroidal`
 

@@ -312,7 +312,7 @@ This example instantiates:
 
 ## Mapping
 
-| Example Object | Canonical Analogue |
+| Example Object | Canonical Analog |
 |----------------|-------------------|
 | \( A_\Sigma(s,t) \) | \( A(s) \) |
 | Non-factorability | Lack of admissibility decomposition |
