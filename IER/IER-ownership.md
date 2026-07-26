@@ -4,7 +4,7 @@ ier:
   role: PROJECTION
   layer: hexad
   domain:
- — agency_and_action
+  - agency_and_action
   category: agency_I
   status: canonical
   filename: IER-ownership.md

@@ -331,7 +331,7 @@ Expressions such as:
 
 track coherent continuation under stabilized constraint.
 
-Under destabilization, narrowing becomes extreme and participation grows increasingly disorganized. Constraint centering fragments, topology reproduction degrades, and viable continuation becomes unstable.
+Under destabilization, narrowing becomes extreme; participation grows increasingly disorganized. Constraint centering fragments, topology reproduction degrades, and viable continuation becomes unstable.
 
 Expressions such as:
 

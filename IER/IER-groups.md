@@ -4,7 +4,7 @@ ier:
   role: CASE
   layer: framework
   domain:
- — relationships
+  - relationships
   category: relational_regimes
   status: canonical
   filename: IER-groups.md

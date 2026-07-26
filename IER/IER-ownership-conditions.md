@@ -4,7 +4,7 @@ ier:
   role: BRIDGE
   layer: pipeline
   domain:
- — agency_and_action
+  - agency_and_action
   category: agency_II
   status: canonical
   filename: IER-ownership-conditions.md

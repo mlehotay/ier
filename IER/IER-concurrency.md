@@ -4,7 +4,7 @@ ier:
   role: ELABORATION
   layer: triangle
   domain:
- — cognition
+  - cognition
   category: cognition_II
   status: canonical
   filename: IER-concurrency.md

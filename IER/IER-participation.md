@@ -4,7 +4,7 @@ ier:
   role: ELABORATION
   layer: triangle
   domain:
- — cognition
+  - cognition
   category: cognition_I
   status: canonical
   filename: IER-participation.md

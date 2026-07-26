@@ -4,7 +4,7 @@ ier:
   role: FOUNDATION
   layer: future_cone
   domain:
- — frontier_mechanics
+  - frontier_mechanics
   category: structural_history_I
   status: canonical
   filename: IER-history-future-boundary.md

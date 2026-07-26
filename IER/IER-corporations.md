@@ -4,7 +4,7 @@ ier:
   role: CASE
   layer: framework
   domain:
- — institutions
+  - institutions
   category: institutional_systems
   status: canonical
   filename: IER-corporations.md
