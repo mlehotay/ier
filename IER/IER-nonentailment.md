@@ -11,14 +11,14 @@ ier:
   - guardrails_and_orientation
   category: comparative_boundary
   filename: IER-nonentailment.md
-  version: 10.10.7
+  version: 10.11.1
 ---
 
 # Non-Entailment
 
 ## Why Experience Does Not Imply What Intuition Demands
 
-**Informational Experiential Realism (IER v10.10.7)**  
+**Informational Experiential Realism (IER v10.11.1)**
 *Tier 3 · Misuse-Blocking / Epistemic Boundary · Canon-Binding (Negative)*  
 
 ## Status, Scope, and Authority
@@ -66,7 +66,7 @@ Experience alone does not entail:
 - evolutionary purpose
 - social distribution
 - intelligence
-- agency
+- effective or functional agency
 - moral certainty
 
 These non-entailments are not externally imposed limitations. They follow directly from the structure of the IER identity claim itself.
@@ -159,20 +159,22 @@ Evolution may shape architectures that sometimes instantiate UEFs, but the insta
 
 ## Experience Does Not Entail Life, Intelligence, or Agency
 
-IER blocks the inference chain:
+IER blocks the inference chain from experience to effective or functional
+agency:
 
-> experience $\to$ life $\to$ intelligence $\to$ agency
+> experience $\to$ life $\to$ intelligence $\to$ effective agency
 
 Experience may exist:
 
 - without life
 - without intelligence
 - without reportability
-- without agency
-- without control
+- without effective or deliberative agency
+- without functional control
 - without functional advantage
 
-Conversely, life, intelligence, and agency may occur without experience.
+Conversely, life, intelligence, and functional control may occur without
+experience.
 
 Any framework that treats these properties as mutually entailing reintroduces functional or representational criteria into the IER identity claim.
 

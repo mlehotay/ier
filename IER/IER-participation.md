@@ -13,7 +13,7 @@ ier:
 
 ## Participation, Reproduction, and the Shape of Thought
 
-**Informational Experiential Realism (IER v10.8.x)**\
+**Informational Experiential Realism (IER v10.11.0)**\
 *Explanatory Article — Non-Normative*
 
 ## Status, Scope, and Authority

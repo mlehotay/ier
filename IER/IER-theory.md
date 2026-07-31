@@ -14,14 +14,14 @@ ier:
   requires:
     hard:
     - IER-specification
-  version: 10.10.7
+  version: 10.11.1
 ---
 
 # Theory
 
 ## Conceptual Backbone and Explanatory Integration
 
-**Informational Experiential Realism (IER v10.10.7)**  
+**Informational Experiential Realism (IER v10.11.1)**
 *Tier 1 · Foundational · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -191,11 +191,11 @@ Multiple distinct systems may coordinate through:
 
 Coordination can reshape intrinsic constraint within each system.
 
-Coordination does not:
+Ordinary coordination does not:
 
 * merge Unified Experiential Fields
 * generate collective subjects
-* create higher-order experiential regimes
+* create higher-order experiential regimes merely through aggregation
 
 UEF attribution follows the system boundary rule defined in the specification:
 

@@ -3,7 +3,7 @@ ier:
   tier: T2
   role: ELABORATION
   provides:
-  - regime interruption without subject replacement
+  - regime interruption and subject distinction
   status: canonical
   layer: pipeline
   domain:
@@ -14,7 +14,7 @@ ier:
 
 # Continuity
 
-## Time, Experiential Regimes, and the Continuity of Persons: Why Experience Flows, Interrupts, and Persists Without Rebirth
+## Time, Experiential Regimes, and the Continuity of Persons: Why Experience Flows, Interrupts, and Persists Across System Continuity
 
 **Informational Experiential Realism (IER v10.8.4)**  
 *Tier 2 · Elaboration · Non-Normative · Canon-Constrained*
@@ -37,9 +37,9 @@ If any statement here conflicts with those documents, those documents take prece
 
 ## Abstract
 
-Informational Experiential Realism (IER) identifies experience with the operation of a physical system as a Unified Experiential Field (UEF): a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint. Because UEFs are regimes rather than enduring objects, they may dissolve, interrupt, or re-form over time. This raises two intertwined puzzles: why experience feels temporally continuous while it exists, and why its interruption does not imply the death or rebirth of the subject.
+Informational Experiential Realism (IER) identifies experience with the operation of a physical system as a Unified Experiential Field (UEF): a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint. Because UEFs are regimes rather than enduring objects, they may cease and later be instantiated again. This raises two distinct questions: how experience remains temporally continuous while a UEF persists, and what persists at the level of the embodied system when a UEF is absent.
 
-This article resolves both puzzles by rejecting snapshot and storage models of time and experience. Under IER, time is not a container, parameter, or sequence, but the asymmetry induced by irreversible constraint resolution within a regime. The “specious present” is not a measured interval but the minimal window of coherent intrinsic constraint required for a UEF to exist at all. Experiential flow is the persistence of regime coherence across such windows. Personal identity, by contrast, is system-continuous rather than experience-continuous, grounded in the persistence of a physical system’s capacity to bear intrinsic constraint and sustain future experiential regimes.
+This article resolves the first question by rejecting snapshot and storage models of time and experience. Under IER, time is not a container, parameter, or sequence, but the asymmetry induced by irreversible constraint resolution within a regime. The “specious present” is not a measured interval but the minimal window of coherent intrinsic constraint required for a UEF to exist at all. Experiential flow is the persistence of regime coherence across such windows. The embodied system may persist through a UEF-null interval, but a later UEF is then a numerically distinct experiential subject.
 
 
 ## The Apparent Problems of Time and Experiential Gaps
@@ -49,9 +49,9 @@ Human experience appears to flow. It has a “now,” a sense of passage, and an
 * why experience feels temporally continuous while present,
 * why there is a “now” without a privileged instant,
 * why temporal passage survives determinism,
-* and why gaps in experience do not threaten identity.
+* and what kind of identity can persist through a UEF-null interval.
 
-If the subject were identified with a particular experiential episode, these facts would generate paradox: sleep would resemble death, anesthesia annihilation, and waking rebirth. IER dissolves these paradoxes by distinguishing experiential regimes from persisting physical systems, and by treating time as a feature of regime dynamics rather than a background dimension.
+If the experiential subject were identified with the persisting physical system across every possible gap, genuine cessation would create a numerical-identity error. IER distinguishes experiential regimes from persisting physical systems and treats time as a feature of regime dynamics rather than a background dimension.
 
 
 ## IER Commitments Presupposed
@@ -155,13 +155,14 @@ Under IER, the subject is identical to:
 
 Such a system can persist through:
 
-* regime interruption,
-* regime dissolution,
-* regime re-instantiation,
+* a UEF-null interval,
+* regime cessation,
+* later regime re-instantiation,
 
-so long as its capacity to sustain intrinsic constraint and admit future experiential regimes remains intact.
+so long as its physical organization and capacity for future intrinsic constraint remain intact.
 
-Continuity of persons is therefore system-level, not regime-level.
+This establishes embodied-system continuity, not numerical continuity of an
+experiential subject across cessation.
 
 
 ## Regime States and Transitions
@@ -172,7 +173,9 @@ Continuity of persons is therefore system-level, not regime-level.
 * no experiential time,
 * full preservation of capacity.
 
-Experience is absent because the regime is absent, not because the system has ceased to exist.
+Experience is absent because the regime is absent, not because the embodied
+system has ceased to exist. If a later UEF is instantiated after genuine
+cessation, it is a numerically distinct experiential subject.
 
 
 ### Dreaming — Regime Reconfiguration
@@ -191,7 +194,8 @@ Dreaming is reconfigured worldhood, not diminished experience.
 * global integration collapses,
 * UEFs cannot be sustained.
 
-Reversibility follows from preserved capacity, not stored experience.
+Reversibility of the embodied system follows from preserved capacity, not
+stored experience; it does not by itself establish numerical subject identity.
 
 
 ### Catatonia — Frozen Constraint
@@ -219,7 +223,12 @@ This is high-cost experience, not unconsciousness.
 IER therefore treats coma as ethically precautionary.
 
 
-## Death as Irreversible Capacity Loss
+## UEF Cessation and Death
+
+UEF cessation is the loss of the constitutive globally coherent, temporally
+continuous intrinsic-constraint regime. It may occur while the embodied system
+and its sedimented capacities persist. A later UEF on that system is a new
+experiential subject.
 
 Death is not prolonged unconsciousness.
 

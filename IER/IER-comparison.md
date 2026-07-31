@@ -8,14 +8,14 @@ ier:
   category: comparative_boundary
   status: canonical
   filename: IER-comparison.md
-  version: v10.10.7
+  version: v10.11.1
 ---
 
 # Comparative Rubric
 
 ## Rubric-Aligned Comparison of Theories of Experience
 
-**Informational Experiential Realism (IER v10.10.7)**  
+**Informational Experiential Realism (IER v10.11.1)**
 *Tier-3 · Comparative Boundary Clarification · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -66,9 +66,9 @@ specification and canon-binding derivatives.
 | Explanandum | Explicit: Experience itself, including its unity, qualitative differentiation, temporality, and subject-relative presence — not access, report, cognition, or behavior. |
 | Constitutive / explanatory claim | Entailed: Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF): a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. Identity, rather than causal production or correlation, is the explanatory form. |
 | Unity | Entailed: Unity is regime-level and categorical. A UEF is one experiential field; participating processes do not become subsidiary subjects. |
-| Subject individuation | Entailed: Each UEF constitutes one experiential subject. Subjecthood is not graded, nested, aggregated, or multiplied by representational or cognitive subsystems. |
+| Subject individuation | Entailed conditionally: If a UEF is instantiated, it constitutes one experiential subject. Subjecthood is categorical within that regime, while nesting, overlap, and the attribution of concrete boundaries remain open unless structurally excluded. |
 | Qualitative character | Explicit: Qualitative differences are differences in the UEF's organized intrinsic constraint and participation structure. Qualia are not additional primitive properties. |
-| Temporal commitments | Explicit: A UEF is temporally extended. Experiential persistence is regime-bound; personal identity is system-bound. Temporary experiential interruption therefore does not by itself imply personal death or rebirth. |
+| Temporal commitments | Explicit: A UEF is temporally extended. Embodied-system persistence and numerical experiential identity are distinct: temporary interruption does not by itself establish cessation, but a later UEF after genuine cessation is numerically distinct. |
 | Epistemic commitments | Entailed: Experience has no intrinsic authority concerning truth, reference, external reality, or its own ontology. Felt certainty and meaning are organizational facts, not epistemic guarantees. |
 | Empirical operationalization | Explicit refusal: No behavioral, architectural, computational, or neural proxy is licensed by IER as a criterion or measurement of experiential presence. Ordinary empirical inquiry into physical organization remains possible. |
 | Third-person attribution | Explicit refusal: IER supplies no certification or inference rule for determining that a particular system is experiential. Structural resemblance is not diagnostic authority. |

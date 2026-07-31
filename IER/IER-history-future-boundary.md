@@ -14,7 +14,7 @@ ier:
 
 ## The Structural Frontier Where Constraint Operates
 
-**Informational Experiential Realism (IER v10.10.1)**\
+**Informational Experiential Realism (IER v10.11.0)**\
 *Explanatory — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority

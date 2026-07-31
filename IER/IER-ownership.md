@@ -13,7 +13,7 @@ ier:
 
 ## Ownership, Mineness, and Self-Boundary Under Informational Experiential Realism
 
-**Informational Experiential Realism (IER v10.8)**\
+**Informational Experiential Realism (IER v10.11.0)**\
 *Projection — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority

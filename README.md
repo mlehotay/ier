@@ -117,7 +117,7 @@ Lehotay, Michael.
 
 Informational Experiential Realism (IER).
 
-Version 10.10.7.
+Version 10.11.1.
 ```
 
 

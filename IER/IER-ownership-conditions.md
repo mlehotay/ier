@@ -13,7 +13,7 @@ ier:
 
 ## Structural Authorship and Deformation Lineage in Frontier Geometry
 
-**Informational Experiential Realism (IER v10.9.5)**\
+**Informational Experiential Realism (IER v10.11.0)**\
 *Tier-2 — Explanatory — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority

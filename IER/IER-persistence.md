@@ -52,6 +52,11 @@ The article clarifies which forms of change are compatible with UEF persistence 
 
 This document introduces no new primitives and makes no claims beyond those implied by intrinsic constraint, experiential participation, and temporal continuity. Its purpose is to complete the diachronic account of experience under IER without expanding its normative core.
 
+Where a UEF remains continuously coherent, the same experiential subject
+persists through changes in participation and content. If the UEF ceases and a
+later UEF is instantiated, the embodied system may persist but the later UEF is
+a numerically distinct experiential subject.
+
 
 ## The Apparent Tension: Persistence vs Change
 

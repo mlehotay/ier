@@ -11,7 +11,7 @@ ier:
 ---
 # Co-Presence Without Parallelism
 
-**Informational Experiential Realism (IER v10.10.7)**\
+**Informational Experiential Realism (IER v10.11.0)**\
 *Elaboration — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority

@@ -2,7 +2,7 @@
 
 ## Global Extendability in Non-Product Admissible-Future Structures
 
-**Informational Experiential Realism (IER v10.10.7)**\
+**Informational Experiential Realism (IER v10.11.0)**\
 *T2 — Structural Clarification — Canon-Constrained — Non-Normative*
 
 ## Status, Scope, and Authority

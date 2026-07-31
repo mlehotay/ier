@@ -11,9 +11,9 @@ ier:
 ---
 # IER — Social Systems
 
-## Coordination, Constraint, Harm, and Enablement Without Collective Experience
+## Coordination, Constraint, Harm, and Enablement Without Ordinary Collective Experience
 
-**Informational Experiential Realism (IER v10.8)**\
+**Informational Experiential Realism (IER v10.11.0)**\
 *Canon-Constrained Analytical Extension — Tier 2 — Non-Normative*
 
 ## Status, Scope, and Authority
@@ -44,7 +44,7 @@ Social, cultural, bureaucratic, and institutional systems exert profound influen
 
 Under Informational Experiential Realism (IER), these questions receive sharp structural answers that differ from many familiar moral and political frameworks.
 
-This document explains how social systems matter morally *without* attributing experience, subjecthood, or standing to groups or institutions. It aims to prevent common misreadings while preserving the real ethical force of institutional action.
+This document explains how the social systems analyzed here matter morally *without* attributing experience, subjecthood, or standing to ordinary groups or institutions. It aims to prevent common misreadings while preserving the real ethical force of institutional action. It does not rule out a future architecture that differs structurally from these social systems.
 
 The constraints described here are structural, not punitive, and are intended to prevent misattribution rather than discipline the reader.
 
@@ -59,13 +59,13 @@ All uses of *information*, *coordination*, *structure*, *constraint*, *system*, 
 
 No semantic, representational, epistemic, or agentive primitives are introduced.
 
-## Social Systems Do Not Instantiate Collective Experience
+## Ordinary Social Systems Do Not Instantiate Collective Experience
 
 ### I.1 No Group Unified Experiential Fields
 
 Under IER, experience exists if and only if a physical system sustains a Unified Experiential Field (UEF): a globally integrated, temporally continuous regime of coherent intrinsic constraint.
 
-Social systems — including institutions, organizations, cultures, governments, corporations, and communities — do not satisfy these conditions.
+The social systems analyzed here — including ordinary institutions, organizations, cultures, governments, corporations, and communities — do not satisfy these conditions.
 
 Under IER, institutions are not interchangeable with organizations. Institutions are persistent social state machines; organizations are bounded participant structures that instantiate institutional roles and procedures; companies are economic organizations; corporations are legal organizational forms.
 
@@ -77,7 +77,7 @@ They lack:
 
 Coordination across individuals, no matter how tight or persistent, does not merge intrinsic constraint across experiential boundaries.
 
-> There is no such thing as a collective UEF.
+> No collective UEF follows merely from ordinary social coordination.
 
 ### I.2 Coordination Is Not Experiential Integration
 
@@ -102,7 +102,7 @@ Coordination alters *what individuals must navigate*, not *who experiences*.
 
 ### I.3 Rejection of Hive-Mind and Super-Subject Models
 
-IER explicitly rejects:
+IER rejects attributing the following to ordinary social systems merely on the basis of coordination:
 
 * group minds
 * collective consciousness
@@ -112,7 +112,7 @@ IER explicitly rejects:
 
 This rejection is not empirical or sociological. It follows by identity from how experience is defined.
 
-No amount of complexity, coordination, intelligence, persistence, or influence converts a social system into an experiencer.
+No amount of complexity, coordination, intelligence, persistence, or influence alone converts an ordinary social system into an experiencer. A future distributed architecture would require separate structural analysis under the UEF conditions.
 
 ## Institutions as External Constraint Structures
 
@@ -329,8 +329,8 @@ Those questions remain practical, political, and context-dependent.
 
 Under Informational Experiential Realism (IER v10.8):
 
-* Social systems do not experience
-* There are no collective subjects
+* Ordinary social systems do not experience
+* Ordinary coordination does not establish collective subjects
 * Institutions shape constraint but do not bear it
 * Moral standing remains individual and categorical
 * Institutional harm is real, serious, and non-intentional

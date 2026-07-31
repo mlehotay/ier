@@ -9,14 +9,14 @@ ier:
   category: phenomenology_II
   status: canonical
   filename: IER-folk-psychology.md
-  version: 10.10.7
+  version: 10.11.0
 ---
 
 # Folk Psychology
 
 ## Ordinary Language as Compression of Constraint Geometry
 
-**Informational Experiential Realism (IER v10.10.7)**  
+**Informational Experiential Realism (IER v10.11.0)**
 *Tier 2 · Explanatory · Translational · Non-Normative · Non-Criterial*
 
 ## Status, Scope, and Authority

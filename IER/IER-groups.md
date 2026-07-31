@@ -13,7 +13,7 @@ ier:
 
 ## Groups as Coordination Without Subjecthood Under Informational Experiential Realism
 
-**Informational Experiential Realism (IER v10.10.7)**\
+**Informational Experiential Realism (IER v10.11.1)**\
 *Case Analysis — Tier 2 — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -46,10 +46,10 @@ All analysis in this document presupposes:
 * No fusion — UEFs do not merge
 * No shared intrinsic constraint
 * No transfer of experiential standing
-* No collective experiencer
+* No collective experiencer within the group regime defined here
 
-Groups coordinate subjects.
-They never become subjects.
+Groups as defined here coordinate subjects; they do not become subjects merely
+through coordination.
 
 ## Regime Identification
 
@@ -65,7 +65,8 @@ They represent cases in which:
 * persistence is structural, not experiential
 * salience may be high without subjecthood
 
-Groups are the canonical case that explains why coordination never aggregates into experience.
+Groups are the canonical case that explains why ordinary role- and norm-based
+coordination does not aggregate into experience.
 
 ### Canonical One-Sentence Definition
 
@@ -147,7 +148,9 @@ Groups are not:
 * minds above minds
 * bearers of standing independent of members
 
-No increase in size, complexity, or coordination density converts a group into a subject.
+No increase in size, complexity, or coordination density alone converts a group
+into a subject. A structurally different future architecture would require
+separate analysis.
 
 ## Parasocial and Celebrity Cases (Option A Inclusion)
 
@@ -268,4 +271,4 @@ They are:
 Groups act.
 Subjects experience.
 
-> No amount of coordination turns action into experience.
+> No amount of ordinary coordination alone turns action into experience.

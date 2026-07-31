@@ -12,14 +12,14 @@ ier:
   - dominance and attractor framing
   status: canonical
   filename: IER-dynamics.md
-  version: 10.10.7
+  version: 10.11.1
 ---
 
 # Dynamics
 
 ## Dynamics of Experiential Systems
 
-**Informational Experiential Realism (IER v10.10.7)**  
+**Informational Experiential Realism (IER v10.11.1)**
 *Tier 1 · Foundational · Canon-Constrained · Non-Normative*
 
 ## Global Informational Language Disclaimer
@@ -53,7 +53,7 @@ The purpose of this document is to explain:
 
 * how globally integrated experiential regimes behave once they exist
 * how stability is maintained under intrinsic constraint
-* how experiential content changes without subject replacement
+* how experiential content changes without subject replacement while UEF coherence persists
 * how instability, overload, and collapse arise without redefining experience
 * why system boundaries and dominance are dynamical facts, not observer conventions
 
@@ -307,7 +307,7 @@ The experiential subject remains.
 * content arises from participation modulation
 * dominance remains global and singular
 * attention is not subject creation
-* experience changes without subject replacement
+* experience changes without subject replacement while UEF coherence persists
 
 ## Energetic and Organizational Cost Landscapes
 
@@ -367,7 +367,9 @@ But:
 * $\text{synchronization} \neq \text{shared attractor}$
 * $\text{coupling} \neq \text{collective subject}$
 
-IER rejects group minds and collective experiential fields.
+IER rejects attributing group minds or collective experiential fields to
+ordinary coordination alone. A distributed architecture with globally unified
+intrinsic constraint would require separate analysis.
 
 ## Relation to Ethics (Pointer Only)
 
@@ -397,6 +399,6 @@ Under IER v10.10.7:
 * dominance is an attractor-level fact
 * participation modulates content, not identity
 * failure alters dynamics, not ontology
-* coordination does not create collective experience
+* ordinary coordination does not create collective experience
 
 All normative authority remains with the specification.
