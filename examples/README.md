@@ -8,7 +8,7 @@ The `examples/` directory contains short, self-contained examples that illustrat
 
 Unlike the canonical documents in `IER/`, examples are intended to build intuition rather than introduce theory.
 
-Unlike the larger projects in `apps/`, examples focus on a single concept, phenomenon, or everyday situation.
+Unlike the larger projects in `apps/`, examples focus on a single concept, phenomenon, or worked case.
 
 Examples introduce no new theoretical commitments and possess no normative authority. Their purpose is explanatory only.
 
@@ -26,11 +26,11 @@ Examples help bridge the gap between abstract theoretical concepts and familiar 
 
 ## Current Examples
 
-### `duration/`
+### `collections/`
 
 Understanding Time Through Experience
 
-The duration examples illustrate one of IER's central ideas:
+Thematic example sets such as `collections/duration/` illustrate one of IER's central ideas:
 
 > Duration is an organizational property of experience rather than a measurement supplied by an external clock.
 
@@ -42,22 +42,22 @@ Current documents include:
 * neuroscience-primer — background material connecting temporal experience with contemporary neuroscience.
 
 
-### `everyday/`
+### `cases/` and `analogies/`
 
 Ordinary Experiences Viewed Through IER
 
-The everyday examples demonstrate how familiar situations can illuminate structural concepts developed within IER.
+Cases and analogies demonstrate how familiar situations and physical systems can illuminate structural concepts developed within IER.
 
 Rather than presenting abstract definitions, each example begins with an ordinary experience and examines the underlying organizational principles involved.
 
-Current examples include:
+Current analogies include:
 
 * black-snake — rapid interpretation, expectation, and experiential organization under uncertainty.
 * drum-and-string — physical interaction and emergent organizational constraint.
 * garden-hose — continuity, propagation, and constraint through an intuitive physical system.
 * lonely-hearts-runners — coordination, participation, and shared experiential organization.
 
-These examples are intended as intuition pumps rather than formal arguments.
+These examples are intended as intuition pumps rather than formal arguments. Larger bundled examples live under `projects/`, while fiction and poetry live under `cultural-forms/`.
 
 
 ## Design Philosophy

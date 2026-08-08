@@ -68,16 +68,17 @@ Introduces IER's account of temporal experience through a focused set of explana
 
 See:
 
-* [Duration README](examples/duration/README.md)
+* [Duration README](examples/collections/duration/README.md)
 
 
-### Everyday Examples
+### Analogy Examples
 
-Short illustrations showing how ordinary experiences can be interpreted using IER.
+Short illustrations showing how familiar physical systems and toy organizations
+can make IER concepts intuitive.
 
 See:
 
-* [Everyday Examples](examples/README.md)
+* [Analogy Examples](examples/analogies/README.md)
 
 
 ## Applications

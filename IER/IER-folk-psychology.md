@@ -16,7 +16,7 @@ ier:
 
 ## Ordinary Language as Compression of Constraint Geometry
 
-**Informational Experiential Realism (IER v10.11.0)**
+**Informational Experiential Realism (IER v10.11.0)**  
 *Tier 2 · Explanatory · Translational · Non-Normative · Non-Criterial*
 
 ## Status, Scope, and Authority

@@ -19,7 +19,7 @@ ier:
 
 ## Dynamics of Experiential Systems
 
-**Informational Experiential Realism (IER v10.11.1)**
+**Informational Experiential Realism (IER v10.11.1)**  
 *Tier 1 · Foundational · Canon-Constrained · Non-Normative*
 
 ## Global Informational Language Disclaimer

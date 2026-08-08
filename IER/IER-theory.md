@@ -21,7 +21,7 @@ ier:
 
 ## Conceptual Backbone and Explanatory Integration
 
-**Informational Experiential Realism (IER v10.11.1)**
+**Informational Experiential Realism (IER v10.11.1)**  
 *Tier 1 · Foundational · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority

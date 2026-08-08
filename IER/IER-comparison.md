@@ -15,7 +15,7 @@ ier:
 
 ## Rubric-Aligned Comparison of Theories of Experience
 
-**Informational Experiential Realism (IER v10.11.1)**
+**Informational Experiential Realism (IER v10.11.1)**  
 *Tier-3 · Comparative Boundary Clarification · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
