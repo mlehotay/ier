@@ -137,8 +137,8 @@ not as substitute neuroscience terminology. Its principal dependencies are:
 | Topic | IER documents |
 | --- | --- |
 | Temporal phenomenology | [Duration](../../../IER/IER-duration.md), [Subjective Time](../../../IER/IER-subjective-time.md), [Specious Present](../../../IER/IER-specious-present.md) |
-| Event organization | [Event Segmentation](../../../IER/IER-event-segmentation.md), [Event Structure](../../../IER/IER-event-structure.md), [Integration Envelopes](../../../IER/IER-integration-envelopes.md) |
-| Structural interpretation | [Coordinate Systems](../../../IER/IER-coordinate-systems.md), [Representation](../../../IER/IER-representation.md), [Situations](../../../IER/IER-situations.md), [Futures](../../../IER/IER-futures.md) |
+| Event organization | [Event Segmentation](../../../IER/IER-event-segmentation.md), Event Structure, Integration Envelopes |
+| Structural interpretation | Coordinate Systems, [Representation](../../../IER/IER-representation.md), Situations, [Futures](../../../IER/IER-futures.md) |
 | Evidential discipline | [Non-Entailment](../../../IER/IER-nonentailment.md) |
 
 The authoritative claims remain in the core IER corpus. This example collection
