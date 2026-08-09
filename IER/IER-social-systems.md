@@ -48,7 +48,7 @@ This document explains how the social systems analyzed here matter morally *with
 
 The constraints described here are structural, not punitive, and are intended to prevent misattribution rather than discipline the reader.
 
-For the canonical distinction between institutions, organizations, companies, and corporations, see [*IER-institutions*](IER-institutions).
+For the canonical distinction between institutions, organizations, companies, and corporations, see [*IER-institutions*](IER-institutions.md).
 
 ## Global Informational Language Disclaimer
 

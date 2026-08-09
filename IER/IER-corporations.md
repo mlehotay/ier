@@ -120,7 +120,7 @@ Legal personhood is a juridical status. Experiential personhood is not.
 
 Corporations operate within institutions rather than being institutions.
 
-See [*IER-institutions*](IER-institutions) for the canonical distinction.
+See [*IER-institutions*](IER-institutions.md) for the canonical distinction.
 
 ## What a Corporation Is (Structurally, Not Legally)
 
