@@ -1,393 +1,407 @@
-# Attachment as a Structural Condition
+# The Attachment Identification Problem
 
-## Attachment as Stabilized Continuation Organization
+## Why "Buddhist Attachment" Does Not Yet Identify a Single IER Phenomenon
 
-### An IER Interpretation of Attachment in the Abhidharma Tradition
+*Informational Experiential Realism (IER)* — *Problem Statement | Theravāda Case Study | Source-Constrained | Non-Normative | Non-Criterial*
 
-Informational Experiential Realism (IER v10.10.7)
-*T4 | Reference Example | Non-Canonical | Comparative*
+## Status, Scope, and Authority
 
-
-## Status, Scope, and Authority Firewall
-
-This document is a worked example contained within:
-
-```text
-apps/abhidharma/
-```
-
-It is:
-
-* illustrative
-* comparative
-* non-normative
-* non-canonical
+This document does not present an IER theory of Buddhist attachment. It explains why the phrase *Buddhist attachment* does not yet identify a sufficiently precise object for such a theory.
 
 It introduces:
 
-* no new ontological primitives
-* no modifications to canonical IER
-* no claims regarding Buddhist doctrinal authority
-* no claims regarding historical influence
+- no new IER ontology, mechanism, criterion, diagnostic, or mathematical quantity;
+- no claim that Buddhist thinkers anticipated IER;
+- no claim that IER validates a Buddhist or Abhidharma analysis;
+- no one-to-one translation between Pāli and IER terms; and
+- no inference from structural analogy to ontological or numerical identity.
 
-All ontological and structural authority remains exclusively in canonical IER documents.
+The historical and cross-school limits established in [*An IER Introduction to Abhidharma*](./IER-abhidharma-introduction.md) apply here. "Abhidharma" names a family of historically differentiated school traditions, not one doctrine. The detailed analysis below is narrower: it concerns the mature Theravāda Abhidhamma compendium tradition presented in *A Comprehensive Manual of Abhidhamma*, a modern edition and guide to Anuruddha's post-canonical *Abhidhammatthasaṅgaha*.[^sources]
 
-This document does not attempt to determine:
+The manual is used because it states unusually explicit relations among *lobha*, *taṇhā*, *upādāna*, and *diṭṭhi*. Those relations must not be attributed without qualification to every Buddhist text, period, school, or use of the English word *attachment*.
 
-* whether Buddhist doctrines concerning attachment are correct
-* whether Buddhist metaphysics are correct
-* whether traditional Buddhist interpretations are authoritative
+## The Failed Easy Question
 
-Instead it asks a narrower question:
+The previous version of this article asked:
 
-> How might attachment, as described within Abhidharma traditions, be interpreted through the framework of Informational Experiential Realism?
+> How might attachment, as described within Abhidharma traditions, be interpreted through IER?
 
+That question presupposed that its object had already been identified. It grouped together:
 
-## Why Attachment Is Interesting
+- craving;
+- greed;
+- clinging and grasping;
+- possessiveness;
+- fixation;
+- identification;
+- dependence on people, roles, projects, beliefs, and institutions; and
+- vulnerability to disruption or loss.
 
-Attachment occupies a central role in many Buddhist analyses of suffering.
+It then proposed one structural definition:
 
-The concept appears in numerous forms throughout Buddhist traditions, including:
+> attachment is stabilized continuation organization in which future viability becomes increasingly coupled to a particular object.
 
-* craving
-* clinging
-* grasping
-* fixation
-* possessiveness
-* identification
+This may describe some forms of ordinary-language dependence or fixation. It does not establish a common structure shared by the Buddhist categories listed above. It is also broad enough to include caregiving, bodily dependence, secure relationships, commitments, valued projects, institutional reliance, and other organizations that the source does not classify together as one Abhidhamma phenomenon.
 
-These concepts are often treated as major contributors to suffering and limitation.
+The correct preliminary question is therefore:
 
-From an IER perspective, the most interesting question is not whether attachment is morally good or bad.
+> What, exactly, is the traditional item to be reconstructed, and what evidence would show that its uses track one IER organization rather than several organizations or none?
 
-The question is:
+This is the *attachment identification problem*.
 
-> What recurring organizational pattern is being identified?
+## One English Word, Several Possible Objects
 
-The Abhidharma may be understood as recognizing attachment as a recurring experiential phenomenon.
+The English word *attachment* operates as a loose coordinate system over several domains.
 
-IER asks:
+| Use of *attachment* | Possible object of analysis | Why it cannot be assumed equivalent to the others |
+| --- | --- | --- |
+| Interpersonal attachment | Bonding, security, proximity seeking, or dependence in relationships | These are not, by definition, greed or clinging |
+| Ordinary preference | Liking, valuing, or wanting something to continue | Preference need not involve compulsion, appropriation, or wrong view |
+| Possessiveness | Treating something as mine or resisting its loss | Ownership organization is not identical to every form of craving |
+| Fixation | Recurrent capture, looping, or difficulty disengaging | Several different IER organizations can produce persistence or narrowing |
+| Identification | Organizing a narrative, doctrine, role, or aggregate as self or mine | Narrative recruitment is not an IER identity condition |
+| Dependence | Reliance on a person, object, practice, or institution for continuation | Dependence can be biologically necessary, practically useful, or socially constitutive |
+| *Lobha* | An unwholesome mental factor in the Theravāda manual taxonomy | A dhamma type with specified associations, not an English umbrella |
+| *Taṇhā* | Craving in the Four Truths and dependent-arising analyses | A doctrinal role ultimately analyzed as *lobha* in this manual tradition |
+| *Upādāna* | Four kinds of clinging in dependent arising | A fourfold category that reduces to more than one mental factor |
 
-> What structural conditions give rise to that phenomenon?
+The recurrence of one English translation does not prove that these items share one taxonomic identity, causal role, phenomenology, or physical organization.
 
+This document does not attempt to compare Abhidhamma with psychological attachment theory. That would be a separate comparison between different technical traditions, not a dispute over whether attachment is healthy or unhealthy in one shared sense.
 
-## Attachment as a Structural Condition
+## The Theravāda Manual Distinctions
 
-Under Informational Experiential Realism, attachment is not treated as a primitive experiential substance.
+### *Lobha* is a mental factor
 
-Nor is it treated as a separate psychological faculty.
+In the manual system, *lobha* is one of the fourteen unwholesome mental factors. Its range extends from intense greed or passion to subtler liking and attachment. It is characterized by grasping its object, functions by sticking, and is manifested as not giving up.[^lobha]
 
-Instead attachment may be interpreted as a recurring organizational condition.
+This already complicates translation. The appearance of *attachment* in an English gloss for *lobha* does not make every English attachment an occurrence of *lobha*. Nor does it show that all occurrences classified as *lobha* share one simple phenomenal quality recognizable without the rest of the taxonomy.
 
-More specifically:
+The manual also distinguishes *lobha* from *chanda*, desire to act or accomplish a result. *Chanda* is ethically variable and can occur with wholesome factors; *lobha* is invariably unwholesome.[^chanda] Thus even the broad category *desire* divides into items with different association and evaluative rules.
 
-> Attachment may be understood as a form of stabilized continuation organization in which future viability becomes increasingly coupled to a particular object, relationship, identity, outcome, role, narrative, institution, or experiential pattern.
+### *Taṇhā* is not merely another synonym
 
-This interpretation shifts attention away from the object itself.
+In the manual's account of the Four Noble Truths, craving (*taṇhā*) is the origin of suffering and is identified with the mental factor *lobha*. It is divided into craving for sense pleasures, continued existence, and annihilation.[^truths]
 
-The primary issue becomes:
+In the dependent-arising analysis, craving is also divided according to objects of the six senses and conditioned by feeling. In all these forms it is ultimately reducible to *lobha*.[^dependent-arising]
 
-> How continuation is organized around that object.
+This means that *taṇhā* and *lobha* can identify the same dhamma under different analytical schemes. They are not interchangeable descriptions in every sentence:
 
+- *lobha* names a mental factor in the cetasika inventory;
+- *taṇhā* names that factor under particular soteriological and conditional analyses.
 
-## Attachment as a Trajectory
+The distinction is one of analytical role, not necessarily one of ultimate entity in this tradition.
 
-Attachment is often described as though it were a state.
+Craving for annihilation also shows why *taṇhā* should not be defined as an expectation that an object will permanently satisfy an ego. That modern paraphrase is too narrow for the source classification.
 
-However, many of the phenomena associated with attachment suggest something more dynamic.
+### *Upādāna* has four forms
 
-Attachment frequently exhibits:
+The manual lists four kinds of clinging:
 
-* recurrent reactivation
-* reinforcement through repetition
-* increasing continuation dependence
-* resistance to reorganization
-* progressive narrowing of alternatives
+1. clinging to sense pleasures;
+2. clinging to wrong views;
+3. clinging to rites and ceremonies; and
+4. clinging to a doctrine of self.[^clingings]
 
-From an IER perspective, attachment may therefore be understood not merely as a condition but as a recurring trajectory form.
+These do not reduce to one mental factor. The manual states that clinging to sense pleasures is a manifestation of *lobha*, while the other three are modes of the mental factor wrong view (*diṭṭhi*). In its summary of the unwholesome categories, it therefore reduces the four clingings to two factors "by way of entity."[^reduction]
 
-The attachment trajectory repeatedly recruits the same structures into participation.
+The fourfold traditional classification and the twofold cetasika reduction answer different questions:
 
-As this process continues:
+| Level | Classification |
+| --- | --- |
+| Doctrinal forms of *upādāna* | Sensuality, views, rites and observances, doctrine of self |
+| Mental factors involved | *Lobha* for the first; *diṭṭhi* for the other three |
 
-* coupling deepens
-* alternatives weaken
-* switching costs increase
-* continuation becomes increasingly specialized
+Consequently, *upādāna* is not simply one Abhidhamma mental factor translated as *attachment*. It is a doctrinal grouping whose members are analyzed through more than one factor.
 
-The phenomenology associated with attachment reflects the persistence of this trajectory through time.
+### Craving and clinging are distinct conditioned links
 
-Under this interpretation, attachment is not merely something one has.
-
-It is something one repeatedly does.
-
-
-## Attachment Is Not Mere Desire
-
-The distinction between desire and attachment is important.
-
-A system may desire something without becoming attached to it.
-
-Desire may remain:
-
-* transient
-* weakly coupled
-* easily reorganized
-
-Attachment involves something additional.
-
-The object becomes integrated into continuation organization.
-
-The system increasingly assumes:
+The dependent-arising formula places craving and clinging in sequence:
 
 ```text
-continued access
-continued preservation
-continued availability
-continued participation
+feeling
+-> craving (taṇhā)
+-> clinging (upādāna)
+-> existence or becoming (bhava)
 ```
 
-As a result, the object's disappearance produces disproportionate disruption.
+The manual explains the transition in two ways:[^craving-to-clinging]
 
-The defining feature of attachment is therefore not wanting.
+- for sensual clinging, initial or weaker greed is called craving and intensified greed is called clinging;
+- for the other three forms, greed is called craving, while the views accepted under its influence are called clinging.
 
-It is structural dependence.
+This is not one uniform increase in the depth of an "attachment attractor." In one case the account concerns intensification within *lobha*. In the other cases it concerns a conditioning relation from *lobha* to *diṭṭhi*.
 
+The traditional claim may be correct, incorrect, or differently reconstruable under IER. But it must first be preserved. A model that equates craving and clinging at the outset cannot explain why the source distinguishes them or why it analyzes their relation differently across the four forms.
 
-## Attachment and Stabilization
+### One factor can enter several doctrinal classifications
 
-IER describes stabilization as the existence of coherent continuation trajectories.
+The manual explicitly describes how one dhamma can appear under different names in different categorical sets. *Lobha*, for example, appears as sensual desire, attachment to existence, covetousness, sensual clinging, and a hindrance. The purpose is to show connections among the categories, not to introduce a new mental factor for every doctrinal label.[^cross-classification]
 
-Under this interpretation, attachments often function as stabilization structures.
+This produces a many-level structure:
 
-Examples include:
+```text
+one mental factor
+-> several doctrinal roles
 
-* relationships
-* social roles
-* institutions
-* personal identities
-* valued projects
-* beliefs
+one doctrinal category
+-> several mental factors
+```
 
-Such structures may support:
+English translation can hide both directions. It can make one factor look like several unrelated phenomena and several factors look like one phenomenon called *attachment*.
 
-* coherence
-* continuity
-* predictability
-* participation organization
+## Why the Earlier IER Reconstruction Does Not Follow
 
-Attachment therefore frequently develops around structures that contribute significantly to continuation.
+IER has legitimate concepts for describing recurrent organization: intrinsic constraint, admissible futures, participation, structural signatures, trajectories, attractors, propagation, sedimentation, and explanatory projection. Their availability does not determine which concept, if any, reconstructs a traditional category.
 
-This helps explain why attachments can become deeply persistent.
+The earlier article moved too quickly from a vague English gloss to a particular geometry.
 
-They are not arbitrary.
+| Earlier proposal | Identification problem |
+| --- | --- |
+| Attachment is coupling of future viability to an object | This includes many dependencies and commitments not classified together by the source |
+| Attachment is a repeatedly traversed trajectory | A trajectory is a realized sequence; recurrence requires an additional account of the organization that produces similar sequences |
+| Attachment is a deep or narrow attractor | No state variables, basin boundaries, recurrence conditions, or discriminating contrast were specified |
+| Attachment progressively narrows admissible futures | Many experiences narrow local reachability; narrowing alone does not identify *lobha*, *taṇhā*, *upādāna*, or *diṭṭhi* |
+| Clinging occurs when alternatives remain possible but inaccessible | IER distinguishes physically admissible continuation from merely conceivable or abstract possibility; the sentence did not specify which alternatives belonged to which space |
+| Attachment persists because continuation is cheaper than reorganization | No physical cost function or comparison class was supplied, and IER posits no optimizer selecting cheap continuations |
+| The object becomes part of an identity basin | Narrative or doctrinal organization around an object is not numerical identity of either a UEF or an embodied system |
+| Loss of the object produces suffering | Threatened loss may organize grief or panic, but Buddhist *dukkha* and the role of craving are not limited to object loss |
+| Nonattachment is wider, more flexible, and more reorganizable | IER geometry is non-normative; breadth and flexibility are not synonyms for wholesomeness or liberation |
 
-They often participate directly in stabilization.
+None of these structural descriptions is meaningless. Each could become a hypothesis for a carefully delimited phenomenon. The error was treating their conjunction as the already established essence of Buddhist attachment.
 
+## Several IER Hypotheses, Not One Interpretation
 
-## Attachment and Identity Basins
+The Theravāda distinctions motivate at least several different reconstruction questions.
 
-Identity under IER may be understood geometrically as a basin within admissible-future space.
+### Appetitive capture
 
-Attachments often become integrated into that basin.
+Some occurrences classified under *lobha* or sensual craving might involve recurrent recruitment of an object, persistent participation bias, and characteristic changes in local admissible-future geometry.
 
-Examples include:
+That proposal must explain what distinguishes *lobha* from:
 
-* "my family"
-* "my career"
-* "my reputation"
-* "my beliefs"
-* "my success"
-* "my failure"
+- ethically variable *chanda*;
+- ordinary perceptual salience;
+- stable care or preference;
+- aversive capture; and
+- other recurrent attractor organizations.
 
-The attachment object becomes incorporated into the geometry of continuation.
+### Intensification
 
-As basin coupling increases:
+The transition from sensual craving to sensual clinging might correspond to a measurable change in persistence, recruitment, recovery after perturbation, or successor structure.
 
-* alternatives become less recruitable
-* switching costs increase
-* reorganization becomes more difficult
+Calling the latter "more intense" is not yet a model. The reconstruction would need to specify what changes, how the change is measured, and why it warrants a distinct conditional role.
 
-The object increasingly appears inseparable from continuation itself.
+### Doxastic appropriation
 
-This does not imply that the object literally becomes part of identity.
+Clinging to views, rites and observances, and a doctrine of self may involve stabilization of interpretive, practical, or self-organizing projections. These cases need not share the geometry proposed for appetitive capture.
 
-Rather:
+IER must also keep several questions separate:
 
-> identity geometry becomes organized around its continued presence.
+- stabilization of a view;
+- recurrent projection through that view;
+- treating a view as mine;
+- organizing an aggregate as self; and
+- the numerical identity of the subject undergoing those organizations.
 
+IER rejects narrative, memory, and self-description as numerical identity conditions. It cannot infer literal identity incorporation from the phenomenology of "me" or "mine."
 
-## Attachment and Habit
+### Conditioning across organizations
 
-Attachment frequently exhibits recurrent re-recruitment.
+The most distinctive traditional question may concern neither craving nor clinging in isolation. It may concern the claim that *lobha* conditions intensified *lobha* in one case and conditions the adoption of *diṭṭhi* in the other three.
 
-The same object repeatedly reappears within participation.
+An IER reconstruction would then need to model a conditional relation:
 
-The same concerns recur.
+> What organization of present participation and admissible continuation makes one recurring form more likely to stabilize or recruit another?
 
-The same continuation patterns reactivate.
+This is a stronger target than assigning both items the same attractor label.
 
-From an IER perspective, this resembles habit formation.
+These hypotheses may converge, divide further, or fail. The present article does not choose among them.
 
-Not because attachment is a habit.
+## The Six Identification Problems
 
-But because both involve:
+A future reconstruction must solve at least six problems.
 
-* persistent deformation
-* reliable re-entry
-* low-cost re-recruitment
+### Source identification
 
-The attachment repeatedly returns because the underlying organizational structure repeatedly returns.
+Which school, text, and historical stratum supplies the target claim? A statement from the *Abhidhammatthasaṅgaha* tradition is not automatically a statement of early Buddhism, canonical Theravāda Abhidhamma, Sarvāstivāda, or Buddhism generally.
 
-This recurrence gives attachment a trajectory-like character.
+### Lexical identification
 
-The phenomenon is often experienced not as a single event but as a repeatedly traversed path through experiential organization.
+Which Pāli or Sanskrit term is being translated, and which English senses are being excluded? The word *attachment* cannot serve as the source category.
 
+### Analytical-level identification
 
-## Attachment and Inertia
+Is the target:
 
-Continuation is typically cheaper than reorganization.
+- a dhamma type such as *lobha* or *diṭṭhi*;
+- a token occurrence;
+- a role such as *taṇhā* in dependent arising;
+- one form within the category *upādāna*;
+- a citta-cetasika assemblage;
+- a conditional relation; or
+- a soteriological classification?
 
-As attachment structures become stabilized, inertia begins supporting them.
+These objects require different reconstructions.
 
-The system continues along familiar trajectories because:
+### Cardinality identification
 
-* they are already organized
-* they are already integrated
-* they remain structurally inexpensive
+Does the proposed relation have the form:
 
-This helps explain why attachments often persist even when they generate distress.
+- one traditional item to one IER organization;
+- several traditional items to one organization;
+- one traditional item to several organizations;
+- intersecting or context-dependent correspondence; or
+- no stable correspondence?
 
-The issue is not necessarily preference.
+The manual's own reduction of four clingings to two mental factors already blocks an assumed one-to-one mapping.
 
-The issue may be continuation economics.
+### Structural identification
 
-Maintaining existing organization can be cheaper than reorganizing it.
+Which physical organization is proposed, and how is it specified without using the traditional label as its definition? "The attractor that realizes clinging" is circular unless the attractor can be identified independently.
 
-In this sense, attachment resembles an attractor.
+### Explanatory identification
 
-The system repeatedly falls back into the same organizational configuration because that configuration has become deeply integrated into continuation structure.
+What would the proposed structure predict that generic dynamical language, ordinary psychology, or the traditional classification alone does not? A reconstruction must permit failure.
 
+## A Concrete Research Program
 
-## Attachment and Reorganizability
+The attachment problem can become a useful worked inquiry if it proceeds in stages.
 
-Not all attachments are equally rigid.
+### Stage 1: Reconstruct the source taxonomy
 
-Some remain highly reorganizable.
+For each target item, record:
 
-Others become deeply basin-coupled.
+| Field | Required content |
+| --- | --- |
+| Source | Exact text, passage, school, and historical stratum |
+| Term | Pāli or Sanskrit form and translation range |
+| Analytical object | Type, token, role, assemblage, relation, process, or evaluation |
+| Traditional identity conditions | Characteristic, function, manifestation, condition, object, and exclusions |
+| Associations | Cittas and cetasikas with which the item can or cannot occur |
+| Cross-classifications | Other doctrinal sets in which the same factor appears |
+| Soteriological role | What is to be understood, abandoned, developed, or realized |
 
-The crucial question becomes:
+The initial source target should remain narrow:
 
-> How expensive is coherent reorganization?
+> *lobha*, *taṇhā*, the four forms of *upādāna*, and *diṭṭhi* as organized in the mature Theravāda *Abhidhammatthasaṅgaha* tradition.
 
-When reorganizability remains high:
+### Stage 2: State discriminating contrasts
 
-* attachment may soften
-* alternatives remain visible
-* migration remains possible
+The source already supplies contrasts an IER model should not erase:
 
-When reorganizability becomes low:
+- *lobha* versus ethically variable *chanda*;
+- greed-rooted versus hatred-rooted consciousness;
+- craving versus clinging in dependent arising;
+- sensual clinging versus the three view-based clingings;
+- *lobha* versus *diṭṭhi* as mental factors; and
+- one factor's occurrence under several doctrinal classifications.
 
-* alternatives remain formally possible
-* yet become structurally inaccessible
+These are better tests than whether a description sounds intuitively like attachment.
 
-This often produces the phenomenology associated with clinging.
+### Stage 3: Specify candidate IER organization independently
 
-The issue is not that alternatives disappear.
+The model must define its proposed physical boundary, participation organization, structural signature, temporal grain, recurrence conditions, and response to perturbation before consulting the traditional label.
 
-The issue is that continuation cannot easily reorganize around them.
+It must not posit a separate phenomenology generated by that organization. Under IER, the physical and experiential descriptions concern the same UEF organization.
 
+### Stage 4: Derive consequences
 
-## Why Attachment Produces Suffering
+A useful model might predict:
 
-The Abhidharma frequently links attachment with suffering.
+- an allowed or forbidden citta-cetasika association;
+- a difference between *chanda* and *lobha* despite similar object-directed desire;
+- a measurable transition from craving to intensified sensual clinging;
+- a different organization for view-based clinging;
+- a systematic response to interruption, loss, contradiction, or contemplative training; or
+- a principled failure of the traditional grouping to track one physical regularity.
 
-IER offers a possible structural interpretation.
+### Stage 5: Classify the result
 
-As continuation becomes increasingly organized around a narrow set of futures:
+Several outcomes would count as progress:
 
-* viability becomes concentrated
-* switching costs increase
-* dependency deepens
-* reorganizability declines
+1. *Correspondence:* a traditional distinction tracks a stable independently specified IER organization.
+2. *Compression:* one IER organization explains several traditional labels or roles.
+3. *Differentiation:* one traditional category divides into several IER organizations.
+4. *Cross-cutting reconstruction:* the traditional and IER classifications overlap without sharing boundaries.
+5. *Non-correspondence:* the traditional item is organized primarily by doctrinal, evaluative, linguistic, or other relations that do not track a stable IER structure.
 
-The system becomes increasingly vulnerable to foreclosure.
+No outcome should be guaranteed in advance.
 
-When the attachment object is threatened, altered, or lost:
+## What Can Be Preserved from the Earlier Article
 
-* continuation contracts
-* stabilization weakens
-* reorganization costs rise
-* previously available trajectories become inaccessible
-* alternative trajectories become difficult to recruit
+The earlier article recognized several phenomena worthy of structural study:
 
-The resulting phenomenology may appear as:
+- recurrent re-recruitment;
+- persistent organization around an object;
+- resistance to interruption;
+- changing continuation geometry;
+- vulnerability when a stabilizing relation is altered; and
+- the difference between caring for something and being unable to reorganize when it changes.
 
-* grief
-* anxiety
-* panic
-* desperation
-* loss
-* emptiness
+These remain legitimate IER research topics. They may support a separate analysis of ordinary-language attachment, dependence, fixation, grief vulnerability, or commitment.
 
-Under this interpretation, suffering emerges not because attachment is morally wrong.
+What cannot be preserved is the claim that they jointly define attachment in the Abhidharma tradition. Before any such claim can be made, the analysis must show which traditional item it reconstructs, which neighboring items it excludes, and which source distinction it predicts.
 
-It emerges because continuation has become structurally dependent on a narrowing region of admissible futures.
+## Explicit Non-Claims
 
+This document does not claim:
 
-## Non-Attachment Reconsidered
+- that *attachment* is a Buddhist technical term with one meaning;
+- that *lobha*, *taṇhā*, and *upādāna* are synonyms;
+- that the four kinds of *upādāna* share one IER geometry;
+- that *upādāna* is one cetasika;
+- that all desire is *lobha*;
+- that interpersonal bonding is Buddhist clinging;
+- that dependence, care, commitment, possessiveness, and fixation are one structure;
+- that craving or clinging is a deep, rigid, or chaotic attractor;
+- that mindfulness is stochastic noise or liberation a bifurcation;
+- that suffering reduces to threatened object loss;
+- that nonattachment is equivalent to flexibility, breadth, resilience, or low switching cost;
+- that a widened future cone is wholesome or a narrowed one unwholesome; or
+- that failure of an IER reconstruction falsifies the Theravāda taxonomy by itself.
 
-Under this interpretation, non-attachment does not necessarily imply indifference.
+## Conclusion
 
-Nor does it imply lack of care.
+"Buddhist attachment" is not yet one well-formed comparative object.
 
-A structural interpretation suggests something narrower.
+In the mature Theravāda manual tradition:
 
-Non-attachment may correspond to:
+- *lobha* is an unwholesome mental factor;
+- *taṇhā* is craving analyzed ultimately as *lobha* in specified doctrinal roles;
+- *upādāna* names four forms of clinging;
+- sensual clinging is analyzed as intensified *lobha*;
+- the other three clingings are analyzed as modes of *diṭṭhi* conditioned by *lobha*; and
+- the same mental factor can enter several doctrinal classifications.
 
-* lower basin coupling
-* greater reorganizability
-* broader continuation structure
-* reduced dependence on specific futures
+This structure cannot be replaced by the equation:
 
-The object may remain valued.
+```text
+attachment
+= structural dependence
+= narrow attractor
+= costly reorganization
+```
 
-The difference is that continuation is no longer organized around its preservation to the same degree.
+IER supplies resources for investigating recurrent capture, intensification, appropriation, participation bias, projection, and conditional stabilization. It does not establish that these form one organization or that any one of them is the physical identity of "attachment."
 
-This interpretation remains distinct from traditional Buddhist doctrine.
+The result is intentionally unfinished. Its purpose is to turn a false completed explanation into a disciplined research problem:
 
-However it illustrates how an IER analysis might approach the phenomenon.
+> Determine which traditional item is being discussed, specify its proposed IER organization independently, and require the reconstruction to predict a distinction that could have come out otherwise.
 
+## Sources
 
-## Summary
+- Noa Ronkin, ["Abhidharma," *The Stanford Encyclopedia of Philosophy*](./Abhidharma%20%28Stanford%20Encyclopedia%20of%20Philosophy%29.pdf), substantive revision March 31, 2026.
+- Bhikkhu Bodhi, general editor, [*A Comprehensive Manual of Abhidhamma: The Abhidhammattha Saṅgaha of Ācariya Anuruddha*](./Comprehensive%20Manual%20of%20Abhidhamma%20-%20Bhikkhu%20Bodhi.pdf), third edition, Buddhist Publication Society, 2007.
 
-The Abhidharma identifies attachment as a recurring feature of experience.
+Canonical IER claims in this document are constrained by the current IER specification, theory, dynamics, ontology, structural-signatures, structural-typology, taxonomy, attractors, fixation, coordinate-systems, projections, continuity, and identity documents. If this problem statement conflicts with those sources, they control.
 
-Under an IER interpretation, attachment may be understood as a recurring form of continuation organization and a recurring trajectory form.
-
-It arises when:
-
-* stabilization becomes coupled to particular structures
-* identity geometry organizes around them
-* re-recruitment becomes persistent
-* reorganization becomes costly
-
-The resulting phenomenology appears as attachment.
-
-The resulting vulnerability appears when continuation becomes dependent upon a narrowing set of futures.
-
-The Abhidharma identifies the pattern.
-
-IER proposes one possible account of the organizational conditions that produce it.
-
-
-## Final Compression
-
-> Attachment may be understood as a self-reinforcing continuation trajectory in which future viability becomes increasingly coupled to a particular structure.
->
-> The phenomenology of attachment reflects that coupling.
->
-> Its persistence reflects repeated traversal of the same continuation pathways.
->
-> The suffering associated with attachment reflects the increasing cost of reorganizing continuation when those pathways become unavailable.
+[^sources]: Ronkin, "Abhidharma," introduction and §§1-2; Bodhi, *Comprehensive Manual*, Preface and Introduction, pp. xxiii-20.
+[^lobha]: Bodhi, *Comprehensive Manual*, Chapter I, discussion of consciousness rooted in greed, pp. 31-33; Chapter II, discussion of greed, pp. 83-84.
+[^chanda]: Bodhi, *Comprehensive Manual*, Chapter II, discussion of desire, pp. 82-83.
+[^truths]: Bodhi, *Comprehensive Manual*, Chapter VII, discussion of the Four Noble Truths, pp. 289-290.
+[^dependent-arising]: Bodhi, *Comprehensive Manual*, Chapter VIII, discussion of feeling and craving in dependent arising, pp. 297-298.
+[^clingings]: Bodhi, *Comprehensive Manual*, Chapter VII, §7 and guide, pp. 266-267.
+[^reduction]: Bodhi, *Comprehensive Manual*, Chapter VII, §§13-14 and Table 7.1, pp. 269-271.
+[^craving-to-clinging]: Bodhi, *Comprehensive Manual*, Chapter VIII, discussion of craving and clinging in dependent arising, pp. 297-298.
+[^cross-classification]: Bodhi, *Comprehensive Manual*, Introduction, pp. 6-7; Chapter VII, §§3-14, pp. 265-271.

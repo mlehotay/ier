@@ -1,251 +1,158 @@
 # Abhidharma
 
-Applying Informational Experiential Realism to a Classical Phenomenological Taxonomy
+*A source-constrained comparative application of Informational Experiential Realism (IER)*
 
-## Status
+## Status, Scope, and Authority
 
-Status: experimental
-Authority: non-canonical
-Classification: Exploratory | Comparative | Interpretive
+*Status:* Experimental | Non-canonical | Comparative | Non-normative
 
-This directory is an application of Informational Experiential Realism (IER). It is not part of the canonical IER corpus and introduces no new theoretical commitments.
+This directory investigates whether selected distinctions developed in specified Abhidharma traditions can be reconstructed under Informational Experiential Realism (IER).
 
+It is not part of the canonical IER corpus. It introduces no new IER ontology, identity condition, mechanism, diagnostic, ethical rule, or criterion of experience. If any document in this directory conflicts with the canonical IER corpus, the canonical source controls.
 
-## Purpose
+The collection also claims no authority over Buddhist doctrine. It does not present one definitive account of Abhidharma, and it does not treat IER as a scientific completion or validation of Buddhist thought.
 
-This application explores how Informational Experiential Realism (IER) may be used to interpret one of humanity's oldest and most sophisticated phenomenological taxonomies: the Abhidharma.
+## Central Question
 
-The goal is not to:
+The collection asks:
 
-* validate Buddhist doctrine
-* critique Buddhist doctrine
-* reinterpret Buddhism as IER
-* establish historical influence
-* merge the two frameworks
-* treat Buddhist texts as authoritative for IER
+> Can a distinction, association rule, conditional relation, or process structure developed in a specified Abhidharma tradition be reconstructed as an independently identifiable organization under IER?
 
-Instead, the goal is to investigate a narrower question:
+This is deliberately narrower than asking whether Buddhist thinkers anticipated IER or whether Abhidharma categories can be renamed using IER vocabulary.
 
-> What can a modern structural theory of experience learn from an independently developed phenomenological atlas?
+A proposed correspondence must identify its traditional source and analytical level, specify the candidate IER organization independently, and predict something that was not placed into the reconstruction by definition.
 
-The emphasis throughout this application is therefore comparative rather than doctrinal.
+## Why Abhidharma?
 
+Abhidharma traditions provide unusually detailed analyses of:
 
-## Why the Abhidharma?
+- mental and physical dhamma or dharma types;
+- particular occurrences of those types;
+- consciousness and associated mental-factor assemblages;
+- permitted and forbidden co-occurrences;
+- synchronic and diachronic conditioning;
+- sequences of consciousness events;
+- perception, continuity, and momentariness; and
+- soteriological classifications and transformations.
 
-Many historical discussions of consciousness focus primarily on metaphysics.
+These analyses are valuable to IER because they supply precise candidate boundaries, relations, and exclusions. They are not raw phenomenological data and not one uniform atlas. They are historically developed, school-specific, theory-laden systems with their own causal, metaphysical, epistemological, contemplative, and soteriological purposes.
 
-The Abhidharma is unusual because it devotes extraordinary effort to the systematic observation and classification of experience itself.
+## Source Discipline
 
-It investigates:
+The collection uses two local sources with different evidential roles:
 
-* recurring experiential distinctions
-* causal conditioning
-* persistence
-* transformation
-* stabilization
-* attention
-* attachment
-* concentration
-* suffering
-* insight
+- [*Abhidharma* (Stanford Encyclopedia of Philosophy)](./Abhidharma%20%28Stanford%20Encyclopedia%20of%20Philosophy%29.pdf) provides the broad historical and cross-school framework.
+- [*A Comprehensive Manual of Abhidhamma*](./Comprehensive%20Manual%20of%20Abhidhamma%20-%20Bhikkhu%20Bodhi.pdf), edited by Bhikkhu Bodhi, provides detailed access to the mature Theravāda *Abhidhammatthasaṅgaha* tradition.
 
-Rather than asking primarily,
+The Bodhi manual is not treated as a neutral history of all Abhidharma or as evidence for every school. Claims drawn from it are identified as Theravāda manual-tradition claims. General statements about Abhidharma are constrained by the cross-school source.
 
-> *What is consciousness?*
-
-the Abhidharma repeatedly asks,
-
-> *What recurring structures appear within experience, and how do they interact?*
-
-This makes it an unusually interesting comparison point for IER.
-
-
-## The Central Observation
-
-The Abhidharma is often described simply as a taxonomy.
-
-That description is correct but incomplete.
-
-It is better understood as a phenomenological atlas.
-
-It maps:
-
-* recurring experiential regions
-* recurring experiential patterns
-* recurring conditioning relationships
-* recurring trajectories
-* recurring modes of stabilization
-* recurring modes of transformation
-
-From an IER perspective, these observations become phenomena requiring explanation.
-
-IER asks:
-
-> Why do these recurring experiential structures exist?
-
-rather than merely:
-
-> How should they be classified?
-
-
-## Relationship to IER
-
-The two projects begin from opposite directions.
-
-| Abhidharma                                | IER                               |
-| ----------------------------------------- | --------------------------------- |
-| Begins with phenomenology                 | Begins with physical organization |
-| Maps experience                           | Explains experience               |
-| Constructs a taxonomy                     | Constructs a theory               |
-| Describes recurring experiential patterns | Attempts to derive those patterns |
-
-The projects therefore occupy complementary explanatory roles.
-
-The Abhidharma provides detailed observations.
-
-IER proposes an account of the organizational structures that might generate those observations.
-
-Agreement does not validate either framework.
-
-Disagreement does not invalidate either framework.
-
-The comparison is intended to generate research questions rather than doctrinal conclusions.
-
+The spelling *Abhidharma* refers to the wider Sanskrit-named family of traditions. *Abhidhamma* refers to Theravāda materials in Pāli. The same contextual distinction governs *dharma/dhamma*.
 
 ## Reading Order
 
-Readers unfamiliar with the Abhidharma are encouraged to proceed in the following order.
+### [An IER Introduction to Abhidharma](./IER-abhidharma-introduction.md)
 
-### *IER-abhidharma-introduction*
+Historical and methodological orientation for readers approaching Abhidharma from IER. It distinguishes schools, textual strata, analytical objects, temporal claims, and source roles before any structural comparison is attempted.
 
-Introduces the Abhidharma for readers coming from IER.
+### [IER and Abhidharma: Axes of Agreement, Divergence, and Non-Correspondence](./IER-abhidharma-agreement-and-divergence.md)
 
-Topics include:
+Compares the frameworks across ontology, method, unity, taxonomy, conditionality, temporality, subjecthood, physicality, normativity, and explanatory ambition. It treats non-correspondence as a substantive result rather than a weak form of disagreement.
 
-* what kind of document the Abhidharma is
-* why it differs from Buddhist sermons and sutras
-* why it is interesting from an IER perspective
-* suggested introductory reading
+### [Abhidharma as a Layered Identification Problem](./IER-abhidharma.md)
 
+Replaces the earlier single-atlas interpretation with a six-layer reconstruction: dhamma types, dhamma tokens, citta-cetasika assemblages, conditional relations, consciousness processes, and soteriological classifications. It states what an IER explanation of any layer would have to show.
 
-### *IER-abhidharma-agreement-and-divergence*
+### [The Attachment Identification Problem](./IER-attachment.md)
 
-Compares the two frameworks directly.
+Uses the failed attempt to interpret "Buddhist attachment" as a methodological test case. It distinguishes *lobha*, *taṇhā*, *upādāna*, and *diṭṭhi* and explains why an English umbrella term does not yet identify one traditional category or one IER organization.
 
-Topics include:
+## The Layered Reconstruction
 
-* shared goals
-* shared structural commitments
-* major methodological differences
-* complementary strengths
-* possible future research directions
+The main article separates six analytical objects that the earlier atlas metaphor compressed:
 
+| Layer | Traditional object | IER question |
+| --- | --- | --- |
+| 1 | Dhamma or dharma type | Does the type's identity and distribution track a recurrent structural organization? |
+| 2 | Dhamma or dharma token | What physical occurrence, if any, realizes the token, and how are its boundaries identified? |
+| 3 | Citta-cetasika assemblage | Can one independently specified UEF organization predict association and exclusion rules? |
+| 4 | Conditional relation | What are the relata, temporal structure, and physical realization of this particular relation? |
+| 5 | Consciousness process | Does a physical trajectory predict the proposed functional order at the relevant temporal grain? |
+| 6 | Soteriological classification | Is there a structural correlate, and can it be separated from the traditional evaluation? |
 
-### *IER-abhidharma*
+These layers interact, but they do not have the same identity conditions. A dhamma type is not a token; a token is not automatically an IER event or collapse; a citta is not automatically a Unified Experiential Field; and a soteriological classification is not a value-neutral structural signature.
 
-Foundational interpretation.
+## Comparison Method
 
-Introduces the central hypothesis of this application:
+Each proposed reconstruction should proceed in the following order:
 
-> the Abhidharma may be interpreted as a phenomenological atlas of recurring experiential organization and transformation.
+1. *Fix the source target.* Name the school, text, passage, and historical stratum.
+2. *Fix the analytical object.* Identify whether the target is a type, token, assemblage, relation, process, or evaluation.
+3. *Preserve the traditional structure.* Record definitions, functions, associations, exclusions, temporal relations, and soteriological roles before introducing IER vocabulary.
+4. *Specify the IER organization independently.* Define the physical boundary, regime, participation structure, signature, relation, or trajectory without using the traditional label as its definition.
+5. *Derive a discriminating consequence.* Predict a boundary, allowed or forbidden association, transition order, variation, intervention effect, or principled failure of correspondence.
+6. *Evaluate alternatives.* Compare the proposal with translation effects, doctrinal inheritance, generic dynamical language, cognitive science, and possible taxonomic error.
 
-Core question:
+Possible outcomes include one-to-one correspondence, compression, differentiation, cross-cutting classification, and non-correspondence. The method must permit every outcome, including failure.
 
-> What is the Abhidharma attempting to map?
+## Current Research Targets
 
+The most concrete positive target is the Theravāda citta-cetasika association matrix:
 
-### *IER-attachment*
+> Can independently specified IER organization predict any allowed or forbidden association between consciousness types and mental factors in the mature Theravāda manual tradition?
 
-Worked example.
+This is a stronger test than assigning familiar IER terms to translated mental-state names. It asks an IER model to recover a combinatorial restriction that could have come out otherwise.
 
-Explores attachment through:
+The attachment article serves a different function. It does not offer a finished interpretation. It records how a comparison fails when it begins with an ambiguous English category and then assumes one underlying geometry. Its open question is whether *lobha*, *taṇhā*, the four forms of *upādāna*, and *diṭṭhi* require one reconstruction, several reconstructions, cross-cutting reconstructions, or none.
 
-* continuation dependence
-* stabilization
-* identity coupling
-* inertia
-* reorganizability
-* trajectory dynamics
+## What the Collection Does Not Claim
 
-Core question:
+The collection does not claim:
 
-> What structural conditions generate the phenomenology identified as attachment?
+- that Abhidharma is one homogeneous system;
+- that it is merely a phenomenological taxonomy;
+- that its texts are raw reports from independent observers;
+- that Buddhism anticipated IER;
+- that IER validates, replaces, or scientifically completes Abhidharma;
+- that dhammas are IER structural signatures or state-space regions;
+- that citta is a UEF or cetasikas are physical components, control variables, or component subjects;
+- that Abhidharma momentariness is equivalent to IER collapse;
+- that no-self is equivalent to the denial of every form of experiential subjecthood;
+- that all conditional relations are instances of one generic IER constraint;
+- that wholesome, equanimous, nonattached, or liberated organization is simply wider, more stable, or more flexible;
+- that "attachment" names one Buddhist technical category or one IER geometry; or
+- that failure of a proposed correspondence falsifies either framework by itself.
 
+## Relationship to IER
 
-## Future Directions
+IER identifies experience with the operation of a physical system as a Unified Experiential Field under globally integrated intrinsic constraint. Physical organization does not first exist and then produce phenomenology as a second thing; the physical and experiential descriptions concern one organization.
 
-Potential future documents include:
+IER also provides non-ontological resources for describing recurring organization, including structural signatures, taxonomies, regimes, trajectories, participation, coordinate systems, and projections. These resources make reconstruction possible, but their availability does not establish any particular historical correspondence.
 
-* Abhidharma Signatures
-* Abhidharma Regimes
-* Abhidharma Dynamics
-* Abhidharma Trajectories
-* Abhidharma Observation
-* Abhidharma Structural Atlas
-* Abhidharma Open Questions
+The comparison is therefore constrained by two rules:
 
-These would gradually develop a structural interpretation of the broader Abhidharma corpus while maintaining a clear distinction between observation and explanation.
+1. Buddhist terminology does not extend or revise IER canon.
+2. IER terminology does not replace the source tradition's own identity conditions.
 
+## Research Status
 
-## Relationship to Other Applications
+No canonical IER change is proposed by this collection. No Abhidharma taxonomy has yet been derived from independently specified IER organization.
 
-The Abhidharma application complements other exploratory applications within the repository.
+The present result is a research architecture:
 
-For example:
+```text
+historical orientation
+-> disciplined comparison
+-> layered identification
+-> failed easy example
+-> testable reconstruction problems
+```
 
-* the Game of Life application investigates how organizational structure emerges from simple physical rules;
-* the Abhidharma application investigates whether independently developed phenomenological taxonomies exhibit recurring organizational patterns that IER can explain.
-
-Together they explore the theory from opposite directions:
-
-* bottom-up through simulation,
-* top-down through phenomenology.
-
-Neither application forms part of canonical IER.
-
-Both exist to pressure-test the theory using independent sources of structure.
-
-
-## Relationship to Buddhist Doctrine
-
-This application primarily engages the observational and phenomenological aspects of the Abhidharma.
-
-It does not assume acceptance of:
-
-* rebirth
-* karma
-* nirvana
-* enlightenment
-* Buddhist metaphysics
-* Abhidharma atomism
-
-Those topics may be discussed where relevant, but they are not the focus of this application.
-
-The central questions remain:
-
-> What recurring structures of experience were being observed?
-
-and
-
-> How might those observations be interpreted through Informational Experiential Realism?
-
-
-## Long-Term Goal
-
-The broader research question motivating this application is:
-
-> Why do independent attempts to map experience often converge on recognizable categories, transitions, and trajectories?
-
-The Abhidharma provides one of humanity's richest historical phenomenological datasets.
-
-IER seeks to explain why the terrain being mapped possesses the structure that it does.
-
+Progress will consist not in producing more verbal analogies, but in finding cases where a physical reconstruction predicts a traditional boundary, association, relation, or transition — or shows precisely why the classifications do not correspond.
 
 ## Compression Statement
 
-> The Abhidharma may be understood as one of humanity's most ambitious phenomenological atlases.
+> Abhidharma offers historically differentiated analyses of types, occurrences, assemblages, conditions, processes, and transformations within sentient experience.
 >
-> It identifies recurring regions, transitions, conditioning relationships, and trajectories within experiential life.
+> IER does not translate those analyses automatically into physical structure. It asks whether selected distinctions survive source-constrained, independently specified, and failure-permitting reconstruction.
 >
-> This application explores how those observations may be interpreted through Informational Experiential Realism while preserving the independence of both frameworks.
+> The value of the comparison lies not in ancient confirmation, but in the precision of the identification problems it makes available.

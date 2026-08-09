@@ -1,297 +1,351 @@
-# IER and the Abhidharma
+# IER and Abhidharma
 
-## Points of Agreement and Divergence
+## Axes of Agreement, Divergence, and Non-Correspondence
 
-Informational Experiential Realism (IER)
-*Orientation | Comparative Analysis | Non-Normative*
+*Informational Experiential Realism (IER)* — *Comparative Analysis | Source-Constrained | Non-Normative | Non-Criterial*
 
 ## Status, Scope, and Authority
 
-This document is comparative and explanatory.
+This document compares Informational Experiential Realism (IER) with selected Abhidharma commitments. It introduces:
 
-It introduces:
+- no new IER ontology, mechanism, criterion, or diagnostic;
+- no claim that Buddhist doctrine is authoritative for IER;
+- no claim that IER validates an Abhidharma tradition;
+- no one-to-one mapping between IER and Abhidharma terms; and
+- no inference from structural analogy to numerical or ontological identity.
 
-* no new ontological primitives
-* no modifications to IER
-* no interpretation of Buddhist doctrine as authoritative
-* no claim that either framework validates the other
+"Abhidharma" here names a historically developing family of school traditions, not one theory. General claims rely on the cross-school SEP account. Detailed claims about cittas, cetasikas, and the twenty-four conditional relations are explicitly Theravāda claims drawn from the *Abhidhammatthasaṅgaha* tradition as presented in Bodhi's manual.[^sources]
 
-Its purpose is to compare Informational Experiential Realism (IER) with the Abhidharma tradition as two independent attempts to systematically describe conscious experience.
+IER is a physicalist identity theory. Its central proposal is:
 
-Agreement does not imply identity.
+> Experience is identical to the operation of a physical system as a Unified Experiential Field under globally integrated intrinsic constraint.
 
-Disagreement does not imply failure.
+Physical organization does not first exist and then generate experience. The physical and experiential descriptions concern one organization.
 
-The comparison is intended to identify potentially fruitful directions for future research.
+## Comparison Discipline
 
+The comparison has three possible outcomes on any axis:
 
-## Introduction
+1. *Agreement:* the frameworks make compatible claims about the same identified object.
+2. *Divergence:* they make incompatible claims about the same identified object.
+3. *Non-correspondence:* the apparent similarity compares different objects, levels, or explanatory questions.
 
-The Abhidharma represents one of humanity's oldest sustained efforts to construct a systematic ontology of experience.
+Non-correspondence is not a weak form of disagreement. It means the proposed comparison has not yet identified a common target.
 
-Informational Experiential Realism (IER) is a contemporary physical theory that attempts to explain what experience is in terms of globally integrated intrinsic constraint.
+Before classifying any result, the comparison must separate:
 
-Although separated by more than two millennia, both projects share an unusual ambition:
+- Abhidharma school and historical stratum;
+- dharma type and dharma token;
+- citta-cetasika assemblage and consciousness process;
+- causal or conditional relation and taxonomic classification;
+- synchronic organization and diachronic persistence;
+- physical structure and phenomenological or doctrinal description; and
+- descriptive classification and soteriological evaluation.
 
-> to replace informal descriptions of experience with a systematic conceptual framework.
+## Summary Matrix
 
-The similarities are striking.
+| Axis | Limited convergence | Principal divergence or unresolved issue |
+| --- | --- | --- |
+| Structure | Experience is not treated as an undifferentiated homogeneous stream | Abhidharma analyzes dharmas and their assemblages; IER identifies experience with a non-factorizable physical regime |
+| Taxonomy | Recurring organizations can be systematically differentiated | Abhidharma types are school-specific technical categories; IER signatures are non-ontological descriptive compressions |
+| Conditionality | Present organization depends on structured relations, not isolated items | The two frameworks specify different relata, relations, and explanatory purposes |
+| Method | Ordinary-language descriptions are inadequate | Abhidharma is exegetical, contemplative, scholastic, and soteriological; IER is a contemporary physical theory and research program |
+| Temporality | Experience and its constituents are dynamically organized | "Moment," process duration, experienced continuity, collapse, and subject persistence are not corresponding units |
+| Self and subject | Neither requires an inner Cartesian observer | Abhidharma no-self and IER's one-UEF/one-subject rule answer different identity questions |
+| Physicality | Both refuse to treat experience as detached from organized reality | Abhidharma includes ancient categories of materiality; IER commits to one mind-independent physical reality |
+| Normativity | Organization can be transformed and different regimes matter | Abhidharma analysis is constitutively soteriological; IER ontology does not classify states as wholesome or liberating |
+| Explanation | Both seek lawful organization beneath ordinary descriptions | Abhidharma already contains causal explanations; IER has not yet derived its taxonomies or transition rules |
+| Evidence | Reports and classifications can constrain inquiry | Neither repetition nor apparent translation-level similarity establishes structural convergence |
 
-The differences are equally important.
+The remainder of this document develops these axes.
 
+## Ontology and Explanandum
 
-## Shared Goals
+### Abhidharma
 
-Both projects reject the idea that ordinary language provides an adequate description of experience.
+Abhidharma analyzes sentient experience into mental and physical dharmas and asks how those events are classified, individuated, conditioned, and known. Different schools disagree about the inventory and status of dharmas. The mature Theravāda manual tradition organizes ultimate reality into consciousness, mental factors, material phenomena, and nibbāna; Sarvāstivāda proposes a different inventory and a different account of what exists across past, present, and future.[^taxonomy]
 
-Instead, both assume that:
+This is not merely a vocabulary of phenomenal appearances. It is a metaphysical and, in some developments, explicitly ontological account of the constituents of the experienced world.
 
-* experience possesses internal structure,
-* that structure can be analyzed,
-* recurring organizations exist,
-* careful classification is possible,
-* superficial appearances are often misleading.
+### IER
 
-Neither framework is satisfied with simply describing experiences such as anger, joy, fear, or attention.
+IER accepts one objective physical reality. Experience is neither a second substance nor an output added to physical activity. A UEF is a physical system operating as one globally integrated, temporally sustained intrinsic-constraint regime. Structural signatures, taxonomies, and explanatory projections describe that organization without adding new objects to the ontology.
 
-Both ask what underlying organization makes these experiences possible.
+### Assessment
 
+The old contrast — "Abhidharma is phenomenological; IER is physical" — is too coarse. Abhidharma includes material phenomena and makes ontological claims; IER includes phenomenology through identity rather than treating it as an independently generated layer.
 
-## Shared Structural Commitments
+The genuine divergence is deeper. Abhidharma begins with a school-specific analysis of dharmas as the constituents and conditions of sentient experience. IER begins with a proposed physical identity condition for experience. It does not follow that a dharma is an intrinsic constraint, a citta is a UEF, or a mental factor is a participating physical process.
 
-## Experience Has Internal Organization
+These are possible reconstruction hypotheses, not translations.
 
-Neither framework treats consciousness as an undifferentiated stream.
+## Method and Epistemic Authority
 
-Instead, both describe experience as structured.
+### Abhidharma
 
-The Abhidharma decomposes experience into:
+Abhidharma developed through systematic interpretation of inherited discourses, mnemonic lists and matrices, catechetical exposition, school formation, debate, commentary, and contemplative practice. Its classifications are theory-laden and directed toward the Buddhist path. The Theravāda tradition's own account of its canon and categories also differs from the historical reconstruction offered by modern scholarship.[^origins]
 
-* consciousnesses
-* mental factors
-* feelings
-* intentions
-* attention
-* perception
+### IER
 
-IER similarly rejects unanalyzed consciousness.
+IER is a contemporary physical theory constrained by conceptual consistency, physical realization, and eventual empirical engagement. Phenomenology helps specify what requires explanation, but first-person experience does not interpret its own physical organization. IER also refuses to infer experience from behavior, complexity, computation, integration alone, or any presently available diagnostic shortcut.
 
-Instead, it explains experiential organization in terms of:
+### Assessment
 
-* intrinsic constraint
-* participation
-* global integration
-* admissible futures
-* frontier geometry
-* regime organization
+Both projects reject casual ordinary-language description as sufficient. That limited methodological convergence does not make them independent replications of one investigation.
 
-Both therefore reject the idea that experience is a primitive, homogeneous substance.
+Claims of cross-cultural convergence require evidence for independence and for a shared object of classification. Similar English labels may instead reflect common translations, shared textual inheritance, coarse category names, or the effects of training. Meditation can improve discrimination while also changing what becomes salient and how it is conceptualized.
 
+Abhidharma reports should therefore be treated as historically organized evidence, neither dismissed as "mere doctrine" nor elevated into transparent observations of experiential ontology.
 
-## Stable Patterns Exist
+## Structure, Assemblage, and Unity
 
-The Abhidharma assumes that certain combinations of experiential phenomena reliably recur.
+### Abhidharma
 
-IER similarly assumes that stable organizations of intrinsic constraint produce recurring experiential structures.
+In the mature Theravāda analysis, *citta* names consciousness or cognizing, but an occurring consciousness moment is an assemblage of citta and associated *cetasikas*. The factors arise and cease with the citta, share its object and basis, and perform differentiated functions. The tradition analyzes both which mental factors occur with a given consciousness type and which consciousness types admit a given factor.[^citta]
 
-Neither framework views experience as arbitrary.
+This is a structured unity, not a bag of independently existing inner components.
 
-Instead, both expect lawful organization.
+### IER
 
+IER identifies one experiential subject with one UEF: a physical regime whose intrinsic constraint is globally integrated and non-factorizable into independently resolvable subsystem constraints. Processes may participate to different degrees without becoming fractional subjects. Unity is not produced by binding representations for an internal observer.
 
-## Experience Is Dynamic
+### Assessment
 
-Neither framework describes experience as static.
+Both frameworks reject an undifferentiated mental substance and both analyze organized co-occurrence. But their units and relations are not equivalent.
 
-The Abhidharma analyzes moment-to-moment succession.
+- A citta-cetasika assemblage is not thereby a UEF.
+- A cetasika is not thereby a participating process.
+- Sharing an object is not thereby global intrinsic constraint.
+- Co-arising is not thereby non-factorizability.
+- A single consciousness moment is not thereby one numerically distinct IER subject.
 
-IER analyzes continuous evolution of admissible futures under intrinsic constraint.
+A genuine comparison would need to show whether an independently identified UEF organization predicts any Theravāda association or exclusion rule. Without that derivation, "assemblage" and "unity" remain analogous words applied to differently specified structures.
 
-Both therefore focus on process rather than static mental objects.
+## Categories, Types, and Structural Signatures
 
+### Abhidharma
 
-## Introspection Alone Is Insufficient
+The word *dharma* can denote both a type of occurrence and a token of that type. School taxonomies individuate types through definitions, functions, characteristics, and positions in intersecting classificatory and conditional schemes. Although the lists developed historically and remained disputed, the categories within a given scheme aspire to analytical exactness rather than fuzzy resemblance.[^taxonomy]
 
-Although the Abhidharma is grounded in contemplative observation, it does not encourage casual introspection.
+### IER
 
-Instead, it proposes disciplined observation using a shared conceptual vocabulary.
+IER's structural signatures compress recurring frontier organization. A structural taxonomy groups configurations by similarity of signature. Signatures and taxonomies are descriptive and non-causal; they do not add kinds of being to IER's ontology. Different coordinate systems may reveal different regularities in the same underlying organization.
 
-IER similarly rejects naive introspection as epistemically authoritative.
+### Assessment
 
-Phenomenology matters.
+There is a legitimate research possibility here: Abhidharma types may track recurring organizations that an IER taxonomy could also distinguish. But "category = region in IER state space" is not yet an explanation.
 
-It is not automatically self-interpreting.
+The mapping may be:
 
+- many Abhidharma types to one IER signature;
+- one Abhidharma type to several IER signatures;
+- one traditional distinction to a relation visible only in a particular coordinate system;
+- a soteriological distinction with no value-neutral IER equivalent; or
+- no stable correspondence at all.
 
-## Major Divergences
+The number and boundaries of categories must be predicted from independently specified organization. They cannot be recovered by defining a new IER region around every traditional label.
 
-## Starting Point
+## Conditionality and Causal Explanation
 
-The most important difference is methodological.
+### Abhidharma
 
-The Abhidharma begins with experience.
+Abhidharma does not only classify. It explains how phenomena arise together and in succession. Sarvāstivāda and Theravāda construct different detailed systems of causes and conditions. The Theravāda *Paṭṭhāna* enumerates twenty-four conditional relations, including relations of proximity, contiguity, simultaneity, reciprocity, association, dissociation, presence, and absence. In the manual tradition, this synthetic account reconnects the phenomena separated by analysis.[^causation]
 
-IER begins with physics.
+### IER
 
-The Abhidharma asks:
+IER describes lawful continuation in terms of physically admissible configurations and transitions, intrinsic constraint, frontier deformation, collapse, successor realization, propagation, and sedimentation. Constraint restricts continuation; it does not push, prefer, optimize, or select. Admissible futures encode reachability, not probability or contemplated options.
 
-> What recurring experiential structures exist?
+### Assessment
 
-IER asks:
+The limited convergence is that neither framework treats events as causally isolated. The divergence lies in the relata and structure of the explanations.
 
-> What physical organization is identical to experience?
+An Abhidharma conditional relation cannot be translated into "constraint" in general. Nor should craving, attention, or a mental factor be called a force, control parameter, vector field, or attractor without a model that defines the relevant variables and predicts their behavior.
 
-These are opposite directions through the same explanatory space.
+A serious reconstruction would ask, relation by relation:
 
+- What are the relata in the Abhidharma account?
+- Is the relation synchronic, diachronic, taxonomic, causal, or soteriological?
+- What physical IER organization is proposed to realize it?
+- Does that organization predict the traditional co-occurrence or transition rule?
+- What observation would distinguish the reconstruction from generic dynamical description?
 
-## Ontology
+"Abhidharma maps while IER explains" should therefore be rejected. Both frameworks explain, but they explain within different ontologies and under different standards of evidence.
 
-The Abhidharma is fundamentally phenomenological.
+## Temporality and Momentariness
 
-Its basic categories are experiential.
+The apparent contrast between discrete Abhidharma events and continuous IER experience conflates several durations.
 
-IER is fundamentally physical.
+| Temporal question | Abhidharma target | IER target |
+| --- | --- | --- |
+| Event duration | Duration of a dharma token | Duration of a specified physical transition or organization |
+| Consciousness-moment duration | Duration of one citta-cetasika assemblage | Not automatically a UEF interval or collapse event |
+| Process duration | Sequence of cittas performing differentiated functions | Extended physical trajectory or regime dynamics |
+| Model granularity | School-specific unit or phase structure | Resolution of the physical description |
+| Experienced continuity | How rapid conditioned events constitute an apparently continuous stream | Continuity of an operating UEF and its changing participation/content |
+| Subject persistence | What, if anything, persists through the sequence | Continuous instantiation of one UEF, distinct from embodied-system continuity |
 
-Its basic categories are:
+Sarvāstivāda treats the moment as an indivisible unit and applies momentariness to mental and material dharmas. Post-canonical Theravāda divides a consciousness moment into phases, treats the length of a moment contextually, and allows material phenomena to persist for multiple consciousness moments.[^time]
 
-* physical systems
-* intrinsic constraint
-* admissible transitions
-* globally integrated dynamics
+IER does not settle this dispute by declaring experience "continuous." A UEF must be sustained across a non-zero interval, but that identity condition does not specify the temporal grain of every participating event or phenomenological report.
 
-Phenomenology is derived rather than primitive.
+IER collapse is also not an Abhidharma mental moment. Collapse is an atomic contraction of reachability at the relevant frontier. "Atomic" means one indivisible reachability update, not instantaneous, microscopic, or psychologically elementary. Conflating collapse, successor realization, citta, and dharma token would recreate the very temporal identification problem the comparison must solve.
 
+## No-Self, Subjecthood, and Persistence
 
-## Explanation
+"Self" names several different questions:
 
-The Abhidharma primarily classifies.
+| Question | Abhidharma issue | IER issue |
+| --- | --- | --- |
+| Synchronic unity | Organization of one consciousness occurrence | Unity of one UEF |
+| Inner owner | Whether an agent or substance exists behind dharmas | IER posits no inner observer or self-entity |
+| Person | Conventional designation versus ultimate constituent | Embodied-system and personal description are not identical to UEF ontology |
+| Diachronic continuity | Causally connected stream of events | Dynamic dependence and sedimented physical continuity |
+| Experiential numerical identity | Not settled merely by saying "no-self" | One continuously instantiated UEF is one subject |
+| Reappearance after cessation | School-specific accounts of continuity and rebirth | A later UEF after genuine cessation is numerically distinct, even if the embodied system persists |
 
-IER primarily explains.
+Abhidharma's denial of an enduring independent self need not deny the organized unity of a consciousness moment or the conventional usefulness of person-talk. IER's identification of a UEF as one subject does not introduce an immutable soul, narrative self, or observer inside experience.
 
-For example, the Abhidharma identifies attention, feeling, and perception as distinct recurring phenomena.
+There is therefore real limited agreement against a Cartesian inner substance. But the traditions may still diverge about what is ultimately real, what continuity consists in, and whether synchronic subjecthood is an admissible ultimate description. Those questions cannot be resolved by translating *anattā* as "there is no subject" or by presenting the UEF as a Buddhist self under another name.
 
-IER asks why such distinctions arise from the organization of a Unified Experiential Field.
+## Physicality and Perception
 
-Thus the Abhidharma provides descriptive taxonomy.
+Abhidharma is not a modern scientific physical theory, but neither is it wholly nonphysical. Its taxonomies include material phenomena, and some schools develop atomistic accounts of material reality. Theravāda, Sarvāstivāda-Vaibhāṣika, and Sautrāntika also disagree about the status of perceptual objects and whether perception is direct or mediated.[^perception]
 
-IER attempts explanatory derivation.
+IER commits to one mind-independent physical reality and proposes a physical identity condition for experience. It aims to connect eventually with physics, neuroscience, and artificial systems, but it does not infer UEF presence from a traditional taxonomy or from present behavioral and computational evidence.
 
+Ancient *rūpa* should therefore not be translated directly into contemporary physical variables, and Abhidharma perception theories should not be imported as components of IER. Conversely, IER should not be described as merely adding a brain mechanism beneath an otherwise complete Abhidharma psychology. The frameworks disagree about the architecture of explanation itself.
 
-## Momentariness
+## Normativity and Soteriology
 
-Classical Abhidharma often analyzes experience as an extremely rapid succession of discrete mental events.
+Abhidharma's classifications are not value-neutral. The distinction between wholesome and unwholesome, the analysis of defilements and factors of awakening, the hierarchy of meditative attainments, and the status of nirvana are integral to the project. Taxonomic discernment is meant to participate in abandoning some organizations and developing others.[^soteriology]
 
-IER instead identifies experience with a temporally continuous dynamical regime.
+IER ontology is non-normative. Its identity claim has ethical consequences elsewhere in the framework, but admissible futures, viability, stability, integration, flexibility, and persistence are not synonyms for goodness or liberation.
 
-Discrete transitions certainly occur within IER — for example, collapse across the history — future boundary — but the Unified Experiential Field itself is continuous rather than reconstructed from isolated experiential atoms.
+It therefore does not follow that:
 
-Whether these views are ultimately incompatible or merely employ different descriptive levels remains an open question.
+- wholesome means a wider future cone;
+- unwholesome means a narrow attractor;
+- equanimity means a shallow or metastable attractor;
+- nonattachment means maximal flexibility;
+- suffering means threatened system continuation; or
+- nibbāna is a UEF regime.
 
+Any such proposal would need its own argument and would remain a comparative hypothesis rather than a consequence of IER canon.
 
-## No-Self and Identity
+## Explanatory Ambition
 
-Many Abhidharma traditions argue that no enduring self exists beyond the succession of conditioned events.
+Abhidharma attempts to explain experience through taxonomic individuation, conditional relations, consciousness processes, karma, momentariness, and soteriological development. IER attempts to explain what experience is through a physical identity claim and to describe experiential organization through intrinsic constraint and its lawful dynamics.
 
-IER distinguishes between:
+IER has not yet derived the Abhidharma taxonomies. The generic sequence
 
-* experiential subjecthood,
-* experiential content,
-* physical identity.
+```text
+intrinsic constraint
+-> experiential organization
+-> recurring signature
+-> traditional category
+```
 
-A Unified Experiential Field exists as a single experiential subject while it persists, even though its internal organization continuously changes.
+does not explain why a tradition distinguishes these categories, why particular factors co-occur, or why specific transitions are possible. Without those consequences, it redescribes the fact that experience has recurring organization.
 
-Thus IER preserves subjecthood without introducing a Cartesian self or immutable soul.
+For an IER account to become explanatory, it would need to:
 
-The disagreement is therefore partly terminological and partly substantive.
+1. specify the relevant physical organization without using the target category to define it;
+2. predict a category boundary, co-occurrence restriction, transition pattern, or intervention effect;
+3. explain why nearby alternatives do not produce the same result;
+4. outperform a generic dynamical or cognitive description; and
+5. permit the correspondence to fail.
 
+Until then, "What IER adds" is best expressed as *what an IER explanation would have to show*.
 
-## Physical Commitment
+## A Comparative Research Program
 
-The Abhidharma was never intended as a physical theory.
+A disciplined study can use the following protocol:
 
-IER explicitly is.
+### Step 1: Fix the source target
 
-IER therefore attempts to connect experience with:
+Name the school, text, and historical stratum. For example:
 
-* neuroscience,
-* artificial intelligence,
-* dynamical systems,
-* explainable machine learning,
-* physical law.
+> the association rules for unwholesome mental factors in the Theravāda *Abhidhammatthasaṅgaha* tradition
 
-This makes empirical engagement central rather than optional.
+is a better target than:
 
+> negative states in Buddhist psychology.
 
-## Complementary Strengths
+### Step 2: Fix the analytical object
 
-The two frameworks appear to possess opposite strengths.
+State whether the target is a dhamma type, token, citta-cetasika assemblage, conditional relation, consciousness process, or soteriological classification.
 
-The Abhidharma offers:
+### Step 3: Preserve internal structure
 
-* an extraordinarily rich phenomenological vocabulary,
-* centuries of accumulated experiential classification,
-* detailed distinctions often absent from modern psychology.
+Record definitions, functions, co-occurrence rules, exclusions, temporal relations, and evaluative status before introducing IER vocabulary.
 
-IER offers:
+### Step 4: Construct an independent IER model
 
-* explicit physical ontology,
-* mathematical structure,
-* mechanistic explanation,
-* compatibility with contemporary science.
+Specify the relevant physical organization, system boundary, intrinsic constraint, participation, regime, trajectory, or structural signature without defining it as "whatever realizes" the traditional category.
 
-Neither naturally replaces the other.
+### Step 5: Derive discriminating consequences
 
-Instead, they occupy different positions within a possible unified research program.
+Test whether the model predicts:
 
+- an allowed or forbidden association;
+- a transition order;
+- a distinction between superficially similar categories;
+- a response to perturbation or intervention; or
+- a principled failure of one-to-one correspondence.
 
-## A Possible Research Program
+### Step 6: Evaluate alternatives
 
-One intriguing possibility is to compare three independently developed descriptions of cognition.
+Compare the proposed IER account with translation effects, doctrinal inheritance, ordinary dynamical systems, existing cognitive science, and the possibility that the traditional classification does not track one stable organization.
 
-First-person phenomenology:
+This protocol turns apparent resemblance into a falsifiable identification problem.
 
-* the Abhidharma
+## The Attachment Case as a Warning
 
-Physical organization:
+The English word *attachment* illustrates why this discipline is necessary. It can combine interpersonal bonding, dependence, preference, possessiveness, craving, greed, clinging, fixation, identification, and vulnerability to loss. Theravāda sources do not treat all of these as one technical category.
 
-* Informational Experiential Realism
+In the manual tradition, craving (*taṇhā*) is distinguished from clinging (*upādāna*) in dependent arising. Craving is analyzed through the mental factor greed (*lobha*). Sensual clinging is intensified greed, while the other forms of clinging are modes of wrong view conditioned by greed.[^attachment]
 
-Internal computational organization:
-
-* explainable artificial intelligence
-
-If recurring organizational structures appear across all three domains, this would suggest that they reflect genuine regularities rather than arbitrary conceptual choices.
-
-Such agreement would not prove any framework correct.
-
-However, systematic convergence across independent methodologies would deserve serious investigation.
-
-Conversely, systematic disagreement could reveal where one or more frameworks require revision.
-
+An article that assigns one attractor geometry or continuation organization to "attachment" therefore begins with an unidentified object. The correct result at this stage is not a polished interpretation but an account of the identification problem and the evidence a future reconstruction would require.
 
 ## Explicit Non-Claims
 
-This document does not claim:
+This comparison does not claim:
 
-* that Buddhism anticipated IER,
-* that IER validates Buddhism,
-* that Abhidharma categories correspond one-to-one with IER concepts,
-* that contemplative practice substitutes for scientific investigation,
-* that phenomenology alone determines ontology.
-
-The comparison is heuristic rather than evidential.
-
+- that Buddhism anticipated IER;
+- that Abhidharma is merely phenomenology;
+- that IER is a scientific completion of Abhidharma;
+- that a dharma is a state-space region;
+- that citta is a UEF;
+- that cetasikas are IER control variables or component subjects;
+- that Abhidharma momentariness is equivalent to IER collapse;
+- that no-self is equivalent to the denial of experiential subjecthood;
+- that wholesome and unwholesome categories reduce to adaptive dynamics;
+- that agreement in English vocabulary establishes structural convergence; or
+- that failure to map a category falsifies either framework by itself.
 
 ## Conclusion
 
-The Abhidharma and Informational Experiential Realism begin from opposite ends of the same problem.
+IER and Abhidharma share a refusal to leave experience as an unanalyzed ordinary-language given. Both seek structured regularities, and both treat present occurrence as dependent on organized relations.
 
-The Abhidharma starts with lived experience and seeks a comprehensive taxonomy.
+Those similarities establish a reason to compare the frameworks, not a correspondence between them.
 
-IER starts with physical organization and seeks an explanation for why experience exists at all.
+Abhidharma is a family of exegetical, taxonomic, causal, metaphysical, epistemological, contemplative, and soteriological projects. IER is a physicalist identity theory with its own ontology and explanatory constraints. The comparison becomes productive only after it identifies a specific tradition, analytical object, and independently specified IER organization.
 
-If IER is broadly correct, historical phenomenological systems such as the Abhidharma become valuable — not because they possess independent epistemic authority, but because they provide unusually detailed observational datasets against which structural theories of experience may be compared.
+The immediate research task is therefore not to translate an Abhidharma atlas into IER language. It is to discover whether any particular traditional distinction survives disciplined reconstruction — and to learn from the cases in which it does not.
 
-Viewed in this way, the Abhidharma is neither merely a religious text nor a scientific theory.
+## Sources
 
-It is a remarkably ambitious attempt to map the structure of experience using the conceptual resources available to its time. Its enduring value may lie not in providing final answers, but in offering one of the richest phenomenological atlases ever produced — an atlas that modern physical theories of consciousness can now begin to evaluate, explain, and, where appropriate, revise.
+- Noa Ronkin, ["Abhidharma," *The Stanford Encyclopedia of Philosophy*](./Abhidharma%20%28Stanford%20Encyclopedia%20of%20Philosophy%29.pdf), substantive revision March 31, 2026.
+- Bhikkhu Bodhi, general editor, [*A Comprehensive Manual of Abhidhamma: The Abhidhammattha Saṅgaha of Ācariya Anuruddha*](./Comprehensive%20Manual%20of%20Abhidhamma%20-%20Bhikkhu%20Bodhi.pdf), third edition, Buddhist Publication Society, 2007.
+
+Canonical IER claims in this document are constrained by the current IER specification, theory, dynamics, ontology, continuity, identity, coordinate-systems, and projection documents. If this comparison conflicts with those sources, they control.
+
+[^sources]: Ronkin, "Abhidharma," introduction and §1; Bodhi, *Comprehensive Manual*, title matter and Introduction, pp. 1-20.
+[^taxonomy]: Ronkin, "Abhidharma," §§2 and 4; Bodhi, *Comprehensive Manual*, Introduction, pp. 3-9, and Chapter I, pp. 25-27.
+[^origins]: Ronkin, "Abhidharma," §§1-1.2; Bodhi, *Comprehensive Manual*, Introduction, pp. 9-18.
+[^citta]: Ronkin, "Abhidharma," §2; Bodhi, *Comprehensive Manual*, Chapters I-II, especially pp. 25-29 and 76-110.
+[^causation]: Ronkin, "Abhidharma," §5; Bodhi, *Comprehensive Manual*, Introduction, pp. 8-9, and Chapter VIII, pp. 292-325.
+[^time]: Ronkin, "Abhidharma," §3.
+[^perception]: Ronkin, "Abhidharma," §6.
+[^soteriology]: Ronkin, "Abhidharma," §2; Bodhi, *Comprehensive Manual*, Introduction, pp. 3-5.
+[^attachment]: Bodhi, *Comprehensive Manual*, Chapter VIII, pp. 294-298; see also Chapter VII, discussion of the four kinds of clinging.
