@@ -14,10 +14,13 @@ ier:
 
 ## Subjective Time as Frontier-Structured Irreversibility
 
-**Informational Experiential Realism (IER v10.10.2)**  
-*Tier 2 · Synthesis · Explanatory · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.10.2)**\
+*Tier 2 — Synthesis — Explanatory — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document is explanatory and non-normative.
 
@@ -223,7 +226,7 @@ No additional temporal mechanism is required.
 
 ## The Specious Present — Co-Determination Before Collapse
 
-*IER-specious-present* establishes:
+*IER specious-present* establishes:
 
 > The specious present is the maximal span over which constraint organization remains actively co-determining frontier resolution prior to collapse.
 
@@ -353,7 +356,7 @@ flowchart TB
   PG --> CU
 ```
 
-Figure 1. Temporal structure under IER.  
+Figure 1. Temporal structure under IER.
 This diagram summarizes the subjective-time cluster as one continuous frontier architecture. The top sequence shows future-facing organization within admissible continuation: future openness, anticipation, prospection, planning, and integration envelopes leading into live frontier operation. The middle sequence shows irreversible structure formation: binding, collapse as contraction of (A(s)), welding, and propagation. From this pipeline arise event segmentation, past fixity, memory re-entry, and subjective duration. Narrative, music, and culture appear here as post-collapse temporal organizers and external scaffolds of temporal structure, not as generators of collapse or admissibility.
 
 
@@ -405,7 +408,7 @@ flowchart TB
   CP --> IE
 ```
 
-Figure 2. Live frontier organization, irreversible articulation, and temporal scaffolds.  
+Figure 2. Live frontier organization, irreversible articulation, and temporal scaffolds.
 The top block shows cognition operating within the future cone: anticipation, prospection, planning, integration envelopes, and frontier operation. The middle block shows the irreversible pipeline: binding, collapse, welding, and propagation, from which event segmentation, memory re-entry, past fixity, and duration become possible. The bottom block shows external temporal scaffolds — rhythm, speech timing, narrative pacing, and cultural pacing — which stabilize or shape envelope organization without generating collapse, admissibility, or irreversibility themselves.
 
 > Figures 1 and 2 make explicit that subjective time is not produced by a clock or timeline, but by the relation between reversible frontier organization, irreversible contraction, and the persistence of propagated deformation.
@@ -429,7 +432,7 @@ Thus:
 
 ## Subjective Duration — Registered Deformation Density
 
-*IER-duration* establishes:
+*IER duration* establishes:
 
 > Experienced duration tracks the density and structural organization of cognitively registered welded deformation.
 
@@ -559,7 +562,7 @@ Additionally:
 ## Structural Summary
 
 | phenomenon         | frontier structure                   |
-| ------------------ | ------------------------------------ |
+| --- | --- |
 | present thickness  | pre-collapse co-determination        |
 | continuity         | reversible organization              |
 | discreteness       | collapse                             |

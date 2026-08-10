@@ -15,11 +15,14 @@ ier:
 
 ## A Structural Reconstruction of Existential Selfhood
 
-**Informational Experiential Realism (IER v10.10.7)**  
+**Informational Experiential Realism (IER v10.10.7)**\
 *T2 | Comparative / Translation Article | Canon-Constrained | Non-Normative*
 
-
 ## Status, Scope, and Authority
+
+
+
+
 
 This document is explanatory and non-normative.
 
@@ -46,7 +49,7 @@ Its purpose is narrower:
 
 > to reinterpret selected Kierkegaardian observations structurally through Informational Experiential Realism.
 
-All ontological and epistemic authority remains fixed exclusively in canonical IER documents.
+The governing corpus retains all binding authority.
 
 If any statement here conflicts with canonical documents, canonical documents prevail.
 
@@ -293,7 +296,7 @@ Human beings often look backward and wonder:
 
 > Who might I have become?
 
-*IER-regret* provides a structural interpretation.
+*IER regret* provides a structural interpretation.
 
 Regret arises when:
 

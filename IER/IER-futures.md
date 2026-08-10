@@ -20,10 +20,13 @@ ier:
 
 ## Admissibility Domains and the Structure of Futures
 
-**Informational Experiential Realism (IER v10.9.9)**  
-*Tier 2 · Structural Clarification · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.9.9)**\
+*Tier 2 — Structural Clarification — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document:
 
@@ -206,7 +209,7 @@ Successor realization:
 * does not imply gradual pruning of alternatives,
 * does not imply selection among candidates.
 
-Graph paths and traversal terminology are representational tools only used to describe admissibility structure.  
+Graph paths and traversal terminology are representational tools only used to describe admissibility structure.
 They do not describe physical processes occurring within the system.
 
 Successor realization preserves admissibility.

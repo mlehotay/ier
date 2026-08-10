@@ -16,10 +16,13 @@ ier:
 
 ## Ordinary Language as Compression of Constraint Geometry
 
-**Informational Experiential Realism (IER v10.11.0)**  
-*Tier 2 · Explanatory · Translational · Non-Normative · Non-Criterial*
+**Informational Experiential Realism (IER v10.11.0)**\
+*Tier 2 — Explanatory — Translational — Non-Normative — Non-Criterial*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document provides a translation layer between ordinary folk-psychological language and the structural vocabulary of Informational Experiential Realism (IER).
 
@@ -34,9 +37,9 @@ It:
 - assigns no truth, correctness, or rational status to any state
 - introduces no internal subsystems, faculties, or modules
 - does not define when experience exists
-- does not modify any identity or constraint claims fixed in the *IER-specification*
+- does not modify any identity or constraint claims fixed in the *IER specification*
 
-All ontological, criterial, and epistemic authority remains fixed in Tier-1 foundation documents.
+The governing corpus retains all binding authority.
 
 This document is canon-constrained and introduces no independent authority.
 

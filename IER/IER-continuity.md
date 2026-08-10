@@ -16,10 +16,13 @@ ier:
 
 ## Time, Experiential Regimes, and the Continuity of Persons: Why Experience Flows, Interrupts, and Persists Across System Continuity
 
-**Informational Experiential Realism (IER v10.8.4)**  
-*Tier 2 · Elaboration · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.8.4)**\
+*Tier 2 — Elaboration — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document is NON-NORMATIVE.
 
@@ -247,7 +250,7 @@ This document establishes no ethical criteria. It clarifies why:
 * preserved capacity is ethically central,
 * temporal interruption does not negate standing.
 
-Normative commitments remain fixed in Ethics and Specification.
+The governing corpus retains all binding authority.
 
 
 ## What This Account Does Not Do

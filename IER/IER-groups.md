@@ -18,6 +18,9 @@ ier:
 
 ## Status, Scope, and Authority
 
+
+
+
 This document is explanatory and non-normative.
 
 It:
@@ -28,14 +31,14 @@ It:
 * does not rank groups relative to other relational regimes
 * does not prescribe how groups ought to be formed, governed, or valued
 
-All ontological authority remains fixed exclusively in the IER Specification and its canonical derivatives.
+The governing corpus retains all binding authority.
 
 Purpose of this document
 
 > To analyze groups as coordination regimes that distribute constraint across roles and norms without ever constituting an experiential subject under Informational Experiential Realism (IER).
 
 This document develops only the structural region occupied by groups.
-The general relational map and shared machinery are defined in *IER-Relationships*.
+The general relational map and shared machinery are defined in *IER Relationships*.
 
 ### Invariant Constraints (Binding)
 

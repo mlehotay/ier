@@ -2,9 +2,12 @@
 
 *A source-constrained comparative application of Informational Experiential Realism (IER)*
 
-## Status, Scope, and Authority
+## Status
 
-*Status:* Experimental | Non-canonical | Comparative | Non-normative
+Status: experimental
+Authority: non-canonical
+
+*Experimental | Comparative | Non-normative*
 
 This directory investigates whether selected distinctions developed in specified Abhidharma traditions can be reconstructed under Informational Experiential Realism (IER).
 

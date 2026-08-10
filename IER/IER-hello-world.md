@@ -14,10 +14,13 @@ ier:
 
 ## Minimal Proof-of-Possibility for Experiential Identity
 
-**Informational Experiential Realism (IER v10.10.4)**  
-*Tier 2 · Expository · Proof-of-concept · Non-Normative*
+**Informational Experiential Realism (IER v10.10.4)**\
+*Tier 2 — Expository — Proof-of-concept — Non-Normative*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document is non-normative and included for public repository orientation.
 

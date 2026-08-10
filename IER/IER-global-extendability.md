@@ -41,7 +41,7 @@ then some global continuation must realize it
 
 This assumption holds approximately within product future structures.
 
-However, *IER-non-product-state-spaces* establishes that admissible futures need not factorize into independently combinable subsystem continuations.
+However, *IER non-product-state-spaces* establishes that admissible futures need not factorize into independently combinable subsystem continuations.
 
 Within such structures:
 
@@ -54,7 +54,7 @@ This document clarifies that distinction.
 
 ## Reachability Is Not Extendability
 
-*IER-reachability-margin* defines reachability as a binary boundary condition:
+*IER reachability-margin* defines reachability as a binary boundary condition:
 
 ```text id="7m2r5w"
 reachable
@@ -75,7 +75,7 @@ It does not guarantee:
 * coherent propagation,
 * or participation in any globally sustainable trajectory.
 
-As *IER-stabilization* states:
+As *IER stabilization* states:
 
 > “Immediate reachability does not guarantee continued existence of admissible successors.”
 
@@ -149,7 +149,7 @@ cannot coexist globally
 
 Some combinations fail to belong to the admissible successor structure even while remaining locally coherent.
 
-As established in *IER-non-product-state-spaces*:
+As established in *IER non-product-state-spaces*:
 
 > a subsystem continuation may appear locally possible while remaining globally inadmissible.
 
@@ -195,7 +195,7 @@ The apparent contradiction arises because local admissibility and global extenda
 
 ## Reachability Margin and Extendability
 
-*IER-reachability-margin* introduces directional reachability margin as a pre-collapse measure of proximity to foreclosure.
+*IER reachability-margin* introduces directional reachability margin as a pre-collapse measure of proximity to foreclosure.
 
 A continuation may therefore possess:
 
@@ -208,7 +208,7 @@ while still lacking globally extendable continuation.
 This reveals an important structural separation:
 
 | structure            | question                                                             |
-| -------------------- | -------------------------------------------------------------------- |
+| --- | --- |
 | reachability         | can the continuation occur immediately?                              |
 | reachability margin  | how close is it to foreclosure?                                      |
 | viability            | how robust is the future region?                                     |
@@ -220,7 +220,7 @@ These layers must not be conflated.
 
 ## Extendability and Stabilization
 
-*IER-stabilization* defines stabilization in terms of extendable trajectories supporting coherent continuation under intrinsic constraint.
+*IER stabilization* defines stabilization in terms of extendable trajectories supporting coherent continuation under intrinsic constraint.
 
 The stabilization set is $\Upsilon(A_{t^+})$.
 
@@ -248,7 +248,7 @@ Only the local continuation fails to participate in any extendable admissible tr
 
 ## Extendability and Settlement
 
-*IER-settlement* describes settlement as irreversible reduction of admissible futures under intrinsic constraint.
+*IER settlement* describes settlement as irreversible reduction of admissible futures under intrinsic constraint.
 
 Within non-product future structures:
 
@@ -269,7 +269,7 @@ No observer chooses among futures.
 
 The continuation simply fails to belong to the globally extendable admissible structure.
 
-As *IER-resolution* emphasizes:
+As *IER resolution* emphasizes:
 
 > physical resolution does not require agency, selection, or ownership.
 

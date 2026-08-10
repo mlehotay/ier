@@ -18,10 +18,13 @@ ier:
 
 ## Why Experience Does Not Imply What Intuition Demands
 
-**Informational Experiential Realism (IER v10.11.1)**  
-*Tier 3 · Misuse-Blocking / Epistemic Boundary · Canon-Binding (Negative)*  
+**Informational Experiential Realism (IER v10.11.1)**\
+*Tier 3 — Misuse-Blocking / Epistemic Boundary — Canon-Binding (Negative)*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document is canon-binding in a negative sense. It introduces no new ontological, criterial, epistemic, or ethical commitments. Its role is strictly restrictive: it blocks illegitimate inference from experiential existence to broader explanatory, epistemic, moral, probabilistic, or metaphysical conclusions.
 
@@ -88,7 +91,7 @@ Continuation occurs through atomic resolution under intrinsic constraint, not th
 
 ## Experience and Epistemic Non-Authority
 
-*IER-access* establishes a specific boundary:
+*IER access* establishes a specific boundary:
 
 > Experiential structure confers no epistemic authority.
 
@@ -189,7 +192,7 @@ However, the existence of experience does not entail:
 - moral ranking by probability
 - permission to downgrade others under uncertainty
 
-Ethical consequence under uncertainty is governed by the *IER-ethics*, including [Principle 13](IER-specification.md#principle-13-precaution-under-experiential-uncertainty).
+Ethical consequence under uncertainty is governed by the *IER ethics*, including [Principle 13](IER-specification.md#principle-13-precaution-under-experiential-uncertainty).
 
 This document restricts illegitimate inference. It does not adjudicate moral decision-making.
 

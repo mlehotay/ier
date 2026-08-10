@@ -18,6 +18,9 @@ ier:
 
 ## Status, Scope, and Authority
 
+
+
+
 This document is explanatory and non-normative.
 
 It:
@@ -28,7 +31,7 @@ It:
 * does not rank cognitive styles, capacities, or outcomes
 * does not posit faculties, modules, observers, or representational levels
 
-All binding authority remains fixed exclusively in:
+The governing corpus retains all binding authority.
 
 The relevant canonical IER documents govern this clarification.
 
@@ -153,7 +156,7 @@ Because participation is gated, memory:
 
 This explains why remembering does not require reliving, and why fidelity is neither guaranteed nor required.
 
-This usage presupposes the structural account developed in *IER-memory* and introduces no additional mechanisms.
+This usage presupposes the structural account developed in *IER memory* and introduces no additional mechanisms.
 
 ## Forgetting as Participation Failure
 
@@ -170,7 +173,7 @@ Topologies that require:
 
 fail earlier than those satisfied by lawful continuity.
 
-This follows the non-loss, non-erasure account developed in *IER-forgetting*.
+This follows the non-loss, non-erasure account developed in *IER forgetting*.
 
 ## Imagination and Planning as Future-Oriented Reproduction
 

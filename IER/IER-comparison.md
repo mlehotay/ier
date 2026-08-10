@@ -15,14 +15,17 @@ ier:
 
 ## Rubric-Aligned Comparison of Theories of Experience
 
-**Informational Experiential Realism (IER v10.11.1)**  
-*Tier-3 · Comparative Boundary Clarification · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.1)**\
+*Tier-3 — Comparative Boundary Clarification — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
 
+
+
+
 This document compares IER with selected theories, theory families, metaphysical
 positions, and research programs concerning experience or consciousness. It
-applies the methodological constraints of *IER-rubric*.
+applies the methodological constraints of *IER rubric*.
 
 It:
 
@@ -35,9 +38,8 @@ It:
 The profiles are concise reconstructions, not substitutes for the cited primary
 literature. Rapidly developing theories must be read relative to the versions
 identified here. IER's own profile is constrained by the IER canon; if it
-conflicts with the *IER-specification*, the specification prevails.
+conflicts with the *IER specification*, the specification prevails.
 
-## Claim-Status Key
 
 Every row should be read under one or more of these labels:
 
@@ -93,10 +95,10 @@ use of IIT terminology or every ethical proposal inspired by IIT.
 | Dimension | Reconstruction and status |
 | --- | --- |
 | Explanandum | Explicit: The existence, amount, and phenomenal structure of experience, beginning from phenomenological axioms. |
-| Constitutive / explanatory claim | Explicit: An experience is identical to a substrate's maximally irreducible cause–effect structure, specified through IIT's postulates and system- and structure-level quantities. It is not adequately summarized as merely “high $\Phi$.” |
+| Constitutive / explanatory claim | Explicit: An experience is identical to a substrate's maximally irreducible cause — effect structure, specified through IIT's postulates and system- and structure-level quantities. It is not adequately summarized as merely “high $\Phi$.” |
 | Unity | Explicit: Exclusion selects a definite maximal substrate and its irreducible structure. Multiple complexes may exist, but overlapping candidates are not all simultaneous nested subjects. |
 | Subject individuation | Explicit: A conscious entity corresponds to a complex selected under the exclusion postulate. The implications for numerous small non-overlapping complexes remain controversial. |
-| Qualitative character | Explicit: Phenomenal character corresponds to the distinctions and relations composing the cause–effect structure. The existence and essential properties of experience are axiomatic; particular qualities are structurally specified rather than added as free-standing primitives. |
+| Qualitative character | Explicit: Phenomenal character corresponds to the distinctions and relations composing the cause — effect structure. The existence and essential properties of experience are axiomatic; particular qualities are structurally specified rather than added as free-standing primitives. |
 | Temporal commitments | Explicit: Exclusion includes a temporal grain. Unspecified: IIT 4.0 does not thereby supply a complete account of long-term subject persistence, experiential gaps, or resumed numerical identity. |
 | Empirical operationalization | Explicit: IIT proposes an in-principle causal analysis. Direct calculation for realistic brains is computationally prohibitive; empirical proxies such as perturbational measures are not identical to a full IIT calculation. |
 | Third-person attribution | Explicit in principle, limited in practice: IIT claims that its formal analysis can determine consciousness for a fully specified system, but practical access to the required causal structure is severely constrained. |

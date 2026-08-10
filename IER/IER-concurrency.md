@@ -11,10 +11,13 @@ ier:
 ---
 # Co-Presence Without Parallelism
 
-**Informational Experiential Realism (IER v10.11.0)**\
-*Elaboration — Non-Normative — Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.2)**\
+*T2 — ELABORATION — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+
+
 
 This article explains how multiple thoughts, sensations, and reproduced structures can be co-present within a single Unified Experiential Field (UEF) without multithreading, modularization, or parallel ownership.
 
@@ -34,6 +37,10 @@ The relevant canonical IER documents govern this clarification.
 This article is explanatory only.
 
 ## Why “Multiple Streams” Is the Wrong Abstraction
+
+*Elaboration — Non-Normative — Canon-Constrained*
+
+
 
 Ordinary descriptions of experience frequently invoke:
 
@@ -106,7 +113,7 @@ They persist because they are cheap, not because they compete.
 
 ## Binding as the Exclusivity Condition
 
-As defined in *IER-binding*:
+As defined in *IER binding*:
 
 > Binding is frontier relevance — participation such that dropping it would alter admissible futures under intrinsic constraint.
 

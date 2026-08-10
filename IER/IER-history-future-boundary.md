@@ -19,6 +19,9 @@ ier:
 
 ## Status, Scope, and Authority
 
+
+
+
 This document names and clarifies a single structural locus already presupposed throughout the IER corpus:
 
 > the frontier at which sedimented history constrains admissible futures and collapse may occur.
@@ -32,7 +35,7 @@ It:
 
 It performs structural clarification only.
 
-All ontological authority remains fixed in:
+The governing corpus retains all binding authority.
 
 The relevant canonical IER documents govern this clarification.
 

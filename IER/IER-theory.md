@@ -21,14 +21,17 @@ ier:
 
 ## Conceptual Backbone and Explanatory Integration
 
-**Informational Experiential Realism (IER v10.11.1)**  
-*Tier 1 · Foundational · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.1)**\
+*Tier 1 — Foundational — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
 
+
+
+
 This document is NON-NORMATIVE.
 
-It provides the explanatory integration of Informational Experiential Realism (IER), clarifying how the commitments fixed exclusively in the *IER-specification* fit together.
+It provides the explanatory integration of Informational Experiential Realism (IER), clarifying how the commitments fixed exclusively in the *IER specification* fit together.
 
 This document:
 

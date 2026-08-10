@@ -14,10 +14,13 @@ ier:
 
 ## Why Arbitrarily Rich Structure Can Still Be Zero Experience
 
-**Informational Experiential Realism (IER v10.9.0)**  
-*Tier 2 · Explanatory · Non-Normative · Boundary-Enforcing*
+**Informational Experiential Realism (IER v10.9.0)**\
+*Tier 2 — Explanatory — Non-Normative — Boundary-Enforcing*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document is explanatory and non-normative.
 

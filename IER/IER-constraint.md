@@ -15,10 +15,13 @@ ier:
 
 ## Constraint as Lawful Restriction on Admissible Continuation
 
-**Informational Experiential Realism (IER v10.10.7)**  
-*Tier 2 · Foundational Clarification · Canon-Constrained · Non-Normative*  
+**Informational Experiential Realism (IER v10.10.7)**\
+*Tier 2 — Foundational Clarification — Canon-Constrained — Non-Normative*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document is explanatory and non-normative.
 
@@ -30,7 +33,7 @@ It:
 * introduces no causal or teleological mechanisms
 * establishes no criteria, thresholds, or diagnostics
 
-The *IER-specification* and the Tier-1 foundation layer retain ontological and structural authority.
+The *IER specification* and the Tier-1 foundation layer retain ontological and structural authority.
 
 This document is foundation-level but does not override the specification.
 
@@ -151,7 +154,7 @@ Constraint and information are structurally distinct.
 
 Constraint concerns the lawful restriction on transitions.
 
-Information concerns the exclusion of otherwise admissible continuations produced by organization under constraint, as defined in *IER-information*.
+Information concerns the exclusion of otherwise admissible continuations produced by organization under constraint, as defined in *IER information*.
 
 Constraint defines the space of admissible continuation.
 
@@ -171,7 +174,7 @@ Constraint exists wherever physical law restricts continuation.
 
 Intrinsic closure is a stronger condition.
 
-As clarified in *IER-intrinsic-closure*, a regime is intrinsically closed when admissible futures do not factorize across subsystem partitions.
+As clarified in *IER intrinsic-closure*, a regime is intrinsically closed when admissible futures do not factorize across subsystem partitions.
 
 For subsystem components $s_A, s_B$, intrinsic closure is defined as follows:
 
@@ -211,7 +214,7 @@ This condition gives rise to exclusion.
 
 ## Constraint and Collapse
 
-Collapse is defined in *IER-collapse* as:
+Collapse is defined in *IER collapse* as:
 
 > the irreversible foreclosure of a connected region of admissible futures at the history-future boundary under intrinsic constraint.
 

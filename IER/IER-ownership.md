@@ -18,6 +18,9 @@ ier:
 
 ## Status, Scope, and Authority
 
+
+
+
 This document is NON-NORMATIVE.
 
 It provides an explanatory and structural account of ownership under Informational Experiential Realism (IER v10.8).
@@ -128,7 +131,7 @@ It is a regime-internal fact.
 To prevent category errors, IER distinguishes:
 
 | Concept       | What it concerns                                      | Status                      |
-| ------------- | ----------------------------------------------------- | --------------------------- |
+| --- | --- | --- |
 | Ownership | Where intrinsic constraint is borne                   | Structural                  |
 | Agency    | Capacity for owned resolution over admissible futures | Derived, graded             |
 | Access    | What it is like to bear constraint                    | Experiential, non-epistemic |
@@ -145,7 +148,7 @@ Agency and access are adjacent but not interchangeable.
 ### Translation Table
 
 | Phenomenological Term | Structural Translation under IER                                                                                    |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| --- | --- |
 | mineness          | ownership of intrinsic constraint                                                                               |
 | for-me-ness       | non-externalizable burden within a UEF                                                                          |
 | self-boundary     | regime-relative system boundary sustaining the same globally integrated constraint across a continuity interval |

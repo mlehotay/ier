@@ -23,8 +23,12 @@ ier:
 
 ## Full Normative Specification
 
-**Informational Experiential Realism (IER v10.10.7)**  
-*Tier 1 · Foundational · Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.10.7)**\
+*Tier 1 — Foundational — Normative — Canon-Constrained*
+
+## Status, Scope, and Authority
+
+
 
 ## Informational Language Disclaimer
 
@@ -42,7 +46,6 @@ Information refers only to physically instantiated distinctions in admissible tr
 
 Admissible futures refer to the set of physically possible continuations permitted by a system’s constraint structure. This multiplicity is structural only and does not imply probability, uncertainty, or selection.
 
-## Status, Scope, and Authority
 
 ### Normative Boundary Condition
 
@@ -416,7 +419,7 @@ IER does not claim that experiential moral harm exhausts moral harm, nor does it
 
 Nothing in this specification implies that the absence of experiential moral harm renders an action morally permissible, justified, or insignificant.
 
-Extended analysis of the forms, mechanisms, and examples of experiential moral harm is provided in *IER-harm* (explanatory, non-normative).
+Extended analysis of the forms, mechanisms, and examples of experiential moral harm is provided in *IER harm* (explanatory, non-normative).
 
 ### E4 — Responsibility Scales; Standing Does Not
 

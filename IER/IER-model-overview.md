@@ -18,10 +18,13 @@ ier:
 
 ## The Structural Geometry of Informational Experiential Realism
 
-**Informational Experiential Realism (IER v10.10.7)**  
-*Tier 2 · Explanatory · Synthetic · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.10.7)**\
+*Tier 2 — Explanatory — Synthetic — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document presents a unified structural overview of Informational Experiential Realism.
 
@@ -35,7 +38,7 @@ This article:
 - establishes no criteria, thresholds, or diagnostics
 - confers no epistemic authority
 
-All structural authority remains fixed in Tier-1 foundation documents.
+The governing corpus retains all binding authority.
 
 This document is canon-constrained and introduces no independent authority.
 
@@ -268,7 +271,7 @@ It does not recover full structural causation.
 At human scale, structural processes appear as layered organization:
 
 | structural organization | experiential appearance |
-|-------------------------|-------------------------|
+| --- | --- |
 | participation + interpretation | what is going on |
 | participation + interpretation + bias | what feels viable |
 | participation + interpretation + bias + deviation binding | what is unclear or tense |
@@ -334,15 +337,15 @@ IER excludes:
 
 Informational Experiential Realism describes a single structure evolving under intrinsic constraint.
 
-Admissible futures define the frontier.  
-Frontier geometry organizes possibility.  
-Frontier mechanics produce irreversible change.  
-Trajectories extend structure across sequences.  
-Structural signatures compress geometry.  
-Projections interpret structure.  
+Admissible futures define the frontier.
+Frontier geometry organizes possibility.
+Frontier mechanics produce irreversible change.
+Trajectories extend structure across sequences.
+Structural signatures compress geometry.
+Projections interpret structure.
 Representation systems describe it.
 
-One structure.  
-Layered description.  
-No chooser.  
+One structure.
+Layered description.
+No chooser.
 No second system.

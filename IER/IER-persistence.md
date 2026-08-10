@@ -15,9 +15,12 @@ ier:
 ## *Learning, Plasticity, and Change Within Unified Experiential Fields*
 
 **Informational Experiential Realism (IER v10.10.2)**\
-*Tier 2 · Elaboration · Non-Normative · Canon-Constrained*
+*Tier 2 — Elaboration — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document is explanatory and non-normative.
 

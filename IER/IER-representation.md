@@ -12,16 +12,18 @@ filename: IER-representation.md
 
 ---
 
-# **IER-representation.md**
+# *IER representation*
 
-## **Representation as Structural Preservation Across Transformation**
+## Representation as Structural Preservation Across Transformation
 
-**Informational Experiential Realism (IER)**
-*Explanatory · Non-Normative*
+**Informational Experiential Realism (IER v10.11.2)**\
+*Explanatory — Non-Normative*
 
----
+## Status, Scope, and Authority
 
-# Status and Scope
+
+
+
 
 This document is explanatory and non-normative.
 
@@ -35,9 +37,8 @@ It:
 
 Its purpose is to clarify what representations are and why apparently different forms can nevertheless be understood as representing the same thing.
 
----
 
-# 1. The Representation Problem
+## The Representation Problem
 
 Human beings routinely treat radically different forms as representations of the same underlying structure.
 
@@ -67,9 +68,8 @@ Yet observers frequently judge them to be:
 
 This judgment requires explanation.
 
----
 
-# 2. Representation Is Not Identity
+## Representation Is Not Identity
 
 Representations are often mistaken for the things they represent.
 
@@ -95,9 +95,8 @@ A representation exists precisely because it is not identical to the thing it re
 
 If identity were possible, representation would be unnecessary.
 
----
 
-# 3. Representation as Transformation
+## Representation as Transformation
 
 Representations are transformations.
 
@@ -146,9 +145,8 @@ into:
 
 Representation therefore always involves transformation.
 
----
 
-# 4. Representation as Structural Preservation
+## Representation as Structural Preservation
 
 Transformation alone does not produce representation.
 
@@ -174,9 +172,8 @@ No representation preserves nothing.
 
 A representation exists because some organization survives transformation.
 
----
 
-# 5. The Problem of Invariance
+## The Problem of Invariance
 
 The central question of representation is not:
 
@@ -220,9 +217,8 @@ Representation therefore appears fundamentally as:
 
 > preservation of organizational invariance across transformation.
 
----
 
-# 6. Representation and Organization
+## Representation and Organization
 
 Representations do not preserve things.
 
@@ -245,9 +241,8 @@ Instead they preserve aspects of organization such as:
 
 Representation therefore concerns organizational preservation rather than object duplication.
 
----
 
-# 7. Representational Channels
+## Representational Channels
 
 Representations require channels.
 
@@ -267,9 +262,8 @@ Different channels support different forms of preservation.
 
 They therefore differ in what aspects of organization can remain explicit.
 
----
 
-# 8. Dimensionality
+## Dimensionality
 
 Representational channels differ in dimensionality.
 
@@ -278,7 +272,7 @@ Different channels expose different organizational dimensions.
 Examples:
 
 | Channel       | Commonly Preserved Dimensions              |
-| ------------- | ------------------------------------------ |
+| --- | --- |
 | Text          | sequence                                   |
 | Speech        | sequence, timing, prosody                  |
 | Sign language | sequence, space, simultaneity, perspective |
@@ -293,9 +287,8 @@ Different channels preserve different organizational features.
 
 Differences among media are therefore differences in preservation profile.
 
----
 
-# 9. Preservation, Compression, Loss, and Gain
+## Preservation, Compression, Loss, and Gain
 
 Representations are often discussed solely in terms of loss.
 
@@ -325,9 +318,8 @@ Mathematics suppresses phenomenology while amplifying formal structure.
 
 Representation is therefore selective transformation rather than simple reduction.
 
----
 
-# 10. Reconstruction
+## Reconstruction
 
 Representations do not transfer organization directly.
 
@@ -335,9 +327,9 @@ Instead:
 
 ```text
 organization
-    ↓
+    v
 representation
-    ↓
+    v
 reconstruction
 ```
 
@@ -349,9 +341,8 @@ Nothing is copied directly.
 
 Representation always involves reconstruction.
 
----
 
-# 11. Representation Across Media
+## Representation Across Media
 
 The same organization may appear through radically different forms.
 
@@ -383,9 +374,8 @@ The preserved organization remains partially invariant.
 
 Representation therefore concerns transformation across media rather than attachment to any particular form.
 
----
 
-# 12. Representation and Ideas
+## Representation and Ideas
 
 Ideas are not representations.
 
@@ -399,9 +389,8 @@ Likewise, a single representation may preserve only part of an idea's organizati
 
 Ideas and representations are therefore related but non-identical.
 
----
 
-# 13. Representation and Trajectory
+## Representation and Trajectory
 
 Trajectories are not representations.
 
@@ -417,9 +406,8 @@ Representations may also preserve structures that are not trajectories.
 
 Representation and trajectory therefore intersect without reducing to one another.
 
----
 
-# 14. Representation and Artificial Systems
+## Representation and Artificial Systems
 
 Modern artificial systems provide useful examples.
 
@@ -440,9 +428,8 @@ Representational flexibility becomes possible when preservation occurs at the le
 
 The same principle appears throughout human communication.
 
----
 
-# 15. What Representation Is Not
+## What Representation Is Not
 
 Representation is not:
 
@@ -459,9 +446,8 @@ They do not contain the things they represent.
 
 They make aspects of organization available through transformation.
 
----
 
-# Compression
+## Compression
 
 Representations transform.
 

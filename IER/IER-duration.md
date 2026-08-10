@@ -9,62 +9,66 @@ ier:
   status: canonical
   filename: IER-duration.md
 ---
-# **IER-duration.md**
+# *IER duration*
 
-## **Duration as Cognitively Registered Welded Deformation**
+## Duration as Cognitively Registered Welded Deformation
 
-**Informational Experiential Realism (IER v10.10.2)**
-*T2 · Phenomenology Bridge · Explanatory · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.2)**\
+*T2 — ELABORATION — Non-Normative — Canon-Constrained*
 
----
+## Status, Scope, and Authority
 
-# **0. Status, Scope, and Authority Firewall**
 
-This document is **explanatory and non-normative**.
+
+
+
+
+
+
+This document is explanatory and non-normative.
 
 It:
 
-* introduces **no new ontological primitives**
-* introduces **no criteria, thresholds, or diagnostics**
-* does **not redefine collapse, admissibility, welding, or propagation**
-* does **not introduce clocks, time variables, or internal timekeeping**
-* does **not posit storage of temporal intervals or accumulated duration**
-* does **not treat duration as a measurable internal quantity**
+* introduces no new ontological primitives
+* introduces no criteria, thresholds, or diagnostics
+* does not redefine collapse, admissibility, welding, or propagation
+* does not introduce clocks, time variables, or internal timekeeping
+* does not posit storage of temporal intervals or accumulated duration
+* does not treat duration as a measurable internal quantity
 
-All ontological and structural authority remains fixed exclusively in:
+The governing corpus retains all binding authority.
 
 ```text
-IER-specification.md
-IER-theory.md
-IER-dynamics.md
-IER-time.md
-IER-history-future-boundary.md
-IER-collapse.md
-IER-canon.md
+IER-specification
+IER-theory
+IER-dynamics
+IER-time
+IER-history-future-boundary
+IER-collapse
+IER-canon
 ```
 
 This document relies structurally on:
 
 ```text
-IER-event-segmentation.md
-IER-welding.md
-IER-propagation-persistence.md
-IER-memory.md
-IER-retrospective-determinacy.md
-IER-salience.md
-IER-specious-present.md
-IER-subjective-time.md
+IER-event-segmentation
+IER-welding
+IER-propagation-persistence
+IER-memory
+IER-retrospective-determinacy
+IER-salience
+IER-specious-present
+IER-subjective-time
 ```
 
 If any statement here conflicts with Tier-1 commitments, Tier-1 prevails.
 
----
 
-## **Purpose**
+## Scope
 
 To explain:
 
-> **why intervals are experienced as longer or shorter**
+> why intervals are experienced as longer or shorter
 
 without introducing:
 
@@ -76,11 +80,10 @@ without introducing:
 
 The account provided here is structural:
 
-> **Experienced duration tracks the density and structural organization of cognitively registered welded deformation within an interval.**
+> Experienced duration tracks the density and structural organization of cognitively registered welded deformation within an interval.
 
----
 
-# **1. Orientation — The Variability of Duration**
+## Orientation — The Variability of Duration
 
 Experience does not present all intervals equally.
 
@@ -111,38 +114,35 @@ IER does not permit:
 
 The problem must therefore be reframed.
 
-> **Duration is not measured.
-> It is the experiential consequence of how structural change becomes organized and registered.**
+> Duration is not measured.
+> It is the experiential consequence of how structural change becomes organized and registered.
 
----
 
-# **2. Core Definition — Registered Deformation, Not Time**
+## Core Definition — Registered Deformation, Not Time
 
 Under Informational Experiential Realism:
 
-> **Experienced duration tracks the density and structural organization of cognitively registered welded deformation within an interval.**
+> Experienced duration tracks the density and structural organization of cognitively registered welded deformation within an interval.
 
 Each component is required.
 
----
 
-## **2.1 Welded Deformation**
+## Welded Deformation
 
 Deformation arises when:
 
 ```text
-collapse → welding → propagation
+collapse -> welding -> propagation
 ```
 
 * collapse contracts admissible futures
 * welding integrates the resulting change into structure
 * propagation distributes its consequences
 
-Only **welded deformation** persists as part of experiential structure.
+Only welded deformation persists as part of experiential structure.
 
----
 
-## **2.2 Density**
+## Density
 
 Density refers to:
 
@@ -156,9 +156,8 @@ It means:
 * more structurally consequential deformation
 * more organization of continuation by that deformation
 
----
 
-## **2.3 Structural Organization**
+## Structural Organization
 
 Deformation must be organized.
 
@@ -179,9 +178,8 @@ Disorganized deformation may:
 * fail to structure experience
 * produce diffuse or unstable temporal experience
 
----
 
-## **2.4 Cognitive Registration**
+## Cognitive Registration
 
 Not all deformation contributes equally to duration.
 
@@ -195,70 +193,62 @@ contributes to experienced duration.
 
 Thus:
 
-> **Duration depends on registered deformation, not on raw collapse.**
+> Duration depends on registered deformation, not on raw collapse.
 
----
 
-## **2.5 Immediate Clarification**
+## Immediate Clarification
 
-Duration does **not** track:
+Duration does not track:
 
 * number of collapses
 * switching frequency
 * activity level
 * number of attempted continuations
 
----
 
-# **3. Collapse, Segmentation, and Duration — Distinct Roles**
+## Collapse, Segmentation, and Duration — Distinct Roles
 
 A strict separation is required.
 
----
 
-## **3.1 Collapse**
+## Collapse
 
 * contracts admissibility ( A(s) )
 * produces irreversibility
 
----
 
-## **3.2 Event Segmentation**
+## Event Segmentation
 
 * articulates collapse at the boundary
 * produces discrete structure
 
----
 
-## **3.3 Duration**
+## Duration
 
 * depends on propagated and registered deformation
 * not on collapse alone
 * not on segmentation alone
 
----
 
-## **3.4 Key Relationship**
+## Key Relationship
 
-> **Collapse generates irreversibility.
+> Collapse generates irreversibility.
 > Segmentation articulates it.
-> Duration depends on how its consequences are propagated and registered.**
+> Duration depends on how its consequences are propagated and registered.
 
----
 
-# **4. Propagation and Registration — The Basis of Duration**
+## Propagation and Registration — The Basis of Duration
 
 Collapse alone does not produce duration.
 
 The necessary sequence is:
 
 ```text
-collapse → welding → propagation → registration
+collapse -> welding -> propagation -> registration
 ```
 
----
 
-## **4.1 Propagation**
+## Propagation
 
 Propagation:
 
@@ -271,9 +261,8 @@ Without propagation:
 * deformation does not organize extended structure
 * duration cannot arise
 
----
 
-## **4.2 Registration**
+## Registration
 
 Registration determines:
 
@@ -283,11 +272,10 @@ Registration determines:
 
 Thus:
 
-> **Only deformation that is both propagated and cognitively registered contributes to experienced duration.**
+> Only deformation that is both propagated and cognitively registered contributes to experienced duration.
 
----
 
-# **5. Salience — Modulation of Duration Without Measurement**
+## Salience — Modulation of Duration Without Measurement
 
 Salience operates prior to collapse.
 
@@ -300,23 +288,21 @@ It:
 
 Thus:
 
-> **Salience modulates duration indirectly by determining which deformation becomes structurally and cognitively consequential.**
+> Salience modulates duration indirectly by determining which deformation becomes structurally and cognitively consequential.
 
-Salience does **not**:
+Salience does not:
 
 * measure time
 * accumulate duration
 * alter admissibility directly
 
----
 
-# **6. Immediate and Retrospective Duration**
+## Immediate and Retrospective Duration
 
 Duration must be distinguished in two forms.
 
----
 
-## **6.1 Immediate (Online) Duration**
+## Immediate (Online) Duration
 
 Immediate duration depends on:
 
@@ -330,9 +316,8 @@ It reflects:
 * how experience is currently organized
 * not stored history
 
----
 
-## **6.2 Retrospective Duration**
+## Retrospective Duration
 
 Retrospective duration depends on:
 
@@ -342,40 +327,35 @@ Retrospective duration depends on:
 
 It reflects:
 
-> **what deformation remains structurally available for reconstruction.**
+> what deformation remains structurally available for reconstruction.
 
----
 
-## **6.3 Key Statement**
+## Key Statement
 
-> **Retrospective duration reflects reconstructed deformation, not stored events.**
+> Retrospective duration reflects reconstructed deformation, not stored events.
 
----
 
-# **7. Boredom — Dissociation of Temporal Experience**
+## Boredom — Dissociation of Temporal Experience
 
 Boredom provides a critical test case.
 
----
 
-## **7.1 Structural Features (from IER-boredom.md)**
+## Structural Features (from *IER boredom*)
 
 * weak binding
 * diffuse participation
 * unstable salience
 * repeated failure of attractor stabilization
 
----
 
-## **7.2 Consequences**
+## Consequences
 
 * poor segmentation
 * weak welding
 * low registered deformation
 
----
 
-## **7.3 Immediate Experience**
+## Immediate Experience
 
 Because:
 
@@ -385,11 +365,10 @@ Because:
 
 Result:
 
-> **time feels slow or dragging**
+> time feels slow or dragging
 
----
 
-## **7.4 Retrospective Experience**
+## Retrospective Experience
 
 Because:
 
@@ -399,67 +378,60 @@ Because:
 
 Result:
 
-> **the interval feels short or empty**
+> the interval feels short or empty
 
----
 
-## **7.5 Canonical Statement**
+## Canonical Statement
 
-> **Boredom demonstrates that experienced duration depends on the structure and registration of deformation, not on activity level or switching frequency.**
+> Boredom demonstrates that experienced duration depends on the structure and registration of deformation, not on activity level or switching frequency.
 
----
 
-# **8. Characteristic Duration Regimes**
+## Characteristic Duration Regimes
 
 Different regimes arise from different structural conditions.
 
----
 
-## **8.1 Novelty**
+## Novelty
 
 * high salience
 * strong segmentation
 * dense registered deformation
 
-→ long duration
+-> long duration
 
----
 
-## **8.2 Routine**
+## Routine
 
 * weak segmentation
 * low registration
 * stable but shallow deformation
 
-→ compressed duration
+-> compressed duration
 
----
 
-## **8.3 Crisis**
+## Crisis
 
 * extreme salience
 * intense segmentation
 * dense local deformation
 
-→ expanded duration
+-> expanded duration
 
----
 
-## **8.4 Flow**
+## Flow
 
 * strong binding
 * coherent propagation
 * efficient structural organization
 
-→ smooth, continuous duration
+-> smooth, continuous duration
 
----
 
-# **9. Temporal Compression and Organization**
+## Temporal Compression and Organization
 
 A key structural principle:
 
-> **Coherent organization compresses duration; diffuse organization expands it.**
+> Coherent organization compresses duration; diffuse organization expands it.
 
 Clarifications:
 
@@ -472,9 +444,8 @@ Compression depends on:
 * propagation structure
 * integration across envelopes
 
----
 
-# **10. Narrative, Music, and Cultural Timing**
+## Narrative, Music, and Cultural Timing
 
 External systems may organize duration.
 
@@ -491,7 +462,7 @@ These systems:
 * stabilize envelopes
 * organize deformation
 
-They do **not**:
+They do not:
 
 * generate collapse
 * alter admissibility
@@ -499,11 +470,10 @@ They do **not**:
 
 Thus:
 
-> **They organize temporal experience without producing temporal structure at the level of frontier dynamics.**
+> They organize temporal experience without producing temporal structure at the level of frontier dynamics.
 
----
 
-# **11. Multi-Scale Duration**
+## Multi-Scale Duration
 
 Duration is hierarchically structured.
 
@@ -518,11 +488,10 @@ It may be organized across:
 
 Thus:
 
-> **Duration reflects deformation organized across nested integration envelopes.**
+> Duration reflects deformation organized across nested integration envelopes.
 
----
 
-# **12. Misuse-Blocking Clarifications**
+## Misuse-Blocking Clarifications
 
 Duration is not:
 
@@ -535,16 +504,15 @@ Duration is not:
 
 Additionally:
 
-> **High switching frequency does not imply high event density or long duration.**
+> High switching frequency does not imply high event density or long duration.
 
 And:
 
-> **Events are not accumulated.
-> History is deformation, not a sequence store.**
+> Events are not accumulated.
+> History is deformation, not a sequence store.
 
----
 
-# **13. Structural Summary**
+## Structural Summary
 
 Under Informational Experiential Realism:
 
@@ -559,8 +527,7 @@ Duration reflects:
 * segmentation structure
 * retrospective reconstruction
 
----
 
-# **Final Compression**
+## Final Compression
 
-> **Experienced duration tracks the density and structural organization of cognitively registered welded deformation within an interval, shaped by salience, segmentation, and propagation, without clocks, counting, or stored time.**
+> Experienced duration tracks the density and structural organization of cognitively registered welded deformation within an interval, shaped by salience, segmentation, and propagation, without clocks, counting, or stored time.

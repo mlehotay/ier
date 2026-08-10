@@ -14,10 +14,13 @@ ier:
 
 ## The Specious Present as a Coherence Condition at the Frontier
 
-**Informational Experiential Realism (IER v10.10.2)**  
-*Tier 2 · Explanatory · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.10.2)**\
+*Tier 2 — Explanatory — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document is explanatory and non-normative.
 
@@ -211,7 +214,7 @@ not as a partially completed history.
 
 ## Integration Envelopes and the Structural Basis of Present Thickness
 
-*IER-integration-envelopes* explains how frontier organization may remain temporarily recoverable prior to relaxation.
+*IER integration-envelopes* explains how frontier organization may remain temporarily recoverable prior to relaxation.
 
 Within an integration envelope:
 
@@ -280,7 +283,7 @@ What exists is:
 
 Salience must be integrated directly into the account.
 
-As *IER-salience* explains, salience is:
+As *IER salience* explains, salience is:
 
 > the graded recruitment gradient by which a participating topology increasingly participates in frontier coordination without yet becoming binding.
 
@@ -492,7 +495,7 @@ flowchart TB
   E6 --> E5
 ```
 
-Figure 1. Nested integration envelopes at the frontier.  
+Figure 1. Nested integration envelopes at the frontier.
 This diagram illustrates that present-like coherence is not singular. Different domains — motor, auditory, perceptual, action-level, narrative, and cultural — may sustain distinct spans of active co-determination while all remain coupled to the same frontier. The apparent thickness of the present therefore reflects nested integration envelopes rather than a single temporal window or buffer.
 
 > The specious present is therefore multi-scale: a condition of reversible co-determination distributed across nested envelope structures, not a single stored interval of “now.”
@@ -500,7 +503,7 @@ This diagram illustrates that present-like coherence is not singular. Different 
 
 ## Relationship to Temporal Asymmetry
 
-*IER-time* explains temporal asymmetry as arising from irreversible deformation at the history — future boundary.
+*IER time* explains temporal asymmetry as arising from irreversible deformation at the history — future boundary.
 
 The specious present belongs to the complementary side of that asymmetry.
 

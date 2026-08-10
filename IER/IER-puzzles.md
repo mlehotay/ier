@@ -14,10 +14,13 @@ ier:
 # One Identity, Several Problems
 ## IER and the classic puzzles of consciousness
 
-**Informational Experiential Realism (IER v10.10.7)**  
-*Tier-2 · Explanatory · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.10.7)**\
+*Tier-2 — Explanatory — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document is an explanatory map of how IER bears on several classic problems, arguments, and thought experiments concerning consciousness. It introduces no new ontological primitives, experiential criteria, thresholds, diagnostics, or grounds of ethical standing. It neither establishes nor revises the IER identity claim. It applies that claim conditionally and distinguishes what follows from it from what remains an independent philosophical or empirical question.
 
@@ -184,7 +187,7 @@ Multiple realizability therefore does not dissolve under IER. It clarifies the l
 The cases above yield several distinct results.
 
 | Result under IER | Cases |
-|---|---|
+| --- | --- |
 | Explains an access asymmetry without inferring ontological dualism | Mary’s Room; Nagel’s Bat |
 | Rules out experiential variation if complete constitutive physical organization is fixed | Zombies; Kripkean separability; inverted spectrum; fading and dancing qualia |
 | Reframes a production demand while preserving legitimate explanatory work | Explanatory gap; hard problem |

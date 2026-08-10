@@ -15,57 +15,58 @@ ier:
   filename: IER-event-segmentation.md
 ---
 
-# **IER-event-segmentation.md**
+# *IER event-segmentation*
 
-## **Event Segmentation as Discrete Articulation of Collapse in Choice Space**
+## Event Segmentation as Discrete Articulation of Collapse in Choice Space
 
-**Informational Experiential Realism (IER v10.10.2)**
-*T2 · Foundational Bridge · Explanatory · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.10.2)**\
+*T2 — Foundational Bridge — Explanatory — Non-Normative — Canon-Constrained*
 
----
+## Status, Scope, and Authority
 
-# **0. Status, Scope, and Authority Firewall**
 
-This document is **explanatory and non-normative**.
+
+
+
+This document is explanatory and non-normative.
 
 It:
 
-* introduces **no new ontological primitives**
-* introduces **no criteria, thresholds, or diagnostics**
-* does **not redefine collapse, welding, propagation, or admissibility**
-* introduces **no decision mechanisms, selectors, or evaluators**
-* does **not treat events as stored units or temporal containers**
-* does **not introduce traversal through states or paths**
+* introduces no new ontological primitives
+* introduces no criteria, thresholds, or diagnostics
+* does not redefine collapse, welding, propagation, or admissibility
+* introduces no decision mechanisms, selectors, or evaluators
+* does not treat events as stored units or temporal containers
+* does not introduce traversal through states or paths
 
-All ontological and structural authority remains fixed exclusively in:
+The governing corpus retains all binding authority.
 
 ```text
-IER-specification.md
-IER-theory.md
-IER-dynamics.md
-IER-collapse.md
-IER-futures.md
-IER-canon.md
+IER-specification
+IER-theory
+IER-dynamics
+IER-collapse
+IER-futures
+IER-canon
 ```
 
 This document relies structurally on:
 
 ```text
-IER-collapse.md
-IER-welding.md
-IER-propagation.md
-IER-salience.md
-IER-memory.md
-IER-choice.md
-IER-choice-topology.md
-IER-integration-envelopes.md
+IER-collapse
+IER-welding
+IER-propagation
+IER-salience
+IER-memory
+IER-choice
+IER-choice-topology
+IER-integration-envelopes
 ```
 
 If any statement here conflicts with Tier-1 commitments, Tier-1 prevails.
 
----
 
-# **1. Purpose — Why Experience Divides into Events**
+## Purpose — Why Experience Divides into Events
 
 Experience appears segmented into:
 
@@ -93,13 +94,12 @@ IER does not permit:
 
 The problem must therefore be reframed:
 
-> **Why does continuous frontier organization appear discretely articulated?**
+> Why does continuous frontier organization appear discretely articulated?
 
----
 
-# **2. Core Thesis**
+## Core Thesis
 
-> **Event segmentation is the discrete articulation of collapse within the structure described as choice space, admissible futures, or topology.**
+> Event segmentation is the discrete articulation of collapse within the structure described as choice space, admissible futures, or topology.
 
 Events are not primitives.
 
@@ -107,27 +107,26 @@ They arise when:
 
 ```text
 pre-collapse organization
-→ binding
-→ collapse
-→ welding
-→ propagation
+-> binding
+-> collapse
+-> welding
+-> propagation
 ```
 
-produces a **structurally consequential transition**.
+produces a structurally consequential transition.
 
----
 
-# **3. Collapse and Discreteness**
+## Collapse and Discreteness
 
-As defined in `IER-collapse.md`:
+As defined in *IER collapse*:
 
 > Collapse is the binary, irreversible contraction of admissible futures at the boundary.
 
 Formally:
 
-[
+$$
 A_{t^+}(s) \subset A_{t^-}(s)
-]
+$$
 
 This contraction:
 
@@ -135,11 +134,10 @@ This contraction:
 * produces irreversible differentiation
 * redefines the structure of admissible futures
 
-Collapse is therefore the **only source of discreteness** in temporal structure.
+Collapse is therefore the only source of discreteness in temporal structure.
 
----
 
-# **4. Event ≠ Collapse**
+## Event != Collapse
 
 Not all collapse yields an event.
 
@@ -151,11 +149,10 @@ Without constraint:
 
 This is structurally incorrect.
 
----
 
-## **4.1 Required Definition**
+## Required Definition
 
-> **An event boundary corresponds to a collapse–welding transition that produces sufficient propagated deformation to reorganize ongoing constraint structure at a scale accessible to cognitive integration.**
+> An event boundary corresponds to a collapse — welding transition that produces sufficient propagated deformation to reorganize ongoing constraint structure at a scale accessible to cognitive integration.
 
 Event segmentation therefore requires:
 
@@ -164,11 +161,10 @@ Event segmentation therefore requires:
 * propagation (forward consequence)
 * cognitive registration (no mechanism implied)
 
----
 
-## **4.2 Consequence**
+## Consequence
 
-> **Events are salient, propagated collapse transitions — not raw collapse events.**
+> Events are salient, propagated collapse transitions — not raw collapse events.
 
 This prevents:
 
@@ -176,13 +172,12 @@ This prevents:
 * flattening of temporal hierarchy
 * mismatch with empirical segmentation
 
----
 
-# **5. Salience and Pre-Event Structure**
+## Salience and Pre-Event Structure
 
 Salience operates prior to collapse.
 
-As defined in `IER-salience.md`:
+As defined in *IER salience*:
 
 > salience is graded recruitment pressure prior to binding
 
@@ -194,9 +189,9 @@ Within event segmentation:
 
 Thus:
 
-> **Events are preceded by salience-structured frontier organization.**
+> Events are preceded by salience-structured frontier organization.
 
-Salience does **not** alter admissibility.
+Salience does not alter admissibility.
 
 It influences:
 
@@ -204,13 +199,12 @@ It influences:
 * binding formation
 * downstream registration
 
----
 
-# **6. Events as Nodes in Choice Space**
+## Events as Nodes in Choice Space
 
-`IER-choice.md` and `IER-choice-topology.md` establish:
+*IER choice* and *IER choice-topology* establish:
 
-> **choice space, admissible futures, and topology are one structure under different explanatory projections.**
+> choice space, admissible futures, and topology are one structure under different explanatory projections.
 
 Under the admissibility register:
 
@@ -220,21 +214,20 @@ A(s)
 
 denotes the set of admissible successor configurations.
 
-Under the agency-facing register, the same structure is called a **choice space**.
+Under the agency-facing register, the same structure is called a choice space.
 
----
 
-## **6.1 Discrete Articulation of Choice Space**
+## Discrete Articulation of Choice Space
 
 Event segmentation acts on this structure.
 
-> **An event corresponds to a boundary configuration at which admissible continuation is irreversibly contracted.**
+> An event corresponds to a boundary configuration at which admissible continuation is irreversibly contracted.
 
 Formally:
 
-[
+$$
 A_{t_c^+}(s) \subset A_{t_c^-}(s)
-]
+$$
 
 Each such contraction:
 
@@ -242,27 +235,25 @@ Each such contraction:
 * redefines remaining continuation
 * restructures the local choice space
 
----
 
-## **6.2 Induced Graph Structure (Descriptive Only)**
+## Induced Graph Structure (Descriptive Only)
 
 This structure may be represented descriptively as a graph:
 
-* **nodes** — boundary-indexed configurations after contraction
-* **edges** — admissible continuation under intrinsic constraint
-* **paths** — realized continuation
+* nodes — boundary-indexed configurations after contraction
+* edges — admissible continuation under intrinsic constraint
+* paths — realized continuation
 
 In this register:
 
-> **Event segmentation induces a discrete structure over choice space by marking configurations at which admissible continuation is irreversibly reduced.**
+> Event segmentation induces a discrete structure over choice space by marking configurations at which admissible continuation is irreversibly reduced.
 
----
 
-## **6.3 Strict Non-Interpretation Constraint**
+## Strict Non-Interpretation Constraint
 
-This graph is **descriptive only**.
+This graph is descriptive only.
 
-It does **not** imply:
+It does not imply:
 
 * traversal across nodes
 * selection among alternatives
@@ -272,48 +263,44 @@ It does **not** imply:
 
 Collapse alters reachability.
 
-> **The graph represents that alteration.**
+> The graph represents that alteration.
 
----
 
-# **7. From Possibility to History**
+## From Possibility to History
 
 Event segmentation marks the transition:
 
 ```text
 possible continuation
-→ historical fact
+-> historical fact
 ```
 
 This occurs through:
 
 ```text
-collapse → welding → propagation
+collapse -> welding -> propagation
 ```
 
----
 
-## **7.1 Collapse**
+## Collapse
 
 * forecloses futures
 
-## **7.2 Welding**
+## Welding
 
 * integrates deformation into structure
 
-## **7.3 Propagation**
+## Propagation
 
 * redistributes deformation forward
 
----
 
-## **7.4 Result**
+## Result
 
-> **Events mark where possibility becomes irreversible history.**
+> Events mark where possibility becomes irreversible history.
 
----
 
-# **8. Temporal Hierarchy of Events**
+## Temporal Hierarchy of Events
 
 Events exist at multiple scales due to:
 
@@ -327,11 +314,10 @@ Thus:
 * macro-events involve large-scale deformation
 * temporal structure is hierarchically organized
 
----
 
-# **9. Relationship to Memory**
+## Relationship to Memory
 
-`IER-memory.md` establishes:
+*IER memory* establishes:
 
 * memory is re-entry of propagated deformation
 
@@ -343,13 +329,12 @@ Event segmentation:
 
 Events are not stored.
 
-> **They structure what is later reconstructible.**
+> They structure what is later reconstructible.
 
----
 
-# **10. Relationship to Behaviour and Action**
+## Relationship to Behaviour and Action
 
-Within `IER-behaviour-layer.md`:
+Within *IER behaviour-layer*:
 
 * action corresponds to collapse expressed through propagation
 
@@ -359,9 +344,8 @@ Event segmentation:
 * structures behavioural episodes
 * defines transition points in organized activity
 
----
 
-# **11. External Bridges**
+## External Bridges
 
 This account aligns with:
 
@@ -379,11 +363,10 @@ This account aligns with:
 
 These correspond to:
 
-> **registration of propagated deformation at collapse boundaries.**
+> registration of propagated deformation at collapse boundaries.
 
----
 
-# **12. What Events Are Not**
+## What Events Are Not
 
 Events are not:
 
@@ -397,23 +380,21 @@ Events are not:
 
 Additionally:
 
-> **Events are not accumulated objects.
-> They are articulations of structural change.**
+> Events are not accumulated objects.
+> They are articulations of structural change.
 
----
 
-# **13. Structural Summary**
+## Structural Summary
 
 * collapse produces discreteness
 * welding integrates deformation
 * propagation distributes consequence
 * salience organizes pre-event structure
-* events correspond to **salient propagated collapse transitions**
-* event segmentation discretizes **choice space / admissible futures**
-* the induced graph is **descriptive only**
+* events correspond to salient propagated collapse transitions
+* event segmentation discretizes choice space / admissible futures
+* the induced graph is descriptive only
 
----
 
-# **14. Compression**
+## Compression
 
-> **Event segmentation is the discrete articulation of collapse within choice space, where admissible futures are irreversibly contracted and propagated deformation reorganizes ongoing constraint structure, producing boundary-indexed transitions from possibility to history without introducing traversal, storage, or selection.**
+> Event segmentation is the discrete articulation of collapse within choice space, where admissible futures are irreversibly contracted and propagated deformation reorganizes ongoing constraint structure, producing boundary-indexed transitions from possibility to history without introducing traversal, storage, or selection.

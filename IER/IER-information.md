@@ -15,10 +15,13 @@ ier:
 
 ## Information as Structured Exclusion of Admissible Continuation
 
-**Informational Experiential Realism (IER v10.10.7)**  
-*Tier-2 · Foundational Clarification · Canon-Constrained · Non-Normative*
+**Informational Experiential Realism (IER v10.10.7)**\
+*Tier-2 — Foundational Clarification — Canon-Constrained — Non-Normative*
 
 ## Status, Scope, and Authority
+
+
+
 
 This document is explanatory and non-normative.
 
@@ -31,7 +34,7 @@ It:
 - introduces no evaluators, encoders, decoders, or symbolic mechanisms
 - does not reinterpret experience as information processing
 
-All ontological and structural authority remains fixed exclusively in the *IER-specification*.
+The governing corpus retains all binding authority.
 
 If any statement here conflicts with the specification, the specification prevails.
 
@@ -75,7 +78,7 @@ Information arises when physical organization makes some otherwise admissible co
 
 ## Constraint and the Structure of Possibility
 
-As clarified in *IER-constraint*, physical law restricts which transitions between configurations are admissible.
+As clarified in *IER constraint*, physical law restricts which transitions between configurations are admissible.
 
 Let $S$ be configuration space.
 
@@ -161,7 +164,7 @@ It simply identifies the portion of admissible continuation that has become unav
 
 ## Information and Intrinsic Closure
 
-Intrinsic closure is clarified in *IER-intrinsic-closure*.
+Intrinsic closure is clarified in *IER intrinsic-closure*.
 
 A regime is intrinsically closed when admissible futures cannot be decomposed into independent subsystem futures.
 
@@ -179,7 +182,7 @@ Information therefore becomes structurally consequential when exclusion occurs w
 
 ## Information and Exclusion
 
-*IER-impossibility* establishes that exclusion is not a primitive negative force.
+*IER impossibility* establishes that exclusion is not a primitive negative force.
 
 Exclusion arises from the interaction of:
 
@@ -197,7 +200,7 @@ Information names the resulting structural absence.
 
 ## Information and Collapse
 
-Collapse is defined in *IER-collapse* as the irreversible foreclosure of a connected region of admissible futures at the history — future boundary.
+Collapse is defined in *IER collapse* as the irreversible foreclosure of a connected region of admissible futures at the history — future boundary.
 
 Formally:
 
@@ -215,7 +218,7 @@ Collapse is the canonical event through which informational exclusion becomes ir
 
 ## Information and Criticality
 
-Critical regimes are described in *IER-criticality*.
+Critical regimes are described in *IER criticality*.
 
 Criticality occurs when small perturbations can produce large changes in admissible future topology.
 
@@ -255,7 +258,7 @@ Information is sedimented because previously reachable continuations no longer r
 
 ## Information and Knowledge
 
-*IER-knowledge* clarifies that knowledge is not possession of truth.
+*IER knowledge* clarifies that knowledge is not possession of truth.
 
 Knowledge refers to organizational structures that:
 
@@ -270,7 +273,7 @@ Information itself does not imply truth, correctness, or epistemic access.
 
 ## Information and Shannon Theory
 
-*IER-shannon* explains that Shannon information concerns:
+*IER shannon* explains that Shannon information concerns:
 
 - distinguishability under coding
 - entropy measures
@@ -291,7 +294,7 @@ The two frameworks therefore operate at different structural levels.
 
 ## Information and Computation
 
-*IER-computation* blocks algorithmic interpretations of IER.
+*IER computation* blocks algorithmic interpretations of IER.
 
 Information within IER must not be interpreted as:
 
@@ -348,5 +351,5 @@ It is the pattern of continuation that the system’s organization no longer per
 
 ## Intermission — Constraint Aphorism
 
-> Information is not what a system contains.  
+> Information is not what a system contains.
 > It is what its organization no longer allows.

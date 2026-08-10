@@ -15,11 +15,14 @@ ier:
 
 ## Marshall McLuhan Reconstructed Through Informational Experiential Realism
 
-**Informational Experiential Realism (IER v10.10.7)**  
+**Informational Experiential Realism (IER v10.10.7)**\
 *Projection Analysis | Non-Normative*
 
-
 ## Status, Scope, and Authority
+
+
+
+
 
 This document is explanatory and non-normative.
 

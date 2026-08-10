@@ -18,6 +18,9 @@ ier:
 
 ## Status, Scope, and Authority
 
+
+
+
 ### What This Article Does
 
 This article provides a structural analysis of ordinary corporations under the Informational Experiential Realism (IER) identity claim:
@@ -120,7 +123,7 @@ Legal personhood is a juridical status. Experiential personhood is not.
 
 Corporations operate within institutions rather than being institutions.
 
-See [*IER-institutions*](IER-institutions.md) for the canonical distinction.
+See [*IER social systems*](IER-social-systems.md) for the canonical distinction.
 
 ## What a Corporation Is (Structurally, Not Legally)
 
@@ -372,7 +375,7 @@ Standing tracks where harm can occur, not where responsibility ends.
 Ordinary corporations cannot suffer.
 They can, however, systematically reshape intrinsic constraint in persons.
 
-*IER-ethics* already distinguishes experiential moral harm from broader moral wrongs. This article preserves that distinction and prevents its misuse.
+*IER ethics* already distinguishes experiential moral harm from broader moral wrongs. This article preserves that distinction and prevents its misuse.
 
 ## Alignment With Social Systems
 
@@ -386,7 +389,7 @@ Legal personhood may be a tolerable coordination fiction. Treating it as metaphy
 
 ## Explicit Misuse Warnings
 
-*IER-corporations* licenses the following bounded conclusion:
+*IER corporations* licenses the following bounded conclusion:
 
 > Ordinary corporations with the structure analyzed here are not experiential subjects.
 

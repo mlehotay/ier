@@ -19,8 +19,12 @@ ier:
 
 ## Dynamics of Experiential Systems
 
-**Informational Experiential Realism (IER v10.11.1)**  
-*Tier 1 · Foundational · Canon-Constrained · Non-Normative*
+**Informational Experiential Realism (IER v10.11.1)**\
+*Tier 1 — Foundational — Canon-Constrained — Non-Normative*
+
+## Status, Scope, and Authority
+
+
 
 ## Global Informational Language Disclaimer
 
@@ -29,11 +33,10 @@ physically instantiated state distinctions modulating system dynamics under intr
 
 No informational primitives, representations, semantic contents, epistemic notions, or agentive assumptions are introduced.
 
-## Status, Scope, and Authority
 
 This document is NON-NORMATIVE.
 
-It explains the dynamic behavior, stability conditions, modulation patterns, and failure modes of systems that already instantiate Unified Experiential Fields (UEFs), as defined exclusively in the *IER-specification*.
+It explains the dynamic behavior, stability conditions, modulation patterns, and failure modes of systems that already instantiate Unified Experiential Fields (UEFs), as defined exclusively in the *IER specification*.
 
 This document:
 
@@ -240,7 +243,7 @@ Recruitment of additional processes into participation should not be confused wi
 
 Recruitment occurs only after informational slack has been exhausted and reflects the expansion of globally binding intrinsic constraint, not the restoration of local independence.
 
-For an explanatory account of how slack is exhausted — via saturation of locally admissible resolution pathways — see *IER-saturation*.
+For an explanatory account of how slack is exhausted — via saturation of locally admissible resolution pathways — see *IER saturation*.
 
 This clarification introduces no new dynamics and does not alter regime identity conditions.
 

@@ -13,12 +13,15 @@ ier:
 
 ## Evaluating Theories of Experience Without Smuggling Assumptions
 
-**Informational Experiential Realism (IER v10.10.7)**  
-*Tier-3 · Evaluation Misuse Containment · Non-Normative · Canon-Constrained*
-
-
+**Informational Experiential Realism (IER v10.10.7)**\
+*Tier-3 — Evaluation Misuse Containment — Non-Normative — Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+
+
+
+
 
 This document establishes constraints on the fair reconstruction, evaluation,
 and comparison of theories of experience. It is compatible with identity
@@ -152,21 +155,20 @@ The rubric does not specify how any of these features must be realized,
 grounded, measured, or accessed.
 
 
-## Claim-Status Discipline
 
 Every substantive statement attributed to a theory must be assigned the
 strongest status supported by the relevant sources.
 
 | Status | Meaning |
 | --- | --- |
-| **Entailed** | Follows from the theory's explicit commitments. |
-| **Explicitly claimed** | Asserted by the relevant author or canonical source. |
-| **Proposed by some advocates** | Defended within the theory's literature but not constitutive of the theory. |
-| **Compatible** | Permitted by the theory but neither required nor asserted by it. |
-| **Evaluator inference** | A reasoned implication supplied by the evaluator and labelled as such. |
-| **Disputed within the theory** | Varies across versions, authors, or interpretations. |
-| **Unspecified** | Not settled by the examined sources. |
-| **Incompatible** | Conflicts with an explicit commitment of the theory. |
+| Entailed | Follows from the theory's explicit commitments. |
+| Explicitly claimed | Asserted by the relevant author or canonical source. |
+| Proposed by some advocates | Defended within the theory's literature but not constitutive of the theory. |
+| Compatible | Permitted by the theory but neither required nor asserted by it. |
+| Evaluator inference | A reasoned implication supplied by the evaluator and labelled as such. |
+| Disputed within the theory | Varies across versions, authors, or interpretations. |
+| Unspecified | Not settled by the examined sources. |
+| Incompatible | Conflicts with an explicit commitment of the theory. |
 
 These statuses must not be collapsed.
 

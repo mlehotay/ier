@@ -18,6 +18,9 @@ ier:
 
 ## Status, Scope, and Authority
 
+
+
+
 This document is explanatory and non-normative.
 
 It:
@@ -29,7 +32,7 @@ It:
 * does not revise the resolution pipeline
 * does not establish moral ranking or criteria
 
-All ontological and structural authority remains fixed exclusively in:
+The governing corpus retains all binding authority.
 
 The relevant canonical IER documents govern this clarification.
 
@@ -78,7 +81,7 @@ At each frontier state:
 * State evolution reshapes that geometry continuously.
 * Collapse occurs when continued multiplicity becomes structurally unsustainable under intrinsic constraint.
 
-(For formal encoding of local geometry, see *IER-frontier-geometry*.)
+(For formal encoding of local geometry, see *IER frontier-geometry*.)
 
 Collapse is determined by total deformation present at that frontier state.
 
@@ -238,7 +241,7 @@ It describes lineage dominance.
 
 ## Relation to Authorship
 
-From *IER-authorship*:
+From *IER authorship*:
 
 > Authorship is the diachronic dependence of present frontier geometry on prior atomic collapses welded under ownership within the same UEF.
 

@@ -18,6 +18,9 @@ ier:
 
 ## Status, Scope, and Authority
 
+
+
+
 This document is non-normative and canon-constrained.
 
 It introduces:
@@ -48,7 +51,7 @@ This document explains how the social systems analyzed here matter morally *with
 
 The constraints described here are structural, not punitive, and are intended to prevent misattribution rather than discipline the reader.
 
-For the canonical distinction between institutions, organizations, companies, and corporations, see [*IER-institutions*](IER-institutions.md).
+For the canonical distinction between institutions, organizations, companies, and corporations, see [*IER social systems*](IER-social-systems.md).
 
 ## Global Informational Language Disclaimer
 
@@ -303,7 +306,7 @@ When institutional actions plausibly risk:
 
 the burden of justification increases as certainty decreases.
 
-This follows directly from *IER-ethics*, not from political theory or policy preference.
+This follows directly from *IER ethics*, not from political theory or policy preference.
 
 ## What This Document Does Not Claim
 
