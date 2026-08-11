@@ -17,7 +17,7 @@ ier:
 ## Ordinary Language as Compression of Constraint Geometry
 
 **Informational Experiential Realism (IER v10.11.0)**\
-*Tier 2 — Explanatory — Translational — Non-Normative — Non-Criterial*
+*Tier 2 - Explanatory - Translational - Non-Normative - Non-Criterial*
 
 ## Status, Scope, and Authority
 
@@ -244,11 +244,11 @@ Terms such as “heart,” “gut,” “panic,” and “clarity” are not des
 
 They are stable linguistic compressions of how admissible futures are structured and navigated under intrinsic constraint.
 
-## Appendix A — Worked Example: Public Speaking Anxiety
+## Appendix A - Worked Example: Public Speaking Anxiety
 
 ### Dynamic Reconstruction of Folk Psychological States Under Constraint Evolution
 
-This appendix follows a single scenario — public speaking anxiety — across multiple phases of evolving constraint organization.
+This appendix follows a single scenario - public speaking anxiety - across multiple phases of evolving constraint organization.
 
 The goal is to show how seemingly distinct “mental states” emerge as phase descriptions of one continuously changing admissible future structure.
 
@@ -268,7 +268,7 @@ The system evolves across five overlapping phases:
 
 The folk-psychological descriptions associated with each phase reflect changing continuation geometry rather than separate mental systems.
 
-## Phase 1 — Pre-Event Anticipation
+## Phase 1 - Pre-Event Anticipation
 
 Before speaking begins, the admissible future cone remains relatively wide, but gradients begin steepening around social evaluation, identity, and anticipated performance.
 
@@ -286,11 +286,11 @@ compress this organizational condition into low-resolution phenomenological lang
 
 The system is therefore highly activated without resolved directional collapse.
 
-## Phase 2 — Imminent Exposure
+## Phase 2 - Imminent Exposure
 
 As speaking becomes unavoidable, continuation rapidly narrows.
 
-Gradients steepen sharply around threat and social evaluation. Participation becomes highly concentrated while alternative continuations — especially avoidance paths — lose viability.
+Gradients steepen sharply around threat and social evaluation. Participation becomes highly concentrated while alternative continuations - especially avoidance paths - lose viability.
 
 Expressions such as:
 
@@ -302,7 +302,7 @@ track imminent collapse under increasingly constrained continuation.
 
 “Racing heart” compresses high activation under narrowing collapse. “I want to run” reflects residual viability of avoidance trajectories. “This is happening” tracks recognition of narrowing inevitability.
 
-## Phase 3 — Onset
+## Phase 3 - Onset
 
 Once speaking begins, admissible futures collapse toward active continuation.
 
@@ -320,7 +320,7 @@ track different aspects of this collapse process.
 
 Depending on stability conditions, onset may remain coherent or become partially destabilized.
 
-## Phase 4 — Mid-Performance
+## Phase 4 - Mid-Performance
 
 At this stage the system may stabilize into coherent participation or destabilize into fragmented narrowing.
 
@@ -344,7 +344,7 @@ Expressions such as:
 
 compress unstable collapse under overloaded constraint organization.
 
-## Phase 5 — Post-Event Recovery
+## Phase 5 - Post-Event Recovery
 
 After the event, the admissible future cone re-expands.
 

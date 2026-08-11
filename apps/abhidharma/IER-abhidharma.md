@@ -2,7 +2,7 @@
 
 ## A Source-Constrained IER Reconstruction
 
-*Informational Experiential Realism (IER)* — *Comparative Reconstruction | Source-Constrained | Non-Normative | Non-Criterial*
+*Informational Experiential Realism (IER)* - *Comparative Reconstruction | Source-Constrained | Non-Normative | Non-Criterial*
 
 ## Status, Scope, and Authority
 

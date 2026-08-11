@@ -17,7 +17,7 @@ filename: IER-representation.md
 ## Representation as Structural Preservation Across Transformation
 
 **Informational Experiential Realism (IER v10.11.2)**\
-*Explanatory — Non-Normative*
+*Explanatory - Non-Normative*
 
 ## Status, Scope, and Authority
 

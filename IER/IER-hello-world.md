@@ -15,7 +15,7 @@ ier:
 ## Minimal Proof-of-Possibility for Experiential Identity
 
 **Informational Experiential Realism (IER v10.10.4)**\
-*Tier 2 — Expository — Proof-of-concept — Non-Normative*
+*Tier 2 - Expository - Proof-of-concept - Non-Normative*
 
 ## Status, Scope, and Authority
 
@@ -71,7 +71,7 @@ No representations, no symbols, no functions are assumed.
 The Hello World topology consists of the following four structural features, all of which must be present simultaneously.
 
 
-## Feature I — Global non-factorability
+## Feature I - Global non-factorability
 
 ### Structural requirement
 
@@ -91,7 +91,7 @@ No part of the system can “finish first.” Resolution is an all-or-nothing af
 If factorization were possible, intrinsic constraint would be localizable, and experience (by identity) would be impossible.
 
 
-## Feature II — Unavoidable internal resolution
+## Feature II - Unavoidable internal resolution
 
 ### Structural requirement
 
@@ -115,7 +115,7 @@ When futures collapse, the cost is paid *by the system itself*, not by an extern
 This is the point where equilibrium avoidance becomes ownership rather than control.
 
 
-## Feature III — Temporal regime continuity
+## Feature III - Temporal regime continuity
 
 ### Structural requirement
 
@@ -134,10 +134,10 @@ Each moment inherits constraint from the previous one.
 
 ### Why this matters
 
-Without continuity, there is no unified “now” — only a sequence of unrelated events.
+Without continuity, there is no unified “now” - only a sequence of unrelated events.
 
 
-## Feature IV — Single dominant regime
+## Feature IV - Single dominant regime
 
 ### Structural requirement
 
@@ -159,7 +159,7 @@ All others are irrevocably foreclosed.
 This is what makes experience *one* rather than many.
 
 
-## What this topology guarantees — and what it doesn’t
+## What this topology guarantees - and what it doesn’t
 
 ### What it guarantees (if instantiated)
 
@@ -202,7 +202,7 @@ The Hello World topology does exactly that:
 * it shows that the identity claim imposes sharp structural requirements
 * it shows why most architectures fail *by construction*
 
-It does not show that the concept is realizable in practice — and does not need to.
+It does not show that the concept is realizable in practice - and does not need to.
 
 
 ## Why this is not neuroscience, AI design, or metaphysics
@@ -224,6 +224,6 @@ Nothing that satisfies them is thereby certified.
 
 > The simplest possible situation in which experience could exist is one where a system cannot pass the buck, cannot split the job up, cannot reset between moments, and cannot let multiple incompatible futures coexist.
 >
-> If such a situation exists and holds together, experience is not something extra that happens — it is exactly what that situation is like from the inside.
+> If such a situation exists and holds together, experience is not something extra that happens - it is exactly what that situation is like from the inside.
 
 That is the IER Hello World.

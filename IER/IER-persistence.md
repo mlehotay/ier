@@ -15,7 +15,7 @@ ier:
 ## *Learning, Plasticity, and Change Within Unified Experiential Fields*
 
 **Informational Experiential Realism (IER v10.10.2)**\
-*Tier 2 — Elaboration — Non-Normative — Canon-Constrained*
+*Tier 2 - Elaboration - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -40,7 +40,7 @@ This document:
   * temporal continuity
   * experiential participation
 
-Its purpose is to explain how substantial experiential change over time — learning, development, trauma, recovery, and reorganization — can occur within a persistent UEF, and how such change is to be distinguished from categorical regime transitions.
+Its purpose is to explain how substantial experiential change over time - learning, development, trauma, recovery, and reorganization - can occur within a persistent UEF, and how such change is to be distinguished from categorical regime transitions.
 
 If any interpretation in this document conflicts with the Spec, the Spec takes precedence.
 
@@ -121,7 +121,7 @@ None of them, by themselves, entail the dissolution of the UEF.
 
 ## Participation Modulation Within a Persistent UEF
 
-IER allows — and in v10.3 explicitly clarifies — that experiential participation is dynamic.
+IER allows - and in v10.3 explicitly clarifies - that experiential participation is dynamic.
 
 ### Participation Is Not All-or-Nothing
 

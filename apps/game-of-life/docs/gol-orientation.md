@@ -1,4 +1,4 @@
-# GoL Orientation — Relation to IER
+# GoL Orientation - Relation to IER
 
 ## Status
 
@@ -7,7 +7,7 @@ NON-CANONICAL | EXAMPLE-SCOPED | NOT READER-FACING
 
 ## Purpose
 
-This project uses Conway — s Game of Life (GoL) as a controlled example system to explore structural concepts from Informational Experiential Realism (IER).
+This project uses Conway - s Game of Life (GoL) as a controlled example system to explore structural concepts from Informational Experiential Realism (IER).
 
 It is not:
 
@@ -58,7 +58,7 @@ Despite this limitation, GoL can exhibit:
 
 These allow us to demonstrate:
 
-> many forms of — holistic — or non-compositional structure do not imply non-factorizable admissible futures
+> many forms of - holistic - or non-compositional structure do not imply non-factorizable admissible futures
 
 
 ## IER Interpretation
@@ -86,7 +86,7 @@ They help show:
 
 * what coherence is not
 * how non-decomposability can arise without intrinsic closure
-* why admissible-future structure — not behavior — is the correct level of analysis
+* why admissible-future structure - not behavior - is the correct level of analysis
 
 
 ## One-Line Summary

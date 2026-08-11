@@ -14,7 +14,7 @@ ier:
 ## Ownership, Mineness, and Self-Boundary Under Informational Experiential Realism
 
 **Informational Experiential Realism (IER v10.11.0)**\
-*Projection — Non-Normative — Canon-Constrained*
+*Projection - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -53,7 +53,7 @@ No representational, semantic, epistemic, or phenomenological methods are introd
 
 ## Epistemic Boundary (Explicit)
 
-Experiential structure — including ownership, mineness, for-me-ness, or self-boundary — confers no epistemic authority about mind-independent reality.
+Experiential structure - including ownership, mineness, for-me-ness, or self-boundary - confers no epistemic authority about mind-independent reality.
 
 This document presupposes IER Specification Principle 10 (Epistemic Non-Authority).
 
@@ -274,7 +274,7 @@ Ownership disruption occurs when:
 * but:
 
   * attribution patterns fragment
-  * effort — outcome linkages degrade
+  * effort - outcome linkages degrade
   * boundary phenomenology destabilizes
 
 The system may report:
@@ -343,4 +343,4 @@ Under Informational Experiential Realism v10.8:
 
 > Ownership is what intrinsic constraint is like from the inside when it cannot be offloaded.
 
-That is all it is — and all it needs to be.
+That is all it is - and all it needs to be.

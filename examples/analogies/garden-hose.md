@@ -126,7 +126,7 @@ It fluctuated and returned.
 
 ## State Evolution: Gradual Change Without Reorganization
 
-Now imagine adjusting your thumb very slightly — not enough to create a visibly different kind of stream, but enough to alter:
+Now imagine adjusting your thumb very slightly - not enough to create a visibly different kind of stream, but enough to alter:
 
 * how tightly the stream holds together
 * how far it travels

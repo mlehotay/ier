@@ -2,7 +2,7 @@
 
 ## Why "Buddhist Attachment" Does Not Yet Identify a Single IER Phenomenon
 
-*Informational Experiential Realism (IER)* — *Problem Statement | Theravāda Case Study | Source-Constrained | Non-Normative | Non-Criterial*
+*Informational Experiential Realism (IER)* - *Problem Statement | Theravāda Case Study | Source-Constrained | Non-Normative | Non-Criterial*
 
 ## Status, Scope, and Authority
 

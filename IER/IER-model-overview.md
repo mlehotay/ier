@@ -19,7 +19,7 @@ ier:
 ## The Structural Geometry of Informational Experiential Realism
 
 **Informational Experiential Realism (IER v10.10.7)**\
-*Tier 2 — Explanatory — Synthetic — Non-Normative — Canon-Constrained*
+*Tier 2 - Explanatory - Synthetic - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 

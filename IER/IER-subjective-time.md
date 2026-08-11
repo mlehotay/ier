@@ -15,7 +15,7 @@ ier:
 ## Subjective Time as Frontier-Structured Irreversibility
 
 **Informational Experiential Realism (IER v10.10.2)**\
-*Tier 2 — Synthesis — Explanatory — Non-Normative — Canon-Constrained*
+*Tier 2 - Synthesis - Explanatory - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -56,7 +56,7 @@ all arise from:
 without introducing any additional temporal primitives.
 
 
-## Orientation — The Problem of Temporal Experience
+## Orientation - The Problem of Temporal Experience
 
 Experience appears temporally structured.
 
@@ -92,7 +92,7 @@ The problem must therefore be reframed:
 > It is the structure of experience produced by frontier resolution.
 
 
-## Core Claim — No Time Variable, Only Structured Resolution
+## Core Claim - No Time Variable, Only Structured Resolution
 
 IER introduces no internal representation of time.
 
@@ -137,7 +137,7 @@ This contraction is:
 
 Irreversibility is therefore produced by:
 
-> collapse at the history — future boundary.
+> collapse at the history - future boundary.
 
 
 ### Past Fixity
@@ -160,14 +160,14 @@ It is:
 
 > the ordered accumulation of collapse-indexed transitions at the boundary.
 
-There is no movement through time — only:
+There is no movement through time - only:
 
 * ongoing frontier operation
 * irreversible contraction
 * persistent structural consequence
 
 
-## Continuity and Discreteness — The Structural Resolution
+## Continuity and Discreteness - The Structural Resolution
 
 Experience appears both continuous and discrete.
 
@@ -224,7 +224,7 @@ or more compactly:
 No additional temporal mechanism is required.
 
 
-## The Specious Present — Co-Determination Before Collapse
+## The Specious Present - Co-Determination Before Collapse
 
 *IER specious-present* establishes:
 
@@ -247,7 +247,7 @@ The specious present is:
 > a coherence condition, not a temporal container.
 
 
-## Event Segmentation — Discrete Articulation of Collapse
+## Event Segmentation - Discrete Articulation of Collapse
 
 Event segmentation introduces discreteness.
 
@@ -277,7 +277,7 @@ They are:
 > boundary-indexed articulations of irreversible change.
 
 
-## Propagation and Persistence — From Events to Structure
+## Propagation and Persistence - From Events to Structure
 
 Collapse alone does not produce temporal structure.
 
@@ -409,12 +409,12 @@ flowchart TB
 ```
 
 Figure 2. Live frontier organization, irreversible articulation, and temporal scaffolds.
-The top block shows cognition operating within the future cone: anticipation, prospection, planning, integration envelopes, and frontier operation. The middle block shows the irreversible pipeline: binding, collapse, welding, and propagation, from which event segmentation, memory re-entry, past fixity, and duration become possible. The bottom block shows external temporal scaffolds — rhythm, speech timing, narrative pacing, and cultural pacing — which stabilize or shape envelope organization without generating collapse, admissibility, or irreversibility themselves.
+The top block shows cognition operating within the future cone: anticipation, prospection, planning, integration envelopes, and frontier operation. The middle block shows the irreversible pipeline: binding, collapse, welding, and propagation, from which event segmentation, memory re-entry, past fixity, and duration become possible. The bottom block shows external temporal scaffolds - rhythm, speech timing, narrative pacing, and cultural pacing - which stabilize or shape envelope organization without generating collapse, admissibility, or irreversibility themselves.
 
 > Figures 1 and 2 make explicit that subjective time is not produced by a clock or timeline, but by the relation between reversible frontier organization, irreversible contraction, and the persistence of propagated deformation.
 
 
-## Salience — Pre-Event Temporal Loading
+## Salience - Pre-Event Temporal Loading
 
 Salience operates prior to collapse.
 
@@ -430,7 +430,7 @@ Thus:
 > Salience shapes temporal structure by determining which frontier organization becomes consequential, without altering admissibility.
 
 
-## Subjective Duration — Registered Deformation Density
+## Subjective Duration - Registered Deformation Density
 
 *IER duration* establishes:
 
@@ -474,7 +474,7 @@ Thus:
 > Duration depends on registration, not activity.
 
 
-## Temporal Hierarchy — Nested Integration Envelopes
+## Temporal Hierarchy - Nested Integration Envelopes
 
 Temporal structure exists at multiple scales due to:
 
@@ -504,7 +504,7 @@ Instead:
 > The appearance of flow arises from ordered collapse-indexed progression and persistence of deformation.
 
 
-## Retrospective Determinacy — Why the Past Feels Fixed
+## Retrospective Determinacy - Why the Past Feels Fixed
 
 At prior configuration ( s' ):
 

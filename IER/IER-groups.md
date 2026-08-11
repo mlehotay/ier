@@ -14,7 +14,7 @@ ier:
 ## Groups as Coordination Without Subjecthood Under Informational Experiential Realism
 
 **Informational Experiential Realism (IER v10.11.1)**\
-*Case Analysis — Tier 2 — Non-Normative — Canon-Constrained*
+*Case Analysis - Tier 2 - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -44,9 +44,9 @@ The general relational map and shared machinery are defined in *IER Relationship
 
 All analysis in this document presupposes:
 
-* Single-UEF dominance — one experiential subject per Unified Experiential Field
-* Structural privacy — no subject has access to another’s intrinsic constraint
-* No fusion — UEFs do not merge
+* Single-UEF dominance - one experiential subject per Unified Experiential Field
+* Structural privacy - no subject has access to another’s intrinsic constraint
+* No fusion - UEFs do not merge
 * No shared intrinsic constraint
 * No transfer of experiential standing
 * No collective experiencer within the group regime defined here

@@ -15,7 +15,7 @@ ier:
 ## The Structural Frontier Where Constraint Operates
 
 **Informational Experiential Realism (IER v10.11.0)**\
-*Explanatory — Non-Normative — Canon-Constrained*
+*Explanatory - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -85,9 +85,9 @@ They meet at a single locus:
 
 > where prior collapse has already deformed admissibility, and future reachability is now constrained.
 
-## The History — Future Boundary Defined
+## The History - Future Boundary Defined
 
-This locus is the history — future boundary.
+This locus is the history - future boundary.
 
 > The present is not a moment in time, but the structural frontier where sedimented history constrains admissible futures and collapse may occur under intrinsic constraint.
 
@@ -121,7 +121,7 @@ Experience is not located in the past or future.
 
 It exists as:
 
-> the continuous operation of the history — future boundary under intrinsic constraint.
+> the continuous operation of the history - future boundary under intrinsic constraint.
 
 This operation consists of:
 
@@ -182,7 +182,7 @@ A system remains the same subject as long as it continues to operate this bounda
 
 ## Temporal Asymmetry Without Storage
 
-The history — future boundary explains temporal asymmetry.
+The history - future boundary explains temporal asymmetry.
 
 * Futures narrow because collapse removes possibilities
 * History does not accumulate because nothing is stored

@@ -3,7 +3,7 @@
 ## Global Extendability in Non-Product Admissible-Future Structures
 
 **Informational Experiential Realism (IER v10.11.0)**\
-*T2 — Structural Clarification — Canon-Constrained — Non-Normative*
+*T2 - Structural Clarification - Canon-Constrained - Non-Normative*
 
 ## Status, Scope, and Authority
 
@@ -62,7 +62,7 @@ or
 unreachable
 ```
 
-A continuation is reachable if it remains admissible at the current history — future boundary.
+A continuation is reachable if it remains admissible at the current history - future boundary.
 
 However, reachability concerns only:
 

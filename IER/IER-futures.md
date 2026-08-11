@@ -21,7 +21,7 @@ ier:
 ## Admissibility Domains and the Structure of Futures
 
 **Informational Experiential Realism (IER v10.9.9)**\
-*Tier 2 — Structural Clarification — Non-Normative — Canon-Constrained*
+*Tier 2 - Structural Clarification - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -77,15 +77,15 @@ $$
 
 When ambiguity is possible, subscripts must be used:
 
-* $A_{\text{pre}}(s)$ — pre-UEF admissibility (slack domain)
-* $A_{\text{UEF}}(s)$ — UEF frontier admissibility
-* $A_{\text{ant}}(s)$ — anticipated futures (cognitive projection)
-* $A_{\text{fail}}(s) \subseteq A_{\text{UEF}}(s)$ — failure or dissolution branches
+* $A_{\text{pre}}(s)$ - pre-UEF admissibility (slack domain)
+* $A_{\text{UEF}}(s)$ - UEF frontier admissibility
+* $A_{\text{ant}}(s)$ - anticipated futures (cognitive projection)
+* $A_{\text{fail}}(s) \subseteq A_{\text{UEF}}(s)$ - failure or dissolution branches
 
 Failure to specify domain when required constitutes structural drift.
 
 
-## Domain I — Pre-UEF Admissibility (Slack Domain)
+## Domain I - Pre-UEF Admissibility (Slack Domain)
 
 ### Definition
 
@@ -116,11 +116,11 @@ Multiplicity of successors does not imply slack.
 Failure exits do not constitute slack.
 
 
-## Domain II — UEF Frontier Admissibility
+## Domain II - UEF Frontier Admissibility
 
 ### Definition
 
-$A_{\text{UEF}}(s)$ denotes admissible raw successor continuations at the history — future boundary under globally binding intrinsic constraint.
+$A_{\text{UEF}}(s)$ denotes admissible raw successor continuations at the history - future boundary under globally binding intrinsic constraint.
 
 This is the canonical admissible successor set used in:
 
@@ -225,7 +225,7 @@ $$
 Successor realization therefore describes lawful continuation, not foreclosure of alternatives.
 
 
-## Domain III — Anticipated Futures
+## Domain III - Anticipated Futures
 
 ### Definition
 
@@ -261,7 +261,7 @@ Structural admissibility does not require anticipation.
 Collapse does not operate over anticipated futures.
 
 
-## Domain IV — Counterfactual Reference
+## Domain IV - Counterfactual Reference
 
 Statements such as:
 
@@ -409,7 +409,7 @@ There is:
 Only lawful contraction of reachable continuation under intrinsic constraint.
 
 
-## Appendix A — Future Types and the Cooked History Path
+## Appendix A - Future Types and the Cooked History Path
 
 This appendix summarizes the future-type distinctions used in Futures and shows how raw structure can become cured history without implying prediction, representation, or a second topology.
 

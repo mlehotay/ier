@@ -20,7 +20,7 @@ ier:
 ## Dynamics of Experiential Systems
 
 **Informational Experiential Realism (IER v10.11.1)**\
-*Tier 1 — Foundational — Canon-Constrained — Non-Normative*
+*Tier 1 - Foundational - Canon-Constrained - Non-Normative*
 
 ## Status, Scope, and Authority
 
@@ -206,8 +206,8 @@ There are no experiential levels, fractions, or partial subjects.
 
 IER sharply distinguishes:
 
-* UEF identity — persistence of a globally dominant regime
-* experiential participation — which processes are currently recruited into global intrinsic constraint
+* UEF identity - persistence of a globally dominant regime
+* experiential participation - which processes are currently recruited into global intrinsic constraint
 
 Participation:
 
@@ -243,7 +243,7 @@ Recruitment of additional processes into participation should not be confused wi
 
 Recruitment occurs only after informational slack has been exhausted and reflects the expansion of globally binding intrinsic constraint, not the restoration of local independence.
 
-For an explanatory account of how slack is exhausted — via saturation of locally admissible resolution pathways — see *IER saturation*.
+For an explanatory account of how slack is exhausted - via saturation of locally admissible resolution pathways - see *IER saturation*.
 
 This clarification introduces no new dynamics and does not alter regime identity conditions.
 
@@ -253,7 +253,7 @@ This walkthrough illustrates participation modulation within a single Unified Ex
 
 It is purely descriptive and introduces no criteria, diagnostics, or ontological claims.
 
-### Stage 1 — Baseline Experiential Regime
+### Stage 1 - Baseline Experiential Regime
 
 A system sustains a Unified Experiential Field.
 
@@ -264,15 +264,15 @@ A system sustains a Unified Experiential Field.
 
 The system is simply *experiencing*.
 
-### Stage 2 — Local Perturbation
+### Stage 2 - Local Perturbation
 
-A local process becomes active due to interaction with the environment — for example, visual and associative processes responding to a green apple.
+A local process becomes active due to interaction with the environment - for example, visual and associative processes responding to a green apple.
 
 * the perturbation is local
 * it does not yet impose global intrinsic constraint
 * it could still be ignored or dissipated
 
-### Stage 3 — Recruitment Into Participation
+### Stage 3 - Recruitment Into Participation
 
 Intrinsic informational tension increases.
 
@@ -284,7 +284,7 @@ Resolution now requires system-level coordination.
 
 The apple becomes *present* experientially.
 
-### Stage 4 — Content Stabilization
+### Stage 4 - Content Stabilization
 
 Participation stabilizes.
 
@@ -294,7 +294,7 @@ Participation stabilizes.
 
 The subject remains singular and continuous.
 
-### Stage 5 — Resolution or Dissolution
+### Stage 5 - Resolution or Dissolution
 
 As tension resolves:
 

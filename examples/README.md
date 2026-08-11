@@ -38,8 +38,8 @@ This collection introduces concepts such as experiential duration, subjective ti
 
 Current documents include:
 
-* Duration Without Clocks — why experienced duration need not depend upon physical clocks.
-* neuroscience-primer — background material connecting temporal experience with contemporary neuroscience.
+* Duration Without Clocks - why experienced duration need not depend upon physical clocks.
+* neuroscience-primer - background material connecting temporal experience with contemporary neuroscience.
 
 
 ### `cases/` and `analogies/`
@@ -52,10 +52,10 @@ Rather than presenting abstract definitions, each example begins with an ordinar
 
 Current analogies include:
 
-* black-snake — rapid interpretation, expectation, and experiential organization under uncertainty.
-* drum-and-string — physical interaction and emergent organizational constraint.
-* garden-hose — continuity, propagation, and constraint through an intuitive physical system.
-* lonely-hearts-runners — coordination, participation, and shared experiential organization.
+* black-snake - rapid interpretation, expectation, and experiential organization under uncertainty.
+* drum-and-string - physical interaction and emergent organizational constraint.
+* garden-hose - continuity, propagation, and constraint through an intuitive physical system.
+* lonely-hearts-runners - coordination, participation, and shared experiential organization.
 
 These examples are intended as intuition pumps rather than formal arguments. Larger bundled examples live under `projects/`, while fiction and poetry live under `cultural-forms/`.
 

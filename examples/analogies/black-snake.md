@@ -25,7 +25,7 @@ This chapter exists for orientation only.
 
 A small novelty firework is lit.
 
-Often sold as “black snakes” or “Pharaoh’s snakes,” it begins as a simple pellet — usually a compact mixture of fuels and oxidizers that decompose under heat.
+Often sold as “black snakes” or “Pharaoh’s snakes,” it begins as a simple pellet - usually a compact mixture of fuels and oxidizers that decompose under heat.
 
 When ignited, it does not explode.
 
@@ -79,7 +79,7 @@ This bending is not a decision.
 
 It is the visible effect of uneven constraint.
 
-Local conditions — heat, density, airflow, support — are not perfectly symmetric.
+Local conditions - heat, density, airflow, support - are not perfectly symmetric.
 
 Because of this:
 
@@ -193,7 +193,7 @@ The path is not planned, selected, or stored.
 It is produced by sequential deformation.
 
 
-## Intermission — Structural Image
+## Intermission - Structural Image
 
 > The snake’s curve is not a chosen path.
 > It is sedimented constraint becoming visible as trajectory.

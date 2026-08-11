@@ -1,6 +1,6 @@
 # An IER Introduction to Abhidharma
 
-*Informational Experiential Realism (IER)* — *Orientation | Historical Primer | Source-Constrained | Non-Normative*
+*Informational Experiential Realism (IER)* - *Orientation | Historical Primer | Source-Constrained | Non-Normative*
 
 ## Status, Scope, and Authority
 
@@ -71,7 +71,7 @@ This distinction matters because a claim found in a late Theravāda manual canno
 
 In the singular, Dharma or Dhamma can name the Buddha's teaching. In Abhidharma analysis, plural dharmas or dhammas name the mental and physical events, functions, or types through which sentient experience is analyzed.
 
-The word does not identify one simple kind of object. The SEP account explicitly distinguishes a dharma *type* — a category representing a possible type of occurrence — from a particular dharma *token* or occurrence of that type.[^sep-taxonomy] Further distinctions are required before any comparison with IER:
+The word does not identify one simple kind of object. The SEP account explicitly distinguishes a dharma *type* - a category representing a possible type of occurrence - from a particular dharma *token* or occurrence of that type.[^sep-taxonomy] Further distinctions are required before any comparison with IER:
 
 | Analytical object | What it identifies | What it must not be collapsed into |
 | --- | --- | --- |

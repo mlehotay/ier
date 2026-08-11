@@ -20,7 +20,7 @@ ier:
 ## Event Segmentation as Discrete Articulation of Collapse in Choice Space
 
 **Informational Experiential Realism (IER v10.10.2)**\
-*T2 — Foundational Bridge — Explanatory — Non-Normative — Canon-Constrained*
+*T2 - Foundational Bridge - Explanatory - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -66,7 +66,7 @@ IER-integration-envelopes
 If any statement here conflicts with Tier-1 commitments, Tier-1 prevails.
 
 
-## Purpose — Why Experience Divides into Events
+## Purpose - Why Experience Divides into Events
 
 Experience appears segmented into:
 
@@ -152,7 +152,7 @@ This is structurally incorrect.
 
 ## Required Definition
 
-> An event boundary corresponds to a collapse — welding transition that produces sufficient propagated deformation to reorganize ongoing constraint structure at a scale accessible to cognitive integration.
+> An event boundary corresponds to a collapse - welding transition that produces sufficient propagated deformation to reorganize ongoing constraint structure at a scale accessible to cognitive integration.
 
 Event segmentation therefore requires:
 
@@ -164,7 +164,7 @@ Event segmentation therefore requires:
 
 ## Consequence
 
-> Events are salient, propagated collapse transitions — not raw collapse events.
+> Events are salient, propagated collapse transitions - not raw collapse events.
 
 This prevents:
 
@@ -240,9 +240,9 @@ Each such contraction:
 
 This structure may be represented descriptively as a graph:
 
-* nodes — boundary-indexed configurations after contraction
-* edges — admissible continuation under intrinsic constraint
-* paths — realized continuation
+* nodes - boundary-indexed configurations after contraction
+* edges - admissible continuation under intrinsic constraint
+* paths - realized continuation
 
 In this register:
 

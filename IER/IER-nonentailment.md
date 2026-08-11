@@ -19,7 +19,7 @@ ier:
 ## Why Experience Does Not Imply What Intuition Demands
 
 **Informational Experiential Realism (IER v10.11.1)**\
-*Tier 3 — Misuse-Blocking / Epistemic Boundary — Canon-Binding (Negative)*
+*Tier 3 - Misuse-Blocking / Epistemic Boundary - Canon-Binding (Negative)*
 
 ## Status, Scope, and Authority
 

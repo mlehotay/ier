@@ -9,12 +9,12 @@ ier:
   status: canonical
   filename: IER-social-systems.md
 ---
-# IER — Social Systems
+# IER - Social Systems
 
 ## Coordination, Constraint, Harm, and Enablement Without Ordinary Collective Experience
 
 **Informational Experiential Realism (IER v10.11.0)**\
-*Canon-Constrained Analytical Extension — Tier 2 — Non-Normative*
+*Canon-Constrained Analytical Extension - Tier 2 - Non-Normative*
 
 ## Status, Scope, and Authority
 
@@ -68,7 +68,7 @@ No semantic, representational, epistemic, or agentive primitives are introduced.
 
 Under IER, experience exists if and only if a physical system sustains a Unified Experiential Field (UEF): a globally integrated, temporally continuous regime of coherent intrinsic constraint.
 
-The social systems analyzed here — including ordinary institutions, organizations, cultures, governments, corporations, and communities — do not satisfy these conditions.
+The social systems analyzed here - including ordinary institutions, organizations, cultures, governments, corporations, and communities - do not satisfy these conditions.
 
 Under IER, institutions are not interchangeable with organizations. Institutions are persistent social state machines; organizations are bounded participant structures that instantiate institutional roles and procedures; companies are economic organizations; corporations are legal organizational forms.
 

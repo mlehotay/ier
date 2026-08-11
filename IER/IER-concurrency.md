@@ -12,7 +12,7 @@ ier:
 # Co-Presence Without Parallelism
 
 **Informational Experiential Realism (IER v10.11.2)**\
-*T2 — ELABORATION — Non-Normative — Canon-Constrained*
+*T2 - ELABORATION - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -38,7 +38,7 @@ This article is explanatory only.
 
 ## Why “Multiple Streams” Is the Wrong Abstraction
 
-*Elaboration — Non-Normative — Canon-Constrained*
+*Elaboration - Non-Normative - Canon-Constrained*
 
 
 
@@ -73,7 +73,7 @@ Concurrency must therefore be explained without parallel execution.
 IER entails:
 
 * exactly one Unified Experiential Field at a time
-* exactly one history — future boundary
+* exactly one history - future boundary
 * exactly one locus where intrinsic constraint is borne
 
 This does not imply poverty of experience.
@@ -86,8 +86,8 @@ Concurrency, if it exists, must be apparent rather than literal.
 
 IER draws a strict distinction between:
 
-* co-presence — multiple structures being simultaneously present
-* concurrency — multiple structures simultaneously binding or owning futures
+* co-presence - multiple structures being simultaneously present
+* concurrency - multiple structures simultaneously binding or owning futures
 
 IER allows unlimited co-presence.
 IER forbids concurrency of binding.
@@ -103,9 +103,9 @@ The appearance of concurrency arises from graded participation, not parallel thr
 
 Participation may be:
 
-* deep — strongly coupled to frontier resolution (binding)
-* shallow — present but non-binding
-* background — weakly coupled signal
+* deep - strongly coupled to frontier resolution (binding)
+* shallow - present but non-binding
+* background - weakly coupled signal
 
 Most structures commonly described as “other streams” are shallow reproductions.
 
@@ -115,7 +115,7 @@ They persist because they are cheap, not because they compete.
 
 As defined in *IER binding*:
 
-> Binding is frontier relevance — participation such that dropping it would alter admissible futures under intrinsic constraint.
+> Binding is frontier relevance - participation such that dropping it would alter admissible futures under intrinsic constraint.
 
 Only binding structures:
 
@@ -151,7 +151,7 @@ It is the architectural separation between:
 * binding structure (frontier-relevant)
 * non-binding structure (droppable, co-present)
 
-There is exactly one such separation, because there is exactly one history — future boundary.
+There is exactly one such separation, because there is exactly one history - future boundary.
 
 There are no:
 
@@ -264,10 +264,10 @@ Under Informational Experiential Realism:
 * participation is graded
 * binding is exclusive
 * concurrency is apparent, not literal
-* firewalls separate binding from non-binding — not streams from streams
+* firewalls separate binding from non-binding - not streams from streams
 
 Nothing is scheduled.
 Nothing is arbitrated.
 Nothing is divided.
 
-There is one system, bearing constraint once — and many shapes it can hold without letting them count.
+There is one system, bearing constraint once - and many shapes it can hold without letting them count.

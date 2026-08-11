@@ -39,7 +39,7 @@ Constraint Cartography in a Toy Universe
 
 This application explores Conway's Game of Life as a fully observable environment for investigating persistent organization, trajectory structure, and explainability.
 
-The project examines whether concepts developed within IER — such as constraint organization, frontier geometry, trajectory classes, and Constraint Cartography — can be explored within a simple deterministic cellular automaton.
+The project examines whether concepts developed within IER - such as constraint organization, frontier geometry, trajectory classes, and Constraint Cartography - can be explored within a simple deterministic cellular automaton.
 
 The Game of Life application combines:
 

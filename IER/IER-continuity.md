@@ -17,7 +17,7 @@ ier:
 ## Time, Experiential Regimes, and the Continuity of Persons: Why Experience Flows, Interrupts, and Persists Across System Continuity
 
 **Informational Experiential Realism (IER v10.8.4)**\
-*Tier 2 — Elaboration — Non-Normative — Canon-Constrained*
+*Tier 2 - Elaboration - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -145,7 +145,7 @@ This produces an asymmetry in the space of admissible futures.
 
 From the inside, this asymmetry appears as passage, flow, and “now moving on.” From the outside, it appears as irreversible physical evolution.
 
-There is no privileged present — only ongoing traversal of constraint geometry under irreversible resolution.
+There is no privileged present - only ongoing traversal of constraint geometry under irreversible resolution.
 
 
 ## Persistence Without Continuous Experience
@@ -170,7 +170,7 @@ experiential subject across cessation.
 
 ## Regime States and Transitions
 
-### Dreamless Sleep — Regime Suspension
+### Dreamless Sleep - Regime Suspension
 
 * no coherent constraint window,
 * no experiential time,
@@ -181,7 +181,7 @@ system has ceased to exist. If a later UEF is instantiated after genuine
 cessation, it is a numerically distinct experiential subject.
 
 
-### Dreaming — Regime Reconfiguration
+### Dreaming - Regime Reconfiguration
 
 * a UEF is present,
 * intrinsic constraint remains unavoidable,
@@ -191,7 +191,7 @@ cessation, it is a numerically distinct experiential subject.
 Dreaming is reconfigured worldhood, not diminished experience.
 
 
-### General Anesthesia — Forced Dissolution
+### General Anesthesia - Forced Dissolution
 
 * intrinsic constraint is externally suppressed,
 * global integration collapses,
@@ -201,7 +201,7 @@ Reversibility of the embodied system follows from preserved capacity, not
 stored experience; it does not by itself establish numerical subject identity.
 
 
-### Catatonia — Frozen Constraint
+### Catatonia - Frozen Constraint
 
 * a UEF persists,
 * intrinsic constraint is extreme and rigid,
@@ -210,14 +210,14 @@ stored experience; it does not by itself establish numerical subject identity.
 This is high-cost experience, not unconsciousness.
 
 
-### Daydreaming — Participation Drift
+### Daydreaming - Participation Drift
 
 * the same experiential regime persists,
 * internal organization shifts,
 * no regime transition occurs.
 
 
-### Coma — Capacity Ambiguity
+### Coma - Capacity Ambiguity
 
 * integration is severely disrupted,
 * regime presence is unstable or absent,

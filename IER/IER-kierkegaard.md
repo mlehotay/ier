@@ -54,7 +54,7 @@ The governing corpus retains all binding authority.
 If any statement here conflicts with canonical documents, canonical documents prevail.
 
 
-## Orientation — Why Kierkegaard Remains Interesting
+## Orientation - Why Kierkegaard Remains Interesting
 
 Few philosophers have been as persistently concerned with an unusual question:
 

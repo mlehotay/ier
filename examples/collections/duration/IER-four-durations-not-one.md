@@ -238,7 +238,7 @@ Rostral SMA, anterior insula, and inferior frontal regions showed many fitted pr
 
 That interpretation is plausible but underdetermined. The same 0.5-second value served as range midpoint, learned reference, and likely category criterion. A center-sensitive response is therefore evidence of task-related organization near a privileged duration, but it does not identify why that duration is privileged.
 
-The PSE analysis narrows the claim only modestly. Positive correlations emphasized by the authors occurred in selected anterior-insular regions — left FOP5 and bilateral AVI — and in one right rostral SMA region, a32pr. At the broad stream level, bilateral anterior insula and left inferior parietal cortex also showed positive associations. Inferior frontal cortex did not show the emphasized positive PSE relationship.
+The PSE analysis narrows the claim only modestly. Positive correlations emphasized by the authors occurred in selected anterior-insular regions - left FOP5 and bilateral AVI - and in one right rostral SMA region, a32pr. At the broad stream level, bilateral anterior insula and left inferior parietal cortex also showed positive associations. Inferior frontal cortex did not show the emphasized positive PSE relationship.
 
 These correlations involved thirteen participants, many regional tests, and uncorrected $p$-values. They are valuable candidate effects, especially in light of related monkey electrophysiology, but they require replication and an experimental design that moves the reference and range statistics independently.
 
@@ -286,11 +286,11 @@ The most defensible reinterpretation can now be stated.
 
 Centanino et al. show how a physical persistence relation is preserved and transformed across a duration-categorization task:
 
-1. **Physical persistence** — the visual input lasts for a controlled interval.
-2. **Sensory differentiation** — visual responses vary with the continued presence of the input.
-3. **Distributed task representation** — fitted cortical response preferences preserve duration-related distinctions in several spatially organized populations.
-4. **Relational categorization** — the comparison is organized relative to prior training, the presented range, and the two response categories.
-5. **Behavioral settlement** — the trial culminates in a shorter/longer action summarized across trials by a PSE.
+1. **Physical persistence** - the visual input lasts for a controlled interval.
+2. **Sensory differentiation** - visual responses vary with the continued presence of the input.
+3. **Distributed task representation** - fitted cortical response preferences preserve duration-related distinctions in several spatially organized populations.
+4. **Relational categorization** - the comparison is organized relative to prior training, the presented range, and the two response categories.
+5. **Behavioral settlement** - the trial culminates in a shorter/longer action summarized across trials by a PSE.
 
 This sequence is an explanatory decomposition of the task. It is not a claim that the five terms form a demonstrated causal pathway, and it is not the IER frontier pipeline.
 

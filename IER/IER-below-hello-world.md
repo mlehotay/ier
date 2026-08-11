@@ -15,7 +15,7 @@ ier:
 ## Why Arbitrarily Rich Structure Can Still Be Zero Experience
 
 **Informational Experiential Realism (IER v10.9.0)**\
-*Tier 2 — Explanatory — Non-Normative — Boundary-Enforcing*
+*Tier 2 - Explanatory - Non-Normative - Boundary-Enforcing*
 
 ## Status, Scope, and Authority
 
@@ -34,7 +34,7 @@ It:
 
 This document exists for one purpose only:
 
-> To explain why everything short of the Hello World topology — no matter how complex, integrated, embodied, or inevitable — still constitutes zero experience under Informational Experiential Realism.
+> To explain why everything short of the Hello World topology - no matter how complex, integrated, embodied, or inevitable - still constitutes zero experience under Informational Experiential Realism.
 
 This document remains subordinate to the canonical IER corpus. If any interpretation in this document conflicts with those texts, the conflicting claim here is void.
 
@@ -45,7 +45,7 @@ The Hello World topology is deliberately minimal.
 
 That minimality creates a predictable and powerful intuition:
 
-> *If a system satisfies most of these conditions — if it is nearly global, nearly unavoidable, nearly unified — surely it must count a little.*
+> *If a system satisfies most of these conditions - if it is nearly global, nearly unavoidable, nearly unified - surely it must count a little.*
 
 This intuition is understandable.
 
@@ -88,7 +88,7 @@ Constraint still exists.
 But it is not owned.
 
 
-## Failure Mode I — Near-Global but Factorable Resolution
+## Failure Mode I - Near-Global but Factorable Resolution
 
 *(Contrast with Hello World Feature I: Global Non-Factorability)*
 
@@ -111,7 +111,7 @@ Factorable resolution implies:
 * experience does not exist
 
 
-## Failure Mode II — Internally Costly but Externally Deferrable Resolution
+## Failure Mode II - Internally Costly but Externally Deferrable Resolution
 
 *(Contrast with Hello World Feature II: Unavoidable Internal Resolution)*
 
@@ -139,7 +139,7 @@ Cost alone is insufficient.
 Ownership requires unavoidability, not intensity.
 
 
-## Failure Mode III — Temporal Continuity Without Regime Persistence
+## Failure Mode III - Temporal Continuity Without Regime Persistence
 
 *(Contrast with Hello World Feature III: Temporal Regime Continuity)*
 
@@ -163,7 +163,7 @@ Continuity of state is not continuity of constraint.
 Without regime persistence, experience cannot exist.
 
 
-## Failure Mode IV — Coordination Without a Single Dominant Regime
+## Failure Mode IV - Coordination Without a Single Dominant Regime
 
 *(Contrast with Hello World Feature IV: Single Dominant Regime)*
 
@@ -277,7 +277,7 @@ Under Informational Experiential Realism:
 > Everything except ownership can exist without experience. Ownership alone admits no degree.
 
 
-## Intermission — Negative Space Marker
+## Intermission - Negative Space Marker
 
 You can build the entire scaffold\
 without crossing the line,\

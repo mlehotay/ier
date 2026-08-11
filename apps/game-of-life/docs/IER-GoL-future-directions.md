@@ -1,16 +1,16 @@
 # Game of Life Future Directions
 
 
-## IER — Game of Life: Future Directions
+## IER - Game of Life: Future Directions
 
 Status: Non-Canonical | Exploratory | Methodological
 Role: Example Extension Roadmap
-Scope: Development of analysis, tooling, and formal results within the IER — GoL framework
+Scope: Development of analysis, tooling, and formal results within the IER - GoL framework
 
 
 ## Purpose
 
-This document outlines concrete next steps for developing the IER layer applied to Conway — s Game of Life (GoL).
+This document outlines concrete next steps for developing the IER layer applied to Conway - s Game of Life (GoL).
 
 The objective is not to extend IER ontology or modify GoL dynamics.
 Instead, the goal is to:
@@ -67,7 +67,7 @@ with:
 Candidate pattern classes:
 
 * interacting oscillators
-* glider — collision intermediates
+* glider - collision intermediates
 * transient catalytic structures
 * near-critical growth/decay boundaries
 
@@ -450,7 +450,7 @@ Visualization must remain:
 
 ## Summary
 
-The IER — GoL framework is:
+The IER - GoL framework is:
 
 > a structural analysis layer over deterministic dynamics
 

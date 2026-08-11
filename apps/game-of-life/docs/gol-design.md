@@ -6,7 +6,7 @@
 
 This document defines the design of the Game of Life application itself.
 
-Its scope is limited to building a complete, stable, and maintainable terminal implementation of Conway — s Game of Life with:
+Its scope is limited to building a complete, stable, and maintainable terminal implementation of Conway - s Game of Life with:
 
 - ANSI terminal rendering
 - a structured pane-based UI
@@ -63,7 +63,7 @@ This is a structured terminal simulator, not a terminal widget framework.
 
 The primary goals are:
 
-- implement Conway — s Game of Life correctly
+- implement Conway - s Game of Life correctly
 - make terminal behavior stable and predictable
 - provide an interactive, usable interface
 - support deterministic and file-based pattern initialization
@@ -199,7 +199,7 @@ Owns:
 
 ## Simulation model
 
-The simulation is standard Conway — s Game of Life.
+The simulation is standard Conway - s Game of Life.
 
 ### Rule set
 
@@ -767,7 +767,7 @@ Future theory-oriented work should be specified separately rather than folded ba
 
 ## Summary
 
-This project is a modular ANSI terminal implementation of Conway — s Game of Life with:
+This project is a modular ANSI terminal implementation of Conway - s Game of Life with:
 
 * pane-based UI
 * interactive controls

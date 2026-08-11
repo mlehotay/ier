@@ -150,7 +150,7 @@ historical orientation
 -> testable reconstruction problems
 ```
 
-Progress will consist not in producing more verbal analogies, but in finding cases where a physical reconstruction predicts a traditional boundary, association, relation, or transition — or shows precisely why the classifications do not correspond.
+Progress will consist not in producing more verbal analogies, but in finding cases where a physical reconstruction predicts a traditional boundary, association, relation, or transition - or shows precisely why the classifications do not correspond.
 
 ## Compression Statement
 

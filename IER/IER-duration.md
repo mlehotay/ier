@@ -14,7 +14,7 @@ ier:
 ## Duration as Cognitively Registered Welded Deformation
 
 **Informational Experiential Realism (IER v10.11.2)**\
-*T2 — ELABORATION — Non-Normative — Canon-Constrained*
+*T2 - ELABORATION - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -83,7 +83,7 @@ The account provided here is structural:
 > Experienced duration tracks the density and structural organization of cognitively registered welded deformation within an interval.
 
 
-## Orientation — The Variability of Duration
+## Orientation - The Variability of Duration
 
 Experience does not present all intervals equally.
 
@@ -118,7 +118,7 @@ The problem must therefore be reframed.
 > It is the experiential consequence of how structural change becomes organized and registered.
 
 
-## Core Definition — Registered Deformation, Not Time
+## Core Definition - Registered Deformation, Not Time
 
 Under Informational Experiential Realism:
 
@@ -206,7 +206,7 @@ Duration does not track:
 * number of attempted continuations
 
 
-## Collapse, Segmentation, and Duration — Distinct Roles
+## Collapse, Segmentation, and Duration - Distinct Roles
 
 A strict separation is required.
 
@@ -237,7 +237,7 @@ A strict separation is required.
 > Duration depends on how its consequences are propagated and registered.
 
 
-## Propagation and Registration — The Basis of Duration
+## Propagation and Registration - The Basis of Duration
 
 Collapse alone does not produce duration.
 
@@ -275,7 +275,7 @@ Thus:
 > Only deformation that is both propagated and cognitively registered contributes to experienced duration.
 
 
-## Salience — Modulation of Duration Without Measurement
+## Salience - Modulation of Duration Without Measurement
 
 Salience operates prior to collapse.
 
@@ -335,7 +335,7 @@ It reflects:
 > Retrospective duration reflects reconstructed deformation, not stored events.
 
 
-## Boredom — Dissociation of Temporal Experience
+## Boredom - Dissociation of Temporal Experience
 
 Boredom provides a critical test case.
 

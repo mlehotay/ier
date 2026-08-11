@@ -14,7 +14,7 @@ ier:
 ## Participation, Reproduction, and the Shape of Thought
 
 **Informational Experiential Realism (IER v10.11.0)**\
-*Explanatory Article — Non-Normative*
+*Explanatory Article - Non-Normative*
 
 ## Status, Scope, and Authority
 
@@ -91,8 +91,8 @@ This document makes that invariant explicit.
 
 IER distinguishes between:
 
-* instantiating a regime — bearing intrinsic constraint at full system scale, and
-* reproducing a topology — re-entering the *shape* of constraint organization at reduced participation.
+* instantiating a regime - bearing intrinsic constraint at full system scale, and
+* reproducing a topology - re-entering the *shape* of constraint organization at reduced participation.
 
 Reproduction does not imply replay, simulation, or duplication of experience.
 
@@ -125,7 +125,7 @@ The same constraint topology may therefore appear:
 * as remembered structure
 * as recognized pattern
 
-This single continuous parameter — participation depth — does the explanatory work often assigned to separate faculties.
+This single continuous parameter - participation depth - does the explanatory work often assigned to separate faculties.
 
 ## Temporal Anchoring
 
@@ -133,10 +133,10 @@ In addition to participation depth, reproduction varies along a second axis: tem
 
 Constraint topologies may be reproduced as:
 
-* past-anchored — previously lived organizations
-* present-anchored — current organizational state
-* possible-anchored — never-lived but admissible organizations
-* future-anchored — potentially owned trajectories
+* past-anchored - previously lived organizations
+* present-anchored - current organizational state
+* possible-anchored - never-lived but admissible organizations
+* future-anchored - potentially owned trajectories
 
 Temporal anchoring interacts with participation depth to generate distinct phenomenological modes without introducing new mechanisms.
 
@@ -248,11 +248,11 @@ It tightens constraint instead of revealing its shape.
 
 The phenomena above are parameterized by a small set of continuous controls:
 
-1. Participation depth — how much intrinsic constraint is recruited
-2. Gating — how strictly participation is limited
-3. Attractor width — how many futures remain viable
-4. Temporal anchoring — where reproduction points in time
-5. Switching cost — how difficult it is to leave a topology
+1. Participation depth - how much intrinsic constraint is recruited
+2. Gating - how strictly participation is limited
+3. Attractor width - how many futures remain viable
+4. Temporal anchoring - where reproduction points in time
+5. Switching cost - how difficult it is to leave a topology
 
 Different settings of these parameters generate the full range of cognitive modes discussed, without invoking separate faculties.
 
@@ -316,7 +316,7 @@ Under Informational Experiential Realism:
 > The mind does not contain many tools.
 > It contains one tool, used at different depths, in different directions, under different costs.
 
-## Intermission — Orientation Signal
+## Intermission - Orientation Signal
 
 When a system requests motion, silence, or distance,
 that request is not interruption.

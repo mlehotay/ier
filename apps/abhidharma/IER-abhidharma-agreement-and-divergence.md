@@ -2,7 +2,7 @@
 
 ## Axes of Agreement, Divergence, and Non-Correspondence
 
-*Informational Experiential Realism (IER)* — *Comparative Analysis | Source-Constrained | Non-Normative | Non-Criterial*
+*Informational Experiential Realism (IER)* - *Comparative Analysis | Source-Constrained | Non-Normative | Non-Criterial*
 
 ## Status, Scope, and Authority
 
@@ -73,7 +73,7 @@ IER accepts one objective physical reality. Experience is neither a second subst
 
 ### Assessment
 
-The old contrast — "Abhidharma is phenomenological; IER is physical" — is too coarse. Abhidharma includes material phenomena and makes ontological claims; IER includes phenomenology through identity rather than treating it as an independently generated layer.
+The old contrast - "Abhidharma is phenomenological; IER is physical" - is too coarse. Abhidharma includes material phenomena and makes ontological claims; IER includes phenomenology through identity rather than treating it as an independently generated layer.
 
 The genuine divergence is deeper. Abhidharma begins with a school-specific analysis of dharmas as the constituents and conditions of sentient experience. IER begins with a proposed physical identity condition for experience. It does not follow that a dharma is an intrinsic constraint, a citta is a UEF, or a mental factor is a participating physical process.
 
@@ -331,7 +331,7 @@ Those similarities establish a reason to compare the frameworks, not a correspon
 
 Abhidharma is a family of exegetical, taxonomic, causal, metaphysical, epistemological, contemplative, and soteriological projects. IER is a physicalist identity theory with its own ontology and explanatory constraints. The comparison becomes productive only after it identifies a specific tradition, analytical object, and independently specified IER organization.
 
-The immediate research task is therefore not to translate an Abhidharma atlas into IER language. It is to discover whether any particular traditional distinction survives disciplined reconstruction — and to learn from the cases in which it does not.
+The immediate research task is therefore not to translate an Abhidharma atlas into IER language. It is to discover whether any particular traditional distinction survives disciplined reconstruction - and to learn from the cases in which it does not.
 
 ## Sources
 

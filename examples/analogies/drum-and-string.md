@@ -295,7 +295,7 @@ The guitar string illustrates:
 * reversible and persistent constraint changes
 * how attention and bonding reorganize the field
 
-In both systems, the observable phenomenon — the sound — is identical to the dynamical pattern of the physical system.
+In both systems, the observable phenomenon - the sound - is identical to the dynamical pattern of the physical system.
 
 IER proposes a similar identity:
 

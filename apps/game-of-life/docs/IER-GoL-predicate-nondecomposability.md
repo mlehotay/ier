@@ -496,7 +496,7 @@ This system does not:
 
 ## What Is Demonstrated
 
-> Deterministic dynamics can produce regions whose closure predicates — defined via diachronic dependence — do not decompose under restriction.
+> Deterministic dynamics can produce regions whose closure predicates - defined via diachronic dependence - do not decompose under restriction.
 
 
 ## Final Summary

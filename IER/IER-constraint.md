@@ -16,7 +16,7 @@ ier:
 ## Constraint as Lawful Restriction on Admissible Continuation
 
 **Informational Experiential Realism (IER v10.10.7)**\
-*Tier 2 — Foundational Clarification — Canon-Constrained — Non-Normative*
+*Tier 2 - Foundational Clarification - Canon-Constrained - Non-Normative*
 
 ## Status, Scope, and Authority
 

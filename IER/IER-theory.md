@@ -22,7 +22,7 @@ ier:
 ## Conceptual Backbone and Explanatory Integration
 
 **Informational Experiential Realism (IER v10.11.1)**\
-*Tier 1 — Foundational — Non-Normative — Canon-Constrained*
+*Tier 1 - Foundational - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -296,7 +296,7 @@ These failures are not empirical or contingent.
 
 They follow directly from what experience is, under the identity claim of IER.
 
-Anything weaker than global intrinsic constraint cannot instantiate experience — not because it is insufficiently advanced, but because it lacks the organizational features that experience *just is*.
+Anything weaker than global intrinsic constraint cannot instantiate experience - not because it is insufficiently advanced, but because it lacks the organizational features that experience *just is*.
 
 ## Non-Inference: Anti-Isomorphism Clarification
 
@@ -310,7 +310,7 @@ Under IER, experiential identity depends only on whether intrinsic constraint is
 
 The claim that Unified Experiential Fields are multiply realizable does not imply that experiential identity is independent of physical implementation, functional substrate, or organizational details.
 
-Multiple realizability in IER means only that distinct physical systems may instantiate the *same regime-level identity* when — and only when — the full set of intrinsic constraint conditions is satisfied.
+Multiple realizability in IER means only that distinct physical systems may instantiate the *same regime-level identity* when - and only when - the full set of intrinsic constraint conditions is satisfied.
 
 It does not license abstraction away from physical organization, nor does it support computational, functional, or substrate-neutral sufficiency claims.
 
@@ -320,7 +320,7 @@ This document explains what experience is and why weaker organizations cannot in
 
 It does not derive ethical consequences.
 
-All ethical claims that follow from experiential identity — including:
+All ethical claims that follow from experiential identity - including:
 
 * categorical moral standing
 * moral harm as organizational damage

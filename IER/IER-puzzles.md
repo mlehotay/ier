@@ -15,7 +15,7 @@ ier:
 ## IER and the classic puzzles of consciousness
 
 **Informational Experiential Realism (IER v10.10.7)**\
-*Tier-2 — Explanatory — Non-Normative — Canon-Constrained*
+*Tier-2 - Explanatory - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 

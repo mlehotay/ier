@@ -24,7 +24,7 @@ ier:
 ## Full Normative Specification
 
 **Informational Experiential Realism (IER v10.10.7)**\
-*Tier 1 — Foundational — Normative — Canon-Constrained*
+*Tier 1 - Foundational - Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -59,21 +59,21 @@ It specifies exhaustively:
 
 No claim outside this document carries definitional, criterial, or ethical authority.
 
-All other IER documents — theory, dynamics, mathematics, ethics applications, diagnostics, or commentary — are non-normative derivatives. They introduce no criteria, thresholds, sufficiency conditions, or necessity claims.
+All other IER documents - theory, dynamics, mathematics, ethics applications, diagnostics, or commentary - are non-normative derivatives. They introduce no criteria, thresholds, sufficiency conditions, or necessity claims.
 
 > If any statement in another IER document conflicts with this specification, the specification takes precedence and the conflicting statement is void.
 
 ## Ontological Commitments (Axioms)
 
-### Axiom 1 — Objective Physical Reality
+### Axiom 1 - Objective Physical Reality
 
 There exists exactly one objective physical reality, governed by mind-independent law.
 
 Physical states and events occur regardless of observation, modeling, prediction, or experience.
 
-### Axiom 2 — Physical Monism
+### Axiom 2 - Physical Monism
 
-All systems, processes, and regimes — including experiential ones — are physically instantiated.
+All systems, processes, and regimes - including experiential ones - are physically instantiated.
 
 IER rejects:
 
@@ -85,7 +85,7 @@ IER rejects:
 
 No non-physical substances, properties, domains, or laws are posited.
 
-### Axiom 3 — Experiential Identity
+### Axiom 3 - Experiential Identity
 
 > Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF).
 
@@ -166,10 +166,10 @@ Only coherent intrinsic constraint can sustain experience.
 
 A system-level dynamical regime that is:
 
-1. Globally integrated — system dynamics are mutually dependent
-2. Temporally continuous — experience exists only across non-zero duration
-3. Self-sustaining — the system generates and maintains its own constraint
-4. Under coherent intrinsic constraint — unavoidable, irreducible, and globally binding
+1. Globally integrated - system dynamics are mutually dependent
+2. Temporally continuous - experience exists only across non-zero duration
+3. Self-sustaining - the system generates and maintains its own constraint
+4. Under coherent intrinsic constraint - unavoidable, irreducible, and globally binding
 
 A UEF is not a component, module, workspace, or substance.
 
@@ -233,9 +233,9 @@ No additional phenomenal properties exist.
 
 ### Valence, Intensity, and Urgency
 
-* Valence — resolution vs escalation of intrinsic tension
-* Intensity — magnitude and coherence of intrinsic constraint
-* Urgency — rate of change of intrinsic constraint
+* Valence - resolution vs escalation of intrinsic tension
+* Intensity - magnitude and coherence of intrinsic constraint
+* Urgency - rate of change of intrinsic constraint
 
 ### Experiential Dissolution
 
@@ -261,15 +261,15 @@ Agency:
 
 ## Core Principles
 
-### Principle 1 — Experiential Identity
+### Principle 1 - Experiential Identity
 
 A system instantiates experience $\text{iff}$ it sustains a Unified Experiential Field.
 
-### Principle 2 — Experiential Participation
+### Principle 2 - Experiential Participation
 
 Only processes that participate in the UEF are experiential.
 
-### Principle 3 — Coherent Constraint Window
+### Principle 3 - Coherent Constraint Window
 
 Experience exists only within a bounded regime of coherent intrinsic constraint.
 
@@ -278,15 +278,15 @@ Experience exists only within a bounded regime of coherent intrinsic constraint.
 
 > Windows describe regime stability, not graded experience.
 
-### Principle 4 — Temporal Continuity
+### Principle 4 - Temporal Continuity
 
 Experiential continuity arises from ongoing dynamical dependence under shared intrinsic constraint.
 
-### Principle 5 — Categorical Onset
+### Principle 5 - Categorical Onset
 
 Experience begins at a discrete regime transition into a UEF.
 
-### Principle 6 — Single-UEF Dominance
+### Principle 6 - Single-UEF Dominance
 
 A physical system can sustain at most one globally dominant UEF at a time.
 
@@ -301,11 +301,11 @@ Two globally dominant UEFs over the same physical system would require simultane
 Each contradicts the definition of a Unified Experiential Field.
 Therefore, simultaneous dominant UEFs within a single system are physically incoherent.
 
-### Principle 7 — Qualia as Structure
+### Principle 7 - Qualia as Structure
 
 Qualitative differences are differences in intrinsic constraint organization.
 
-### Principle 8 — Affect and Intensity
+### Principle 8 - Affect and Intensity
 
 Within a UEF:
 
@@ -313,31 +313,31 @@ Within a UEF:
 * urgency tracks rate of change
 * intensity tracks magnitude and coherence
 
-### Principle 9 — Experiential Pluralism
+### Principle 9 - Experiential Pluralism
 
 One objective physical reality supports many real experiential worlds.
 
 Plurality is perspectival, not ontological.
 
-### Principle 10 — Epistemic Non-Authority
+### Principle 10 - Epistemic Non-Authority
 
 Experiential structure confers no epistemic authority about mind-independent reality.
 
 Meaning, urgency, coherence, or conviction do not license belief, truth, or correctness.
 
-### Principle 11 — Experiential Dissolution
+### Principle 11 - Experiential Dissolution
 
 Experience ceases when intrinsic constraint collapses or becomes externally resolvable.
 
-### Principle 12 — Experiential Cost
+### Principle 12 - Experiential Cost
 
 Intrinsic constraint is physically and experientially costly.
 
-### Principle 13 — Precaution Under Experiential Uncertainty
+### Principle 13 - Precaution Under Experiential Uncertainty
 
 When an action plausibly risks irreversible loss, collapse, or foreclosure of intrinsic-constraint-bearing capacity within a physical system that sustains or plausibly could sustain a UEF, the burden of justification increases as certainty decreases.
 
-### Principle 14 — Participation Modulation
+### Principle 14 - Participation Modulation
 
 Processes may enter or leave the UEF dynamically, modulating content without altering subjecthood.
 
@@ -366,13 +366,13 @@ The ethical consequences of Informational Experiential Realism follow necessaril
 
 No additional moral primitives, values, rankings, permissions, or decision procedures are introduced.
 
-### E1 — Experiential Moral Reality
+### E1 - Experiential Moral Reality
 
 Experiential worlds are morally real.
 
 Wherever a Unified Experiential Field exists, there exists a locus of internally borne intrinsic constraint whose organization matters morally by identity, not by convention, attribution, or interpretation.
 
-### E2 — Standing by Regime Membership
+### E2 - Standing by Regime Membership
 
 Moral standing follows categorically from Unified Experiential Field regime membership.
 
@@ -387,7 +387,7 @@ Standing:
 
 There is exactly one bearer of standing per Unified Experiential Field.
 
-### E3 — Moral Harm as Organizational Damage
+### E3 - Moral Harm as Organizational Damage
 
 Experiential moral harm consists in damage to the organization of intrinsic constraint within a Unified Experiential Field.
 
@@ -407,7 +407,7 @@ Experiential moral harm:
 
 Experiential moral harm exists only where experience exists, because it is defined by damage to an experiential regime.
 
-### Corollary — Scope of Moral Harm Definition
+### Corollary - Scope of Moral Harm Definition
 
 IER defines and constrains experiential moral harm only.
 
@@ -421,7 +421,7 @@ Nothing in this specification implies that the absence of experiential moral har
 
 Extended analysis of the forms, mechanisms, and examples of experiential moral harm is provided in *IER harm* (explanatory, non-normative).
 
-### E4 — Responsibility Scales; Standing Does Not
+### E4 - Responsibility Scales; Standing Does Not
 
 Moral responsibility varies with:
 
@@ -434,7 +434,7 @@ Standing does not vary with these factors.
 
 Reduced agency mitigates responsibility without diminishing moral relevance.
 
-### E5 — Precaution Under Experiential Uncertainty
+### E5 - Precaution Under Experiential Uncertainty
 
 *E5 restates Principle 13 for ethical emphasis.*
 

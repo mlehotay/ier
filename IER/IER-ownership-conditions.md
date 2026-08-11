@@ -14,7 +14,7 @@ ier:
 ## Structural Authorship and Deformation Lineage in Frontier Geometry
 
 **Informational Experiential Realism (IER v10.11.0)**\
-*Tier-2 — Explanatory — Non-Normative — Canon-Constrained*
+*Tier-2 - Explanatory - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -48,7 +48,7 @@ This document introduces no new machinery.
 
 Under IER:
 
-* Intrinsic constraint is borne at a single history — future boundary.
+* Intrinsic constraint is borne at a single history - future boundary.
 * Collapse is atomic and exclusive.
 * All collapse at the frontier is owned.
 

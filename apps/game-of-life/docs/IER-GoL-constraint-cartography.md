@@ -174,7 +174,7 @@ That future phase includes capabilities such as:
 * structural overlays,
 * and organizational analysis.
 
-Those capabilities represent the beginning — not the completion — of a Constraint Cartography toy model.
+Those capabilities represent the beginning - not the completion - of a Constraint Cartography toy model.
 
 
 ## Implications for the Constraint Cartography Research Program

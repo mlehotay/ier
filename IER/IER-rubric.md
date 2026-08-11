@@ -14,7 +14,7 @@ ier:
 ## Evaluating Theories of Experience Without Smuggling Assumptions
 
 **Informational Experiential Realism (IER v10.10.7)**\
-*Tier-3 — Evaluation Misuse Containment — Non-Normative — Canon-Constrained*
+*Tier-3 - Evaluation Misuse Containment - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -415,12 +415,12 @@ Ethical comfort or discomfort is not evidence for or against an ontology.
 
 Applications to named theories must proceed in five stages.
 
-### Stage 1 — Define the Target
+### Stage 1 - Define the Target
 
 Name the theory, version, authors or family boundaries, source corpus, and
 explanandum.
 
-### Stage 2 — Reconstruct Before Evaluating
+### Stage 2 - Reconstruct Before Evaluating
 
 Present the theory in terms its proponents could reasonably endorse. Separate:
 
@@ -431,7 +431,7 @@ Present the theory in terms its proponents could reasonably endorse. Separate:
 
 Use the claim-status labels in section 3.
 
-### Stage 3 — Evaluate Internally
+### Stage 3 - Evaluate Internally
 
 Ask whether the theory is clear, coherent, adequately supported on its own
 terms, and successful by its own stated ambitions. Distinguish:
@@ -443,7 +443,7 @@ terms, and successful by its own stated ambitions. Distinguish:
 
 These are not the same criticism.
 
-### Stage 4 — Compare Matched Claims
+### Stage 4 - Compare Matched Claims
 
 Compare like with like:
 
@@ -468,7 +468,7 @@ Record:
 “Incommensurable” should be used only where no matched claim can be identified,
 not merely because the theories use different vocabularies or methods.
 
-### Stage 5 — State Comparative Costs Without Verdict Inflation
+### Stage 5 - State Comparative Costs Without Verdict Inflation
 
 State what each theory gains, leaves unexplained, rules out, or makes difficult.
 A comparative advantage is not automatically a refutation. A missing answer is
@@ -523,50 +523,50 @@ licensed.
 
 ## Core Principles
 
-### Principle 1 — Explanandum Discipline
+### Principle 1 - Explanandum Discipline
 
 State what the theory explains before evaluating whether it succeeds.
 
-### Principle 2 — Claim-Strength Discipline
+### Principle 2 - Claim-Strength Discipline
 
 Attribute no claim more strongly than the sources support.
 
-### Principle 3 — Target Discipline
+### Principle 3 - Target Discipline
 
 Do not treat a family, research program, metaphysical position, or
 evaluator-created category as a single theory without qualification.
 
-### Principle 4 — Relational Discipline
+### Principle 4 - Relational Discipline
 
 Do not conflate identity, grounding, realization, causation, correlation,
 constitution, sufficiency, and evidence.
 
-### Principle 5 — Level Discipline
+### Principle 5 - Level Discipline
 
 Keep ontological, constitutive, empirical, attributive, epistemic, and ethical
 claims separate unless the theory explicitly connects them.
 
-### Principle 6 — Symmetrical Charity
+### Principle 6 - Symmetrical Charity
 
 Apply the same standards of source fidelity, qualification, and burden of proof
 to IER and to every rival.
 
-### Principle 7 — Honest Omission
+### Principle 7 - Honest Omission
 
 Report silence as silence. Do not fill a theory's gaps with convenient
 implications, and do not treat every silence as a contradiction.
 
-### Principle 8 — Appropriate Defeat Conditions
+### Principle 8 - Appropriate Defeat Conditions
 
 Evaluate each claim at the level where it is made while preventing movement
 between levels from immunizing the theory against revision.
 
-### Principle 9 — Ethical Bridge Discipline
+### Principle 9 - Ethical Bridge Discipline
 
 Do not derive moral status or policy directly from a consciousness theory
 without identifying the normative premise that connects them.
 
-### Principle 10 — Evaluative Responsibility
+### Principle 10 - Evaluative Responsibility
 
 Distinguish a theory failing its own commitments from a theory refusing the
 evaluator's preferred question. Distinguish both from a genuine comparative

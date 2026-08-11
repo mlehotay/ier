@@ -1,6 +1,6 @@
 # Game of Life (Terminal, ANSI, Pane-Based)
 
-A minimal, high-performance implementation of Conway — s Game of Life with a structured terminal UI.
+A minimal, high-performance implementation of Conway - s Game of Life with a structured terminal UI.
 
 This project serves two roles:
 
@@ -17,7 +17,7 @@ See the repository status-zones governance document.
 
 ## Features
 
-- Classic Conway — s Game of Life (B3/S23)
+- Classic Conway - s Game of Life (B3/S23)
 - Deterministic evolution
 - Toroidal or bounded grid
 - Interactive controls
@@ -167,7 +167,7 @@ It provides a concrete system for studying:
 
 ### Key Result
 
-> Closure predicates on projected continuations do not, in general, factor across subregions — even under deterministic dynamics.
+> Closure predicates on projected continuations do not, in general, factor across subregions - even under deterministic dynamics.
 
 
 ### Relevant Documents

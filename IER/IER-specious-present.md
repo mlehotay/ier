@@ -15,7 +15,7 @@ ier:
 ## The Specious Present as a Coherence Condition at the Frontier
 
 **Informational Experiential Realism (IER v10.10.2)**\
-*Tier 2 — Explanatory — Non-Normative — Canon-Constrained*
+*Tier 2 - Explanatory - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -63,7 +63,7 @@ It is therefore:
 * not a moving frame
 
 
-## Orientation — Why the Present Seems Thick
+## Orientation - Why the Present Seems Thick
 
 Experience often seems to include more than an instant.
 
@@ -103,7 +103,7 @@ The question is:
 That condition is what this article calls the specious present.
 
 
-## Core Definition — A Coherence Condition, Not a Container
+## Core Definition - A Coherence Condition, Not a Container
 
 Under Informational Experiential Realism:
 
@@ -163,7 +163,7 @@ It is:
 > a condition of still-live coherence within reversible frontier organization.
 
 
-## Structural Basis — Pre-Collapse Coordination
+## Structural Basis - Pre-Collapse Coordination
 
 The specious present belongs to the final reversible region of frontier dynamics.
 
@@ -324,7 +324,7 @@ It is a modulation of:
 Salience therefore shapes how thick the present feels, not by storing more contents, but by intensifying the still-live organization that remains jointly active at the frontier.
 
 
-## The Boundary of the Present — Relaxation and Collapse
+## The Boundary of the Present - Relaxation and Collapse
 
 The specious present is finite.
 
@@ -380,7 +380,7 @@ Event segmentation concerns:
 
 Thus:
 
-> The specious present ends where active co-determination fails — either by relaxation of reversible organization or by collapse into irreversible articulation.
+> The specious present ends where active co-determination fails - either by relaxation of reversible organization or by collapse into irreversible articulation.
 
 
 ## Relationship to Event Segmentation
@@ -496,14 +496,14 @@ flowchart TB
 ```
 
 Figure 1. Nested integration envelopes at the frontier.
-This diagram illustrates that present-like coherence is not singular. Different domains — motor, auditory, perceptual, action-level, narrative, and cultural — may sustain distinct spans of active co-determination while all remain coupled to the same frontier. The apparent thickness of the present therefore reflects nested integration envelopes rather than a single temporal window or buffer.
+This diagram illustrates that present-like coherence is not singular. Different domains - motor, auditory, perceptual, action-level, narrative, and cultural - may sustain distinct spans of active co-determination while all remain coupled to the same frontier. The apparent thickness of the present therefore reflects nested integration envelopes rather than a single temporal window or buffer.
 
 > The specious present is therefore multi-scale: a condition of reversible co-determination distributed across nested envelope structures, not a single stored interval of “now.”
 
 
 ## Relationship to Temporal Asymmetry
 
-*IER time* explains temporal asymmetry as arising from irreversible deformation at the history — future boundary.
+*IER time* explains temporal asymmetry as arising from irreversible deformation at the history - future boundary.
 
 The specious present belongs to the complementary side of that asymmetry.
 

@@ -16,7 +16,7 @@ ier:
 ## Rubric-Aligned Comparison of Theories of Experience
 
 **Informational Experiential Realism (IER v10.11.1)**\
-*Tier-3 — Comparative Boundary Clarification — Non-Normative — Canon-Constrained*
+*Tier-3 - Comparative Boundary Clarification - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -65,7 +65,7 @@ specification and canon-binding derivatives.
 
 | Dimension | Reconstruction and status |
 | --- | --- |
-| Explanandum | Explicit: Experience itself, including its unity, qualitative differentiation, temporality, and subject-relative presence — not access, report, cognition, or behavior. |
+| Explanandum | Explicit: Experience itself, including its unity, qualitative differentiation, temporality, and subject-relative presence - not access, report, cognition, or behavior. |
 | Constitutive / explanatory claim | Entailed: Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF): a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. Identity, rather than causal production or correlation, is the explanatory form. |
 | Unity | Entailed: Unity is regime-level and categorical. A UEF is one experiential field; participating processes do not become subsidiary subjects. |
 | Subject individuation | Entailed conditionally: If a UEF is instantiated, it constitutes one experiential subject. Subjecthood is categorical within that regime, while nesting, overlap, and the attribution of concrete boundaries remain open unless structurally excluded. |
@@ -95,10 +95,10 @@ use of IIT terminology or every ethical proposal inspired by IIT.
 | Dimension | Reconstruction and status |
 | --- | --- |
 | Explanandum | Explicit: The existence, amount, and phenomenal structure of experience, beginning from phenomenological axioms. |
-| Constitutive / explanatory claim | Explicit: An experience is identical to a substrate's maximally irreducible cause — effect structure, specified through IIT's postulates and system- and structure-level quantities. It is not adequately summarized as merely “high $\Phi$.” |
+| Constitutive / explanatory claim | Explicit: An experience is identical to a substrate's maximally irreducible cause - effect structure, specified through IIT's postulates and system- and structure-level quantities. It is not adequately summarized as merely “high $\Phi$.” |
 | Unity | Explicit: Exclusion selects a definite maximal substrate and its irreducible structure. Multiple complexes may exist, but overlapping candidates are not all simultaneous nested subjects. |
 | Subject individuation | Explicit: A conscious entity corresponds to a complex selected under the exclusion postulate. The implications for numerous small non-overlapping complexes remain controversial. |
-| Qualitative character | Explicit: Phenomenal character corresponds to the distinctions and relations composing the cause — effect structure. The existence and essential properties of experience are axiomatic; particular qualities are structurally specified rather than added as free-standing primitives. |
+| Qualitative character | Explicit: Phenomenal character corresponds to the distinctions and relations composing the cause - effect structure. The existence and essential properties of experience are axiomatic; particular qualities are structurally specified rather than added as free-standing primitives. |
 | Temporal commitments | Explicit: Exclusion includes a temporal grain. Unspecified: IIT 4.0 does not thereby supply a complete account of long-term subject persistence, experiential gaps, or resumed numerical identity. |
 | Empirical operationalization | Explicit: IIT proposes an in-principle causal analysis. Direct calculation for realistic brains is computationally prohibitive; empirical proxies such as perturbational measures are not identical to a full IIT calculation. |
 | Third-person attribution | Explicit in principle, limited in practice: IIT claims that its formal analysis can determine consciousness for a fully specified system, but practical access to the required causal structure is severely constrained. |
@@ -131,8 +131,8 @@ Changeux, and colleagues, principally as a theory of conscious access.
 | Artificial realization | Compatible: Global-workspace architectures can be implemented artificially. Unspecified: architectural implementation alone is not canonically established as sufficient for artificial phenomenal consciousness. |
 | Ethical implications | Unspecified: GNW supplies no moral-status rule without additional normative premises. |
 
-IER relation. GNW and IER principally answer different questions — access
-architecture and experiential identity — but they are not automatically
+IER relation. GNW and IER principally answer different questions - access
+architecture and experiential identity - but they are not automatically
 non-rivalrous. They genuinely conflict wherever GNW is interpreted as making
 global access constitutive of experience, or where either yields incompatible
 claims about which physical episodes are experiential.

@@ -16,7 +16,7 @@ ier:
 ## Information as Structured Exclusion of Admissible Continuation
 
 **Informational Experiential Realism (IER v10.10.7)**\
-*Tier-2 — Foundational Clarification — Canon-Constrained — Non-Normative*
+*Tier-2 - Foundational Clarification - Canon-Constrained - Non-Normative*
 
 ## Status, Scope, and Authority
 
@@ -50,7 +50,7 @@ This article fixes the meaning of the term within the IER corpus and prevents dr
 
 Within IER, information is defined structurally in terms of exclusion of admissible continuation under constraint.
 
-## Orientation — Why Information Requires Clarification
+## Orientation - Why Information Requires Clarification
 
 The word *information* is commonly used to denote:
 
@@ -96,7 +96,7 @@ $$
 A(s) = { s' \in S \mid (s,s') \in R }
 $$
 
-The set $A(s)$ defines the admissible continuations available at the history — future boundary.
+The set $A(s)$ defines the admissible continuations available at the history - future boundary.
 
 Constraint determines which continuations remain possible.
 
@@ -200,7 +200,7 @@ Information names the resulting structural absence.
 
 ## Information and Collapse
 
-Collapse is defined in *IER collapse* as the irreversible foreclosure of a connected region of admissible futures at the history — future boundary.
+Collapse is defined in *IER collapse* as the irreversible foreclosure of a connected region of admissible futures at the history - future boundary.
 
 Formally:
 
@@ -349,7 +349,7 @@ Information is not something added to a system.
 
 It is the pattern of continuation that the system’s organization no longer permits.
 
-## Intermission — Constraint Aphorism
+## Intermission - Constraint Aphorism
 
 > Information is not what a system contains.
 > It is what its organization no longer allows.

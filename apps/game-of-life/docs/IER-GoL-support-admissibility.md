@@ -20,7 +20,7 @@ NON-CANONICAL | EXAMPLE-SCOPED | NOT READER-FACING
 
 ## Status, Scope, and Causal Boundary
 
-This document defines a derived admissibility layer over standard Conway — s Game of Life (GoL).
+This document defines a derived admissibility layer over standard Conway - s Game of Life (GoL).
 
 It is:
 
