@@ -83,7 +83,26 @@ See:
 
 ## Applications
 
-The current public release includes two exploratory applications.
+The current public release includes four public surfaces: three exploratory
+applications and one curriculum.
+
+### Abhidharma
+
+A comparative application examining one of humanity's richest historical phenomenological taxonomies through the framework of Informational Experiential Realism.
+
+See:
+
+* [Abhidharma](apps/abhidharma/README.md)
+
+
+### Edible Woman
+
+A literary application reading Margaret Atwood's *The Edible Woman* through IER, with reader-support and claim-ledger materials.
+
+See:
+
+* [Edible Woman](apps/edible-woman/README.md)
+
 
 ### Game of Life
 
@@ -94,13 +113,13 @@ See:
 * [Game of Life](apps/game-of-life/README.md)
 
 
-### Abhidharma
+### Philosophy of Mind Curriculum
 
-A comparative application examining one of humanity's richest historical phenomenological taxonomies through the framework of Informational Experiential Realism.
+A field-literacy and research-practice curriculum for placing IER within public philosophy-of-mind debates.
 
 See:
 
-* [Abhidharma](apps/abhidharma/README.md)
+* [Philosophy of Mind for Finishing IER](apps/philosophy/IER-philosophy-of-mind-curriculum.md)
 
 
 ## Citation

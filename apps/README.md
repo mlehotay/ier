@@ -31,9 +31,42 @@ Applications may:
 Applications may evolve, be revised, or even be abandoned without affecting the canonical IER corpus.
 
 
-## Current Applications
+## Current Public Surfaces
 
-### `game-of-life/`
+### [`abhidharma/`](./abhidharma/README.md)
+
+A Classical Phenomenological Taxonomy Through the Lens of IER
+
+This application explores the Abhidharma tradition as one of humanity's most extensive historical investigations of conscious experience.
+
+Rather than treating the Abhidharma primarily as a religious or metaphysical system, this application examines it as a large-scale phenomenological atlas describing recurring experiential structures, transitions, and patterns of conditioning.
+
+The project asks:
+
+> *How might an independently developed taxonomy of experience be interpreted through Informational Experiential Realism?*
+
+The emphasis is comparative rather than doctrinal.
+
+The application does not attempt to validate Buddhist doctrine or reinterpret Buddhism as IER. Instead, it investigates how a modern structural theory of experience relates to a rich historical corpus of phenomenological observation.
+
+
+### [`edible-woman/`](./edible-woman/README.md)
+
+A Literary Application of IER to Margaret Atwood's *The Edible Woman*
+
+This application reads Marian MacAlpin's trajectory through refusal, food affordance change, situation authorship, behavioural substitution, and the woman-shaped cake.
+
+The public surface includes:
+
+* a literary-critical context map,
+* the main bridge article,
+* a non-specialist reader guide,
+* and a claims ledger.
+
+The application treats the novel as a fictional structure that can be redescribed through IER. It does not treat the novel as evidence for IER, as a source of canonical theory, or as a basis for diagnostic claims.
+
+
+### [`game-of-life/`](./game-of-life/README.md)
 
 Constraint Cartography in a Toy Universe
 
@@ -52,21 +85,15 @@ The Game of Life application combines:
 Its purpose is not to validate IER, but to provide a simplified environment in which organizational ideas can be developed, visualized, and tested.
 
 
-### `abhidharma/`
+### [`philosophy/`](./philosophy/IER-philosophy-of-mind-curriculum.md)
 
-A Classical Phenomenological Taxonomy Through the Lens of IER
+Philosophy of Mind for Finishing IER
 
-This application explores the Abhidharma tradition as one of humanity's most extensive historical investigations of conscious experience.
+This curriculum is a field-literacy and research-practice surface for placing IER within public philosophy-of-mind debates.
 
-Rather than treating the Abhidharma primarily as a religious or metaphysical system, this application examines it as a large-scale phenomenological atlas describing recurring experiential structures, transitions, and patterns of conditioning.
+It is organized around the research needs of the IER paper programme: the identification problem, process identity, architectural ethics, and structural-consciousness comparison.
 
-The project asks:
-
-> *How might an independently developed taxonomy of experience be interpreted through Informational Experiential Realism?*
-
-The emphasis is comparative rather than doctrinal.
-
-The application does not attempt to validate Buddhist doctrine or reinterpret Buddhism as IER. Instead, it investigates how a modern structural theory of experience relates to a rich historical corpus of phenomenological observation.
+The curriculum is public support material. It does not define IER ontology or change canonical theory.
 
 
 ## Future Applications
