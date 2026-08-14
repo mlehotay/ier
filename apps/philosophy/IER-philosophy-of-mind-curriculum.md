@@ -1,7 +1,3 @@
----
-date: 2026-08-11
----
-
 # Philosophy of Mind for Finishing IER
 
 ## A two-part curriculum in field literacy and IER research practice
@@ -12,7 +8,7 @@ date: 2026-08-11
 **Typical duration:** 10 - 15 months at one module per week, with breaks between phases\
 **Essential route:** 20 compressed stages, listed near the end\
 **Method:** advance by completed outputs rather than elapsed weeks\
-**Final consolidation:** 2026-08-11
+**Date:** 13 August 2026
 
 ## What this curriculum is for
 
