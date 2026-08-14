@@ -50,6 +50,24 @@ The emphasis is comparative rather than doctrinal.
 The application does not attempt to validate Buddhist doctrine or reinterpret Buddhism as IER. Instead, it investigates how a modern structural theory of experience relates to a rich historical corpus of phenomenological observation.
 
 
+### [`duration/`](./duration/README.md)
+
+Visual Duration as an Identification-Gap Application
+
+This application examines a 2026 neuroscience study of visual-duration
+categorization through IER's evidential discipline.
+
+It separates physical stimulus duration, modeled cortical preferred duration,
+behavioral point of subjective equality, and experienced duration. The purpose
+is to show what stimulus-brain-report evidence can and cannot identify without
+collapsing neural timing, behavioral categorization, and temporal
+phenomenology into one object.
+
+The application does not treat the source study as evidence for IER or as a
+cortical map of IER operations. It is a worked case for identifying the gap
+between empirical covariation and psychophysical identity.
+
+
 ### [`edible-woman/`](./edible-woman/README.md)
 
 A Literary Application of IER to Margaret Atwood's *The Edible Woman*

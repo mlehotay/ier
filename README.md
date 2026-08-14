@@ -60,15 +60,7 @@ Readers interested in the foundational physical intuition behind the theory may 
 
 ## Examples
 
-The public release currently includes two example collections.
-
-### Duration
-
-Introduces IER's account of temporal experience through a focused set of explanatory examples.
-
-See:
-
-* [Duration README](examples/collections/duration/README.md)
+The public release currently includes one example collection.
 
 
 ### Analogy Examples
@@ -83,7 +75,7 @@ See:
 
 ## Applications
 
-The current public release includes four public surfaces: three exploratory
+The current public release includes five public surfaces: four exploratory
 applications and one curriculum.
 
 ### Abhidharma
@@ -93,6 +85,16 @@ A comparative application examining one of humanity's richest historical phenome
 See:
 
 * [Abhidharma](apps/abhidharma/README.md)
+
+
+### Duration
+
+A neuroscience-facing application examining visual-duration categorization as
+a worked identification-gap case for experienced duration.
+
+See:
+
+* [Duration](apps/duration/README.md)
 
 
 ### Edible Woman
@@ -137,7 +139,7 @@ Lehotay, Michael.
 
 Informational Experiential Realism (IER).
 
-Version 10.11.1.
+Version 10.11.3.
 ```
 
 

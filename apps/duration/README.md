@@ -1,18 +1,18 @@
-# Duration Example Collection
+# Duration
 
 ## Status
 
-Status: reference  
+Status: experimental  
 Authority: non-canonical
 
-This collection is an exploratory application of Informational Experiential
-Realism (IER) to a 2026 neuroscience study of visual-duration categorization.
+This is an exploratory application of Informational Experiential Realism
+(IER) to a 2026 neuroscience study of visual-duration categorization.
 It is organized as a worked identification-gap analysis: the documents ask
 what the experiment measured, what its models added, what its authors inferred,
 and what would still be required to relate those findings to experienced
 duration.
 
-The collection does not present the study as evidence for a cortical IER
+The application does not present the study as evidence for a cortical IER
 architecture. It introduces no new IER ontology, criterion of experience,
 formal operator, mechanism, or diagnostic.
 
@@ -30,7 +30,7 @@ because each can be described using the word *duration*.
 
 Centanino, Fortunato, and Bueti established relations among the first three.
 The study did not independently characterize the structure of the fourth. This
-is the collection's governing evidential boundary.
+is the application's governing evidential boundary.
 
 ## Files and Division of Labor
 
@@ -89,7 +89,7 @@ of temporal experience.
 
 ## Interpretation Boundary
 
-Nothing in this collection should be read as claiming:
+Nothing in this application should be read as claiming:
 
 - that neuroscience proves or directly tests IER;
 - that the nervous system cannot contain timing, estimation, accumulation,
@@ -117,7 +117,7 @@ cannot separate the possible contributions of these variables.
 
 ## Two Senses of *Psychophysical*
 
-| Use | Question | Role in this collection |
+| Use | Question | Role in this application |
 | --- | --- | --- |
 | Experimental psychophysics | How do controlled stimuli relate to behavioral responses? | Directly investigated by the source study |
 | Psychophysical identity | Do independently characterized experiential and physical descriptions refer to one occurrence? | Not established by the source study |
@@ -131,17 +131,17 @@ physical organization.
 
 ## Relationship to IER
 
-The collection uses existing IER concepts as constraints on interpretation,
+The application uses existing IER concepts as constraints on interpretation,
 not as substitute neuroscience terminology. Its principal dependencies are:
 
 | Topic | IER documents |
 | --- | --- |
-| Temporal phenomenology | [Duration](../../../IER/IER-duration.md), [Subjective Time](../../../IER/IER-subjective-time.md), [Specious Present](../../../IER/IER-specious-present.md) |
-| Event organization | [Event Segmentation](../../../IER/IER-event-segmentation.md), Event Structure, Integration Envelopes |
-| Structural interpretation | Coordinate Systems, [Representation](../../../IER/IER-representation.md), Situations, [Futures](../../../IER/IER-futures.md) |
-| Evidential discipline | [Non-Entailment](../../../IER/IER-nonentailment.md) |
+| Temporal phenomenology | [Duration](../../IER/IER-duration.md), [Subjective Time](../../IER/IER-subjective-time.md), [Specious Present](../../IER/IER-specious-present.md) |
+| Event organization | [Event Segmentation](../../IER/IER-event-segmentation.md), Event Structure, Integration Envelopes |
+| Structural interpretation | Coordinate Systems, [Representation](../../IER/IER-representation.md), Situations, [Futures](../../IER/IER-futures.md) |
+| Evidential discipline | [Non-Entailment](../../IER/IER-nonentailment.md) |
 
-The authoritative claims remain in the core IER corpus. This example collection
+The authoritative claims remain in the core IER corpus. This application
 may clarify, test, or motivate applications of those claims, but it does not
 revise them.
 
