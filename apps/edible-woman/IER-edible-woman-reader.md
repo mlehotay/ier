@@ -156,7 +156,7 @@ The terms below are best read as precise questions about organization, not as na
 | **Rebinding / reorganizability** | Another organization becomes capable of governing continuation; the system regains room to reorganize. | After Peter leaves, appetite, cleaning, narration, and immediate planning can organize around a future that no longer has to preserve the marriage. |
 | **Self-model / narrative self** | A practical organization of identity, history, role, and anticipated continuation—not the subject itself. | The shift from “I” to “she” stages altered self-coordination; it does not mean that Marian literally loses or regains subjecthood. |
 | **Model** | An organization used to preserve selected relations and explore or enact consequences. | The cake preserves “woman made attractive, offered, and consumed” in a manipulable external form. |
-| **Empathy** | Local reproduction of another’s apparent situation or vulnerability, without access to that being’s actual experience. | Marian can organize around the imagined vulnerability of cow, chick, carrot, or mold without learning what any of them experiences. |
+| **Empathy** | Local reproduction of another’s apparent situation or vulnerability, without access to that being’s actual experience. | Marian can organize around the imagined vulnerability of cow, chick, carrot, or mould without learning what any of them experiences. |
 | **Ethical constraint** | Moral relevance that shapes action without necessarily supplying a complete decision rule. | Marian recognizes implication in destruction, but “never consume anything living” becomes incompatible with her own continuation. |
 | **Behavioural transfer** | An active organization continues through a different object, activity, or setting. | The consumption relation persists across food, cleaning, clothing, photography, and the cake. |
 | **Behavioural substitution** | This article’s provisional hypothesis: an unavailable refusal appears in a different domain while preserving and reversing the relation. | Marian cannot stably refuse being consumed, so consuming becomes unavailable. |
@@ -202,9 +202,9 @@ The sequence can therefore be read as feedback:
 
 IER calls an interpretation action-organizing without granting it privileged access to truth. The feeling that the carrot is screaming may be compelling enough to stop Marian’s action. It does not establish that the carrot screams, suffers as imagined, or constitutes an experiential subject.
 
-## 4.5 Mold extends the problem from diet to destruction
+## 4.5 Mould extends the problem from diet to destruction
 
-Mold is not another item in Marian’s menu. The kitchen scene matters because the same organization now reaches cleaning. Washing dishes would preserve Marian’s household by destroying or removing another living organization.
+Mould is not another item in Marian’s menu. The kitchen scene matters because the same organization now reaches cleaning. Washing dishes would preserve Marian’s household by destroying or removing another living organization.
 
 This exposes the practical limit of her rule. Organisms continue through transformation of their environments. Eating, cleaning, healing, sheltering, and ordinary maintenance preserve some organizations at costs to others. The novel does not thereby show that ethical concern is foolish. It shows that the demand for complete innocence cannot guide a finite embodied life.
 
@@ -271,7 +271,7 @@ A reader should ask:
 1. **Coverage:** Does the hypothesis explain more than the food scenes? Does it illuminate the rabbit, work, marriage, makeover, camera, cake, and ending?
 2. **Chronology:** Does it respect the actual sequence rather than rearranging scenes to fit the theory?
 3. **Specificity:** Does positional reversal explain why refusal appears in consuming rather than in some unrelated behaviour?
-4. **Economy:** Does it unify the novel without erasing differences among animals, plants, mold, photography, and marriage?
+4. **Economy:** Does it unify the novel without erasing differences among animals, plants, mould, photography, and marriage?
 5. **Alternatives:** Could objectification, anxiety, disgust generalization, depressive appetite loss, feminist satire, or narrative symbolism explain the same pattern more simply?
 6. **Turning point:** Does the cake’s practical reorganization explain why direct refusal and appetite become available together better than a purely symbolic reading does?
 
@@ -289,7 +289,7 @@ IER is best treated as a complementary lens rather than a replacement for establ
 | **Narratology** | The first-person/third-person/first-person structure, focalization, irony, and formal control. | The narrative shift is central evidence of altered self-coordination. | IER distinguishes narrative organization from experiential subjecthood and relates the formal change to action across a trajectory. |
 | **Phenomenological criticism** | Lived embodiment, estrangement, intentionality, appetite, disgust, and the body’s disclosure of a world. | IER takes changes in Marian’s lived action field as primary rather than reducing them to propositions. | It attempts a physicalist structural redescription and withholds epistemic authority from how the experience presents itself. |
 | **Ecocriticism / animal studies** | Consumption, animal vulnerability, vegetal life, interdependence, and the moral visibility of food. | The article preserves the ethical force of Marian’s recognition of implication. | It separates life, experience, standing, and preservation, and rejects empathy as proof of another being’s experience. |
-| **Reader-response criticism** | How imagery recruits the reader’s disgust, identification, and judgment. | The article recognizes that represented vulnerability can reorganize a local situation. | Its primary object is Marian’s organization within the fiction, not a general claim about actual readers. |
+| **Reader-response criticism** | How imagery recruits the reader’s disgust, identification, and judgement. | The article recognizes that represented vulnerability can reorganize a local situation. | Its primary object is Marian’s organization within the fiction, not a general claim about actual readers. |
 
 IER’s most useful contribution to literary criticism may be its insistence that symbols can be actions. The cake means, but it also changes the scene. The camera represents, but it also creates a practical threat of fixing and circulating a version of Marian. Literary objects participate in the trajectory rather than merely awaiting interpretation from outside it.
 
@@ -381,7 +381,7 @@ The companion article is strongest when read as a disciplined redescription of n
 | Shift to third person | Alienation, dissociation, or objectification. | How has self-coordination changed while the experiential subject remains continuous? |
 | Steak, egg, carrot, processed foods | Expanding disgust, ethical identification, or somatic protest. | When and why does food cease to afford eating? |
 | Marian’s ethical rule | Moral awakening or rationalization. | How does a retrospective interpretation organize later salience without becoming infallible? |
-| Mold-covered dishes | Rejection of domesticity; identification with life. | How does the pattern move from eating into cleaning and destruction? |
+| Mould-covered dishes | Rejection of domesticity; identification with life. | How does the pattern move from eating into cleaning and destruction? |
 | Party makeover and camera | Manufactured femininity; objectification; hunter imagery. | Whose representation is being stabilized, and what action would the image support? |
 | Woman-shaped cake | Symbolic substitute, parody, confrontation. | How does a material model make direct accusation and refusal available? |
 | Peter’s departure | Failed engagement; rejection of the cake. | Has the previously governing future ceased to organize what happens next? |

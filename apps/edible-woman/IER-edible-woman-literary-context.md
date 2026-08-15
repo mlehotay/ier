@@ -47,7 +47,7 @@ This document supplies the literary-critical background for `IER-edible-woman.md
 
 It is not a claim that literary scholars have agreed on one official meaning. It distinguishes among:
 
-- interpretations that recur so widely that they form the stable center of criticism;
+- interpretations that recur so widely that they form the stable centre of criticism;
 - established but disputed readings;
 - specialist extensions produced by particular theoretical traditions;
 - oversimplifications that should not be presented as scholarly consensus;
@@ -73,9 +73,9 @@ Several forms of authority operate at once:
 
 Peer review is therefore a quality filter, not a truth oracle. Citation counts and frequent inclusion in bibliographies indicate influence, not infallibility. An interpretation becomes academically credible by showing its evidence, acknowledging predecessors and alternatives, and stating how much it claims.
 
-For *The Edible Woman*, the stable center is clear enough to describe. The novel is widely read as a comic and disturbing critique of the relation among consumer culture, gendered social roles, female embodiment, threatened identity, and eating. The interpretive frontier begins when critics ask exactly how Marian's food refusal works and how complete her apparent recovery is.
+For *The Edible Woman*, the stable centre is clear enough to describe. The novel is widely read as a comic and disturbing critique of the relation among consumer culture, gendered social roles, female embodiment, threatened identity, and eating. The interpretive frontier begins when critics ask exactly how Marian's food refusal works and how complete her apparent recovery is.
 
-# 2. The Critical Center of Gravity
+# 2. The Critical Centre of Gravity
 
 The following map gives the most useful approximation to a “standard interpretation.”
 
@@ -89,7 +89,7 @@ The following map gives the most useful approximation to a “standard interpret
 | The woman-shaped cake materializes the equation between femininity and consumability. | Near-consensus | Whether it defeats Peter, heals Marian, or only creates a temporary opening remains disputed. |
 | The ending is qualified and ironic rather than a pure emancipation. | Strong contemporary tendency | Earlier or more affirmative readings often emphasize recovered identity; later criticism more often stresses continuing implication in consumption. |
 
-This center is visible across feminist, materialist, psychoanalytic, narrative, and body-oriented criticism. Emma Parker's influential account treats eating as a metaphor for power and non-eating as both powerlessness and protest. J. Brooks Bouson emphasizes the novel's ability to resist the tidy explanatory schemes critics build around it. Jennifer Hobgood explicitly describes a divide between optimistic liberation readings and materialist-feminist protest readings, then argues that the novel's unstable structure complicates both. More recent work continues to place bodily self-alienation, consumerism, and resistance at the center while resisting a single-sentence solution. See [Parker 1995](https://www.jstor.org/stable/441857), [Bouson 1990](https://www.jstor.org/stable/42945853), [Hobgood 2002](https://www.jstor.org/stable/10.5325/style.36.1.146), and [Roles 2021](https://doi.org/10.7560/TSLL63303).
+This centre is visible across feminist, materialist, psychoanalytic, narrative, and body-oriented criticism. Emma Parker's influential account treats eating as a metaphor for power and non-eating as both powerlessness and protest. J. Brooks Bouson emphasizes the novel's ability to resist the tidy explanatory schemes critics build around it. Jennifer Hobgood explicitly describes a divide between optimistic liberation readings and materialist-feminist protest readings, then argues that the novel's unstable structure complicates both. More recent work continues to place bodily self-alienation, consumerism, and resistance at the centre while resisting a single-sentence solution. See [Parker 1995](https://www.jstor.org/stable/441857), [Bouson 1990](https://www.jstor.org/stable/42945853), [Hobgood 2002](https://www.jstor.org/stable/10.5325/style.36.1.146), and [Roles 2021](https://doi.org/10.7560/TSLL63303).
 
 # 3. Feminist Social Satire
 
@@ -186,7 +186,7 @@ Whether the final return to “I” signals restored identity, provisional agenc
 
 # 7. The Woman-Cake
 
-The woman-shaped cake is the critical center of the ending because it makes the novel's governing metaphor materially explicit.
+The woman-shaped cake is the critical centre of the ending because it makes the novel's governing metaphor materially explicit.
 
 The cake resembles Marian's party presentation. Marian calls it a substitute and tells Peter that he has been trying to destroy or assimilate her. The scene therefore supports several established interpretations:
 
@@ -223,7 +223,7 @@ Hobgood's article is especially useful for locating the historical critical divi
 
 The readings below are legitimate parts of the scholarship but should not be mistaken for universal consensus.
 
-| Tradition | What it foregrounds | Relation to the critical center |
+| Tradition | What it foregrounds | Relation to the critical centre |
 | --- | --- | --- |
 | Fairy tale, myth, and romance | Gingerbread figures, Little Red Riding Hood, *Alice in Wonderland*, inverted courtship, devouring sexuality, comic quest structures | Recasts the consumption and marriage plot through inherited narrative forms |
 | Psychoanalytic and abjection-oriented criticism | Split self, bodily disgust, permeability, disappearance, pre-verbal fear, unstable boundaries | Deepens the account of embodiment and the difficulty of reducing the crisis to conscious belief |
@@ -280,7 +280,7 @@ IER's contribution lies primarily in explanatory organization. It asks what kind
 | Food refusal displaces Marian's unspoken resistance. | The bridge hypothesis of behavioural substitution proposes a positional reversal: unstable refusal of being consumed appears as inability to consume. | States a testable literary mechanism and distinguishes it from generic symbolism. |
 | The cake symbolizes Marian and confronts Peter. | Marian builds a material model that preserves the governing relation and changes the situation it models. | Treats representation as part of action, not only as a message decoded by readers. |
 | Marian recovers agency. | Direct disengagement ends the engagement's governance; reorganizability increases without purification or total liberation. | Gives the qualified-ending reading a more exact criterion than “finding herself.” |
-| Marian empathizes with food and mold. | Other-anchored models alter participation and ethical salience without providing access to another being's experience or standing. | Separates serious ethical constraint from the inference that everything living must never be harmed. |
+| Marian empathizes with food and mould. | Other-anchored models alter participation and ethical salience without providing access to another being's experience or standing. | Separates serious ethical constraint from the inference that everything living must never be harmed. |
 
 The strongest candidate for an original IER contribution is therefore not “the novel is about a woman who feels consumed.” That is already standard. The stronger proposal is:
 
@@ -347,6 +347,6 @@ The resulting academic claim would be modest but real:
 
 ## Source Note
 
-This document maps a representative critical conversation rather than providing a complete systematic review of every publication on *The Edible Woman*. Its hierarchy of “near-consensus,” “established dispute,” and “specialist extension” is an analytical judgment based on recurrence across influential and recent scholarship, not a formal vote among critics.
+This document maps a representative critical conversation rather than providing a complete systematic review of every publication on *The Edible Woman*. Its hierarchy of “near-consensus,” “established dispute,” and “specialist extension” is an analytical judgement based on recurrence across influential and recent scholarship, not a formal vote among critics.
 
 The primary text should control all plot, sequence, and quotation claims. `edible-woman-claims-ledger.md` records the project's current fact-checking boundaries.

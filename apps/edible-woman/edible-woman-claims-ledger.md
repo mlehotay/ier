@@ -42,7 +42,7 @@ The novel remains the authority for wording, sequence, and characterization. Cha
 This is not a comprehensive plot ledger and should not become a map of every variable in Marian's life. A scene belongs here only when it directly clarifies at least one of the article's controlling problems:
 
 1. the formation and generalization of Marian's food refusals;
-2. the extension of refusal from eating to killing or removing mold;
+2. the extension of refusal from eating to killing or removing mould;
 3. the possibility of severe experiential crisis while surrounding people and practices continue to classify the situation as normal;
 4. the consumer/consumed or user/used relation that Marian encounters with Peter and Duncan;
 5. the camera, cake, disengagement, and qualified return of appetite.
@@ -86,7 +86,7 @@ The evidence links below are verification aids, not substitutes for the primary 
 | `E9` | [Chapter 22: Trevor's dinner and transfer of meat to Duncan](https://www.litcharts.com/lit/the-edible-woman/chapter-22) |
 | `E10` | [Chapter 23: rice-pudding cocoons and sponge-cake lungs](https://www.litcharts.com/lit/the-edible-woman/chapter-23) |
 | `E11` | [Chapters 24–27: salon, party presentation, and camera](https://www.litcharts.com/lit/the-edible-woman/chapter-27) |
-| `E12` | [Chapter 25: vitamin, dirty dishes, and mold](https://www.litcharts.com/lit/the-edible-woman/chapter-25) |
+| `E12` | [Chapter 25: vitamin, dirty dishes, and mould](https://www.litcharts.com/lit/the-edible-woman/chapter-25) |
 | `E13` | [Chapter 29: near-total inability to eat](https://www.litcharts.com/lit/the-edible-woman/chapter-29) |
 | `E14` | [Chapter 30: construction and offering of the woman-cake](https://www.litcharts.com/lit/the-edible-woman/chapter-30) |
 | `E15` | [Chapter 31: first-person return, cleaning, steak, and Duncan](https://www.litcharts.com/lit/the-edible-woman/chapter-31) |
@@ -97,7 +97,7 @@ The evidence links below are verification aids, not substitutes for the primary 
 | `E20` | [Chapter 16: Duncan calls Marian a substitute for the laundromat](https://www.litcharts.com/lit/the-edible-woman/chapter-16) |
 | `E21` | [Chapters 19–24: Duncan's instrumental relation, ring sequence, and Clara's and Peter's normalization of Marian's crisis](https://www.supersummary.com/the-edible-woman/part-2-chapters-19-24-summary/) |
 | `E22` | [Chapter 21: Duncan expects little from Marian and proposes sex as an experiment](https://www.litcharts.com/lit/the-edible-woman/chapter-21) |
-| `E23` | [Chapters 25–31: accumulated dishes and mold, failed Duncan detour, cake, and ending](https://www.supersummary.com/the-edible-woman/part-2-chapter-25-part-3-analysis-summary/) |
+| `E23` | [Chapters 25–31: accumulated dishes and mould, failed Duncan detour, cake, and ending](https://www.supersummary.com/the-edible-woman/part-2-chapter-25-part-3-analysis-summary/) |
 | `E24` | [Chapter 29: Duncan does not resolve Marian's crisis or provide safety](https://www.litcharts.com/lit/the-edible-woman/chapter-29) |
 | `E25` | [Chapter 31: Duncan's causal alternatives and “consumer” remark](https://www.litcharts.com/lit/the-edible-woman/chapter-31) |
 
@@ -125,7 +125,7 @@ This is the sequence that should govern every later compression in the article.
 | Instrumental relief with Duncan | 21–22 | Marian recognizes that Duncan uses her as an emotional outlet but finds relief in his low expectations. He proposes sex primarily to satisfy his own curiosity, and Marian temporarily removes her engagement ring before later replacing it. | Duncan offers relief from one performance without providing non-instrumental relation or release from the engagement. |
 | Social concealment | 22 | At Trevor's dinner Marian eats shrimp and soup but secretly transfers the meat course to Duncan. | The aversion reorganizes social action and concealment, not merely private appetite. |
 | Normalization and processed-food failure | 23 | Clara attributes Marian's eating crisis to wedding nerves; Peter tells her she is normal. Meanwhile rice-pudding globules become cocoons and sponge cake becomes thousands of lungs. | The crisis becomes more disabling while trusted people continue to classify the surrounding future and Marian herself as ordinary. |
-| Mold and cleaning | 25 | After eating nothing all day and taking a vitamin, Marian hesitates to clean because the mold may have as much right to life as she does. | The ethical/life organization spreads from eating to disposal and cleaning. Mold is not a food refusal. |
+| Mould and cleaning | 25 | After eating nothing all day and taking a vitamin, Marian hesitates to clean because the mould may have as much right to life as she does. | The ethical/life organization spreads from eating to disposal and cleaning. Mould is not a food refusal. |
 | Manufactured party self | 24–27 | Peter suggests a new dress and elaborate hair; salon work and Ainsley's styling leave Marian artificial and unrecognizable to herself. | The social role becomes visually and materially staged. |
 | Camera refusal | 26–27 | An attempted posed photograph is interrupted; later Marian screams when Peter points the camera at her and flees while imagining him as a marksman with a lethal weapon. | Recombines hunter/prey, manufactured appearance, and resistance to image capture. |
 | Failed detour | 28–29 | Marian attempts sex and escape with Duncan, but the encounter does not resolve the crisis. The next morning she cannot consume toast or orange juice, fears starving, and discovers that Duncan will provide neither safety nor intervention with Peter. | Changing partner and activity does not disengage Marian from the governing crisis; Duncan is not a rescuer or alternative author of her future. |
@@ -151,7 +151,7 @@ This is the sequence that should govern every later compression in the article.
 | `TF-05` | Marian asks Peter to make the large decisions about their marriage, despite uncertainty about whether this reflects what she wants. | `TF` / `CR` | `A` | `E1` | This is stronger evidence of delegated authorship than the bare fact of engagement. |
 | `TF-06` | Parts One and Three use Marian's first person; Part Two uses third person focused on Marian. | `TF` | `A` | `E3`, `E15` | The switch is a formal device, not direct clinical evidence. |
 | `TF-07` | The third-person shift occurs at the start of Chapter 13, after the engagement but before the Chapter 17 steak refusal. | `TF` | `A` | `E3`, `E4` | Do not write that Marian “becomes third person when she stops eating.” |
-| `TF-08` | Peter suggests Marian's new dress and elaborate hairstyle for the engagement party; Ainsley supplies additional makeup and jewelry. | `TF` | `A` | `E11`, `E12` | Peter does not personally perform the entire makeover. |
+| `TF-08` | Peter suggests Marian's new dress and elaborate hairstyle for the engagement party; Ainsley supplies additional makeup and jewellery. | `TF` | `A` | `E11`, `E12` | Peter does not personally perform the entire makeover. |
 | `TF-09` | Marian experiences the completed party presentation as artificial and has difficulty recognizing herself. | `TF` / `CR` | `A` | `E11`, `E12` | “Socially consumable product” remains an interpretive description. |
 | `TF-10` | Peter attempts a posed photograph before the party, but the shot is interrupted. Later Marian screams when he points the camera at her and runs away. | `TF` | `A` | `E11` | Do not claim that Peter successfully fixes Marian in a photograph. |
 | `TF-38` | Marian seeks help from Clara, who attributes the eating problem to wedding nerves. Fearing that disclosure could cause Peter to call off the wedding, Marian instead asks whether she is normal, and Peter tells her that she is. | `TF` / `CR` | `A` | `E10`, `E21` | These are other characters' normalizing responses, not authoritative evidence that Marian's situation is harmless or integrated. |
@@ -170,9 +170,9 @@ This is the sequence that should govern every later compression in the article.
 | `TF-17` | Marian later concludes that her body's refusal is ethical and concerns anything that once was or might still be living. | `CR` | `A` | `E8` | This is Marian's explanatory rule, not an authorially certified moral theorem. |
 | `TF-18` | At Trevor's dinner she consumes shrimp cocktail and soup but transfers pieces of the meat course to Duncan. | `TF` | `A` | `E9` | This scene shows a still-uneven category boundary; avoid saying absolutely all animal food is already impossible. |
 | `TF-19` | Canned rice pudding becomes imagined as cocoons, and sponge cake becomes thousands of lungs. | `TF` / `CR` | `A` | `E10` | The images make the foods unavailable; they are not claims about their actual contents. |
-| `TF-20` | The mold scene occurs in Chapter 25, after the processed-food failures. | `TF` | `A` | `E10`, `E12` | Corrects the earlier Chapter 28 placement and the earlier food sequence. |
-| `TF-21` | Marian hesitates to clean because the mold may have as much right to life as she does. | `TF` / `CR` | `A` | `E12` | Mold is not presented as another item she attempts to eat. |
-| `TF-40` | The mold appears after Marian and Ainsley have stopped cleaning for weeks, leaving dirty dishes, spoiled food, and a worsening refrigerator smell. | `TF` | `A` | `E12`, `E23` | The accumulated conditions explain how mold becomes actionable; the full landlady and apartment plot is outside scope. |
+| `TF-20` | The mould scene occurs in Chapter 25, after the processed-food failures. | `TF` | `A` | `E10`, `E12` | Corrects the earlier Chapter 28 placement and the earlier food sequence. |
+| `TF-21` | Marian hesitates to clean because the mould may have as much right to life as she does. | `TF` / `CR` | `A` | `E12` | Mould is not presented as another item she attempts to eat. |
+| `TF-40` | The mould appears after Marian and Ainsley have stopped cleaning for weeks, leaving dirty dishes, spoiled food, and a worsening refrigerator smell. | `TF` | `A` | `E12`, `E23` | The accumulated conditions explain how mould becomes actionable; the full landlady and apartment plot is outside scope. |
 | `TF-22` | By Chapter 29 Marian cannot consume toast or orange juice and worries that she may starve. | `TF` | `A` | `E13` | “Near-total refusal” is accurate here; it is premature earlier. |
 | `TF-23` | Duncan, not Marian, eats the pumpkin seeds in the cinema. | `TF` | `A` | `E16` | Exclude pumpkin seeds from Marian's food-refusal sequence despite publisher copy that includes them. |
 
@@ -238,7 +238,7 @@ This is the sequence that should govern every later compression in the article.
 | `BR-14` | Autonomic and regulatory participation becomes foregrounded and constrains Marian's available action without erasing experiential unity. | `IA` | `A` | Stomach closure, nausea, inability to swallow/eat, vitamin, starvation fear | `IER-autonomia.md`; `IER-salience.md`; `IER-affordances.md` | “Autonomia-type organization” is safer than a medical claim. |
 | `BR-15` | Technical constraint dominance is not the default account of Marian's eating problem. | `IA` | `A` | Most scenes show aversion and narrowing, not loss of UEF-level governance | `IER-constraint-dominance.md` | Use constraint dominance only, if at all, for thresholded gagging or comparable governance-overrun episodes. |
 | `BR-16` | Her explicit ethical explanation is a model built after the behaviour has already reorganized. | `LI` / `IA` | `A` | `TF-11`–`TF-17` | `IER-interpretation.md`; `IER-models-and-situations.md` | The later model need not be either the hidden cause or privileged truth. |
-| `BR-17` | The ethical interpretation can then feed back into later situations, helping livingness and destruction recruit participation more readily. | `LI` / `IA` | `B` | Carrot, destruction reflection, processed food, mold | `IER-models-and-situations.md`; `IER-salience.md`; `IER-environment.md` | Distinguish the first bodily event from the later self-reinforcing interpretive organization. |
+| `BR-17` | The ethical interpretation can then feed back into later situations, helping livingness and destruction recruit participation more readily. | `LI` / `IA` | `B` | Carrot, destruction reflection, processed food, mould | `IER-models-and-situations.md`; `IER-salience.md`; `IER-environment.md` | Distinguish the first bodily event from the later self-reinforcing interpretive organization. |
 
 ## D. Food affordances, empathy, and generalization
 
@@ -247,11 +247,11 @@ This is the sequence that should govern every later compression in the article.
 | `BR-18` | Food ceases to afford nourishment in the ordinary sense when its production history and possible livingness become action-organizing. | `LI` / `IA` | `A` | `TF-11`–`TF-22` | `IER-affordances.md`; `IER-situations.md` | Food does not objectively lose edibility; Marian's local action menu changes. |
 | `BR-51` | The canned-rice-pudding trajectory isolates affordance reorganization especially clearly: the same mass-market product moves from work sample, to domestic convenience, to artificial refuge, to life-filled cocoons without a corresponding change in its physical category. | `LI` / `IA` | `A` | `TF-34`, `TF-14`, `TF-19` | `IER-affordances.md`; `IER-interpretation.md`; `IER-models-and-situations.md` | Do not call the product objectively transformed; its situation and action-organizing significance change. |
 | `BR-19` | The same physical category can generate divergent affordances: Peter sees steak as dinner, while Marian encounters flesh and destruction. | `LI` / `IA` | `A` | `TF-11`; Peter finishes his meal | `IER-affordances.md` | Useful compact illustration of divergent affordance fields without factual disagreement. |
-| `BR-20` | Rabbit, cow, chick, carrot, and mold scenes can be read as progressively broadened participation in reproduced vulnerability or livingness topologies. | `LI` / `IA` | `B` | `TF-02`, `TF-11`–`TF-21` | `IER-empathy.md`; `IER-salience.md` | Empathy is locally instantiated and confers no access to another system's experience. Mold and plants make this especially qualified. |
-| `BR-21` | Marian's identification does not establish that every animal, egg, plant, or mold colony is a UEF or possesses experiential moral standing. | `IA` | `A` | Marian's “living” rule | `IER-empathy.md`; IER standing and non-diagnosability commitments | Essential firewall: biological life, represented vulnerability, and established experience are not identical. |
+| `BR-20` | Rabbit, cow, chick, carrot, and mould scenes can be read as progressively broadened participation in reproduced vulnerability or livingness topologies. | `LI` / `IA` | `B` | `TF-02`, `TF-11`–`TF-21` | `IER-empathy.md`; `IER-salience.md` | Empathy is locally instantiated and confers no access to another system's experience. Mould and plants make this especially qualified. |
+| `BR-21` | Marian's identification does not establish that every animal, egg, plant, or mould colony is a UEF or possesses experiential moral standing. | `IA` | `A` | Marian's “living” rule | `IER-empathy.md`; IER standing and non-diagnosability commitments | Essential firewall: biological life, represented vulnerability, and established experience are not identical. |
 | `BR-22` | Items formerly compressed as ordinary food become deviations from that organization once traces of animal body, developing life, plant life, or apparent organic activity bind. | `LI` / `IA` | `B` | `TF-11`–`TF-21` | `IER-deviation-binding.md`; `IER-interpretation.md` | Deviation binding is an analytical application, not the food items' intrinsic status. |
 | `BR-23` | Refusal temporarily reduces the immediate constraint created by eating the now-bound item, but it also progressively narrows nourishment and social participation. | `LI` / `IA` | `A` | Food exclusions, Trevor's dinner, vitamin, starvation fear | `IER-deviation-binding.md`; `IER-narrowing.md`; `IER-affordances.md` | This explains local relief plus global unsustainability without calling the refusal irrational. |
-| `BR-24` | The organization becomes experience-dominant as different foods and settings are assimilated into the same destruction/livingness relation. | `LI` / `IA` | `A` | Steak, egg, carrot, rice pudding, cake, mold across different places | `IER-situation-and-experience-dominance.md` | “Experience dominance” is descriptive continuity, not an agent or mechanism. |
+| `BR-24` | The organization becomes experience-dominant as different foods and settings are assimilated into the same destruction/livingness relation. | `LI` / `IA` | `A` | Steak, egg, carrot, rice pudding, cake, mould across different places | `IER-situation-and-experience-dominance.md` | “Experience dominance” is descriptive continuity, not an agent or mechanism. |
 | `BR-25` | Individual scenes also exhibit situation dominance: Peter's hunting story, Len's chick story, the carrot, and the cake each recruit new local organization. | `LI` / `IA` | `B` | `TF-02`, `TF-13`, `TF-16`, `TF-24`–`TF-28` | `IER-situation-and-experience-dominance.md` | Dominance is component-relative; context can reorganize one component while the broader pattern persists. |
 
 ## E. Ethical constraint without purity or closure
@@ -260,8 +260,8 @@ This is the sequence that should govern every later compression in the article.
 | --- | --- | --- | --- | --- | --- | --- |
 | `BR-26` | Marian discovers that ordinary continuation depends on consumption, transformation, and destruction, but she converts that discovery into an increasingly uninhabitable dietary rule. | `LI` / `IA` | `A` | `TF-17`–`TF-22` | `IER-ethical-constraint.md`; `IER-narrowing.md` | “Discovers” here concerns her situation, not a proof that all consumption is experiential moral harm. |
 | `BR-27` | Her rule conflates at least three questions: whether something is biologically living, whether it is experiential, and whether its standing requires absolute preservation. | `IA` | `A` | Marian's once/might-still-be-living rule | IER standing, harm, and ethical-constraint articles | A high-value IER contribution. The questions must be separated explicitly. |
-| `BR-28` | IER does not license the inference that every instance of biological consumption is experiential moral harm. | `IA` | `A` | Plant, mold, egg, processed-food scenes | `IER-harm.md`; IER non-diagnosability commitments | Experiential harm requires damage to a UEF's intrinsic-constraint organization; experience cannot be inferred from “alive” alone. |
-| `BR-29` | Even where moral standing and harm are real, IER supplies no universal preservation rule or decision procedure that would make finite biological continuation innocent. | `IA` | `A` | Near-starvation and mold/cleaning conflict | `IER-ethical-constraint.md` | This is ethical constraint without closure, not permission to disregard harm. |
+| `BR-28` | IER does not license the inference that every instance of biological consumption is experiential moral harm. | `IA` | `A` | Plant, mould, egg, processed-food scenes | `IER-harm.md`; IER non-diagnosability commitments | Experiential harm requires damage to a UEF's intrinsic-constraint organization; experience cannot be inferred from “alive” alone. |
+| `BR-29` | Even where moral standing and harm are real, IER supplies no universal preservation rule or decision procedure that would make finite biological continuation innocent. | `IA` | `A` | Near-starvation and mould/cleaning conflict | `IER-ethical-constraint.md` | This is ethical constraint without closure, not permission to disregard harm. |
 | `BR-30` | The ending abandons purity, not ethical seriousness: Marian eats, cleans, and is named a consumer. | `LI` / `IA` | `A` | `TF-28`–`TF-32` | `IER-ethical-constraint.md`; `IER-reorganizability.md` | Avoid claiming that meat eating proves the earlier concern false. |
 
 ## F. Displaced refusal, disengagement, and behavioural substitution
@@ -273,7 +273,7 @@ This is the sequence that should govern every later compression in the article.
 | `BR-33` | The article proposes a behavioural-substitution hypothesis: a refusal not yet stably directed at being consumed is expressed through refusal to consume. | `BH` | `B` | Structural parallel between engagement/camera/cake and food sequence | Closest anchors: `IER-disengagement.md`, behavioural transfer, `IER-affordances.md` | This is not yet a stabilized canonical IER concept. Present it as the bridge's proposal, not established theory. |
 | `BR-34` | The proposed substitution preserves a relation—consumer versus consumed—while changing target and behavioural domain. | `BH` | `B` | Hunter/prey scenes; food refusal; explicit cake substitute | `IER-models-and-situations.md`; `IER-disengagement.md` | Stronger than saying the symptom is a consciously encoded message. No hidden sender is required. |
 | `BR-35` | “Behavioural transfer” from `IER-disengagement.md` is related but not identical: transfer preserves a governing organization across domains, whereas the proposed substitution also reverses Marian's position within the consumption relation. | `IA` / `BH` | `A` | Being consumable versus refusing consumption | `IER-disengagement.md` | Important terminology boundary; do not silently rename transfer as substitution. |
-| `BR-36` | The refusal generalizes until it becomes broader and more disabling than the original relation requires. | `LI` / `IA` | `A` | Meat to egg to plant to processed food to near-total refusal; mold/cleaning | `IER-narrowing.md`; `IER-affordances.md`; `IER-reorganizability.md` | This supports narrowing without claiming a purposive protest strategy. |
+| `BR-36` | The refusal generalizes until it becomes broader and more disabling than the original relation requires. | `LI` / `IA` | `A` | Meat to egg to plant to processed food to near-total refusal; mould/cleaning | `IER-narrowing.md`; `IER-affordances.md`; `IER-reorganizability.md` | This supports narrowing without claiming a purposive protest strategy. |
 | `BR-52` | Duncan matters because he reproduces the user/used relation in an apparently unconventional form: he openly treats Marian as a substitute, emotional outlet, and low-obligation sexual possibility. | `LI` / `IA` | `A` | `TF-35`–`TF-37` | `IER-social-stack.md`; `IER-affordances.md`; `IER-trajectory-authorship.md` | Duncan is not equivalent to Peter, but nonconformity does not remove instrumental organization. |
 | `BR-53` | Marian's willingness not to mind being used by Duncan shows that immediate relief from performance can coexist with continued instrumentalization. | `LI` / `IA` | `A` | `TF-36` | `IER-situations.md`; `IER-narrowing.md`; `IER-coercion.md` | Do not moralize this as consent proving benefit or distress proving non-consent; the point is the coexistence of relief and use. |
 | `BR-54` | Temporary ring removal, sex, flight, and a change of companion alter local activity without disengaging Marian from the governing crisis. Duncan's failure is therefore part of the evidence for distinguishing behavioural change from release. | `LI` / `IA` | `A` | `TF-39`, `TF-42`, `TF-22` | `IER-disengagement.md`; `IER-situation-and-experience-dominance.md` | Duncan does not need to be a worse Peter for the detour to fail; the existing organization remains active. |
@@ -307,12 +307,12 @@ This is the sequence that should govern every later compression in the article.
 
 | ID | Claim to exclude | Status | Correction |
 | --- | --- | --- | --- |
-| `EX-01` | “The sequence is rabbit → meat → egg → plant → mold → processed food.” | `X` | Rabbit is a pre-engagement hunting scene, not a food refusal; processed-food failures precede mold. |
-| `EX-02` | “Mold is one of the foods Marian refuses.” | `X` | Mold reorganizes cleaning and disposal, not eating. |
-| `EX-03` | “The mold scene is in Chapter 28.” | `X` | It is in Chapter 25. |
+| `EX-01` | “The sequence is rabbit → meat → egg → plant → mould → processed food.” | `X` | Rabbit is a pre-engagement hunting scene, not a food refusal; processed-food failures precede mould. |
+| `EX-02` | “Mould is one of the foods Marian refuses.” | `X` | Mould reorganizes cleaning and disposal, not eating. |
+| `EX-03` | “The mould scene is in Chapter 28.” | `X` | It is in Chapter 25. |
 | `EX-04` | “Marian stops eating pumpkin seeds.” | `X` | Duncan eats the pumpkin seeds. |
 | `EX-05` | “The narration becomes third person when Marian stops eating.” | `X` | Part Two becomes third person in Chapter 13; steak refusal occurs in Chapter 17. |
-| `EX-06` | “Marian recognizes bacteria, microbes, or microscopic life.” | `X` | The novel gives mold. Microscopic-life language is an extrapolation. |
+| `EX-06` | “Marian recognizes bacteria, microbes, or microscopic life.” | `X` | The novel gives mould. Microscopic-life language is an extrapolation. |
 | `EX-07` | “Marian cannot consciously resist Peter.” | `X` | She runs, hides, argues, conceals, refuses photography, and flees; she does not directly end the engagement until Chapter 30. |
 | `EX-08` | “Peter successfully photographs and fixes Marian's party image.” | `X` | The posed shot is interrupted; she screams and runs during the later attempt. |
 | `EX-09` | “Peter refuses the cake because he understands the metaphor and cannot tolerate it.” | `X` | Peter leaves without eating; his internal reason is not supplied. |
@@ -330,7 +330,7 @@ This is the sequence that should govern every later compression in the article.
 | `EX-21` | “Because Clara and Peter call Marian's condition normal, the novel presents only a mild or ordinary problem.” | `X` | Their responses document a mismatch between Marian's crisis and the surrounding interpretations available to recognize it. |
 | `EX-22` | “Duncan is a nonconventional alternative to instrumental relation.” | `X` | His explicit laundromat substitution, emotional use, and self-directed sexual proposal reproduce user/used organization in a different style. |
 | `EX-23` | “The food refusal begins as a worked-out ethical position.” | `X` | Bodily and behavioural reorganization precede Marian's ethical explanation; the Chapter 6 dissolution dream shows an even earlier disturbance. |
-| `EX-24` | “The complete novel or every relationship must be mapped to support the article.” | `X` | The ledger is intentionally restricted to events that change the food–mold–normality–use–camera–cake trajectory. |
+| `EX-24` | “The complete novel or every relationship must be mapped to support the article.” | `X` | The ledger is intentionally restricted to events that change the food–mould–normality–use–camera–cake trajectory. |
 
 ---
 
@@ -345,7 +345,7 @@ The following sequence identifies which ledger claims should do the main work in
 | 3. The woman who becomes third person | `TF-06`, `TF-07`, `BR-08`–`BR-11` | Treat narration as staged self/situation organization, not subject loss. |
 | 4. Refusal before explanation | `TF-11`–`TF-17`, `BR-12`–`BR-17` | Show behaviour first, ethical model later, and block the hidden bodily knower. |
 | 5. When the same food stops affording food | `TF-34`, `TF-14`, `TF-19`, `BR-18`–`BR-25`, `BR-51` | Use the complete rice-pudding arc and wider food sequence to explain changing affordances, salience, empathy, and generalization. |
-| 6. Mold: refusal leaves the menu | `TF-20`, `TF-21`, `TF-40`, `BR-26`–`BR-30` | Show the pattern extending from consumption to ordinary cleaning and expose the practical failure of absolute non-destruction. |
+| 6. Mould: refusal leaves the menu | `TF-20`, `TF-21`, `TF-40`, `BR-26`–`BR-30` | Show the pattern extending from consumption to ordinary cleaning and expose the practical failure of absolute non-destruction. |
 | 7. Duncan and the false exit | `TF-35`–`TF-37`, `TF-39`, `TF-42`, `BR-52`–`BR-54` | Establish that a different man and unconventional style can reproduce instrumental use without resolving the crisis. |
 | 8. Refusal in the wrong domain | `BR-31`–`BR-36` | Present behavioural substitution as the article's novel contribution, explicitly non-canonical. |
 | 9. The camera's image | `TF-08`–`TF-10`, `BR-37`, `BR-38` | Join party manufacture, hunting, photography, and threatened external authorship. |
@@ -379,7 +379,7 @@ The following sequence identifies which ledger claims should do the main work in
    - “the sequence supports” for literary inference;
    - “IER can describe” for theoretical redescription;
    - “this article proposes” for behavioural substitution.
-2. Use the exact chronology. Never place mold before processed food.
+2. Use the exact chronology. Never place mould before processed food.
 3. Introduce the Chapter 6 dissolution dream before the rabbit, running, and hiding so the proposal and steak do not appear to create disturbance from nothing.
 4. Keep appetite disturbance, categorical food refusal, narration shift, and the later ethical interpretation temporally distinct.
 5. Use Clara's “wedding nerves” and Peter's “normal” response to establish mismatch between lived crisis and ordinary recognition. Do not treat their reassurance as evidence that nothing serious is happening.
@@ -396,7 +396,7 @@ The following sequence identifies which ledger claims should do the main work in
     - an IER model that preserves organization for bounded consequence projection.
     Do not treat representation as an IER ontological primitive.
 15. End with Duncan's reversal of the destruction question and his “consumer” complication. The article should resolve displacement without pretending to resolve causality or consumption.
-16. Enforce the scope boundary: add secondary plots only when they directly change the food, mold, normality, instrumental-use, camera, cake, or ending trajectory.
+16. Enforce the scope boundary: add secondary plots only when they directly change the food, mould, normality, instrumental-use, camera, cake, or ending trajectory.
 
 ---
 
@@ -415,7 +415,7 @@ The ledger is sufficiently stable for drafting, but the final article still requ
 - the ethical-stand passage;
 - Clara's wedding-nerves response, Marian's fear that Peter could call off the wedding, and Peter's reassurance that she is normal;
 - Duncan's laundromat substitution, Marian's recognition that he is using her, the sexual proposal, ring removal and replacement, the failed hotel/ravine exit, and his refusal to intervene with Peter;
-- the dirty-dish and spoiled-food buildup and the exact mold passage;
+- the dirty-dish and spoiled-food buildup and the exact mould passage;
 - both camera attempts;
 - the cake's ingredients, decoration, substitute accusation, Peter's exit, Marian's eating, and Duncan's final destruction alternatives and “consumer” remarks.
 
