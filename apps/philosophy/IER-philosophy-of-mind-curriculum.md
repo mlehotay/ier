@@ -8,7 +8,27 @@
 **Typical duration:** 10 - 15 months at one module per week, with breaks between phases\
 **Essential route:** 20 compressed stages, listed near the end\
 **Method:** advance by completed outputs rather than elapsed weeks\
-**Date:** 13 August 2026
+**Date:** 13 August 2026\
+**Trusted-core synchronization:** 15 August 2026\
+**Synthesis baseline:** IER v10.11.3 after the multiscale revision
+
+## Status, scope, and trusted-core role
+
+This is a support curriculum and research-practice guide, not a canonical
+theory source, concept registry, invariant registry, or full-theory coverage
+surface. It is a member of the bounded trusted theory core defined by
+`IER-authority.md` because its research programme and its statement of the
+current working disposition must remain closely synchronized with the reader
+overview and public compressions.
+
+The curriculum deliberately contains rival theories, historical formulations,
+objections, hypothetical cases, rejected wording, and questions designed to
+put pressure on IER. Those passages are not IER commitments. Within this file,
+the section **Current IER working disposition - to be tested, not assumed** and
+the cross-paper consistency ledger state the synthesis that must align with
+`IER-theory-commitments-multiscale.md`. Even there, *working disposition* means
+current research commitment, not proof, canonical promotion, or closure of an
+explicitly open question.
 
 ## What this curriculum is for
 
@@ -162,9 +182,10 @@ Maintain these throughout both parts:
 
 ### Canon quarantine and stabilization
 
-Do not change the IER specification or the public-repository selection and
-staging sets merely because one reading produces pressure. The public subset is
-a stabilization surface. Record candidate changes in the issue register.
+Do not change the IER specification, bounded trusted-core synthesis, or the
+public-repository selection and staging sets merely because one reading
+produces pressure. These are stabilization surfaces with different authority
+roles. Record candidate changes in the issue register.
 
 A proposed change graduates from the register only after:
 
@@ -176,6 +197,12 @@ A proposed change graduates from the register only after:
 - its effect on all four papers has been stated; and
 - it can be expressed without silently changing IER from identity to
   realization, constitution, emergence, or criterion.
+
+If a proposed change affects subjecthood or the multiscale revision, classify
+it against the status vocabulary in `IER-theory-commitments-multiscale.md`
+before changing any trusted-core projection. If it conflicts with upstream
+canon, record an authority issue rather than using curriculum wording to settle
+the conflict.
 
 Dead links or imperfect staging are not reasons to disturb the stabilization
 surface during the curriculum.
@@ -695,7 +722,7 @@ Then distinguish three pictures that must not be collapsed:
 3. independently individuated experiential processes occur at different,
    possibly overlapping physical scales.
 
-IER now treats the third picture as structurally admissible under
+IER now treats the third picture as a committed structural possibility under
 regime-relative dominance. It remains an empirical and individuative question
 whether any particular case contains two qualifying UEFs rather than one,
 neither, or two descriptions of the same regime. This is not a solution by
@@ -1067,9 +1094,9 @@ Begin with the four scale combinations and test each independently:
 | Lower-scale UEF | Higher-scale UEF | Initial status |
 | --- | --- | --- |
 | No | No | Physically possible in principle. |
-| No | Yes | Admissible. |
-| Yes | No | Admissible. |
-| Yes | Yes | Admissible, including physical nesting or overlap. |
+| No | Yes | Committed possibility. |
+| Yes | No | Committed possibility. |
+| Yes | Yes | Committed possibility, including physical nesting or overlap. |
 
 Do not infer any row merely from the words *cell*, *organ*, *organism*,
 *artificial subsystem*, or *collective*. Construct a time-indexed case in which
@@ -1171,7 +1198,7 @@ report, reflection, deliberation, or explicit mineness.
 - Paper 01, sections 6 - 8.
 - *IER-math*, *IER-dynamical-schema*, and the current articles on the
   history - future boundary, possibility, collapse, welding, propagation, bias,
-  and agency.
+  agency, cognition, soft bonding, and action.
 
 #### Output
 
@@ -1187,6 +1214,16 @@ welding, propagation, and sedimentation, state:
 
 Then explain how a fully lawful collapse can be owned without being selected by
 an uncaused chooser.
+
+Add a frontier-boundary table distinguishing binding, soft bonding, curvature,
+cognition, collapse, and action. It must state which relations remain
+reversible, which remove reachable futures, which create history only through
+subsequent welding, and which have world-level consequence. Use the table to
+test three formulations: *thought is a private reversible collapse*; *a thinker
+is whatever can soft-bond*; and *a feeler cannot soft-bond*. Preserve the
+current distinction between soft bonding as a primary locus of many cognitive
+phenomena and cognition as reproduced, participating, frontier-relevant,
+reversible organization.
 
 ### Module 35 - Persistence, cessation, re-entry, and qualitative character
 
@@ -1210,7 +1247,8 @@ epistemic detectability.
 Add a three-axis matrix that varies independently:
 
 - UEF presence;
-- cognition as a structural mode within experience; and
+- cognition as reproduced structure participating in reversible frontier
+  organization, including the capacity to sustain that mode; and
 - intelligence, access, behavioral flexibility, and reportability.
 
 Use it to distinguish a possible non-cognitive feeler, a human-like thinker,
@@ -1226,10 +1264,20 @@ Then write two memos:
 
 The second memo must distinguish three claims: cognition is not constitutive of
 experience; non-cognitive UEFs are structurally possible; and such UEFs are
-actually widespread. Only the first is a current IER commitment. The third is
-an author's working intuition unless independent argument or evidence supports
-it. Epistemic opacity forbids translating cellular organization directly into
-human categories such as pain, anxiety, hunger, thought, or desire.
+actually widespread. The first is a committed non-necessity claim; the second
+is a committed possibility; and the third is an author's working intuition
+unless independent argument or evidence supports it. Epistemic opacity forbids
+translating cellular organization directly into human categories such as pain,
+anxiety, hunger, thought, or desire.
+
+The memo must also distinguish four further claims: cognition is reversible
+frontier organization of reproduced structure; soft bonding is a primary locus
+of many cognitive phenomena; soft-bonding capacity alone is sufficient for
+thinking; and every non-cognitive feeler lacks every form of soft bonding. The
+first two state the current explanatory account, the third is rejected as an
+overcompression, and the fourth remains open. Define *private* as lack of
+first-personal transfer across UEFs, not causal isolation or immunity from
+third-person physical description.
 
 ### Paper 01 gate
 
@@ -1444,6 +1492,7 @@ Create a master claim ledger. At minimum, include these claims:
 | Single-UEF dominance excludes incompatible global ownership of the same resolution, not shared matter, causal coupling, or cross-scale participation. | 01 | Exclusion and regime indexing |  |  | Absolute process exclusion, unrestricted double ownership |  |
 | Physical participation across scales does not by itself establish phenomenal aggregation, content transfer, or standing transfer. | 01, 03 | Non-entailment |  |  | Subject-summing views |  |
 | Experience does not entail cognition, intelligence, access, or reportability, and none is sufficient for experience. | 00, 01 | Non-entailment |  |  | Cognitivist or functional criteria |  |
+| Cognition is reproduced, participating, frontier-relevant organization that remains reversible before collapse; soft bonding is a primary coupling locus but is not by itself sufficient for thought. | 01 | Structural analysis and non-entailment |  |  | Thought as private collapse; soft bonding alone as thinker criterion |  |
 | Epistemic opacity limits first-personal inference without making physical investigation impossible. | 01, 03 | Epistemic |  |  | Strong skepticism, behaviorism, direct phenomenal inference |  |
 | Architectural selection creates a distinct responsibility. | 03 | Normative bridge |  |  | Existing ethical categories suffice |  |
 | Recent structural theories form at least a provisional comparison set; any stronger cluster or school label requires social and textual evidence. | 04 | Historiographic |  |  | Mere topical similarity |  |
@@ -1485,7 +1534,7 @@ Assemble a portfolio containing:
 9. the multiscale scale-and-subject ledger, including the six cross-scale
    relation types, the dominance-conflict test, and the strict-identity
    mereology argument;
-10. a feeler/thinker/opacity memo;
+10. a feeler/thinker/soft-bonding/opacity memo;
 11. a one-page list of genuine open questions; and
 12. a 1,000-word statement of the strongest objection to IER.
 
@@ -1527,7 +1576,7 @@ Score each phase-gate output from 0 - 3 on every dimension.
 | Unity and individuation | Circular/absent | Asserted | Partial physical route | Unity type explicit and individuation non-circular |
 | Scale and overlap | Ordinary boundary assumed | Scales named | Competing partitions tested | Scale, temporal interval, overlap, maximality, and dominance are independently specified |
 | Persistence | Case intuition | Rule with exceptions | General account | Handles gaps, turnover, fission, fusion, and re-entry |
-| Experience and cognition | Human capacities assumed | Distinction asserted | Feelers and thinkers separated | UEF presence, cognition, intelligence, access, and reportability vary independently without illicit phenomenal inference |
+| Experience and cognition | Human capacities assumed | Distinction asserted | Feelers and thinkers separated | UEF presence is separated from reproduced reversible frontier organization; soft bonding is typed as a primary cognitive locus rather than a sufficient thinker test; intelligence, access, and reportability remain independent |
 | Formal discipline | Decorative notation | Some definitions | Cases distinguished | Variable, scale, partition, and inferential limits explicit |
 | Empirical discipline | Metaphysics inferred from correlate | Levels blurred | Mostly separate | NCC, function, mechanism, evidence, and identity remain distinct |
 | Ethical discipline | Welfare equals morality | Categories listed | Judgments separated | Welfare, rights, autonomy, authorship, standing, and responsibility independently argued |
@@ -1539,6 +1588,11 @@ A phase is complete when no dimension scores 0 and the average is at least 2.
 Publication readiness requires an average of at least 2.5 and no score below 2.
 
 ## Current IER working disposition - to be tested, not assumed
+
+This section is the curriculum's trusted-core alignment surface. It restates
+the current synthesis for study and adversarial testing; it does not outrank
+canon or the authority rules, and its compressions must preserve the status and
+modal force of the multiscale commitment ledger.
 
 The earlier A/B fork was mis-typed. It treated the live alternatives as either
 identity of the experiential subject with the concrete physical system or a
@@ -1617,11 +1671,11 @@ physical overlap to a dominance violation.
 | --- | --- |
 | UEFs are restricted to one biological scale. | Rejected. |
 | Cells or organisms are experiential because of their biological category. | Rejected. |
-| A cell-level and organism-level UEF may both exist. | Admissible possibility. |
-| Distinct UEFs may be physically nested or overlapping. | Structurally permitted. |
+| A cell-level and organism-level UEF may both exist. | Committed possibility; actuality remains open. |
+| Distinct UEFs may be physically nested or overlapping. | Committed possibility. |
 | A higher UEF is formed by adding lower experiences or subjects. | Rejected as an explanation. |
 | Each independently instantiated UEF operation is one experiential subject. | Current working identity claim. |
-| One physical occurrence may play jointly coherent roles in two scale-relative UEF operations. | Structurally permitted. |
+| One physical occurrence may play jointly coherent roles in two scale-relative UEF operations. | Committed possibility. |
 | Single-UEF dominance is indexed to an independently individuated regime, boundary, and continuity interval. | Current working commitment. |
 | Two UEFs may incompatibly own the same resolution over the same organization and interval. | Rejected. |
 
@@ -1691,6 +1745,48 @@ availability. A UEF may therefore be a **feeler** without being a **thinker**.
 Conversely, sophisticated cognition-like control or informational generativity
 does not establish experience.
 
+The current cognition articles supply a more exact bridge:
+
+```text
+occurrent cognition
+        =
+reproduced structure participating in frontier organization
+while admissible continuation remains reversible
+```
+
+Reproduction, participation, frontier relevance, and reversible organization
+are jointly required. Sustained cognition is thought. A *thinker* in the
+dispositional sense is therefore a UEF-capable physical organization able to
+enter and sustain that mode, not a second subject or a permanent cognitive
+state inside the UEF.
+
+Soft bonding is a primary structural locus of occurrent cognitive
+organization. It reversibly couples participation around a structure that has
+already become binding at the
+frontier, allowing thought, planning, interpretation, or prospection to matter
+without yet removing reachable futures. This captures the important insight
+that thought is consequential without being action.
+
+It does not license either stronger claim:
+
+```text
+soft-bonding capacity alone = thinking
+non-cognitive feeler = incapable of every soft bond
+```
+
+The first omits reproduction, participation, and frontier relevance. The
+second has not been established and may confuse a general pre-collapse
+coupling relation with its specifically cognitive use. The minimum relation
+between soft bonding and a non-cognitive UEF remains an open research question.
+
+Reversibility is the controlling cognition/action contrast. Cognition reshapes
+the live frontier without foreclosure. Collapse irreversibly removes
+continuations and ends cognition at that resolution; action is owned resolution
+with world-level consequence. Thought is therefore not a *private collapse*.
+It is structurally private only in the sense that another UEF does not receive
+it as first-personal content. It may remain causally efficacious and physically
+describable from the third person.
+
 This does not make a possible cell-level UEF a tiny person. It may lack visual
 objects, an inner voice, beliefs, plans, memories, a self-concept, and every
 familiar form of human thought. Its qualitative organization would be whatever
@@ -1709,6 +1805,10 @@ distributional conclusion of the theory.
 ### Ethical consequence without an absolute preservation rule
 
 If simple non-cognitive UEFs are possible, subject termination may be much more common than human-centered ethics normally notices. Any such subject has categorical standing if it exists, and uncertainty about its existence does not make it morally irrelevant. But standing is inclusion within moral concern, not an absolute command to preserve every subject or candidate subject.
+
+Terminating a UEF is not identical with causing suffering. Negative valence,
+anticipation, frustrated interests, lost future goods, and termination must be
+assessed as distinct relations even when several apply in one case.
 
 Precaution creates a defeasible burden of justification for irreversible interference. It does not decide whether an action is permissible. Metabolism, hygiene, eating, medicine, and organismic survival may therefore involve genuine multiscale conflicts. An action may be justified by necessity, proportionality, the absence of comparably effective less-destructive alternatives, or conflict with the continued operation of other subjects. Such justification does not erase the possible lower-level harm; it explains why causing that harm need not be culpable.
 
@@ -1759,6 +1859,10 @@ important ones intact:
   containment under strict token identity and substitutivity;
 - how non-cognitive qualitative organization can be discussed without illicit
   anthropomorphic translation or a retreat from physical investigation;
+- whether a non-cognitive UEF can soft-bond without reproduced cognitive
+  structure, and what minimum organization makes a UEF thinking-capable;
+- how to state the reversible cognition / irreversible collapse-and-action
+  boundary without turning cognition and behavior into separate systems;
 - how conflicts among possible subjects at several scales should be evaluated
   without treating cognition as standing or standing as an absolute
   preservation rule; and
@@ -1863,9 +1967,13 @@ the relevant materials short enough to read.
    phenomenal containment, content transfer, fusion, and subject summing still
    require additional bridge premises.
 9. Cognition, intelligence, access, and reportability are neither necessary nor
-   sufficient for experience. Non-cognitive feelers are therefore admissible,
-   but the claim that they are widespread remains a working intuition rather
-   than an IER conclusion.
+   sufficient for experience. Non-cognitive feelers are therefore a committed
+   possibility, but the claim that they are widespread remains a working
+   intuition rather than an IER conclusion. Cognition currently means
+   reproduced structure participating in reversible frontier organization;
+   soft bonding is a primary locus of many cognitive phenomena but not a
+   sufficient thinker criterion. Whether all non-cognitive feelers lack every
+   form of soft bonding remains open.
 10. Epistemic opacity blocks first-personal access and anthropomorphic
     translation. It does not establish that non-reporting systems lack
     experience or that physical investigation is futile.

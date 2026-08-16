@@ -9,15 +9,15 @@ ier:
     - guardrails_and_orientation
   category: framework_overviews
   filename: IER-precis.md
-  version: 10.11.1
+  version: 10.11.3
 ---
 
 # Informational Experiential Realism
 
 ## Précis
 
-**Informational Experiential Realism (IER v10.11.1)**\
-*Framework Compression - Non-Normative - Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.3)**\
+*Framework Compression - Non-Normative - Canon-Constrained - Bounded Trusted-Core Overview*
 
 ## Status, Scope, and Authority
 
@@ -25,21 +25,26 @@ ier:
 
 
 This précis is a standalone conceptual overview of Informational Experiential
-Realism. It introduces no new definitions, criteria, mechanisms, diagnostic
-claims, or normative permissions. The canonical specification is
-authoritative; supporting documents are canon-constrained and explanatory. If
-this précis conflicts with the specification, the specification prevails.
+Realism, synchronized with the bounded trusted theory core on 2026-08-15. It
+introduces no new definitions, criteria, mechanisms, diagnostic claims, or
+normative permissions. The canonical specification is authoritative;
+supporting documents are canon-constrained and explanatory. If this précis
+conflicts with the specification, the specification prevails.
 
-For public-facing review, this précis is one of the initial trusted public
-review documents, alongside the philosophy-of-mind curriculum. That status
-means it should receive narrow synchronization and review priority as a reader
-entry point. It does not make the précis an independent authority, a complete
-coverage proof, or a replacement for the canonical specification, registries,
-Seed Book, papers, or public repository selection.
+This précis is the primary conceptual compression inside the bounded trusted
+theory core defined by `IER-authority.md`. The core also contains the current
+multiscale commitment ledger, the elevator pitches, and the philosophy-of-mind
+curriculum. For subjecthood and multiscale claims, this précis preserves the
+ledger's distinction among committed claims, committed possibilities, rejected
+formulations, author intuitions, and open questions. Core membership gives the
+précis synchronization and review priority; it does not make it an independent
+authority, a full-theory coverage proof, or a replacement for the canonical
+specification, registries, Seed Book, papers, or public repository selection.
 
 IER is a physicalist identity theory of experience. Its central proposal is ontological:
 
-> Experience is identical to the operation of a physical system as a Unified Experiential Field under coherent intrinsic constraint.
+> A token Unified Experiential Field operation through a continuity interval is
+> identical with total experience-as-process and with the experiential subject.
 
 IER does not offer a behavioral test, neural correlate, computational
 signature, engineering recipe, or general procedure for attributing experience
@@ -52,7 +57,14 @@ existence claims; it does not enumerate all actual UEFs.
 
 IER accepts one objective, mind-independent physical reality. Experience is real, but it is not a second substance, an emergent accompaniment, an internal representation, or an output added to physical dynamics. When the relevant physical regime exists, its operation does not produce experience: its operation is the experience.
 
-IER calls this regime a Unified Experiential Field (UEF). “Field” does not mean a fundamental physical field, a spatial container, or an entity inside a system. It names a system-level organization in which intrinsic constraint is:
+IER calls the qualifying regime a Unified Experiential Field (UEF). “Field”
+does not mean a fundamental physical field, a spatial container, or an entity
+inside a system. A candidate physical system instantiates the regime when its
+organization satisfies the relevant conditions; its embodied substrate
+sustains the concrete token operation through an interval. That continuing
+operation - not the substrate considered independently of current operation -
+is the relatum IER identifies with total experience and subject. In the
+qualifying regime, intrinsic constraint is:
 
 - globally integrated,
 - sustained across a non-zero interval,
@@ -81,24 +93,89 @@ A UEF is a regime of operation, not a component within a system. Its boundary is
 
 IER treats subjecthood as categorical:
 
-> One UEF constitutes one experiential subject.
+> One continuing UEF operation is identical with one experiential subject.
 
 The physical conditions that enable a UEF may change continuously, and processes may participate in it to different degrees. Subjecthood itself is not graded. A process participates experientially when it both bears and contributes to the field’s globally integrated constraint. Changes in participation may alter the content, intensity, salience, or organization of experience without creating another subject, provided the field remains unified and continuous.
 
 This distinguishes graded participation from graded subjecthood. There is no
-partial subject before a UEF exists and no collection of fractional subjects
-within one field. Nor is unity the binding of representations. Representations
-may occur within an experiential system, but the UEF does not represent its
-intrinsic constraint to an inner witness. It bears that constraint directly.
+partial subject before a UEF operation exists and no collection of fractional
+subjects within one field. A pain, image, thought, or other local experiential
+episode is an organization or phase within the continuing process; it is not a
+second subject and is not numerically identical with the whole subject merely
+because it is experiential. Nor is unity the binding of representations.
+Representations may occur within an experiential system, but the UEF operation
+does not represent its intrinsic constraint to an inner witness. It bears that
+constraint directly.
 
 This is a structural rule for admissible individuation, not a claim that every
 concrete boundary is externally identifiable. Nested, overlapping, biological,
 artificial, and distributed candidate organizations remain open unless their
-relevant structure is excluded by established canon. One UEF, if instantiated,
-constitutes one subject; the theory does not infer which ordinary biological,
-social, or legal unit is a UEF merely from its category or behavior.
+relevant structure is excluded by established canon. Each independently
+qualifying continuing operation is one subject; the theory does not infer which
+ordinary biological, social, or legal unit is a UEF merely from its category or
+behavior.
 
-Ownership has the same structural sense. It does not imply an inner owner, voluntary control, or privileged self-knowledge. Constraint and its resolution are owned when they are borne non-externalizably by the same continuing physical regime.
+Ownership has the same structural sense. It does not imply an inner owner,
+voluntary control, or privileged self-knowledge. Constraint and its resolution
+are owned when they are borne non-externalizably within the same continuing UEF
+operation.
+
+## Scale, overlap, non-cognitive experience, and thought
+
+UEF conditions are scale-neutral: they privilege no biological, neural,
+artificial, or descriptive scale in advance. Lower- and higher-scale UEFs may
+both exist in principle, including where their substrates are physically nested
+or their constitutive processes overlap. This is a committed structural
+possibility, not a claim
+that actual cells, organs, organisms, artificial systems, or distributed
+architectures instantiate UEFs.
+
+Physical overlap is not by itself a conflict of experiential ownership.
+Single-UEF dominance is relative to an independently individuated regime,
+boundary, continuity interval, and resolution:
+
+> For one independently individuated system boundary and continuity interval,
+> intrinsic constraint cannot be globally owned by two incompatible UEF
+> operations over the same resolution.
+
+One occurrence may therefore play jointly coherent roles in more than one
+scale-relative operation. A higher-scale process may also shape a lower
+candidate's environmental constraint field without owning the lower
+candidate's intrinsic resolution. The higher subject is not produced by
+summing lower subjects or their phenomenal contents. Physical or process
+parthood does not by itself entail phenomenal containment, content inheritance,
+fusion, or shared first-person access.
+
+Experience also does not require cognition, intelligence, language, memory,
+self-modeling, access, or reportability. A qualifying operation may be a
+non-cognitive feeler rather than a thinker. IER does not thereby establish that
+non-cognitive feelers are widespread or that any actual cell experiences.
+Epistemic opacity prevents structural investigation from being translated
+automatically into familiar human phenomenal terms: words such as *tension*,
+*boundary*, and *resolution* do not establish pain, hunger, fear, desire, or
+thought in an unfamiliar UEF.
+
+Within a UEF, the current IER account locates cognition in reproduced structure
+that participates in frontier organization while admissible continuation
+remains reversible. Soft bonding - reversible coupling of participation around
+an already bound, frontier-relevant structure - is a primary structural locus
+of many cognitive phenomena. Sustained cognition is thought. It can reshape
+live frontier geometry without yet foreclosing a future or creating history.
+
+This supports but also qualifies a simple feeler/thinker contrast. A thinker
+must be capable of reproduced, participating, frontier-relevant, reversible
+organization; soft-bonding capacity alone is not yet a sufficient definition
+or diagnostic. Nor does current IER establish that every non-cognitive feeler
+lacks every form of soft bonding. Collapse is not a reversible private version
+of action: it is the irreversible foreclosure that terminates cognition at the
+relevant resolution. In the current explanatory taxonomy, action is owned
+resolution with world-level consequence. Reversibility therefore distinguishes
+thinking from action without placing either in a separate internal system.
+
+The privacy involved is structural rather than causal. One UEF does not receive
+another UEF's cognitive organization as first-personal content, but cognition
+may still have physical causes, observable effects, and third-person structural
+descriptions.
 
 ## The history - future boundary
 
@@ -185,12 +262,27 @@ complete physical identity. The framework does not turn outward behavior or
 abstract functional organization into a certification procedure for either
 experiential presence or absence.
 
-IER also distinguishes experiential ontology from ethics. Its canonical ethical commitments follow from the identity claim: subjecthood entails categorical moral standing, and damage to a UEF’s organization constitutes experiential harm. These commitments do not by themselves provide a complete moral theory, rank subjects, settle conflicts, assign responsibility, or determine permissible action.
+IER also distinguishes experiential ontology from ethics. If a UEF exists, its
+subject has categorical inclusion within moral concern without cognition,
+intelligence, or eloquence serving as the price of admission. Damage may deform
+the organization identical with that subject's experience, but subject
+termination, suffering, negative valence, anticipated loss, frustrated
+interests, and loss of future goods are different relations. Terminating a UEF
+is therefore not identical with causing suffering, and standing alone supplies
+no absolute preservation rule. These commitments do not by themselves provide
+a complete moral theory, rank subjects, settle conflicts, assign
+responsibility, or determine permissible action.
 
 
 IER can state its proposed regime entirely in physical terms: lawful configurations and transitions, admissible continuation, non-factorizable constraint, internally borne resolution, temporal continuity, and irreversible foreclosure. If those notions can be specified without experiential vocabulary, the proposal is not definitionally circular. It does not define a UEF merely as whatever is conscious.
 
-That achievement would not by itself prove the identity claim. Showing that a physical regime is coherently describable, or that familiar features of experience follow if the identity is accepted, does not establish that experience must be identical with that regime. The proposal still bears the central philosophical burden of an identity theory: explaining why it should be accepted as identity rather than correlation, realization, or structural analogy.
+That achievement would not by itself prove the identity claim. Showing that a
+physical regime is coherently describable, or that familiar features of
+experience follow if the identity is accepted, does not establish that
+experience must be identical with that regime. The proposal still bears the
+central philosophical burden of an identity theory: explaining why it should
+be accepted as identity rather than correlation, realization, constitution,
+emergence, or structural analogy.
 
 The formal individuation of a UEF remains a continuing research burden. A
 successful account must state non-arbitrary admissibility conditions and
@@ -211,4 +303,8 @@ does not decide experiential status.
 
 IER should therefore be read neither as a completed proof nor as a loose metaphor. It is a specific identity proposal:
 
-> Experience is not something produced by sufficiently organized matter. It is the operation of a physical system when constraint becomes globally unavoidable, internally borne, temporally continuous, and constitutive of one unified trajectory.
+> Experience is not something produced by sufficiently organized matter. A
+> token UEF operation through a continuity interval is the continuing
+> experience and subject when intrinsic constraint is globally integrated,
+> internally borne, temporally continuous, and not independently resolvable
+> within the relevant regime.
