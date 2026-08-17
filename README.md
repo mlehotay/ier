@@ -12,6 +12,7 @@ Rather than treating experience as computation, representation, information proc
 
 This repository contains a curated subset of the larger IER project, including the core theoretical documents, worked examples, and exploratory applications.
 
+For similarly named but unrelated philosophical theories, see [Naming and Disambiguation](NAMING.md).
 
 ## Repository Structure
 
@@ -25,13 +26,11 @@ These documents define the core concepts and explanatory framework of Informatio
 
 Start here if you want to understand the theory itself.
 
-
 ## `examples/`
 
 Short, self-contained illustrations.
 
 Examples apply individual IER concepts to familiar situations in order to build intuition without introducing new theoretical commitments.
-
 
 ## `apps/`
 
@@ -40,7 +39,6 @@ Exploratory applications.
 Applications investigate how IER can be used to interpret external domains, simulations, and historical frameworks.
 
 Applications are non-canonical. They exercise the theory without modifying it.
-
 
 ## Where to Start
 
@@ -57,26 +55,21 @@ Readers interested in the foundational physical intuition behind the theory may 
 * [Hello World](IER/IER-hello-world.md)
 * [Below Hello World](IER/IER-below-hello-world.md)
 
-
 ## Examples
 
 The public release currently includes one example collection.
 
-
 ### Analogy Examples
 
-Short illustrations showing how familiar physical systems and toy organizations
-can make IER concepts intuitive.
+Short illustrations showing how familiar physical systems and toy organizations can make IER concepts intuitive.
 
 See:
 
 * [Analogy Examples](examples/analogies/README.md)
 
-
 ## Applications
 
-The current public release includes five public surfaces: four exploratory
-applications and one curriculum.
+The current public release includes five public surfaces: four exploratory applications and one curriculum.
 
 ### Abhidharma
 
@@ -86,16 +79,13 @@ See:
 
 * [Abhidharma](apps/abhidharma/README.md)
 
+### Neuroscience
 
-### Duration
-
-A neuroscience-facing application examining visual-duration categorization as
-a worked identification-gap case for experienced duration.
+A neuroscience-facing application examining empirical work on consciousness and experienced duration through the identification problem posed by IER.
 
 See:
 
-* [Duration](apps/duration/README.md)
-
+* [Neuroscience](apps/neuroscience/README.md)
 
 ### Edible Woman
 
@@ -105,7 +95,6 @@ See:
 
 * [Edible Woman](apps/edible-woman/README.md)
 
-
 ### Game of Life
 
 A research application exploring persistent organization, trajectory structure, and explainability within Conway's Game of Life.
@@ -114,7 +103,6 @@ See:
 
 * [Game of Life](apps/game-of-life/README.md)
 
-
 ### Philosophy of Mind Curriculum
 
 A field-literacy and research-practice curriculum for placing IER within public philosophy-of-mind debates.
@@ -122,7 +110,6 @@ A field-literacy and research-practice curriculum for placing IER within public 
 See:
 
 * [Philosophy of Mind for Finishing IER](apps/philosophy/IER-philosophy-of-mind-curriculum.md)
-
 
 ## Citation
 
@@ -142,7 +129,6 @@ Informational Experiential Realism (IER).
 Version 10.11.3.
 ```
 
-
 ## License
 
 The text of this work is licensed under the Creative Commons Attribution - NonCommercial 4.0 International License (CC BY-NC 4.0).
@@ -151,7 +137,6 @@ See:
 
 * [LICENSE](LICENSE)
 * [NOTICE](NOTICE.md)
-
 
 ## Project Status
 
