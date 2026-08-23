@@ -42,10 +42,10 @@ These analyses are valuable to IER because they supply precise candidate boundar
 
 ## Source Discipline
 
-The collection uses two local sources with different evidential roles:
+The collection uses two sources with different evidential roles:
 
-- [*Abhidharma* (Stanford Encyclopedia of Philosophy)](./Abhidharma%20%28Stanford%20Encyclopedia%20of%20Philosophy%29.pdf) provides the broad historical and cross-school framework.
-- [*A Comprehensive Manual of Abhidhamma*](./Comprehensive%20Manual%20of%20Abhidhamma%20-%20Bhikkhu%20Bodhi.pdf), edited by Bhikkhu Bodhi, provides detailed access to the mature Theravāda *Abhidhammatthasaṅgaha* tradition.
+- [*Abhidharma* (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/abhidharma/) provides the broad historical and cross-school framework.
+- [*A Comprehensive Manual of Abhidhamma*](https://store.pariyatti.org/products/6269), edited by Bhikkhu Bodhi, provides detailed access to the mature Theravāda *Abhidhammatthasaṅgaha* tradition.
 
 The Bodhi manual is not treated as a neutral history of all Abhidharma or as evidence for every school. Claims drawn from it are identified as Theravāda manual-tradition claims. General statements about Abhidharma are constrained by the cross-school source.
 

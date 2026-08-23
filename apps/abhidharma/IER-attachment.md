@@ -391,8 +391,8 @@ The result is intentionally unfinished. Its purpose is to turn a false completed
 
 ## Sources
 
-- Noa Ronkin, ["Abhidharma," *The Stanford Encyclopedia of Philosophy*](./Abhidharma%20%28Stanford%20Encyclopedia%20of%20Philosophy%29.pdf), substantive revision March 31, 2026.
-- Bhikkhu Bodhi, general editor, [*A Comprehensive Manual of Abhidhamma: The Abhidhammattha Saṅgaha of Ācariya Anuruddha*](./Comprehensive%20Manual%20of%20Abhidhamma%20-%20Bhikkhu%20Bodhi.pdf), third edition, Buddhist Publication Society, 2007.
+- Noa Ronkin, ["Abhidharma," *The Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/abhidharma/), substantive revision March 31, 2026.
+- Bhikkhu Bodhi, general editor, [*A Comprehensive Manual of Abhidhamma: The Abhidhammattha Saṅgaha of Ācariya Anuruddha*](https://store.pariyatti.org/products/6269), third edition, Buddhist Publication Society, 2007.
 
 Canonical IER claims in this document are constrained by the current IER specification, theory, dynamics, ontology, structural-signatures, structural-typology, taxonomy, attractors, fixation, coordinate-systems, projections, continuity, and identity documents. If this problem statement conflicts with those sources, they control.
 
