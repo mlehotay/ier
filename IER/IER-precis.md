@@ -9,49 +9,44 @@ ier:
     - guardrails_and_orientation
   category: framework_overviews
   filename: IER-precis.md
-  version: 10.11.3
+  version: 10.11.4
+  date: 2026-08-25
 ---
 
 # Informational Experiential Realism
 
 ## Précis
 
-**Informational Experiential Realism (IER v10.11.3)**\
-*Framework Compression - Non-Normative - Canon-Constrained - Bounded Trusted-Core Overview*
+**Informational Experiential Realism (IER v10.11.4)**\
+*Framework Compression - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
-
-
-
 This précis is a standalone conceptual overview of Informational Experiential
-Realism, synchronized with the bounded trusted theory core on 2026-08-15. It
-introduces no new definitions, criteria, mechanisms, diagnostic claims, or
-normative permissions. The canonical specification is authoritative;
-supporting documents are canon-constrained and explanatory. If this précis
-conflicts with the specification, the specification prevails.
+Realism. IER is a physicalist identity theory of experience. Its central
+proposal is ontological:
 
-This précis is the primary conceptual compression inside the bounded trusted
-theory core defined by `IER-authority.md`. The core also contains the current
-multiscale commitment ledger, the elevator pitches, and the philosophy-of-mind
-curriculum. For subjecthood and multiscale claims, this précis preserves the
-ledger's distinction among committed claims, committed possibilities, rejected
-formulations, author intuitions, and open questions. Core membership gives the
-précis synchronization and review priority; it does not make it an independent
-authority, a full-theory coverage proof, or a replacement for the canonical
-specification, registries, Seed Book, papers, or public repository selection.
+> A token Unified Experiential Field operation through a continuity
+> interval is identical with total experience-as-process and with the
+> experiential subject.
 
-IER is a physicalist identity theory of experience. Its central proposal is ontological:
+The identity is typed: one concrete **operation token** is one temporally
+extended **experience-as-process token** and one **subject token**. It does not
+identify a substrate considered apart from its operation, an instantaneous
+state, a representation, or an output with the subject.
 
-> A token Unified Experiential Field operation through a continuity interval is
-> identical with total experience-as-process and with the experiential subject.
+This is a canonical compression and a member of the bounded trusted theory
+core, with no independent definitional authority. Core membership gives it
+high synchronization and review priority. The Specification, canon
+constraints, manifest, and canonical concept homes govern any conflict. The
+public teaching artifact is available from
+[PhilPeople](https://philpeople.org/teaching_materials/13321/download).
 
 IER does not offer a behavioral test, neural correlate, computational
 signature, engineering recipe, or general procedure for attributing experience
 to unfamiliar systems. It asks what physical organization experience could be
 if experience is real but is neither non-physical nor an additional product of
-physical activity. Canon defines admissibility conditions before asserting
-existence claims; it does not enumerate all actual UEFs.
+physical activity.
 
 ## Experience as physical regime
 
@@ -89,7 +84,7 @@ Saturation names the exhaustion of these independence-preserving local pathways.
 
 ## Unity, subjecthood, and participation
 
-A UEF is a regime of operation, not a component within a system. Its boundary is not fixed by anatomy, location, function, or an observer’s preferred partition. IER characterizes the structural conditions for an admissible individuation; it does not, from this précis alone, enumerate the actual subject boundary in every case.
+A UEF is a regime of operation, not a component within a system. Its boundary is not fixed by anatomy, location, function, or an observer’s preferred partition. IER characterizes the structural conditions for an admissible individuation; it does not enumerate the actual subject boundary in every case.
 
 IER treats subjecthood as categorical:
 
@@ -200,6 +195,12 @@ Collapse is not random selection, a decision by an internal executive, or an int
 
 Repeated deformation, collapse, integration, and sedimentation constitute the system’s temporally extended trajectory. This account does not place machinery beneath experience. It describes the physical organization whose operation IER identifies with experience.
 
+**Re-entry** is the participation of deformation produced by earlier frontier
+operation in subsequent frontier operation within the same continuous
+resolution loop. It carries constraint structure, not a representation or a
+replayed past. Re-entry is therefore not collapse, successor realization, or
+the later re-instantiation of a UEF after cessation.
+
 ## One organization, several consequences
 
 IER treats familiar features of experience as consequences or aspects of one physical regime:
@@ -300,6 +301,19 @@ delegated, decomposable, slack-admitting, and externally mediated
 organization. A future artificial or corporate superorganism could instantiate
 a UEF if its physical organization satisfies the same conditions; legal status
 does not decide experiential status.
+
+## Illustrations and follow-up reading
+
+The teaching examples illustrate selected relations and do not supply further
+definitions. The [Stapled Net collection](https://philpeople.org/teaching_materials/13465/download)
+contrasts reversible constraint, irreversible fixation, and mechanical
+reachability. [The Billowed Sail](https://philpeople.org/teaching_materials/13561/download)
+illustrates ongoing driven operation without continual irreversible rewriting.
+
+Optional publication-level follow-up:
+
+- [*Informational Experiential Realism: A Process Identity Theory of Experience*](https://philpapers.org/rec/LEHIER-2)
+- [*Informational Experiential Realism: The Identity and Structure of Experience*](https://philpapers.org/rec/LEHIER)
 
 IER should therefore be read neither as a completed proof nor as a loose metaphor. It is a specific identity proposal:
 

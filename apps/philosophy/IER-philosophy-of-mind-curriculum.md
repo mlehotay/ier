@@ -8,27 +8,32 @@
 **Typical duration:** 10 - 15 months at one module per week, with breaks between phases\
 **Essential route:** 20 compressed stages, listed near the end\
 **Method:** advance by completed outputs rather than elapsed weeks\
-**Date:** 13 August 2026\
-**Trusted-core synchronization:** 15 August 2026\
-**Synthesis baseline:** IER v10.11.3 after the multiscale revision
+**Version:** IER v10.11.4\
+**Role:** support curriculum and research-practice guide\
+**Status:** public teaching material; non-canonical and canon-constrained\
+**Date:** 25 August 2026\
+**Trusted-core synchronization:** 25 August 2026\
+**Synchronization baseline:** IER v10.11.4 teaching-materials review; current synthesis remains upstream\
+**Public artifact:** [PhilPeople teaching material](https://philpeople.org/teaching_materials/13301/download)
 
 ## Status, scope, and trusted-core role
 
 This is a support curriculum and research-practice guide, not a canonical
 theory source, concept registry, invariant registry, or full-theory coverage
 surface. It is a member of the bounded trusted theory core defined by
-`IER-authority.md` because its research programme and its statement of the
-current working disposition must remain closely synchronized with the reader
-overview and public compressions.
+`IER-authority.md` so its research programme receives close synchronization
+and review priority alongside the reader overview, public compressions, and
+the four core-reviewed teaching examples.
+That membership does not make this file authoritative or require it to carry a
+second copy of the current theory synthesis.
 
 The curriculum deliberately contains rival theories, historical formulations,
 objections, hypothetical cases, rejected wording, and questions designed to
-put pressure on IER. Those passages are not IER commitments. Within this file,
-the section **Current IER working disposition - to be tested, not assumed** and
-the cross-paper consistency ledger state the synthesis that must align with
-`IER-theory-commitments-multiscale.md`. Even there, *working disposition* means
-current research commitment, not proof, canonical promotion, or closure of an
-explicitly open question.
+put pressure on IER. Those passages are not IER commitments. The versioned
+synchronization notice near the end of this file points to the upstream sources
+that state current commitments and open questions. Current answers belong in
+the running claim and source-audit ledgers, not in a parallel curriculum
+synthesis.
 
 ## What this curriculum is for
 
@@ -36,25 +41,23 @@ The aim is not to acquire a general credential in philosophy of mind. It is to
 become capable of locating, defending, revising, and eventually completing the
 four-paper IER programme:
 
-1. **Paper 00:** “The Identification Problem for Physicalist Theories of
-   Experience.” Why physicalism and neural correlation do not yet identify
-   which physical event is experience; why a recurrently organized,
-   self-maintaining constraint regime is a candidate rather than a proven
-   solution.
-2. **Paper 01:** “A Process Identity Theory of Experience.” The positive IER
-   identity claim; one UEF/one subject; ownership without an inner owner;
-   frontier geometry; collapse; persistence; participation; agency; and the
-   multiscale account of physically nested or overlapping UEFs under
-   regime-relative dominance.
+1. **Paper 00:** [“The Identification Problem for Physicalist Theories of
+   Experience”](https://philpapers.org/rec/LEHTIP-2) frames the programme's
+   accessible entry problem and its evidential burden.
+2. **Paper 01:** [“A Process Identity Theory of
+   Experience”](https://philpapers.org/rec/LEHIER-2) states the positive
+   identity proposal for reconstruction and criticism.
 3. **Paper 03:** “Architectural Ethics: Authorship of Phenomenology in
-   Constructed Consciousness.” The moral significance of deliberately
-   selecting the relatively persistent organization that structures another
-   subject’s possible experience and development.
-4. **Paper 04:** “Constraint, Closure, and the Missing Subject.” The current
-   provisional structural-consciousness comparison set; its relation to established theories;
-   differences among identity, constitution, realization, emergence, and
-   consciousness-first structural views; and standards for comparative review,
-   argument reconstruction, and novelty claims.
+   Constructed Consciousness” tests a proposed ethical category. Its source is
+   `pub/articles/paper-03-architectural-ethics.md`; no verified public record is
+   currently available.
+4. **Paper 04:** [“Constraint, Closure, and the Missing
+   Subject”](https://philpapers.org/rec/LEHCCA-4) audits the comparison set,
+   antecedents, and standards for novelty claims.
+
+The [full IER volume](https://philpapers.org/rec/LEHIER) is optional wider
+reading, not an authority citation or prerequisite for beginning the
+curriculum.
 
 The curriculum is successful when you can do four things without help:
 
@@ -722,11 +725,11 @@ Then distinguish three pictures that must not be collapsed:
 3. independently individuated experiential processes occur at different,
    possibly overlapping physical scales.
 
-IER now treats the third picture as a committed structural possibility under
-regime-relative dominance. It remains an empirical and individuative question
-whether any particular case contains two qualifying UEFs rather than one,
-neither, or two descriptions of the same regime. This is not a solution by
-phenomenal combination because no subject summing occurs.
+Use the versioned synchronization sources to determine IER's current status for
+each picture. Record the exact claim, authority, modal force, individuation
+burden, and strongest rival. Test in particular whether the source distinguishes
+physical overlap from phenomenal combination without assuming the desired
+subject count.
 
 ### Phase D gate: Public theory comparison
 
@@ -962,61 +965,36 @@ problem exposed by multiscale candidates, and three feasible next steps.
 - *IER-multiscale-uefs*, sections 2 and 16.
 - Revisit Modules 2 - 5.
 
+#### Questions
+
+- What ontological category does each source assign to system, substrate,
+  capacity, regime, token operation, total experience, local experiential
+  organization, subject, organism, and person?
+- Which apparent co-references are argued, and which are merely grammatical?
+- How do instantiation, diachronic sustaining, dynamical self-maintenance,
+  disposition, participation, and persistence differ?
+- What follows for subject identity if a UEF genuinely ceases while substrate,
+  capacity, organism, or person continuity remains?
+
 #### Output
 
-Complete the following ledger without allowing unexplained co-reference:
+Build a ledger with columns for item, source, exact wording, category,
+individuation condition, persistence condition, relation to every other item,
+modal force, authority, and unresolved ambiguity. Use only typed relations;
+do not use a slash or the word *sustain* to hide a choice.
 
-| Item | Category | Individuation condition | Persistence condition | Relation to other items |
-| --- | --- | --- | --- | --- |
-| Candidate physical system |  |  |  |  |
-| Embodied substrate |  |  |  |  |
-| UEF-sustaining capacity |  |  |  |  |
-| UEF regime |  |  |  |  |
-| Token UEF operation over a continuity interval |  |  |  |  |
-| Total experience-as-continuing-process |  |  |  |  |
-| Experiential state, episode, or content |  |  |  |  |
-| Experiential subject |  |  |  |  |
-| Organism |  |  |  |  |
-| Person |  |  |  |  |
+Test whether Paper 01 and each upstream source consistently distinguish:
 
-Treat *system operating as a UEF* as a sentence to analyze, not as a new item
-merely because it is a noun phrase. Determine whether *physical system* and
-*embodied substrate* co-refer in a given use; do not assume either identity or
-difference.
+- candidate physical system and embodied substrate;
+- UEF-sustaining capacity and current UEF operation;
+- regime instantiation and concrete operation through an interval;
+- total experience, experiential subject, and local experiential organization;
+  and
+- substrate, organism, person, and experiential-subject persistence.
 
-Then test the current IER working proposal:
-
-1. A candidate physical system instantiates a UEF regime when its organization
-   satisfies the relevant conditions. State whether *regime* names a type,
-   pattern, token organization, or something else.
-2. The embodied substrate sustains the token operation through an interval.
-   Distinguish this diachronic support relation from instantiating a regime and
-   from the regime's dynamical self-maintenance.
-3. The **token UEF operation over its continuity interval is proposed to be
-   numerically identical with the total experience-as-process and with the
-   experiential subject**. No further constitution or emergence relation is
-   introduced between operation and subject.
-4. A pain, visual episode, thought, or other local experiential state is not
-   thereby identical with the subject. Determine whether it is a phase,
-   organization, temporal part, aspect, or participating state of the total
-   process.
-5. UEF-sustaining capacity is a disposition of a physical organization, not
-   the substrate itself and not a currently operating UEF.
-6. Persistence of substrate, capacity, organism, or person does not by itself
-   establish persistence of the UEF operation or numerical identity of the
-   experiential subject.
-7. If a UEF genuinely ceases while its substrate or capacity persists, a later
-   UEF is a numerically distinct experiential subject even where organism or
-   person continuity is retained in another sense.
-
-For every pair in the ledger, choose among: numerical identity, instantiation,
-diachronic sustaining, dynamical self-maintenance, disposition, participation,
-parthood or phase, causation or enabling, ordinary non-experiential
-constitution, persistence, or no asserted relation. Do not use a slash to avoid
-choosing. Flag every passage in Paper 01 or the corpus that identifies the
-persisting physical system with the subject, treats a local experience token as
-the subject, says the operation merely constitutes a distinct subject, or uses
-*sustain* in more than one relation without warning.
+Flag every conflict or equivocation for the issue register. Do not repair it in
+the curriculum or select the preferred ontology before reconstructing the
+source argument and strongest rival.
 
 ### Module 31 - One field, one subject, and non-circular individuation
 
@@ -1027,41 +1005,32 @@ the subject, says the operation merely constitutes a distinct subject, or uses
   minimal closure, and single-UEF dominance.
 - Revisit phenomenal unity and combination from Modules 15 and 22.
 
+#### Questions
+
+- Can a physical boundary and continuity interval be selected without using
+  the desired subject count as a premise?
+- Does the argument move circularly from one subject to one UEF and back?
+- Which source defines *same regime*, *same resolution*, globality,
+  maximality, and incompatible ownership?
+- What does one-field/one-subject exclude, and what does it leave open about
+  cross-scale physical participation?
+
 #### Output
 
-Test for this circle:
-
-```text
-There is one subject because there is one UEF.
-There is one UEF because all participating processes belong to one subject.
-```
-
 Give an independently physical individuation route and apply it to two coupled
-brains, split-brain organization, an organ, a swarm, a brain - computer loop, an
-institution, two synchronized artificial systems, overlapping recurrent
-networks, and a system whose candidate boundary changes over time. State one
-subject-count verdict and one epistemic limitation for each.
+brains, split-brain organization, an organ, a swarm, a brain-computer loop, an
+institution, synchronized artificial systems, overlapping recurrent networks,
+and a boundary that changes through time. For each case, state the candidate
+boundary, interval, comparison class, evidence, subject-count verdict, rival
+verdict, and epistemic limitation.
 
-Separate and test these four claims rather than treating them as one principle:
+Reconstruct separately the source claims concerning UEF-to-subject mapping,
+subject-to-UEF mapping, incompatible ownership, and compatible cross-scale
+participation. Record entailments among them rather than treating them as one
+principle. Identify any older absolute no-nesting language and classify the
+result as a version, scope, or substantive conflict.
 
-1. exactly one subject corresponds to each UEF;
-2. each experiential subject is identical with exactly one continuing UEF
-   operation;
-3. one independently individuated system boundary and continuity interval
-   cannot sustain two incompatible globally dominant UEF operations over the
-   same resolution; and
-4. one physical occurrence may participate in more than one scale-relative
-   UEF operation when the roles are jointly coherent.
-
-Determine which claims entail which others, what *physical system* ranges over,
-how *the same resolution* is identified, and how maximality is indexed to a
-regime, boundary, scale, temporal interval, and comparison class. Do not use
-subject count to select the physical boundary and then use that boundary to
-prove subject count. Identify where older absolute “no nested subjects”
-language must be narrowed to no subsidiary subjects within one UEF merely by
-virtue of internal organization.
-
-### Module 32 - Multiscale UEFs: nested worlds, regime-relative dominance, and subject mereology
+### Module 32 - Multiscale UEFs, dominance, and subject mereology
 
 #### Read
 
@@ -1074,162 +1043,95 @@ virtue of internal organization.
 
 #### Questions
 
-- What follows from rejecting a privileged experiential scale?
-- How can organism-level processes structure a cell's environmental constraint
-  field without owning the cell's intrinsic resolution?
-- Can the same physical occurrence participate in two independently
-  individuated UEF operations?
-- What distinguishes shared matter, environmental governance, reciprocal
-  coupling, constitutive overlap, and incompatible global ownership?
-- What does single-UEF dominance exclude once globality is indexed to a regime,
-  boundary, and continuity interval?
-- What follows if a process identical with one subject is physically or
-  mereologically part of the operation identical with another subject?
-- Why is the cell's environment not automatically its IER *situation*?
+- What is committed, rejected, possible, open, or intuitive in each source?
+- What evidence distinguishes substrate nesting, environmental governance,
+  reciprocal coupling, constitutive overlap, dominance conflict, and
+  misindividuation?
+- Can *same regime*, *same resolution*, and *jointly coherent roles* be defined
+  without choosing the desired subject count in advance?
+- What kind of parthood follows from strict token identity, and which bridge
+  premises would be needed for phenomenal containment or combination?
 
 #### Output
 
-Begin with the four scale combinations and test each independently:
+Test all four lower-scale/higher-scale candidate combinations without inferring
+a verdict from biological or functional labels. Construct a time-indexed cell
+and organism case and, for every candidate, record boundary, interval,
+variables, scale, maximality, participation, continuity, subject count,
+dominance test, evidence, rival classification, and confidence.
 
-| Lower-scale UEF | Higher-scale UEF | Initial status |
-| --- | --- | --- |
-| No | No | Physically possible in principle. |
-| No | Yes | Committed possibility. |
-| Yes | No | Committed possibility. |
-| Yes | Yes | Committed possibility, including physical nesting or overlap. |
+Build a cell-relative-world table classifying blood pressure, extracellular
+chemistry, temperature, organism-generated rhythms, membrane transport, and
+other couplings as background, environmental constraint, boundary mediation,
+or constitutive participation at one or more scales. Compare the classification
+with a human case without inferring either system's experiential status.
 
-Do not infer any row merely from the words *cell*, *organ*, *organism*,
-*artificial subsystem*, or *collective*. Construct a time-indexed case in which
-a cell has UEF-sustaining capacity, may instantiate a cell-level UEF, enters
-stronger organism-level integration, and may retain or lose its lower-level
-UEF as a higher-level candidate appears.
+Trace the substitution argument from an operation-subject identity and a
+process-parthood premise. State exactly what follows and what additional
+premises would be required for phenomenal parthood, content inheritance,
+fusion, shared access, or subject summing.
 
-Then apply the current IER relation taxonomy:
+End with two short papers:
 
-1. **Substrate nesting:** the cell's matter is part of the organism's matter.
-2. **Environmental governance:** organism-level processes shape the cell's
-   admissible futures without thereby entering or owning its UEF.
-3. **Reciprocal coupling:** the cell may perturb the organism, including
-   through cell-relative agency if the cell sustains a UEF.
-4. **Regime-relative overlap:** one occurrence may play jointly coherent roles
-   in two independently individuated UEF operations.
-5. **Dominance conflict:** two candidates require incompatible global ownership
-   of the same resolution over the same participating organization and
-   interval.
-6. **Misindividuation:** the apparent two regimes are one regime described at
-   several scales, or one candidate never satisfies the UEF conditions.
+1. “Why physical overlap is not yet incompatible global ownership.”
+2. “What kind of subject parthood, if any, follows from strict process
+   identity?”
 
-For each relation, state its account of boundary, maximality, participation,
-continuity, subject count, and evidential burden. Treat regime-relative
-dominance as the current IER commitment, then make the strongest case that it
-fails. In particular, test whether *same regime*, *same resolution*, and
-*jointly coherent roles* can be defined without choosing the desired subject
-count in advance.
-
-Build a cell-relative-world example in which blood pressure, extracellular
-chemistry, temperature, organism-generated rhythms, and membrane transport
-shape the cell's local possibility space. Classify each item as background
-condition, environmental constraint, boundary mediation, constitutive
-cell-level participation, constitutive organism-level participation, or more
-than one of these. Compare this with the role of gravity, atmospheric
-conditions, and bodily regulation for a human subject. Do not infer either UEF
-from the analogy.
-
-Finally, trace the strict-identity inference:
-
-```text
-UEF_A operation = subject_A
-UEF_A operation is physically part of the process sustaining candidate UEF_B
-therefore
-subject_A is physically part of the process sustaining candidate UEF_B
-```
-
-State what additional bridge premise would be required to conclude that
-`subject_A` is a phenomenal part of `subject_B`, that A's contents occur within
-B's experience, or that B is produced by summing A with other subjects. Explain
-why calling A's role “physical” cannot block substitution. If the physical
-analysis establishes process parthood, accept the typed consequence that
-`subject_A` is a physical or process part of `subject_B` considered as an
-operation, then show why phenomenal containment, content inheritance, fusion,
-and shared first-person access still do not follow.
-
-The module ends with two short papers:
-
-1. “Why physical overlap is not incompatible global ownership.”
-2. “What kind of subject parthood follows from strict process identity?”
-
-Both must state what remains epistemically inaccessible about the qualitative
-character of a lower-level subject. The first must also distinguish the cell's
-environmental constraint field from any internally organized IER situation.
+Each paper must present the strongest failure case and preserve epistemic
+limits on qualitative attribution.
 
 ### Module 33 - Ownership without an owner
 
 #### Read
 
-- Paper 01, section 5 and section 8.
+- Paper 01, sections 5 and 8.
 - Relevant IER articles on ownership, agency, authorship, action, and
   constraint dominance.
 - Revisit Modules 14 and 16.
 
 #### Output
 
-Place every use of *bear*, *bearing*, *own*, *ownership*, *subject*, and
-*authorship* in B0 - B5 or mark it as non-bearer vocabulary. Then make a
-translation table distinguishing:
+Classify every use of *bear*, *bearing*, *own*, *ownership*, *subject*, and
+*authorship* through B0 - B5 or mark it as non-bearer vocabulary. Distinguish
+non-externalizable bearing, phenomenal for-me-ness, possessive ownership,
+control, agency, causal contribution, deformation lineage, authorship, and
+moral responsibility.
 
-- non-externalizable bearing of intrinsic constraint;
-- phenomenal for-me-ness;
-- possessive ownership;
-- control;
-- agency;
-- causal contribution;
-- deformation lineage or authorship;
-- moral responsibility.
-
-Write the strongest objection that structural ownership merely redescribes the
-fact that an experience is for a subject. Answer it without importing an inner
-owner. Show how B0 - B3 could apply to a non-cognitive feeler lacking self-model,
-report, reflection, deliberation, or explicit mineness.
+Reconstruct the strongest objection that structural ownership redescribes
+for-me-ness and the strongest source-based reply that does not introduce an
+inner owner. Test both on a hypothetical non-cognitive feeler, without assuming
+that such a system exists or importing report, reflection, deliberation, or
+explicit mineness.
 
 ### Module 34 - Frontier geometry, collapse, and lawful choice
 
 #### Read
 
 - Paper 01, sections 6 - 8.
-- *IER-math*, *IER-dynamical-schema*, and the current articles on the
-  history - future boundary, possibility, collapse, welding, propagation, bias,
+- *IER-math*, *IER-dynamical-schema*, and current articles on the
+  history-future boundary, possibility, collapse, welding, propagation, bias,
   agency, cognition, soft bonding, and action.
 
 #### Output
 
-For reachability, global extendability, slack, saturation, binding, collapse,
-welding, propagation, and sedimentation, state:
+For reachability, global extendability, slack, saturation, binding, soft
+bonding, cognition, collapse, welding, propagation, action, and sedimentation,
+record source, ontological and mathematical status, domain, reversibility,
+modal force, explanatory role, and nearest false friend.
 
-- ontological status;
-- mathematical status;
-- whether it is universal or UEF-specific;
-- whether it is continuous, categorical, or both at different levels;
-- whether it is explanatory, operational, or metaphorical; and
-- the most likely false friend in adjacent literature.
-
-Then explain how a fully lawful collapse can be owned without being selected by
-an uncaused chooser.
-
-Add a frontier-boundary table distinguishing binding, soft bonding, curvature,
-cognition, collapse, and action. It must state which relations remain
-reversible, which remove reachable futures, which create history only through
-subsequent welding, and which have world-level consequence. Use the table to
-test three formulations: *thought is a private reversible collapse*; *a thinker
-is whatever can soft-bond*; and *a feeler cannot soft-bond*. Preserve the
-current distinction between soft bonding as a primary locus of many cognitive
-phenomena and cognition as reproduced, participating, frontier-relevant,
-reversible organization.
+Build a frontier table that tests which relations are reversible, which alter
+reachability, which create history only through another relation, and which
+have world-level consequence. Use the table to evaluate—not assume—the claims
+that thought is private reversible collapse, that soft-bonding capacity is
+sufficient for thinking, and that non-cognitive feelers cannot soft-bond.
+Explain how lawful resolution could be owned without adding an uncaused
+selector.
 
 ### Module 35 - Persistence, cessation, re-entry, and qualitative character
 
 #### Read
 
-- Paper 01, sections 7.3, 9 - 11.
+- Paper 01, sections 7.3 and 9 - 11.
 - Current IER articles on continuity, persistence, identity, sleep, dormancy,
   sedimentation, duration, qualia, representation, consciousness, cognition,
   and opacity.
@@ -1237,47 +1139,26 @@ reversible organization.
 
 #### Output
 
-Produce a decision table for at least 12 cases: dreamless sleep, dreaming,
-anesthesia, coma, seizure, gradual replacement, participant turnover,
-temporary duplication, fission, fusion, split brain, and artificial pause and
-restart. Separate active UEF continuity, substrate persistence, capacity
-continuity, organism/person continuity, experiential subject identity, and
-epistemic detectability.
+Produce a decision table for dreamless sleep, dreaming, anesthesia, coma,
+seizure, gradual replacement, participant turnover, duplication, fission,
+fusion, split brain, and artificial pause/restart. Separate UEF operation,
+substrate, capacity, organism/person, experiential-subject identity, and
+epistemic detectability; give the governing source and rival verdict for each.
 
-Add a three-axis matrix that varies independently:
+Build an independent-axis matrix for UEF presence, cognitive organization,
+intelligence, access, behavioral flexibility, and reportability. Use it to test
+a possible non-cognitive feeler, a human-like thinker, and a sophisticated
+non-experiential controller without treating human richness as a criterion.
 
-- UEF presence;
-- cognition as reproduced structure participating in reversible frontier
-  organization, including the capacity to sustain that mode; and
-- intelligence, access, behavioral flexibility, and reportability.
+Write two memos:
 
-Use it to distinguish a possible non-cognitive feeler, a human-like thinker,
-and a sophisticated non-experiential controller. Defend or reject each
-combination without using human cognitive richness as the measure of whether
-there is something it is like.
+1. what Paper 01 currently says and leaves open about qualitative
+   correspondence; and
+2. what could and could not be inferred about a hypothetical non-cognitive UEF.
 
-Then write two memos:
-
-1. “What Paper 01 currently says - and does not yet say - about why this
-   qualitative organization is red, painful, or temporally extended.”
-2. “What could it be like to be a non-cognitive UEF?”
-
-The second memo must distinguish three claims: cognition is not constitutive of
-experience; non-cognitive UEFs are structurally possible; and such UEFs are
-actually widespread. The first is a committed non-necessity claim; the second
-is a committed possibility; and the third is an author's working intuition
-unless independent argument or evidence supports it. Epistemic opacity forbids
-translating cellular organization directly into human categories such as pain,
-anxiety, hunger, thought, or desire.
-
-The memo must also distinguish four further claims: cognition is reversible
-frontier organization of reproduced structure; soft bonding is a primary locus
-of many cognitive phenomena; soft-bonding capacity alone is sufficient for
-thinking; and every non-cognitive feeler lacks every form of soft bonding. The
-first two state the current explanatory account, the third is rejected as an
-overcompression, and the fourth remains open. Define *private* as lack of
-first-personal transfer across UEFs, not causal isolation or immunity from
-third-person physical description.
+Every proposition in the memos must cite its source and status. Keep
+non-necessity, structural possibility, actuality, distribution, and authorial
+intuition distinct; preserve the prohibition on anthropomorphic translation.
 
 ### Paper 01 gate
 
@@ -1477,47 +1358,48 @@ timing as discovery evidence only, not as evidence of influence or a school.
 
 #### Output
 
-Create a master claim ledger. At minimum, include these claims:
+Create a master claim ledger from the current versions of Papers 00, 01, 03,
+and 04 and their governing upstream sources. Do not begin with a curriculum-
+supplied answer table. Each row must record:
 
-| Claim | Papers | Relation | Modal force | Evidence | Rival | Status |
-| --- | --- | --- | --- | --- | --- | --- |
-| Token UEF operation over a continuity interval is identical with total experience-as-process and with the experiential subject. | 00, 01, 04 | Identity |  |  | Realization, constitution, emergence, system-subject identity |  |
-| A qualifying regime is a concrete event or process. | 00, 01 | Category |  |  | Property/pattern views |  |
-| A local experiential state, episode, or content occurs within or as an organization of the continuing process; it is not automatically identical with the subject. | 01 | Parthood, phase, or organization |  |  | State-subject identity, bundle views |  |
-| Physical system, embodied substrate, UEF-sustaining capacity, regime instantiation, and diachronic sustaining are distinct unless an argument identifies them. | 00, 01 | Category and dependence |  |  | Unitary system view |  |
-| Ownership is non-externalizable bearing, not an owner. | 01 | Analysis |  |  | Primitive for-me-ness |  |
-| Genuine UEF cessation ends that experiential subject. | 01 | Persistence rule |  |  | Organism/person continuity |  |
-| No biological, neural, computational, or cognitive scale is privileged in advance. | 00, 01 | Scale neutrality |  |  | Biological or neural privilege |  |
-| Lower-scale and higher-scale UEFs may coexist through physical nesting or overlap when their regime-relative roles are jointly coherent. | 01 | Modal permission and structural commitment |  |  | Absolute exclusion, unrestricted arbitrary nesting |  |
-| Single-UEF dominance excludes incompatible global ownership of the same resolution, not shared matter, causal coupling, or cross-scale participation. | 01 | Exclusion and regime indexing |  |  | Absolute process exclusion, unrestricted double ownership |  |
-| Physical participation across scales does not by itself establish phenomenal aggregation, content transfer, or standing transfer. | 01, 03 | Non-entailment |  |  | Subject-summing views |  |
-| Experience does not entail cognition, intelligence, access, or reportability, and none is sufficient for experience. | 00, 01 | Non-entailment |  |  | Cognitivist or functional criteria |  |
-| Cognition is reproduced, participating, frontier-relevant organization that remains reversible before collapse; soft bonding is a primary coupling locus but is not by itself sufficient for thought. | 01 | Structural analysis and non-entailment |  |  | Thought as private collapse; soft bonding alone as thinker criterion |  |
-| Epistemic opacity limits first-personal inference without making physical investigation impossible. | 01, 03 | Epistemic |  |  | Strong skepticism, behaviorism, direct phenomenal inference |  |
-| Architectural selection creates a distinct responsibility. | 03 | Normative bridge |  |  | Existing ethical categories suffice |  |
-| Recent structural theories form at least a provisional comparison set; any stronger cluster or school label requires social and textual evidence. | 04 | Historiographic |  |  | Mere topical similarity |  |
+| Field | Required entry |
+| --- | --- |
+| Exact claim | Quotation or faithful proposition with location |
+| Relata and relation | Typed objects and identity, constitution, realization, causation, parthood, non-entailment, or other relation |
+| Papers | Every paper that asserts, presupposes, applies, or compares it |
+| Upstream source | Canonical or trusted source and exact version |
+| Modal force | Necessary, sufficient, contingent, possible, rejected, open, intuitive, or evidential |
+| Evidence | Argument, definition, formal result, empirical support, illustration, or none supplied |
+| Strongest rival | Rival relation or explanation in its own vocabulary |
+| Authority and status | Canonical, compression, paper claim, working proposal, or unresolved issue |
 
-For every apparent contradiction, classify it as terminological, scope-based,
+At minimum, audit the topics of identity relata, regime category, local
+experiential organization, substrate/capacity/operation distinctions,
+ownership, cessation, scale neutrality, overlap, dominance, parthood,
+cognition, opacity, architectural responsibility, and Paper 04's comparison-
+set label. The topic list is a coverage requirement, not a statement of the
+correct answer.
+
+Classify every apparent contradiction as terminological, scope-based,
 substantive, version-based, or unresolved. Do not repair it inside the table.
+Then perform these directional audits:
 
-Then perform six directional audits:
+1. Paper 00 -> Paper 01: does the positive theory exceed the entry paper's
+   evidential caution?
+2. Paper 01 -> Paper 03: does the ethical argument remain conditionally
+   intelligible without accepting IER, including at several candidate scales?
+3. Paper 01 -> Paper 04: is IER described with the same categories and caution
+   applied to its rivals?
+4. Paper 03 -> Papers 00/01: are ethical stakes ever used as evidence for the
+   metaphysical theory?
+5. Specification -> multiscale sources: are dominance, overlap, regime,
+   boundary, interval, and resolution independently specified?
+6. Précis and Paper 01 -> ontology: do older system, bearer, constitution, or
+   sustaining formulations conflict with the current typed claims?
 
-1. 00 -> 01: Does Paper 01 claim more than Paper 00’s evidential caution
-   permits, especially about boundary and scale selection?
-2. 01 -> 03: Does Paper 03 depend on specifically IER subjecthood, despite
-   claiming conditional independence? Does it treat possible subjects at each
-   scale separately?
-3. 01 -> 04: Does Paper 04 describe IER with the same caution and categories
-   used for its rivals?
-4. 03 -> 00/01: Do ethical stakes ever get used as evidence that the
-   metaphysical theory is true?
-5. Specification -> multiscale article: Has “single-UEF dominance” been
-   interpreted consistently as excluding incompatible ownership of the same
-   resolution rather than all physical overlap? Are *physical system*, *same
-   regime*, and *same resolution* independently specified?
-6. Précis and Paper 01 -> current ontology: Where do older formulations such
-   as “constitutes one subject,” “condition of sustaining a UEF,” or “the
-   system is the bearer” conflict with operation-process-subject identity?
+Move proposed repairs to the issue register with their affected papers and
+upstream authority. The curriculum records the audit method and deliverable,
+not the resulting synthesis.
 
 ### Module 41 - Capstone portfolio and external philosophical review
 
@@ -1587,293 +1469,56 @@ Score each phase-gate output from 0 - 3 on every dimension.
 A phase is complete when no dimension scores 0 and the average is at least 2.
 Publication readiness requires an average of at least 2.5 and no score below 2.
 
-## Current IER working disposition - to be tested, not assumed
+## Versioned synchronization notice
 
-This section is the curriculum's trusted-core alignment surface. It restates
-the current synthesis for study and adversarial testing; it does not outrank
-canon or the authority rules, and its compressions must preserve the status and
-modal force of the multiscale commitment ledger.
+This curriculum is synchronized for the IER v10.11.4 teaching-materials
+review. It does not restate the current theory synthesis or decide conflicts
+among upstream sources. Before beginning Part II, record the exact version and
+date of each source below in the source-audit table.
 
-The earlier A/B fork was mis-typed. It treated the live alternatives as either
-identity of the experiential subject with the concrete physical system or a
-constitution relation between UEF operation and a distinct experiential
-subject. The current IER working disposition is different.
+| Reading | Role in the research programme | Authority or status |
+| --- | --- | --- |
+| `IER/IER-specification.md` | Identity conditions, exclusions, epistemic limits, and ethical constraints | Highest specification-level authority within the canonical corpus |
+| `IER/IER-canon.md` | Global interpretive constraints and authority boundary | Canonical governance constraint |
+| `_work/authority/IER-theory-commitments-multiscale.md` | Current multiscale status vocabulary and revision guidance | Trusted synchronization ledger; not independently canonical |
+| `IER/IER-precis.md` | Standalone public overview | Canon-constrained compression; no independent authority |
+| Papers 00, 01, 03, and 04 under `pub/articles/` | Objects of reconstruction, criticism, comparison, and revision | Non-canonical scholarly publications |
+| The seven running research instruments in this curriculum | Evidence, questions, candidate changes, and audit history | Working records only |
 
-### Typed operation-process identity
+Use the running claim ledger to record the current answer being tested, its
+source, modal force, evidence, strongest rival, and status. Use the issue
+register for candidate changes. If a curriculum prompt and an upstream source
+appear to conflict, record the conflict and its authority class; do not repair
+the theory inside this file.
 
-The current proposal is:
+### Open-question checklist
 
-> A physical system instantiates the relevant UEF regime and its embodied
-> substrate sustains a token UEF operation through a continuity interval. That
-> operation is identical with the total experience-as-process and with the
-> experiential subject. The subject is neither an additional bearer behind the
-> operation nor simply the persisting substrate considered independently of
-> its current operation.
+The programme must continue to test, rather than answer in advance:
 
-The principal relata and relations should be kept typed:
+- whether UEF boundaries and continuity intervals can be individuated without
+  circular appeal to subject count;
+- how substrate, capacity, regime, token operation, total experience, local
+  experiential organization, subject, organism, and person are related;
+- when nested or overlapping candidates are distinct regimes, compatible
+  participation, incompatible ownership, or duplicate descriptions;
+- what strict process identity entails for physical, process, subject, and
+  phenomenal parthood;
+- how persistence, cessation, re-entry, fission, fusion, and gaps affect
+  numerical experiential identity;
+- how qualitative organization can be investigated without anthropomorphic
+  translation or a retreat from physical inquiry;
+- what distinguishes non-cognitive experience, cognition, soft bonding,
+  intelligence, access, and reportability;
+- how multiscale moral conflicts should be evaluated without equating standing
+  with cognition or making preservation absolute;
+- whether architectural authorship adds a distinct normative category;
+- what comparison-set label Paper 04's primary evidence warrants; and
+- what positive reason supports identity over correlation, realization,
+  constitution, emergence, criterion, or analogy.
 
-```text
-candidate physical system / embodied substrate
-        |
-        | has as a disposition
-        v
-UEF-sustaining capacity
-
-candidate physical system
-        |
-        | instantiates when the conditions obtain
-        v
-UEF regime
-        |
-        | operates through a non-zero continuity interval
-        v
-token UEF operation
-        =
-total experience-as-continuing-process
-        =
-experiential subject
-
-experiential states / episodes / contents
-        occur within, or are organizations or phases of,
-the continuing process
-```
-
-The diagram records the working proposal; it does not settle every category.
-In particular, *regime* may name an organization instantiated by a system,
-whereas *operation* names the concrete token occurrence through an interval.
-The curriculum must decide whether that distinction is viable.
-
-Three relations previously compressed into *sustains/instantiates* must also be
-separated:
-
-- a system **instantiates** a regime when its organization satisfies the
-  relevant conditions;
-- a substrate **sustains** a token operation through time; and
-- a regime may be dynamically **self-maintaining** through its own included
-  organization.
-
-They may turn out to be tightly related, but the slash cannot decide this.
-Likewise, UEF-sustaining capacity is a disposition that may persist when no UEF
-operation exists. Substrate continuity, capacity continuity, organism
-continuity, person continuity, and numerical experiential-subject identity are
-therefore distinct. If genuine UEF cessation occurs, a later UEF is a
-numerically distinct experiential subject even when the other continuities are
-retained.
-
-### Multiscale UEFs and regime-relative dominance
-
-IER rejects any a priori restriction of UEFs to one biological, neurological,
-artificial, or descriptive scale. Candidate organizations at each scale must be
-tested by the same physical conditions. It now also rejects the inference from
-physical overlap to a dominance violation.
-
-| Proposition | Current status |
-| --- | --- |
-| UEFs are restricted to one biological scale. | Rejected. |
-| Cells or organisms are experiential because of their biological category. | Rejected. |
-| A cell-level and organism-level UEF may both exist. | Committed possibility; actuality remains open. |
-| Distinct UEFs may be physically nested or overlapping. | Committed possibility. |
-| A higher UEF is formed by adding lower experiences or subjects. | Rejected as an explanation. |
-| Each independently instantiated UEF operation is one experiential subject. | Current working identity claim. |
-| One physical occurrence may play jointly coherent roles in two scale-relative UEF operations. | Committed possibility. |
-| Single-UEF dominance is indexed to an independently individuated regime, boundary, and continuity interval. | Current working commitment. |
-| Two UEFs may incompatibly own the same resolution over the same organization and interval. | Rejected. |
-
-The controlling relation taxonomy is:
-
-| Relation | Consequence |
-| --- | --- |
-| The lower substrate is contained in the higher substrate. | Ordinary physical nesting. |
-| Higher-scale processes govern lower-scale conditions. | An environmental constraint field shapes lower-scale admissible futures. |
-| The lower process perturbs the higher process. | Reciprocal coupling and possible lower-scale agency. |
-| One occurrence participates in both regime-relative operations. | Physical or process overlap. |
-| Two candidates claim incompatible global ownership of the same resolution. | A dominance conflict; at least one attribution fails or is misindividuated. |
-
-The organism may therefore structure the cell's local physical world without
-owning the cell's intrinsic resolution. Blood pressure, extracellular
-chemistry, temperature, tissue mechanics, rhythms, and membrane-mediated flows
-may constrain the cell's possible continuation in a role analogous to the way
-gravity, bodily regulation, atmospheric conditions, and physical law constrain
-a human subject. Some boundary processes may also participate constitutively in
-one or both regimes. The correct classification must be established rather
-than inferred from anatomy.
-
-The cell's externally shaped world is not automatically its IER *situation*.
-Situation is integrated behaviour-layer organization within a UEF prior to
-collapse. The relevant external terms are *environmental constraint field*,
-*external coupling*, *local physical world*, or *cell-relative world*.
-
-Strict identity prevents IER from saying that a non-experiential duplicate of
-the lower UEF operation participates upward. If:
-
-```text
-UEF_A operation = subject_A
-```
-
-and the operation is a physical or process part of `UEF_B`, substitution
-permits the typed claim that `subject_A` is a physical or process part of
-`subject_B` considered as an operation. IER now treats that possible parthood
-as non-contradictory. It does not follow that A's contents occur in B's
-experience, that B gains access to A's phenomenology, that the subjects fuse,
-or that B's unity is produced by summing lower subjects.
-
-Single-UEF dominance is therefore interpreted as follows:
-
-> For one independently individuated system boundary and continuity interval,
-> intrinsic constraint cannot be globally owned by two incompatible UEF
-> operations over the same resolution.
-
-Shared matter, causal influence, environmental governance, or cross-scale
-participation does not satisfy that conflict condition by itself. The remaining
-research task is to individuate *same regime*, *same resolution*, and
-*constitutive participation* without building the desired subject count into
-the analysis.
-
-### Feelers, thinkers, and epistemic opacity
-
-IER separates three dimensions:
-
-```text
-UEF presence            experience / subjecthood
-cognitive organization  a possible structural mode within a UEF
-intelligence and access  functional capacities that may occur with or without a UEF
-```
-
-Experience does not require thought, concepts, inference, memory,
-self-representation, language, reportability, intelligence, or access
-availability. A UEF may therefore be a **feeler** without being a **thinker**.
-Conversely, sophisticated cognition-like control or informational generativity
-does not establish experience.
-
-The current cognition articles supply a more exact bridge:
-
-```text
-occurrent cognition
-        =
-reproduced structure participating in frontier organization
-while admissible continuation remains reversible
-```
-
-Reproduction, participation, frontier relevance, and reversible organization
-are jointly required. Sustained cognition is thought. A *thinker* in the
-dispositional sense is therefore a UEF-capable physical organization able to
-enter and sustain that mode, not a second subject or a permanent cognitive
-state inside the UEF.
-
-Soft bonding is a primary structural locus of occurrent cognitive
-organization. It reversibly couples participation around a structure that has
-already become binding at the
-frontier, allowing thought, planning, interpretation, or prospection to matter
-without yet removing reachable futures. This captures the important insight
-that thought is consequential without being action.
-
-It does not license either stronger claim:
-
-```text
-soft-bonding capacity alone = thinking
-non-cognitive feeler = incapable of every soft bond
-```
-
-The first omits reproduction, participation, and frontier relevance. The
-second has not been established and may confuse a general pre-collapse
-coupling relation with its specifically cognitive use. The minimum relation
-between soft bonding and a non-cognitive UEF remains an open research question.
-
-Reversibility is the controlling cognition/action contrast. Cognition reshapes
-the live frontier without foreclosure. Collapse irreversibly removes
-continuations and ends cognition at that resolution; action is owned resolution
-with world-level consequence. Thought is therefore not a *private collapse*.
-It is structurally private only in the sense that another UEF does not receive
-it as first-personal content. It may remain causally efficacious and physically
-describable from the third person.
-
-This does not make a possible cell-level UEF a tiny person. It may lack visual
-objects, an inner voice, beliefs, plans, memories, a self-concept, and every
-familiar form of human thought. Its qualitative organization would be whatever
-differences its own intrinsic-constraint organization is identical with.
-
-Epistemic opacity prevents an external observer from knowing what that
-organization is like merely by assigning human phenomenal names to it. Terms
-such as *tension*, *perturbation*, *continuity*, *resolution*, and *boundary*
-may preserve structural relations; they do not establish cellular pain,
-anxiety, hunger, desire, or any other familiar content.
-
-The author's working intuition that non-cognitive feelers may be widespread is
-compatible with IER, but it is not presently a theorem, diagnostic result, or
-distributional conclusion of the theory.
-
-### Ethical consequence without an absolute preservation rule
-
-If simple non-cognitive UEFs are possible, subject termination may be much more common than human-centered ethics normally notices. Any such subject has categorical standing if it exists, and uncertainty about its existence does not make it morally irrelevant. But standing is inclusion within moral concern, not an absolute command to preserve every subject or candidate subject.
-
-Terminating a UEF is not identical with causing suffering. Negative valence,
-anticipation, frustrated interests, lost future goods, and termination must be
-assessed as distinct relations even when several apply in one case.
-
-Precaution creates a defeasible burden of justification for irreversible interference. It does not decide whether an action is permissible. Metabolism, hygiene, eating, medicine, and organismic survival may therefore involve genuine multiscale conflicts. An action may be justified by necessity, proportionality, the absence of comparably effective less-destructive alternatives, or conflict with the continued operation of other subjects. Such justification does not erase the possible lower-level harm; it explains why causing that harm need not be culpable.
-
-Routine practices may possess a standing class-level justification rather than requiring a new moral inquiry at every occurrence. Accordingly, IER does not imply that ordinary hygiene is culpably wrong merely because it may terminate possible cellular UEFs. It also does not imply that those possible terminations are morally unreal.
-
-The curriculum must distinguish:
-
-```text
-ending an experiential process;
-causing unpleasant experience;
-frustrating an interest or anticipated future;
-removing future experiential goods;
-harming one subject while sustaining another;
-moral standing from all-things-considered priority;
-causal responsibility from moral culpability;
-moral remainder or regret from guilt;
-precautionary reasons from absolute prohibitions;
-and acting under uncertainty about whether any lower-level UEF exists.
-```
-
-IER’s categorical standing claim does not by itself supply an absolute preservation rule, a ranking of subjects, or a complete method for resolving conflicts. Nor may cognition be smuggled back in as the measure of whether standing exists. Multiscale ethics therefore remains downstream of individuation and requires additional arguments about harm, necessity, proportionality, alternatives, precaution, conflict, and action guidance.
-
-### Remaining burdens
-
-The correction removes one unnecessary metaphysical problem but leaves the
-important ones intact:
-
-- non-circular individuation of the UEF operation;
-- a clean distinction among physical system, embodied substrate, capacity,
-  regime, token operation, experiential process, local experiential state,
-  subject, organism, and person;
-- a precise account of instantiation, diachronic sustaining, and dynamical
-  self-maintenance;
-- the exact relation between system boundary and regime boundary;
-- persistence conditions for an operation through continuous change;
-- the distinction among UEF continuity, substrate persistence, capacity
-  continuity, organism/person continuity, and numerical subject identity;
-- whether several candidate UEFs at different scales are distinct regimes or
-  several descriptions of one regime;
-- how to distinguish substrate nesting, environmental governance, reciprocal
-  coupling, constitutive overlap, and incompatible global ownership;
-- whether *the same resolution* can be physically individuated precisely enough
-  for the regime-relative dominance principle to exclude conflict without
-  excluding ordinary overlap;
-- when one occurrence plays jointly coherent roles in two UEF operations and
-  when one candidate is misindividuated or ceases;
-- what follows for process parthood, subject parthood, and phenomenal
-  containment under strict token identity and substitutivity;
-- how non-cognitive qualitative organization can be discussed without illicit
-  anthropomorphic translation or a retreat from physical investigation;
-- whether a non-cognitive UEF can soft-bond without reproduced cognitive
-  structure, and what minimum organization makes a UEF thinking-capable;
-- how to state the reversible cognition / irreversible collapse-and-action
-  boundary without turning cognition and behavior into separate systems;
-- how conflicts among possible subjects at several scales should be evaluated
-  without treating cognition as standing or standing as an absolute
-  preservation rule; and
-- the positive argument for identifying experience and subject with this
-  physical operation rather than treating the operation as a correlate,
-  realization base, constituter, emergent basis, or structural analogue.
-
-A distinct simple bearer behind the UEF remains a rival view to study. The
-physical substrate remains indispensable, but as the physical sustainer and
-historical carrier of the conditions for UEF operation, not automatically as
-the experiential subject.
+These questions are version-stable research prompts. Their current answers and
+burdens belong in the cited upstream sources, paper plans, claim ledger, and
+issue register.
 
 ## Essential route if 41 modules are too much
 
@@ -1929,74 +1574,3 @@ One person is unlikely to cover all four papers. A realistic structure is:
 Approach the first interlocutor after the Phase C bearer paper and Modules
 30 - 33, not after the entire programme. By then the request can be precise and
 the relevant materials short enough to read.
-
-## Initial hypotheses to test rather than assume
-
-1. Paper 00 identifies a real gap between adopting physicalism and identifying
-   the physical event, but the novelty and scope of that problem must be tested
-   against grain, mechanism, realization, and NCC literatures. The
-   identification problem and the family of bearer questions overlap without
-   being synonyms.
-2. *The bearer problem* is an IER organizing label, not the established name of
-   one agreed philosophical problem. IER needs subjectivity at least in the B0
-   sense and must answer B3 without importing a distinct bearer behind
-   experience.
-3. The token UEF operation over its continuity interval is proposed to be
-   identical with total experience-as-process and with the experiential
-   subject. A local pain, thought, perceptual episode, or content is not thereby
-   numerically identical with the subject.
-4. Physical system, embodied substrate, UEF-sustaining capacity, UEF regime,
-   token operation, organism, and person require typed relations. Instantiation,
-   diachronic sustaining, and dynamical self-maintenance must not be compressed
-   into one slash relation.
-5. Substrate persistence and capacity continuity can outlast a UEF without
-   preserving numerical experiential-subject identity. Genuine cessation
-   followed by later UEF instantiation yields a numerically distinct subject.
-6. No experiential scale is privileged in advance. Cell-level, organ-level,
-   organism-level, artificial, distributed, and other candidates must be tested
-   independently by the same physical conditions.
-7. Lower-scale and higher-scale UEFs may both exist in principle, including
-   through physical nesting or overlap. Globality and maximality are indexed to
-   the independently individuated regime and continuity interval. Actual UEF
-   attribution remains open in each case.
-8. Single-UEF dominance excludes incompatible global ownership of the same
-   resolution; it does not exclude shared matter, environmental governance,
-   causal coupling, or jointly coherent cross-scale participation. If an
-   occurrence identical with `subject_A` is physically or mereologically part
-   of `UEF_B`, strict substitution applies. Typed process parthood may follow;
-   phenomenal containment, content transfer, fusion, and subject summing still
-   require additional bridge premises.
-9. Cognition, intelligence, access, and reportability are neither necessary nor
-   sufficient for experience. Non-cognitive feelers are therefore a committed
-   possibility, but the claim that they are widespread remains a working
-   intuition rather than an IER conclusion. Cognition currently means
-   reproduced structure participating in reversible frontier organization;
-   soft bonding is a primary locus of many cognitive phenomena but not a
-   sufficient thinker criterion. Whether all non-cognitive feelers lack every
-   form of soft bonding remains open.
-10. Epistemic opacity blocks first-personal access and anthropomorphic
-    translation. It does not establish that non-reporting systems lack
-    experience or that physical investigation is futile.
-11. Non-factorizability, recurrence, self-maintenance, persistence, and
-    structural privacy may all be real and relevant without any one of them
-    being sufficient for experience.
-12. Paper 03’s strongest claim is not that created minds matter; that is already
-    established territory. Its proposed contribution is that deliberate
-    selection of phenomenology-structuring organization is a distinct upstream
-    object of moral evaluation. Possible multiscale subjects complicate action
-    guidance without making standing depend on cognition or preservation
-    absolute.
-13. Paper 04 can establish a shared problem-space or provisional comparison set
-    more easily than a proto-school. Social and textual evidence must supplement
-    conceptual similarity.
-14. Argument generation, explicit inference tracing, counterexamples, and
-    edge-case testing can expand the space in which a theory is examined. They
-    require no special methodological label and do not supply source authority,
-    premise truth, novelty, or responsibility.
-15. IER’s hardest burden remains positive: not merely showing that its structure
-    is coherent or resembles experience, but giving reason to accept identity
-    over correlation, realization, constitution, emergence, criterion, or
-    analogy.
-
-Every hypothesis should be revisable by argument. None should be protected by
-its usefulness to the project.

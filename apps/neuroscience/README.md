@@ -1,5 +1,11 @@
 # Neuroscience
 
+## Status
+
+Status: experimental
+Authority: non-canonical
+See: `governance/IER-status-zones.md`
+
 ## Empirical Case Studies for IER
 
 **Status:** exploratory application  
@@ -37,6 +43,12 @@ Its central distinction is between:
 
 The article uses deep-brain intervention, hydranencephaly, split-brain research, hemispherotomy, and related work to clarify what neuroscience would have to establish before identifying a physical bearer of experience.
 
+### Developmental Memory and Sedimentation
+
+[The Past Is in the Present](IER-past-in-the-present.md) applies IER's concept of sedimentation to Faravelli et al.'s study of long-term human cortical organoids.
+
+It distinguishes developmental history retained as present physical organization from psychological memory, and examines how that history constrains—but does not determine—future developmental continuations.
+
 ## Files
 
 ```text
@@ -44,7 +56,8 @@ apps/neuroscience/
 ├── README.md
 ├── neuroscience-primer.md
 ├── IER-four-durations-not-one.md
-└── IER-deep-brain-localization.md
+├── IER-deep-brain-localization.md
+└── IER-past-in-the-present.md
 ```
 
 ## Relationship to IER
