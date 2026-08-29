@@ -39,8 +39,7 @@ This is a canonical compression and a member of the bounded trusted theory
 core, with no independent definitional authority. Core membership gives it
 high synchronization and review priority. The Specification, canon
 constraints, manifest, and canonical concept homes govern any conflict. The
-public teaching artifact is available from
-[PhilPeople](https://philpeople.org/teaching_materials/13321/download).
+repository source remains authoritative for this text.
 
 IER does not offer a behavioral test, neural correlate, computational
 signature, engineering recipe, or general procedure for attributing experience
@@ -305,9 +304,9 @@ does not decide experiential status.
 ## Illustrations and follow-up reading
 
 The teaching examples illustrate selected relations and do not supply further
-definitions. The [Stapled Net collection](https://philpeople.org/teaching_materials/13465/download)
+definitions. The [Stapled Net collection](../examples/collections/stapled-net/README.md)
 contrasts reversible constraint, irreversible fixation, and mechanical
-reachability. [The Billowed Sail](https://philpeople.org/teaching_materials/13561/download)
+reachability. [The Billowed Sail](../examples/analogies/billowed-sail.md)
 illustrates ongoing driven operation without continual irreversible rewriting.
 
 Optional publication-level follow-up:

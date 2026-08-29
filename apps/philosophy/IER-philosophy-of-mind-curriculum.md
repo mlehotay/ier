@@ -14,7 +14,7 @@
 **Date:** 25 August 2026\
 **Trusted-core synchronization:** 25 August 2026\
 **Synchronization baseline:** IER v10.11.4 teaching-materials review; current synthesis remains upstream\
-**Public artifact:** [PhilPeople teaching material](https://philpeople.org/teaching_materials/13301/download)
+**Public artifact:** PhilPeople teaching material
 
 ## Status, scope, and trusted-core role
 
