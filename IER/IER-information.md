@@ -154,7 +154,7 @@ Let $A_{org}(s)$ denote the subset of those successors that remain reachable giv
 
 Information corresponds to the excluded region:
 
-$A(s) \setminus A_{org}(s)$
+$A(s) \smallsetminus A_{org}(s)$
 
 This expression is descriptive only.
 

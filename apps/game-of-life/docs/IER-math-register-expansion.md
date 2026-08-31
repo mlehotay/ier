@@ -132,8 +132,7 @@ Define projection:
 
 $$
 \pi_{\Sigma}(A_t)
-=================
-
+=
 { s'|_{\Sigma} \mid s' \in A_t }
 $$
 
@@ -182,9 +181,8 @@ Typical form:
 
 $$
 A_t^{\mathrm{bd}}(\Sigma)
-=========================
-
-{ \hat{s}|*{\Sigma} \mid P(\Sigma,\hat{s}|*{\Sigma}) }
+=
+{ \hat{s}|_{\Sigma} \mid P(\Sigma,\hat{s}|_{\Sigma}) }
 $$
 
 where (P) is defined locally in the example.
@@ -322,8 +320,7 @@ Define recombination:
 
 $$
 \mathrm{Recombine}(A,B)
-=======================
-
+=
 { a \cup b \mid a \in X,\ b \in Y }
 $$
 
@@ -334,8 +331,7 @@ for sets (X,Y) of restricted configurations.
 
 $$
 \pi_{\Sigma}(A_t)
-=================
-
+=
 { a \cup b \mid a \in \pi_A(A_t),\ b \in \pi_B(A_t) }
 $$
 
