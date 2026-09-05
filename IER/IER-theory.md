@@ -181,7 +181,7 @@ Crucially:
 Intensity, urgency, coherence, salience, or meaning do not track truth.
 
 This is not an epistemic limitation claim.
-It is a structural consequence of experiential identity (specification [principle 10](IER-specification.md#principle-10-epistemic-non-authority)).
+It is a structural consequence of experiential identity ([Specification Principle 10](IER-specification.md)).
 
 ## Coordination Without Experiential Collectivization
 

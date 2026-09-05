@@ -192,7 +192,7 @@ However, the existence of experience does not entail:
 - moral ranking by probability
 - permission to downgrade others under uncertainty
 
-Ethical consequence under uncertainty is governed by the *IER ethics*, including [Principle 13](IER-specification.md#principle-13-precaution-under-experiential-uncertainty).
+Ethical consequence under uncertainty is governed by the *IER ethics*, including [Specification Principle 13](IER-specification.md).
 
 This document restricts illegitimate inference. It does not adjudicate moral decision-making.
 
