@@ -2,11 +2,19 @@
 
 Philosophy of Mind for Finishing IER
 
+## Status
+
+Status: support
+Authority: non-canonical
+See: `../../governance/IER-status-zones.md`
+
 This application develops the philosophical vocabulary and research practice needed to place Informational Experiential Realism within public philosophy-of-mind debates. It is exploratory support material and does not define the canonical IER ontology.
 
 ## Contents
 
 - [IER Philosophy of Mind Curriculum](./IER-philosophy-of-mind-curriculum.md)
+- [Process-Subject Research Brief](./process-subject-research-brief.md)
+- [Process-Subject Research Plan](./process-subject-research-plan.md)
 
 ## Current Research Interface
 
