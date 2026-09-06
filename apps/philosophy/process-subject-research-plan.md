@@ -1,183 +1,122 @@
-# IER / Public Scholarship Interface
+# Process-Subject Literature Research
 
-*A self-directed plan for locating the process-subject literature*
+*Execution plan for one GPT-5.6-Sol Work session*
 
 ## Status
 
-Status: draft
-Authority: non-canonical
-Publication: public research plan
+Status: ready for execution  
+Authority: non-canonical  
+Publication: public research plan  
 Date: 6 September 2026
 
-**Primary research question:** Has the subject of experience been identified with a temporally continuing physical process?
-**Starting problem text:** Matthew Owen, "The Neglected Conscious Subject in Consciousness Science" (2024)
-**Possible application text:** Matthew Owen, Darren Hight, and Anthony G. Hudetz, "Human Brain Organoids and the Mereological Fallacy" (2025)
-**IER targets held in reserve:** `IER-precis.md`, Paper 00, and Paper 01
-This is a planning document only; it does not revise IER commitments.
+This plan directs a single extended GPT-5.6-Sol Work session. The session will
+research the philosophical literature, preserve a reproducible evidence trail,
+and produce a bounded finding. It will not revise canonical IER documents.
 
-## 1. Purpose
+## 1. Assignment
 
-The immediate objective is to locate the established scholarly conversation in
-which IER's process-subject proposal belongs.
+Determine whether the subject of experience has been identified with a
+particular physical process continuing through time.
 
-IER extends classical mind-brain identity theory in a specific direction. Place
-and Smart identify conscious experiences with physical brain processes. IER asks
-whether the identity claim can also be extended to the subject of experience:
+The target thesis is:
 
-> The subject is not an organism, brain, self, or other entity that has
-> experiences. The subject is numerically identical with a particular unified
-> physical process continuing through time.
+> The subject of experience is numerically identical with one temporally
+> continuing physical process. It is not an organism, brain, self, substance,
+> or other entity that merely has, contains, constitutes, realizes, supports,
+> generates, or represents experience.
 
-The first task is not to defend this claim or translate all of IER into existing
-philosophy. It is to determine:
+The session must establish one of four bounded findings:
 
-1. whether the precise claim has already been proposed;
-2. what terminology is used for it or its nearest alternatives;
-3. which authors and debates bear directly on it;
-4. how it differs from nearby but weaker claims; and
-5. what argumentative burdens an adequate process-subject theory must meet.
+1. **Explicit precedent:** a source clearly asserts or rejects the target
+   identity.
+2. **Near precedent:** a source identifies the subject with a process, stream,
+   whole, or pattern but does not assert strict physical identity.
+3. **Distributed antecedents:** separate literatures supply the elements of the
+   thesis without combining them.
+4. **No located precedent:** the documented search finds no explicit or near
+   precedent. This is not a universal novelty claim.
 
-Owen (2024) is useful because it states the neglected-subject problem clearly.
-Owen, Hight, and Hudetz (2025) is useful because it shows how different
-ontologies of the conscious subject affect the interpretation of consciousness
-science. Neither paper defines the research programme. Owen's own hylomorphic
-answer is one possible contrast case, not a framework into which IER must be
-translated.
+The result must answer three questions separately:
 
-The plan is designed for independent searching, source evaluation, and
-conceptual mapping. Any later scholarly correspondence would be a separate
-activity rather than part of this research protocol.
+- What has the literature actually claimed?
+- What metaphysical work would a process-subject theory have to do?
+- What, if anything, remains distinctive about IER after the comparison?
 
-## 2. Governing question
+## 2. Session inputs and authority
 
-### 2.1 Exact question
+### Primary task document
 
-> Can the subject of experience - the entity that is conscious - be numerically
-> identical with a particular physical process continuing through time, rather
-> than with something that has, bears, contains, constitutes, realizes, or
-> generates experiences?
+- `process-subject-research-brief.md`
 
-### 2.2 Required distinctions
+### IER context supplied for this session
 
-The investigation must distinguish the exact claim from the following nearby
-claims:
+- `IER-abstracts.md`
+- `IER-dodecagon-context(1).md`
+- `IER-representation-context(1).md`
+- `IER-math-definitions-context(1).md`
+- `IER-situation-context(1).md`
+- `IER-governance-context(1).md`
+- `IER-projection-context(1).md`
+- `IER-expansion-context(1).md`
+- `IER-big-picture-context(1).md`
+- `IER-basis-context(1).md`
+- `IER-active-theory-closure-context.md`
+- `IER-edible-woman-context(1).md`
 
-- conscious experiences are physical processes;
-- consciousness depends on ongoing neural dynamics;
-- a self is dynamic, embodied, enacted, patterned, constructed, or represented;
-- there is no substantial self beyond a bundle or stream of experiences;
-- an organism is a process or maintains its identity dynamically;
-- an integrated physical process constitutes or realizes a subject;
-- a system represents itself as the owner of its experiences; and
-- a person persists through psychological or biological continuity.
+Treat the brief as the authority for the public research question. Treat the
+IER files as context for comparison, not as evidence about the external
+literature. Where IER sources differ, use their declared authority hierarchy;
+the specification takes precedence over explanatory and application texts.
 
-These positions may supply concepts, arguments, or objections. None by itself
-states that the experiential subject is numerically identical with one
-continuing physical process.
+The following IER commitments are especially relevant but remain claims to be
+compared, not premises to impose on the literature:
 
-### 2.3 Subsidiary questions
+- experience is identical with operation in a physical regime;
+- a UEF is a regime of operation rather than a component or container;
+- one UEF constitutes one experiential subject;
+- participation can vary while subjecthood remains categorical;
+- continuity of the constitutive regime grounds experiential persistence;
+- genuine cessation ends that subject, even if an embodied system or capacity
+  later supports another UEF; and
+- physical integration, representation, computation, and dynamical complexity
+  alone are insufficient.
 
-1. What is meant by *subject of experience* in the relevant literature?
-2. Does subject-involvement require a bearer distinct from experience?
-3. Can a total experience, stream, bundle, event, or process itself be a
-   subject?
-4. What makes one physical process a concrete individual rather than an
-   arbitrary temporal or mereological aggregate?
-5. What preserves the numerical identity of a process through changes in
-   content, organization, substrate participation, sleep, and interruption?
-6. What is the relation among phenomenal unity, subject unity, physical
-   integration, causal continuity, and process unity?
-7. What positive argument could justify identity rather than constitution,
-   realization, correlation, grounding, or causal dependence?
-8. What would count as evidence that no additional bearer is needed?
+Do not alter the brief or any IER context file. Do not silently import later IER
+vocabulary into summaries of other authors.
 
-## 3. Scope and non-goals
+## 3. Exact scope
 
 ### In scope
 
-- classical mind-brain identity theory where it clarifies the identity relation;
-- subjects and bearers of experience;
-- phenomenal unity, for-me-ness, mineness, and ownership;
-- event and process ontology;
-- persistence and diachronic identity of processes;
-- bundle, stream, experiential-whole, organismic, pattern, relational, and
-  no-self accounts where they address the subject itself;
+- classical mind-brain identity theory where it clarifies numerical identity;
+- the ontology of the subject, bearer, owner, or experiencer;
+- phenomenal unity, subject unity, for-me-ness, mineness, and ownership;
+- bundle, stream, total-experience, no-self, organism, pattern, relational, and
+  process accounts when they address what the subject is;
 - physicalist and naturalist accounts of subjecthood;
-- mereology and individuation of physical and experiential processes;
-- dynamical consciousness theories only when they make an ontological claim
-  about the subject;
-- and arguments for or against a bearer distinct from organized experience.
+- event and process ontology, including individuation, persistence, boundaries,
+  and mereology;
+- dynamical consciousness theories only when they bear on subject ontology;
+- interruptions such as dreamless sleep, anesthesia, coma, fission, fusion, and
+  substrate turnover when they test persistence; and
+- arguments for or against a bearer distinct from organized experience.
 
-### Out of scope for this investigation
+### Out of scope
 
-- a general survey of every theory of consciousness;
-- a complete defense of physicalism;
-- a solution to the hard problem or explanatory gap;
-- detailed engagement with Owen's Mind-Body Powers model;
-- a verdict on actual brain organoid consciousness or moral status;
-- a complete theory of qualitative character;
-- a complete physical or mathematical definition of a UEF;
-- multiscale UEFs, dominance, overlap, and subject counting except where needed
-  to expose an individuation problem;
-- revision of the precis, Paper 00, Paper 01, or other canonical IER sources;
-- and claims of novelty based solely on unsuccessful searching.
+- a general survey of consciousness theories;
+- a complete defense of physicalism or solution to the hard problem;
+- diagnosis of consciousness in any actual biological or artificial system;
+- a verdict on organoid consciousness or moral status;
+- a complete mathematical or empirical account of a UEF;
+- external correspondence with scholars;
+- revision of the IER specification, precis, or papers; and
+- an unqualified claim that the proposal is novel.
 
-## 4. Methodological guardrails
+## 4. Non-negotiable distinctions
 
-1. **Search for the claim, not an invented school.** Do not assume that
-   "process physicalism" names a recognized position in philosophy of mind.
-2. **Type every relation.** Record whether an author claims identity,
-   constitution, realization, grounding, dependence, causation, correlation,
-   representation, parthood, or analogy.
-3. **Separate the subject from the self.** Work about narrative, social, bodily,
-   minimal, or represented selves counts as directly relevant only if it
-   identifies the entity that undergoes experience.
-4. **Separate dynamics from ontology.** Modelling consciousness with trajectories,
-   attractors, oscillations, or state spaces does not by itself identify the
-   subject with those dynamics.
-5. **Separate denial from positive identity.** Denying a further Cartesian ego
-   does not by itself identify the remaining bundle, stream, or process with a
-   physical process-subject.
-6. **Use primary sources for attribution.** Reference works and reviews may route
-   the search, but an author is assigned a position only after the relevant
-   primary text is checked.
-7. **Use public vocabulary first.** Introduce UEF or intrinsic constraint only
-   after the neutral problem has been stated and the existing vocabulary has
-   proved insufficient.
-8. **Do not let terminology prove the thesis.** Words such as *intrinsic*,
-   *unified*, *owned*, and *closed* require independent physical and
-   philosophical content.
-9. **Record negative results carefully.** "No explicit advocate found in this
-   bounded search" is acceptable. "No one has proposed this" is not.
-10. **Preserve the IER canon during exploration.** Record implications and
-    pressures in a ledger rather than silently revising project sources.
-
-## 5. Phase 1 - Fix the search protocol
-
-### 5.1 Write a one-paragraph neutral statement
-
-Use the governing question in Section 2 without IER terminology. It will serve
-as the test for whether a source is directly relevant.
-
-### 5.2 Establish inclusion levels
-
-Classify every candidate source as:
-
-| Level | Inclusion test |
-| --- | --- |
-| A - Exact | Explicitly identifies, defends, or rejects the experiential subject as a physical process. |
-| B - Direct | Addresses whether experience requires a distinct bearer, or what kind of entity the experiential subject is. |
-| C - Enabling | Supplies process individuation, persistence, unity, or identity machinery needed to formulate the exact view. |
-| D - Nearby | Describes dynamic consciousness, selfhood, or neural processes without making the subject-identity claim. |
-| X - Exclude | Uses similar words but does not bear on the exact question. |
-
-Only Levels A-C enter the core source map. Level D sources are retained in a
-separate "nearby but insufficient" table so that repeated false leads become
-useful results.
-
-### 5.3 Establish a relation vocabulary
-
-Use these fixed labels in notes:
+For every candidate source, identify the relata and the relation between them.
+Use only these relation labels unless the source requires a clearly defined
+addition:
 
 ```text
 numerical identity
@@ -193,427 +132,463 @@ analogy
 unclear
 ```
 
-Do not paraphrase one label as another.
+Do not infer the target thesis from any of the following:
 
-## 6. Phase 2 - Build the seed set
+| Located claim | What it does not yet establish |
+| --- | --- |
+| A conscious state is a neural state or process | The continuing subject is that process |
+| Consciousness depends on ongoing dynamics | The subject is numerically identical with the dynamics |
+| There is no Cartesian ego | The remaining subject is a physical process |
+| The self is embodied, enacted, dynamic, patterned, or represented | The self is the experiential subject, or strict identity holds |
+| Experiences form a bundle, stream, or totality | The totality is physical or is itself a subject |
+| An organism is a process | The organism is the subject of experience |
+| A process constitutes or realizes a subject | The process and subject are one and the same |
+| A system is physically integrated | It is one experiential subject |
 
-### 6.1 Read the immediate sources
+Keep four questions separate throughout:
 
-1. Place, "Is Consciousness a Brain Process?"
-2. Smart, "Sensations and Brain Processes."
-3. Owen, "The Neglected Conscious Subject in Consciousness Science."
-4. Owen, Hight, and Hudetz, "Human Brain Organoids and the Mereological
-   Fallacy."
+1. **State identity:** What is an experience?
+2. **Subject ontology:** What is the entity that experiences?
+3. **Synchronic unity:** What makes there be one subject at a time?
+4. **Diachronic identity:** What makes it the same subject through time?
 
-For each source, record the relata being identified or distinguished. In
-particular, do not infer that Place or Smart identifies the continuing subject
-merely because they identify conscious states or sensations with brain
-processes.
+## 5. Evidence standard
 
-### 6.2 Use orientation sources as maps
+Use current web research because bibliographies, indexes, and available papers
+may have changed. Prefer sources in this order:
 
-Consult current reference entries on mind-brain identity theory, the self and
-subject of experience, phenomenal unity, personal identity, process philosophy,
-event ontology, physicalism, and persistence. Extract terminology, disputed
-distinctions, principal authors, and bibliography clusters. Do not treat an
-orientation source as evidence that a primary author holds the exact
-process-subject position.
+1. primary peer-reviewed articles, books, and chapters;
+2. author manuscripts and institutional repositories matching the published
+   work;
+3. authoritative reference works and review articles for orientation;
+4. publisher metadata, Crossref, PhilPapers, library catalogues, and citation
+   indexes for discovery and bibliographic verification; and
+5. search snippets only as leads, never as evidence for a philosophical
+   attribution.
 
-### 6.3 Mine the existing IER curriculum
+Verify important claims in the primary text. If the full text is unavailable,
+label the source **metadata only**, **abstract only**, or **snippet only** and do
+not assign it an exact position. Distinguish the publication year from the year
+of an online-first version. Record the DOI or stable URL when available.
 
-Begin with Modules 3, 6, 14-19, 25-26, and 30-35 of
-`IER-philosophy-of-mind-curriculum.md`. Treat its citations as search seeds,
-not as a prevalidated answer. Record which curriculum sources are directly
-relevant, enabling background, merely nearby, or still unverified.
+Quote sparingly. Preserve enough surrounding context to determine the relata
+and relation. Never strengthen an author's modality: *suggests*, *permits*,
+*constitutes*, and *is identical with* are not interchangeable.
 
-## 7. Phase 3 - Run four coordinated search tracks
+Separate all findings into:
 
-Use PhilPapers, Google Scholar, library catalogues, and available philosophy or
-multidisciplinary indexes. Where access permits, use citation indexes for
-backward and forward chaining. Record the database, date, exact query, filters,
-result count inspected, and useful results.
+- **source-supported report**;
+- **the researcher's reconstruction**; and
+- **IER-facing inference**.
 
-### Track A - Exact identity claim
+## 6. Source classification
+
+Assign each candidate one inclusion level:
+
+| Level | Test | Treatment |
+| --- | --- | --- |
+| A - Exact | Explicitly identifies, defends, considers, or rejects the experiential subject as a physical process | Full reading and argument card |
+| B - Direct | Addresses what the experiential subject is or whether experience needs a distinct bearer | Full reading if central |
+| C - Enabling | Supplies process individuation, persistence, unity, or identity machinery needed by the thesis | Read the relevant argument |
+| D - Nearby | Discusses dynamic consciousness, neural processes, or selfhood without the subject-identity claim | Record as a false friend |
+| X - Exclude | Shares vocabulary but does not bear on the question | Record reason briefly |
+
+An author enters Level A only when the primary text warrants both the candidate
+subject and the relation assigned. Search-result wording is never sufficient.
+
+## 7. Execution sequence
+
+### Stage 0 - Initialize the evidence workspace
+
+Create four working files at the start:
+
+1. `process-subject-research-report.md`
+2. `process-subject-source-ledger.md`
+3. `process-subject-search-log.md`
+4. `process-subject-next-step-memo.md`
+
+Write provisional headings before searching. Update the files during the
+session so that useful work survives interruption. Keep bibliographic data in
+one canonical entry per source and refer to it consistently elsewhere.
+
+### Stage 1 - Fix the neutral test
+
+Begin the report with a public-language paragraph that states the target without
+the terms *UEF*, *intrinsic constraint*, *collapse*, or other IER vocabulary.
+
+Use this screening question:
+
+> Does this source address whether the concrete entity that is conscious is
+> numerically identical with a temporally continuing physical process?
+
+Also write a short operational definition of *subject of experience*. Do not
+assume that subject, self, person, organism, and bearer are coextensive.
+
+**Gate:** Do not begin broad retrieval until strict identity has been separated
+from constitution, realization, dependence, and dynamic implementation.
+
+### Stage 2 - Establish the seed set
+
+Locate, verify, and read the relevant portions of:
+
+1. U. T. Place, "Is Consciousness a Brain Process?" (1956).
+2. J. J. C. Smart, "Sensations and Brain Processes" (1959).
+3. Matthew Owen, "The Neglected Conscious Subject in Consciousness Science"
+   (2024), <https://doi.org/10.1016/j.plrev.2024.06.009>.
+4. Matthew Owen, Darren Hight, and Anthony G. Hudetz, "Human Brain Organoids and
+   the Mereological Fallacy" (published online 2024; journal issue 2025),
+   <https://doi.org/10.1007/s12152-024-09577-y>.
+
+For Place and Smart, record exactly what is identified with what. Do not infer a
+theory of the continuing subject from their state or sensation identities.
+
+For Owen, reconstruct the neglected-subject problem separately from his own
+positive ontology. Treat the organoid paper as an application and possible
+contrast case, not as the frame for the whole project.
+
+Use no more than four current orientation sources to identify terminology,
+authors, and bibliography clusters. Orientation sources route the search; they
+do not settle authorial attribution.
+
+### Stage 3 - Search five tracks
+
+Run the tracks in parallel where the tools permit. For every query record the
+date, database or search system, exact string, filters, approximate results
+inspected, retained sources, and stopping reason.
+
+#### Track A - Exact physical identity
 
 ```text
-"subject of experience" AND process AND identity
-"conscious subject" AND "physical process"
-"experiential subject" AND process
-"subject is" AND process AND consciousness
-"subject of consciousness" AND physicalism AND process
-"process subject" AND philosophy of mind
-"experience itself" AND subject AND physicalism
+"subject of experience" process identity
+"conscious subject" "physical process"
+"experiential subject" process physicalism
+"subject of consciousness" process ontology
+"subject is" process consciousness identity
+"process subject" philosophy of mind
+"numerically identical" subject consciousness process
+"nothing over and above" conscious subject physical
 ```
 
-Vary *subject* with *bearer*, *owner*, *experiencer*, and *creature*. Vary
+Vary *subject* with *bearer*, *owner*, *experiencer*, and *creature*; vary
 *process* with *event*, *activity*, *stream*, *field*, *operation*, and
-*occurrence*. Vary *identity* with *numerically identical*, *one and the same*,
-and *nothing over and above*, while checking that the last phrase does not merely
-express dependence.
+*occurrence*.
 
-### Track B - Bearer and subject ontology
+#### Track B - Subject and bearer ontology
 
 ```text
-subject of experience AND bearer
-consciousness AND "distinct bearer"
-phenomenal unity AND subject
-for-me-ness AND subject ontology
-experience without a subject
-subjectless experience
-experiential whole AND subject
-bundle theory AND conscious subject
+"subject of experience" bearer
+consciousness "distinct bearer"
+phenomenal unity subject ontology
+for-me-ness subject metaphysics
+"experience without a subject"
+"subjectless experience"
+"experiential whole" subject
+bundle theory "conscious subject"
 ```
 
-This track locates positions that may accept or reject the need for something
-distinct from experience, even if they are not physicalist.
-
-### Track C - Process individuation and persistence
+#### Track C - Process individuation and persistence
 
 ```text
-process ontology AND individuation
+process ontology individuation persistence
 identity of processes over time
-process persistence AND continuity
-event identity AND temporal parts
-process mereology AND boundaries
-biological individuality AND process ontology
-organism as process AND persistence
+process mereology temporal boundaries
+event identity temporal parts
+organism as process persistence
+biological individuality process ontology
+continuant occurrent subject experience
 ```
 
-This track supplies the metaphysical machinery needed to make the proposed
-subject a particular continuing individual rather than a metaphorical flow.
-
-### Track D - Nearby physicalist accounts
+#### Track D - Nearby physicalist positions
 
 ```text
-physicalist bundle theory AND self
-pattern theory of self AND consciousness
-dynamical self AND subjectivity
-minimal self AND physicalism
-neurophenomenology AND subject
-enactivism AND subject of experience
-neural dynamics AND conscious subject
-stream of consciousness AND physicalism
+physicalist bundle theory self consciousness
+pattern theory self consciousness
+dynamical self subjectivity physicalism
+minimal self physicalism subject
+neurophenomenology subject ontology
+enactivism subject of experience
+neural dynamics conscious subject
+stream of consciousness physicalism
 ```
 
-The purpose is to test whether these views cross the threshold from "the self or
-consciousness is dynamic" to the exact identity of the experiential subject with
-a physical process.
-
-### 7.1 Citation chaining
-
-For every Level A or B source:
-
-1. inspect its bibliography for the proposition being discussed;
-2. inspect works that cite it;
-3. search the exact distinctive phrase used for the position;
-4. search the author's other work on subjecthood, process, and identity; and
-5. record whether later authors adopt, modify, or reject the claim.
-
-The absence of independent citations to Owen (2024) means it should not anchor
-the entire citation search. Search the problem conceptually and through the
-older sources cited by Owen.
-
-## 8. Phase 4 - Triage and document sources
-
-### 8.1 First-pass triage
-
-For each result, read the abstract, introduction, conclusion, and the passage
-containing the relevant term. Assign an inclusion level and relation label.
-Acquire and read the full source only if it is Level A-C or needed to verify a
-potentially important exclusion.
-
-### 8.2 Argument card
-
-Create one card for every core source:
+#### Track E - Objections and stress cases
 
 ```text
-Full citation and exact version:
+subject persistence dreamless sleep
+conscious subject diachronic identity interruption
+unity of consciousness subject fission fusion
+process identity substrate turnover
+mereology conscious subject
+temporary subject of experience
+```
+
+Search exact distinctive phrases found in promising texts. For every Level A or
+B source, perform backward citation chaining, forward citation chaining where
+available, and an author search for related work.
+
+### Stage 4 - Triage before deep reading
+
+Inspect titles, abstracts, introductions, conclusions, and relevant passages.
+Assign a provisional level and relation. Deep-read only Level A-C sources or a
+source needed to verify an important exclusion.
+
+Target first-pass ceilings:
+
+- four seed primary sources;
+- up to four orientation sources;
+- up to twelve additional Level A or B primary sources;
+- up to six Level C process-metaphysics sources; and
+- as many Level D or X entries as needed to document recurring false friends,
+  without deep-reading them.
+
+These are triage ceilings, not quotas. Exceed one only when a specific unresolved
+premise or live citation chain requires it.
+
+### Stage 5 - Build source and argument records
+
+For each core source, complete this card in the source ledger:
+
+```text
+Full citation and version:
+Stable identifier or URL:
+Access level: full text | abstract | metadata | snippet
 Inclusion level:
 Question addressed:
 Candidate subject:
 Candidate physical relatum:
 Relation asserted:
-Author's answer:
-Numbered argument:
+Key passage location:
+Author's conclusion:
+Argument reconstructed as numbered premises:
 Evidence or examples:
 Strongest objection considered:
 What the source establishes:
 What it does not establish:
-Relation to the exact process-subject thesis:
-Relation to IER, if any:
-Confidence and unresolved questions:
+Relation to the target thesis:
+IER-facing relevance:
+Confidence:
+Unresolved questions:
 ```
 
-### 8.3 Search log
+Do not fill gaps with plausible reconstruction. Mark them unresolved.
 
-Maintain a reproducible log:
+### Stage 6 - Construct the comparison map
 
-```text
-date | database | exact query | filters | results inspected | retained sources | reason for stopping
-```
+Populate this matrix from verified sources:
 
-Record zero-result and false-positive searches. They are necessary for a
-defensible bounded novelty assessment.
+| Candidate | Proposed subject | Relation to experience | Unity condition | Persistence condition | Physical relation | Best source |
+| --- | --- | --- | --- | --- | --- | --- |
+| Substantial or hylomorphic bearer |  |  |  |  |  |  |
+| Organism |  |  |  |  |  |  |
+| Bundle, stream, or experiential whole |  |  |  |  |  |  |
+| Pattern |  |  |  |  |  |  |
+| Self-model or represented owner |  |  |  |  |  |  |
+| Dynamical or enactive system |  |  |  |  |  |  |
+| Physical process-subject |  |  |  |  |  |  |
 
-### 8.4 Reading ceiling
+Do not assign an author to the last row unless primary textual evidence supports
+it. If no source qualifies, leave the row as the proposal under investigation.
 
-The first pass consists of the four immediate sources, no more than four
-orientation sources, no more than eight additional core primary sources, and no
-more than four enabling process-metaphysics sources. Expand only when a precise
-premise remains unsupported or a strong citation trail has not reached
-saturation.
-
-## 9. Phase 5 - Construct the conceptual map
-
-### 9.1 Bearer ladder
+Then analyze the bearer ladder without assuming that one step entails another:
 
 | Level | Claim |
 | --- | --- |
-| B0 | An experience is of or for some subject. |
-| B1 | Experience has first-personal givenness or for-me-ness. |
-| B2 | Several contents belong to one total experience or subject. |
-| B3 | Something instantiates, undergoes, or bears the experience. |
-| B4 | One numerically identical subject persists through changing experiences. |
-| B5 | The subject is a distinct, metaphysically simple substance or bearer. |
+| B0 | An experience is of or for some subject |
+| B1 | Experience has first-personal givenness or for-me-ness |
+| B2 | Several contents form one total experience or belong to one subject |
+| B3 | Something instantiates, undergoes, or bears the experience |
+| B4 | One numerically identical subject persists through changing experiences |
+| B5 | The subject is a distinct or metaphysically simple bearer |
 
-Do not assume that B0-B2 entail B3-B5, or that denying B5 entails process
-identity.
+### Stage 7 - Test the process account
 
-### 9.2 Candidate-position matrix
+Produce a focused memo inside the report on the burdens of a strict
+process-subject view:
 
-| Candidate | What is the subject? | Relation to experience | Unity account | Persistence account | Physical relation |
-| --- | --- | --- | --- | --- | --- |
-| Substantial bearer | A simple or substantial entity | Bears or undergoes | Unity of bearer | Substance identity | Usually distinction or hylomorphic dependence |
-| Organism account | The living organism | Has conscious states | Organismic unity | Biological continuity | Subject is a physical organism |
-| Bundle or stream | Experiences and their relations | No further bearer | Experiential relations | Continuity among experiences | May remain neutral |
-| Pattern account | A multidimensional pattern | Constituted by interacting aspects | Pattern coherence | Pattern continuity | Often nonreductive or plural |
-| Self-model account | A represented self or self-model | Represents ownership or perspective | Model integration | Model continuity | Realized by physical activity |
-| Dynamical account | An evolving neural or embodied system | Supports or realizes consciousness | Dynamical integration | Trajectory continuity | Often causal or constitutive |
-| Process-subject identity | A particular continuing physical process | Numerically identical with total experience and subject | Process unity | Process continuity | Strict physical identity |
+1. **Individuation:** Why this process rather than a wider, narrower, or
+   cross-cutting aggregate?
+2. **Unity:** Why does physical process unity amount to one experiential
+   subject rather than merely coordinated activity?
+3. **Persistence:** Which changes preserve the process and which terminate it?
+4. **Interruption:** What follows for dreamless sleep, anesthesia, coma, and
+   later reactivation?
+5. **Material turnover:** Can the same process continue while participants or
+   substrate change?
+6. **Fission and fusion:** When does one process become two, or two become one?
+7. **Identity:** What positive reason favors numerical identity over
+   constitution, realization, or grounding?
+8. **Circularity:** Can the physical process be specified without defining it
+   as whatever is conscious?
 
-Populate the matrix from primary sources. Do not assign the final row to any
-author without explicit textual evidence.
+State which burdens have established resources in the literature, which receive
+only partial treatment, and which remain IER's own work.
 
-### 9.3 Core non-entailments
+### Stage 8 - Classify the literature finding
 
-$$
-\text{conscious state = neural state}
-\not\Rightarrow
-\text{experiential subject = continuing physical process}
-$$
+Choose Outcome A, B, C, or D from Section 1. Support the choice with:
 
-$$
-\text{neural dynamics support consciousness}
-\not\Rightarrow
-\text{subject = neural dynamics}
-$$
+- the strongest exact candidate;
+- the strongest near candidate;
+- the most important false friend;
+- the best available process-individuation framework;
+- the principal objection to strict identity; and
+- the documented limits of the search.
 
-$$
-\text{no distinct substantial self}
-\not\Rightarrow
-\text{subject = physical process}
-$$
+If evidence is mixed, state the narrowest finding that is secure. Never turn a
+failure to find a source into proof of novelty.
 
-$$
-\text{one physically unified process}
-\not\Rightarrow
-\text{one experiential subject}
-$$
+### Stage 9 - Translate to IER only after the public map is stable
 
-The last non-entailment states IER's own burden rather than an objection only to
-rival views.
+Compare the bounded finding with IER in a separate report section. Classify each
+mapping as:
 
-## 10. Phase 6 - Determine what the literature supports
+- **replaceable vocabulary:** established terminology expresses the same claim;
+- **necessary IER construct:** IER adds substantive physical or formal content;
+- **unsupported or conflated construct:** an IER term imports a conclusion or
+  combines problems that the public literature keeps distinct; or
+- **unresolved:** the session lacks enough evidence.
 
-Classify the result into one of four outcomes:
+For every mapping record:
 
-### Outcome A - Explicit precedent
+```text
+Neutral explanandum:
+Public term and author-specific meaning:
+IER term:
+Relation between them:
+What is preserved:
+What is lost:
+Argument still required:
+Confidence:
+```
 
-One or more authors clearly identify the experiential subject with a continuing
-physical process. Reconstruct the view, determine whether the identity is
-strict, and compare its individuation and persistence conditions with IER.
+Pay particular attention to *process*, *regime*, *subject*, *bearer*, *field*,
+*unity*, *ownership*, *continuity*, *cessation*, *physical identity*, and
+*numerical identity*.
 
-### Outcome B - Near precedent
+This stage may identify pressure on IER. Record it in the next-step memo; do not
+edit canonical sources.
 
-An author identifies the subject with a process, stream, whole, or pattern but
-does not make the physical identity claim, or makes the physical claim through
-constitution or realization. State the missing premise rather than assimilating
-the view to IER.
+### Stage 10 - Decide the next scholarly product
 
-### Outcome C - Distributed antecedents
+Recommend exactly one primary next step:
 
-Separate literatures supply state identity, process ontology, subject unity, and
-persistence without combining them into one thesis. Treat IER as a proposed
-synthesis and identify every bridge it must add.
+1. write a constructive process-subject paper;
+2. write a narrower comparison or response using Owen as an application;
+3. continue targeted research on a named unresolved issue; or
+4. stop because the proposed contribution is already covered or insufficiently
+   distinct.
 
-### Outcome D - Bounded negative result
-
-No explicit or near precedent is found within the documented search. Report the
-scope and limits of the search. Do not infer universal novelty.
-
-### Literature-map gate
-
-Proceed to a bridge paper only when:
-
-- the search log is reproducible;
-- each important candidate has been assigned an inclusion level and relation;
-- at least one substantial-bearer view and one non-substantial alternative have
-  been reconstructed from primary sources;
-- process individuation and persistence have a usable source base;
-- the exact difference between IER and the nearest position can be stated in
-  public vocabulary; and
-- the positive burden of strict identity has been identified.
-
-If the gate fails, produce the literature map and stop. Do not force a response
-paper from an incomplete comparison set.
-
-## 11. Phase 7 - Decide whether to write a paper
-
-The default next paper should be a constructive process-subject paper, not a
-response to Owen. Its question is:
+The default paper, if warranted, asks:
 
 > What would it mean, and what would be required, to identify the experiential
 > subject with a temporally continuing physical process?
 
-A response to Owen, Hight, and Hudetz becomes worthwhile only if the literature
-map shows that their subject/mereology analysis provides a particularly clear
-case through which to introduce the process alternative. If so, the response
-must present their comparison as illustrative rather than exhaustive and must
-not expand into a critique of Owen's complete hylomorphic programme.
+Authorize an Owen-focused paper only if the comparison adds a clear argument
+that cannot be made more accurately in a constructive paper.
 
-### Possible constructive-paper outline
+## 8. Search stopping rules
 
-1. Classical identity theory identifies states but leaves the continuing
-   subject underdetermined.
-2. Subject-involvement does not by itself establish a distinct bearer.
-3. Nearby process, bundle, pattern, dynamical, and organismic views do not all
-   make the same identity claim.
-4. State the process-subject identity thesis precisely.
-5. Explain what would make the process one individual at a time.
-6. Explain what would preserve or terminate it through time.
-7. Distinguish phenomenal unity from physical integration.
-8. Give the positive case for identity over constitution or realization.
-9. State failure conditions and unresolved problems.
-10. Explain what, if anything, IER adds beyond the nearest established view.
+Stop the main search when all of the following hold:
 
-### Optional Owen application
+- every query track has been run and logged;
+- every Level A or strong Level B candidate has been checked in primary text or
+  explicitly marked inaccessible;
+- backward and forward chaining from the strongest candidates produces no new
+  Level A or B source in two successive rounds;
+- new queries mostly repeat already classified authors, positions, or false
+  friends;
+- at least one substantial-bearer account and one non-substantial alternative
+  have been reconstructed;
+- process individuation and persistence have a usable source base; and
+- the nearest precedent can be distinguished from the target thesis in one
+  paragraph.
 
-If used, Owen (2024) supplies the neglected-subject problem and Owen, Hight, and
-Hudetz (2025) supplies a mereological application. The paper would argue only
-that a process-subject is a further physicalist option worth evaluating. It
-would not attempt to refute the Mind-Body Powers model or determine whether any
-actual organoid is conscious.
+If tool access or paywalls prevent these conditions, stop with a blocker report
+that identifies the inaccessible source and the exact claim requiring
+verification. Do not disguise an access limit as evidential saturation.
 
-## 12. Phase 8 - Run the IER translation audit
+## 9. Deliverable contract
 
-After the literature map and any paper stabilize, classify IER terms as:
+### `process-subject-research-report.md`
 
-- **Replaceable vocabulary:** established vocabulary states the same claim
-  without material loss.
-- **Necessary IER constructs:** the term expresses additional physical or
-  formal content and requires a definition, bridge argument, comparison cases,
-  and failure conditions.
-- **Unsupported or conflated constructs:** the term combines several public
-  problems or imports a conclusion and must be quarantined for revision.
+The main, readable deliverable. It must contain:
 
-For every mapping, record the neutral explanandum, public term, source and
-author-specific meaning, IER term, relation, what is preserved, what is lost,
-the argument still required, and confidence.
+1. executive finding;
+2. neutral statement of the thesis;
+3. scope and method;
+4. literature map;
+5. candidate-position matrix;
+6. bearer-ladder analysis;
+7. exact, near, enabling, and nearby findings;
+8. process individuation and persistence analysis;
+9. Outcome A-D classification;
+10. IER comparison and translation audit;
+11. limitations;
+12. recommended next scholarly product; and
+13. bibliography with live links or DOIs.
 
-Do not revise the precis, Paper 00, or Paper 01 during this project. Produce a
-downstream revision memo for separate approval.
+Every substantial attribution must have a citation near the claim. Distinguish
+direct report from inference.
 
-## 13. Deliverables
+### `process-subject-source-ledger.md`
 
-1. Neutral statement of the process-subject question
-2. Reproducible search protocol and search log
-3. Source triage table with Levels A-D and X
-4. Argument cards for core sources
-5. Bounded source map and bibliography
-6. Bearer-ladder analysis
-7. Candidate-position and relation matrix
-8. Process individuation and persistence memo
-9. Literature finding classified as Outcome A, B, C, or D
-10. One-page public-language statement of the process-subject thesis
-11. Decision memo: constructive paper, optional Owen response, or further
-    research only
-12. IER/public-vocabulary translation ledger
-13. Downstream revision memo for the precis and Papers 00 and 01
+The audit trail: source triage table, completed argument cards, access status,
+key passages, relation labels, confidence, exclusions, and unresolved items.
 
-Suggested working artifacts:
+### `process-subject-search-log.md`
+
+A reproducible table:
 
 ```text
-process-subject-question
-process-subject-search-protocol
-process-subject-search-log
-process-subject-source-triage
-process-subject-source-map
-process-subject-argument-cards
-process-subject-bearer-analysis
-process-subject-position-matrix
-process-subject-individuation-persistence
-process-subject-findings
-process-subject-public-note
-process-subject-paper-decision
-process-subject-identity-draft
-response-to-owen-hight-hudetz-draft
-process-subject-translation-ledger
-IER-public-scholarship-interface-audit
+date | database/tool | exact query | filters | results inspected | retained sources | stopping reason
 ```
 
-The Owen response path is created only if the decision memo authorizes it.
+Include zero-result searches and recurrent false positives.
 
-## 14. Decision gates
+### `process-subject-next-step-memo.md`
 
-| Gate | Required result | If the gate fails |
-| --- | --- | --- |
-| Question | Exact identity claim distinguished from dynamics, selfhood, and dependence | Rewrite the neutral statement |
-| Search protocol | Databases, queries, inclusion levels, and stopping rule documented | Fix the protocol before expanding retrieval |
-| Source base | Primary sources cover subject ontology, unity, identity, and process persistence | Continue bounded searching |
-| Exact precedent | Authorial text supports the assigned relation | Downgrade to near or enabling precedent |
-| Literature map | Outcome A-D supported by a reproducible record | Report uncertainty; do not claim novelty |
-| Public statement | Thesis is intelligible without IER terminology | Revise before introducing IER constructs |
-| Process account | Individuation and persistence conditions are non-circular | Keep the proposal conditional |
-| Identity argument | Positive reason favors identity over constitution or realization | Do not present identity as established |
-| Paper decision | Literature map identifies a genuine argumentative contribution | Stop at the research report if necessary |
-| IER audit | Each mapping states preservation, loss, and remaining burden | Do not revise canonical sources |
+A short decision document containing:
 
-## 15. Completion criteria
+- the recommended next product;
+- its exact contribution;
+- a provisional outline if writing is recommended;
+- unresolved research required first;
+- IER terms or claims that need later review; and
+- a statement that no canonical revision has been made.
 
-The project is complete when:
+Save all four deliverables as persistent user-facing artifacts. Do not create a
+paper draft unless the evidence passes the paper-decision gate and the user
+subsequently requests the paper.
 
-- the search can be reproduced from the log;
-- the exact process-subject thesis is separated from nearby dynamic, bundle,
-  pattern, self-model, organismic, and no-self positions;
-- directly relevant claims are verified in primary sources;
-- the nearest precedent is identified without being assimilated to IER;
-- the bounded search result is classified as explicit precedent, near precedent,
-  distributed antecedents, or no located precedent;
-- the individuation, unity, persistence, and identity burdens are explicit;
-- a one-page public-language statement can be read without prior knowledge of
-  IER;
-- a reasoned decision has been made about whether to write a constructive paper,
-  use the Owen texts as an optional application, or stop at the literature map;
-- and pressures on the precis and Papers 00 and 01 are recorded without
-  modifying them.
+## 10. Quality-control pass
 
-Success does not require external correspondence, proving IER, finding an exact
-predecessor, or producing a publishable response.
-It requires a disciplined answer to a prior question: what scholarly
-conversation, if any, already contains the claim that the experiential subject
-is a continuing physical process?
+Before completion, verify:
 
-## 16. Source baseline
+- each cited source exists and bibliographic metadata is internally consistent;
+- each Level A attribution is supported by primary text;
+- each source has one relation label or a clearly explained ambiguity;
+- state identity has not been substituted for subject identity;
+- self theories have not been treated as subject theories without argument;
+- dynamics have not been treated as ontology without argument;
+- denial of a substantial self has not been treated as positive physical
+  identity;
+- physical unity has not been treated as experiential unity without a bridge;
+- the Outcome A-D classification matches the logged evidence;
+- the novelty language is bounded;
+- IER vocabulary appears only in the comparison section or is explicitly marked
+  as a search term under test;
+- no canonical IER source has been modified; and
+- all deliverables agree on the principal finding and next step.
 
-- U. T. Place, "Is Consciousness a Brain Process?" (1956).
-- J. J. C. Smart, "Sensations and Brain Processes" (1959).
-- Matthew Owen, "The Neglected Conscious Subject in Consciousness Science"
-  (2024), <https://doi.org/10.1016/j.plrev.2024.06.009>.
-- Matthew Owen, Darren Hight, and Anthony G. Hudetz, "Human Brain Organoids and
-  the Mereological Fallacy" (2025),
-  <https://doi.org/10.1007/s12152-024-09577-y>.
-- `IER-philosophy-of-mind-curriculum.md`, especially Modules 3, 6, 14-19,
-  25-26, and 30-35.
-- `pub/articles/paper-00-identification-problem.md`.
-- `pub/articles/paper-01-identity-theory-of-experience.md`.
-- `IER/IER-precis.md`.
+## 11. Completion condition
+
+The session is complete when it provides a disciplined, reproducible answer to:
+
+> What scholarly conversation, if any, already contains the claim that the
+> experiential subject is a continuing physical process?
+
+Success does not require proving IER, finding an exact predecessor, solving the
+metaphysics of process identity, or producing a publishable paper. It requires
+an evidence-backed literature map, a bounded precedent finding, a precise
+statement of the remaining philosophical burdens, and a defensible decision
+about what to do next.
