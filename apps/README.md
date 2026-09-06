@@ -99,7 +99,7 @@ Current topics include:
 * neural localization versus causal necessity, constitution, and subject individuation.
 
 
-### [`philosophy/`](./philosophy/IER-philosophy-of-mind-curriculum.md)
+### [`philosophy/`](./philosophy/README.md)
 
 Philosophy of Mind for Finishing IER
 
