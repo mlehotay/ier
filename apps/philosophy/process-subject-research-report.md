@@ -2,9 +2,14 @@
 
 ## Status
 
-Status: complete, bounded literature finding  
+Status: complete preliminary finding; follow-on work paused
 Date: 6 September 2026  
 Authority: non-canonical research report
+
+This report is retained as the completed preliminary literature survey.
+Further process-subject research will resume after the current Strawson project
+is complete. Its conclusions should then be reassessed against that work before
+they guide a new research phase.
 
 ## Executive finding
 

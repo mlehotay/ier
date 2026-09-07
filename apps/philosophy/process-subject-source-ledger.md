@@ -2,9 +2,13 @@
 
 ## Status
 
-Status: complete  
+Status: complete evidence record; extension paused
 Date: 6 September 2026  
 Scope: audit trail for the accompanying research report
+
+This ledger is retained as the evidence record for the completed preliminary
+survey. It will not be extended until the broader process-subject project
+resumes after the current Strawson project.
 
 ## Triage table
 

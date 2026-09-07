@@ -2,11 +2,15 @@
 
 ## Status
 
-Status: complete  
+Status: complete search record; further searching paused
 Search date: 6 September 2026  
 System: current web search across publisher sites, author pages, PhilPapers /
 PhilArchive, institutional repositories, scholarly indexes, and cited
 bibliographies
+
+This log is retained for reproducibility. The broader process-subject search
+will resume after the current Strawson project rather than expanding that
+project's scope.
 
 “Results inspected” records the approximate number of returned titles/snippets
 screened in the visible result set, not a claim about the total holdings of any
