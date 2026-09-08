@@ -89,7 +89,7 @@ Its purpose is not to validate IER, but to provide a simplified environment in w
 
 A neuroscience-facing application examining the relationship between empirical brain research and physicalist claims about experience.
 
-The current case studies focus on the **identification problem**: what neural measurements, models, correlations, perturbations, and localization results establish—and what additional argument is required before they can be interpreted as identifying an experiential occurrence or subject.
+The current case studies focus on the identification problem: what neural measurements, models, correlations, perturbations, and localization results establish - and what additional argument is required before they can be interpreted as identifying an experiential occurrence or subject.
 
 Current topics include:
 

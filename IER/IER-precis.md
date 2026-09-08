@@ -9,15 +9,15 @@ ier:
     - guardrails_and_orientation
   category: framework_overviews
   filename: IER-precis.md
-  version: 10.11.4
-  date: 2026-08-25
+  version: 10.11.5
+  date: 2026-09-08
 ---
 
 # Informational Experiential Realism
 
 ## Précis
 
-**Informational Experiential Realism (IER v10.11.4)**\
+**Informational Experiential Realism (IER v10.11.5)**\
 *Framework Compression - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -30,16 +30,10 @@ proposal is ontological:
 > interval is identical with total experience-as-process and with the
 > experiential subject.
 
-The identity is typed: one concrete **operation token** is one temporally
-extended **experience-as-process token** and one **subject token**. It does not
+The identity is typed: one concrete operation token is one temporally
+extended experience-as-process token and one subject token. It does not
 identify a substrate considered apart from its operation, an instantaneous
 state, a representation, or an output with the subject.
-
-This is a canonical compression and a member of the bounded trusted theory
-core, with no independent definitional authority. Core membership gives it
-high synchronization and review priority. The Specification, canon
-constraints, manifest, and canonical concept homes govern any conflict. The
-repository source remains authoritative for this text.
 
 IER does not offer a behavioral test, neural correlate, computational
 signature, engineering recipe, or general procedure for attributing experience
@@ -47,9 +41,25 @@ to unfamiliar systems. It asks what physical organization experience could be
 if experience is real but is neither non-physical nor an additional product of
 physical activity.
 
+The v10.11.5 clarification places this proposal explicitly in the physicalist
+identity-theory tradition. Place and Smart established that an experiential
+description and a physical-process description can concern one occurrence.
+Galen Strawson supplies the direct precedent for the stronger claim that an
+experience, its subject, and a bounded physical process can be numerically one.
+IER's prospective contribution is therefore not the bare process-subject
+identity. It is a criterion of continuing process-subject identity through
+changes of content, organization, boundary, and material participation.
+
 ## Experience as physical regime
 
 IER accepts one objective, mind-independent physical reality. Experience is real, but it is not a second substance, an emergent accompaniment, an internal representation, or an output added to physical dynamics. When the relevant physical regime exists, its operation does not produce experience: its operation is the experience.
+
+IER accepts complete physical determination. A complete physical duplicate of
+a token UEF operation cannot differ in whether experience occurs or in its
+qualitative character. IER therefore rejects strong psychophysical emergence
+understood as an additional autonomous property, fact, or bridge law. A UEF may
+remain emergent in a weaker explanatory or predictive sense without adding a
+second ontological relatum.
 
 IER calls the qualifying regime a Unified Experiential Field (UEF). “Field”
 does not mean a fundamental physical field, a spatial container, or an entity
@@ -66,6 +76,14 @@ qualifying regime, intrinsic constraint is:
 - non-factorizable into independently resolvable subsystem constraints,
 - unavailable for indefinite deferral or external resolution, and
 - binding on the continuation of the system as a whole.
+
+The ontological types must remain separate. The substrate is the changing
+matter and organization that physically supports the operation. A
+UEF-sustaining capacity is the disposition to instantiate such an
+operation. An organism and a person have biological, psychological,
+practical, legal, and narrative persistence conditions. None of these is, for
+that reason alone, the occurrent experiential subject. The token UEF operation
+through its continuity interval is the subject.
 
 This is IER’s proposed physical identity condition, not a behavioral definition of consciousness. Integration, complexity, feedback, information processing, and causal influence are not sufficient. The relevant question is whether constraint can still be localized, independently resolved, deferred, or offloaded, or whether it has become globally unavoidable for one continuing physical regime.
 
@@ -85,11 +103,25 @@ Saturation names the exhaustion of these independence-preserving local pathways.
 
 A UEF is a regime of operation, not a component within a system. Its boundary is not fixed by anatomy, location, function, or an observer’s preferred partition. IER characterizes the structural conditions for an admissible individuation; it does not enumerate the actual subject boundary in every case.
 
+The v10.11.5 proposal treats the boundary as a typed participation boundary.
+A process belongs inside the candidate operation when it both makes a
+constitutive difference to the candidate's admissible continuation and bears
+the candidate's global restrictions in its own continuation. This
+bilateral binding condition distinguishes constitutive participation from
+one-way cause, enabling infrastructure, background environment, or external
+control. Maximality ranges over this bilateral constraint-bearing kernel, not
+over everything causally connected to the system.
+
+This blocks automatic expansion to the universe. Causal embedding in a wider
+field, dependence on environmental support, and participation in larger
+physical histories do not make the wider totality one subject unless that
+totality independently instantiates one bilateral, non-factorizable operation.
+
 IER treats subjecthood as categorical:
 
 > One continuing UEF operation is identical with one experiential subject.
 
-The physical conditions that enable a UEF may change continuously, and processes may participate in it to different degrees. Subjecthood itself is not graded. A process participates experientially when it both bears and contributes to the field’s globally integrated constraint. Changes in participation may alter the content, intensity, salience, or organization of experience without creating another subject, provided the field remains unified and continuous.
+The physical conditions that enable a UEF may change continuously, and processes may participate in it to different degrees. Subjecthood itself is not graded. A process participates in the experiential operation when its continuation both bears and contributes to the field’s globally integrated constraint. Changes in participation may alter the content, intensity, salience, or organization of experience without creating another subject, provided the field remains unified and continuous.
 
 This distinguishes graded participation from graded subjecthood. There is no
 partial subject before a UEF operation exists and no collection of fractional
@@ -140,6 +172,19 @@ summing lower subjects or their phenomenal contents. Physical or process
 parthood does not by itself entail phenomenal containment, content inheritance,
 fusion, or shared first-person access.
 
+IER therefore rejects constituent inheritance. The complete physical
+determination of a macroexperience does not entail that the macroexperience is
+phenomenally composed from experiential ultimate parts. If a lower-scale
+operation independently qualifies as a UEF, it is another subject; its
+phenomenal character does not thereby enter, combine with, or become available
+to the higher-scale subject. In this sense IER avoids the constitutive
+panpsychist combination problem by rejecting phenomenal composition. It does
+not explain how microsubjects combine, and it does not claim to solve every
+problem grouped under the heading *combination*. This argument directly
+rejects constitutive micropsychist inheritance; it does not by itself refute
+Russellian, panprotopsychist, cosmopsychist, or nonconstitutive panpsychist
+positions.
+
 Experience also does not require cognition, intelligence, language, memory,
 self-modeling, access, or reportability. A qualifying operation may be a
 non-cognitive feeler rather than a thinker. IER does not thereby establish that
@@ -175,6 +220,17 @@ descriptions.
 
 At any physical configuration, law and organization delimit a set of admissible continuations. These are not probabilities, predictions, contemplated options, or alternatives offered to an internal chooser. They are the physically available directions in which the system can continue.
 
+The relevant structure must be concrete rather than merely extensional. The
+variables, processes, lawful transitions, admissibility relations, intervention
+family, and spatial and temporal resolution must be physically interpreted
+before an experiential verdict is assigned. The relations must support
+intervention and counterfactual claims, make a causal difference to successor
+production and exclusion, and remain sensitive to the system's actual history.
+An abstract graph, fitted probability distribution, computational equivalence,
+or post hoc isomorphism is insufficient. This is IER's answer in outline to the
+Newman objection that almost any domain can be made to realize an abstract
+structure if its relations are chosen after the fact.
+
 Experience operates at the boundary between:
 
 - sedimented history - prior change persisting as present physical organization; and
@@ -194,7 +250,7 @@ Collapse is not random selection, a decision by an internal executive, or an int
 
 Repeated deformation, collapse, integration, and sedimentation constitute the system’s temporally extended trajectory. This account does not place machinery beneath experience. It describes the physical organization whose operation IER identifies with experience.
 
-**Re-entry** is the participation of deformation produced by earlier frontier
+Re-entry is the participation of deformation produced by earlier frontier
 operation in subsequent frontier operation within the same continuous
 resolution loop. It carries constraint structure, not a representation or a
 replayed past. Re-entry is therefore not collapse, successor realization, or
@@ -217,17 +273,44 @@ IER describes this organization from related perspectives. Its geometry concerns
 
 ## UEF continuity, cessation, and numerical identity
 
-UEF persistence requires continuous instantiation of the globally coherent
-intrinsic-constraint regime. Changes in content, participation, or organization
-do not by themselves end the UEF. Failure is a breakdown within an extant UEF
-and is not itself cessation.
+UEF persistence requires the actual continuation of one self-producing,
+history-bearing, non-factorizable causal-modal operation. The v10.11.5
+criterion can be compressed into five conditions linking immediately
+successive non-null stages:
 
-UEF cessation occurs when the constitutive regime is no longer instantiated.
-The embodied, sedimented physical system may persist through a UEF-null
-interval, and it may retain the capacity to sustain a future UEF. If a later
-UEF is instantiated after genuine cessation, it is a numerically distinct
-experiential subject. This separates embodied-system continuity, capacity
-continuity, and numerical experiential identity.
+1. one globally coherent non-factorizable closure remains continuously
+   instantiated;
+2. the earlier operation produces its successor through its own actual
+   dynamics rather than an independently imposed reconstruction;
+3. sedimented consequences of earlier irreversible resolution continue to
+   deform the successor's admissible continuation;
+4. participant entry, exit, turnover, and boundary change occur through typed
+   roles in the extant operation; and
+5. at most one successor continues the predecessor's connected resolution
+   history as that maximal operation.
+
+The persisting invariant is therefore not matter, spatial outline,
+qualitative content, memory, personality, interaction strength, structural
+similarity, or inactive capacity. Complete material turnover, extensive
+internal reorganization, and boundary migration are compatible with one
+subject when mediated by the continuously operating regime. Failure or local
+fragmentation within an extant UEF is not automatically cessation while one
+global topology continues.
+
+Numerical identity does not branch or fuse. In asymmetric fission, only a
+uniquely continuing operation can preserve the predecessor; another
+independently closing branch begins as a new subject. If the original closure
+ends before symmetric fission, the predecessor ends and two new subjects may
+begin. Coupling, synchronization, or the appearance of a new higher-scale UEF
+does not fuse the identities of continuing lower-scale subjects.
+
+UEF cessation occurs when the constitutive operation is genuinely no longer
+instantiated. The embodied and sedimented substrate, organism, person, memory,
+and UEF-sustaining capacity may persist through a UEF-null interval. If a UEF
+is later reconstructed, even exactly, it is a numerically distinct experiential
+subject. This remains true when the later operation is causally continuous in
+ordinary terms and presents an apparent first-person continuity with the
+earlier life.
 
 IER identifies qualitative differences with physical differences in the
 organization of intrinsic constraint. It does not seek a further fact
@@ -284,6 +367,18 @@ central philosophical burden of an identity theory: explaining why it should
 be accepted as identity rather than correlation, realization, constitution,
 emergence, or structural analogy.
 
+The positive case is abductive and a posteriori. Experience presents as one
+occurrent field of differentiated activity rather than a spectator confronting
+an independently produced object. A qualifying UEF is proposed to have the
+same token unity, temporal extension, differentiation, boundary, causal role,
+counterfactual organization, and cessation profile. If the physical and
+experiential descriptions continue to share these identity conditions while
+no independently variable phenomenal bearer or product can be specified,
+numerical identity is the most economical interpretation. This argument is
+defeasible; it does not derive qualitative character from nonphenomenal
+premises or compel a critic who rejects its physicalist and anti-spectator
+assumptions.
+
 The formal individuation of a UEF remains a continuing research burden. A
 successful account must state non-arbitrary admissibility conditions and
 adequate partitions without building global unity into the analysis by
@@ -294,6 +389,21 @@ structural analysis or theorem rules it out. These are open questions about
 precision, justification, and application, not a failure to define the
 theory’s structural necessities or an invitation to replace the proposal with
 an empirical consciousness detector.
+
+The v10.11.5 persistence and boundary rules pass the elementary structural
+anti-triviality test only as a schema. IER still requires a worked physical or
+neuroscientific case in which variables, interventions, counterfactuals,
+non-factorization, bilateral participation, successor production, sediment
+inheritance, turnover, splitting, cessation, and restart are specified without
+using consciousness as an input. Existing illustrations clarify individual
+relations but do not yet meet that combined evidential burden.
+
+Concrete causal-modal structure also does not by itself settle the Russellian
+intrinsic-nature challenge. IER's intrinsic constraint concerns internally
+borne restrictions on physical continuation; it is not Strawson's claim about
+the categorical intrinsic nature of matter. The anti-triviality response shows
+how a physical relation could be substantive without showing that relational
+and modal description exhausts every question about physical nature.
 
 Ordinary corporations remain excluded only under their currently described
 delegated, decomposable, slack-admitting, and externally mediated
@@ -311,7 +421,8 @@ illustrates ongoing driven operation without continual irreversible rewriting.
 
 Optional publication-level follow-up:
 
-- [*Informational Experiential Realism: A Process Identity Theory of Experience*](https://philpapers.org/rec/LEHIER-2)
+- [*The Identification Problem for Physicalist Theories of Experience*](https://philpapers.org/rec/LEHTIP-2)
+- [*Informational Experiential Realism: A Process Identity Theory of Experience*](https://philpapers.org/rec/LEHIER-2) - the public pre-v10.11.5 draft whose successor is the continuing process-subject paper
 - [*Informational Experiential Realism: The Identity and Structure of Experience*](https://philpapers.org/rec/LEHIER)
 
 IER should therefore be read neither as a completed proof nor as a loose metaphor. It is a specific identity proposal:
@@ -320,4 +431,7 @@ IER should therefore be read neither as a completed proof nor as a loose metapho
 > token UEF operation through a continuity interval is the continuing
 > experience and subject when intrinsic constraint is globally integrated,
 > internally borne, temporally continuous, and not independently resolvable
-> within the relevant regime.
+> within the relevant regime. The subject persists exactly while that one
+> history-bearing operation continues: it may survive content change,
+> reorganization, boundary migration, and material turnover, but it does not
+> survive genuine cessation or branch into several successors.

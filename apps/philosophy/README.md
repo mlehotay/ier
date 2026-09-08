@@ -13,7 +13,7 @@ This application develops the philosophical vocabulary and research practice nee
 ## Contents
 
 - [IER Philosophy of Mind Curriculum](./IER-philosophy-of-mind-curriculum.md)
-- [Strawson Process-Identity Research](./strawson-process-identity-research.md)
+- [Final Strawson Process-Subject Research Report](./strawson-process-subject-final-report.md)
 - [Process-Subject Literature Research Report](./process-subject-research-report.md)
 - [Process-Subject Source Ledger](./process-subject-source-ledger.md)
 - [Process-Subject Search Log](./process-subject-search-log.md)
@@ -24,14 +24,15 @@ The completed materials here preserve the preliminary process-subject
 literature search, its evidence ledger, and its reproducible search record.
 They are retained as a bounded research baseline rather than an active project.
 
-Further work on the broader process-subject project is paused while the current
-Strawson research project is underway. Its public scope is summarized in
-[Strawson Process-Identity Research](./strawson-process-identity-research.md).
-Broader process-subject work will resume after that project is complete. The
-Strawson project's scope will not be expanded to absorb the
-additional bearer, unity, counting, or general process-ontology literatures
-recorded here.
+The Strawson research programme is complete and recommends proceeding to a
+paper on continuing process-subject identity. Its findings, limits, novelty
+assessment, and recommended paper structure are consolidated in the
+[final research report](./strawson-process-subject-final-report.md).
 
-The retained report's conclusions are preliminary and should be reassessed
-against the completed Strawson work before the broader project resumes. These
-materials remain non-canonical and make no revision to IER.
+That report reassesses the preliminary process-subject findings and preserves
+a deliberately narrower public synthesis of the completed Strawson work. The
+supporting source notes, argument matrices, decision notes, and stop-point
+materials remain working artifacts rather than part of this application.
+
+The preliminary materials retained here and the final Strawson report remain
+non-canonical and make no revision to IER.
