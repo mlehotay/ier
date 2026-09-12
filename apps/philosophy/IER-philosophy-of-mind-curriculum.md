@@ -60,7 +60,7 @@ A reader should begin with IER itself before reading the surrounding literature.
 
 **Essential.**
 
-`IER/IER-quick-start.md`
+[`IER/IER-quick-start.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-quick-start.md)
 
 The shortest current orientation to the theory.
 
@@ -72,7 +72,7 @@ The Quick Start is the best first-pass mental model.
 
 **Essential.**
 
-`IER/IER-precis.md`
+[`IER/IER-precis.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-precis.md)
 
 The précis is the main standalone conceptual compression of IER.
 
@@ -84,7 +84,7 @@ The précis should be read as a compact overview, not as a substitute for the Sp
 
 **Essential.**
 
-`IER/IER-specification.md`
+[`IER/IER-specification.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md)
 
 The Specification is the normative core. It answers what experience is under IER, when a UEF exists, what follows from UEF existence, and which distinctions are criterial rather than merely explanatory.
 
@@ -94,7 +94,7 @@ A beginner does not need to memorize the full specification. The point of readin
 
 **Essential.**
 
-`IER/IER-hello-world.md`
+[`IER/IER-hello-world.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-hello-world.md)
 
 Hello World is the minimal structural toy model.
 
@@ -104,7 +104,7 @@ Its role is to show that the UEF proposal can be stated without using consciousn
 
 **Recommended.**
 
-Public teaching materials:
+Public teaching materials are available from [Michael Lehotay's PhilPeople teaching-materials page](https://philpeople.org/profiles/michael-lehotay/teaching_materials):
 
 - The Stapled Net
 - The Billowed Sail
@@ -503,21 +503,21 @@ After these readings, a beginner should be able to understand why IER is an iden
 
 The public repository contains the main beginner-facing theory materials, including:
 
-- `IER/IER-specification.md`
-- `IER/IER-theory.md`
-- `IER/IER-model-overview.md`
-- `IER/IER-constraint.md`
-- `IER/IER-dynamics.md`
-- `IER/IER-hello-world.md`
-- `IER/IER-precis.md`
-- `IER/IER-futures.md`
-- `IER/IER-continuity.md`
-- `IER/IER-persistence.md`
-- `IER/IER-history-future-boundary.md`
-- `IER/IER-ownership.md`
-- `IER/IER-participation.md`
-- `IER/IER-information.md`
-- `IER/IER-puzzles.md`
+- [`IER/IER-specification.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md)
+- [`IER/IER-theory.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-theory.md)
+- [`IER/IER-model-overview.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-model-overview.md)
+- [`IER/IER-constraint.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-constraint.md)
+- [`IER/IER-dynamics.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-dynamics.md)
+- [`IER/IER-hello-world.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-hello-world.md)
+- [`IER/IER-precis.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-precis.md)
+- [`IER/IER-futures.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-futures.md)
+- [`IER/IER-continuity.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-continuity.md)
+- [`IER/IER-persistence.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-persistence.md)
+- [`IER/IER-history-future-boundary.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-history-future-boundary.md)
+- [`IER/IER-ownership.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-ownership.md)
+- [`IER/IER-participation.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-participation.md)
+- [`IER/IER-information.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-information.md)
+- [`IER/IER-puzzles.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-puzzles.md)
 
 The public applications and examples are useful after the conceptual core is understood. They include Abhidharma, neuroscience, *The Edible Woman*, Game of Life, and physical analogies.
 
