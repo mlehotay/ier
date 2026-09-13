@@ -69,7 +69,8 @@ See:
 
 ## Applications
 
-The current public release includes five public surfaces: four exploratory applications and one curriculum.
+The current public release includes five public surfaces: four exploratory
+applications and one philosophy research and curriculum surface.
 
 ### Abhidharma
 
@@ -103,13 +104,16 @@ See:
 
 * [Game of Life](apps/game-of-life/README.md)
 
-### Philosophy of Mind Curriculum
+### Philosophy of Mind
 
-A field-literacy and research-practice curriculum for placing IER within public philosophy-of-mind debates.
+A field-literacy, research, and synthesis surface for placing IER within public
+philosophy-of-mind debates. It includes the curriculum, an inventory of
+problems for physicalism, the metaphysical account of the UEF process-subject,
+and the completed process-subject research materials.
 
 See:
 
-* [Philosophy of Mind for Finishing IER](apps/philosophy/IER-philosophy-of-mind-curriculum.md)
+* [Philosophy of Mind](apps/philosophy/README.md)
 
 ## Citation
 
@@ -126,7 +130,7 @@ Lehotay, Michael.
 
 Informational Experiential Realism (IER).
 
-Version 10.11.4.
+Version 10.11.5.
 ```
 
 ## License

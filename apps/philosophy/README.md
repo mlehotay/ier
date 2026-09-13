@@ -1,6 +1,6 @@
 # Philosophy
 
-Philosophy of Mind for Finishing IER
+Philosophy of Mind Research for IER
 
 ## Status
 
@@ -13,10 +13,27 @@ This application develops the philosophical vocabulary and research practice nee
 ## Contents
 
 - [IER Philosophy of Mind Curriculum](./IER-philosophy-of-mind-curriculum.md)
+- [Problems of Physicalism](./problems-of-physicalism.md)
+- [Metaphysical Account of the UEF Process-Subject](./metaphysical-account-of-the-uef-process-subject.md)
 - [Final Strawson Process-Subject Research Report](./strawson-process-subject-final-report.md)
 - [Process-Subject Literature Research Report](./process-subject-research-report.md)
 - [Process-Subject Source Ledger](./process-subject-source-ledger.md)
 - [Process-Subject Search Log](./process-subject-search-log.md)
+
+## Current Synthesis and Problem Inventory
+
+[`problems-of-physicalism.md`](./problems-of-physicalism.md) is a broad,
+diagnostic inventory of thirty formulation, metaphysical, explanatory, causal,
+realization, phenomenal-organization, semantic, normative, and methodological
+problems for physicalism. It does not assess IER against those problems; a
+later project may perform that mapping.
+
+[`metaphysical-account-of-the-uef-process-subject.md`](./metaphysical-account-of-the-uef-process-subject.md)
+states the current non-canonical synthesis of experience–subject–process
+identity, synchronic unity, ownership boundary, constitutive membership,
+diachronic persistence, cessation, and immediate metaphysical consequences. It
+is a guiding philosophy synthesis, not a canonical revision or a procedure for
+detecting UEFs.
 
 ## Process-Subject Research Status
 

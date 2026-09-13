@@ -101,13 +101,18 @@ Current topics include:
 
 ### [`philosophy/`](./philosophy/README.md)
 
-Philosophy of Mind for Finishing IER
+Philosophy of Mind Research for IER
 
-This curriculum is a field-literacy and research-practice surface for placing IER within public philosophy-of-mind debates.
+This application is a field-literacy, research, and synthesis surface for
+placing IER within public philosophy-of-mind debates.
 
-It is organized around the research needs of the IER paper programme: the identification problem, process identity, architectural ethics, and structural-consciousness comparison.
+Its public materials include a philosophy-of-mind curriculum, an inventory of
+major problems for physicalism, the current metaphysical account of the UEF
+process-subject, and the completed process-subject and Strawson research
+records.
 
-The curriculum is public support material. It does not define IER ontology or change canonical theory.
+These are public support and research materials. They do not define IER
+ontology or change canonical theory.
 
 
 ## Future Applications
