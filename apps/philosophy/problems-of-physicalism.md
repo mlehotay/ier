@@ -2,7 +2,7 @@
 
 ## Status and scope
 
-**Status:** draft, non-canonical research inventory
+**Status:** draft, non-canonical research inventory\
 **Authority:** working document; no IER claim, definition, or revision is made here
 
 This document collects major problems for physicalism in the philosophy of mind and adjacent metaphysics. It is deliberately diagnostic rather than defensive. It does not ask how Informational Experiential Realism (IER) answers any problem, and inclusion does not imply that the problem succeeds.

@@ -17,7 +17,7 @@ ier:
 
 ## Identity, Structure, and Continuity
 
-**Informational Experiential Realism (IER v10.11.5)**  
+**Informational Experiential Realism (IER v10.11.5)**\
 *T4 · Orientation · Draft · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
