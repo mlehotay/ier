@@ -373,8 +373,8 @@ No downstream article should use an effect at one level as an unargued criterion
 - `IER-self-model.md`, `IER-identity.md`, and `IER-multiscale-uefs.md`: self-organization, persistence, nesting, overlap, and scale-relative roles.
 - `IER-cold-nights.md`: noncognitive bodily participation and attenuation within an intact UEF.
 - `_work/strawson/README.md` and its linked final report and stop points: the process-subject identity, individuation, persistence, and philosophical-priority basis.
-- `discovery-intrinsic-closure-and-dynamical-unification.md`: closure under consequence and trajectory–topology reciprocity.
-- `where-we-are-intrinsic-closure-and-dynamical-unification.md`: the full state-of-the-work integration.
-- `bilateral-participation-and-intrinsic-closure.md`: contribution and bearing as interval-level membership.
-- `physics-led-boundary-test-for-constitutive-recruitment.md`: the physical comparison between external and constitutive roles.
-- `ownership-hypothesis.md`: ownership as the global subject boundary and bilateral participation as its process-level analysis.
+- `_work/unification/workstream-a/discovery-intrinsic-closure-and-dynamical-unification.md`: closure under consequence and trajectory–topology reciprocity.
+- `_work/unification/workstream-a/where-we-are-intrinsic-closure-and-dynamical-unification.md`: the full state-of-the-work integration.
+- `_work/unification/workstream-a/bilateral-participation-and-intrinsic-closure.md`: contribution and bearing as interval-level membership.
+- `_work/unification/workstream-a/physics-led-boundary-test-for-constitutive-recruitment.md`: the physical comparison between external and constitutive roles.
+- `_work/unification/workstream-a/ownership-hypothesis.md`: ownership as the global subject boundary and bilateral participation as its process-level analysis.

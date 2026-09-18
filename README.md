@@ -1,14 +1,47 @@
-# Informational Experiential Realism (IER)
+# Informational Experiential Realism (IER) v10.11.5
 
-*A physical theory of experience*
+*Strawsonian real physicalism reconstructed through cybernetic closure*
 
 This repository contains the public release of Informational Experiential Realism (IER).
+
+The current project-level orientation is:
+
+> **IER is Strawsonian real physicalism reconstructed through a closure-bearing cybernetic regime ontology rather than a panpsychist micro-ontology.**
 
 IER is a physicalist identity framework that proposes a simple central claim:
 
 > Experience is identical to the operation of a physical system organized as a globally integrated, temporally extended regime under intrinsic constraint.
 
 Rather than treating experience as computation, representation, information processing, or an emergent property of neural activity, IER attempts to explain experience as a particular form of physical organization.
+
+In this formulation, Strawsonian real physicalism supplies the commitment that
+experience is wholly physical and may be identical with a physical process and
+its subject. Cybernetics supplies antecedent vocabularies of possibility,
+constraint, regulation, physical control, self-maintenance, viability, and
+closure. IER's proposed contribution is the specification joining these
+traditions: a locally bounded physical operation with non-factorizable
+continuation, a non-externalizable ownership frontier, bilateral constitutive
+membership, consequence inheritance, and unique diachronic continuity.
+
+This is a reconstruction, not a claim that ordinary feedback, regulation,
+computation, adaptivity, or operational closure is sufficient for experience.
+It rejects experiential constituent inheritance and therefore avoids the
+constitutive panpsychist combination problem; it does not claim to refute every
+panpsychist, Russellian, or cosmopsychist position.
+
+## v10.11.5 and I4 status
+
+The v10.11.5 integration has reached I4, the philosophical reconciliation
+gate. Its proposed reconciliation aligns the physical specification with the
+Strawson research programme and the source-grounded cybernetics comparison.
+It limits novelty to the integrated conjunction rather than any individual
+idea inherited from those traditions.
+
+I4 is complete as a review package but remains subject to human acceptance.
+Canonical adoption, source-grounded revision of the comparative cybernetics
+article, comprehensive neighboring-literature review, and corpus-wide
+propagation remain downstream work. This README states the current project
+orientation; it does not promote the I4 proposal into canonical authority.
 
 This repository contains a curated subset of the larger IER project, including the core theoretical documents, worked examples, and exploratory applications.
 
@@ -145,6 +178,11 @@ See:
 ## Project Status
 
 This repository is an active research project.
+
+Version 10.11.5 is currently reconciling the canonical physical specification
+with its Strawsonian and cybernetic antecedents. The I4 synthesis is a
+non-canonical review decision until human acceptance and the governed
+implementation phases that follow it.
 
 The canonical theory contained within `IER/` evolves more slowly than the surrounding examples and applications.
 
