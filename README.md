@@ -29,19 +29,21 @@ It rejects experiential constituent inheritance and therefore avoids the
 constitutive panpsychist combination problem; it does not claim to refute every
 panpsychist, Russellian, or cosmopsychist position.
 
-## v10.11.5 and I4 status
+## v10.11.5 status
 
-The v10.11.5 integration has reached I4, the philosophical reconciliation
-gate. Its proposed reconciliation aligns the physical specification with the
-Strawson research programme and the source-grounded cybernetics comparison.
-It limits novelty to the integrated conjunction rather than any individual
-idea inherited from those traditions.
+Human review accepted the I4 philosophical reconciliation on 18 September
+2026. It aligns the physical specification with the Strawson research
+programme and the source-grounded cybernetics comparison, while limiting
+novelty to the integrated conjunction rather than any individual idea
+inherited from those traditions.
 
-I4 is complete as a review package but remains subject to human acceptance.
-Canonical adoption, source-grounded revision of the comparative cybernetics
-article, comprehensive neighboring-literature review, and corpus-wide
-propagation remain downstream work. This README states the current project
-orientation; it does not promote the I4 proposal into canonical authority.
+I5 is now active and will revise the S1 decision package and implementation
+plan. The accepted I4 result remains non-canonical: canonical adoption,
+structural dynamics V&V, source-grounded revision of the comparative
+cybernetics article, comprehensive neighboring-literature review, and
+corpus-wide propagation remain downstream or independent work. This README
+states the current project orientation; it does not promote I4 into canonical
+authority.
 
 This repository contains a curated subset of the larger IER project, including the core theoretical documents, worked examples, and exploratory applications.
 
@@ -179,10 +181,10 @@ See:
 
 This repository is an active research project.
 
-Version 10.11.5 is currently reconciling the canonical physical specification
-with its Strawsonian and cybernetic antecedents. The I4 synthesis is a
-non-canonical review decision until human acceptance and the governed
-implementation phases that follow it.
+Version 10.11.5 has completed and accepted its non-canonical I4 reconciliation
+of the physical specification with its Strawsonian and cybernetic antecedents.
+I5 is preparing the governed S1 handoff; no canonical or corpus-wide
+propagation has begun.
 
 The canonical theory contained within `IER/` evolves more slowly than the surrounding examples and applications.
 

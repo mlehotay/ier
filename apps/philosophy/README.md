@@ -12,7 +12,7 @@ This application develops the philosophical vocabulary and research practice nee
 
 ## v10.11.5 orientation and version boundary
 
-The current I4 review package frames IER as:
+The accepted I4 reconciliation frames IER as:
 
 > **Strawsonian real physicalism reconstructed through a closure-bearing cybernetic regime ontology rather than a panpsychist micro-ontology.**
 
@@ -32,9 +32,9 @@ component-lineage project under `_work/antecedents/`.
 Accordingly, references below to a “current synthesis,” final report, or
 novelty assessment mean the state of the philosophy package before the
 cybernetics input was incorporated. The non-canonical I4 reconciliation now
-provides the project-level integration baseline, but it remains proposed for
-human acceptance and does not retroactively alter these evidence and research
-records.
+provides the accepted project-level integration baseline for I5 and S1, but it
+does not retroactively alter these pre-cybernetics evidence and research
+records or authorize canon propagation.
 
 ## Contents
 
@@ -58,9 +58,9 @@ later project may perform that mapping.
 states the pre-cybernetics non-canonical synthesis of experience–subject–process
 identity, synchronic unity, ownership boundary, constitutive membership,
 diachronic persistence, cessation, and immediate metaphysical consequences. It
-remains an input to the later I4 reconciliation, not the complete v10.11.5
-project-level synthesis, a canonical revision, or a procedure for detecting
-UEFs.
+remains a historical input to the accepted I4 reconciliation, not the complete
+v10.11.5 project-level synthesis, a canonical revision, or a procedure for
+detecting UEFs.
 
 ## Process-Subject Research Status
 
