@@ -43,8 +43,6 @@ records or authorize canon propagation.
 - [Metaphysical Account of the UEF Process-Subject](./metaphysical-account-of-the-uef-process-subject.md)
 - [Final Strawson Process-Subject Research Report](./strawson-process-subject-final-report.md)
 - [Process-Subject Literature Research Report](./process-subject-research-report.md)
-- [Process-Subject Source Ledger](./process-subject-source-ledger.md)
-- [Process-Subject Search Log](./process-subject-search-log.md)
 
 ## Pre-cybernetics Synthesis and Problem Inventory
 
@@ -64,9 +62,12 @@ detecting UEFs.
 
 ## Process-Subject Research Status
 
-The completed materials here preserve the preliminary process-subject
-literature search, its evidence ledger, and its reproducible search record.
-They are retained as a bounded research baseline rather than an active project.
+The completed reports here preserve the findings of the preliminary
+process-subject literature search as a bounded research baseline rather than
+an active project. Its working evidence and reproducibility records now live
+with the rest of the completed Strawson research programme under
+`_work/strawson/`: `process-subject-source-ledger.md` and
+`process-subject-search-log.md`.
 
 The Strawson research programme is complete as a pre-cybernetics research
 baseline and recommends proceeding to a paper on continuing process-subject
@@ -76,8 +77,9 @@ recommended paper structure are consolidated in the
 
 That report reassesses the preliminary process-subject findings and preserves
 a deliberately narrower public synthesis of the completed Strawson work. The
-supporting source notes, argument matrices, decision notes, and stop-point
-materials remain working artifacts rather than part of this application.
+supporting source ledger, search log, source notes, argument matrices, decision
+notes, and stop-point materials remain working artifacts rather than part of
+this application.
 
 The preliminary materials retained here and the final Strawson report remain
 non-canonical and make no revision to IER. They should not be cited as though

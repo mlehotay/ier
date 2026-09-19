@@ -18,7 +18,7 @@ ier:
 ## Précis
 
 **Informational Experiential Realism (IER v10.11.5)**\
-*Framework Compression · Non-Normative · Canon-Constrained*
+*Framework Compression - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
 
