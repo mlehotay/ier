@@ -18,6 +18,17 @@ This document collects major problems for physicalism in the philosophy of mind 
 
 The target must therefore be recorded alongside the objection. Apparent solutions sometimes work by changing the version of physicalism under discussion.
 
+## Current-use note — 29 September 2026
+
+This remains a neutral inventory. The separate companion
+[IER and the Problems of Physicalism](IER-and-problems-of-physicalism.md)
+assesses current commitments, evidence levels and residual burdens against
+these entries. It does not turn the inventory into a defense of IER or a
+list of solved problems. The [metaphysical exposition](metaphysical-account-of-the-uef-process-subject.md)
+and [final research synthesis](strawson-process-subject-final-report.md) reflect
+the implemented formulation and completed Phase 9/S5; research closure does
+not establish empirical adequacy.
+
 ## Orientation: different kinds of problem
 
 The literature does not consistently use titles of the form “the X problem for physicalism.” Some challenges are called problems, others gaps, arguments, dilemmas, or objections. They also ask importantly different questions:
@@ -390,14 +401,12 @@ The numbering is classificatory, not a claim that there are exactly thirty indep
 - Masrour, Farid, Andrew Brook, and Paul Raymont. “The Unity of Consciousness.” *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/consciousness-unity/>
 - “Zombies.” *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/zombies/>
 
-## Deferred task
+## Companion assessment
 
-A future document may map IER claims to this inventory. That work should classify each item as:
-
-1. directly answered by an explicit IER commitment;
-2. dissolved because IER rejects a presupposition;
-3. inherited as an open philosophical burden;
-4. converted into an empirical or formal research problem; or
-5. outside IER’s intended scope.
-
-No such classification is attempted here.
+[IER and the Problems of Physicalism](IER-and-problems-of-physicalism.md)
+now provides the separately scoped mapping. It distinguishes explicit
+commitments, rejected presuppositions, specified relations, defeasible arguments,
+open burdens and separately scoped issues. Each row records the target,
+evidence level and residual question; articulating a response is not a claim
+that the objection has been conclusively answered. No such classification is
+attempted in this neutral inventory itself.

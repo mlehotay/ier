@@ -16,11 +16,9 @@ ier:
 ## Constraint as Lawful Restriction on Admissible Continuation
 
 **Informational Experiential Realism (IER v10.10.7)**\
-*Tier 2 - Foundational Clarification - Canon-Constrained - Non-Normative*
+*Tier 2 · Foundational Clarification · Canon-Constrained · Non-Normative*
 
 ## Status, Scope, and Authority
-
-
 
 
 This document is explanatory and non-normative.
@@ -94,9 +92,7 @@ Let $R \subseteq S \times S$ be the admissible transition relation.
 
 For a configuration $s \in S$, the admissible successor set is:
 
-$$
-A(s) = \{ s' \in S \mid (s,s') \in R \}
-$$
+$$ A(s) = \{ s' \in S \mid (s,s') \in R \} $$
 
 The set $A(s)$ defines the admissible futures of the system at the history-future boundary.
 
@@ -180,9 +176,7 @@ For subsystem components $s_A, s_B$, intrinsic closure is defined as follows:
 
 ### Intrinsic closure condition
 
-$$
-A(s) \neq A_A(s_A) \times A_B(s_B)
-$$
+$$ A(s) \neq A_A(s_A) \times A_B(s_B) $$
 
 In such regimes:
 

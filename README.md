@@ -37,13 +37,14 @@ programme and the source-grounded cybernetics comparison, while limiting
 novelty to the integrated conjunction rather than any individual idea
 inherited from those traditions.
 
-I5 is now active and will revise the S1 decision package and implementation
-plan. The accepted I4 result remains non-canonical: canonical adoption,
-structural dynamics V&V, source-grounded revision of the comparative
-cybernetics article, comprehensive neighboring-literature review, and
-corpus-wide propagation remain downstream or independent work. This README
-states the current project orientation; it does not promote I4 into canonical
-authority.
+I5 completed its governed handoff on 19 September 2026, and Phase F
+re-accepted the corrected I2/SOP handoff and closed S1 on 24 September 2026.
+The accepted result remains non-canonical: bounded S2 formalization,
+SOP-governed relation investigation, source-grounded revision of the
+comparative cybernetics article, comprehensive neighboring-literature review,
+and corpus-wide propagation remain downstream or independent work. This
+README states the current project orientation; it does not promote the
+working reconciliation into canonical authority.
 
 This repository contains a curated subset of the larger IER project, including the core theoretical documents, worked examples, and exploratory applications.
 
@@ -181,10 +182,10 @@ See:
 
 This repository is an active research project.
 
-Version 10.11.5 has completed and accepted its non-canonical I4 reconciliation
-of the physical specification with its Strawsonian and cybernetic antecedents.
-I5 is preparing the governed S1 handoff; no canonical or corpus-wide
-propagation has begun.
+Version 10.11.5 has completed I1–I5 and re-closed S1 at Phase F after accepting
+the controlled-investigation correction. S2 is authorized but unstarted
+pending a ready bounded question; no canonical or corpus-wide propagation has
+begun.
 
 The canonical theory contained within `IER/` evolves more slowly than the surrounding examples and applications.
 

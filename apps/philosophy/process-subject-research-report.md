@@ -2,14 +2,44 @@
 
 ## Status
 
-Status: complete preliminary finding; follow-on work paused
+Status: complete preliminary finding; historical report; see current-use assessment
 Date: 6 September 2026  
 Authority: non-canonical research report
 
 This report is retained as the completed preliminary literature survey.
-Further process-subject research will resume after the current Strawson project
-is complete. Its conclusions should then be reassessed against that work before
-they guide a new research phase.
+The preliminary source findings remain evidence for the completed Strawson
+batches and accepted integration. The current assessment below distinguishes
+those findings from later IER-facing synthesis; it does not restart the survey.
+
+## Current-use assessment — 29 September 2026
+
+Outcome A remains the bounded explicit-precedent finding: physical
+process-subject identity itself is not new. The historical body below retains
+its original source classifications, access limits and preliminary translation
+audit. Its former identity/constitution ambiguity, proposed novelty scope and
+recommended future work are dated assessments, not current theory debt or
+instructions to reopen accepted relations.
+
+The [current final synthesis](strawson-process-subject-final-report.md) includes
+synchronic support-level closure, independent ownership, all five membership
+clauses, operational production, effective typed inheritance and unique
+predecessor and successor under the complete stage-continuity relation.
+A subject token can end without a system-wide experiential gap.
+
+The antecedents project is closed with an accepted 44-source synthesis;
+Phase 9/S5 is complete at literature-comparison and contribution-claim scope.
+IER contributes the developed physicalist framework and its particular
+formulation, organization, arguments and implications. Historical novelty
+of individual ideas or established combinations is not claimed. Full manuscript
+revision remains Phase 11 work. Concrete individuation, attribution, complete
+quality correspondence and abductive identity warrant remain open.
+
+Private provenance: `_work/antecedents/final-report.md`,
+`_work/antecedents/contribution-claim.md` and
+`_work/unification/phases/phase-09-summary.md`. These are repository audit paths,
+not exported public evidence links. The historical body begins below.
+
+## Historical Preliminary Finding
 
 ## Executive finding
 

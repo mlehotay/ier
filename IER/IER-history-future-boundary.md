@@ -8,19 +8,25 @@ ier:
   category: structural_history_I
   status: canonical
   filename: IER-history-future-boundary.md
+  version: 10.11.5
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-continuity
+    - IER-closure-under-consequence
+    guardrails:
+    - IER-canon
 ---
 
-# The Structural Frontier Where Constraint Operates
+# History–Future Boundary
 
 ## The Structural Frontier Where Constraint Operates
 
-**Informational Experiential Realism (IER v10.11.0)**\
-*Explanatory - Non-Normative - Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.5)**\
+*Explanatory · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
-
-
-
 
 This document names and clarifies a single structural locus already presupposed throughout the IER corpus:
 
@@ -100,7 +106,7 @@ This boundary is:
 It is:
 
 * the locus of intrinsic constraint
-* the site of unavoidable resolution
+* the site of lawful successor realization and conditional irreversible resolution
 * the interface between what is no longer reachable and what remains possible
 
 On one side:
@@ -113,7 +119,8 @@ On the other:
 * futures remain admissible
 * reachability is still open
 
-Constraint exists only at this boundary, because only here can admissible futures be foreclosed.
+Intrinsic constraint is currently borne at the frontier. Its operation does
+not require loss of admissible futures at every advance.
 
 ## Experience as Frontier Operation
 
@@ -162,23 +169,25 @@ Narrative inevitability is structural:
 
 > not because the past is remembered, but because alternatives no longer exist.
 
-## Identity as Persistence of Boundary Ownership
+## Continuing Frontiers and Numerical Identity
 
-Identity persists because the same system continues to operate this boundary.
+Successive frontiers are organizations of a continuing physical operation,
+not snapshots joined by memory or an enduring bearer. The operation lawfully
+produces its successor; physically instantiated history-bearing deformation
+can remain effective and constrain later admissibility.
 
-Identity does not require:
+Numerical continuity is governed by `Adj_dia(a,b)` between independently
+individuated, non-zero-duration stages. Continuous owned closure, operational
+successor production, typed consequence inheritance, operation-mediated
+change, and unique two-sided continuation must hold together. A token is a
+maximal one-to-one chain under that relation. Non-empty futures or repeated
+closure alone do not connect stages as one token.
 
-* memory
-* narrative continuity
-* stored content
-
-Identity consists in:
-
-* continued ownership of intrinsic constraint
-* continued participation in boundary operation
-* persistence through deformation
-
-A system remains the same subject as long as it continues to operate this boundary, regardless of how its admissibility structure changes.
+Boundary migration and turnover can preserve continuity when enacted through
+the qualifying operation. Reconstruction, shared matter, or stored records
+cannot bridge failure of the relation. Continuous operation requires no fresh
+collapse, welding, propagation, sedimentation, or re-entry at every frontier.
+Those terms retain their distinct conditional roles when foreclosure occurs.
 
 ## Temporal Asymmetry Without Storage
 
@@ -222,7 +231,7 @@ It names a structural locus only.
 
 ## Structural Fact
 
-> Constraint exists only where possibility is being irreversibly lost.
+> Present constraint can remain effective while continuation preserves reachability.
 
 ## Explicit Closure
 
@@ -231,3 +240,7 @@ This document introduces no new mechanism.
 It identifies the structural locus already doing explanatory work across the corpus:
 
 > Experience is the ongoing operation of the boundary where admissible futures are constrained by prior collapse and may be irreversibly foreclosed under intrinsic constraint.
+
+## Intermission - Structural Fact
+
+A later frontier inherits physical organization, not a stored present.

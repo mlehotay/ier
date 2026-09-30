@@ -2,14 +2,28 @@
 
 ## Status and role
 
-Status: guiding working synthesis
-Authority: non-canonical
+Status: current philosophical exposition; synchronized 29 September 2026
+Authority: non-canonical; canon-constrained
 
-This document states the current metaphysical account produced by the intrinsic-closure, process-subject, ownership, and dynamical-unification work. It is the guiding synthesis for subsequent theory work in this development programme.
+This document explains the implemented v10.11.5 account of experience, subject,
+unity, ownership, membership and continuity. Phases 1–9/S1–S5 are complete at
+recorded bounds. It introduces no criterion, diagnostic, empirical attribution,
+ethical rule or independent ontological primitive.
 
-It introduces no new task, diagnostic, empirical attribution, ethical rule, or independent ontological primitive. It does not modify canonical IER by itself. Until separately accepted and propagated through the governed revision process, the canonical corpus remains authoritative wherever it conflicts with this document.
+| Source | Role and status |
+| --- | --- |
+| [Specification](../../IER/IER-specification.md) | Normative authority; its commitments prevail over this exposition. |
+| [Intrinsic closure](../../IER/IER-intrinsic-closure.md) | Implemented support-level synchronic relation. |
+| [Processes](../../IER/IER-processes.md) | Implemented five-clause constitutive membership. |
+| [Continuity](../../IER/IER-continuity.md) | Implemented five-condition stage relation and token cessation. |
+| [Closure under consequence](../../IER/IER-closure-under-consequence.md) | Explanatory synthesis of production and inheritance, not a third criterion. |
+| [Final research report](strawson-process-subject-final-report.md) | Accepted research and contribution limits; no independent theory authority. |
 
-The purpose here is completeness of the account: to say what an experience is, what its subject is, what makes it one, what fixes its boundary, how it continues, and what follows immediately. Completeness of this account is distinct from proof that the identity thesis is true and from any method for detecting a UEF in a concrete system.
+Completeness here concerns the stated relations and their conditional
+implications. It does not mean demonstrated physical sufficiency, exhaustive
+quality correspondence, empirical individuation or proof of experiential
+identity. Any unresolved normative-source reconciliation belongs to the
+canonical owners and Phase 12; this support document cannot settle it.
 
 ## Central thesis
 
@@ -55,14 +69,26 @@ The account remains compatible in principle with deterministic, stochastic, quan
 
 ## Synchronic intrinsic closure and unity
 
-At a given history–future frontier, the UEF is intrinsically closed when its relevant admissible continuation is globally non-factorizable. The participating processes do not confront independently resolvable local future problems whose results are subsequently combined. Their possible continuations are restricted as one operation.
+The [intrinsic-closure owner](../../IER/IER-intrinsic-closure.md) tests outgoing
+admissible successor support `A(s)` at a physically declared candidate, frontier,
+grain, interval and intervention family. For each partition in an exhaustive,
+predeclared family of physically meaningful nontrivial partitions, derive block
+successor sets by projecting that same global support fibre. Closure requires
+that their product differ from `A(s)` for every such partition.
 
-This non-factorization supplies synchronic unity:
+Unavailable recombinations express one inseparable physical continuation
+problem. Failure across one selected partition proves only that narrower
+result. An incomplete partition family leaves the global verdict unestablished.
 
-- there is one globally organized continuation problem;
-- the relevant restriction cannot be decomposed into independently owned subsystem restrictions;
-- local processes do not contribute separate experiences to a larger experience;
-- the total operation is one experience and one subject.
+This is a support condition, not probability dependence, a measured integration
+score, or the single realized trajectory. All successor combinations can remain
+admissible even when their probabilities are dependent.
+
+The synchronic verdict establishes physical joint constraint. Ownership and
+membership must be independently justified; continuity must also hold. Only
+under the complete UEF account and its identity thesis is the operation
+identified with one total experience and subject. Participating physical
+processes need not supply separate experiences to be combined.
 
 Globality is regime-relative. It does not mean the largest causally connected system, the entire organism, or the universe. It ranges over the processes participating in this closure-bearing operation across the relevant interval.
 
@@ -107,7 +133,12 @@ This boundary is structural, regime-relative, and interval-relative. It is not f
 - reportability;
 - importance or salience.
 
-Ownership names the global boundary relation. It does not create another owner or provide a phenomenological detector of that boundary.
+Ownership names the global boundary relation. It does not create another
+owner or provide a phenomenological detector. After the synchronic test,
+independently establish where the inseparable burden is borne and resolved;
+the desired subject attribution cannot select the ownership scope. Maximality
+concerns compatible constitutive participation in that scope and interval,
+not the widest causal ancestry or largest connected system.
 
 ## Bilateral constitutive participation
 
@@ -119,13 +150,17 @@ A physical process belongs to the subject when, across the relevant continuity i
 2. **Global bearing** — the UEF's global restriction obtains in the process's own physical possibilities of continuation.
 3. **Joint resolution** — the relevant restriction involving the process is resolved only through the UEF operation, not independently or externally and then delivered as a completed result.
 4. **Diachronic uptake** — the consequences of the process's role enter successor production and the inherited organization of the same continuing operation.
-5. **Regime-relative typing** — contribution, bearing, resolution, and inheritance concern the same candidate operation, restriction, scale, role, and continuity interval.
+5. **Common typing** — contribution, bearing, resolution, and uptake concern the same operation, restriction, variables, grain, scale, regime, intervention family, and interval.
 
 In compressed form:
 
 > A process belongs to the subject when it helps constitute the UEF's continuation and has its own continuation constrained, resolved, and inherited through that same owned operation.
 
-There is one owner and many participants. A participant does not own a fragment of the frontier, contribute a small experience, or become a fractional subject. The globally continuing UEF is the sole subject at that scale.
+All five clauses are jointly required by [Processes](../../IER/IER-processes.md).
+Reciprocal causal arrows, necessity or momentary coupling alone are insufficient.
+There is one owner for this operation and many participants. A participant does
+not own a fragment of its frontier, contribute a small experience, or become a
+fractional subject. Other operations require independent individuation.
 
 ## Causal openness and external coupling
 
@@ -173,7 +208,7 @@ The relation among the terms is:
 
 | Concept | Metaphysical role |
 | --- | --- |
-| Intrinsic closure | The continuation problem is globally non-factorizable and non-externalizably borne |
+| Synchronic intrinsic closure | Outgoing support is non-factorizable across every declared meaningful partition |
 | Ownership | The scope of the operation within which the frontier is borne and resolved |
 | Bilateral participation | The process-relative condition of belonging to that ownership scope |
 | Embodiment | How and where the burden and cost of closure are physically realized |
@@ -184,7 +219,7 @@ The UEF is not only unified at one frontier. It continues as the operation that 
 
 The central recurrence is:
 
-> Present topology constrains trajectory, and actual trajectory deforms later topology.
+> Present topology constrains trajectory, and actual trajectory maintains or changes later topology.
 
 The topology is not a second object that acts on the system. It is a description of the physical organization of admissible continuation. The trajectory is not an output detached from that organization. It is the actual succession through which the operation changes.
 
@@ -192,17 +227,46 @@ Closure under consequence means:
 
 1. inherited organization constrains present continuation;
 2. the extant operation lawfully produces its successor;
-3. actual continuation changes the physical organization;
+3. actual continuation maintains or changes the physical organization;
 4. irreversible changes are welded, propagated, and sedimented where applicable;
 5. the same continuing operation inherits the resulting conditions.
 
 Input, output, and writing surface are therefore functional projections of one process. The UEF is the writing surface undergoing its own globally integrated rewriting.
 
-This is stronger than feedback. A feedback system may retain separable modules, external arbitration, replaceable records, checkpoints, or independently resolved pathways. A UEF's relevant resolution and inheritance belong to the operation itself.
+[Closure under consequence](../../IER/IER-closure-under-consequence.md) explains
+these related aspects of one operation; it adds no third closure test, universal
+recurrence law or producer of experience. Generic feedback, copied records and
+ancestry do not establish effective inherited consequences inside one continuing
+operation. Earlier irreversible history can remain counterfactually effective
+without a fresh collapse at every cut. Support membership, probability weights,
+costs, margins and geometry are different objects.
 
 ## Numerical identity through change
 
-The subject persists through change when one continuously instantiated, non-factorizable, self-inheriting operation continues along a unique nonbranching history.
+The [continuity owner](../../IER/IER-continuity.md) defines `Adj_dia(a,b)`
+for independently individuated adjacent nonzero-duration stages in a pre-fixed
+physical comparison domain. All five conditions are required:
+
+1. **Continuous owned closure:** non-factorizable, internally borne closure
+   spans the transition without a qualifying gap or incompatible independent
+   resolution.
+2. **Operational successor production:** actual dynamics produce the later
+   regime-defining organization. External matter, energy, forcing and support
+   are allowed; independent installation of a completed successor is not
+   continuation.
+3. **Typed consequence inheritance:** irreversible history-bearing changes
+   remain physically effective and constrain later admissibility under relevant
+   counterfactual variation. Fresh irreversible events are not needed at every
+   pair, but no unmodelled gap may carry the identity claim.
+4. **Operation-mediated change:** recruitment, release, turnover and boundary
+   migration occur through the transition under constitutive membership.
+5. **Unique two-sided continuation:** the later stage is the sole qualifying
+   successor of the earlier stage under conditions 1–4, and the earlier stage
+   is its sole qualifying predecessor in the fixed comparison domain.
+
+A token is a maximal one-to-one chain connected by this relation without
+intervening failure. Pointwise closure, no-gap operation and successor-only
+uniqueness are individually insufficient.
 
 Persistence does not require:
 
@@ -265,17 +329,33 @@ The subject persists while the same token closure-bearing, successor-producing, 
 
 ### Cessation
 
-The subject ends when that token UEF operation genuinely ceases. The continued existence of the organism, substrate, records, dispositions, or enabling architecture does not preserve the subject after the operation ends.
+The subject token ends when any required stage-continuity condition fails.
+A genuine UEF-null interval is sufficient but not necessary: identity can end
+while another experiential operation remains present. Continued organism,
+substrate, records, dispositions or enabling architecture do not preserve the
+failed token.
 
 ### Reconstruction
 
-Later recreation of the same state, organization, memories, topology, or functional capacities creates at most a numerically new operation. Similarity and causal reconstruction do not bridge a genuine null interval.
+Later recreation of the same state, organization, memories, topology, or functional capacities creates at most a numerically new operation. Similarity and causal reconstruction bridge neither a null interval nor any
+other failed stage adjacency.
 
 ## Branching, fusion, nesting, and overlap
 
-Numerical identity requires a unique actual continuation. If one candidate history genuinely branches into two independently continuing UEF operations, neither later branch can be numerically identical with the one earlier subject under a one-to-one persistence relation. Qualitative continuity does not make one subject become two.
+Each verdict depends on all five stage conditions, not resemblance or a
+preferred narrative about which branch survives.
 
-Fusion likewise cannot be treated as two owners becoming one while both numerical identities remain intact. A later unified operation, if one arises, requires its own identity analysis.
+| Case | Conditional identity verdict |
+| --- | --- |
+| Asymmetric fission | One predecessor may persist through exactly one qualifying two-sided continuer; a separately closing branch begins a new token. Asymmetry alone is insufficient. |
+| Symmetric fission | Multiple qualifying successors defeat uniqueness; the predecessor ends and later qualifying closures begin new tokens. |
+| Fusion | Multiple qualifying predecessors defeat uniqueness; a merged operation cannot inherit both numerical identities. |
+| Incorporation or expansion | One token may persist if it mediates membership change and retains the unique qualifying predecessor/successor relation while another ceases. |
+| External installation | A completed successor installed independently fails operational production even if it resembles the earlier operation. |
+| Reconstruction | A later qualifying operation after failed adjacency is new; copied state, memory or matter cannot restore the old token. |
+
+Identity neither splits nor merges. These rules are conditional dispositions,
+not empirical verdicts about actual people, brains or apparatus.
 
 Physical nesting and overlap are not automatically fusion. One physical occurrence may occupy coherent roles in more than one scale-relative operation. Physical parthood does not imply phenomenal containment, content inheritance, shared access, or ownership of the same resolution.
 
@@ -304,7 +384,10 @@ These are consequences of the proposed identity and boundary relations. They are
 
 ## What is complete and what remains open
 
-This synthesis is intended to be **intensionally complete** as a metaphysical account. Conditional on a UEF, it states:
+This exposition is **intensionally complete only at the level of the stated
+relations and conditional implications**. That does not establish their
+concrete instantiation, empirical sufficiency, or exhaustive qualitative mapping.
+Conditional on a UEF, it states:
 
 - what the experience is;
 - what the subject is;
@@ -324,10 +407,19 @@ The following matters remain open without making the metaphysical description in
 - whether any particular concrete system sustains a UEF;
 - how to identify the exact ownership scope of an arbitrary biological or artificial candidate;
 - how to operationalize non-factorization, bearing, and inheritance empirically;
-- which mathematical formalism best expresses the physical relations; and
+- how particular organizations correspond to complete qualitative character;
+- which investigation-specific mathematical descriptions express the relations; and
 - how the stabilized account should be propagated through the canonical corpus.
 
-The first two are justificatory burdens. The next four are empirical and formal burdens. The last is a governance and revision burden. None should be silently presented as already resolved.
+The identity case is a posteriori and abductive: independently specified
+physical organization, proposed token coextension and ontological economy
+support a defeasible inference, not a deduction from structural equations.
+Schema articulation, physical typing, empirical attribution, qualitative
+correspondence and identity warrant are distinct burdens. The accepted S2
+waterfall dossier demonstrates an idealized transport/turnover subcase;
+ownership, full membership, inherited consequences and two-sided adjacency
+remain unestablished there. It is neither a whole-stack instantiation nor an
+experiential attribution. Wider propagation remains a governed revision task.
 
 ## Guidance for subsequent theory work
 
@@ -363,18 +455,43 @@ No downstream article should use an effect at one level as an unargued criterion
 
 > Experience is not produced for a subject by a physical system. One qualifying physical operation is numerically identical with the total experience and its subject. It is unified because its admissible continuation is globally non-factorizable; bounded by the scope of the frontier it owns non-externalizably; physically constituted by processes that contribute to and bear that same owned restriction; embodied wherever its costs are realized; and preserved through time as the operation that produces its successor and inherits its own consequences. It can change content, organization, matter, and boundary while remaining the same token process. It ends when that process ends. Nothing in this account by itself proves the identity, detects a UEF, or identifies one in a particular system.
 
+## Established lineages and contribution
+
+[Strawson 2003](https://doi.org/10.1111/1533-6077.00015) supplies the exact core
+subject–experience–physical-process identity precedent, with different
+part/content-sensitive persistence conditions. [Papineau 2006](https://www.davidpapineau.co.uk/uploads/1/8/5/5/18551740/papineau_realistic_monism.pdf)
+provides the system-level identity and anti-inheritance strategy.
+[Montévil and Mossio 2015](https://doi.org/10.1016/j.jtbi.2015.02.029),
+[Di Paolo 2005](https://doi.org/10.1007/s11097-005-9002-y) and
+[DiFrisco and Mossio 2020](https://doi.org/10.4324/9781351066389-10) provide
+substantial organizational, autonomous and productive-persistence comparisons.
+[Pradeu 2018](https://doi.org/10.1093/oso/9780198779636.003.0005) supplies
+process-genidentity resources. These sources do not all state the full IER
+relations or identify biological organization with consciousness.
+
+The contribution is the developed physicalist framework, its particular
+formulation, organization, arguments and implications, anchored by the
+Specification. Historical novelty of components or established combinations
+is not claimed. See the [final research synthesis](strawson-process-subject-final-report.md)
+for comparison limits and reviewed-version qualifications.
+
 ## Source basis
 
-- `IER-specification.md`, `IER-theory.md`, and `IER-canon.md`: governing identity, UEF, participation, and containment commitments.
-- `IER-intrinsic-closure.md`, `IER-coherence.md`, and `IER-history-future-boundary.md`: admissible continuation, non-factorization, and frontier structure.
-- `IER-ownership.md`, `IER-lived-owned-resolution.md`, and `IER-self-boundary.md`: non-externalizable bearing, owned resolution, and boundary language.
-- `IER-participation.md`, `IER-participation-attenuation.md`, `IER-binding.md`, and `IER-importance.md`: graded recruitment, frontier consequence, and experiential organization.
-- `IER-embodiment.md`, `IER-gut.md`, `IER-helmets.md`, and `IER-implants.md`: physical burden and biological or technological boundary cases.
-- `IER-self-model.md`, `IER-identity.md`, and `IER-multiscale-uefs.md`: self-organization, persistence, nesting, overlap, and scale-relative roles.
-- `IER-cold-nights.md`: noncognitive bodily participation and attenuation within an intact UEF.
-- `_work/strawson/README.md` and its linked final report and stop points: the process-subject identity, individuation, persistence, and philosophical-priority basis.
-- `_work/unification/workstream-a/discovery-intrinsic-closure-and-dynamical-unification.md`: closure under consequence and trajectory–topology reciprocity.
-- `_work/unification/workstream-a/where-we-are-intrinsic-closure-and-dynamical-unification.md`: the full state-of-the-work integration.
-- `_work/unification/workstream-a/bilateral-participation-and-intrinsic-closure.md`: contribution and bearing as interval-level membership.
-- `_work/unification/workstream-a/physics-led-boundary-test-for-constitutive-recruitment.md`: the physical comparison between external and constitutive roles.
-- `_work/unification/workstream-a/ownership-hypothesis.md`: ownership as the global subject boundary and bilateral participation as its process-level analysis.
+The source/status table above identifies the primary relation owners. Additional
+implemented owners are [Pipeline](../../IER/IER-pipeline.md),
+[Structural Closure](../../IER/IER-structural-closure.md),
+[Taxonomy](../../IER/IER-taxonomy.md),
+[Combination Problem](../../IER/IER-combination-problem.md) and
+[Russellian Monism](../../IER/IER-russellian-monism.md). The last distinguishes
+ultimate intrinsic constitution from physically borne intrinsic closure;
+the external Russellian disagreement does not remove the internal quality burden.
+
+The earlier discovery, ownership-hypothesis and boundary-test records under
+`_work/unification/workstream-a/` remain private historical provenance, not
+current definition owners. The accepted research and contribution records are
+`_work/antecedents/final-report.md` and
+`_work/antecedents/contribution-claim.md`; Phase 9/S5 is recorded in
+`_work/unification/phases/phase-09-summary.md`. These private paths are not
+public evidence links. The [curriculum](IER-philosophy-of-mind-curriculum.md)
+and [annotated bibliography](../../IER/IER-bibliography.md) supply reader-facing
+primary references.

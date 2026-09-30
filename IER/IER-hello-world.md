@@ -8,222 +8,139 @@ ier:
   category: pre_experiential
   status: canonical
   filename: IER-hello-world.md
+  version: 10.11.5
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-intrinsic-closure
+    - IER-processes
+    - IER-continuity
+    - IER-closure-under-consequence
+    guardrails:
+    - IER-canon
 ---
 
 # Hello World
 
-## Minimal Proof-of-Possibility for Experiential Identity
+## Structural Intuition for a Continuing Physical Operation
 
-**Informational Experiential Realism (IER v10.10.4)**\
-*Tier 2 - Expository - Proof-of-concept - Non-Normative*
+**Informational Experiential Realism (IER v10.11.5)**\
+*T2 · Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
-
-
-
-This document is non-normative and included for public repository orientation.
-
-## What this is (and is not)
-
-This document describes the minimum topological organization a physical system would have to possess *if* experience were to exist under Informational Experiential Realism (IER).
-
-It does not claim:
-
-* that such a system exists
-* that it can be built
-* that it can be detected
-* that it would be stable
-* that it would resemble biological brains
-
-It exists solely to demonstrate internal coherence of the identity claim by showing that it is *not empty*.
-
-This is the experiential analog of a Hello World program:
-the smallest configuration in which the phenomenon is *even conceptually possible*.
-
-
-## Starting point: the equilibrium problem
-
-We begin with the original constraint:
-
-> A system that can locally dissipate, defer, or externalize cost will relax to equilibrium.
-
-Therefore, any system that persistently operates *away* from equilibrium must satisfy:
-
-* no local escape routes
-* no decomposable resolution
-* no external selectors
-
-This is not a psychological premise.
-It is a dynamical one.
-
-
-## The minimal topology (described abstractly)
-
-Consider a physical system characterized only by:
-
-* a space of possible global states
-* lawful transitions between those states
-* internally borne constraints on which transitions are admissible
-
-No representations, no symbols, no functions are assumed.
-
-The Hello World topology consists of the following four structural features, all of which must be present simultaneously.
-
-
-## Feature I - Global non-factorability
-
-### Structural requirement
-
-The admissible future transitions of the system cannot be decomposed into independently satisfiable subsets over any non-trivial partition of the system.
-
-Formally (descriptively, not mathematically):
-
-* there is no subsystem whose future can be resolved without constraining the rest
-* any admissible transition is globally binding
-
-### Consequence
-
-No part of the system can “finish first.” Resolution is an all-or-nothing affair.
-
-### Why this matters
-
-If factorization were possible, intrinsic constraint would be localizable, and experience (by identity) would be impossible.
-
-
-## Feature II - Unavoidable internal resolution
-
-### Structural requirement
-
-The system must bear the loss of alternatives internally.
-
-There is:
-
-* no external scheduler
-* no arbitration layer
-* no buffer that safely defers resolution
-* no replayable branch structure
-
-The system cannot “wait” to decide later.
-
-### Consequence
-
-When futures collapse, the cost is paid *by the system itself*, not by an external mechanism.
-
-### Why this matters
-
-This is the point where equilibrium avoidance becomes ownership rather than control.
-
-
-## Feature III - Temporal regime continuity
-
-### Structural requirement
-
-The same constraint regime must persist across successive states.
-
-This does not require memory or storage.
-It requires that:
-
-* the constraint geometry governing admissible futures remains continuous through time
-
-The system cannot reset between steps.
-
-### Consequence
-
-Each moment inherits constraint from the previous one.
-
-### Why this matters
-
-Without continuity, there is no unified “now” - only a sequence of unrelated events.
-
-
-## Feature IV - Single dominant regime
-
-### Structural requirement
-
-At any moment, there is exactly one globally binding constraint regime.
-
-There are:
-
-* no parallel experiential cores
-* no true multiplexing
-* no arbitration between incompatible regimes
-
-### Consequence
-
-Exactly one future is owned.
-All others are irrevocably foreclosed.
-
-### Why this matters
-
-This is what makes experience *one* rather than many.
-
-
-## What this topology guarantees - and what it doesn’t
-
-### What it guarantees (if instantiated)
-
-If a physical system satisfies all four features coherently and stably, then:
-
-* intrinsic constraint is unavoidable
-* resolution is owned
-* unity is forced
-* temporal continuity exists
-
-Under IER, experience would be identical to this regime.
-
-
-### What it does *not* guarantee
-
-This topology does not guarantee:
-
-* coherence (the system may collapse)
-* stability (the regime may fail immediately)
-* richness (content may be minimal)
-* selfhood
-* cognition
-* awareness *of* experience
-* detectability
-
-This is a boundary, not a success condition.
-
-
-## Why this counts as a proof of concept
-
-A proof of concept requires showing that a definition is:
-
-* non-contradictory
-* non-vacuous
-* internally consistent
-
-The Hello World topology does exactly that:
-
-* it shows that “experience = intrinsic constraint regime” is not empty
-* it shows that the identity claim imposes sharp structural requirements
-* it shows why most architectures fail *by construction*
-
-It does not show that the concept is realizable in practice - and does not need to.
-
-
-## Why this is not neuroscience, AI design, or metaphysics
-
-This topology:
-
-* makes no empirical claims
-* specifies no mechanisms
-* implies no engineering path
-* introduces no measurements
-
-It is purely an exclusion structure.
-
-Anything that violates these constraints cannot instantiate experience under IER.
-Nothing that satisfies them is thereby certified.
-
-
-## The one-paragraph intuition (for humans)
-
-> The simplest possible situation in which experience could exist is one where a system cannot pass the buck, cannot split the job up, cannot reset between moments, and cannot let multiple incompatible futures coexist.
->
-> If such a situation exists and holds together, experience is not something extra that happens - it is exactly what that situation is like from the inside.
-
-That is the IER Hello World.
+This article gives schematic physical intuition for joint constraint and
+continuing operation. It introduces no new criterion, diagnostic, threshold
+or physical mechanism. The Specification retains normative priority; the
+canonical definition owners govern the relations explained here.
+
+The earlier four-feature presentation is not a worked instantiation of the
+adopted full relation stack. This revision removes its implied sufficiency,
+universal foreclosure and regime-invariance claims. The article offers neither
+a physical existence proof nor evidence that any concrete system is experiential.
+
+## A Physical Starting Point
+
+Consider a candidate described by physically meaningful variables, lawful
+transitions and outgoing admissible successors. Before assessing it, declare
+its candidate boundary, grain, interval, interventions and restriction
+independently of any desired subject attribution.
+
+No consciousness report or self-model supplies those declarations. Physical
+openness to matter, energy, forcing and perturbation is compatible in principle
+with owned continuation. Operation away from equilibrium alone establishes
+neither intrinsic closure nor subjecthood.
+
+## Joint Continuation
+
+[Intrinsic Closure](IER-intrinsic-closure.md) asks whether the outgoing
+admissible support can be resolved as independent block problems. Derive each
+block's successors from the same global support fibre. For every partition in
+the exhaustive predeclared family of physically meaningful nontrivial
+partitions, at least one recombination of projected block successors must be
+unavailable globally.
+
+A two-block illustration can make the distinction visible: each block may
+admit two successors, while only some of the four combinations are globally
+available. This illustrates that partition only; an arbitrary example does
+not establish the exhaustive global condition.
+
+Non-product probability weights can coexist with all combinations remaining
+available. Correlation, feedback, recurrence, network connection or a single
+realized transition therefore cannot substitute for the support test.
+
+The result is one inseparable physical continuation problem. It does not
+independently identify an owner, a constitutive boundary, a continuing token
+or experience.
+
+## Owned Burden and Constitutive Membership
+
+After the synchronic test, independently establish where the relevant burden
+is borne and resolved without an independence-preserving external completion.
+External causal influence is broader than external resolution. A support or
+controller is not automatically a constitutive member because it matters.
+
+[Processes](IER-processes.md) requires constitutive contribution, global
+bearing, joint non-externalizable resolution, diachronic uptake and common
+typing. All five concern the same operation, restriction, physical variables,
+grain, scale, regime, intervention family and interval. Reciprocal arrows
+alone do not establish membership.
+
+These relations need physically justified evidence. The schematic description
+supplies no general boundary-finding procedure.
+
+## Produced Successors and Effective History
+
+[Continuity](IER-continuity.md) defines the five-condition stage relation:
+continuous owned closure, operational successor production, physically
+effective typed consequence inheritance, operation-mediated membership change
+and unique qualifying successor and predecessor in a fixed comparison domain.
+
+The operation can change content, matter, organization and boundary. Mere
+geometrical continuity or a retained capacity does not establish that relation.
+An externally installed completed successor is not produced continuation;
+a copy or checkpoint is not the same token simply because it resembles it.
+
+Inherited irreversible history can remain effective during ordinary succession.
+A fresh collapse is not required at every step, and lawful actualization does
+not entail that every unrealized alternative is irrevocably foreclosed.
+[Closure under Consequence](IER-closure-under-consequence.md) explains the
+related production and inheritance without adding a third closure test.
+
+## One Operation and Its Limits
+
+A token is a maximal one-to-one chain under the complete stage relation.
+Maximality concerns its compatible ownership and participation scope, not the
+largest causally connected system. Independent nested or overlapping candidates
+require their own physical typing; physical overlap alone is not incompatible
+ownership of the same resolution.
+
+A unique successor without a unique predecessor does not preserve identity
+through fusion. Any failed stage condition ends the token. A genuine UEF-null
+interval is a sufficient cessation case, not a necessary one. Later qualifying
+operation after failure begins a new token; numerical identity neither splits,
+merges nor resumes through reconstruction.
+
+## What the Illustration Supplies
+
+The account separates physical unity, ownership, membership and token
+continuity without using consciousness as a physical input. These are the
+relations a concrete investigation must justify; listing them is not a
+completed model of a system satisfying them.
+
+Under the IER identity thesis, a qualifying UEF operation is the total
+experience-as-process and subject itself. That interpretation is distinct from
+proof that a particular candidate qualifies and from the defeasible abductive
+argument for experiential identity.
+
+The accepted through-flow S2 case illustrates idealized transport and turnover,
+not the full stack. Concrete individuation, empirical attribution, complete
+qualitative correspondence and identity warrant remain open. Neither the
+illustration nor a passing support test is a consciousness detector.
+
+## Intermission - Structural Fact
+
+A continuing physical operation need not retain the same matter, but its
+numerical identity requires the complete production, inheritance, membership
+and two-sided continuity relation.

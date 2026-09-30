@@ -124,9 +124,7 @@ As defined in *IER collapse*:
 
 Formally:
 
-$$
-A_{t^+}(s) \subset A_{t^-}(s)
-$$
+$$ A_{t^+}(s) \subset A_{t^-}(s) $$
 
 This contraction:
 
@@ -225,9 +223,7 @@ Event segmentation acts on this structure.
 
 Formally:
 
-$$
-A_{t_c^+}(s) \subset A_{t_c^-}(s)
-$$
+$$ A_{t_c^+}(s) \subset A_{t_c^-}(s) $$
 
 Each such contraction:
 

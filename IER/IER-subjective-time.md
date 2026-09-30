@@ -125,9 +125,7 @@ It is:
 
 Collapse contracts admissibility:
 
-$$
-A_{t^+}(s) \subset A_{t^-}(s)
-$$
+$$ A_{t^+}(s) \subset A_{t^-}(s) $$
 
 This contraction is:
 
@@ -195,9 +193,7 @@ This produces:
 
 Discreteness arises only when:
 
-$$
-A_{t^+}(s) \subset A_{t^-}(s)
-$$
+$$ A_{t^+}(s) \subset A_{t^-}(s) $$
 
 That is:
 

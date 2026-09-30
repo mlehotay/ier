@@ -44,9 +44,7 @@ The additional structures defined here:
 
 Formally:
 
-$$
-R = T
-$$
+$$ R = T $$
 
 All additional constructs are descriptive only.
 
@@ -61,48 +59,36 @@ be a finite lattice.
 
 A configuration is:
 
-$$
-s(t) \in S
-$$
+$$ s(t) \in S $$
 
 where:
 
-$$
-s(t) = \{x_i(t)\}_{i \in G}, \quad x_i(t) \in \{0,1\}
-$$
+$$ s(t) = \{x_i(t)\}_{i \in G}, \quad x_i(t) \in \{0,1\} $$
 
 
 ## Transition
 
 Let:
 
-$$
-T \subseteq S \times S
-$$
+$$ T \subseteq S \times S $$
 
 be the standard Game of Life transition relation.
 
 Since deterministic:
 
-$$
-s(t+1) = \hat{s} = T(s(t))
-$$
+$$ s(t+1) = \hat{s} = T(s(t)) $$
 
 
 ## Admissible Futures
 
-$$
-A_t = \{ \hat{s} \}
-$$
+$$ A_t = \{ \hat{s} \} $$
 
 
 ## Invariant (Singleton Structure)
 
 For all regions \( \Sigma \):
 
-$$
-A_t^{\mathrm{bd}}(\Sigma) \in \{ \varnothing, \{ \hat{s}|_{\Sigma} \} \}
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \in \{ \varnothing, \{ \hat{s}|_{\Sigma} \} \} $$
 
 
 ## Implication
@@ -126,9 +112,7 @@ This result concerns the existence of global trajectories over time.
 
 The present system operates at a fixed time \(t\), where:
 
-$$
-A_t = \{ \hat{s} \}
-$$
+$$ A_t = \{ \hat{s} \} $$
 
 Thus:
 
@@ -171,13 +155,7 @@ Let:
 
 ## Dependence Relation
 
-$$
-(i,j) \in D(s)
-\iff
-\exists v \in \{0,1\}
-\text{ such that }
-\hat{s}_i \ne \hat{s}^{(j \leftarrow v)}_i
-$$
+$$ (i,j) \in D(s) \iff \exists v \in \{0,1\} \text{ such that } \hat{s}_i \ne \hat{s}^{(j \leftarrow v)}_i $$
 
 
 ## Interpretation
@@ -193,11 +171,7 @@ Let persistence window \(k \ge 1\).
 
 Define:
 
-$$
-(i,j) \in C_t
-\iff
-\exists \tau \in [t-k+1, t] \text{ such that } (i,j) \in D(s(\tau))
-$$
+$$ (i,j) \in C_t \iff \exists \tau \in [t-k+1, t] \text{ such that } (i,j) \in D(s(\tau)) $$
 
 
 ## Interpretation
@@ -211,9 +185,7 @@ $$
 
 Define live set:
 
-$$
-L(t) = \{ i \in G \mid x_i(t)=1 \}
-$$
+$$ L(t) = \{ i \in G \mid x_i(t)=1 \} $$
 
 
 ## Region Definition
@@ -223,15 +195,11 @@ A region \( \Sigma(t) \subseteq G \) is a maximal subset such that:
 1. \( \Sigma(t) \subseteq L(t) \)
 2. for all \(i,j \in \Sigma(t)\), there exists a path:
 
-$$
-i = i_0, \dots, i_n = j
-$$
+$$ i = i_0, \dots, i_n = j $$
 
 with:
 
-$$
-(i_m, i_{m+1}) \in C_t
-$$
+$$ (i_m, i_{m+1}) \in C_t $$
 
 Connectivity is evaluated on the undirected interpretation of \(C_t\).
 
@@ -240,13 +208,9 @@ Connectivity is evaluated on the undirected interpretation of \(C_t\).
 
 For region \( \Sigma \):
 
-$$
-C_t^{\mathrm{in}}(\Sigma) = C_t \cap (\Sigma \times \Sigma)
-$$
+$$ C_t^{\mathrm{in}}(\Sigma) = C_t \cap (\Sigma \times \Sigma) $$
 
-$$
-C_t^{\mathrm{out}}(\Sigma) = C_t \cap (\Sigma \times \Sigma^c)
-$$
+$$ C_t^{\mathrm{out}}(\Sigma) = C_t \cap (\Sigma \times \Sigma^c) $$
 
 
 ## Boundedness
@@ -261,9 +225,7 @@ $C_t^{\mathrm{in}}(\Sigma) \ne \varnothing$
 
 ## External Independence
 
-$$
-C_t^{\mathrm{out}}(\Sigma) = \varnothing
-$$
+$$ C_t^{\mathrm{out}}(\Sigma) = \varnothing $$
 
 
 ## Interpretation
@@ -276,15 +238,11 @@ $$
 
 Since:
 
-$$
-A_t = \{ \hat{s} \}
-$$
+$$ A_t = \{ \hat{s} \} $$
 
 projection always yields:
 
-$$
-\pi_{\Sigma}(A_t) = \{ \hat{s}|_{\Sigma} \}
-$$
+$$ \pi_{\Sigma}(A_t) = \{ \hat{s}|_{\Sigma} \} $$
 
 
 ## Key Property
@@ -296,9 +254,7 @@ Projection of admissible futures always factorizes trivially.
 
 Let:
 
-$$
-s' = \hat{s}
-$$
+$$ s' = \hat{s} $$
 
 Compute:
 
@@ -309,20 +265,14 @@ $D(s'), \quad C(s')$
 
 ## Conservative Definition (Default)
 
-$$
-\Sigma'(t+1) = \{ i \in \Sigma(t) \mid x_i'(t+1)=1 \}
-$$
+$$ \Sigma'(t+1) = \{ i \in \Sigma(t) \mid x_i'(t+1)=1 \} $$
 
 New cells are not included.
 
 
 ## Optional Variant: Recruitment
 
-$$
-\Sigma'(t+1)
-=
-\text{maximal } C(s')\text{-connected set containing surviving members}
-$$
+$$ \Sigma'(t+1) = \text{maximal } C(s')\text{-connected set containing surviving members} $$
 
 
 ## Status
@@ -342,9 +292,7 @@ $\Sigma'(t+1) \text{ is connected under } C(s')$
 
 ## External Independence
 
-$$
-C(s') \cap (\Sigma'(t+1) \times \Sigma'^c(t+1)) = \varnothing
-$$
+$$ C(s') \cap (\Sigma'(t+1) \times \Sigma'^c(t+1)) = \varnothing $$
 
 
 ## Evaluation Rule (Important)
@@ -366,11 +314,7 @@ That is:
 
 Define:
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-=
-\{ \hat{s}|_{\Sigma} \mid \text{closure holds under } s' \}
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) = \{ \hat{s}|_{\Sigma} \mid \text{closure holds under } s' \} $$
 
 
 ## Key Property
@@ -401,11 +345,7 @@ These all factorize trivially.
 
 Non-decomposability arises from:
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-\subseteq
-\pi_{\Sigma}(A_t)
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \subseteq \pi_{\Sigma}(A_t) $$
 
 i.e.:
 
@@ -416,26 +356,16 @@ i.e.:
 
 Let:
 
-$$
-\Sigma = A \cup B, \quad A \cap B = \varnothing
-$$
+$$ \Sigma = A \cup B, \quad A \cap B = \varnothing $$
 
 Define recombination:
 
-$$
-\mathrm{Recombine}(A,B)
-=
-\{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) \}
-$$
+$$ \mathrm{Recombine}(A,B) = \{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) \} $$
 
 
 ## Factorization Test
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-\stackrel{?}{=}
-\mathrm{Recombine}(A,B)
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \stackrel{?}{=} \mathrm{Recombine}(A,B) $$
 
 
 ## Actual Result (Correct Interpretation)
@@ -444,11 +374,7 @@ There exist regions \( \Sigma \) such that:
 
 * \( A_t^{\mathrm{bd}}(\Sigma) \ne \varnothing \)
 * but:
-  $$
-  A_t^{\mathrm{bd}}(A) = \varnothing
-  \quad \text{or} \quad
-  A_t^{\mathrm{bd}}(B) = \varnothing
-  $$
+  $$ A_t^{\mathrm{bd}}(A) = \varnothing \quad \text{or} \quad A_t^{\mathrm{bd}}(B) = \varnothing $$
 
 
 ## Interpretation

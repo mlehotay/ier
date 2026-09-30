@@ -90,11 +90,7 @@ Make the IER layer computable, inspectable, and reproducible.
 
 For each pair \( (i,j) \), compute:
 
-$$
-(i,j) \in D(s)
-\iff
-\exists v \in \{0,1\} \text{ such that } \hat{s}_i \ne \hat{s}^{(j \leftarrow v)}_i
-$$
+$$ (i,j) \in D(s) \iff \exists v \in \{0,1\} \text{ such that } \hat{s}_i \ne \hat{s}^{(j \leftarrow v)}_i $$
 
 Implementation:
 
@@ -106,9 +102,7 @@ Implementation:
 
 Maintain sliding window:
 
-$$
-C_t = \bigcup_{\tau=t-k+1}^{t} D(s(\tau))
-$$
+$$ C_t = \bigcup_{\tau=t-k+1}^{t} D(s(\tau)) $$
 
 Optional variants (non-canonical):
 
@@ -139,11 +133,7 @@ Given \( \Sigma \), verify:
 
 Given partition \( \Sigma = A \cup B \), test:
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-\stackrel{?}{=}
-\{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) \}
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \stackrel{?}{=} \{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) \} $$
 
 
 ### (f) Step-Level Instrumentation
@@ -275,9 +265,7 @@ A notion of:
 
 Default continuation:
 
-$$
-\Sigma'(t+1) = \{ i \in \Sigma(t) \mid x'_i = 1 \}
-$$
+$$ \Sigma'(t+1) = \{ i \in \Sigma(t) \mid x'_i = 1 \} $$
 
 is conservative.
 
@@ -364,9 +352,7 @@ Extend beyond cellular automata.
 
 Deterministic systems:
 
-$$
-s(t+1) = T(s(t))
-$$
+$$ s(t+1) = T(s(t)) $$
 
 with:
 

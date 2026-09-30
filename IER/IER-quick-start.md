@@ -13,7 +13,7 @@ ier:
   version: 10.11.5
 ---
 
-# IER Quick Start
+# Quick Start
 
 ## Identity, Structure, and Continuity
 
@@ -90,7 +90,8 @@ Across successive stages, the same subject continues when:
 - the operation produces its own successor through actual dynamics;
 - consequences of earlier resolution remain physically inherited by later continuation;
 - turnover and boundary change occur through the continuing operation; and
-- only one successor continues the predecessor's connected resolution history as that operation.
+- the later stage is the sole qualifying successor, and the earlier stage its
+  sole qualifying predecessor, in a fixed physical comparison domain.
 
 The subject can therefore survive:
 
@@ -100,11 +101,13 @@ The subject can therefore survive:
 - internal reorganization; and
 - boundary migration.
 
-It does not survive genuine cessation.
+All five conditions are required. Failure of any condition ends that token.
+A genuine UEF-null interval is sufficient for cessation, not necessary.
 
 If the qualifying operation ends and a later UEF begins, the later subject is numerically new even if the substrate, memories, capacities, or apparent continuity remain.
 
-Numerical identity does not branch.
+Numerical identity neither branches nor merges. See the full stage relation in
+[Continuity](IER-continuity.md).
 
 ## How the Dynamics Work
 
@@ -114,7 +117,7 @@ The present system has a structured set of futures it can physically reach. Thes
 
 The central diachronic relation is:
 
-> Present topology constrains trajectory, and actual trajectory deforms later topology.
+> Present topology constrains trajectory, and actual trajectory maintains or changes later topology.
 
 IER distinguishes three important forms of change:
 

@@ -21,11 +21,9 @@ ier:
 ## Admissibility Domains and the Structure of Futures
 
 **Informational Experiential Realism (IER v10.9.9)**\
-*Tier 2 - Structural Clarification - Non-Normative - Canon-Constrained*
+*Tier 2 · Structural Clarification · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
-
-
 
 
 This document:
@@ -67,9 +65,7 @@ Let:
 
 For a boundary configuration $s \in S$, define:
 
-$$
-A(s) = \{ s' \in S \mid (s, s') \in R \}
-$$
+$$ A(s) = \{ s' \in S \mid (s, s') \in R \} $$
 
 ### Notation Rule
 
@@ -140,9 +136,7 @@ Once intrinsic constraint is globally binding:
 
 Multiplicity holds at $s$ iff:
 
-$$
-|A_{\text{UEF}}(s)| > 1.
-$$
+$$ |A_{\text{UEF}}(s)| > 1. $$
 
 Multiplicity concerns reachability count only.
 
@@ -168,9 +162,7 @@ Multiplicity is descriptive, not normative.
 
 Let:
 
-$$
-A_{\text{fail}}(s) \subseteq A_{\text{UEF}}(s)
-$$
+$$ A_{\text{fail}}(s) \subseteq A_{\text{UEF}}(s) $$
 
 denote continuations that lead to:
 
@@ -194,9 +186,7 @@ Failure is not slack.
 
 Lawful continuation from a boundary configuration $s$ to a successor configuration $s'$ occurs when:
 
-$$
-s' \in A_{\text{UEF}}(s).
-$$
+$$ s' \in A_{\text{UEF}}(s). $$
 
 This continuation is called successor realization.
 
@@ -218,9 +208,7 @@ Only collapse alters the admissible successor set.
 
 Specifically, collapse contracts admissibility such that:
 
-$$
-A_{t_c^+}(s) \subset A_{t_c^-}(s).
-$$
+$$ A_{t_c^+}(s) \subset A_{t_c^-}(s). $$
 
 Successor realization therefore describes lawful continuation, not foreclosure of alternatives.
 
@@ -245,9 +233,7 @@ Anticipation is not structural admissibility.
 
 In general:
 
-$$
-A_{\text{ant}}(s) \neq A_{\text{UEF}}(s).
-$$
+$$ A_{\text{ant}}(s) \neq A_{\text{UEF}}(s). $$
 
 Anticipated futures may:
 

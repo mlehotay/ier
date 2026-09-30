@@ -9,16 +9,15 @@ ier:
   status: canonical
   filename: IER-participation.md
 ---
-# Participation, Reproduction, and the Shape of Thought
+
+# Participation
 
 ## Participation, Reproduction, and the Shape of Thought
 
 **Informational Experiential Realism (IER v10.11.0)**\
-*Explanatory Article - Non-Normative*
+*Explanatory Article · Non-Normative*
 
 ## Status, Scope, and Authority
-
-
 
 
 This document is explanatory and non-normative.

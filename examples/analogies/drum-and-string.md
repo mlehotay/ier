@@ -90,9 +90,7 @@ This illustrates a key property of the UEF:
 
 Drumhead vibrations evolve smoothly:
 
-$$
-\mathrm{pattern}(t) \to \mathrm{pattern}(t+1)
-$$
+$$ \mathrm{pattern}(t) \to \mathrm{pattern}(t+1) $$
 
 Each configuration emerges from the previous one.
 

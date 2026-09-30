@@ -8,80 +8,70 @@ Status: support
 Authority: non-canonical
 See: `../../governance/IER-status-zones.md`
 
-This application develops the philosophical vocabulary and research practice needed to place Informational Experiential Realism within public philosophy-of-mind debates. It is exploratory support material and does not define the canonical IER ontology.
+This package connects Informational Experiential Realism with philosophy-of-mind
+research. Canonical sources under `IER/` govern theory; these guides, comparisons
+and research reports explain or assess it without adding criteria.
 
-## v10.11.5 orientation and version boundary
+## Current checkpoint — 29 September 2026
 
-The accepted I4 reconciliation frames IER as:
+The v10.11.5 implementation has completed Phases 1–9 and S1–S5 at their recorded
+bounds. Bounded S2 establishes an idealized through-flow turnover subcase, not
+an instantiation of the complete relation stack or an experiential waterfall.
+The antecedents project is closed with an accepted 44-source synthesis.
 
-> **Strawsonian real physicalism reconstructed through a closure-bearing cybernetic regime ontology rather than a panpsychist micro-ontology.**
+IER contributes a systematically developed physicalist account of experiential
+unity, subject individuation and continuity through change. Its contribution
+lies in its particular formulation, organization, arguments and implications.
+Historical novelty is not claimed for individual ideas or established
+combinations. Physical individuation, empirical attribution, complete qualitative
+correspondence and the abductive identity defense remain open.
 
-On that reading, the Strawson programme supplies the physical process-subject
-identity side of the synthesis, the cybernetics review supplies the
-possibility, constraint, regulation, self-maintenance, viability, and closure
-antecedents, and IER supplies the integrated physical specification of the
-qualifying regime and its continuity.
+Paper 01 exists as a manuscript. Phase 11 owns its full revision and publication
+checks; Phase 9/S5 finalized its contribution claim, not publication readiness.
+Phase 10 owns the Strawson contrast and broad-panpsychism disposition.
+Teaching alignment and wider propagation remain separately tracked under
+`todo-160` and Phase 12. This directory update does not close the entire release.
 
-The documents listed in this directory are still the **pre-cybernetics
-versions** of the philosophy package. They preserve the Strawson-facing
-research baseline that entered I4, but they have not been revised to include
-the later five-source cybernetics synthesis, its exact/partial antecedent
-classifications, its transformations and false friends, or the open
-component-lineage project under `_work/antecedents/`.
+## Reading route and document currency
 
-Accordingly, references below to a “current synthesis,” final report, or
-novelty assessment mean the state of the philosophy package before the
-cybernetics input was incorporated. The non-canonical I4 reconciliation now
-provides the accepted project-level integration baseline for I5 and S1, but it
-does not retroactively alter these pre-cybernetics evidence and research
-records or authorize canon propagation.
+| Document | Role and current use |
+| --- | --- |
+| [Philosophy of Mind for Learning IER](IER-philosophy-of-mind-curriculum.md) | Begin here for a selective reading route, synchronized with the accepted formulation on 29 September 2026. |
+| [Metaphysical Account](metaphysical-account-of-the-uef-process-subject.md) | Current canon-constrained philosophical exposition of identity, unity, ownership, membership and continuity. |
+| [Final Strawson Research Report](strawson-process-subject-final-report.md) | Current research synthesis through Phase 9/S5; retains the historical 32-source corpus and distinguishes later evidence inputs. |
+| [Process-Subject Literature Report](process-subject-research-report.md) | Historical preliminary survey dated 6 September; its current-use notice identifies superseded IER-facing assessments. |
+| [Problems of Physicalism](problems-of-physicalism.md) | Neutral thirty-problem inventory, without an IER verdict. |
+| [IER and the Problems of Physicalism](IER-and-problems-of-physicalism.md) | Separate bounded assessment of IER commitments, evidence levels and remaining objections. |
 
-## Contents
+## Theory and research boundaries
 
-- [IER Philosophy of Mind Curriculum](./IER-philosophy-of-mind-curriculum.md)
-- [Problems of Physicalism](./problems-of-physicalism.md)
-- [Metaphysical Account of the UEF Process-Subject](./metaphysical-account-of-the-uef-process-subject.md)
-- [Final Strawson Process-Subject Research Report](./strawson-process-subject-final-report.md)
-- [Process-Subject Literature Research Report](./process-subject-research-report.md)
+Read the [Specification](../../IER/IER-specification.md) for normative authority,
+then [intrinsic closure](../../IER/IER-intrinsic-closure.md),
+[processes](../../IER/IER-processes.md), [continuity](../../IER/IER-continuity.md)
+and [closure under consequence](../../IER/IER-closure-under-consequence.md)
+for the implemented relations. Non-factorizable admissible support alone
+establishes neither the subject boundary nor experiential identity.
 
-## Pre-cybernetics Synthesis and Problem Inventory
+Strawson supplies the exact core process-subject identity precedent; Papineau
+supplies system-level identity without required experiential simples.
+Cybernetics, organizational biology and process-genidentity research supply
+substantial closure, production, history and persistence antecedents. Their
+relations are compared without identifying all forms of closure with IER's.
 
-[`problems-of-physicalism.md`](./problems-of-physicalism.md) is a broad,
-diagnostic inventory of thirty formulation, metaphysical, explanatory, causal,
-realization, phenomenal-organization, semantic, normative, and methodological
-problems for physicalism. It does not assess IER against those problems; a
-later project may perform that mapping.
+The 32-source Strawson corpus, five-source cybernetics package and 44-source
+antecedents corpus overlap. Their counts are not added. Original source findings
+and dated comparisons remain historical evidence even where the current
+formulation differs.
 
-[`metaphysical-account-of-the-uef-process-subject.md`](./metaphysical-account-of-the-uef-process-subject.md)
-states the pre-cybernetics non-canonical synthesis of experience–subject–process
-identity, synchronic unity, ownership boundary, constitutive membership,
-diachronic persistence, cessation, and immediate metaphysical consequences. It
-remains a historical input to the accepted I4 reconciliation, not the complete
-v10.11.5 project-level synthesis, a canonical revision, or a procedure for
-detecting UEFs.
+## Evidence access
 
-## Process-Subject Research Status
+The reports summarize conclusions and give public primary-source references.
+The full reproducibility trail is private repository provenance under
+`_work/strawson/`, `_work/cybernetics/` and `_work/antecedents/`, including
+source ledgers, notes, search logs and accepted decisions. Those paths are
+not exported public evidence links. The implementation checkpoint is recorded
+privately in `_work/unification/phases/phase-09-summary.md`.
 
-The completed reports here preserve the findings of the preliminary
-process-subject literature search as a bounded research baseline rather than
-an active project. Its working evidence and reproducibility records now live
-with the rest of the completed Strawson research programme under
-`_work/strawson/`: `process-subject-source-ledger.md` and
-`process-subject-search-log.md`.
-
-The Strawson research programme is complete as a pre-cybernetics research
-baseline and recommends proceeding to a paper on continuing process-subject
-identity. Its findings, limits, then-current novelty assessment, and
-recommended paper structure are consolidated in the
-[final research report](./strawson-process-subject-final-report.md).
-
-That report reassesses the preliminary process-subject findings and preserves
-a deliberately narrower public synthesis of the completed Strawson work. The
-supporting source ledger, search log, source notes, argument matrices, decision
-notes, and stop-point materials remain working artifacts rather than part of
-this application.
-
-The preliminary materials retained here and the final Strawson report remain
-non-canonical and make no revision to IER. They should not be cited as though
-they already contain the later cybernetics reconciliation or the complete I4
-priority and novelty disposition.
+Local link validity, public selection, research acceptance and canonical
+authority are separate. No report here is a consciousness detector or a
+certificate that an actual biological or artificial system qualifies.

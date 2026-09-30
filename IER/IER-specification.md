@@ -24,10 +24,9 @@ ier:
 ## Full Normative Specification
 
 **Informational Experiential Realism (IER v10.10.7)**\
-*Tier 1 - Foundational - Normative - Canon-Constrained*
+*Tier 1 · Foundational · Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
-
 
 
 ## Informational Language Disclaimer

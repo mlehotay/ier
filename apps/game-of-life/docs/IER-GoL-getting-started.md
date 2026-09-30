@@ -55,15 +55,11 @@ $\text{B3/S23}$
 
 defines the transition:
 
-$$
-s(t+1) = \hat{s}
-$$
+$$ s(t+1) = \hat{s} $$
 
 and therefore:
 
-$$
-A_t = \{ \hat{s} \}
-$$
+$$ A_t = \{ \hat{s} \} $$
 
 The system is fully deterministic.
 
@@ -72,11 +68,7 @@ The system is fully deterministic.
 
 For all regions \( \Sigma \):
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-\in
-\{ \varnothing, \{ \hat{s}|_{\Sigma} \} \}
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \in \{ \varnothing, \{ \hat{s}|_{\Sigma} \} \} $$
 
 
 ## Implication
@@ -113,33 +105,21 @@ Each layer is:
 
 ## Configuration and Transition
 
-$$
-s(t) \in S
-$$
+$$ s(t) \in S $$
 
-$$
-s(t+1) = \hat{s}
-$$
+$$ s(t+1) = \hat{s} $$
 
 
 ## Counterfactual Dependence
 
-$$
-(i,j) \in D(s)
-\iff
-\exists v \in {0,1}
-\text{ such that }
-\hat{s}_i \ne \hat{s}^{(j \leftarrow v)}_i
-$$
+$$ (i,j) \in D(s) \iff \exists v \in {0,1} \text{ such that } \hat{s}_i \ne \hat{s}^{(j \leftarrow v)}_i $$
 
 Captures local update sensitivity.
 
 
 ## Diachronic Relation
 
-$$
-C_t = \bigcup_{\tau=t-k+1}^{t} D(s(\tau))
-$$
+$$ C_t = \bigcup_{\tau=t-k+1}^{t} D(s(\tau)) $$
 
 Encodes persistence of dependence.
 
@@ -156,9 +136,7 @@ A region \(\Sigma\) is:
 
 $s|_{\Sigma}$
 
-$$
-\pi_{\Sigma}(A_t) = { \hat{s}|_{\Sigma} }
-$$
+$$ \pi_{\Sigma}(A_t) = { \hat{s}|_{\Sigma} } $$
 
 Projection is structurally trivial at the level of admissible futures.
 
@@ -171,11 +149,7 @@ $P(\Sigma, \hat{s}|_{\Sigma})$
 
 defines:
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-\subseteq
-\pi_{\Sigma}(A_t)
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \subseteq \pi_{\Sigma}(A_t) $$
 
 
 ## Source of Structure
@@ -265,17 +239,11 @@ Evaluate:
 
 Let:
 
-$$
-\Sigma = A \cup B
-$$
+$$ \Sigma = A \cup B $$
 
 Test:
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-\stackrel{?}{=}
-{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) }
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \stackrel{?}{=} { a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) } $$
 
 
 ## Instrumentation and Tooling

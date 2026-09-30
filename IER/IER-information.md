@@ -16,11 +16,9 @@ ier:
 ## Information as Structured Exclusion of Admissible Continuation
 
 **Informational Experiential Realism (IER v10.10.7)**\
-*Tier-2 - Foundational Clarification - Canon-Constrained - Non-Normative*
+*Tier-2 · Foundational Clarification · Canon-Constrained · Non-Normative*
 
 ## Status, Scope, and Authority
-
-
 
 
 This document is explanatory and non-normative.
@@ -84,17 +82,13 @@ Let $S$ be configuration space.
 
 Let
 
-$$
-R \subseteq S \times S
-$$
+$$ R \subseteq S \times S $$
 
 be the admissible transition relation.
 
 For a configuration $s \in S$, the admissible successor set is
 
-$$
-A(s) = { s' \in S \mid (s,s') \in R }
-$$
+$$ A(s) = { s' \in S \mid (s,s') \in R } $$
 
 The set $A(s)$ defines the admissible continuations available at the history - future boundary.
 
@@ -204,9 +198,7 @@ Collapse is defined in *IER collapse* as the irreversible foreclosure of a conne
 
 Formally:
 
-$$
-A_{t_c^+}(s) \subset A_{t_c^-}(s)
-$$
+$$ A_{t_c^+}(s) \subset A_{t_c^-}(s) $$
 
 Collapse produces new information because reachable continuation is irreversibly reduced.
 
@@ -224,15 +216,11 @@ Criticality occurs when small perturbations can produce large changes in admissi
 
 In ordinary regimes:
 
-$$
-\text{small perturbation} \to \text{small change in } A(s)
-$$
+$$ \text{small perturbation} \to \text{small change in } A(s) $$
 
 In critical regimes:
 
-$$
-\text{small perturbation} \to \text{large change in } A(s)
-$$
+$$ \text{small perturbation} \to \text{large change in } A(s) $$
 
 Because information corresponds to excluded continuation, critical regimes may produce large informational consequences from small perturbations.
 

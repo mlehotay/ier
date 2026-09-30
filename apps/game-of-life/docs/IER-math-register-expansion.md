@@ -102,9 +102,7 @@ for its complement.
 
 For partitions, use:
 
-$$
-\Sigma = A \cup B, \quad A \cap B = \varnothing
-$$
+$$ \Sigma = A \cup B, \quad A \cap B = \varnothing $$
 
 
 ## Restriction of Configurations
@@ -124,17 +122,11 @@ It does not imply subsystem autonomy, enclosure, or informational isolation.
 
 The canonical admissible future set is:
 
-$$
-A_t = { s' \mid (s(t), s') \in T }
-$$
+$$ A_t = { s' \mid (s(t), s') \in T } $$
 
 Define projection:
 
-$$
-\pi_{\Sigma}(A_t)
-=
-{ s'|_{\Sigma} \mid s' \in A_t }
-$$
+$$ \pi_{\Sigma}(A_t) = { s'|_{\Sigma} \mid s' \in A_t } $$
 
 
 ### Notation Convention
@@ -152,15 +144,11 @@ It does not introduce an independent subsystem-level admissibility relation.
 
 In deterministic examples where:
 
-$$
-A_t = { \hat{s} }
-$$
+$$ A_t = { \hat{s} } $$
 
 projection reduces to:
 
-$$
-\pi_{\Sigma}(A_t) = { \hat{s}|_{\Sigma} }
-$$
+$$ \pi_{\Sigma}(A_t) = { \hat{s}|_{\Sigma} } $$
 
 This may be treated as a named special case when useful.
 
@@ -169,21 +157,13 @@ This may be treated as a named special case when useful.
 
 Where explicitly defined in an example:
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-\subseteq
-\pi_{\Sigma}(A_t)
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \subseteq \pi_{\Sigma}(A_t) $$
 
 denotes a subset obtained by applying a structural predicate after projection.
 
 Typical form:
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-=
-{ \hat{s}|_{\Sigma} \mid P(\Sigma,\hat{s}|_{\Sigma}) }
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) = { \hat{s}|_{\Sigma} \mid P(\Sigma,\hat{s}|_{\Sigma}) } $$
 
 where (P) is defined locally in the example.
 
@@ -238,9 +218,7 @@ It must not be interpreted as:
 
 Use:
 
-$$
-C_t \subseteq G \times G
-$$
+$$ C_t \subseteq G \times G $$
 
 to denote a time-indexed relation over components.
 
@@ -270,36 +248,26 @@ This may be used to express structural change under perturbation, but is optiona
 
 For region \(\Sigma\):
 
-$$
-C_t|_{\Sigma \times \Sigma}
-$$
+$$ C_t|_{\Sigma \times \Sigma} $$
 
 denotes internal relations.
 
-$$
-C_t|_{\Sigma \times \Sigma^c}
-$$
+$$ C_t|_{\Sigma \times \Sigma^c} $$
 
 denotes boundary-crossing relations.
 
 Equivalent intersection forms are also allowed:
 
-$$
-C_t \cap (\Sigma \times \Sigma)
-$$
+$$ C_t \cap (\Sigma \times \Sigma) $$
 
-$$
-C_t \cap (\Sigma \times \Sigma^c)
-$$
+$$ C_t \cap (\Sigma \times \Sigma^c) $$
 
 
 ## Empty-or-Singleton Predicate-Filtered Case
 
 In deterministic examples with projected singleton futures, predicate-filtered projection may satisfy:
 
-$$
-A_t^{\mathrm{bd}}(\Sigma) \in { \varnothing, { \hat{s}|_{\Sigma} } }
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \in { \varnothing, { \hat{s}|_{\Sigma} } } $$
 
 This expresses:
 
@@ -312,39 +280,25 @@ This expresses:
 
 Let:
 
-$$
-\Sigma = A \cup B, \quad A \cap B = \varnothing
-$$
+$$ \Sigma = A \cup B, \quad A \cap B = \varnothing $$
 
 Define recombination:
 
-$$
-\mathrm{Recombine}(A,B)
-=
-{ a \cup b \mid a \in X,\ b \in Y }
-$$
+$$ \mathrm{Recombine}(A,B) = { a \cup b \mid a \in X,\ b \in Y } $$
 
 for sets (X,Y) of restricted configurations.
 
 
 ### Projection Factorization Form
 
-$$
-\pi_{\Sigma}(A_t)
-=
-{ a \cup b \mid a \in \pi_A(A_t),\ b \in \pi_B(A_t) }
-$$
+$$ \pi_{\Sigma}(A_t) = { a \cup b \mid a \in \pi_A(A_t),\ b \in \pi_B(A_t) } $$
 
 This is a statement about projected admissible futures only.
 
 
 ### Predicate-Filtered Factorization Form
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-\stackrel{?}{=}
-{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) }
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \stackrel{?}{=} { a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) } $$
 
 This is a statement about predicate-filtered projected continuation, not about future multiplicity.
 

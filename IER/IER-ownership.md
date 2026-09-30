@@ -9,16 +9,15 @@ ier:
   status: canonical
   filename: IER-ownership.md
 ---
-# Ownership, Mineness, and Self-Boundary Under Informational Experiential Realism
+
+# Ownership
 
 ## Ownership, Mineness, and Self-Boundary Under Informational Experiential Realism
 
 **Informational Experiential Realism (IER v10.11.0)**\
-*Projection - Non-Normative - Canon-Constrained*
+*Projection · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
-
-
 
 
 This document is NON-NORMATIVE.

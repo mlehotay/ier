@@ -18,7 +18,7 @@ ier:
 ## Précis
 
 **Informational Experiential Realism (IER v10.11.5)**\
-*Framework Compression - Non-Normative - Canon-Constrained*
+*Framework Compression · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -179,7 +179,8 @@ Across immediately successive non-null stages, persistence requires that:
 2. the earlier operation produces its successor through its own actual dynamics rather than independent reconstruction;
 3. sedimented consequences of earlier resolution continue to deform the successor's admissible continuation;
 4. participant entry, exit, turnover, and boundary change occur through roles in the extant operation; and
-5. at most one successor continues the predecessor's connected resolution history as that maximal operation.
+5. the later stage is the sole qualifying successor, and the earlier stage its
+   sole qualifying predecessor, within a fixed physical comparison domain.
 
 The persisting invariant is therefore not sameness of:
 
@@ -194,11 +195,14 @@ The persisting invariant is therefore not sameness of:
 
 Material turnover, internal reorganization, and boundary migration are compatible with one continuing experiential subject when they occur through the continuing operation itself.
 
-Numerical identity does not branch.
+Numerical identity neither branches nor merges. All five stage conditions are
+required; see [Continuity](IER-continuity.md).
 
 Where one uniquely continuing operation preserves the predecessor's connected history, that operation may preserve the predecessor's identity. If the predecessor operation genuinely ends, later qualifying operations are numerically new.
 
-UEF cessation occurs when the constitutive operation is no longer instantiated.
+A token ends when any required stage condition fails. A genuine UEF-null interval
+is sufficient for cessation, not necessary: another experiential operation can
+remain present without continuing that token.
 
 The substrate, organism, memories, dispositions, and capacity to sustain a UEF may persist through a UEF-null interval. If a qualifying UEF later begins again, the later operation is a numerically distinct experiential subject even if it closely resembles or reconstructs the former one.
 

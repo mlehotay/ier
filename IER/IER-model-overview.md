@@ -92,9 +92,7 @@ Let $R$ be the admissibility relation.
 
 For a boundary configuration $s$:
 
-$$
-A(s) = \{ s' \in S \mid (s, s') \in R \}
-$$
+$$ A(s) = \{ s' \in S \mid (s, s') \in R \} $$
 
 $A(s)$ may be described as:
 
@@ -151,9 +149,7 @@ They do not produce irreversible loss.
 
 Irreversible change occurs through:
 
-$$
-\text{collapse} \to \text{welding} \to \text{propagation} \to \text{sedimentation}
-$$
+$$ \text{collapse} \to \text{welding} \to \text{propagation} \to \text{sedimentation} $$
 
 - collapse produces atomic, irreversible contraction
 - welding integrates deformation locally
@@ -162,9 +158,7 @@ $$
 
 At collapse:
 
-$$
-A_{t_c^+} \subset A_{t_c^-}
-$$
+$$ A_{t_c^+} \subset A_{t_c^-} $$
 
 This contraction is the only source of irreversible loss of admissible futures.
 
@@ -180,9 +174,7 @@ It is:
 
 The sequence:
 
-$$
-\text{collapse} \to \text{welding} \to \text{propagation}
-$$
+$$ \text{collapse} \to \text{welding} \to \text{propagation} $$
 
 integrates collapse outcomes into the present structure.
 
@@ -192,9 +184,7 @@ Persistence, recurrence, and memory arise from this deformation.
 
 A trajectory is a sequence of admissible transitions:
 
-$$
-\gamma = (s_0, s_1, \ldots)
-$$
+$$ \gamma = (s_0, s_1, \ldots) $$
 
 Trajectories:
 

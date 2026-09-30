@@ -36,9 +36,7 @@ It is:
 
 The system evolves strictly under standard GoL dynamics:
 
-$$
-s(t+1) = T(s(t))
-$$
+$$ s(t+1) = T(s(t)) $$
 
 The structures introduced here:
 
@@ -63,47 +61,34 @@ Let:
 
 Let:
 
-$$
-T \subseteq S \times S
-$$
+$$ T \subseteq S \times S $$
 
 be the standard GoL transition.
 
 Deterministic:
 
-$$
-\hat{s} = T(s)
-$$
+$$ \hat{s} = T(s) $$
 
 
 ## Counterfactual Dependence
 
 Define:
 
-$$
-(i,j) \in D(s)
-\iff
-\exists v \in \{0,1\} \text{ such that }
-\hat{s}_i \ne \hat{s}^{(j \leftarrow v)}_i
-$$
+$$ (i,j) \in D(s) \iff \exists v \in \{0,1\} \text{ such that } \hat{s}_i \ne \hat{s}^{(j \leftarrow v)}_i $$
 
 
 ## Diachronic Relation
 
 For window \(k\):
 
-$$
-C_t = \bigcup_{\tau=t-k+1}^{t} D(s(\tau))
-$$
+$$ C_t = \bigcup_{\tau=t-k+1}^{t} D(s(\tau)) $$
 
 
 ## Regions
 
 Define live set:
 
-$$
-L(t) = \{ i \in G \mid x_i(t)=1 \}
-$$
+$$ L(t) = \{ i \in G \mid x_i(t)=1 \} $$
 
 A region \( \Sigma(t) \subseteq L(t) \) is a maximal set connected under:
 
@@ -114,9 +99,7 @@ $\text{undirected}(C_t)$
 
 Globally:
 
-$$
-A(s) = \{ \hat{s} \}
-$$
+$$ A(s) = \{ \hat{s} \} $$
 
 This is singleton.
 
@@ -143,9 +126,7 @@ Introduce region-indexed admissibility derived from:
 
 For region \( \Sigma \), define:
 
-$$
-A_\Sigma(s,t) \subseteq S_\Sigma
-$$
+$$ A_\Sigma(s,t) \subseteq S_\Sigma $$
 
 as the set of admissible regional continuations.
 
@@ -154,22 +135,16 @@ as the set of admissible regional continuations.
 
 A regional continuation \( u \in S_\Sigma \) is admissible iff:
 
-$$
-u \in A_\Sigma(s,t)
-$$
+$$ u \in A_\Sigma(s,t) $$
 
 iff there exists a perturbed configuration:
 
-$$
-\tilde{s} \in N_t(s,\Sigma)
-$$
+$$ \tilde{s} \in N_t(s,\Sigma) $$
 
 such that:
 
 ### Realizability
-$$
-T(\tilde{s})|_\Sigma = u
-$$
+$$ T(\tilde{s})|_\Sigma = u $$
 
 ### Bounded Perturbation
 $\tilde{s} \text{ differs from } s \text{ only within a bounded neighborhood of } \Sigma$
@@ -216,9 +191,7 @@ $A_\Sigma(s,t) \ne \pi_\Sigma(A(s))$
 
 Admissibility is defined via existence of:
 
-$$
-v \in S_{\Sigma^c}
-$$
+$$ v \in S_{\Sigma^c} $$
 
 such that:
 
@@ -229,9 +202,7 @@ $u \cup v \text{ is realizable and coherent}$
 
 Let:
 
-$$
-\Sigma = A \cup B, \quad A \cap B = \varnothing
-$$
+$$ \Sigma = A \cup B, \quad A \cap B = \varnothing $$
 
 
 ## Induced Subregion Admissibility
@@ -247,11 +218,7 @@ by the same construction.
 
 Define recombination:
 
-$$
-\mathrm{Recombine}(A,B)
-=
-\{ u_A \cup u_B \mid u_A \in A_A,\ u_B \in A_B \}
-$$
+$$ \mathrm{Recombine}(A,B) = \{ u_A \cup u_B \mid u_A \in A_A,\ u_B \in A_B \} $$
 
 
 ## Non-Factorability Condition
@@ -276,9 +243,7 @@ Non-factorability arises from:
 
 Relations:
 
-$$
-C_t|_{A \times B}
-$$
+$$ C_t|_{A \times B} $$
 
 link subregions structurally.
 

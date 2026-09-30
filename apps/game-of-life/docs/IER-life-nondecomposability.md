@@ -71,15 +71,11 @@ Let:
 
 Game of Life is deterministic:
 
-$$
-A_t = \{ \hat{s} \}
-$$
+$$ A_t = \{ \hat{s} \} $$
 
 Therefore:
 
-$$
-\pi_{\Sigma}(A_t) = \{ \hat{s}|_{\Sigma} \}
-$$
+$$ \pi_{\Sigma}(A_t) = \{ \hat{s}|_{\Sigma} \} $$
 
 
 ## Singleton Structure
@@ -109,29 +105,19 @@ $P(\Sigma, \hat{s}|_{\Sigma})$
 
 denote the closure condition defined via diachronic dependence:
 
-$$
-C(s') \quad \text{where } s' = \hat{s}
-$$
+$$ C(s') \quad \text{where } s' = \hat{s} $$
 
 
 ## Bounded Projection
 
 Define:
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-=
-\{ \hat{s}|_{\Sigma} \mid P(\Sigma, \hat{s}|_{\Sigma}) \}
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) = \{ \hat{s}|_{\Sigma} \mid P(\Sigma, \hat{s}|_{\Sigma}) \} $$
 
 
 ## Structure
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-\in
-\{ \varnothing,\ \{ \hat{s}|_{\Sigma} \} \}
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) \in \{ \varnothing,\ \{ \hat{s}|_{\Sigma} \} \} $$
 
 
 ## Interpretation
@@ -145,9 +131,7 @@ Bounded projection is:
 
 Let:
 
-$$
-\Sigma = A \cup B, \quad A \cap B = \varnothing
-$$
+$$ \Sigma = A \cup B, \quad A \cap B = \varnothing $$
 
 
 ## Subregion Projections
@@ -157,20 +141,12 @@ $A_t^{\mathrm{bd}}(A), \quad A_t^{\mathrm{bd}}(B)$
 
 ## Recombination
 
-$$
-\mathrm{Recombine}(A,B)
-=
-\{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) \}
-$$
+$$ \mathrm{Recombine}(A,B) = \{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) \} $$
 
 
 ## Decomposability Condition
 
-$$
-A_t^{\mathrm{bd}}(\Sigma)
-=
-\mathrm{Recombine}(A,B)
-$$
+$$ A_t^{\mathrm{bd}}(\Sigma) = \mathrm{Recombine}(A,B) $$
 
 
 ## Main Result
@@ -179,17 +155,11 @@ $$
 
 There exist configurations \( s(t) \), regions \( \Sigma \), and partitions \( \Sigma = A \cup B \) such that:
 
-$$
-P(\Sigma, \hat{s}|_{\Sigma}) = \text{true}
-$$
+$$ P(\Sigma, \hat{s}|_{\Sigma}) = \text{true} $$
 
 but:
 
-$$
-P(A, \hat{s}|_A) = \text{false}
-\quad \text{or} \quad
-P(B, \hat{s}|_B) = \text{false}
-$$
+$$ P(A, \hat{s}|_A) = \text{false} \quad \text{or} \quad P(B, \hat{s}|_B) = \text{false} $$
 
 
 ## Equivalent Form
@@ -198,11 +168,7 @@ $A_t^{\mathrm{bd}}(\Sigma) \ne \varnothing$
 
 but:
 
-$$
-A_t^{\mathrm{bd}}(A) = \varnothing
-\quad \text{or} \quad
-A_t^{\mathrm{bd}}(B) = \varnothing
-$$
+$$ A_t^{\mathrm{bd}}(A) = \varnothing \quad \text{or} \quad A_t^{\mathrm{bd}}(B) = \varnothing $$
 
 
 ## Conclusion
@@ -221,15 +187,11 @@ Non-decomposability arises from:
 
 Closure depends on:
 
-$$
-C(s') \subseteq G \times G
-$$
+$$ C(s') \subseteq G \times G $$
 
 including cross-boundary relations:
 
-$$
-C(s')|_{A \times B}
-$$
+$$ C(s')|_{A \times B} $$
 
 
 ## Whole-Region Evaluation

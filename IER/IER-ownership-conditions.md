@@ -9,16 +9,15 @@ ier:
   status: canonical
   filename: IER-ownership-conditions.md
 ---
-# Structural Authorship and Deformation Lineage in Frontier Geometry
+
+# Ownership Conditions
 
 ## Structural Authorship and Deformation Lineage in Frontier Geometry
 
 **Informational Experiential Realism (IER v10.11.0)**\
-*Tier-2 - Explanatory - Non-Normative - Canon-Constrained*
+*Tier-2 · Explanatory · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
-
-
 
 
 This document is explanatory and non-normative.

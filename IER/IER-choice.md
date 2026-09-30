@@ -15,11 +15,9 @@ ier:
 ## Choice Spaces, Narrative Paths, and Ownership of Alternatives
 
 **Informational Experiential Realism (IER v10.8.2)**\
-*Tier 2 - Elaboration - Non-Normative - Canon-Constrained*
+*Tier 2 · Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
-
-
 
 
 This document is NON-NORMATIVE.

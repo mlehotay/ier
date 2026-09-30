@@ -109,9 +109,7 @@ The researchers fitted a population-receptive-field-style model to the 24 GLM
 beta weights at each cortical vertex. The model assumes a Gaussian response over
 stimulus duration:
 
-$$
-R(d) \propto \exp\left[-\frac{(d-\mu_d)^2}{2\sigma_d^2}\right].
-$$
+$$ R(d) \propto \exp\left[-\frac{(d-\mu_d)^2}{2\sigma_d^2}\right]. $$
 
 It also assumes that the response is invariant to the stimulus's four tested
 positions. The fitted parameters are:

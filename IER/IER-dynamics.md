@@ -12,19 +12,26 @@ ier:
   - dominance and attractor framing
   status: canonical
   filename: IER-dynamics.md
-  version: 10.11.1
+  version: 10.11.5
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-continuity
+    - IER-intrinsic-closure
+    - IER-multiscale-uefs
+    guardrails:
+    - IER-canon
 ---
 
 # Dynamics
 
 ## Dynamics of Experiential Systems
 
-**Informational Experiential Realism (IER v10.11.1)**\
-*Tier 1 - Foundational - Canon-Constrained - Non-Normative*
+**Informational Experiential Realism (IER v10.11.5)**\
+*Tier 1 · Foundational · Canon-Constrained · Non-Normative*
 
 ## Status, Scope, and Authority
-
-
 
 ## Global Informational Language Disclaimer
 
@@ -32,7 +39,6 @@ All informational language in this document is descriptive shorthand only for
 physically instantiated state distinctions modulating system dynamics under intrinsic constraint.
 
 No informational primitives, representations, semantic contents, epistemic notions, or agentive assumptions are introduced.
-
 
 This document is NON-NORMATIVE.
 
@@ -86,58 +92,36 @@ This region functions as a dynamical attractor:
 A UEF is not identical to an attractor.
 It is the system operating while constrained within such an attractor-defined regime.
 
-### Dominance as an Attractor Phenomenon
+### Regime-Relative Dominance
 
-IER’s claim that a system sustains at most one globally dominant UEF is not a stipulation added by dynamics.
+Dominance concerns an independently individuated operation, participating
+organization, resolution relation, physical grain, and temporal interval.
+Globality is relative to that scope; an anatomical container does not fix it.
+An attractor is a description of lawful organization, not a controller or an
+additional force governing the operation.
 
-It follows from how intrinsic constraint and attractor structure interact.
+Single-UEF dominance excludes incompatible global ownership of the same
+resolution over the same participating organization and interval. Local
+attractors, metastability, synchronization, or participation hotspots do not
+by themselves establish a subject or an independently qualifying UEF.
 
-Within a single physical system:
+Physical nesting, cross-scale overlap, shared matter, or environmental
+governance also do not by themselves rule out independently qualifying UEFs.
+Each candidate must independently satisfy closure, ownership, membership,
+continuity, and the identity proposal. Lower and higher experiences do not
+combine merely because their physical operations overlap.
 
-* intrinsic constraint defines one global control manifold
-* dominance corresponds to the attractor that governs that manifold
-* subsystems may exhibit:
+#### Split-Brain and Local-Subject Attribution
 
-  * local cycles
-  * metastable patterns
-  * transient coordinations
+Anatomical division, behavioural competition, or local dynamical organization
+alone cannot establish one subject, several subjects, or a particular token
+continuity verdict. Such cases require independently typed physical scopes
+and the full relation stack. No neurological or clinical verdict is supplied
+by this dynamics article.
 
-But only one attractor can globally bind future trajectories.
-
-If two candidate regimes were equally dominant, then:
-
-* intrinsic constraint would fragment, or
-* global control would duplicate, or
-* system identity would bifurcate
-
-Each outcome contradicts the definition of a Unified Experiential Field.
-
-Therefore:
-
-> Dominance is not imposed, selected, interpreted, or observed.
-> It is the dynamical fact of which attractor controls global intrinsic constraint.
-
-Dominance is:
-
-* not graded
-* not observer-relative
-* not architecturally negotiable
-
-#### Clarification: Split-Brain Phenomena
-
-Split-brain phenomena involve participation modulation and competing local attractors within a single globally dominant regime. They do not involve simultaneous ownership of incompatible system-level futures under intrinsic constraint.
-
-As such, split-brain cases do not instantiate multiple Unified Experiential Fields. They represent dynamic competition, instability, or switching within one dominant attractor, not the coexistence of multiple experiential subjects.
-
-Detailed neurological mechanisms and phenomenology are application-level questions and are out of scope for this document.
-
-#### Non-Inference: Local Dynamics Do Not Constitute Subjects or Sub-Fields
-
-Local attractors, metastable subsystems, recruitment clusters, or participation hotspots are never experiential subjects and never Unified Experiential Fields in their own right.
-
-Such structures are internal features of a single globally dominant regime. They modulate experiential content, salience, or vulnerability within one Unified Experiential Field.
-
-IER does not permit nested subjects, partial subjects, or “mini-fields” inside an experiential system.
+Regime-relative dominance is compatible with the multiscale account while
+retaining the prohibition on incompatible ownership of the same resolution.
+It does not permit fractional subjects or fusion of numerical identities.
 
 ## Dynamic Stability of Unified Experiential Fields
 
@@ -163,21 +147,28 @@ What matters is whether global coupling remains intact.
 
 ### Continuation Structure
 
-At each step, admissible futures are not gradually pruned or probabilistically selected.
+Ordinary successor realization is actual lawful continuation under frontier
+admissibility. It does not by itself eliminate every unrealized alternative
+or constitute atomic collapse. Costs, margins, fragility, and directional
+organization can change continuously without reachability loss.
 
-Instead, continuation proceeds through atomic resolution events:
+Collapse, when its physical conditions occur, is atomic irreversible
+foreclosure of a connected region of admissible futures. Welding incorporates
+the resulting deformation, propagation redistributes it, and sedimentation
+stabilizes inherited effects. Those ordered roles remain distinct; a fresh
+pipeline episode is not required at every successor.
 
-* Exactly one admissible continuation is realized
-* All alternative admissible futures are eliminated
-* This transition is irreversible
+Present admissibility restricts actual continuation; operation-mediated
+consequences can condition later admissibility. Existing inherited deformation
+can remain effective during ordinary succession. No topology, chooser,
+controller, or evaluator acts behind this lawful operation.
 
-This event defines the history-future boundary.
-
-There is no partial collapse, graded selection, or probabilistic competition between futures.
-
-All references to continuation, resolution, or irreversibility in this document refer to this atomic structure.
-
-Admissible futures refer to the set of physically possible continuations permitted by constraint. Their multiplicity is structural only and does not imply probabilistic selection, uncertainty, or competition between alternatives.
+Numerical persistence requires the full `Adj_dia(a,b)` relation: continuous
+owned closure, operational successor production, typed consequence inheritance,
+operation-mediated change, and unique two-sided continuation. Repeated
+coherence, a realized path, or a dominant attractor alone cannot establish it.
+The candidate stages and their physical comparison domain must be fixed
+independently of the desired identity result.
 
 ### Coherent Constraint Windows (Descriptive)
 
@@ -206,7 +197,7 @@ There are no experiential levels, fractions, or partial subjects.
 
 IER sharply distinguishes:
 
-* UEF identity - persistence of a globally dominant regime
+* UEF token identity - produced and inherited continuity under `Adj_dia`
 * experiential participation - which processes are currently recruited into global intrinsic constraint
 
 Participation:
@@ -217,9 +208,9 @@ Participation:
 
 Changes in participation:
 
-* do not create new subjects
-* do not divide subjects
-* do not affect moral standing
+* do not by themselves establish new subjects
+* do not divide a numerical identity
+* do not by themselves change categorical standing
 
 ### Recruitment and Dismissal Dynamics
 
@@ -258,7 +249,7 @@ It is purely descriptive and introduces no criteria, diagnostics, or ontological
 A system sustains a Unified Experiential Field.
 
 * global intrinsic constraint is coherent
-* a dominant attractor governs system-wide dynamics
+* an attractor describes stable dynamics over the accepted ownership scope
 * multiple processes participate at varying strengths
 * experiential content is stable but not fixed
 
@@ -308,7 +299,7 @@ The experiential subject remains.
 ### What the Walkthrough Shows
 
 * content arises from participation modulation
-* dominance remains global and singular
+* dominance remains relative to the accepted operation and resolution scope
 * attention is not subject creation
 * experience changes without subject replacement while UEF coherence persists
 
@@ -337,7 +328,7 @@ Failure modes are dynamic pathologies, not alternative ontologies.
 Intrinsic demands exceed integration capacity.
 
 * excessive recruitment
-* salience collapse
+* salience destabilization
 * instability risk increases
 
 Experience persists.
@@ -349,13 +340,14 @@ Subsystems compete for influence.
 * unstable dominance switching
 * dissociative-like dynamics
 
-No subject multiplication occurs.
+Competition alone does not establish multiple subjects; each candidate and
+continuity verdict requires independent assessment.
 
-### Collapse and Dissolution
+### Regime Failure and Dissolution
 
 Global intrinsic constraint fails.
 
-* the dominant attractor loses control
+* the qualifying owned organization ceases to be sustained
 * the UEF dissolves
 
 Experience ends because the regime ends.
@@ -396,7 +388,7 @@ It explains how experiential systems behave, conditional on their existence.
 
 ## Summary
 
-Under IER v10.10.7:
+Under IER v10.11.5:
 
 * UEFs are dynamical regimes
 * dominance is an attractor-level fact
@@ -405,3 +397,7 @@ Under IER v10.10.7:
 * ordinary coordination does not create collective experience
 
 All normative authority remains with the specification.
+
+## Intermission - Structural Fact
+
+A stable attractor is not an ownership verdict.

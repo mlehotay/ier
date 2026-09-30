@@ -8,19 +8,25 @@ ier:
   category: temporal_continuity
   status: canonical
   filename: IER-persistence.md
+  version: 10.11.5
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-continuity
+    - IER-participation
+    guardrails:
+    - IER-canon
 ---
 
 # Persistence Under Constraint
 
-## *Learning, Plasticity, and Change Within Unified Experiential Fields*
+## Learning, Plasticity, and Change Within Unified Experiential Fields
 
-**Informational Experiential Realism (IER v10.10.2)**\
-*Tier 2 - Elaboration - Non-Normative - Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.5)**\
+*Tier 2 · Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
-
-
-
 
 This document is explanatory and non-normative.
 
@@ -44,10 +50,9 @@ Its purpose is to explain how substantial experiential change over time - learni
 
 If any interpretation in this document conflicts with the Spec, the Spec takes precedence.
 
-
 ## Abstract
 
-Informational Experiential Realism (IER v10.10.2) holds that experience exists if and only if a physical system sustains a Unified Experiential Field (UEF): a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. Entry into such a regime is categorical, and experiential subjecthood is binary. At the same time, lived experience clearly changes over time through learning, development, trauma, and recovery.
+Informational Experiential Realism (IER v10.11.5) holds that experience exists if and only if a physical system sustains a Unified Experiential Field (UEF): a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. Entry into such a regime is categorical, and experiential subjecthood is binary. At the same time, lived experience clearly changes over time through learning, development, trauma, and recovery.
 
 This article explains how deep experiential change is possible without violating categorical onset, identity conditions, or the unity of experience. It distinguishes between (1) the persistence of a UEF as an experiential subject and (2) changes in the organization and participation of processes within that UEF. Under IER, learning and plasticity are understood as reorganizations of intrinsic constraint and dynamic recruitment or dismissal of participating processes, not as the creation of new subjects or partial experiential entities.
 
@@ -55,11 +60,10 @@ The article clarifies which forms of change are compatible with UEF persistence 
 
 This document introduces no new primitives and makes no claims beyond those implied by intrinsic constraint, experiential participation, and temporal continuity. Its purpose is to complete the diachronic account of experience under IER without expanding its normative core.
 
-Where a UEF remains continuously coherent, the same experiential subject
-persists through changes in participation and content. If the UEF ceases and a
+Where the full `Adj_dia` relation remains intact, one experiential subject
+can persist through changes in participation and content. If the UEF ceases and a
 later UEF is instantiated, the embodied system may persist but the later UEF is
 a numerically distinct experiential subject.
-
 
 ## The Apparent Tension: Persistence vs Change
 
@@ -77,17 +81,23 @@ This article resolves the tension by distinguishing:
 * what must remain invariant for a UEF to persist, from
 * what may vary freely within a persistent UEF.
 
-
 ## What Persists: UEF Identity Conditions
 
-A Unified Experiential Field persists so long as:
+Numerical persistence is governed by `Adj_dia(a,b)` between independently
+individuated stages, not by repeated coherence or resemblance alone. The
+relation jointly requires continuous owned closure, operational successor
+production, typed consequence inheritance, operation-mediated change, and
+unique continuation in both predecessor and successor directions.
 
-* global integration is maintained
-* intrinsic constraint remains coherent
-* no competing UEF emerges
-* temporal continuity is preserved
+A token is a maximal one-to-one chain under that relation. Recruitment,
+release, complete material turnover, boundary migration, and profound
+qualitative change can preserve the chain when physically mediated through
+its operation. An unchanged participant roster or topology is not required.
+Conversely, matching matter, memory, function, or restart capacity cannot
+bridge a failure. Fission and fusion do not divide or combine identity.
 
-These conditions concern existence, not content.
+These conditions concern produced and inherited token continuity rather
+than similarity of content.
 
 They do not fix:
 
@@ -98,7 +108,6 @@ They do not fix:
 
 UEF identity is therefore structurally sparse and intentionally so.
 
-
 ## What Changes: Organization Under Constraint
 
 Within a persistent UEF, multiple dimensions may change:
@@ -107,7 +116,7 @@ Within a persistent UEF, multiple dimensions may change:
 * salience weighting
 * affective tone
 * narrative organization
-* action selection pathways
+* lawful action-organization pathways
 * qualitative stabilizers
 
 These changes can be:
@@ -117,7 +126,6 @@ These changes can be:
 * adaptive or pathological
 
 None of them, by themselves, entail the dissolution of the UEF.
-
 
 ## Participation Modulation Within a Persistent UEF
 
@@ -133,10 +141,11 @@ Processes may:
 * be dismissed back to local or subpersonal operation
 * fluctuate in degree and duration of participation
 
-So long as global coherence is preserved, such changes constitute modulation within a UEF, not regime transition.
+When the full diachronic relation is preserved, recruitment and release can
+constitute change within one token. Global coherence alone does not establish
+that verdict or settle the organizational-transition taxonomy.
 
-
-### Participation Changes Experiential Content, Not Identity
+### Participation Change and Token Identity
 
 Recruitment or dismissal of processes can alter:
 
@@ -145,11 +154,12 @@ Recruitment or dismissal of processes can alter:
 * which modalities dominate
 * which meanings stabilize action
 
-But these changes affect experiential character, not experiential existence.
+These changes can affect experiential character while token identity remains
+intact. That verdict is conditional on the full continuity relation, not on
+participation change or coherence alone.
 
 > A persistent UEF can feel radically different at different times
 > without becoming a different subject.
-
 
 ### Ordinary Examples
 
@@ -163,7 +173,6 @@ Examples of participation modulation include:
 
 None of these constitute new UEFs.
 They are reconfigurations of participation.
-
 
 ## Learning as Constraint Reorganization
 
@@ -183,7 +192,6 @@ Learning changes:
 * how strongly it participates
 
 It does not change the fact that the system is experiencing.
-
 
 ## Trauma, Narrowing, and Reduced Slack
 
@@ -205,7 +213,6 @@ These are within-UEF reorganizations, even when subjectively drastic.
 The UEF persists.
 Its operating regime degrades.
 
-
 ## Recovery, Expansion, and Re-Recruitment
 
 Recovery involves:
@@ -223,7 +230,6 @@ This may feel like:
 
 Under IER, these are changes in constraint organization and participation, not in subjecthood.
 
-
 ## What Cannot Happen Under IER
 
 IER explicitly rules out the following interpretations:
@@ -239,8 +245,9 @@ If such phenomena appear to occur, they must be explained as:
 * participation modulation, or
 * categorical regime transition
 
-No third option exists.
-
+This contrast does not exhaust the state and transition taxonomy. A change
+of stable organizational regime need not end the token if the full diachronic
+relation remains intact; categorical UEF cessation ends it.
 
 ## Relation to Regime Transitions
 
@@ -256,7 +263,6 @@ This article does not adjudicate such cases.
 
 Its scope is limited to explaining how most lived change occurs without invoking regime dissolution.
 
-
 ## Ethical Implications (Brief)
 
 Because intrinsic constraint is what matters morally:
@@ -266,7 +272,6 @@ Because intrinsic constraint is what matters morally:
 * dismissal of regulatory processes increases vulnerability
 
 Ethical relevance therefore attaches not only to UEF existence, but to how participation is organized within it.
-
 
 ## Where IER Stops
 
@@ -286,12 +291,12 @@ IER does not explain:
 
 Those belong elsewhere.
 
-
 ## Conclusion
 
 Experience does not persist by remaining the same.
 
-It persists by remaining globally integrated under intrinsic constraint while everything else is free to change.
+It persists through produced and inherited succession under `Adj_dia`,
+including operation-mediated changes in organization and participation.
 
 Under Informational Experiential Realism:
 
@@ -301,3 +306,7 @@ Under Informational Experiential Realism:
 Learning, trauma, recovery, and transformation are not threats to experience.
 
 They are what experience does once it exists.
+
+## Intermission - Structural Fact
+
+Changed organization need not mean a new token; matching organization need not mean the same token.
