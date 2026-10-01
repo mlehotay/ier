@@ -10,7 +10,7 @@ ier:
   category: framework_overviews
   filename: IER-precis.md
   version: 10.11.5
-  date: 2026-09-10
+  date: 2026-09-30
 ---
 
 # Informational Experiential Realism
@@ -64,6 +64,8 @@ Integration, feedback, recurrence, complexity, information processing, computati
 
 The central structural question is whether relevant constraint remains independently resolvable or has become globally unavoidable within one continuing physical operation.
 
+The formal test concerns physically admissible successor support, not probability weights or observed dependence. The candidate, physical variables, grain, interval, interventions, and exhaustive meaningful partition family are fixed independently. Each block's successors are projected from the same outgoing support; closure requires nonproduct support across every such partition. See [Intrinsic Closure](https://github.com/mlehotay/ier/blob/main/IER/IER-intrinsic-closure.md).
+
 ## Constraint, Information, and Slack
 
 IER uses **constraint** in a strictly physical and structural sense.
@@ -90,10 +92,15 @@ A UEF is a regime of operation rather than a predefined anatomical, spatial, fun
 
 Its boundary is determined structurally.
 
-A process belongs constitutively within a candidate UEF when it:
+A process belongs constitutively within a candidate UEF only when all five conditions hold together:
 
-1. makes a constitutive difference to the candidate operation's admissible continuation; and
-2. bears the candidate operation's globally binding restrictions in its own continuation.
+1. makes a constitutive difference to the candidate operation's admissible continuation;
+2. bears the candidate operation's globally binding restrictions in its own continuation;
+3. has its relevant alternatives settled through the same non-externalizable successor organization;
+4. has consequences of its contribution and bearing taken up into production of later organization; and
+5. satisfies those conditions under common typing of the operation, restriction, variables, grain, scale, regime, intervention family, and interval.
+
+Contribution and bearing are the bilateral intuition, not a sufficient two-clause test. [Processes](https://github.com/mlehotay/ier/blob/main/IER/IER-processes.md#the-full-membership-relation) controls the complete relation.
 
 This **bilateral participation** distinguishes constitutive membership from:
 
@@ -169,6 +176,8 @@ After irreversible resolution, its consequences can become integrated into the c
 
 Not every successor transition contains a new collapse.
 
+These are compressed descriptions. [Futures](https://github.com/mlehotay/ier/blob/main/IER/IER-futures.md#successor-realization) controls successor realization; [Collapse](https://github.com/mlehotay/ier/blob/main/IER/IER-collapse.md#canonical-definition-the-only-unqualified-meaning) controls connected-region foreclosure when sustainment fails under intrinsic constraint.
+
 ## Continuity and Numerical Identity
 
 IER's process-subject identity requires a criterion for when successive stages belong to one numerically continuing subject.
@@ -196,7 +205,7 @@ The persisting invariant is therefore not sameness of:
 Material turnover, internal reorganization, and boundary migration are compatible with one continuing experiential subject when they occur through the continuing operation itself.
 
 Numerical identity neither branches nor merges. All five stage conditions are
-required; see [Continuity](IER-continuity.md).
+required; see [Continuity](https://github.com/mlehotay/ier/blob/main/IER/IER-continuity.md).
 
 Where one uniquely continuing operation preserves the predecessor's connected history, that operation may preserve the predecessor's identity. If the predecessor operation genuinely ends, later qualifying operations are numerically new.
 
@@ -216,7 +225,7 @@ On the identity proposal, the organized physical operation does not cause or enc
 
 IER therefore does not seek a further ontological fact explaining why a particular qualifying physical organization is experienced as red, painful, wet, bright, or otherwise qualitatively particular. Requiring another bridge between the complete constitutive organization and its qualitative character would deny the proposed identity and restart the regress.
 
-A separate descriptive problem remains: physical structures and reported qualitative categories may be mapped, classified, or compared at different levels of explanatory usefulness.
+A separate descriptive problem remains: complete qualitative correspondence is open. Physical structures and reported qualitative categories may be mapped, classified, or compared at different levels of explanatory usefulness, but the identity proposal alone does not establish that complete mapping.
 
 IER does not claim to provide a quale codebook.
 
@@ -271,7 +280,7 @@ Its distinctive proposal is not merely that an experiential description and a ph
 
 IER can state its proposed regime without using experience as a physical input: lawful states and transitions, admissible continuation, non-factorizable constraint, bilateral participation, internally borne resolution, temporal continuity, successor production, and inherited deformation.
 
-This makes the proposal physically specifiable rather than definitionally circular.
+This makes the proposed relation schema physically specifiable rather than definitionally circular. Concrete physical typing and individuation must still be justified independently of experience, report, resemblance, or the desired subject verdict.
 
 Physical specifiability does not prove the identity claim.
 
@@ -281,7 +290,7 @@ If the complete physical operation and total experience continue to share the re
 
 This argument is defeasible. It does not deductively derive experience from non-experiential premises or compel a critic who rejects its physicalist or anti-spectator assumptions.
 
-Formal individuation remains an important area of development. The framework must continue to make its admissibility, partition, participation, and continuity conditions precise enough that unity is not introduced by stipulation.
+The support, membership, and continuity relations are specified in the controlling theory articles. Concrete non-gerrymandered individuation remains an important area of development: physical variables, boundaries, interventions, partitions, and stage comparison domains must be justified so that unity is not introduced by stipulation.
 
 Further work can also develop integrated physical and biological applications in which IER's variables, interventions, partitions, participation conditions, continuity relations, and failure cases are specified within concrete systems. Such cases test the precision and usefulness of application. They do not supply a missing physical definition of the UEF and do not function as consciousness diagnostics.
 

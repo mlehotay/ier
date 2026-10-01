@@ -74,7 +74,9 @@ Where relevant slack remains, the qualifying globally intrinsic regime does not.
 
 Complexity, feedback, recurrence, computation, intelligence, integration, or causal influence are not sufficient by themselves.
 
-UEF boundaries are structural rather than assumed anatomical or spatial boundaries. A process belongs constitutively within the operation when it both contributes to the operation's continuation and bears its globally binding restrictions.
+UEF boundaries are structural rather than assumed anatomical or spatial boundaries. Bilateral contribution and bearing summarize two necessary aspects of constitutive membership. The full relation also requires joint non-externalizable resolution, diachronic uptake, and common physical typing. All five conditions concern the same operation and restriction; reciprocal influence alone is insufficient. See [Processes](https://github.com/mlehotay/ier/blob/main/IER/IER-processes.md#the-full-membership-relation).
+
+Non-factorization concerns physically admissible successor support, not probability weights or observed correlation. The candidate, variables, grain, interventions, and exhaustive meaningful partition family must be fixed independently; each block is projected from the same outgoing support. See [Intrinsic Closure](https://github.com/mlehotay/ier/blob/main/IER/IER-intrinsic-closure.md).
 
 One independently individuated UEF operation is one subject.
 
@@ -107,7 +109,7 @@ A genuine UEF-null interval is sufficient for cessation, not necessary.
 If the qualifying operation ends and a later UEF begins, the later subject is numerically new even if the substrate, memories, capacities, or apparent continuity remain.
 
 Numerical identity neither branches nor merges. See the full stage relation in
-[Continuity](IER-continuity.md).
+[Continuity](https://github.com/mlehotay/ier/blob/main/IER/IER-continuity.md).
 
 ## How the Dynamics Work
 
@@ -128,6 +130,8 @@ IER distinguishes three important forms of change:
 | Collapse | Irreversible foreclosure in which incompatible continuation becomes unreachable |
 
 After irreversible resolution, its consequences may become part of the organization governing later continuation.
+
+Ordinary successor realization requires no fresh collapse. Previously inherited irreversible consequences can remain physically effective through reversible continuation. The [Futures](https://github.com/mlehotay/ier/blob/main/IER/IER-futures.md#successor-realization) and [Collapse](https://github.com/mlehotay/ier/blob/main/IER/IER-collapse.md#canonical-definition-the-only-unqualified-meaning) articles control these compressed descriptions.
 
 Prior change therefore persists not as a copy of the past but as **sedimented physical deformation of what can happen next**.
 
@@ -155,7 +159,7 @@ IER is an abductive, a posteriori identity proposal.
 
 It can describe its proposed physical regime without using consciousness as a physical input: lawful transitions, admissible continuation, non-factorization, bilateral participation, internally borne resolution, temporal continuity, successor production, and inherited deformation.
 
-That makes the proposal physically specifiable and non-circular.
+That makes the proposed relation schema physically specifiable without using experience as an input. It does not establish a non-circular procedure for identifying subjects in concrete systems: physical variables, boundaries, grain, interventions, and comparison domains must be independently justified.
 
 It does not prove that experience must be identical with that regime.
 
@@ -170,7 +174,7 @@ IER argues instead that one qualifying physical operation and total experience s
 | Subject | The same token operation as total experience-as-process |
 | Identity | Concrete process-subject identity |
 | Unity | Globally integrated, non-factorizable intrinsic constraint |
-| Participation | Bilateral contribution to and bearing of global constraint |
+| Participation | Contribution, bearing, joint resolution, diachronic uptake, and common typing |
 | Boundary | Maximal regime-relative participation boundary |
 | Slack | Independent resolution capacity incompatible with qualifying UEF operation |
 | Continuity | Unique continuation of one self-producing, history-bearing operation |

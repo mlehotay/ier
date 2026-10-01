@@ -11,7 +11,7 @@ ier:
   category: reading_guides
   filename: IER-philosophy-of-mind-curriculum.md
   version: 10.11.5
-  date: 2026-09-29
+  date: 2026-09-30
 ---
 
 # Philosophy of Mind for Learning IER
@@ -35,29 +35,35 @@ The guide is non-canonical. Canonical IER sources remain authoritative for the t
 
 The curriculum is deliberately selective. A beginner does not need to master the full literature on consciousness before understanding IER.
 
-## Synchronization and source status — 29 September 2026
+## Theory and Reading Scope
 
-This guide is aligned with the implemented v10.11.5 relations and completed
-Phase 9/S5. Its role in the bounded trusted review core is teaching support;
-it independently settles no theory claim. The upstream status ledger is
-`_work/authority/IER-theory-commitments-multiscale.md` in the private repository.
+This guide follows the current v10.11.5 formulation. It is teaching support
+and independently settles no theory claim. The controlling theory articles
+are available in the public IER repository.
 
-| Source or question | Status and reading role |
-| --- | --- |
-| [Specification](../../IER/IER-specification.md) | Normative theory authority. |
-| [Intrinsic closure](../../IER/IER-intrinsic-closure.md) | Implemented outgoing-support relation; not probability dependence or an experience test. |
-| [Processes](../../IER/IER-processes.md) | Implemented five-clause constitutive membership. |
-| [Continuity](../../IER/IER-continuity.md) | Implemented five-condition stage relation, including unique predecessor and successor. |
-| [Closure under consequence](../../IER/IER-closure-under-consequence.md) | Explanatory synthesis, not a third closure criterion. |
-| Concrete boundary and attribution | Open research; a schema or analogy supplies no certificate. |
-| Complete quality correspondence and identity warrant | Open mapping and abductive/argumentative burdens. |
-| [Final research report](strawson-process-subject-final-report.md) | Current synthesis; distinguishes historical evidence from later research. |
-| [Preliminary survey](process-subject-research-report.md) | Dated evidence, not current theory instructions. |
+Link: <https://github.com/mlehotay/ier>
+
+- **Specification:** Normative theory authority.\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md>
+- **Intrinsic closure:** Implemented outgoing-support relation; not probability dependence or an experience test.\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-intrinsic-closure.md>
+- **Processes:** Implemented five-clause constitutive membership.\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-processes.md>
+- **Continuity:** Implemented five-condition stage relation, including unique predecessor and successor.\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-continuity.md>
+- **Closure under consequence:** Explanatory synthesis, not a third closure criterion.\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-closure-under-consequence.md>
+- **Concrete boundary and attribution:** Open research; a schema or analogy supplies no certificate.
+- **Complete quality correspondence and identity warrant:** Open mapping and abductive/argumentative burdens.
+- **Final research report:** Current synthesis; distinguishes historical evidence from later research.\
+  Link: <https://github.com/mlehotay/ier/blob/main/apps/philosophy/strawson-process-subject-final-report.md>
+- **Preliminary survey:** Dated evidence, not current theory instructions.\
+  Link: <https://github.com/mlehotay/ier/blob/main/apps/philosophy/process-subject-research-report.md>
 
 IER's contribution is the developed physicalist framework and its particular
 formulation, organization, arguments and implications. Historical novelty of
-components or established combinations is not claimed. Research closure is
-separate from manuscript revision, publication readiness and empirical validation.
+components or established combinations is not claimed. That contribution does
+not by itself establish empirical validation or settle the open questions above.
 
 ## How to Use This Guide
 
@@ -85,19 +91,17 @@ A reader should begin with IER itself before reading the surrounding literature.
 
 **Essential.**
 
-[`IER/IER-quick-start.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-quick-start.md)
-
 The shortest current orientation to the theory.
 
 Read this first for the process-subject identity claim, what makes a Unified Experiential Field, bilateral participation and regime-relative boundaries, continuity through turnover and change, admissible continuation, curvature and collapse, and the main things IER does not claim.
 
 The Quick Start is the best first-pass mental model.
 
+Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-quick-start.md>
+
 ## 2. IER Précis
 
 **Essential.**
-
-[`IER/IER-precis.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-precis.md)
 
 The précis is the main standalone conceptual compression of IER.
 
@@ -105,56 +109,67 @@ Read it after the Quick Start for a fuller account of physicalist identity, intr
 
 The précis should be read as a compact overview, not as a substitute for the Specification.
 
+Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-precis.md>
+
 ## 3. IER Specification
 
 **Essential.**
-
-[`IER/IER-specification.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md)
 
 The Specification is the normative core. It answers what experience is under IER, when a UEF exists, what follows from UEF existence, and which distinctions are criterial rather than merely explanatory.
 
 A beginner does not need to memorize the full specification. The point of reading it is to see which claims are foundational and which later articles merely explain or apply them.
 
+Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md>
+
 ## 4. IER Hello World
 
 **Recommended structural intuition.**
-
-[`IER/IER-hello-world.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-hello-world.md)
 
 Hello World introduces a deliberately schematic physical intuition for joint
 constraint and internally borne continuation. Its earlier four-feature account
 is not an instantiation of the adopted full membership and continuity relations.
 Read its current-use limits alongside the canonical owners above. It supplies
 neither empirical attribution nor a completed proof of physical adequacy.
-The accepted S2 through-flow case likewise establishes only a bounded
-transport/turnover contrast, not the whole relation stack.
+The through-flow example likewise establishes only a bounded transport/turnover
+contrast, not the whole relation stack.
+
+Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-hello-world.md>
 
 ## 5. The Stapled Net and the Billowed Sail
 
 **Recommended.**
 
-Public teaching materials are available from [Michael Lehotay's PhilPeople teaching-materials page](https://philpeople.org/profiles/michael-lehotay/teaching_materials):
+Public teaching materials are available from Michael Lehotay's PhilPeople profile:
 
 - The Stapled Net
 - The Billowed Sail
 
-The **Stapled Net** is useful for irreversible fixation, reachability, and constraint propagation.
+The **Stapled Net** is useful for run-relative irreversible fixation, mechanical transition permission, inherited constraint, and transverse effects of interior fixations. Immediate capture availability differs from later mechanical attainability; neither establishes canonical UEF reachability or subject continuity.
 
 The **Billowed Sail** is useful for continuing driven operation, distributed load-bearing, and reversible deformation without requiring a fresh irreversible collapse at every moment.
 
 These are teaching analogies. They do not establish sufficiency for experience.
 
+Link: <https://philpeople.org/profiles/michael-lehotay>
+
 ## Optional route through the current definition owners
 
-After the three essential IER overviews, read [Intrinsic Closure](../../IER/IER-intrinsic-closure.md),
-[Processes](../../IER/IER-processes.md), [Continuity](../../IER/IER-continuity.md)
-and [Closure under Consequence](../../IER/IER-closure-under-consequence.md).
-These explain the relation stack more precisely than an analogy: support-level
+After the three essential IER overviews, these readings explain the current definitions.
+They explain the relation stack more precisely than an analogy: support-level
 unity, independent ownership, membership, produced successors, effective
 history and unique two-sided continuation. A token can end without a
 system-wide experience-null interval. No fresh collapse is required at every
 successor. This route is optional for beginners, useful for checking the
 philosophical comparisons below.
+
+- **Intrinsic Closure**\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-intrinsic-closure.md>
+- **Processes**\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-processes.md>
+- **Continuity**\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-continuity.md>
+- **Closure under Consequence**\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-closure-under-consequence.md>
 
 # Part II. Physicalist Identity: Why IER Is an Identity Theory
 
@@ -162,17 +177,17 @@ IER is easier to understand once the reader sees what earlier identity theorists
 
 ## 6. Stanford Encyclopedia of Philosophy, "The Mind/Brain Identity Theory"
 
-**Essential.**\
-<https://plato.stanford.edu/entries/mind-identity/>
+**Essential.**
 
 A short orientation to classical identity theory, token identity, objections, and successor views.
 
 Read this before Place and Smart if the historical debate is unfamiliar.
 
+Link: <https://plato.stanford.edu/entries/mind-identity/>
+
 ## 7. U. T. Place, "Is Consciousness a Brain Process?" (1956)
 
-**Essential.**\
-<https://doi.org/10.1111/j.2044-8295.1956.tb00560.x>
+**Essential.**
 
 Place argues that a conscious process and a brain process can be one event described differently.
 
@@ -182,28 +197,31 @@ What it does not provide is IER's answer to the further question:
 
 > Which physical process is the subject and total experience?
 
+Link: <https://doi.org/10.1111/j.2044-8295.1956.tb00560.x>
+
 ## 8. J. J. C. Smart, "Sensations and Brain Processes" (1959)
 
-**Essential.**\
-<https://www.jstor.org/stable/2182164>
+**Essential.**
 
 Smart argues that differences in language or meaning do not require two different occurrences.
 
 His economy argument is a useful ancestor of IER's claim that experience need not be an additional product accompanying physical dynamics.
 
+Link: <https://www.jstor.org/stable/2182164>
+
 ## 9. Stanford Encyclopedia of Philosophy, "Physicalism"
 
-**Recommended.**\
-<https://plato.stanford.edu/entries/physicalism/>
+**Recommended.**
 
 This article helps separate several claims that are often run together: everything concrete is physical; mental phenomena depend on physical phenomena; mental and physical descriptions co-refer; and current physics exhausts physical reality.
 
 IER needs the first and argues for a specific identity claim. It does not infer that ordinary physicalism by itself selects the correct experiential relatum.
 
+Link: <https://plato.stanford.edu/entries/physicalism/>
+
 ## 10. Galen Strawson, "What Is the Relation Between an Experience, the Subject of the Experience, and the Content of the Experience?" (2003)
 
-**Essential.**\
-<https://doi.org/10.1111/1533-6077.00015>
+**Essential.**
 
 This is the most important direct precedent for the IER process-subject claim.
 
@@ -217,23 +235,25 @@ boundary and participant change within one continuing operation. Strawson's
 that his subjects are short-lived. Neither the identity idea nor the conjunction
 of continuing-process ideas is claimed as historically new.
 
+Link: <https://doi.org/10.1111/1533-6077.00015>
+
 # Part III. The Subject: Unity, Bearer, and Process
 
 IER is not merely a theory of conscious states. It is a theory of the physical operation that is the total experience and subject.
 
 ## 11. Tim Bayne, "Conscious States and Conscious Creatures"
 
-**Recommended.**\
-<https://philpapers.org/archive/BAYCSA.pdf>
+**Recommended.**
 
 Bayne distinguishes questions about conscious states from questions about conscious creatures or subjects.
 
 This is useful for seeing why identifying a conscious state with some neural event does not yet explain what the subject is.
 
+Link: <https://philpapers.org/archive/BAYCSA.pdf>
+
 ## 12. Matthew Owen, "The Neglected Conscious Subject in Consciousness Science"
 
-**Recommended.**\
-<https://doi.org/10.1016/j.plrev.2024.06.009>
+**Recommended.**
 
 Owen argues that consciousness science often explains conscious states while leaving the subject undertheorized.
 
@@ -242,14 +262,17 @@ preliminary project did not obtain its complete text; the bearer problem was
 independently restated in Owen, Hight and Hudetz's open 2025 organoid paper.
 Do not read this annotation as a full-text review of the 2024 commentary.
 
+Link: <https://doi.org/10.1016/j.plrev.2024.06.009>
+
 ## 13. Stanford Encyclopedia of Philosophy, "The Unity of Consciousness"
 
-**Essential.**\
-<https://plato.stanford.edu/entries/consciousness-unity/>
+**Essential.**
 
 A useful map of phenomenal unity, subject unity, representational unity, access unity, spatial unity, and temporal unity.
 
 The main lesson for IER is that physical integration and subject unity are not automatically the same claim.
+
+Link: <https://plato.stanford.edu/entries/consciousness-unity/>
 
 ## 14. Tim Bayne and David Chalmers, "What Is the Unity of Consciousness?"
 
@@ -261,21 +284,23 @@ This is useful once the reader understands IER's claim that one globally non-fac
 
 ## 15. Henry Taylor, "The Relation Between Subjects and Their Conscious Experiences" (2020)
 
-**Deepening.**\
-<https://doi.org/10.1007/s11098-019-01379-w>
+**Deepening.**
 
 Taylor defends a subject-experience relation weaker than identity.
 
 Read this as a clean counterpoint to the IER and Strawson view: perhaps a subject constitutes or exemplifies an experience rather than being numerically identical with it.
 
+Link: <https://doi.org/10.1007/s11098-019-01379-w>
+
 ## 16. Helen Steward, "Substances, Agents and Processes" (2020)
 
-**Deepening.**\
-<https://doi.org/10.1017/S0031819119000494>
+**Deepening.**
 
 Steward resists replacing enduring agents with processes.
 
 This is one of the clearest objections to any theory that claims the operation itself is the bearer.
+
+Link: <https://doi.org/10.1017/S0031819119000494>
 
 # Part IV. Continuity: How a Process Can Remain the Same Subject
 
@@ -287,57 +312,63 @@ The relevant question is not simply whether a process exists, but:
 
 ## 17. Stanford Encyclopedia of Philosophy, "Process Philosophy"
 
-**Recommended.**\
-<https://plato.stanford.edu/entries/process-philosophy/>
+**Recommended.**
 
 A general orientation to process ontology.
 
 It is useful background, but IER does not follow from process philosophy as a whole.
 
+Link: <https://plato.stanford.edu/entries/process-philosophy/>
+
 ## 18. Thomas Pradeu, "Genidentity and Biological Processes" (2018)
 
-**Essential.**\
-<https://doi.org/10.1093/oso/9780198779636.003.0005>
+**Essential.**
 
 Pradeu develops **genidentity**: identity through temporally ordered, causally connected transformation.
 
 This is one of the most useful conceptual tools for understanding why material turnover does not automatically imply process replacement.
 
+Link: <https://doi.org/10.1093/oso/9780198779636.003.0005>
+
 ## 19. James DiFrisco, "Biological Processes: Criteria of Identity and Persistence" (2018)
 
-**Essential.**\
-<https://doi.org/10.1093/oso/9780198779636.003.0004>
+**Essential.**
 
 DiFrisco distinguishes identifying a process at one stage from determining whether a later stage is the same process.
 
 That distinction maps closely onto IER's separation of synchronic individuation from diachronic persistence.
 
+Link: <https://doi.org/10.1093/oso/9780198779636.003.0004>
+
 ## 20. Rowland Stout, "The Category of Occurrent Continuants" (2016)
 
-**Recommended.**\
-<https://doi.org/10.1093/mind/fzv138>
+**Recommended.**
 
 Stout develops the idea of an **occurrent continuant**: something whose persistence consists in continued activity.
 
 This is one of the closest general metaphysical neighbors to IER's continuing process-subject.
 
+Link: <https://doi.org/10.1093/mind/fzv138>
+
 ## 21. Antony Galton and Riichiro Mizoguchi, "The Water Falls but the Waterfall Does Not Fall" (2009)
 
-**Recommended.**\
-<https://doi.org/10.3233/AO-2009-0067>
+**Recommended.**
 
 The waterfall example makes turnover-compatible persistence intuitive.
 
 The lesson is not that a UEF is a waterfall. It is that a concrete process can remain numerically identifiable while the material participating in it changes.
 
+Link: <https://doi.org/10.3233/AO-2009-0067>
+
 ## 22. Anne Sophie Meincke, "The Disappearance of Change: Towards a Process Account of Persistence" (2019)
 
-**Recommended.**\
-<https://doi.org/10.1080/09672559.2018.1548634>
+**Recommended.**
 
 Meincke argues that process persistence can include internal transformation rather than treating change as automatic replacement.
 
 This is particularly relevant to IER's claim that content, organization, and boundary may change while one subject continues.
+
+Link: <https://doi.org/10.1080/09672559.2018.1548634>
 
 ## 23. Derek Parfit, *Reasons and Persons*, Part III
 
@@ -355,8 +386,7 @@ cybernetic relations do not by themselves identify a conscious subject.
 
 ## 24. Maël Montévil and Matteo Mossio, "Biological Organisation as Closure of Constraints" (2015)
 
-**Essential selected reading.**\
-<https://doi.org/10.1016/j.jtbi.2015.02.029>
+**Essential selected reading.**
 
 Read the definitions of constraint dependence and closure, then the discussion
 of openness and changing organization. Mutually maintained constraints explain
@@ -365,10 +395,11 @@ dependency relation differs from IER's non-product outgoing successor support.
 The reviewed copy was a 2016 author manuscript; its PDF pagination is not the
 2015 published pagination, and edition equivalence was not independently audited.
 
+Link: <https://doi.org/10.1016/j.jtbi.2015.02.029>
+
 ## 25. James DiFrisco and Matteo Mossio, "Diachronic Identity in Complex Life Cycles: An Organizational Perspective" (2020)
 
-**Essential selected reading.**\
-<https://doi.org/10.4324/9781351066389-10>
+**Essential selected reading.**
 
 Read the account of productive transitions between changing organizational
 regimes, then the fission/fusion cases. This is a close positive comparison for
@@ -377,14 +408,17 @@ persists. Biological contextual identity differs from IER's fixed-domain,
 all-five-condition subject rule. The reviewed copy was the 2019 self-archived
 manuscript; published-edition equivalence was not verified.
 
+Link: <https://doi.org/10.4324/9781351066389-10>
+
 ## 26. Ezequiel Di Paolo, "Autopoiesis, Adaptivity, Teleology, Agency" (2005)
 
-**Recommended.**\
-<https://doi.org/10.1007/s11097-005-9002-y>
+**Recommended.**
 
 Useful for distinguishing self-production, viability, adaptivity and effective
 history. Autonomous biological organization supplies an important antecedent;
 agency, sense-making or self-maintenance alone establishes no experiential identity.
+
+Link: <https://doi.org/10.1007/s11097-005-9002-y>
 
 ## 27. W. Ross Ashby, "Variety, Constraint, and the Law of Requisite Variety" (1968)
 
@@ -392,23 +426,25 @@ agency, sense-making or self-maintenance alone establishes no experiential ident
 
 Selection in Walter Buckley's *Modern Systems Research for the Behavioral
 Scientist*, pp. 129–136; reviewed through its 2011 reprint, pp. 200–207.
-[Sourcebook record](https://www.routledge.com/Systems-Research-for-Behavioral-Science-A-Sourcebook/Buckley/p/book/9780202362809).
 The selection draws from Ashby's 1956 *An Introduction to Cybernetics*.
 
 Read for alternatives, restriction and regulation. IER's possibilities must be
 physically typed, rather than merely relative to an observer's discrimination.
 Statistical dependence is not necessarily restricted successor support.
 
+Link: <https://www.routledge.com/Systems-Research-for-Behavioral-Science-A-Sourcebook/Buckley/p/book/9780202362809>
+
 ## 28. Matteo Mossio and Gaëlle Pontarotti, "Conserving Functions across Generations: Heredity in Light of Biological Organization" (2022; online 2019)
 
-**Deepening.**\
-<https://doi.org/10.1093/bjps/axz031>
+**Deepening.**
 
 The reviewed published issue copy distinguishes constitutive functional
 inheritance from independently stable environmental conditions. Useful for
 thinking about effective inherited organization. Hereditary continuity can
 connect distinct generations; it does not automatically preserve one numerical
 subject token.
+
+Link: <https://doi.org/10.1093/bjps/axz031>
 
 # Part VI. The Explanatory Gap and the Identity Burden
 
@@ -418,8 +454,7 @@ The following readings clarify what burden remains after a physical identity can
 
 ## 29. Joseph Levine, "Materialism and Qualia: The Explanatory Gap" (1983)
 
-**Essential.**\
-<https://doi.org/10.1111/j.1468-0114.1983.tb00207.x>
+**Essential.**
 
 Levine gives the explanatory gap its canonical form.
 
@@ -430,14 +465,17 @@ This is useful for distinguishing two questions:
 
 IER's physical specification addresses the first question more directly than many consciousness theories. It does not make the second question disappear.
 
+Link: <https://doi.org/10.1111/j.1468-0114.1983.tb00207.x>
+
 ## 30. David Chalmers, "Facing Up to the Problem of Consciousness" (1995)
 
-**Recommended.**\
-<https://consc.net/papers/facing.html>
+**Recommended.**
 
 Chalmers distinguishes functional explanation from explanation of experience itself.
 
 IER should be understood as making an ontological identity proposal, not merely adding another functional mechanism.
+
+Link: <https://consc.net/papers/facing.html>
 
 ## 31. Saul Kripke, *Naming and Necessity*, Lecture III
 
@@ -461,8 +499,7 @@ These readings help locate IER without requiring a beginner to survey every theo
 
 ## 33. Larissa Albantakis et al., "Integrated Information Theory (IIT) 4.0"
 
-**Essential comparison.**\
-<https://doi.org/10.1371/journal.pcbi.1011465>
+**Essential comparison.**
 
 IIT is the most useful contemporary structural comparator.
 
@@ -479,14 +516,17 @@ objects: probability-sensitive integration is not the same as non-product
 admissible support, and IIT composition need not mean summing independently
 conscious microsubjects.
 
+Link: <https://doi.org/10.1371/journal.pcbi.1011465>
+
 ## 34. Stanford Encyclopedia of Philosophy, "Functionalism"
 
-**Recommended.**\
-<https://plato.stanford.edu/entries/functionalism/>
+**Recommended.**
 
 Functionalism is an important contrast because it individuates mental states by causal or functional role.
 
 IER allows organizational description but does not treat coarse functional or computational equivalence as sufficient for token experiential identity.
+
+Link: <https://plato.stanford.edu/entries/functionalism/>
 
 ## 35. Ned Block, "Troubles with Functionalism"
 
@@ -514,12 +554,13 @@ This is an especially useful bridge between Strawsonian physicalism and IER.
 
 ## 38. David Chalmers, "The Combination Problem for Panpsychism" (2017)
 
-**Deepening.**\
-<https://consc.net/papers/combination.pdf>
+**Deepening.**
 
 Chalmers distinguishes several combination problems.
 
 IER's relevant position is narrow: it rejects phenomenal constituent inheritance and subject summation. It therefore avoids the constitutive micropsychist combination problem rather than solving it on panpsychist premises.
+
+Link: <https://consc.net/papers/combination.pdf>
 
 # Part VIII. Structural Non-Triviality and Individuation
 
@@ -535,21 +576,23 @@ For IER, this means a UEF cannot be identified merely by finding an abstract gra
 
 ## 40. Peter M. Ainsworth, "Newman's Objection" (2009)
 
-**Recommended.**\
-<https://doi.org/10.1093/bjps/axn051>
+**Recommended.**
 
 Ainsworth gives a careful modern account of the objection.
 
 The relevant IER response is to require concrete variables, physical relations, interventions, counterfactual consequences, and history-sensitive successor structure.
 
+Link: <https://doi.org/10.1093/bjps/axn051>
+
 ## 41. Stanford Encyclopedia of Philosophy, "Causal Models"
 
-**Reference.**\
-<https://plato.stanford.edu/entries/causal-models/>
+**Reference.**
 
 Useful background for intervention, counterfactual dependence, variable specification, and causal structure.
 
 This becomes important when formal IER analysis moves beyond toy examples and into concrete physical systems.
+
+Link: <https://plato.stanford.edu/entries/causal-models/>
 
 # Part IX. Optional Deepening
 
@@ -579,30 +622,49 @@ Read these for difficult persistence, branching, and subject-count cases.
 
 Read these for the external demand for a nonrelational intrinsic ground.
 Strawsonian intrinsic constitution differs from IER's physically borne intrinsic
-closure. [IER's Russellian comparison](../../IER/IER-russellian-monism.md)
+closure. IER's Russellian comparison
 keeps this disagreement separate from the internal burden of complete qualitative
 correspondence; ultimate constitution is not disclosed by felt certainty.
+
+Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-russellian-monism.md>
 
 ## Ownership, Quality and Individuation
 
 These are optional routes through the accepted research, not additions to the
 short beginner sequence:
 
-- [Bich et al. 2016; online 2015](https://doi.org/10.1007/s10539-015-9497-8), "Biological Regulation": constitutive organization and internal regulation; internal location alone is not ownership.
-- [Zahavi and Kriegel 2016](https://researchprofiles.ku.dk/en/publications/for-me-ness-what-it-is-and-what-it-is-not/), "For-me-ness"; [Guillot 2017; online 2016](https://doi.org/10.1007/s13164-016-0313-4), "I Me Mine"; and [Metzinger 2000](https://www.staff.uni-mainz.de/metzinge/Texte/The%20Subjectivity%20of%20Subjective%20Experience.pdf): givenness and represented mineness differ from non-externalizable physical bearing.
-- [Loorits 2014](https://doi.org/10.3389/fpsyg.2014.00237), "Structural Qualia"; [Lyre 2022](https://doi.org/10.1093/nc/niac012), "Neurophenomenal Structuralism"; and [Fink, Kob and Lyre 2021](https://doi.org/10.33735/phimisci.2021.79): structural-quality proposals and correspondence constraints; these do not supply IER's complete quality mapping. Read [Negro 2025](https://doi.org/10.1007/s11229-025-05103-6) as a critic.
-- [Austin 2020](https://doi.org/10.1007/s13194-020-0278-0), "Organisms, Activity, and Being"; [DiFrisco 2018; online 2017](https://doi.org/10.1007/s13194-017-0188-y), "Token Physicalism and Functional Individuation"; and [McIntyre 2026](https://doi.org/10.1111/phpr.70146), "Consciousness Multiplied": independent individuation, modal relevance and counting objections remain substantive.
-- [Brakel 2021](https://doi.org/10.3389/fnhum.2021.786133), "Can Neuroscientists Test a New Physicalist Mind/Body View: DiCoToP (Diachronic Conjunctive Token Physicalism)?": an advanced event-identity comparison, whose content conjunction differs from one continuing total subject.
+- Bich et al. 2016; online 2015, "Biological Regulation": constitutive organization and internal regulation; internal location alone is not ownership.\
+  Link: <https://doi.org/10.1007/s10539-015-9497-8>
+- Zahavi and Kriegel 2016, "For-me-ness"; Guillot 2017; online 2016, "I Me Mine"; and Metzinger 2000: givenness and represented mineness differ from non-externalizable physical bearing.\
+  Links:\
+  Zahavi and Kriegel 2016: <https://researchprofiles.ku.dk/en/publications/for-me-ness-what-it-is-and-what-it-is-not/>\
+  Guillot 2017; online 2016: <https://doi.org/10.1007/s13164-016-0313-4>\
+  Metzinger 2000: <https://www.staff.uni-mainz.de/metzinge/Texte/The%20Subjectivity%20of%20Subjective%20Experience.pdf>
+- Loorits 2014, "Structural Qualia"; Lyre 2022, "Neurophenomenal Structuralism"; and Fink, Kob and Lyre 2021: structural-quality proposals and correspondence constraints; these do not supply IER's complete quality mapping. Read Negro 2025 as a critic.\
+  Links:\
+  Loorits 2014: <https://doi.org/10.3389/fpsyg.2014.00237>\
+  Lyre 2022: <https://doi.org/10.1093/nc/niac012>\
+  Fink, Kob and Lyre 2021: <https://doi.org/10.33735/phimisci.2021.79>\
+  Negro 2025: <https://doi.org/10.1007/s11229-025-05103-6>
+- Austin 2020, "Organisms, Activity, and Being"; DiFrisco 2018; online 2017, "Token Physicalism and Functional Individuation"; and McIntyre 2026, "Consciousness Multiplied": independent individuation, modal relevance and counting objections remain substantive.\
+  Links:\
+  Austin 2020: <https://doi.org/10.1007/s13194-020-0278-0>\
+  DiFrisco 2018; online 2017: <https://doi.org/10.1007/s13194-017-0188-y>\
+  McIntyre 2026: <https://doi.org/10.1111/phpr.70146>
+- Brakel 2021, "Can Neuroscientists Test a New Physicalist Mind/Body View: DiCoToP (Diachronic Conjunctive Token Physicalism)?": an advanced event-identity comparison, whose content conjunction differs from one continuing total subject.\
+  Link: <https://doi.org/10.3389/fnhum.2021.786133>
 
 ## IIT and Causal Grain
 
-[Marshall, Findlay, Albantakis and Tononi 2026](https://doi.org/10.1093/nc/niag013),
+Marshall, Findlay, Albantakis and Tononi 2026,
 "Intrinsic Units: Identifying a System's Causal Grain," extends the grain
 comparison beyond IIT 4.0. The accepted review's specified noisy four-unit
 example has full positive successor support despite positive integration at
 the stated grain. This conditional support comparison is not a reproduction
 of IIT's integration calculations or a finding about brains. Supplements and
 the precursor were not independently reviewed.
+
+Link: <https://doi.org/10.1093/nc/niag013>
 
 ## Contemporary Consciousness Science
 
@@ -650,21 +712,36 @@ After these readings, a beginner should be able to understand why IER is an iden
 
 The public repository contains the main beginner-facing theory materials, including:
 
-- [`IER/IER-specification.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md)
-- [`IER/IER-theory.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-theory.md)
-- [`IER/IER-model-overview.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-model-overview.md)
-- [`IER/IER-constraint.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-constraint.md)
-- [`IER/IER-dynamics.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-dynamics.md)
-- [`IER/IER-hello-world.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-hello-world.md)
-- [`IER/IER-precis.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-precis.md)
-- [`IER/IER-futures.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-futures.md)
-- [`IER/IER-continuity.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-continuity.md)
-- [`IER/IER-persistence.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-persistence.md)
-- [`IER/IER-history-future-boundary.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-history-future-boundary.md)
-- [`IER/IER-ownership.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-ownership.md)
-- [`IER/IER-participation.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-participation.md)
-- [`IER/IER-information.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-information.md)
-- [`IER/IER-puzzles.md`](https://github.com/mlehotay/ier/blob/main/IER/IER-puzzles.md)
+- `IER/IER-specification.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md>
+- `IER/IER-theory.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-theory.md>
+- `IER/IER-model-overview.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-model-overview.md>
+- `IER/IER-constraint.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-constraint.md>
+- `IER/IER-dynamics.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-dynamics.md>
+- `IER/IER-hello-world.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-hello-world.md>
+- `IER/IER-precis.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-precis.md>
+- `IER/IER-futures.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-futures.md>
+- `IER/IER-continuity.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-continuity.md>
+- `IER/IER-persistence.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-persistence.md>
+- `IER/IER-history-future-boundary.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-history-future-boundary.md>
+- `IER/IER-ownership.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-ownership.md>
+- `IER/IER-participation.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-participation.md>
+- `IER/IER-information.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-information.md>
+- `IER/IER-puzzles.md`\
+  Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-puzzles.md>
 
 The public applications and examples are useful after the conceptual core is understood. They include Abhidharma, neuroscience, *The Edible Woman*, Game of Life, and physical analogies.
 
@@ -679,8 +756,10 @@ precede the current development revision:
 These papers argue for, compare, and situate the theory. They are not required
 before reading the IER core itself. Paper 01 exists as a manuscript with its
 contribution claim finalized; full revision and publication checks remain
-separate. The [annotated bibliography](../../IER/IER-bibliography.md) provides
+separate. The annotated bibliography provides
 further source references and comparison limits.
+
+Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-bibliography.md>
 
 # Closing Orientation
 
