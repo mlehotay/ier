@@ -1,129 +1,16 @@
 # Applications
 
-Applying Informational Experiential Realism to External Domains
+Exploratory projects applying Informational Experiential Realism (IER) to
+philosophy, science, literature, and toy systems. These materials are
+non-canonical; the [core theory](../IER/IER-model-overview.md) defines IER.
 
-## Purpose
+| Project | What to explore |
+| --- | --- |
+| [Philosophy of Mind](philosophy/README.md) | A reading curriculum, philosophical exposition, and research on physicalism and subject identity. |
+| [Neuroscience](neuroscience/README.md) | What brain measurements and models establish about experience, duration, and subject individuation. |
+| [Abhidharma](abhidharma/README.md) | A comparison with a historical taxonomy of experiential structures and conditioning. |
+| [The Edible Woman](edible-woman/README.md) | A reading of Margaret Atwood's novel, with a reader guide and claims ledger. |
+| [Game of Life](game-of-life/README.md) | Software and research on persistent organization, trajectories, and constraint in a cellular automaton. |
 
-The `apps/` directory contains non-canonical applications of Informational Experiential Realism (IER).
-
-Applications explore how the theory may be used to interpret, analyze, or investigate external domains. They are intended to exercise the framework, generate new research questions, and demonstrate how IER can be applied beyond its core theoretical corpus.
-
-Applications are not part of the canonical IER ontology. They introduce no new theoretical commitments and possess no normative authority.
-
-Changes within an application do not modify the theory itself.
-
-
-## Relationship to the IER Corpus
-
-The repository is organized into distinct layers with different purposes.
-
-* `IER/` contains the canonical theory.
-* `examples/` contains short illustrative examples and intuition pumps.
-* `apps/` contains larger exploratory projects that apply IER to external domains.
-
-Applications may:
-
-* interpret existing scientific or historical frameworks,
-* explore toy models and simulations,
-* investigate potential research programs,
-* generate hypotheses for future work.
-
-Applications may evolve, be revised, or even be abandoned without affecting the canonical IER corpus.
-
-
-## Current Public Surfaces
-
-### [`abhidharma/`](./abhidharma/README.md)
-
-A Classical Phenomenological Taxonomy Through the Lens of IER
-
-This application explores the Abhidharma tradition as one of humanity's most extensive historical investigations of conscious experience.
-
-Rather than treating the Abhidharma primarily as a religious or metaphysical system, this application examines it as a large-scale phenomenological atlas describing recurring experiential structures, transitions, and patterns of conditioning.
-
-The project asks:
-
-> *How might an independently developed taxonomy of experience be interpreted through Informational Experiential Realism?*
-
-The emphasis is comparative rather than doctrinal.
-
-The application does not attempt to validate Buddhist doctrine or reinterpret Buddhism as IER. Instead, it investigates how a modern structural theory of experience relates to a rich historical corpus of phenomenological observation.
-
-
-### [`edible-woman/`](./edible-woman/README.md)
-
-A Literary Application of IER to Margaret Atwood's *The Edible Woman*
-
-This application reads Marian MacAlpin's trajectory through refusal, food affordance change, situation authorship, behavioural substitution, and the woman-shaped cake.
-
-The public surface includes:
-
-* a literary-critical context map,
-* the main bridge article,
-* a non-specialist reader guide,
-* and a claims ledger.
-
-The application treats the novel as a fictional structure that can be redescribed through IER. It does not treat the novel as evidence for IER, as a source of canonical theory, or as a basis for diagnostic claims.
-
-
-### [`game-of-life/`](./game-of-life/README.md)
-
-Constraint Cartography in a Toy Universe
-
-This application explores Conway's Game of Life as a fully observable environment for investigating persistent organization, trajectory structure, and explainability.
-
-The project examines whether concepts developed within IER - such as constraint organization, frontier geometry, trajectory classes, and Constraint Cartography - can be explored within a simple deterministic cellular automaton.
-
-The Game of Life application combines:
-
-* executable software,
-* research notes,
-* design documents,
-* exploratory analyses,
-* and proposed research directions.
-
-Its purpose is not to validate IER, but to provide a simplified environment in which organizational ideas can be developed, visualized, and tested.
-
-
-### [`neuroscience/`](./neuroscience/README.md)
-
-A neuroscience-facing application examining the relationship between empirical brain research and physicalist claims about experience.
-
-The current case studies focus on the identification problem: what neural measurements, models, correlations, perturbations, and localization results establish - and what additional argument is required before they can be interpreted as identifying an experiential occurrence or subject.
-
-Current topics include:
-
-* cortical representations of visual duration;
-* experienced duration versus neural and behavioral timing measures;
-* cortical versus subcortical theories of consciousness;
-* neural localization versus causal necessity, constitution, and subject individuation.
-
-
-### [`philosophy/`](./philosophy/README.md)
-
-Philosophy of Mind Research for IER
-
-This application is a field-literacy, research, and synthesis surface for
-placing IER within public philosophy-of-mind debates.
-
-Its public materials include a philosophy-of-mind curriculum, an inventory of
-major problems for physicalism, the current metaphysical account of the UEF
-process-subject, and the completed process-subject and Strawson research
-records.
-
-These are public support and research materials. They do not define IER
-ontology or change canonical theory.
-
-
-## Future Applications
-
-The `apps/` architecture is intended to support additional exploratory projects as the theory develops.
-
-Future applications may investigate other scientific, computational, philosophical, or phenomenological domains while preserving a clear separation between exploratory work and the canonical IER corpus.
-
-
-## Guiding Principle
-
-Applications are places where Informational Experiential Realism is used, not where it is defined.
-
-They exist to explore the reach, usefulness, and explanatory power of the theory while preserving the stability and independence of the canonical IER framework.
+Each project has its own reading route and research limits. Simulations,
+analogies, and comparisons do not by themselves establish experiential identity.

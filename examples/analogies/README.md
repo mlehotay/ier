@@ -1,22 +1,18 @@
 # Analogy Examples
 
+Familiar physical systems and toy organizations illustrating IER concepts.
+
 ## Status
 
-Status: reference  
+Status: reference
 Authority: non-canonical
 
-This collection uses familiar physical systems and toy organizations to make
-IER concepts more intuitive. The examples are explanatory analogies, not
-models of experience and not evidence that the systems described instantiate a
-Unified Experiential Field.
+These analogies build intuition; they do not establish that the systems
+illustrated instantiate experience.
 
-The v10.11.6 public-export source retains the following selected examples;
-the proposed expansion has not changed this set:
+## Choose an example
 
-* [Garden Hose](garden-hose.md): boundary conditions and flow patterns;
-* [Drum and String](drum-and-string.md): field unity and boundary conditions;
-* [Black Snake](black-snake.md): trajectory formation under constraint; and
-* [Lonely Hearts Runners](lonely-hearts-runners.md): slack, saturation, and
-  regime transition.
-
-All examples remain subordinate to the canonical IER corpus.
+- [Garden Hose](garden-hose.md): boundary conditions and flow patterns.
+- [Drum and String](drum-and-string.md): field unity and boundary conditions.
+- [Black Snake](black-snake.md): trajectory formation under constraint.
+- [Lonely Hearts Runners](lonely-hearts-runners.md): slack, saturation, and regime transition.
