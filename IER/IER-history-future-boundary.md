@@ -13,18 +13,26 @@ ier:
     hard:
     - IER-specification
     structural:
+    - IER-futures
     - IER-continuity
     - IER-closure-under-consequence
+    - IER-sedimentation
+    - IER-collapse
+    - IER-welding
+    - IER-propagation
     guardrails:
     - IER-canon
+    - IER-nonentailment
+  provides:
+  - UC024
 ---
 
-# History–Future Boundary
+# History - Future Boundary
 
 ## The Structural Frontier Where Constraint Operates
 
 **Informational Experiential Realism (IER v10.11.5)**\
-*Explanatory · Non-Normative · Canon-Constrained*
+*T2 · FOUNDATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -47,20 +55,20 @@ The relevant canonical IER documents govern this clarification.
 
 If any statement here conflicts with Tier-1 commitments, Tier-1 prevails.
 
-## Why Constraint Cannot Reside in Past or Future
+## Present Operation and Effective History
 
 It is tempting to locate constraint in:
 
 * the past, as accumulated history, or
 * the future, as open possibility
 
-Under IER, both are structurally incorrect.
+These descriptions need physical qualification. Inherited organization can remain presently effective; merely possible future configurations are not additional actual bearers.
 
 ### The past cannot host constraint
 
-* past events do not exist
-* nothing is stored or retained
-* no content persists
+* past experience is not a payload carried into another present
+* physical records and history-bearing organization can persist
+* their causal role is enacted through current physical organization
 
 ### The future cannot host constraint
 
@@ -68,7 +76,7 @@ Under IER, both are structurally incorrect.
 * admissibility is conditional, not actual
 * possibility alone exerts no cost
 
-Constraint must therefore exist elsewhere.
+Constraint is currently borne through the qualifying physical operation. This structural account does not settle a general metaphysics of past existence.
 
 ## Sedimentation and Admissible Futures
 
@@ -95,13 +103,13 @@ They meet at a single locus:
 
 This locus is the history - future boundary.
 
-> The present is not a moment in time, but the structural frontier where sedimented history constrains admissible futures and collapse may occur under intrinsic constraint.
+> The experiential present is described as the operation-relative structural frontier where inherited physical history constrains admissible futures and collapse may occur under intrinsic constraint.
 
 This boundary is:
 
-* not a timepoint
-* not a slice
-* not a container
+* not an additional moving object or anatomical surface
+* not an instantaneous snapshot sufficient to qualify an operation
+* compatible with time-indexed physical descriptions
 
 It is:
 
@@ -128,7 +136,7 @@ Experience is not located in the past or future.
 
 It exists as:
 
-> the continuous operation of the history - future boundary under intrinsic constraint.
+> the total qualifying UEF operation at this frontier, subject to the full closure, ownership, membership, and diachronic conditions.
 
 This operation consists of:
 
@@ -150,9 +158,7 @@ It is the ongoing operation of constraint at the boundary.
 
 ## Narrative as Irreversible Fixation
 
-Narrative arises from irreversible structural change.
-
-It is not stored.
+Narrative can reflect realized continuation and inherited irreversible structural change. Physical narrative records may exist; they are not archives of past experience or requirements for subject continuity.
 
 It reflects:
 
@@ -194,13 +200,11 @@ Those terms retain their distinct conditional roles when foreclosure occurs.
 The history - future boundary explains temporal asymmetry.
 
 * Futures narrow because collapse removes possibilities
-* History does not accumulate because nothing is stored
+* Effective history can accumulate as physically inherited deformation, without accumulating past experiences as stored payloads
 * Constraint persists because deformation is structural
 * Irreversibility arises from foreclosure and integration
 
-Time’s asymmetry is not imposed.
-
-It arises from:
+This account describes a source of experiential temporal asymmetry through:
 
 > the one-way transformation of admissible futures into structural constraint through collapse and post-collapse integration.
 
@@ -208,14 +212,14 @@ It arises from:
 
 This account excludes:
 
-* the present as an instantaneous slice
-* history as stored content
+* an instantaneous slice as sufficient experiential qualification
+* history as a stored experiential payload
 * the future as pre-existing options
 * experience as output or signal
 * reversible time access
-* internal archives or representations
+* representations as independent bearers of experience
 
-None of these are compatible with IER.
+Physical records and representations can exist and affect current organization. They do not replace qualifying operation or resume a failed token chain.
 
 ## What This Article Does Not Claim
 
@@ -239,7 +243,7 @@ This document introduces no new mechanism.
 
 It identifies the structural locus already doing explanatory work across the corpus:
 
-> Experience is the ongoing operation of the boundary where admissible futures are constrained by prior collapse and may be irreversibly foreclosed under intrinsic constraint.
+> Experience is the total qualifying operation whose current frontier can inherit physical history and condition lawful continuation, including conditional irreversible foreclosure.
 
 ## Intermission - Structural Fact
 

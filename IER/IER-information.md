@@ -8,15 +8,39 @@ ier:
   category: foundations
   status: canonical
   filename: IER-information.md
-  version: v10.10.7
+  version: 10.11.5
+  provides:
+  - UC089
+  - UI024
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-constraint
+    - IER-math
+    - IER-futures
+    - IER-intrinsic-closure
+    - IER-ownership
+    - IER-collapse
+    - IER-curvature
+    - IER-criticality
+    - IER-welding
+    - IER-propagation
+    - IER-sedimentation
+    - IER-knowledge
+    - IER-shannon
+    - IER-computation
+    guardrails:
+    - IER-canon
+    - IER-nonentailment
 ---
 
 # Information
 
 ## Information as Structured Exclusion of Admissible Continuation
 
-**Informational Experiential Realism (IER v10.10.7)**\
-*Tier-2 · Foundational Clarification · Canon-Constrained · Non-Normative*
+**Informational Experiential Realism (IER v10.11.5)**\
+*T1 · Foundational Clarification · Canon-Constrained · Non-Normative*
 
 ## Status, Scope, and Authority
 
@@ -88,7 +112,7 @@ be the admissible transition relation.
 
 For a configuration $s \in S$, the admissible successor set is
 
-$$ A(s) = { s' \in S \mid (s,s') \in R } $$
+$$ A(s) = \{ s' \in S \mid (s,s') \in R \} $$
 
 The set $A(s)$ defines the admissible continuations available at the history - future boundary.
 
@@ -142,13 +166,13 @@ Information is lost admissible continuation.
 
 ## Informational Structure in Set Terms
 
-Let $A(s)$ denote the admissible successor set determined by constraint alone.
+For this comparison only, let $A_{base}(s)$ denote the successor support under a stated baseline restriction before the organizational restriction under study is included. This baseline must be physically justified at the same grain and frontier. Operative $A(s)$ continues to mean the successors under the actual regime-relative relation $R$.
 
-Let $A_{org}(s)$ denote the subset of those successors that remain reachable given the system’s organization.
+Let $A_{org}(s)\subseteq A_{base}(s)$ denote those successors remaining under the organizational restriction. These are two typed views of physical continuation, not two physical possibility spaces.
 
 Information corresponds to the excluded region:
 
-$A(s) \smallsetminus A_{org}(s)$
+$A_{base}(s) \smallsetminus A_{org}(s)$
 
 This expression is descriptive only.
 
@@ -164,9 +188,9 @@ A regime is intrinsically closed when admissible futures cannot be decomposed in
 
 Intrinsic closure is not identical to information.
 
-However, closure ensures that exclusions cannot be exported outside the regime.
+Non-factorization concerns the same outgoing fibre across every independently fixed meaningful partition. It establishes synchronic inseparability only. Ownership determines whether the relevant burden is internally borne and non-externalizable; bilateral membership and full continuity are additional relations.
 
-Within intrinsically closed regimes:
+Within an independently qualifying owned regime, when exclusion occurs:
 
 - incompatibilities must be resolved internally
 - exclusions affect the entire reachable future structure
@@ -204,9 +228,7 @@ Collapse produces new information because reachable continuation is irreversibly
 
 Not all informational exclusion constitutes collapse.
 
-Some exclusions may arise from continuous deformation of constraint geometry.
-
-Collapse is the canonical event through which informational exclusion becomes irreversible.
+Organization can restrict continuation relative to a baseline without a new collapse event. Continuous curvature can change costs, margins, and directional spread while every compared alternative remains reachable. It does not gradually exclude members. Actual irreversible reachability foreclosure is collapse, under a common physically justified comparison of the before and after fibres.
 
 ## Information and Criticality
 
@@ -230,11 +252,13 @@ Criticality describes the geometric condition under which informational exclusio
 
 ## Information and Sedimentation
 
-Once exclusion occurs irreversibly:
+When foreclosure and its post-collapse incorporation occur:
 
 - deformation is welded into system organization
 - propagation reshapes downstream admissibility
-- reachable futures are permanently altered.
+- later admissibility is conditioned by inherited organization.
+
+The conditional welding, propagation, and sedimentation relations are distinct. Ordinary succession can carry existing consequences without a fresh complete pipeline. Irreversibility concerns the typed historical event, not a claim that every later successor set is a subset of every earlier one.
 
 Information therefore accumulates historically.
 
@@ -274,9 +298,9 @@ Shannon information describes patterns within signals relative to a communicatio
 
 IER information describes exclusion within admissible continuation under physical constraint.
 
-Shannon-style informational systems admit virtualization and informational slack.
+A Shannon communication model abstracts signal distinctions from many implementation details. Such abstraction by itself establishes neither slack nor its absence in the physical implementation.
 
-IER information becomes structurally relevant precisely where such slack is exhausted or collapsing.
+Physical restriction is consequential in both pre-UEF and UEF domains. A Shannon description does not decide whether its physical implementation admits independence-preserving slack. Slack exhaustion alone establishes neither foreclosure nor experience.
 
 The two frameworks therefore operate at different structural levels.
 
@@ -322,7 +346,7 @@ $\text{constraint} \to \text{admissible continuation}$<br>
 $\to \text{organization under constraint}$<br>
 $\to \text{exclusion of continuation}$<br>
 $\to \text{information}$<br>
-$\to \text{irreversible collapse and sedimentation}$
+$\to \text{conditional foreclosure and inherited consequence}$
 
 Information is therefore:
 

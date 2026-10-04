@@ -3,7 +3,23 @@ ier:
   tier: T2
   role: ELABORATION
   provides:
-  - regime interruption and subject distinction
+  - UC026
+  - UC027
+  - UC028
+  - UC029
+  - UC030
+  - UC037
+  - UC038
+  - UC039
+  - UC113
+  - UI001
+  - UI003
+  - UI007
+  - UI008
+  - UI009
+  - UI015
+  - UI016
+  - UI025
   status: canonical
   layer: pipeline
   domain:
@@ -18,8 +34,24 @@ ier:
     - IER-math
     - IER-ownership
     - IER-processes
+    - IER-intrinsic-closure
+    - IER-closure-under-consequence
+    - IER-pipeline
+    - IER-collapse
+    - IER-welding
+    - IER-propagation
+    - IER-sedimentation
+    - IER-re-entry
+    - IER-memory
+    - IER-regimes
+    - IER-failure
+    - IER-time
+    - IER-embodiment
     guardrails:
     - IER-canon
+    - IER-nonentailment
+    - IER-diagnostics
+    - IER-ethics
 ---
 
 # Continuity
@@ -27,7 +59,7 @@ ier:
 ## Produced Successors, Inherited History, and Token Continuity
 
 **Informational Experiential Realism (IER v10.11.5)**\
-*Tier 2 · Elaboration · Non-Normative · Canon-Constrained*
+*T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -46,33 +78,25 @@ If any statement here conflicts with those documents, those documents take prece
 
 ## Abstract
 
-Informational Experiential Realism (IER) identifies experience with the operation of a physical system as a Unified Experiential Field (UEF): a globally integrated, temporally continuous dynamical regime operating under coherent intrinsic constraint. Because UEFs are regimes rather than enduring objects, they may cease and later be instantiated again. This raises two distinct questions: how experience remains temporally continuous while a UEF persists, and what persists at the level of the embodied system when a UEF is absent.
+One qualifying continuing UEF operation is the total experience-as-process
+and subject under the identity proposal. Numerical continuity is not repeated
+coherence, a continuing organism, retained capacity, or memory. It is membership
+in a maximal one-to-one chain under the full stage relation below.
 
-This article resolves the first question by rejecting snapshot and storage models of time and experience. Under IER, time is not a container, parameter, or sequence, but the asymmetry induced by irreversible constraint resolution within a regime. The “specious present” is not a measured interval but the minimal window of coherent intrinsic constraint required for a UEF to exist at all. Experiential flow is the persistence of regime coherence across such windows. The embodied system may persist through a UEF-null interval, but a later UEF is then a numerically distinct experiential subject.
+Time-indexed physical descriptions remain possible; no additional container,
+stored present, or stitching observer is needed. Temporal asymmetry can involve
+inherited irreversible effects without fresh foreclosure at every successor.
+Clinical and sleep labels alone establish neither presence nor absence of a UEF.
 
-## The Apparent Problems of Time and Experiential Gaps
+## Distinct Physical Relations
 
-Human experience appears to flow. It has a “now,” a sense of passage, and an apparent direction. Yet experience also interrupts: in dreamless sleep, anesthesia, attentional interruption, and pathological states. Any theory that treats experience as real rather than illusory must explain:
-
-* why experience feels temporally continuous while present,
-* why there is a “now” without a privileged instant,
-* why temporal passage survives determinism,
-* and what kind of identity can persist through a UEF-null interval.
-
-If the experiential subject were identified with the persisting physical system across every possible gap, genuine cessation would create a numerical-identity error. IER distinguishes experiential regimes from persisting physical systems and treats time as a feature of regime dynamics rather than a background dimension.
-
-## IER Commitments Presupposed
-
-This document presupposes only commitments already fixed elsewhere in the IER corpus:
-
-1. Experiential identity: experience is identical to the operation of a system as a Unified Experiential Field.
-2. Regime ontology: a UEF is a dynamical regime of the whole system, not an object or substance.
-3. Categorical existence: experiential regimes either exist or do not exist.
-4. Regime-relative dominance: incompatible global ownership of the same resolution over the same participating organization and interval is excluded; physical nesting or overlap alone is not such a conflict.
-5. Intrinsic constraint: experiential unity and ownership arise from unavoidable internal constraint.
-6. Future-oriented persistence: what matters for continuity is what the system can still become, not what it remembers.
-
-No additional phenomenological or metaphysical assumptions are introduced.
+Synchronic closure concerns non-factorization of one physically declared
+successor fibre. Ownership concerns where its relevant burden is borne;
+constitutive membership concerns the full bilateral interval relation.
+Diachronic continuity concerns produced and inherited succession across
+independently individuated stages. Closure under consequence synthesizes these
+roles without adding a third qualification condition. None substitutes for
+another, and concrete operationalization remains an open physical burden.
 
 ## Physical Stage Continuity
 
@@ -85,14 +109,14 @@ universal verification tuple.
 
 The accepted stage-indexed relation `Adj_dia(a,b)` requires all five conditions:
 
-1. **Continuous closure.** Globally non-factorizable, internally borne closure
+1. Continuous closure. Globally non-factorizable, internally borne closure
    spans the relevant transition cuts without a qualifying gap or incompatible
    independently resolved successor operations.
-2. **Operational successor production.** The actual dynamics at $a$ produce
+2. Operational successor production. The actual dynamics at $a$ produce
    the regime-defining organization at $b$. External matter, energy, forcing,
    or support may contribute, but do not independently install a completed
    successor organization.
-3. **Typed consequence inheritance.** Physically irreversible history-bearing
+3. Typed consequence inheritance. Physically irreversible history-bearing
    changes remain instantiated through the realized transition and constrain
    $b$'s admissible continuation. Appropriate counterfactual variation would
    change its successor structure. Resemblance, copied records, generic state
@@ -100,13 +124,13 @@ The accepted stage-indexed relation `Adj_dia(a,b)` requires all five conditions:
    irreversible events need not occur at every pair, but inheritance must be
    physically supported densely enough at the chosen grain that no unmodelled
    gap carries the identity claim.
-4. **Operation-mediated change.** Recruitment, release, turnover, geometry
+4. Operation-mediated change. Recruitment, release, turnover, geometry
    change, and boundary migration are enacted through the transition under
    the canonical constitutive-membership relation. Incompatible independent
    ownership cannot be counted as mere internal change.
-5. **Unique two-sided continuation.** In the pre-fixed physical comparison
+5. Unique two-sided continuation. In the pre-fixed physical comparison
    domain, $b$ is the sole candidate successor of $a$ satisfying conditions
-   1–4, and $a$ is the sole qualifying predecessor of $b$.
+   1 - 4, and $a$ is the sole qualifying predecessor of $b$.
 
 No clause is sufficient alone. A token operation is a maximal one-to-one chain
 connected by this relation without an intervening failure. Numerical
@@ -156,25 +180,26 @@ IER rejects snapshot and sampling metaphors for experience.
 
 Coherent intrinsic constraint cannot be instantiated at an instant. Experience therefore requires a non-zero span of lawful dependence.
 
-> Specious present (IER): the minimal window of coherent intrinsic constraint required for a Unified Experiential Field to exist.
+> Specious present (IER): a nonzero-duration coherence window required for UEF operation, not a universally fixed minimal measured interval.
 
 This definition makes explicit that:
 
 * the specious present is not a perceptual buffer or cognitive mechanism,
 * it is not a measured or privileged duration,
 * IER does not license assigning it a fixed timescale,
-* “window” denotes regime coherence, not clock time.
+* “window” concerns physically coherent operation; clock-indexed description is allowed.
 
 If there is no coherent constraint window, there is no experience.
 
 ### Experiential Flow Without Snapshots
 
-What is ordinarily called experiential flow is, under IER, the persistence of coherent regime organization across successive specious-present windows.
+Experiential flow concerns continuing qualifying operation across nonzero-duration
+stages under the full relation; repeated coherent windows alone are insufficient.
 
 Flow is not produced by stitching discrete frames, sampling inputs, or
 replaying stored contents. Where the full stage relation holds, it is the
-continuing operation of one qualifying UEF, physically producing and inheriting
-successive organizations under intrinsic constraint.
+continuing operation of one qualifying UEF. Its physical organization produces
+successors and inherits effective consequences under intrinsic constraint.
 
 ### Memory Does Not Unify Experience
 
@@ -184,10 +209,12 @@ Memory can fail, distort, or be absent while experience remains present. Experie
 
 Under IER:
 
-* unity is enforced in the moment by coherent intrinsic constraint,
+* the independently qualifying total UEF operation is unified,
 * continuity requires produced and inherited succession under the full `Adj_dia` relation.
 
-Memory concerns future accessibility, not temporal binding.
+Episodic memory is contingent present organization as lived past. Physically
+effective history is broader than recall, and neither recall nor copied records
+supplies the full stage relation.
 
 ## Temporal Asymmetry and Ordinary Succession
 
@@ -195,9 +222,9 @@ Experiential flow does not require an atomic collapse at every advance.
 Ordinary lawful successor realization can preserve reachability while
 organization changes and inherited deformation remains effective.
 
-When collapse occurs, irreversible foreclosure and its incorporation,
-propagation, and sedimentation contribute to temporal asymmetry. The
-history–future boundary is continuous physical operation, not a sequence of
+A collapse episode can contribute to temporal asymmetry through foreclosure,
+incorporation, redistribution, and stabilized inheritance. The
+history - future boundary is continuous physical operation, not a sequence of
 stored frames or repeated acts of selection.
 
 ## Persistence Without Continuous Experience
@@ -221,87 +248,40 @@ experiential subject across cessation.
 
 ## Conditional Regime Illustrations
 
-The following labels illustrate possible organizations under the stated
-physical conditions. A sleep, anaesthesia, catatonia, or coma label alone
-does not establish UEF presence, cessation, or numerical continuity. Such
-attribution requires the full physical relation stack; retained responsiveness
-or capacity is not a substitute. The complete transition taxonomy is not
-defined by these illustrations.
+| Possible description | Physical condition that must be established separately |
+| --- | --- |
+| Genuine cessation | Qualifying constitutive operation or the full stage relation fails |
+| Reconfigured experience | A qualifying operation continues under altered organization |
+| Reduced effective agency | Practical control changes without implying lost derived capacity |
+| Reduced expression | Reports or behavior change without settling qualifying operation |
+| Reconstruction | Similar organization returns without bridging a failed stage relation |
 
-### Dreamless Sleep - Regime Suspension
+Dreamless sleep, dreaming, anesthesia, catatonia, daydreaming, and coma labels
+can motivate these questions but do not decide them. Catatonia does not by
+its name establish high-cost experience, and responsiveness does not certify
+continuity. A local regime pattern can fail or change while qualifying UEF
+operation continues. Actual qualifying interruption cannot be bridged by
+latent capacity or later recall.
 
-* no coherent constraint window,
-* no experiential time,
-* full preservation of capacity.
+## Cessation, Null Intervals, and Capacity
 
-Experience is absent because the regime is absent, not because the embodied
-system has ceased to exist. If a later UEF is instantiated after genuine
-cessation, it is a numerically distinct experiential subject.
+Cessation ends the token when qualifying operation or its complete stage
+relation fails. A UEF-null interval contains no qualifying operation while
+substrate or capacity may persist. It is sufficient but not necessary for
+token discontinuity. Preserved capacity concerns possible future operation;
+restart after cessation is a new subject token.
 
-### Dreaming - Regime Reconfiguration
+Death and irreversible destruction of future UEF-sustaining capacity retain
+their normative owner. Such destruction is distinct from reversible cessation
+and is not required for the present token to end. This article provides no
+clinical death criterion or verdict about a concrete case.
 
-* a UEF is present,
-* intrinsic constraint remains unavoidable,
-* external coupling is reduced,
-* temporal coherence is preserved.
+## Ethical Orientation
 
-Dreaming is reconfigured worldhood, not diminished experience.
-
-### General Anesthesia - Forced Dissolution
-
-* intrinsic constraint is externally suppressed,
-* global integration fails,
-* UEFs cannot be sustained.
-
-Reversibility of the embodied system follows from preserved capacity, not
-stored experience; it does not by itself establish numerical subject identity.
-
-### Catatonia - Frozen Constraint
-
-* a UEF persists,
-* intrinsic constraint is extreme and rigid,
-* agency is disabled to preserve coherence.
-
-This is high-cost experience, not unconsciousness.
-
-### Daydreaming - Participation Drift
-
-* the same experiential regime persists,
-* internal organization shifts,
-* no regime transition occurs.
-
-### Coma - Capacity Ambiguity
-
-* integration is severely disrupted,
-* regime presence is unstable or absent,
-* preservation of capacity is uncertain.
-
-IER therefore treats coma as ethically precautionary.
-
-## UEF Cessation and Death
-
-UEF cessation is the loss of the constitutive globally coherent, temporally
-continuous intrinsic-constraint regime. It may occur while the embodied system
-and its sedimented capacities persist. A later UEF on that system is a new
-experiential subject.
-
-Death is not prolonged unconsciousness.
-
-Under IER, death is:
-
-> the irreversible destruction of a system’s capacity to sustain any future Unified Experiential Field.
-
-This forecloses all admissible experiential futures and is therefore morally terminal.
-
-## Ethical Orientation (Pointer Only)
-
-This document establishes no ethical criteria. It clarifies why:
-
-* absence of experience does not entail absence of moral relevance,
-* preserved capacity is ethically central,
-* temporal interruption does not negate standing.
-
-The governing corpus retains all binding authority.
+Absence of current operation and retained capacity can matter under the ethical
+account, but neither supplies a numerical continuity bridge. This article adds
+no precautionary clinical rule, standing measure, or harm calculus. The
+Specification and Ethics retain normative authority.
 
 ## What This Account Does Not Do
 
@@ -315,21 +295,13 @@ This document does not:
 
 It explains how time, flow, interruption, and continuity arise given IER’s existing commitments.
 
-## Conclusion: Time Flows; Persons Persist
+## Compression
 
-IER entails a simple but non-trivial result:
-
-* experience exists only in regimes,
-* regimes require temporal coherence,
-* time is the asymmetry of irreversible constraint resolution,
-* an embodied system can persist across cessation while subject identity ends,
-* persons persist as systems, not as moments.
-
-No snapshots.
-No stored presents.
-A sleep or clinical label alone does not establish cessation or continuation.
-
-Only ongoing constraint, its irreversible traversal, and the systems that can still bear it.
+The total subject is the qualifying operation, not an independently enduring
+bearer. Its stages require nonzero duration and all five continuity conditions.
+Inherited physical history can remain effective without fresh foreclosure or
+recall. Substrate and capacity can persist while a token ends; neither clinical
+labels nor narrative resemblance settle that verdict.
 
 ## Intermission - Structural Fact
 

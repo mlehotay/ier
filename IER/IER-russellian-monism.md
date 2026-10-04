@@ -16,10 +16,17 @@ ier:
     - IER-sensory-multiple-realizability
     - IER-constraint-modes
     - IER-intrinsic-closure
+    - IER-multiscale-uefs
+    - IER-continuity
     guardrails:
     - IER-canon
     - IER-nonentailment
+    - IER-diagnostics
   version: 10.11.5
+  provides:
+  - UC108
+  - UI027
+  - UI029
 ---
 
 # Russellian Monism
@@ -27,13 +34,13 @@ ier:
 ## Intrinsic Nature, Structural Access, and Epistemic Non-Authority
 
 **Informational Experiential Realism (IER v10.11.5)**\
-*Tier-2 Explanatory · Non-Normative · Canon-Constrained*
+*T2 · BRIDGE · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
 This article explains the accepted IER position. It introduces no primitives,
 criteria for experience, diagnostic procedures, or epistemic authority.
-`IER-specification.md` and the governing canonical owners retain authority.
+*Specification* and the governing canonical owners retain authority.
 Its comparisons do not establish novelty or refute every neighboring theory.
 
 ## Abstract
@@ -98,7 +105,7 @@ authority over ultimate being.
 
 ## One World, Two Descriptive Relations
 
-`IER-reality.md` distinguishes reality-in-itself from reality-for-a-UEF.
+*Reality* distinguishes reality-in-itself from reality-for-a-UEF.
 The former is mind-independent and constraining; the latter is the same
 world as frontier-relevant for a particular operation. These are not two
 worlds or mental and physical substances.
@@ -109,12 +116,12 @@ description, a correctness signal, or a revelation of the world's
 categorical constitution. Being experience is not the same as judging
 correctly about experience or its causes.
 
-`IER-constraint-modes.md` describes organizations such as urgency, attraction,
+Constraint Modes describes organizations such as urgency, attraction,
 and conflict. A mode is not a sample of an external object's intrinsic stuff.
 
 ## Why Sensory Multiple Realizability Matters
 
-`IER-sensory-multiple-realizability.md` distinguishes four roles:
+*Sensory Multiple Realizability* distinguishes four roles:
 
 1. An external referent or physical cause.
 2. A transduction or coupling mechanism.
@@ -139,7 +146,7 @@ or making an empirical claim that particular organisms share experiences.
 Reality constrains even when beliefs, reports, and felt certainty disagree.
 Neither salience nor irreversible consequence licenses a truth verdict.
 No experiential intensity, mode, unity, or persistence grants categorical
-insight. This preserves `IER-nonentailment.md`: structural identity does not
+insight. This preserves *Non-Entailment*: structural identity does not
 confer epistemic certification.
 
 The restriction applies to claims about both external objects and physical
@@ -163,4 +170,3 @@ external does not demonstrate that the critic is wrong.
 
 A world can constrain experience without experience revealing what that
 world is ultimately made of.
-

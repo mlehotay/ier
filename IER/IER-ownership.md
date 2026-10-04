@@ -8,338 +8,144 @@ ier:
   category: agency_I
   status: canonical
   filename: IER-ownership.md
+  provides:
+  - UC019
+  - UI005
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-intrinsic-closure
+    - IER-processes
+    - IER-continuity
+    - IER-agency
+    - IER-choice
+    - IER-pipeline
+    - IER-external-coupling
+    - IER-self-boundary
+    guardrails:
+    - IER-canon
+    - IER-nonentailment
+    - IER-diagnostics
+    - IER-ethics
 ---
 
 # Ownership
 
-## Ownership, Mineness, and Self-Boundary Under Informational Experiential Realism
+## Non-Externalizable Burden, Mineness, and Operation-Relative Boundaries
 
-**Informational Experiential Realism (IER v10.11.0)**\
-*Projection · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.5)**\
+*T2 · PROJECTION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
+This article explains the ownership relation committed by the Specification
+and translates familiar ownership language without adding a self-entity,
+criterion, threshold, diagnostic, or ethical rule. *Intrinsic Closure*,
+*Processes*, *Continuity*, and *Agency* retain their respective conditions.
+Phenomenology, report, and felt control do not establish physical qualification
+or provide privileged access to external truth.
 
-This document is NON-NORMATIVE.
+## Core Relation: Where the Restriction Is Borne
 
-It provides an explanatory and structural account of ownership under Informational Experiential Realism (IER v10.8).
+Ownership is non-externalizable bearing and resolution of globally binding
+restriction within the operation. It is operation-relative, not a possession,
+introspective endorsement, anatomical interior, or graded amount of mineness.
+An independently qualifying UEF owns its internally borne successor problem;
+this is not ownership conferred by a report or an observer's classification.
 
-This document:
+State the candidate boundary, variables, grain, interval, operative restriction,
+and interventions before assessing the relation. Synchronic support closure
+concerns non-factorization of a single outgoing fibre under physically meaningful
+partitions. It does not by itself establish ownership, membership, continuity,
+or experience. Those remain separate physical relations.
 
-* introduces no new primitives
-* introduces no criteria, thresholds, or diagnostics
-* introduces no ethical principles
-* does not define experience
-* does not define agency
-* does not adjudicate clinical, metaphysical, or phenomenological disputes
+Ownership concerns ongoing intrinsic operation, not only atomic collapse.
+Ordinary lawful succession can proceed without fresh foreclosure. A completed
+pipeline episode keeps collapse, incorporation, redistribution, and stabilized
+inheritance distinct; none introduces an owner outside the physical operation.
 
-All ontological, criterial, and ethical authority resides exclusively in:
+## External Influence, Support, and External Resolution
 
-The relevant canonical IER documents govern this clarification.
+External coupling can alter costs, margins, recruitment, and admissible
+continuation. Energy and material support can sustain the operation. Neither
+influence nor support alone means that the intrinsic restriction is resolved
+outside its boundary or that the influencing process is a constitutive member.
 
-If any claim in this document conflicts with the Specification, the Specification takes precedence and the conflicting statement is void.
+External resolution is the narrower independence-preserving case in which part
+of the relevant burden is completed across the proposed boundary. Generic
+causal ancestry or a network of reciprocal arrows does not establish this
+relation. An externally imposed cost can therefore remain internally borne;
+coercion does not automatically relocate ownership.
 
-## Global Informational Language Disclaimer
+Membership has its own joint conditions over one interval: constitutive
+contribution, global bearing, joint resolution, diachronic uptake, and common
+physical typing. Removing a support can change continuation without satisfying
+that relation. Physical boundaries can change through operation-mediated
+recruitment and release; neither anatomy nor all causal dependence defines
+the subject's membership scope.
 
-All uses of *information*, *constraint*, *burden*, *ownership*, *boundary*, *self*, *participation*, and *integration* in this document are descriptive shorthand only.
+## Ownership, Agency, and Access
 
-They refer exclusively to:
-
-> physically instantiated state distinctions that modulate a system’s own future dynamics under intrinsic constraint,
-> as defined in IER Specification II.A (Physical Information).
-
-No representational, semantic, epistemic, or phenomenological methods are introduced or endorsed.
-
-## Epistemic Boundary (Explicit)
-
-Experiential structure - including ownership, mineness, for-me-ness, or self-boundary - confers no epistemic authority about mind-independent reality.
-
-This document presupposes IER Specification Principle 10 (Epistemic Non-Authority).
-
-## Abstract
-
-Terms such as *mineness*, *for-me-ness*, and *ownership* are often treated as mysterious additions to experience, as marks of introspective authority, or as evidence for a metaphysical self. Informational Experiential Realism (IER) rejects all three interpretations.
-
-Under IER, ownership is not an entity, capacity, or judgment. It is a structural fact: the fact that intrinsic constraint is borne non-externalizably within a Unified Experiential Field (UEF).
-
-This document provides a translation map from familiar ownership-laden phenomenological language to structural descriptions consistent with IER. The goal is interpretive clarity, not reduction, diagnosis, or method endorsement.
-
-The account explains:
-
-* why experiences feel *mine* without positing a self-thing
-* why ownership can persist despite impaired agency
-* how ownership phenomenology can fragment or destabilize without subject loss
-* why none of this grants epistemic or metaphysical authority
-
-## Why Ownership Requires Separate Clarification
-
-Ownership language occupies a fault line where multiple confusions accumulate:
-
-* *mineness* is mistaken for a special ingredient
-* *for-me-ness* is mistaken for privileged access
-* *self-boundary* is mistaken for a persisting entity
-* ownership is conflated with:
-
-  * agency
-  * responsibility
-  * reportability
-  * narrative endorsement
-  * epistemic authority
-
-IER already contains the resources to dissolve these confusions, but the translations are often left implicit.
-
-This document makes them explicit.
-
-## What Ownership Is Under IER
-
-### Ownership Is Not a Self
-
-IER rejects the existence of a metaphysical or functional self-entity.
-
-Ownership does not require:
-
-* an inner observer
-* a subject-object split
-* narrative self-representation
-* reflexive awareness
-* endorsement or identification
-
-Nothing *has* experience under IER.
-Experience is the operation of a unified system under intrinsic constraint.
-
-### Ownership as Non-Externalizable Burden
-
-Under IER:
-
-> Ownership is the structural fact that intrinsic constraint cannot be offloaded, outsourced, or resolved outside the Unified Experiential Field in which it arises.
-
-Where constraint is borne from within, ownership obtains.
-
-Ownership is therefore:
-
-* not optional
-* not deliberative
-* not report-dependent
-* not morally earned
-* not epistemically privileged
-
-It is a regime-internal fact.
-
-### Ownership vs. Agency vs. Access
-
-To prevent category errors, IER distinguishes:
-
-| Concept       | What it concerns                                      | Status                      |
+| Relation | Question | Limitation |
 | --- | --- | --- |
-| Ownership | Where intrinsic constraint is borne                   | Structural                  |
-| Agency    | Capacity for owned resolution over admissible futures | Derived, graded             |
-| Access    | What it is like to bear constraint                    | Experiential, non-epistemic |
+| Ownership | Where is the inseparable restriction borne? | Neither a report nor graded endorsement |
+| Experiential agency | What derived capacity does qualifying UEF operation have? | Effective exercise can vary without grading standing |
+| Functional control | How does physical regulation influence outcomes? | Control alone does not establish a UEF |
+| Experiential access | How is organization lived within the qualifying operation? | No epistemic or membership authority |
 
-This document concerns ownership only.
+Effective agency can be impaired while structural ownership remains intact.
+If qualifying operation or its continuity relation fails, the verdict changes
+under those owners; do not describe a failed relation as merely weaker mineness.
 
-Agency and access are adjacent but not interchangeable.
+## Translation of Familiar Language
 
-## The Ownership Translation Map
-
-> Mandatory disclaimer:
-> *This is a translation for interpretive clarity, not a reduction to reportability, access, or introspection.*
-
-### Translation Table
-
-| Phenomenological Term | Structural Translation under IER                                                                                    |
+| Familiar term | Structural interpretation within an already qualifying UEF |
 | --- | --- |
-| mineness          | ownership of intrinsic constraint                                                                               |
-| for-me-ness       | non-externalizable burden within a UEF                                                                          |
-| self-boundary     | regime-relative system boundary sustaining the same globally integrated constraint across a continuity interval |
-
-These translations:
-
-* preserve experiential reality
-* remove metaphysical excess
-* block epistemic inflation
-* introduce no new primitives
-
-### What This Translation Is Not
-
-The translation does not:
-
-* endorse phenomenological method
-* privilege first-person report
-* reduce experience to language
-* collapse structure into introspection
-* imply that experience reveals hidden truths
-
-It is a structural restatement, not a methodological commitment.
-
-## Worked Example A: Ownership in Pain
-
-Pain provides a canonical case of ownership.
-
-### Structural Description
-
-Pain is an organization of intrinsic constraint that:
-
-* escalates cost under non-resolution
-* resists localization
-* recruits global regulation
-* narrows admissible futures
-
-The burden cannot be exported.
-
-The system itself must reorganize.
-
-### Why Pain Feels “Mine”
-
-Pain feels *mine* because:
-
-> the cost of constraint resolution is borne entirely within the same Unified Experiential Field.
-
-No appeal to a self-entity is required.
-
-Ownership here does not imply:
-
-* correctness
-* justification
-* desert
-* moral authority
-* epistemic insight
-
-It indicates only where constraint lives.
-
-## Worked Example B: Ownership in Decision Pressure
-
-Decision pressure often carries strong ownership phenomenology:
-
-* “It’s on me.”
-* “I have to choose.”
-* “This will change everything.”
-
-### Structural Description
-
-Under IER, decision pressure reflects:
-
-* narrowing admissible futures
-* globally binding consequences
-* irreversible trajectory commitment
-* persistent cost of collapse
-
-The resolution reshapes future dynamics inside the same regime.
-
-### Ownership Without Freedom Metaphysics
-
-Ownership here does not require:
-
-* indeterminism
-* rational deliberation
-* narrative authorship
-* moral responsibility
-
-It requires only that:
-
-> the collapse of alternatives is borne from within the UEF.
-
-Agency may vary.
-Ownership may remain.
-
-## Worked Example C: Ownership Disruption in Dissociation
-
-This section addresses the required clarification:
-
-> Ownership disruption without subject loss
-
-### Dissociation Under IER
-
-Under IER, dissociation is not:
-
-* the creation of multiple subjects
-* evidence for an inner observer
-* a loss of experience
-* proof of hidden epistemic access
-
-Dissociation is:
-
-> a reconfiguration of participation, dominance, or integration within a persisting Unified Experiential Field.
-
-Experience continues.
-
-Ownership structure changes.
-
-### What “Ownership Disruption” Means
-
-Ownership disruption occurs when:
-
-* intrinsic constraint remains globally binding
-* burden remains non-externalizable
-* but:
-
-  * attribution patterns fragment
-  * effort - outcome linkages degrade
-  * boundary phenomenology destabilizes
-
-The system may report:
-
-* “This doesn’t feel like me.”
-* “I’m watching myself act.”
-* “These thoughts aren’t mine.”
-
-Structurally:
-
-> constraint is still owned, but its organization no longer supports stable ownership phenomenology.
-
-### What Is Not Lost
-
-In dissociation:
-
-* the Unified Experiential Field persists
-* intrinsic constraint persists
-* experiential standing persists
-
-What changes is how ownership is expressed, not whether it exists.
-
-No subject multiplication is implied.
-
-## Common Confusions Blocked by IER
-
-### Ownership Is Not Reportability
-
-Ownership exists whether or not it can be named, described, or endorsed.
-
-### Ownership Is Not Epistemic Authority
-
-Feeling owned does not make a belief true, justified, or privileged.
-
-### Ownership Is Not Moral Standing
-
-Standing is categorical under IER and does not scale with ownership clarity.
-
-### Self-Boundary Is Not a Self-Entity
-
-Boundaries are regime-relative facts, not objects or agents.
-
-## Explicit Non-Goals
-
-This document does not:
-
-* diagnose dissociation
-* validate or invalidate experiences
-* define mental disorders
-* ground responsibility
-* explain consciousness
-* endorse phenomenology
-* posit a self
-
-It translates language, nothing more.
-
-## Summary
-
-Under Informational Experiential Realism v10.8:
-
-* Ownership tracks where intrinsic constraint is borne.
-* Mineness names ownership of constraint, not a self.
-* For-me-ness names non-externalizable burden, not epistemic privilege.
-* Self-boundaries are regime-relative, not entities.
-* Dissociation can disrupt ownership phenomenology without subject loss.
-
-> Ownership is what intrinsic constraint is like from the inside when it cannot be offloaded.
-
-That is all it is - and all it needs to be.
+| Mineness | Internally borne intrinsic restriction |
+| For-me-ness | Non-externalizable burden, without a second observer |
+| Self-boundary | Regime-relative constitutive scope and its experiential expression |
+
+These are interpretive translations, not attribution methods or reductions to
+language. The total experience-as-process is the qualifying UEF operation;
+there is no independently enduring thing that has it. Current physical
+self-models and representations can nevertheless occur as organization within
+that operation, without becoming another subject or privileged observer.
+
+## Illustrations: Pain and Decision Pressure
+
+Pain can illustrate an internally borne burden in an already qualifying UEF.
+Neither the word pain nor its report specifies a complete physical boundary,
+a fixed geometry, or a necessarily contracted successor set. Its intensity
+does not establish membership or moral desert.
+
+Decision pressure can concern live alternatives, changing costs, and inherited
+consequences. Urgency need not be foreclosure. Where owned foreclosure occurs
+under live multiplicity, choice proper retains its event conditions without
+a chooser or a required duration of deliberation. Felt inevitability does not
+prove that every alternative was physically removed.
+
+## Disrupted Mineness Without an Identity Verdict
+
+Dissociation-like reports, unstable self-attribution, or degraded effort/outcome
+linkages can motivate questions about participation and ownership phenomenology.
+They do not by their labels establish subject multiplication, a persisting UEF,
+cessation, or absence of experience. Under a stipulated continuing UEF, such
+changes can alter how ownership is expressed without grading ownership itself.
+
+Numerical persistence requires all five clauses between independently
+individuated stages: continuous owned closure, operational successor production,
+typed physically effective inheritance, operation-mediated change, and unique
+successor and predecessor. Repeated ownership, unchanged feeling, memory,
+records, or a restored pattern cannot substitute for that full relation.
+
+## Ethical and Epistemic Limits
+
+Ownership is not endorsement, responsibility, desert, or permission. Experiential
+standing does not scale with clarity of mineness, recall, or effective control.
+The ethical owner governs harm and responsibility; this translation provides
+no clinical classification or independent moral verdict.
+
+## Intermission - Structural Fact
+
+An influence on the operation need not be a member or owner of it.

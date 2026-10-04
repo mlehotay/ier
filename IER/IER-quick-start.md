@@ -6,11 +6,30 @@ ier:
   canonical_authority: none
   layer: framework
   domain:
-    - foundations
-    - guardrails_and_orientation
+  - foundations
+  - guardrails_and_orientation
   category: framework_overviews
   filename: IER-quick-start.md
   version: 10.11.5
+  provides: []
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-intrinsic-closure
+    - IER-processes
+    - IER-ownership
+    - IER-continuity
+    - IER-multiscale-uefs
+    - IER-futures
+    - IER-resolution
+    - IER-curvature
+    - IER-collapse
+    - IER-sedimentation
+    guardrails:
+    - IER-canon
+    - IER-nonentailment
+    - IER-diagnostics
 ---
 
 # Quick Start
@@ -68,7 +87,7 @@ In a candidate UEF:
 - participating processes both contribute to and bear the globally binding constraint; and
 - the consequences of prior resolution can remain as organization constraining later continuation.
 
-IER calls the ability to resolve relevant constraint independently **informational slack**.
+IER calls the ability to resolve relevant constraint independently informational slack.
 
 Where relevant slack remains, the qualifying globally intrinsic regime does not.
 
@@ -80,7 +99,11 @@ Non-factorization concerns physically admissible successor support, not probabil
 
 One independently individuated UEF operation is one subject.
 
-Participation may change without subjecthood becoming graded.
+Participation may change without subjecthood becoming graded. Separately
+qualifying operations can coexist across scales with coherent ownership roles.
+Physical nesting, shared matter, or process parthood establishes neither fusion
+nor transfer of first-person occupancy. Incompatible ownership of the same
+resolution over the same organization and interval remains excluded.
 
 ## How the Subject Continues
 
@@ -88,9 +111,11 @@ IER identifies the subject with a temporally extended operation, so persistence 
 
 Across successive stages, the same subject continues when:
 
-- one coherent non-factorizable operation remains continuously instantiated;
+- coherent non-factorizable closure and internally borne ownership remain
+  continuously instantiated;
 - the operation produces its own successor through actual dynamics;
-- consequences of earlier resolution remain physically inherited by later continuation;
+- the earlier operation's physically typed irreversible consequences remain
+  inherited in the successor's admissible continuation;
 - turnover and boundary change occur through the continuing operation; and
 - the later stage is the sole qualifying successor, and the earlier stage its
   sole qualifying predecessor, in a fixed physical comparison domain.
@@ -133,7 +158,7 @@ After irreversible resolution, its consequences may become part of the organizat
 
 Ordinary successor realization requires no fresh collapse. Previously inherited irreversible consequences can remain physically effective through reversible continuation. The [Futures](https://github.com/mlehotay/ier/blob/main/IER/IER-futures.md#successor-realization) and [Collapse](https://github.com/mlehotay/ier/blob/main/IER/IER-collapse.md#canonical-definition-the-only-unqualified-meaning) articles control these compressed descriptions.
 
-Prior change therefore persists not as a copy of the past but as **sedimented physical deformation of what can happen next**.
+Prior change therefore persists not as a copy of the past but as sedimented physical deformation of what can happen next.
 
 This self-inheriting relation is central to IER's account of continuity, memory, agency, and identity.
 
@@ -205,3 +230,7 @@ actual continuation becomes inherited organization
 the same subject persists
 while that one operation continues
 ```
+
+## Intermission - Structural Fact
+
+Ordinary succession does not require a fresh foreclosure.

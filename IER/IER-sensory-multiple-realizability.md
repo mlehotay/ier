@@ -15,10 +15,18 @@ ier:
     - IER-reality
     - IER-multiple-realizability
     - IER-constraint-modes
+    - IER-multiscale-uefs
+    - IER-continuity
+    - IER-russellian-monism
     guardrails:
     - IER-canon
     - IER-nonentailment
+    - IER-diagnostics
   version: 10.11.5
+  provides:
+  - UC099
+  - UC107
+  - UI028
 ---
 
 # Sensory Multiple Realizability
@@ -26,7 +34,7 @@ ier:
 ## Different Channels, Shared Constraint Modes
 
 **Informational Experiential Realism (IER v10.11.5)**\
-*Tier-2 · Explanatory · Non-Normative · Canon-Constrained*
+*T2 · CASE · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -136,7 +144,7 @@ Examples may include:
 - cochlear mechanics
 - mechanoreception
 - chemoreception
-- magnetosome-mediated coupling
+- a stipulated magnetic-field coupling mechanism
 
 These mechanisms are implementation-level structures.
 
@@ -160,7 +168,9 @@ Once a perturbation participates in the system, it may reorganize:
 - stabilization
 - binding
 
-This is the level at which IER describes experiential organization.
+Within an independently qualifying UEF, these changes can describe aspects
+of experiential organization. Physical influence or a mode label alone does
+not establish closure, ownership, membership, or identity.
 
 Different sensory mechanisms may converge on similar or identical constraint organizations.
 
@@ -226,49 +236,20 @@ It follows naturally from an organizational identity theory.
 
 ## Pain as the Canonical Example
 
-Pain provides the clearest existing example.
+Pain motivates an implementation-neutral account, rather than identity with
+one tissue injury, receptor, or neural mechanism. Urgency, conflict, escalation,
+and narrowing can be useful organizational descriptions in a qualifying UEF.
+Those labels are not sufficient conditions for pain, an empirical diagnostic,
+or a completed mapping of physical organization to qualitative character.
 
-Under IER, pain is not identical to:
+Different mechanisms may realize the same relevant organization. The permitted
+relation is conditional: full relevant constitutive equivalence would support
+phenomenal equivalence under the identity proposal. Matching selected costs,
+graphs, or a coarse constraint mode does not establish that premise. Particular
+qualitative correspondence remains a registered open research burden.
 
-- tissue damage
-- nociception
-- C-fiber activity
-- one sensory pathway
-- one biological mechanism
-
-Pain is identified organizationally with:
-
-- escalating intrinsic constraint
-- conflicting participation demands
-- narrowing admissible futures
-- increasing urgency of resolution
-
-A burn may instantiate this organization.
-
-A mechanical injury may instantiate it.
-
-Neuropathic activity may instantiate it.
-
-A physically different organism may instantiate it through another mechanism entirely.
-
-If the relevant experiential organization is instantiated, the experience is pain regardless of the implementation.
-
-The important relation is therefore:
-
-```text
-different physical causes
-        ↓
-different implementations
-        ↓
-same relevant intrinsic-constraint organization
-        ↓
-same experiential kind
-```
-
-This already shows that external cause does not fix phenomenal identity.
-
-Sensory multiple realizability extends the same principle to sensory channels.
-
+Sensory multiple realizability extends this implementation distinction to
+channels without asserting any actual pair of organisms shares an experience.
 
 ## Sexual Salience as a Second Constraint Mode
 
@@ -293,13 +274,16 @@ These may involve:
 - increased switching cost
 - persistent or recurrent salience
 
-The experience is structured by constraint dynamics rather than by a stored proposition such as:
+A salience description does not require a stored proposition such as:
 
 ```text
 this object means sex
 ```
 
-The system is instead recruited into a particular continuation organization.
+A particular continuation organization can recruit the system. Ordinary
+physical representations and explicit interpretations can also participate;
+this account does not prohibit them or establish the qualitative form from
+recruitment alone.
 
 The Alexandra salience example strengthens this point.
 
@@ -423,7 +407,7 @@ The sensory mechanisms are different.
 
 The histories of the systems may be different.
 
-Yet the resulting organization \(O\) could in principle be structurally equivalent.
+Yet the resulting organization $O$ could in principle be structurally equivalent.
 
 Suppose both instantiate:
 
@@ -817,7 +801,7 @@ The existence of an unfamiliar receptor or sensory pathway does not decide among
 
 ## Comparative Phenomenology as Structural Comparison
 
-This suggests a broader programme for comparative phenomenology.
+This suggests a broader program for comparative phenomenology.
 
 Rather than classifying experience only by sensory organs or stimulus type, systems may be compared through:
 
@@ -837,7 +821,8 @@ A human and a nonhuman organism may therefore be:
 - implementation-similar but organizationally different,
 - partially equivalent in one constraint mode and different in others.
 
-This follows the same logic already accepted by IER for pain and multiple realizability.
+These are permitted comparisons, not an empirical attribution or a completed
+qualitative-correspondence theorem.
 
 
 ## Epistemic Limits
@@ -863,25 +848,10 @@ Whether they actually do in any particular case is a separate empirical and theo
 
 ## Relationship to Pain and Salience
 
-Pain demonstrates that a single experiential organization can be instantiated through different mechanisms.
-
-Sexual salience demonstrates that participation recruitment and affordance narrowing can persist independently of novelty or explicit informational content.
-
-Together they support a broader principle.
-
-Pain shows:
-
-```text
-different causes
-→ same experiential regime
-```
-
-Sexual salience shows:
-
-```text
-same familiar content
-→ persistent recruitment without new information
-```
+Pain and salience supply conceptual illustrations of implementation differences
+and persistent recruitment. They do not establish that a small list of dynamics
+uniquely determines a named qualitative form. Their bounded lesson is that
+external cause, novelty, and channel do not independently fix phenomenology.
 
 Sensory multiple realizability combines these lessons:
 
@@ -946,13 +916,17 @@ Different-cause/same-mode cases show that a mode need not pick out one external
 cause. Same-cause/different-mode cases show that organization, current context,
 and effective history mediate how a cause participates. These are structural
 possibilities, not evidence that any named organisms have identical experiences.
+Qualitative correspondence requires the full relevant history, owned boundary,
+and dynamics; coarse equivalence neither proves that mapping nor preserves a
+subject token. Numerical identity retains every stage clause and both
+uniqueness directions in Continuity.
 
 Shared urgency, attraction, or another coarse mode does not establish complete
 phenomenal identity. Even complete relevant organizational equivalence would
 not turn phenomenal character into privileged knowledge of external stuff.
 Sensory access can be informative without carrying a correctness signal or
-epistemic authority. `IER-reality.md` preserves one-world realism;
-`IER-russellian-monism.md` separates this limitation from the external demand
+epistemic authority. *Reality* preserves one-world realism;
+*Russellian Monism* separates this limitation from the external demand
 for a categorical ground.
 
 ## Intermission - Structural Fact

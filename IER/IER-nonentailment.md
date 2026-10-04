@@ -3,23 +3,41 @@ ier:
   tier: T3
   role: CONSTRAINT
   provides:
-  - non-entailment constraints on inference from experience to reality
-  - anti-inflation boundary for explanatory projections
+  - UC087
+  - UC088
+  - UI023
+  - UI027
+  - UI031
   status: canonical
   layer: framework
   domain:
   - guardrails_and_orientation
   category: comparative_boundary
   filename: IER-nonentailment.md
-  version: 10.11.1
+  version: 10.11.5
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-multiscale-uefs
+    - IER-access
+    - IER-reality
+    - IER-russellian-monism
+    - IER-futures
+    - IER-resolution
+    - IER-collapse
+    - IER-ethics
+    - IER-combination-problem
+    guardrails:
+    - IER-canon
 ---
 
 # Non-Entailment
 
 ## Why Experience Does Not Imply What Intuition Demands
 
-**Informational Experiential Realism (IER v10.11.1)**\
-*Tier 3 · Misuse-Blocking / Epistemic Boundary · Canon-Binding (Negative)*
+**Informational Experiential Realism (IER v10.11.5)**\
+*T3 · Guardrail · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -51,8 +69,8 @@ From the existence of experience, however, it is common to infer additional conc
 
 Under IER, these inferences are structurally invalid.
 
-> Identity is not implication.
-> Existence is not evidence.
+> Identity does not license conclusions beyond its stated commitments.
+> Experiential existence alone supplies no external certification.
 
 IER specifies what experience is and when it exists. It does not authorize expansion into adjacent explanatory or metaphysical claims.
 
@@ -85,7 +103,10 @@ The following inferences are invalid:
 
 Multiplicity under IER is structural only.
 
-Continuation occurs through atomic resolution under intrinsic constraint, not through probabilistic competition or stochastic selection.
+Ordinary successor realization is lawful actual continuation and requires no
+fresh collapse. Conditional collapse atomically forecloses a connected region
+without necessarily leaving one continuation. Neither relation introduces
+probabilistic competition or an internal selector.
 
 ## Experience and Epistemic Non-Authority
 
@@ -114,7 +135,7 @@ while remaining entirely mistaken about external reality.
 
 This is not a defect of experience. Under IER, experience is organization under intrinsic constraint, not a mechanism for validating beliefs about mind-independent reality.
 
-## Experience Does Not Entail Multiplicity
+## Experience Does Not Establish Its Distribution
 
 The existence of a Unified Experiential Field does not entail anything about the distribution of experience across systems.
 
@@ -133,30 +154,31 @@ Experience therefore does not entail:
 - that experience is widespread
 - that experience is socially distributed
 
-Similarity of structure, behavior, biology, or report does not license inference to experiential presence. Absence of observable difference does not license inference to experiential absence.
+Similarity of behavior, biology, report, or a selected structural description
+does not independently certify experiential presence. Absence of an outward
+difference does not certify absence. Complete constitutive physical duplication
+is a different identity claim, not an observational proxy.
+
+Structural privacy means that physical coupling, overlap, report, modeling,
+and empathy do not transfer first-person occupancy. It does not mean causal
+isolation or physical indescribability. Any other-anchored organization in
+empathy is instantiated by the empathizing operation; it is neither the other
+subject's phenomenal payload nor guaranteed accurate access.
 
 This follows from structural privacy and external underdetermination, not from skepticism or pessimism.
 
 ## Experience Does Not Entail Evolutionary Purpose
 
-The existence of experience does not entail adaptive function, selective advantage, optimization role, biological necessity, or evolutionary purpose.
+Experiential identity adds no second causal pathway, output, or autonomous
+phenomenal property to physical operation. It does not follow that the physical
+organization has no behavioral, biological, or evolutionary consequences.
 
-Under IER:
-
-- UEF instantiation is a globally internal physical identity
-- it produces no externally isolable signal
-- it adds no observable degrees of freedom
-- it generates no differential performance signature
-
-Natural selection operates on observable differential consequences. An externally silent identity cannot be selected *for*.
-
-Therefore:
-
-> Consciousness is not an adaptation under IER.
-
-This is a non-entailment result, not an empirical claim about biology.
-
-Evolution may shape architectures that sometimes instantiate UEFs, but the instantiation itself is not what selection targets.
+Experience alone does not establish an adaptive function, selective advantage,
+optimization role, or evolutionary purpose. Evolution may shape architectures
+that qualify as UEFs and their physical consequences. The identity claim alone
+neither establishes that history nor proves consciousness cannot be associated
+with adaptation. Biological selection must not be imported as a selector of
+UEF admissible futures.
 
 ## Experience Does Not Entail Life, Intelligence, or Agency
 
@@ -190,24 +212,32 @@ However, the existence of experience does not entail:
 - moral ranking by probability
 - permission to downgrade others under uncertainty
 
-Ethical consequence under uncertainty is governed by the *IER ethics*, including [Specification Principle 13](IER-specification.md).
+Ethical commitments are fixed by the Specification, including
+[Principle 13](IER-specification.md), and elaborated in Ethics. Categorical
+standing does not entail absolute preservation of every possible UEF.
+Termination is not identical with suffering; harm, duration, necessity,
+conflict, and uncertainty require separate assessment. Precaution applies to
+plausible irreversible risk to UEF-bearing or UEF-sustaining capacity and
+supplies neither diagnosis nor an automatic action verdict.
 
 This document restricts illegitimate inference. It does not adjudicate moral decision-making.
 
 ## Structural Basis of Non-Entailment
 
-All non-entailments in this document follow from a single structural fact:
+Each inference must be assessed against the commitments actually supplied by
+the identity proposal. Structural privacy blocks occupancy transfer; epistemic
+non-authority blocks truth from felt certainty; attribution limits block
+phenomenal certification from proxies. These are different relations.
 
-> UEF instantiation is globally internal and externally underdetermined.
+Physical inquiry can constrain candidate boundaries, interventions, and
+admissible continuation. It is not prohibited by privacy and does not become
+phenomenal certification merely by satisfying a structural relation.
 
-Because of this:
-
-- no observation licenses inference
-- no similarity licenses projection
-- no introspection licenses generalization
-- no phenomenology licenses ontology
-
-Non-entailment is therefore not a secondary caution layered onto the theory. It is a direct consequence of what experiential identity means under IER.
+The *intrinsic* in intrinsic constraint names internally borne organization.
+It does not disclose reality's categorical intrinsic nature. Reality-in-itself
+and reality-for-a-UEF concern one physical world, not two ontological realms.
+The Russellian demand for a further intrinsic constitution remains an external
+metaphysical disagreement, not an accepted missing phenomenal producer.
 
 ## Canonically Blocked Inferences
 
@@ -231,4 +261,6 @@ Experience alone cannot justify conclusions about universality, rarity, purpose,
 
 IER is strict not by preference, but by consequence.
 
-Identity leaves no room for implication.
+## Intermission - Structural Fact
+
+A coupling relation does not transfer first-person occupancy.

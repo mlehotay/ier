@@ -12,12 +12,14 @@ This package connects Informational Experiential Realism with philosophy-of-mind
 research. Canonical sources under `IER/` govern theory; these guides, comparisons
 and research reports explain or assess it without adding criteria.
 
-## Current checkpoint — 29 September 2026
+## Current checkpoint — 3 October 2026
 
-The v10.11.5 implementation has completed Phases 1–9 and S1–S5 at their recorded
-bounds. Bounded S2 establishes an idealized through-flow turnover subcase, not
-an instantiation of the complete relation stack or an experiential waterfall.
-The antecedents project is closed with an accepted 44-source synthesis.
+The repository is in the **v10.11.6** era. The v10.11.5 unification programme
+completed Phases 1–14 and S1–S5 at their recorded bounds: all 94 scoped articles
+received joint review and independent audits, and selected final artifacts were
+generated and inspected. Teaching and Papers 00–01 are reviewed; uploads are
+author-reported and journal preparation remains separate. The antecedents
+project is closed with an accepted 44-source synthesis.
 
 IER contributes a systematically developed physicalist account of experiential
 unity, subject individuation and continuity through change. Its contribution
@@ -26,11 +28,10 @@ Historical novelty is not claimed for individual ideas or established
 combinations. Physical individuation, empirical attribution, complete qualitative
 correspondence and the abductive identity defense remain open.
 
-Paper 01 exists as a manuscript. Phase 11 owns its full revision and publication
-checks; Phase 9/S5 finalized its contribution claim, not publication readiness.
-Phase 10 owns the Strawson contrast and broad-panpsychism disposition.
-Teaching alignment and wider propagation remain separately tracked under
-`todo-160` and Phase 12. This directory update does not close the entire release.
+Bounded S2 establishes an idealized through-flow turnover subcase, not an
+instantiation of the complete relation stack or an experiential waterfall.
+Independent research continues outside the completed implementation programme;
+metadata and wider-canon backlogs remain parked in the dashboards.
 
 ## Reading route and document currency
 
@@ -69,8 +70,9 @@ The reports summarize conclusions and give public primary-source references.
 The full reproducibility trail is private repository provenance under
 `_work/strawson/`, `_work/cybernetics/` and `_work/antecedents/`, including
 source ledgers, notes, search logs and accepted decisions. Those paths are
-not exported public evidence links. The implementation checkpoint is recorded
-privately in `_work/unification/phases/phase-09-summary.md`.
+not exported public evidence links. Completion evidence is retained privately in the Phase 12–14 records; the
+plan and task CSVs control execution state. v10.11.6 objectives cover later
+durable installation of useful results.
 
 Local link validity, public selection, research acceptance and canonical
 authority are separate. No report here is a consciousness detector or a

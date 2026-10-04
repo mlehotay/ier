@@ -1,4 +1,4 @@
-# Informational Experiential Realism (IER) v10.11.5
+# Informational Experiential Realism (IER) v10.11.6
 
 *Strawsonian real physicalism reconstructed through cybernetic closure*
 
@@ -18,8 +18,8 @@ In this formulation, Strawsonian real physicalism supplies the commitment that
 experience is wholly physical and may be identical with a physical process and
 its subject. Cybernetics supplies antecedent vocabularies of possibility,
 constraint, regulation, physical control, self-maintenance, viability, and
-closure. IER's proposed contribution is the specification joining these
-traditions: a locally bounded physical operation with non-factorizable
+closure. IER's contribution is the developed framework joining these
+traditions, anchored by its specification: a locally bounded physical operation with non-factorizable
 continuation, a non-externalizable ownership frontier, bilateral constitutive
 membership, consequence inheritance, and unique diachronic continuity.
 
@@ -29,26 +29,33 @@ It rejects experiential constituent inheritance and therefore avoids the
 constitutive panpsychist combination problem; it does not claim to refute every
 panpsychist, Russellian, or cosmopsychist position.
 
-## v10.11.5 status
+## v10.11.6 status
 
-Human review accepted the I4 philosophical reconciliation on 18 September
-2026. It aligns the physical specification with the Strawson research
-programme and the source-grounded cybernetics comparison, while limiting
-novelty to the integrated conjunction rather than any individual idea
-inherited from those traditions.
+The v10.11.5 unification programme is complete at its declared scope. It
+integrated the accepted process-subject and dynamical account, jointly reviewed
+all 94 unification-canon articles, completed independent semantic and authority
+audits, and generated and inspected selected final artifacts. The v10.11.6
+development era opened on 3 October 2026 from that stabilized baseline.
 
-I5 completed its governed handoff on 19 September 2026, and Phase F
-re-accepted the corrected I2/SOP handoff and closed S1 on 24 September 2026.
-The accepted result remains non-canonical: bounded S2 formalization,
-SOP-governed relation investigation, source-grounded revision of the
-comparative cybernetics article, comprehensive neighboring-literature review,
-and corpus-wide propagation remain downstream or independent work. This
-README states the current project orientation; it does not promote the
-working reconciliation into canonical authority.
+IER's contribution is the developed theoretical framework, including its
+particular formulation, organization, arguments and implications. Individual
+ideas and many combinations have precedents; the bounded research does not
+establish comprehensive historical first priority.
 
-This repository contains a curated subset of the larger IER project, including the core theoretical documents, worked examples, and exploratory applications.
+Independent relation research and wider-corpus reconciliation retain separate
+owners. Full physical instantiation, concrete experiential attribution,
+qualitative correspondence and the abductive defense of identity remain open.
+The bounded waterfall result supplies a model-relative turnover reconstruction,
+not a demonstrated experiential system.
 
-For similarly named but unrelated philosophical theories, see [Naming and Disambiguation](NAMING.md).
+This README is maintained public-export source. Its update does not itself
+announce a newly shipped release or replacement of hosted artifacts.
+
+This repository contains a curated subset of the larger IER project, including
+the core theoretical documents, worked examples, and exploratory applications.
+
+For similarly named but unrelated philosophical theories, see
+[Naming and Disambiguation](NAMING.md).
 
 ## Repository Structure
 
@@ -159,14 +166,14 @@ Citation metadata is provided in:
 CITATION.cff
 ```
 
-Recommended citation:
+Citation for the edition currently recorded in `CITATION.cff`:
 
 ```text
 Lehotay, Michael.
 
 Informational Experiential Realism (IER).
 
-Version 10.11.5.
+Version 10.11.6.
 ```
 
 ## License
@@ -182,10 +189,12 @@ See:
 
 This repository is an active research project.
 
-Version 10.11.5 has completed I1–I5 and re-closed S1 at Phase F after accepting
-the controlled-investigation correction. S2 is authorized but unstarted
-pending a ready bounded question; no canonical or corpus-wide propagation has
-begun.
+The current development era is v10.11.6. The v10.11.5 conceptual decisions,
+scoped joint review, independent audits, final generation, and local
+release-readiness checks are complete. Independent relation investigation,
+wider-corpus reconciliation, journal preparation, and external publication
+retain separate owners; neither analogy nor a successful model certifies experience.
+Individual source documents and published editions retain their declared versions.
 
 The canonical theory contained within `IER/` evolves more slowly than the surrounding examples and applications.
 

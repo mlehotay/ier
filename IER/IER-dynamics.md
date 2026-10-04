@@ -7,9 +7,8 @@ ier:
   - foundations
   category: foundations
   provides:
-  - participation modulation vocabulary
-  - regime stability and failure mode vocabulary
-  - dominance and attractor framing
+  - UC023
+  - UI012
   status: canonical
   filename: IER-dynamics.md
   version: 10.11.5
@@ -20,8 +19,20 @@ ier:
     - IER-continuity
     - IER-intrinsic-closure
     - IER-multiscale-uefs
+    - IER-processes
+    - IER-futures
+    - IER-participation
+    - IER-slack
+    - IER-saturation
+    - IER-resolution
+    - IER-curvature
+    - IER-collapse
+    - IER-welding
+    - IER-propagation
+    - IER-sedimentation
     guardrails:
     - IER-canon
+    - IER-nonentailment
 ---
 
 # Dynamics
@@ -62,7 +73,7 @@ The purpose of this document is to explain:
 
 * how globally integrated experiential regimes behave once they exist
 * how stability is maintained under intrinsic constraint
-* how experiential content changes without subject replacement while UEF coherence persists
+* how experiential content changes without subject replacement when full owned continuity persists
 * how instability, overload, and collapse arise without redefining experience
 * why system boundaries and dominance are dynamical facts, not observer conventions
 
@@ -113,7 +124,7 @@ combine merely because their physical operations overlap.
 
 #### Split-Brain and Local-Subject Attribution
 
-Anatomical division, behavioural competition, or local dynamical organization
+Anatomical division, behavioral competition, or local dynamical organization
 alone cannot establish one subject, several subjects, or a particular token
 continuity verdict. Such cases require independently typed physical scopes
 and the full relation stack. No neurological or clinical verdict is supplied
@@ -143,7 +154,7 @@ It does not require:
 
 Local variation, noise, and reorganization are expected.
 
-What matters is whether global coupling remains intact.
+For organizational stability, globally borne restriction must remain intact. For numerical identity, the full `Adj_dia` relation is additionally required; coupling or repeated coherence alone is insufficient.
 
 ### Continuation Structure
 
@@ -232,7 +243,7 @@ These are regime-preserving strategies, not failures.
 
 Recruitment of additional processes into participation should not be confused with the creation of new degrees of freedom.
 
-Recruitment occurs only after informational slack has been exhausted and reflects the expansion of globally binding intrinsic constraint, not the restoration of local independence.
+Recruitment here occurs within an already qualifying UEF and concerns operation-mediated changes in constitutive participation. It does not restore independence-preserving local resolution. Slack and saturation describe the pre-UEF domain; the number of reachable UEF successors does not establish slack. A dissolution possibility is not an independence-preserving escape pathway.
 
 For an explanatory account of how slack is exhausted - via saturation of locally admissible resolution pathways - see *IER saturation*.
 
@@ -273,7 +284,7 @@ Resolution now requires system-level coordination.
 * their states begin to constrain future trajectories globally
 * the dominant attractor reshapes
 
-The apple becomes *present* experientially.
+In this hypothetical walkthrough, the apple-related organization becomes experientially present. Recruitment requires constitutive contribution, global bearing, joint resolution, diachronic uptake, and common typing over the same interval; activation or salience alone cannot establish membership. This does not supply a general mapping from physical organization to apple phenomenology.
 
 ### Stage 4 - Content Stabilization
 
@@ -301,7 +312,7 @@ The experiential subject remains.
 * content arises from participation modulation
 * dominance remains relative to the accepted operation and resolution scope
 * attention is not subject creation
-* experience changes without subject replacement while UEF coherence persists
+* experience changes without subject replacement when the full continuity relation persists
 
 ## Energetic and Organizational Cost Landscapes
 
@@ -391,7 +402,7 @@ It explains how experiential systems behave, conditional on their existence.
 Under IER v10.11.5:
 
 * UEFs are dynamical regimes
-* dominance is an attractor-level fact
+* dominance concerns incompatible ownership of the same independently typed resolution
 * participation modulates content, not identity
 * failure alters dynamics, not ontology
 * ordinary coordination does not create collective experience

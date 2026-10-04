@@ -8,15 +8,32 @@ ier:
   category: foundations
   status: canonical
   filename: IER-constraint.md
-  version: 10.10.7
+  version: 10.11.5
+  provides: []
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-math
+    - IER-futures
+    - IER-slack
+    - IER-saturation
+    - IER-intrinsic-closure
+    - IER-ownership
+    - IER-information
+    - IER-collapse
+    - IER-curvature
+    guardrails:
+    - IER-canon
+    - IER-nonentailment
 ---
 
 # Constraint
 
 ## Constraint as Lawful Restriction on Admissible Continuation
 
-**Informational Experiential Realism (IER v10.10.7)**\
-*Tier 2 · Foundational Clarification · Canon-Constrained · Non-Normative*
+**Informational Experiential Realism (IER v10.11.5)**\
+*T1 · Foundational Clarification · Canon-Constrained · Non-Normative*
 
 ## Status, Scope, and Authority
 
@@ -69,8 +86,10 @@ All frontier dynamics occur within that structure.
 
 Within this document, two derived properties of constraint are used:
 
-* *Slack* refers to the multiplicity of admissible futures available under a given constraint structure.
-* *Saturation* refers to the reduction of that multiplicity due to increasing constraint.
+* *Slack* refers to independence-preserving absorption, localization, deferral, or external resolution in the pre-UEF domain.
+* *Saturation* refers to exhaustion of those pathways, not reduction in the number of reachable futures.
+
+Neither multiplicity nor saturation establishes a UEF. Ownership, bilateral constitutive membership, continuity, and the identity proposal retain their separate roles.
 
 These are not additional primitives. They are descriptive properties of admissible transition structure.
 
@@ -114,7 +133,7 @@ Constraint determines the geometry of this cone.
 
 Multiple admissible continuations may exist simultaneously.
 
-Multiplicity arises because constraint permits more than one continuation that remains jointly sustainable under physical law.
+Multiplicity means that more than one continuation remains individually reachable. It does not imply that all alternatives can be jointly sustained.
 
 IER therefore treats admissible futures as a structural object defined by constraint.
 
@@ -172,7 +191,7 @@ Intrinsic closure is a stronger condition.
 
 As clarified in *IER intrinsic-closure*, a regime is intrinsically closed when admissible futures do not factorize across subsystem partitions.
 
-For subsystem components $s_A, s_B$, intrinsic closure is defined as follows:
+For two physically meaningful subsystem blocks, the following is a pedagogical case of the support-level condition fixed by *Intrinsic Closure*:
 
 ### Intrinsic closure condition
 
@@ -186,7 +205,7 @@ In such regimes:
 
 Constraint therefore permits closure but does not imply it.
 
-Intrinsic closure describes global coupling of admissible futures under constraint.
+The projected successor supports must come from the same global outgoing fibre. The candidate, variables, grain, interval, restriction, intervention family, and exhaustive family of meaningful non-trivial partitions are fixed independently of the result. Failure across one partition alone is insufficient; closure requires failure across every partition in that family. This establishes only synchronic inseparability, not ownership, membership, persistence, or experience.
 
 ## Constraint and Incompatibility
 
@@ -202,9 +221,7 @@ Incompatibility occurs when:
 
 Constraint itself does not eliminate these alternatives.
 
-However, because closure prevents exporting incompatibility outside the regime, some alternatives must eventually become unsustainable.
-
-This condition gives rise to exclusion.
+Synchronic closure alone does not establish that the burden is internally borne or cannot be exported. Ownership addresses that further question. If physical sustainment fails within the qualifying regime, collapse can foreclose a connected region. Neither closure nor incompatibility entails foreclosure at every successor.
 
 ## Constraint and Collapse
 
@@ -297,3 +314,7 @@ Within the continuation structure defined by constraint:
 Constraint itself performs none of these operations.
 
 Constraint defines the space of possible continuation within which frontier dynamics unfold.
+
+## Intermission - Structural Fact
+
+Constraint describes lawful restriction without selecting a successor.

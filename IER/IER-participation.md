@@ -8,316 +8,139 @@ ier:
   category: cognition_I
   status: canonical
   filename: IER-participation.md
+  provides:
+  - UC050
+  - UI026
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-processes
+    - IER-binding
+    - IER-cognition
+    - IER-memory
+    - IER-forgetting
+    - IER-participation-attenuation
+    - IER-pipeline
+    - IER-continuity
+    - IER-self-model
+    guardrails:
+    - IER-canon
+    - IER-nonentailment
+    - IER-diagnostics
 ---
 
 # Participation
 
-## Participation, Reproduction, and the Shape of Thought
+## Graded Recruitment Without Graded Subjecthood
 
-**Informational Experiential Realism (IER v10.11.0)**\
-*Explanatory Article · Non-Normative*
+**Informational Experiential Realism (IER v10.11.5)**\
+*T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
+Participation describes graded contribution of physically instantiated
+organization to current intrinsic-constraint distribution and content. This
+article elaborates that relation within an already qualifying UEF, without
+adding an attribution test, faculty, observer, or universal cognitive mechanism.
+The Specification and the reproduction, binding, membership, cognition,
+memory, and continuity owners retain their conditions.
+
+## Participation and Constitutive Membership
+
+Recruitment can vary in extent, amplitude, locality, duration, and organization.
+A background sensation, focal concern, or reproduced pattern can participate
+differently without being a smaller subject or a fraction of the total
+experience-as-process.
+
+Graded participation is distinct from interval-level constitutive membership.
+Membership jointly requires contribution, global bearing, joint resolution,
+diachronic uptake, and common physical typing over one interval. Recruitment,
+salience, or physical influence alone does not satisfy that relation. Neither
+all causal support nor every anatomical component is automatically a member.
+
+Frontier binding asks whether removing participating organization would alter
+admissible continuation. Participation can occur without binding. Importance,
+vividness, and felt self-relevance do not supply that counterfactual or decide
+categorical subjecthood and membership.
+
+## Reproduction Without Replaying Experience
+
+Reproduction is physical organization appearing again within the UEF, permitting
+renewed participation without replayed experiences or retained semantic objects.
+It can be affected by current coupling, inherited organization, and changed
+recruitment. It need not preserve an identical shape, omit all original load,
+or occur only at low cost.
+
+Current records, models, and representations can participate as physical
+processes. They are not an archive of past experience, a second bearer, or
+another subject observing the first. The identity proposal does not prohibit
+ordinary physical specialization, computation, or causal organization.
+
+A UEF need not possess every cognitive capacity. Reproduction alone is not
+cognition: reproduction, participation, frontier relevance, and reversible
+organization must hold jointly. Non-cognitive feelers remain possible under
+the constitutive account. Neither a participation depth nor reversible coupling
+alone establishes a thinker or experience.
+
+## Temporal Anchoring and Possible Modes
+
+| Descriptive anchor | Question about present organization |
+| --- | --- |
+| Past | Is current participation organized as lived past? |
+| Present | Does reproduced organization concern current conditions? |
+| Imagined | Does the process organize an anticipated or never-lived pattern? |
+| Planned | Does it concern possible future activity or commitment? |
+
+These are questions about present physical processes. Imagined content need
+not itself be an admissible physical successor. Its current imagining can
+nevertheless bind. No future experiential token is currently instantiated
+by picturing it, and no general hierarchy of participation depth follows.
+
+Memory is contingent present episodic organization under its owner. It is
+not necessarily weak participation; remembering can be intense. Forgetting
+concerns loss of viable episodic re-entry, not proof that all historical effects
+were erased. Neither recall nor its absence decides numerical identity.
+
+## Reflection, Metacognition, and Rumination
+
+Reflection and metacognitive reports can involve reproduced organization
+concerning the operation's own conditions. They add no higher subject or
+privileged observer. Present physical self-modeling is allowed, but its vividness
+or fidelity does not supply self-knowledge or a membership criterion.
+
+Repeated recruitment, difficult switching, or narrow organizational patterns
+can motivate a rumination-like description. Such a label does not establish
+one mechanism, graded foreclosure, or failed regulation. Costs and margins can
+change while compared successor membership remains intact. A cognitive episode
+need not progress to collapse.
+
+## Descriptive Dimensions and Attenuation
+
+Depth, distribution, temporal anchoring, switching cost, and recruitment
+conditions can help describe participation. They are not knobs manipulated by
+an inner controller, a universal parameterization of all cognition, or a
+complete empirical theory of attention.
+
+Attenuation is reduced recruitment of a physically active structure within
+intact UEF operation. Influence can remain real while the structure is not
+prominent or binding. Weak recruitment does not mean fractional experience,
+prove constitutive exclusion, or establish a particular clinical condition.
+
+## Clinical and Regulatory Limits
+
+ADHD, anxiety, stress, and requests for movement or quiet can motivate questions
+about physical organization. Labels do not establish a fixed basin width,
+participation level, UEF boundary, or token verdict. This article supplies no
+treatment claim that bodily regulation is universally prior or more effective
+than other physical organization. Cognitive activity itself is physical.
+
+Learning or regulatory change can alter participation without replacing the
+subject when the full stage relation holds. Continuous owned closure,
+operational successor production, typed inheritance, operation-mediated change,
+and unique successor and predecessor must all be established. Resemblance,
+restored capacity, or recurring content cannot bridge their failure.
 
-This document is explanatory and non-normative.
+## Intermission - Structural Fact
 
-It:
-
-* introduces no new ontological primitives
-* establishes no criteria, diagnostics, or thresholds
-* does not define when experience exists
-* does not rank cognitive styles, capacities, or outcomes
-* does not posit faculties, modules, observers, or representational levels
-
-The governing corpus retains all binding authority.
-
-The relevant canonical IER documents govern this clarification.
-
-If any interpretation here conflicts with those documents, the conflict is void.
-
-### Prerequisites and Position in the Reading Path
-
-This document presupposes the structural accounts of sedimentation, hysteresis, memory, and forgetting developed elsewhere in the canonical IER corpus.
-
-No mechanisms from those documents are re-derived here.
-
-This document serves as a capstone: it shows how thinking, remembering, imagining, planning, reflection, and metacognition all arise from one reproduction operation inside a single Unified Experiential Field (UEF), parameterized by participation.
-
-## Orientation: Why Mental Categories Multiply Unnecessarily
-
-Ordinary and scientific discourse partitions mental life into many purported faculties:
-
-* memory
-* imagination
-* reflection
-* metacognition
-* planning
-* rumination
-
-These are commonly treated as distinct mechanisms, modules, or levels.
-Under Informational Experiential Realism, this proliferation is structurally suspect.
-
-IER identifies experience with the operation of a physical system as a Unified Experiential Field (UEF): a globally integrated, temporally continuous regime operating under intrinsic constraint. Once such a regime exists, there is no room for additional experiential subsystems, observers, or meta-levels.
-
-Any account that multiplies faculties must therefore answer a prior question:
-
-> How can a single regime give rise to many apparently different cognitive modes without fragmenting subjecthood?
-
-IER’s answer is structural, not taxonomic.
-
-## The Core Structural Invariant
-
-IER entails the following invariant:
-
-> A Unified Experiential Field can reproduce constraint topologies at variable participation depths, across different temporal anchors, drawing only on structurally sedimented history, without re-instantiating full experiential regimes.
-
-This capacity is not optional.
-
-Without it, the following would be impossible under an identity theory:
-
-* memory without reliving
-* imagination without commitment
-* reflection without collapse
-* metacognition without regress
-* planning without action
-
-This document makes that invariant explicit.
-
-## Reproduction Without Replay
-
-### Reproduction vs Regime Instantiation
-
-IER distinguishes between:
-
-* instantiating a regime - bearing intrinsic constraint at full system scale, and
-* reproducing a topology - re-entering the *shape* of constraint organization at reduced participation.
-
-Reproduction does not imply replay, simulation, or duplication of experience.
-
-It is not a weaker version of the same event.
-It is a different mode of engagement with the same organizational structure.
-
-A topology may be reproduced:
-
-* without its original intensity
-* without its urgency
-* without its vulnerability
-* without its cost
-
-Reproduction preserves relations, not load.
-
-### Participation as a Continuous Parameter
-
-Participation is not binary.
-
-Processes may be:
-
-* fully recruited into intrinsic constraint
-* partially recruited
-* minimally recruited
-* excluded
-
-The same constraint topology may therefore appear:
-
-* as lived experience
-* as remembered structure
-* as recognized pattern
-
-This single continuous parameter - participation depth - does the explanatory work often assigned to separate faculties.
-
-## Temporal Anchoring
-
-In addition to participation depth, reproduction varies along a second axis: temporal anchoring.
-
-Constraint topologies may be reproduced as:
-
-* past-anchored - previously lived organizations
-* present-anchored - current organizational state
-* possible-anchored - never-lived but admissible organizations
-* future-anchored - potentially owned trajectories
-
-Temporal anchoring interacts with participation depth to generate distinct phenomenological modes without introducing new mechanisms.
-
-## Memory as Past-Anchored Reproduction
-
-Memory, under IER, is not storage or retrieval.
-
-It is:
-
-> low-participation reproduction of a previously viable constraint topology.
-
-Because participation is gated, memory:
-
-* preserves relational structure
-* omits original load
-* does not re-instantiate urgency or inevitability
-
-This explains why remembering does not require reliving, and why fidelity is neither guaranteed nor required.
-
-This usage presupposes the structural account developed in *IER memory* and introduces no additional mechanisms.
-
-## Forgetting as Participation Failure
-
-Forgetting occurs when a previously viable topology can no longer be reproduced coherently under current intrinsic constraint.
-
-Nothing is erased.
-What fails is participation viability.
-
-Topologies that require:
-
-* narrow basins
-* sharp exclusion
-* high precision
-
-fail earlier than those satisfied by lawful continuity.
-
-This follows the non-loss, non-erasure account developed in *IER forgetting*.
-
-## Imagination and Planning as Future-Oriented Reproduction
-
-### Imagination
-
-Imagination reproduces never-lived topologies at minimal participation.
-
-These reproductions:
-
-* carry no ownership
-* impose no inevitability
-* tolerate distortion
-
-Imagination is therefore structurally safe exploration.
-
-### Planning
-
-Planning reproduces potentially owned future trajectories.
-
-Participation is higher than in imagination because:
-
-* costs are considered
-* exclusions matter
-* commitments are anticipated
-
-Planning bridges imagination and action without collapsing into either.
-
-## Reflection and Metacognition as Self-Directed Reproduction
-
-### Reflection
-
-Reflection reproduces the current constraint organization of the Unified Experiential Field at very low participation.
-
-It answers questions of *shape*, not *content*:
-
-* “Am I stuck?”
-* “Is this unstable?”
-* “Is something tightening?”
-
-Reflection does not observe experience.
-It reproduces its organization cheaply.
-
-### Metacognition
-
-Metacognition reproduces patterns of organization, not thoughts.
-
-There is:
-
-* no inner observer
-* no higher subject
-* no representational stack
-
-The same regime reproduces an abstracted echo of its own constraint geometry.
-
-This avoids infinite regress while explaining the phenomenology of “thinking about thinking.”
-
-## Rumination as Failed Gating
-
-Rumination is not a distinct faculty.
-
-It is a dynamical failure mode in which:
-
-* the same topology is reproduced repeatedly
-* participation remains too high
-* attractor width collapses
-* switching cost increases
-
-Rumination feels reflective but is structurally distinct from reflection.
-It tightens constraint instead of revealing its shape.
-
-## The Constraint Knobs
-
-The phenomena above are parameterized by a small set of continuous controls:
-
-1. Participation depth - how much intrinsic constraint is recruited
-2. Gating - how strictly participation is limited
-3. Attractor width - how many futures remain viable
-4. Temporal anchoring - where reproduction points in time
-5. Switching cost - how difficult it is to leave a topology
-
-Different settings of these parameters generate the full range of cognitive modes discussed, without invoking separate faculties.
-
-## ADHD and Anxiety as Stable Regimes
-
-### ADHD
-
-ADHD corresponds to a regime characterized by:
-
-* loose gating
-* wide attractors
-* low switching cost
-
-This configuration favors exploration, novelty, and rapid reconfiguration.
-It resists narrow, precision-hungry topologies.
-
-### Anxiety
-
-Anxiety corresponds to a regime characterized by:
-
-* high participation depth
-* narrow attractors
-* high switching cost
-
-This configuration preserves coherence under perceived threat by tightening futures and increasing urgency.
-
-Neither regime is an error.
-Each is a tradeoff in constraint management.
-
-## Why Regulation Is Bodily First
-
-Because participation depth is a physical parameter of intrinsic constraint, regulation is most effective when it acts before symbolic thought.
-
-Movement, posture, environment, and sensory input alter participation directly.
-Cognitive reframing cannot override constraint geometry on its own.
-
-This explains why breaks, motion, and distance are structurally effective.
-
-## What This Document Does *Not* Do
-
-This document does not:
-
-* introduce diagnostics
-* propose treatments
-* rank mental styles
-* optimize productivity
-* soften identity claims
-
-It identifies a structural invariant and nothing more.
-
-## Summary
-
-Under Informational Experiential Realism:
-
-* many cognitive modes reduce to one reproduction operation
-* differences arise from participation depth, gating, and time anchoring
-* remembering does not require reliving
-* metacognition requires no observer
-* pathology often reflects constraint mis-regulation, not cognitive error
-
-> The mind does not contain many tools.
-> It contains one tool, used at different depths, in different directions, under different costs.
-
-## Intermission - Orientation Signal
-
-When a system requests motion, silence, or distance,
-that request is not interruption.
-
-It is structural self-regulation under intrinsic constraint.
+Participation can vary while the qualifying subject remains categorical.

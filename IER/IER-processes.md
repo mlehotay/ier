@@ -3,9 +3,19 @@ ier:
   tier: T2
   role: ELABORATION
   provides:
-  - physical process vocabulary for IER
-  - distinction between variables, processes, regimes, and operations
-  - process-level argument for bilateral constitutive membership
+  - UC003
+  - UC004
+  - UC005
+  - UC020
+  - UC022
+  - UC040
+  - UI002
+  - UI003
+  - UI005
+  - UI006
+  - UI007
+  - UI022
+  - UI026
   status: canonical
   layer: framework
   domain:
@@ -14,6 +24,7 @@ ier:
   filename: IER-processes.md
   requires:
     hard:
+    - IER-specification
     - IER-constraint
     structural:
     - IER-intrinsic-closure

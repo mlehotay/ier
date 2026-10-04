@@ -3,9 +3,9 @@ ier:
   tier: T2
   role: BRIDGE
   provides:
-  - closure under consequence synthesis
-  - synchronic and diachronic closure distinction
-  - topology and trajectory reciprocity
+  - UC036
+  - UI003
+  - UI032
   status: canonical
   layer: pipeline
   domain:
@@ -20,10 +20,18 @@ ier:
     - IER-math
     - IER-intrinsic-closure
     - IER-ownership
+    - IER-processes
     - IER-participation
     - IER-continuity
     - IER-persistence
     - IER-sedimentation
+    - IER-resolution
+    - IER-curvature
+    - IER-collapse
+    - IER-welding
+    - IER-propagation
+    - IER-re-entry
+    - IER-structural-closure
     guardrails:
     - IER-canon
     - IER-nonentailment
@@ -144,17 +152,17 @@ physically produce and inherit the other as its unique continuation?
 The stage-indexed relation `Adj_dia(a,b)` holds only when all five conditions
 hold together:
 
-1. **Continuous closure.** Globally non-factorizable, internally borne closure
+1. Continuous closure. Globally non-factorizable, internally borne closure
    spans the transition without a qualifying gap.
-2. **Operational successor production.** The organization at $a$ produces the
+2. Operational successor production. The organization at $a$ produces the
    regime-defining organization at $b$ through its actual lawful dynamics.
-3. **Typed consequence inheritance.** Physically instantiated,
+3. Typed consequence inheritance. Physically instantiated,
    history-bearing consequences remain effective through the transition and
    constrain continuation at $b$.
-4. **Operation-mediated change.** Recruitment, release, turnover, geometry
+4. Operation-mediated change. Recruitment, release, turnover, geometry
    change, and boundary migration are enacted through the continuing
    operation under the same constitutive-membership relation.
-5. **Unique one-to-one continuation.** Within the pre-fixed comparison domain,
+5. Unique one-to-one continuation. Within the pre-fixed comparison domain,
    $b$ is the sole qualifying successor of $a$, and $a$ is the sole qualifying
    predecessor of $b$.
 

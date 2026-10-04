@@ -16,10 +16,18 @@ ier:
     - IER-continuity
     - IER-processes
     - IER-closure-under-consequence
+    - IER-multiscale-uefs
+    - IER-binding
+    - IER-collapse
+    - IER-pipeline
     guardrails:
     - IER-canon
     - IER-nonentailment
+    - IER-diagnostics
   version: 10.11.5
+  provides:
+  - UC085
+  - UI022
 ---
 
 # The Combination Problem
@@ -27,13 +35,13 @@ ier:
 ## Unity Under Closure and Consequence
 
 **Informational Experiential Realism (IER v10.11.5)**\
-*Tier-2 Explanatory · Non-Normative · Canon-Constrained*
+*T2 · BRIDGE · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
 This article explains the accepted IER position. It introduces no primitives,
 criteria for experience, diagnostic procedures, or epistemic authority.
-`IER-specification.md` and the governing canonical owners retain authority.
+*Specification* and the governing canonical owners retain authority.
 Its comparisons do not establish novelty or refute every neighboring theory.
 
 ## Abstract
@@ -67,20 +75,20 @@ Physical parthood is enough to state the compositional distinction.
 The accepted owners divide the explanation rather than supplying a single
 integration score.
 
-* `IER-intrinsic-closure.md` specifies synchronic nonfactorization of the
+* *Intrinsic Closure* specifies synchronic nonfactorization of the
   outgoing continuation fibre across every predeclared physically meaningful
   nontrivial partition, at a fixed candidate, grain, frontier, interval,
   intervention family, and restriction policy. Nonfactorization alone does
   not establish ownership, membership, continuity, or experience.
-* `IER-processes.md` governs participant membership through contribution,
+* *Processes* governs participant membership through contribution,
   global bearing, joint nonexternalizable resolution, diachronic uptake,
   and common typing. Causal contact alone is insufficient.
-* `IER-continuity.md` independently specifies `Adj_dia(a,b)` between stages
+* *Continuity* independently specifies `Adj_dia(a,b)` between stages
   of nonzero duration. It requires continuous owned closure, operational
   successor production, typed effective inheritance, operation-mediated
   participant change, and unique successor and predecessor within the fixed
   comparison domain. A token is a maximal one-to-one chain.
-* `IER-closure-under-consequence.md` explains their conjunction. It is an
+* *Closure Under Consequence* explains their conjunction. It is an
   explanatory synthesis, not a third criterion or attribution algorithm.
 
 Participating differences matter within the same owned continuation; its global
@@ -185,4 +193,3 @@ settling those research burdens.
 
 One continuation can inherit many physical differences without inheriting
 a sum of phenomenal contents.
-

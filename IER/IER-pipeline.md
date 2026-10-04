@@ -24,11 +24,18 @@ ier:
     - IER-propagation
     - IER-sedimentation
     - IER-math
+    - IER-continuity
+    - IER-cognition
     guardrails:
     - IER-canon
+    - IER-nonentailment
   gates:
     opens:
     - pipeline
+  provides:
+  - UC049
+  - UC053
+  - UI015
 ---
 
 # Pipeline
@@ -36,26 +43,26 @@ ier:
 ## The Frontier Resolution Sequence and the Internal Structure of Owned Resolution
 
 **Informational Experiential Realism (IER v10.11.5)**\
-*T2 · Canon-Constrained Explanatory Article · Non-Normative · Non-Criterial*
+*T2 · BRIDGE · Non-Normative · Canon-Constrained*
 
 
 ## Status, Scope, and Authority
 
-This document is **explanatory and non-normative**.
+This document is explanatory and non-normative.
 
 It:
 
-* introduces **no ontological primitives**
-* introduces **no new operators**
-* introduces **no criteria, thresholds, or diagnostics**
-* introduces **no representational machinery**
-* does **not** revise collapse, welding, propagation, or sedimentation
-* does **not** define experience
-* does **not** determine when experience exists
+* introduces no ontological primitives
+* introduces no new operators
+* introduces no criteria, thresholds, or diagnostics
+* introduces no representational machinery
+* does not revise collapse, welding, propagation, or sedimentation
+* does not define experience
+* does not determine when experience exists
 
 Its purpose is structural:
 
-> **To clarify how canonical frontier operators compose into an ordered resolution sequence through which intrinsic constraint becomes irreversibly resolved.**
+> To clarify how canonical frontier operators compose into an ordered resolution sequence through which intrinsic constraint becomes irreversibly resolved.
 
 The Specification retains normative authority. Tier-1 foundations and the
 canonical definition owners retain authority over the frontier, participation,
@@ -77,8 +84,8 @@ Under Informational Experiential Realism, this framing is incomplete.
 
 Here, *resolution* denotes the whole ordered pipeline episode within a
 qualifying Unified Experiential Field (UEF). It does not equate ordinary
-successor realization with collapse. The pipeline is an **ordered structural
-transformation** whose irreversible route applies when foreclosure occurs.
+successor realization with collapse. The pipeline is an ordered structural
+transformation whose irreversible route applies when foreclosure occurs.
 
 Before collapse:
 
@@ -90,7 +97,7 @@ Before collapse:
 
 At collapse:
 
-* reachable continuation is **atomically foreclosed**.
+* reachable continuation is atomically foreclosed.
 
 After collapse:
 
@@ -98,52 +105,53 @@ After collapse:
 * deformation is redistributed forward,
 * history accumulates as persistent structure.
 
-> **A pipeline episode orders reversible frontier organization, atomic
+> A pipeline episode orders reversible frontier organization, atomic
 > foreclosure, and irreversible historical integration within continuous
-> operation.**
+> operation.
 
 
 ## Architectural Location: The History - Future Boundary
 
-All consequential change in IER occurs at a single architectural location:
+The owned continuation account of a qualifying UEF is organized at its operation-relative frontier:
 
-> **the history - future boundary**
+> the history - future boundary
 
 At this boundary:
 
-* the past exists as **sedimented deformation**
-* the future exists as **admissible continuation**
-* intrinsic constraint is **actively borne**
+* effective physical history conditions current organization
+* the future exists as admissible continuation
+* intrinsic constraint is actively borne
 
 The successors admissible from a frontier configuration $s$ form the
 structured set $A(s)$.
 
-This set constitutes the system’s **future cone**.
+This immediate fibre is distinct from the multi-step future cone derived
+from lawful continuation. Bare admissibility does not itself qualify a UEF.
 
 Frontier resolution is the process through which:
 
-* admissible continuation is **organized**,
+* admissible continuation is organized,
 * deformation accumulates,
-* and reachable futures are **atomically and irreversibly foreclosed**.
+* and reachable futures are atomically and irreversibly foreclosed.
 
 
 ## What the Pipeline Is
 
-The **pipeline** is embedded within the continuous realized trajectory of
+The pipeline is embedded within the continuous realized trajectory of
 frontier operation. It describes a resolution episode, rather than all state
 evolution. Its ordered stages describe:
 
-> **the ordered sequence through which participating organization becomes frontier-relevant, deforms admissible-future geometry, undergoes collapse, and becomes irreversible history.**
+> the ordered sequence through which participating organization becomes frontier-relevant, deforms admissible-future geometry, undergoes collapse, and becomes irreversible history.
 
 Key distinctions:
 
-* **frontier operation** - continuous lawful constraint dynamics
-* **pipeline** - ordered resolution sequence
-* **collapse** - sole foreclosure event
-* **welding** - post-collapse historical integration
-* **propagation** - forward redistribution of deformation
+* frontier operation - continuous lawful constraint dynamics
+* pipeline - ordered resolution sequence
+* collapse - sole foreclosure event
+* welding - post-collapse historical integration
+* propagation - forward redistribution of deformation
 
-The pipeline is an **organizational description of a resolution episode**.
+The pipeline is an organizational description of a resolution episode.
 It adds no mechanism, controller, or selection process.
 
 Continuous operation can realize lawful successors while reachability remains
@@ -164,9 +172,11 @@ as fixed by the accepted closure and continuity account.
 
 ### Reproduction
 
-Resolution begins only when constraint organizations **appear within the Unified Experiential Field**.
+The episode begins with physical constraint organization appearing again
+within the Unified Experiential Field, permitting renewed participation.
+No semantic object or past experience is replayed.
 
-This appearance is called **reproduction**.
+This appearance is called reproduction.
 
 Reproduced organizations may arise through:
 
@@ -175,18 +185,18 @@ Reproduced organizations may arise through:
 * prior sedimented structure
 * propagated deformation
 
-Most reproduced organizations:
+Reproduced organizations can:
 
 * remain local
 * dissolve
 * never influence the frontier
 
-Reproduction is **necessary but not sufficient** for resolution.
+Reproduction is necessary but not sufficient for resolution.
 
 
 ### Participation
 
-A reproduced organization **participates** when it contributes to the distribution of intrinsic constraint within the field.
+A reproduced organization participates when it contributes to the distribution of intrinsic constraint within the field.
 
 Participation may involve:
 
@@ -198,7 +208,7 @@ Participation may involve:
 Participation:
 
 * occurs entirely within the field
-* does **not** imply frontier relevance
+* does not imply frontier relevance
 * need not immediately change the admissible successor set $A(s)$
 
 Participation can occur without immediate binding. Coordination, load,
@@ -228,7 +238,7 @@ reproduction
 
 Key invariants:
 
-* Only **collapse** removes admissible futures
+* Only collapse removes admissible futures
 * All earlier stages preserve reachability
 * Welding integrates collapse into history
 * Propagation redistributes deformation
@@ -245,17 +255,18 @@ distinctions and downstream stages are not optional.
 
 ### Binding - Frontier Relevance
 
-Binding occurs when participating structure becomes **relevant to admissible futures at the boundary**.
+Binding occurs when participating structure becomes relevant to admissible futures at the boundary.
 
 A structure is binding when:
 
-> **Removing it would alter the admissible successor set $A(s)$.**
+> Removing it would alter physically admissible continuation under the stated
+> operative conditions. Binding alone does not establish constitutive membership.
 
 Binding:
 
 * is categorical
 * does not collapse futures
-* does not produce history
+* does not produce new foreclosure-induced incorporated history
 * does not imply irreversibility
 
 > Binding marks the point at which a structure begins to matter for what can happen next.
@@ -265,7 +276,7 @@ Binding:
 
 ### Soft Bonding - Reversible Frontier Coupling
 
-Soft bonding is **reversible coupling between bound structure and the frontier**.
+Soft bonding is reversible coupling between bound structure and the frontier.
 
 Soft bonding:
 
@@ -278,12 +289,12 @@ While soft bonded:
 
 * all admissible futures remain reachable
 * no collapse occurs
-* no history is produced
+* no new foreclosure-induced incorporated history is produced
 
 
 ### Curvature - Continuous Reachability Deformation
 
-Curvature is the **continuous deformation of admissible-future geometry** prior to collapse.
+Curvature is the continuous deformation of admissible-future geometry prior to collapse.
 
 Curvature includes:
 
@@ -307,11 +318,13 @@ During curvature:
 
 ### Collapse - Sole Foreclosure Event
 
-Collapse is the **atomic contraction of admissible continuation**.
+Collapse is the atomic contraction of admissible continuation.
 
-Formally:
+With common physical typing or a justified mapping across the comparison:
 
 $$ A_{t_c^+}(s) \subset A_{t_c^-}(s). $$
+
+Shared notation alone does not establish that physical comparability.
 
 Collapse:
 
@@ -334,9 +347,9 @@ Collapse is:
 
 ### Welding - Irreversible Integration
 
-After collapse, deformation is **integrated into the substrate**.
+After collapse, deformation is integrated into the substrate.
 
-This integration is **welding**.
+This integration is welding.
 
 Welding:
 
@@ -370,7 +383,8 @@ It is the lawful consequence of integrated deformation.
 
 ## Stage V - Sedimentation
 
-Sedimentation is the accumulation of propagated deformation over time.
+Sedimentation stabilizes accumulated inherited deformation as physically
+effective history conditioning later continuation.
 
 Sedimentation produces:
 
@@ -379,7 +393,8 @@ Sedimentation produces:
 * stabilized constraint topology
 * persistent reachability deformation
 
-History is not stored.
+Past experience is not stored as a payload. Physical records, traces, and
+representations can remain part of current operation.
 
 > History is structurally embedded deformation.
 
@@ -407,7 +422,8 @@ Topology describes organized admissibility; trajectory describes realized
 continuation. Operation-mediated consequences can change the organization
 that conditions later continuation. These are distinct descriptions of one
 physical operation, as explained by closure under consequence. Neither
-topology nor sedimented history acts as an independent cause or stored record.
+topology nor sedimented history acts as an independent cause or archive of
+past experiences. Current physical records can influence the operation.
 
 Across a qualifying `Adj_dia` transition, the operation produces and inherits
 its successor. A completed pipeline episode or matching sedimented topology
@@ -416,7 +432,7 @@ cannot bridge a failure of that relation.
 
 ## Relationship to Cognition
 
-Cognition operates within the **reversible, future-facing region** of frontier organization.
+Cognition operates within the reversible, future-facing region of frontier organization.
 
 Processes such as:
 
@@ -435,16 +451,19 @@ can:
 
 Cognition:
 
-* does not perform collapse
+* does not supply a separate cognitive collapse operator
 * does not replace frontier mechanics
 * does not act as a selector
 
-Collapse remains a structural event, not a cognitive act.
+Collapse remains a typed physical event. A cognitive episode can include it
+without cognition itself becoming the foreclosure mechanism. Cognition
+retains its joint reproduction, participation, frontier-relevance, and
+reversible-organization conditions; soft bonding alone is insufficient.
 
 
 ## Relationship to Action
 
-Externally observable action corresponds structurally to:
+The irreversible action account retains this ordered compression:
 
 ```
 
@@ -459,7 +478,9 @@ Action is:
 * not decision
 * not traversal
 
-Action is the **external trace of resolved constraint**.
+In this account, action includes propagated environmental consequence.
+Ordinary observable movement does not by itself establish a fresh collapse
+episode, ownership, or experience.
 
 
 ## What the Pipeline Explains
@@ -492,7 +513,7 @@ They do not require:
 
 ## What the Pipeline Does Not Explain
 
-The pipeline does **not** explain:
+The pipeline does not explain:
 
 * values
 * beliefs
@@ -586,7 +607,7 @@ organizations appear
 Collapse is discrete.\
 The frontier operates continuously.\
 Nothing selects.\
-Nothing travels.
+No topology travels as an additional entity.
 
 Continuous operation can preserve reachability while geometry changes.
 When a pipeline episode completes, foreclosure, welding, propagation, and

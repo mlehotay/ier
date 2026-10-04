@@ -7,21 +7,36 @@ ier:
   - boundary_and_futures
   category: constraint_geometry
   provides:
-  - admissibility domain discipline
-  - formal successor-set notation
-  - separation of structural and anticipated futures
-  - foreclosure and narrowing vocabulary
+  - UC011
+  - UC013
+  - UI033
   status: canonical
   filename: IER-futures.md
-  version: v10.9.9
+  version: v10.11.5
+  requires:
+    hard:
+    - IER-specification
+    - IER-math
+    structural:
+    - IER-slack
+    - IER-saturation
+    - IER-multiplicity
+    - IER-collapse
+    - IER-continuity
+    - IER-pipeline
+    - IER-binding
+    guardrails:
+    - IER-canon
+    - IER-nonentailment
+    - IER-ethics
 ---
 
 # Futures
 
 ## Admissibility Domains and the Structure of Futures
 
-**Informational Experiential Realism (IER v10.9.9)**\
-*Tier 2 · Structural Clarification · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.5)**\
+*T2 · FOUNDATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -47,7 +62,7 @@ If any statement here conflicts with that corpus, the canonical corpus prevails.
 
 IER recognizes one structural concept:
 
-> Admissible continuation under intrinsic constraint.
+> Physical admissible continuation under the explicitly stated operative restriction.
 
 However, admissibility appears in multiple domains of discourse.
 
@@ -58,10 +73,11 @@ This document separates them and stabilizes terminology.
 
 ## Notation Discipline
 
-Let:
+Fix the physical candidate boundary, grain, interval, frontier, and operative restriction. Let:
 
-* $S$ be the set of physically admissible global configurations.
-* $R \subseteq S \times S$ be the regime-restricted admissibility relation.
+* $S$ be the relevant physical configuration domain.
+* $T \subseteq S \times S$ be the lawful transition relation.
+* $R \subseteq T$ be the operative regime-restricted admissibility relation.
 
 For a boundary configuration $s \in S$, define:
 
@@ -69,7 +85,7 @@ $$ A(s) = \{ s' \in S \mid (s, s') \in R \} $$
 
 ### Notation Rule
 
-> Bare $A(s)$ denotes UEF frontier admissibility unless otherwise explicitly specified.
+> Bare $A(s)$ denotes the outgoing physical successor fibre under the stated operative restriction. It does not silently establish UEF qualification.
 
 When ambiguity is possible, subscripts must be used:
 
@@ -99,9 +115,9 @@ are meaningful.
 
 ### Slack and Saturation
 
-Slack holds at $s$ iff admissibility is factorable such that at least one outgoing transition preserves subsystem independence.
+Canonical slack concerns independence-preserving absorption, localization, deferral, or external resolution in this pre-UEF domain. A support-factorization claim must use subsystem projections of the same global fibre under physically meaningful predeclared partitions; independently unconstrained subsystem permissions are not a substitute.
 
-Saturation holds at $s$ iff no independence-preserving outgoing transition exists.
+Saturation is exhaustion of the relevant independence-preserving local-resolution pathways. Neither exhaustion alone nor exhaustion together with coherence establishes a qualifying UEF or entails collapse.
 
 Slack concerns structural decomposability of $A_{\text{pre}}(s)$.
 Slack does not concern cardinality.
@@ -125,11 +141,7 @@ This is the canonical admissible successor set used in:
 * viability
 * collapse
 
-Once intrinsic constraint is globally binding:
-
-* slack is absent by identity
-* saturation holds categorically
-* viability becomes meaningful
+A qualifying UEF cannot independently offload the constraint borne by that same operation. Canonical slack and saturation retain their pre-UEF local-resolution domain; saturation is not redescribed as a categorical state inside the UEF. Viability describes graded sustainment under intrinsic constraint. Causal energy and material support do not thereby count as external resolution.
 
 
 ### Multiplicity
@@ -169,7 +181,7 @@ denote continuations that lead to:
 * regime breakdown
 * fragmentation
 * UEF dissolution
-* structural collapse
+* failure of specified organization
 
 Failure branches:
 
@@ -184,7 +196,7 @@ Failure is not slack.
 
 ### Successor Realization
 
-Lawful continuation from a boundary configuration $s$ to a successor configuration $s'$ occurs when:
+A realized lawful continuation from a boundary configuration $s$ to a successor configuration $s'$ must satisfy:
 
 $$ s' \in A_{\text{UEF}}(s). $$
 
@@ -199,25 +211,24 @@ Successor realization:
 * does not imply gradual pruning of alternatives,
 * does not imply selection among candidates.
 
-Graph paths and traversal terminology are representational tools only used to describe admissibility structure.
-They do not describe physical processes occurring within the system.
+Graph paths represent possible continuation or actual physical succession, as stated; a graph is not a mechanism inside the system. Membership in the successor set establishes possibility, not actual realization.
 
-Successor realization preserves admissibility.
-
-Only collapse alters the admissible successor set.
+Ordinary realization changes the frontier configuration. Later fibres, costs, margins, and directional geometry can differ without an atomic foreclosure event. Collapse alone names atomic irreversible foreclosure of a connected region; it need not remove every sibling or leave one successor.
 
 Specifically, collapse contracts admissibility such that:
 
 $$ A_{t_c^+}(s) \subset A_{t_c^-}(s). $$
 
-Successor realization therefore describes lawful continuation, not foreclosure of alternatives.
+The before/after comparison requires a common physical typing or justified mapping of successor alternatives. Changed labels or geometry alone do not establish strict contraction. Successor realization therefore describes lawful continuation; it does not by itself establish foreclosure.
 
 
 ## Domain III - Anticipated Futures
 
 ### Definition
 
-$A_{\text{ant}}(s)$ denotes cognitively projected or imagined futures.
+$A_{\text{ant}}(s)$ denotes cognitively organized anticipated or imagined
+futures relative to an already qualifying UEF. This notation records a
+cognitive domain; it is not an additional physical successor relation.
 
 These may include:
 
@@ -244,7 +255,7 @@ Anticipated futures may:
 Cognitive projection does not establish reachability.
 Structural admissibility does not require anticipation.
 
-Collapse does not operate over anticipated futures.
+Imagined futures are not foreclosed merely by ceasing to be imagined. The physically instantiated cognitive organization doing the imagining can nevertheless participate, bind, deform, and undergo owned resolution. Its imagined content must not be substituted for operative physical successors.
 
 
 ## Domain IV - Counterfactual Reference
@@ -310,7 +321,7 @@ From within the regime:
 
 $A_{\text{UEF}}(s)$ is what the subject can still become.
 
-This is a continuity description.
+This is an experiential orientation toward continuation, not proof that every successor preserves the same subject. Dissolution and token discontinuity can be admissible. Numerical persistence requires the full canonical stage relation, not just a path or a nonempty successor set.
 
 These views:
 
@@ -328,15 +339,11 @@ This document does not define moral harm.
 
 It clarifies the structural object harm concerns.
 
-Under IER, experiential harm involves:
+The governing harm account concerns damage to the organization of a
+qualifying UEF. Contraction, deformation, or destabilization of admissible
+continuation can be relevant. Ordinary cost alone does not establish such damage.
 
-> contraction, deformation, or destabilization of $A_{\text{UEF}}(s)$ under intrinsic constraint.
-
-Harm does not concern:
-
-* contraction of anticipated sets
-* disappointment in imagined futures
-* subjective expectation failure
+A smaller anticipated set or disappointed expectation does not alone establish experiential harm. Disappointment can matter through the physically instantiated organization and consequences borne by a qualifying UEF. Geometry, successor count, and cost do not themselves supply an ethical ranking or harm threshold.
 
 Multiplicity does not measure value.
 Admissibility is not moral currency.
@@ -364,7 +371,7 @@ All admissibility discourse must specify domain where ambiguity is possible.
 
 IER recognizes one structural object:
 
-> Admissible continuation under intrinsic constraint.
+> Physical admissible continuation under the explicitly stated operative restriction.
 
 It appears in four domains:
 
@@ -373,7 +380,7 @@ It appears in four domains:
 3. Anticipated futures $A_{\text{ant}}(s)$
 4. Counterfactual reference to prior admissibility
 
-Bare $A(s)$ denotes UEF frontier admissibility.
+Bare $A(s)$ remains domain-relative physical admissibility; qualifying UEF discourse must be explicit.
 
 Confusing these domains produces:
 
@@ -388,50 +395,37 @@ There is:
 
 * one admissibility structure
 * one frontier
-* one collapse
+* one typed meaning of collapse
 * no hidden selector
 * no graded foreclosure
 
-Only lawful contraction of reachable continuation under intrinsic constraint.
+Lawful continuation need not contain a fresh collapse, welding, propagation, or sedimentation episode. Those roles apply conditionally when foreclosure and its inheritance occur.
 
 
-## Appendix A - Future Types and the Cooked History Path
-
-This appendix summarizes the future-type distinctions used in Futures and shows how raw structure can become cured history without implying prediction, representation, or a second topology.
+## Appendix A - Future Types and Conditional History
 
 ```mermaid
 flowchart TD
-
-A[Frontier state s] --> B[Admissible futures A UEF s]
-A --> C[Anticipated futures]
-A --> D[Planned futures]
-A --> E[Imagined futures]
-
-B --> F[Traversal continues]
-F --> G[Binding structure]
-G --> H[Atomic collapse]
-H --> I[Welding]
-I --> J[Cooked history cured structure]
-J --> K[Propagation reshapes next frontier]
-
-C --> L[May bind if becomes connected]
-L --> G
-
-D --> M[Usually connected and binding]
-M --> G
-
-E --> N[Disconnected non binding]
-N --> O[Cannot collapse]
-O --> P[Remains non binding]
-
-Q[Unexpected event] --> B
-Q --> H
+A[Current physical frontier] --> B[Admissible physical successors]
+A --> C[Anticipated planned or imagined futures]
+B --> D[Actual lawful continuation]
+D --> E[Later physical frontier]
+B --> F[Conditional atomic foreclosure]
+F --> G[Welding incorporates deformation]
+G --> H[Propagation redistributes consequences]
+H --> I[Stabilized inheritance: sedimentation]
+I --> E
+C --> J[Present cognitive organization can participate and bind]
+J --> A
 ```
 
-### Notes
+Plans and imagination are cognitive organizations, not further physical
+successor sets. Their content can misdescribe reachability; their current
+physical realization can still affect frontier organization. Unexpected
+physical events can change admissibility without any prior anticipation.
+The diagram distinguishes ordinary continuation from a conditional foreclosure
+pipeline; it certifies neither ownership nor a physical instance of experience.
 
-* Admissible futures A_UEF(s) are the only futures that participate directly in collapse, welding, and propagation.
-* Anticipated futures may or may not correspond to admissible futures; they become structurally relevant only when they are connected to A_UEF(s) and become binding.
-* Planned futures are a special case of anticipated futures that are typically connected and often binding.
-* Imagined futures are typically disconnected and non-binding; they cannot collapse because they are not part of A_UEF(s).
-* Unexpected events can drive collapse without any anticipated raw structure having existed beforehand.
+## Intermission - Structural Fact
+
+What is imagined and what remains physically possible answer different questions.

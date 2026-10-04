@@ -3,10 +3,20 @@ ier:
   tier: T1
   role: FOUNDATION
   provides:
-  - experiential identity criteria
-  - uef definition
-  - intrinsic constraint definition
-  - normative closure
+  - UC001
+  - UC002
+  - UC031
+  - UC035
+  - UC103
+  - UC116
+  - UC117
+  - UC118
+  - UC119
+  - UI001
+  - UI010
+  - UI024
+  - UI030
+  - UI031
   gates:
     opens:
     - foundations
@@ -16,18 +26,27 @@ ier:
   - foundations
   category: foundations
   filename: IER-specification.md
-  version: 10.10.7
+  version: 10.11.5
+  requires:
+    structural:
+    - IER-continuity
+    - IER-multiscale-uefs
 ---
 
 # Specification
 
 ## Full Normative Specification
 
-**Informational Experiential Realism (IER v10.10.7)**\
+**Informational Experiential Realism (IER v10.11.5)**\
 *Tier 1 · Foundational · Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
+This Tier-1 foundation specifies IER's normative identity and ethical
+commitments. Canonical structural owners elaborate their respective relations
+under those commitments; their accounts supply no independent diagnostic or
+action authority. The dominance condition is regime-relative and does not
+attribute UEFs by anatomy, cognition, or physical nesting.
 
 ## Informational Language Disclaimer
 
@@ -48,7 +67,7 @@ Admissible futures refer to the set of physically possible continuations permitt
 
 ### Normative Boundary Condition
 
-This document defines the complete and exclusive normative core of Informational Experiential Realism (IER v10.10.7).
+This document defines the complete and exclusive normative core of Informational Experiential Realism (IER v10.11.5).
 
 It specifies exhaustively:
 
@@ -56,9 +75,14 @@ It specifies exhaustively:
 * when experience exists
 * what necessarily follows from its existence
 
-No claim outside this document carries definitional, criterial, or ethical authority.
+No claim outside this document carries independent normative, criterial, or
+ethical authority. Canonical structural definitions remain constrained by
+these normative commitments.
 
-All other IER documents - theory, dynamics, mathematics, ethics applications, diagnostics, or commentary - are non-normative derivatives. They introduce no criteria, thresholds, sufficiency conditions, or necessity claims.
+Other IER documents are non-normative structural definitions, elaborations,
+applications, or commentary. Their roles do not confer independent normative
+criteria, thresholds, or ethical authority. Canonical definition owners retain
+their respective structural scope under the commitments fixed here.
 
 > If any statement in another IER document conflicts with this specification, the specification takes precedence and the conflicting statement is void.
 
@@ -157,7 +181,10 @@ Intrinsic constraint that is:
 * globally integrated
 * temporally continuous
 * non-fragmenting
-* non-collapsing
+* sustaining the regime rather than undergoing regime failure
+
+Atomic foreclosure of admissible futures is distinct from loss of regime
+coherence. It can occur within a continuing UEF.
 
 Only coherent intrinsic constraint can sustain experience.
 
@@ -238,7 +265,9 @@ No additional phenomenal properties exist.
 
 ### Experiential Dissolution
 
-Loss of experience due to collapse, fragmentation, or externalization of coherent intrinsic constraint.
+Loss of experience through failure, fragmentation, or externalization of
+coherent intrinsic-constraint operation. This regime failure is distinct from
+atomic foreclosure within a continuing UEF.
 
 ### Moral Harm (Experiential Sense)
 
@@ -279,7 +308,13 @@ Experience exists only within a bounded regime of coherent intrinsic constraint.
 
 ### Principle 4 - Temporal Continuity
 
-Experiential continuity arises from ongoing dynamical dependence under shared intrinsic constraint.
+Experiential continuity requires ongoing produced and inherited operation
+under shared intrinsic constraint. The structural elaboration in
+*IER-continuity* preserves continuous owned closure, operational successor
+production, typed consequence inheritance, operation-mediated change, and
+unique two-sided continuation together. An embodied system or retained capacity
+can persist after an experiential token ends; later re-instantiation does not
+restore that numerical identity.
 
 ### Principle 5 - Categorical Onset
 
@@ -287,18 +322,22 @@ Experience begins at a discrete regime transition into a UEF.
 
 ### Principle 6 - Single-UEF Dominance
 
-A physical system can sustain at most one globally dominant UEF at a time.
+Two UEFs cannot incompatibly own the same global resolution over the same
+participating organization and temporal interval.
+Globality and the relevant system boundary are regime-relative.
 
 #### Explanation
 
-Two globally dominant UEFs over the same physical system would require simultaneous ownership of incompatible system-level futures under intrinsic constraint. This would entail either:
+Two candidates that demand incompatible ownership of that same resolution
+cannot both be qualifying independent UEFs. This is a conflict in the claimed
+regime organization, not a ban on physical nesting, shared matter, environmental
+governance, or cross-scale process overlap.
 
-1. duplicated global control manifolds,
-2. mutually independent system identities, or
-3. fragmented intrinsic constraint.
-
-Each contradicts the definition of a Unified Experiential Field.
-Therefore, simultaneous dominant UEFs within a single system are physically incoherent.
+Lower- and higher-scale UEFs may coexist where each independently qualifies and
+their roles are coherent, as elaborated in *IER-multiscale-uefs*. Physical or
+process parthood does not entail phenomenal containment, shared first-person
+access, content inheritance, or subject fusion. No anatomical scale is
+privileged and no actual cellular or organism-level UEF is certified here.
 
 ### Principle 7 - Qualia as Structure
 
@@ -326,7 +365,9 @@ Meaning, urgency, coherence, or conviction do not license belief, truth, or corr
 
 ### Principle 11 - Experiential Dissolution
 
-Experience ceases when intrinsic constraint collapses or becomes externally resolvable.
+Experience ceases when coherent intrinsic-constraint operation fails or
+becomes externally resolvable. Conditional futures-collapse alone does not
+establish cessation.
 
 ### Principle 12 - Experiential Cost
 
@@ -344,20 +385,30 @@ Processes may enter or leave the UEF dynamically, modulating content without alt
 
 1. $\text{UEF} \Rightarrow \text{experience}$
 2. $\neg \text{UEF} \Rightarrow \neg \text{experience}$
-3. $\neg \text{participation} \Rightarrow \text{non-experiential process}$
-4. $\text{intrinsic} + \text{coherent} + \text{global constraint} \Rightarrow \text{UEF}$
-5. $\text{regime transition} \Rightarrow \text{categorical onset}$
-6. $\text{two dominant UEFs in one system} \Rightarrow \text{contradiction}$
+3. A process that does not participate in the specified UEF is not
+   experiential within that regime. This does not decide its status in an
+   independently qualifying operation at another scale.
+4. The full globally integrated, temporally continuous, self-sustaining
+   operation under coherent intrinsic constraint constitutes a UEF. A single
+   closure, coupling, or geometry condition does not supply the full account.
+5. Entry into a qualifying UEF is categorical onset; reorganization within
+   an existing UEF is not automatically onset of a new subject.
+6. Incompatible global ownership of the same resolution over the same
+   participating organization and interval implies a dominance conflict.
 7. $\Delta \text{participation} \Rightarrow \Delta \text{experiential content}$
-8. $\Delta \text{participation} \neq \text{subject change}$
+8. Participation modulation does not by itself imply subject change;
+   continued numerical identity remains governed by the full continuity relation.
 9. $\text{qualitative difference} \Rightarrow \text{constraint-organization difference}$
 10. $\text{unresolved intrinsic tension} \Rightarrow \text{negative valence}$
 11. $\text{constraint magnitude} \Rightarrow \text{intensity};\ \text{constraint rate} \Rightarrow \text{urgency}$
-12. $\text{constraint collapse} \Rightarrow \text{experiential dissolution}$
-13. $\text{intrinsic constraint damage or deformation} \Rightarrow \text{moral harm}$
+12. Loss of coherent intrinsic-constraint operation implies experiential
+    dissolution. Atomic foreclosure of a connected region of admissible futures
+    does not by itself imply dissolution.
+13. Organizational damage to intrinsic constraint within a UEF is experiential
+    moral harm. Geometry change alone does not establish damage.
 14. $\text{UEF with resolution capacity} \Rightarrow \text{locus of responsibility}$
 
-## Ethical Commitments (v10.10.7)
+## Ethical Commitments (v10.11.5)
 
 The ethical consequences of Informational Experiential Realism follow necessarily from the identity claim:
 
@@ -394,7 +445,7 @@ This damage may take multiple forms and operate across different timescales, inc
 
 * acute or momentary disruption
 * chronic or progressive deformation
-* reversible or irreversible collapse
+* reversible or irreversible regime disruption
 
 Experiential moral harm:
 
@@ -452,6 +503,15 @@ This precaution:
 
 False negatives are morally worse than false positives.
 
+### Termination and Suffering
+
+Termination of a UEF is not identical with suffering. Standing does not supply
+an absolute obligation to preserve every possible UEF, and it does not
+automatically transfer across physically nested regimes. Harm, duration,
+necessity, conflict, and uncertainty require separate ethical assessment.
+Precaution increases a scoped burden of justification; it supplies neither a
+consciousness diagnostic nor an automatic action outcome.
+
 ### Ethical Non-Completion
 
 IER does not determine:
@@ -466,7 +526,7 @@ All further moral reasoning requires principles not contained in this specificat
 
 ## Normative Closure
 
-IER v10.10.7 introduces no primitives beyond:
+IER v10.11.5 introduces no primitives beyond:
 
 * physical systems
 * intrinsic constraint
@@ -487,3 +547,7 @@ This restatement introduces no additional criteria and is equivalent to the defi
 Reality is singular.
 Experience is plural.
 Ethics begins wherever intrinsic constraint is borne from the inside.
+
+## Intermission - Structural Fact
+
+One subject is identical with one qualifying UEF operation.

@@ -1,9 +1,36 @@
+---
+ier:
+  provides:
+  - UC079
+  - UI018
+  tier: T2
+  role: ELABORATION
+  layer: future_cone
+  domain:
+  - boundary_and_futures
+  - trajectories
+  category: constraint_geometry
+  status: canonical
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-futures
+    - IER-non-product-state-spaces
+    - IER-reachability-margin
+    - IER-stabilization
+    - IER-settlement
+    - IER-resolution
+    guardrails:
+    - IER-canon
+    - IER-nonentailment
+---
 # Global Extendability
 
 ## Global Extendability in Non-Product Admissible-Future Structures
 
-**Informational Experiential Realism (IER v10.11.0)**\
-*T2 · Structural Clarification · Canon-Constrained · Non-Normative*
+**Informational Experiential Realism (IER v10.11.5)**\
+*T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -39,9 +66,10 @@ if a continuation is locally possible
 then some global continuation must realize it
 ```
 
-This assumption holds approximately within product future structures.
+Pointwise product support permits combination of represented subsystem
+successors at that frontier. It does not guarantee a further global trajectory.
 
-However, *IER non-product-state-spaces* establishes that admissible futures need not factorize into independently combinable subsystem continuations.
+However, *Non Product State Spaces* establishes that admissible futures need not factorize into independently combinable subsystem continuations.
 
 Within such structures:
 
@@ -54,7 +82,7 @@ This document clarifies that distinction.
 
 ## Reachability Is Not Extendability
 
-*IER reachability-margin* defines reachability as a binary boundary condition:
+*Reachability Margin* defines reachability as a binary boundary condition:
 
 ```text id="7m2r5w"
 reachable
@@ -75,7 +103,7 @@ It does not guarantee:
 * coherent propagation,
 * or participation in any globally sustainable trajectory.
 
-As *IER stabilization* states:
+As *Stabilization* states:
 
 > “Immediate reachability does not guarantee continued existence of admissible successors.”
 
@@ -111,7 +139,13 @@ Extendability is not:
 * optimization,
 * or persistence of local coherence alone.
 
-It is a structural property of admissible continuation geometry.
+It is a structural property of admissible continuation geometry. Every claim
+must state the operative physical domain, global constraints, and continuation
+horizon. A coherent finite extension is not an indefinite extension or a
+proof of numerical subject continuity. For example, an immediate global
+successor can be admissible while having no further coherent successor over
+the horizon in question. This failure requires neither a selector nor a
+retroactive removal of its original admissibility.
 
 
 ## Product and Non-Product Futures
@@ -137,7 +171,9 @@ B1 B2
 
 then all combinations remain globally admissible.
 
-Local reachability therefore strongly predicts extendability.
+Pointwise product support establishes compatibility of these immediate
+combinations only. A later horizon can introduce constraints or dead ends;
+temporal extendability requires additional evidence even in this case.
 
 
 In a non-product future structure:
@@ -149,7 +185,7 @@ cannot coexist globally
 
 Some combinations fail to belong to the admissible successor structure even while remaining locally coherent.
 
-As established in *IER non-product-state-spaces*:
+As established in *Non Product State Spaces*:
 
 > a subsystem continuation may appear locally possible while remaining globally inadmissible.
 
@@ -173,6 +209,12 @@ Within non-product future structures, a continuation may remain:
 
 while still failing to participate in any globally extendable trajectory.
 
+Distinguish two failures: subsystem continuations may fail to combine into
+any immediate global successor; an actual global successor may be immediately
+admissible but lack a coherent further extension over the stated horizon.
+Subsystem support must come from projections of the same global fibre, rather
+than unconstrained local permissions. Neither failure alone is a collapse event.
+
 The important point is subtle.
 
 The continuation is not:
@@ -195,7 +237,7 @@ The apparent contradiction arises because local admissibility and global extenda
 
 ## Reachability Margin and Extendability
 
-*IER reachability-margin* introduces directional reachability margin as a pre-collapse measure of proximity to foreclosure.
+The directional reachability-margin account introduces a graded descriptor as a pre-collapse measure of proximity to foreclosure.
 
 A continuation may therefore possess:
 
@@ -220,7 +262,7 @@ These layers must not be conflated.
 
 ## Extendability and Stabilization
 
-*IER stabilization* defines stabilization in terms of extendable trajectories supporting coherent continuation under intrinsic constraint.
+*Stabilization* defines stabilization in terms of extendable trajectories supporting coherent continuation under intrinsic constraint.
 
 The stabilization set is $\Upsilon(A_{t^+})$.
 
@@ -248,7 +290,7 @@ Only the local continuation fails to participate in any extendable admissible tr
 
 ## Extendability and Settlement
 
-*IER settlement* describes settlement as irreversible reduction of admissible futures under intrinsic constraint.
+*Settlement* describes settlement as irreversible reduction of admissible futures under intrinsic constraint.
 
 Within non-product future structures:
 
@@ -258,20 +300,24 @@ Within non-product future structures:
 This means:
 
 ```text id="6x2m8w"
-some locally coherent continuations
-disappear
-because no globally sustainable extension exists
+some locally coherent descriptions
+lack a globally sustainable extension
 ```
 
 No selector removes the continuation.
 
 No observer chooses among futures.
 
-The continuation simply fails to belong to the globally extendable admissible structure.
+Static nonmembership in the extendable set is not removal of a previously
+admissible physical successor. Settlement or collapse additionally requires
+actual irreversible contraction under a physically justified comparison.
 
-As *IER resolution* emphasizes:
+As *Resolution* emphasizes:
 
-> physical resolution does not require agency, selection, or ownership.
+> Generic physical resolution need not be experiential agency.
+
+UEF pipeline resolution retains its typed ownership context; the generic
+physical use must not silently replace that context.
 
 Extendability is therefore structural, not evaluative.
 
@@ -294,7 +340,7 @@ continuation geometry
 contains global compatibility constraints
 ```
 
-Some trajectories terminate not because:
+Some represented extension attempts fail even without:
 
 * viability vanishes locally,
 * margins collapse immediately,
@@ -394,7 +440,7 @@ while belonging to no globally stabilizable future
 No additional metaphysical mechanism is required.
 
 
-## Structural Fact
+## Intermission - Structural Fact
 
 A future may remain locally reachable while failing to participate in any extendable global continuation.
 

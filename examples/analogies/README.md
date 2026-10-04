@@ -10,7 +10,8 @@ IER concepts more intuitive. The examples are explanatory analogies, not
 models of experience and not evidence that the systems described instantiate a
 Unified Experiential Field.
 
-Current public examples include:
+The v10.11.6 public-export source retains the following selected examples;
+the proposed expansion has not changed this set:
 
 * [Garden Hose](garden-hose.md): boundary conditions and flow patterns;
 * [Drum and String](drum-and-string.md): field unity and boundary conditions;

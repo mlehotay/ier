@@ -34,14 +34,16 @@ Analogies demonstrate how familiar situations and physical systems can illuminat
 
 Rather than presenting abstract definitions, each example begins with an ordinary experience and examines the underlying organizational principles involved.
 
-Current analogies include:
+The v10.11.6 public-export source retains four selected analogies:
 
-* black-snake - rapid interpretation, expectation, and experiential organization under uncertainty.
-* drum-and-string - physical interaction and emergent organizational constraint.
-* garden-hose - continuity, propagation, and constraint through an intuitive physical system.
-* lonely-hearts-runners - coordination, participation, and shared experiential organization.
+* black-snake - trajectory formation under constraint.
+* drum-and-string - field unity and boundary conditions.
+* garden-hose - boundary conditions and flow patterns.
+* lonely-hearts-runners - slack, saturation, and regime transition.
 
 These examples are intended as intuition pumps rather than formal arguments.
+Their selection does not establish that the illustrated systems instantiate
+experience. A proposed expansion has not changed this selected set.
 Larger exploratory applications live under `apps/`.
 
 

@@ -8,6 +8,32 @@ ier:
   category: phenomenology_II
   status: canonical
   filename: IER-reality.md
+  provides:
+  - UC097
+  - UC098
+  - UI027
+  - UI028
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-history-future-boundary
+    - IER-binding
+    - IER-bonding
+    - IER-resolution
+    - IER-truth
+    - IER-correctness
+    - IER-cognition
+    - IER-continuity
+    - IER-collapse
+    - IER-welding
+    - IER-propagation
+    - IER-sedimentation
+    - IER-sensory-multiple-realizability
+    guardrails:
+    - IER-canon
+    - IER-nonentailment
+    - IER-russellian-monism
 ---
 
 # Reality
@@ -15,7 +41,7 @@ ier:
 ## Reversibility, Irreversibility, and What “Real” Means Under Informational Experiential Realism
 
 **Informational Experiential Realism (IER v10.11.5)**\
-*Tier-2 Explanatory · Non-Normative · Canon-Constrained*
+*T2 · CASE · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -33,17 +59,11 @@ It:
 
 The governing corpus retains all binding authority.
 
-```
-IER-specification
-IER-history-future-boundary
-IER-binding
-IER-bonding
-IER-resolution
-IER-truth
-IER-correctness
-```
+The Specification governs normative authority. History - Future Boundary,
+*Binding*, *Bonding*, *Resolution*, *Truth*, and *Correctness* retain their
+respective definitions.
 
-If any statement here conflicts with those documents, they take precedence and the conflicting statement is void.
+Those owners take precedence over conflicting statements here.
 
 
 ## Abstract
@@ -83,6 +103,16 @@ This description does not exhaust what reality is intrinsically.
 Irreversibility is one kind of physical consequence, not a test of reality
 or a revelation of its ultimate constitution.
 
+
+## Sensory Relation and Intrinsic Nature
+
+*Sensory Multiple Realizability* keeps external referent, transduction,
+constitutive organization, and phenomenology distinct. Shared sensory mode
+labels do not establish complete phenomenal identity or an inverse map to
+external nature. Boundary, history, and dynamics remain relevant to any
+stronger comparison. Russellian Monism limits the inference from structural
+relations to categorical intrinsic constitution. Neither present realness
+nor irreversible consequence discloses that constitution.
 
 ## The Single-Frontier Invariant
 
@@ -127,8 +157,8 @@ reality's categorical or nonrelational intrinsic constitution is known or
 exhausted. IER makes no positive claim about that constitution and does not
 undertake to identify ultimate stuff. It is unavailable to experiential
 access: phenomenology concerns UEF-relative constraint organization, not the
-intrinsic nature of an external cause. See `IER-russellian-monism.md` and
-`IER-sensory-multiple-realizability.md`.
+intrinsic nature of an external cause. See Russellian Monism and
+*Sensory Multiple Realizability*.
 
 ### Reality-for-a-UEF
 
@@ -199,13 +229,13 @@ It does not produce truth.
 ## Irreversible Frontier Completion (Hard Bonding)
 
 An irreversible episode must retain the distinct roles of collapse, welding,
-propagation, and sedimentation described in `IER-irreversible-pipeline.md`.
+propagation, and sedimentation described in Pipeline.
 
 * Collapse irreversibly contracts admissible reachability membership.
 * Welding incorporates that consequence into the owned operation.
 * Propagation redistributes its effects.
 * Sedimentation is history-stabilization that constrains later continuation,
-  not storage of an inert record.
+  not an archive of past experience. Present physical records can exist.
 
 Traversal of an actual trajectory does not by itself demonstrate collapse.
 Cost or margin changes may leave alternatives reachable. An episode does not
@@ -217,9 +247,10 @@ It can contribute to felt realness without validating its apparent object.
 
 ## Thought and Reversibility
 
-Under IER, thought is:
-
-> Re-entered traversal of constraint geometry under intrinsic constraint.
+Thought can involve reproduced organization participating in reversible
+frontier engagement. Cognition retains its joint reproduction, participation,
+frontier-relevance, and reversible-organization conditions. Re-entry can shape
+that operation without being the definition of all thought.
 
 Re-entry may:
 
@@ -230,7 +261,7 @@ Re-entry may:
 
 Thought need not enact an irreversible collapse. Its physical continuation and inherited consequences are not thereby history-free.
 
-Thought modulates what becomes frontier-relevant.
+Thought can modulate what becomes frontier-relevant.
 
 When re-entered structure becomes frontier-relevant, binding recruits it; whether participation remains reversible or undergoes an irreversible episode requires a separate typed account.
 
@@ -280,12 +311,14 @@ No verdict is issued.
 
 This architecture explains:
 
-* Why cognition remains cheap: reversibility is permitted.
+* Why reversible cognition need not incur fresh foreclosure: reversibility
+  does not imply universally cheap physical operation.
 * Why history is stable: completion is irreversible.
-* Why deformation need not end identity: persistence is separately governed by the jointly required conditions of `IER-continuity.md`.
+* Why deformation need not end identity: persistence is separately governed by the jointly required conditions of *Continuity*.
 * Why disagreement persists: conviction does not entail completion.
 * Why truth remains external: constraint exceeds experiential organization.
-* Why correctness cannot be recovered: no structural verdict exists.
+* Why irreversible completion does not certify correctness: it supplies no
+  intrinsic epistemic verdict or prohibition on external assessment.
 
 The architecture remains unified.
 
@@ -297,12 +330,13 @@ Under Informational Experiential Realism:
 * Reality-in-itself is mind-independent; constraint geometry does not disclose its ultimate constitution.
 * Reality-for-a-UEF is frontier-relevant constraint.
 * Reversible frontier relevance does not itself establish irreversible contraction.
-* Irreversible frontier completion creates history.
+* Irreversible frontier completion can incorporate foreclosure-induced history;
+  physical history is not confined to those episodes.
 * Thought modulates reversible engagement.
 * Irreversible episodes have distinct collapse and incorporation roles within continuous operation.
 * Token identity follows the accepted one-to-one continuity relation, not consequence alone.
 * Truth names constraint that survives organization.
-* Correctness does not exist as a property.
+* Frontier completion supplies no intrinsic correctness verdict.
 
 
 ## Intermission - Structural Fact
@@ -317,4 +351,4 @@ Neither confers authority.
 
 Reality is not what experience certifies.
 
-It is what cannot be avoided.
+It constrains physical continuation whether or not a fresh foreclosure occurs.

@@ -3,9 +3,10 @@ ier:
   tier: T2
   role: ELABORATION
   provides:
-  - intrinsic closure formalization
-  - reachability factorization criterion
-  - synchronic and diachronic closure distinction
+  - UC017
+  - UI003
+  - UI004
+  - UI029
   status: canonical
   layer: dodecagon
   domain:
@@ -14,12 +15,14 @@ ier:
   filename: IER-intrinsic-closure.md
   requires:
     hard:
+    - IER-specification
     - IER-math
     structural:
     - IER-futures
     - IER-coherence
     - IER-ownership
     - IER-continuity
+    - IER-processes
     guardrails:
     - IER-canon
     - IER-nonentailment

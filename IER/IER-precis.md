@@ -6,11 +6,34 @@ ier:
   canonical_authority: none
   layer: framework
   domain:
-    - guardrails_and_orientation
+  - guardrails_and_orientation
   category: framework_overviews
   filename: IER-precis.md
   version: 10.11.5
-  date: 2026-09-30
+  date: '2026-09-30'
+  provides: []
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-intrinsic-closure
+    - IER-processes
+    - IER-ownership
+    - IER-continuity
+    - IER-multiscale-uefs
+    - IER-futures
+    - IER-resolution
+    - IER-curvature
+    - IER-collapse
+    - IER-welding
+    - IER-propagation
+    - IER-sedimentation
+    - IER-memory
+    - IER-agency
+    guardrails:
+    - IER-canon
+    - IER-nonentailment
+    - IER-diagnostics
 ---
 
 # Informational Experiential Realism
@@ -47,7 +70,7 @@ IER accepts one objective, mind-independent physical reality. Experience is phys
 
 A complete physical duplicate of a token UEF operation cannot differ in whether experience occurs or in its qualitative character. IER therefore rejects strong psychophysical emergence understood as an additional autonomous property, fact, product, or bridge law. A UEF may remain emergent in weaker explanatory, descriptive, or predictive senses without adding another ontological relatum.
 
-IER calls the qualifying physical regime a **Unified Experiential Field** or **UEF**.
+IER calls the qualifying physical regime a Unified Experiential Field or UEF.
 
 “Field” does not mean a fundamental physical field, a spatial container, or an entity located inside a system. It names globally integrated operation under coherent intrinsic constraint.
 
@@ -68,7 +91,7 @@ The formal test concerns physically admissible successor support, not probabilit
 
 ## Constraint, Information, and Slack
 
-IER uses **constraint** in a strictly physical and structural sense.
+IER uses constraint in a strictly physical and structural sense.
 
 Constraint does not push, choose, evaluate, optimize, represent, or select. It is the lawful restriction of physically admissible continuation: the difference between transitions physically available to a system and those excluded by its present organization.
 
@@ -78,13 +101,13 @@ Informational language refers to physically instantiated distinctions that alter
 
 Information, in this structural sense, is not what the system contains. It is what its organization makes physically different for what can happen next.
 
-**Informational slack** is the availability of an independence-preserving route through which constraint can be absorbed, localized, deferred, offloaded, or resolved without becoming globally binding.
+Informational slack is the availability of an independence-preserving route through which constraint can be absorbed, localized, deferred, offloaded, or resolved without becoming globally binding.
 
 Slack is therefore distinct from multiplicity of futures. A system may retain several admissible continuations while lacking slack if no relevant constraint can be resolved independently of the whole.
 
-**Saturation** names exhaustion of the relevant independence-preserving local pathways. It is not maximal activity, overload, a unique remaining future, or a degree of consciousness.
+Saturation names exhaustion of the relevant independence-preserving local pathways. It is not maximal activity, overload, a unique remaining future, or a degree of consciousness.
 
-Under the IER identity proposal, relevant slack and UEF operation are incompatible.
+Relevant slack and qualifying UEF operation exclude each other.
 
 ## Individuation, Participation, and Subjecthood
 
@@ -102,7 +125,7 @@ A process belongs constitutively within a candidate UEF only when all five condi
 
 Contribution and bearing are the bilateral intuition, not a sufficient two-clause test. [Processes](https://github.com/mlehotay/ier/blob/main/IER/IER-processes.md#the-full-membership-relation) controls the complete relation.
 
-This **bilateral participation** distinguishes constitutive membership from:
+This bilateral participation distinguishes constitutive membership from:
 
 - one-way causal influence;
 - enabling infrastructure;
@@ -120,7 +143,12 @@ IER treats subjecthood as categorical:
 
 Participation can change without subjecthood becoming graded. Processes may enter or leave participation, and the organization of participation may vary, while the same subject continues provided the constitutive operation itself remains continuous.
 
-A pain, image, thought, perception, or other local experiential organization is not another subject. It is an organization or phase within the continuing total experience-process.
+A pain, image, thought, perception, or other local experiential organization
+within this UEF is not thereby another subject. This does not exclude an
+independently qualifying operation at another scale. Physical nesting or shared
+processes can coexist with separately individuated UEFs when their ownership
+roles are coherent; incompatible ownership of the same resolution is excluded.
+Physical parthood transfers neither first-person occupancy nor phenomenal contents.
 
 Ownership has the same structural form. Constraint and resolution are owned when they are borne non-externalizably within the continuing UEF operation. Ownership does not imply an inner owner, voluntary control, reflection, or privileged self-knowledge.
 
@@ -128,7 +156,7 @@ Ownership has the same structural form. Constraint and resolution are owned when
 
 IER describes physical operation in terms of the continuations made available or unavailable by present state, organization, law, and history.
 
-At a physical configuration, the system has a set of **admissible continuations**.
+At a physical configuration, the system has a set of admissible continuations.
 
 These are not:
 
@@ -142,8 +170,8 @@ They are physically available continuations.
 
 Experience operates at the boundary between:
 
-- **sedimented history** — prior physical change persisting as present organization; and
-- **admissible continuation** — the physical future still reachable from the present configuration.
+- sedimented history — prior physical change persisting as present organization; and
+- admissible continuation — the physical future still reachable from the present configuration.
 
 Present organization shapes what can happen next. Actual continuation changes the system that will confront the next frontier.
 
@@ -157,11 +185,11 @@ This is not a second causal layer placed over physics. Topology and trajectory a
 
 IER distinguishes several kinds of dynamical change that are often conflated.
 
-**Successor realization** is lawful actual continuation from one configuration to an admissible successor. A successor can be realized without eliminating all other previously admissible continuations.
+Successor realization is lawful actual continuation from one configuration to an admissible successor. A successor can be realized without eliminating all other previously admissible continuations.
 
-**Curvature** is deformation of the structure of continuation while reachability membership remains intact. Costs, margins, fragility, viability, alignment, or accessibility may change continuously without a future yet becoming impossible.
+Curvature is deformation of the structure of continuation while reachability membership remains intact. Costs, margins, fragility, viability, alignment, or accessibility may change continuously without a future yet becoming impossible.
 
-**Collapse** is irreversible foreclosure. At the relevant frontier, incompatible continuation ceases to be reachable.
+Collapse is irreversible foreclosure. At the relevant frontier, incompatible continuation ceases to be reachable.
 
 Collapse is:
 
@@ -184,9 +212,11 @@ IER's process-subject identity requires a criterion for when successive stages b
 
 Across immediately successive non-null stages, persistence requires that:
 
-1. one globally coherent, non-factorizable closure remains continuously instantiated;
+1. continuously instantiated closure remains coherent, non-factorizable, and
+   internally owned;
 2. the earlier operation produces its successor through its own actual dynamics rather than independent reconstruction;
-3. sedimented consequences of earlier resolution continue to deform the successor's admissible continuation;
+3. the successor inherits the earlier operation's physically typed irreversible
+   consequences in the organization of its admissible continuation;
 4. participant entry, exit, turnover, and boundary change occur through roles in the extant operation; and
 5. the later stage is the sole qualifying successor, and the earlier stage its
    sole qualifying predecessor, within a fixed physical comparison domain.
@@ -233,14 +263,15 @@ IER does not claim to provide a quale codebook.
 
 IER treats familiar features of experience as consequences or explanatory aspects of the same continuing physical operation:
 
-- **unity** — constraint is borne by one non-factorizable organization;
-- **ownership** — constraint and resolution cannot be externalized from that organization;
-- **continuity** — successive stages belong to one self-producing history-bearing process;
-- **temporality** — sedimented history and admissible continuation meet at an active frontier;
-- **qualitative difference** — intrinsic organization differs;
-- **memory** — prior resolution persists as present organization;
-- **possibility** — unrealized continuation remains physically admissible before foreclosure; and
-- **agency** — where present, integrated operation can bear and resolve intrinsic constraint through its own dynamics.
+- unity — constraint is borne by one non-factorizable organization;
+- ownership — constraint and resolution cannot be externalized from that organization;
+- continuity — successive stages belong to one self-producing history-bearing process;
+- temporality — sedimented history and admissible continuation meet at an active frontier;
+- qualitative difference — intrinsic organization differs;
+- history — prior consequences remain physically effective in present organization;
+- memory — contingent present re-entry can organize that history as lived past;
+- possibility — unrealized continuation remains physically admissible before foreclosure; and
+- agency — where present, integrated operation can bear and resolve intrinsic constraint through its own dynamics.
 
 These are explanatory perspectives on one process, not additional ingredients layered onto experience.
 
@@ -270,7 +301,7 @@ Nor does absence of those features establish absence of experience.
 
 Concrete UEF attribution may remain epistemically underdetermined even when the structural conditions are theoretically constrained.
 
-The framework therefore distinguishes **ontological criteria** from **epistemic access**. Failure to externally certify an unfamiliar system does not make the UEF concept undefined.
+The framework therefore distinguishes ontological criteria from epistemic access. Failure to externally certify an unfamiliar system does not make the UEF concept undefined.
 
 ## Philosophical Status
 
@@ -303,3 +334,7 @@ IER's central proposal can be compressed as follows:
 And its continuity claim:
 
 > The subject persists exactly while that one self-producing, history-bearing operation continues. Matter, content, participation, and boundary may change through the operation; genuine cessation ends the token subject, and numerical identity does not branch.
+
+## Intermission - Structural Fact
+
+Physical history can remain effective without being remembered.

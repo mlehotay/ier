@@ -7,9 +7,8 @@ ier:
   - foundations
   category: foundations
   provides:
-  - framework-internal explanatory terminus
-  - no-hidden-layer constraint
-  - collapse-floor qualification
+  - UC104
+  - UI032
   status: canonical
   filename: IER-structural-closure.md
   requires:
@@ -20,8 +19,10 @@ ier:
     - IER-closure-under-consequence
     - IER-pipeline
     - IER-collapse
+    - IER-dynamics
     guardrails:
     - IER-canon
+    - IER-nonentailment
   version: 10.11.5
 ---
 

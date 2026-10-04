@@ -8,14 +8,36 @@ ier:
   category: agency_II
   status: canonical
   filename: IER-ownership-conditions.md
+  provides:
+  - UC109
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-ownership
+    - IER-authorship
+    - IER-external-coupling
+    - IER-welding
+    - IER-collapse
+    - IER-propagation
+    - IER-sedimentation
+    - IER-frontier-geometry
+    - IER-continuity
+    - IER-free-will
+    - IER-processes
+    - IER-agency
+    guardrails:
+    - IER-canon
+    - IER-nonentailment
+    - IER-diagnostics
 ---
 
 # Ownership Conditions
 
 ## Structural Authorship and Deformation Lineage in Frontier Geometry
 
-**Informational Experiential Realism (IER v10.11.0)**\
-*Tier-2 · Explanatory · Non-Normative · Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.5)**\
+*T2 · BRIDGE · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
 
@@ -45,11 +67,11 @@ This document introduces no new machinery.
 
 ## Ownership Is Invariant
 
-Under IER:
+Within an independently qualifying UEF under IER:
 
-* Intrinsic constraint is borne at a single history - future boundary.
+* Intrinsic constraint is borne at its operation-relative history - future boundary.
 * Collapse is atomic and exclusive.
-* All collapse at the frontier is owned.
+* Collapse at this qualifying frontier is owned.
 
 Ownership does not scale.
 Ownership does not weaken.
@@ -78,22 +100,27 @@ At each frontier state:
 
 * Local viability geometry encodes anisotropic fragility.
 * State evolution reshapes that geometry continuously.
-* Collapse occurs when continued multiplicity becomes structurally unsustainable under intrinsic constraint.
+* Collapse occurs when sustainment of a connected region of admissible futures
+becomes structurally unsustainable under intrinsic constraint.
 
-(For formal encoding of local geometry, see *IER frontier-geometry*.)
+For local geometry, see *Frontier Geometry*.
 
-Collapse is determined by total deformation present at that frontier state.
+Collapse, when it occurs, belongs to lawful physical evolution under the
+current organization of intrinsic constraint. Geometry describes that
+organization; it is not a separate cause or selection layer.
 
-No indeterminacy gap exists.
+No additional chooser or indeterminacy gap is supplied by this account.
 
-The geometry is fully determined by:
+Present geometry is physically conditioned by:
 
 * prior welded deformation
 * propagation
 * ongoing coupling
 * current structural configuration
 
-Ownership concerns where collapse is borne.
+Ownership concerns ongoing internally borne operation, including collapse
+when its conditions hold. Lineage dominance does not determine derived
+experiential agency or its effective exercise; Agency retains that distinction.
 Ownership conditions concern how the geometry producing collapse was shaped.
 
 ## Deformation Lineage
@@ -112,14 +139,14 @@ All of these lawfully contribute to present fragility geometry.
 
 No additional field is required.
 
-No force is required.
+No additional force is introduced; ordinary physical interactions remain possible.
 
 Only:
 
 * atomic collapse
 * welded deformation
 * propagation
-* continuous traversal
+* continuous frontier operation
 
 Ownership conditions describe how this lineage distributes.
 
@@ -131,7 +158,7 @@ In some collapse events:
 * Fragility gradients reflect long-horizon internal deformation.
 * External coupling influences but does not dominate geometry.
 
-Collapse remains fully determined.
+Collapse remains a lawful physical event.
 
 Ownership remains invariant.
 
@@ -141,7 +168,7 @@ Structurally:
 
 > Present admissible-future geometry depends chiefly on prior owned collapse within the same regime.
 
-Phenomenologically, such cases often correspond to:
+Within an already qualifying UEF, possible descriptions include:
 
 * strong authorship
 * coherent self-boundary
@@ -182,7 +209,7 @@ Authorship lineage shifts.
 
 ## Mixed Regimes
 
-Most collapse events occur in mixed regimes.
+Mixed lineage can include both internal incorporation and external coupling.
 
 Frontier geometry is shaped by:
 
@@ -198,7 +225,7 @@ This is not a quantitative scale.
 
 It is a structural configuration of lineage within fragility geometry.
 
-## No Indeterminacy, No Chooser
+## Lawful Continuation Without a Chooser
 
 This document does not introduce:
 
@@ -210,37 +237,41 @@ This document does not introduce:
 
 At every frontier state:
 
-> Exactly one continuation is structurally sustainable.
+> The actual successor is lawfully produced under the operative physical
+conditions. More than one continuation can remain admissible, including
+failure-class successors. Determinacy of actual succession does not require
+a singleton admissible set or foreclosure at every advance.
 
 Ownership conditions do not introduce metaphysical freedom.
 
-They describe deformation authorship within a fully determined geometry.
+They describe deformation lineage within physical continuation conditions,
+without imposing a deterministic or stochastic evolution rule.
 
 ## Relation to Free Will
 
 Under IER:
 
-> Free will is owned narrowing under intrinsic constraint.
+> The free-will account concerns owned redistribution of intrinsic constraint
+across non-zero time, rather than a single foreclosure event.
 
 Ownership conditions refine this by clarifying:
 
-* how deformation shaping narrowing originates
+* how deformation shaping continuation originates
 * how coupling reshapes fragility gradients
 * why some collapses feel agentive while others feel imposed
 
-Free will remains:
+The lineage clarification supplies no libertarian chooser, probability-based
+selection mechanism, or controller acting on geometry. It does not replace
+the diachronic account in *Free Will*.
 
-* non-libertarian
-* non-probabilistic
-* fully geometrically determined
-
-Ownership variation does not imply indeterminism.
+Variation in ownership phenomenology does not grade structural ownership
+or imply indeterminism.
 
 It describes lineage dominance.
 
 ## Relation to Authorship
 
-From *IER authorship*:
+From *Authorship*:
 
 > Authorship is the diachronic dependence of present frontier geometry on prior atomic collapses welded under ownership within the same UEF.
 
@@ -253,19 +284,38 @@ Authorship may remain structurally intact even when phenomenological ownership f
 
 Ownership conditions concern deformation lineage dominance, not narrative self-ascription.
 
+## Lineage and Attribution Limits
+
+Deformation lineage describes dependence of present frontier geometry on prior
+incorporated changes and external coupling. It does not identify constitutive
+membership, determine the ownership boundary, or certify numerical continuity.
+External influence is compatible with internally borne resolution and is not
+identical with independence-preserving external resolution of that burden.
+
+Lineage continuity belongs within the full token relation in *Continuity*.
+A copied history, generic causal ancestry, or retained capacity cannot substitute
+for produced and inherited continuation. Felt authorship, coercion, or imposition
+supplies no privileged access to that physical verdict or to external truth.
+
 ## Structural Summary
 
 * Collapse is atomic and exclusive.
 * Ownership is invariant.
-* Frontier geometry is fully determined by deformation lineage.
+* Frontier geometry is conditioned by current physical organization and lineage.
 * Deformation lineage includes internal collapse history and external coupling.
-* Internally dominated lineage produces high authorship coherence.
-* Externally dominated lineage produces ownership strain without ownership loss.
+* Internally dominated lineage can support felt authorship coherence.
+* Externally dominated lineage can strain ownership phenomenology without
+loss of structural ownership.
 * No chooser is required.
-* No indeterminacy gap exists.
+* No additional chooser or indeterminacy gap is supplied by this account.
 
 > Ownership never varies.
 > Collapse never splits.
-> What varies is the lineage of deformation shaping the geometry in which collapse becomes inevitable.
+> What varies is the lineage of deformation shaping the geometry in which
+conditional foreclosure may occur.
 
 Nothing more is added.
+
+## Intermission - Structural Fact
+
+Lineage dominance does not grade ownership.

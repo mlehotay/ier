@@ -16,12 +16,16 @@ ier:
     - IER-dynamics
     - IER-ontology
     - IER-propagation
-    - IER-nonentailment
     - IER-resolution
     - IER-collapse
     - IER-continuity
+    - IER-intrinsic-closure
+    - IER-ownership
     guardrails:
     - IER-canon
+    - IER-nonentailment
+  provides:
+  - UI017
 ---
 
 # Causation
@@ -175,8 +179,12 @@ Ownership does not add causal power.
 Ownership means:
 
 * intrinsic constraint cannot be externalized,
-* resolution occurs within a globally closed regime,
-* foreclosure of alternatives is borne from within.
+* the successor burden is internally borne within the accepted ownership scope,
+* constitutive participants contribute to and bear that same restriction,
+* continuity satisfies all five clauses of `Adj_dia`, including unique successor and predecessor,
+* foreclosure, when it occurs, is borne from within.
+
+Synchronic closure alone does not supply ownership or the identity proposal. Causal openness, material exchange, and enabling support do not by themselves externalize the relevant resolution.
 
 The system does not cause events differently.
 
