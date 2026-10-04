@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Billowed Sail: physical components in the IER analogy</title>
+  <desc id="desc">A labeled line drawing of a sailboat. Wind is the continuing physical driver. Aerodynamic pressure and distributed tension are the load. The filled sail is the load-bearing deformable field and visible analogue of ongoing UEF operation. Mast, boom, hull, and standing rigging are inherited supporting substrate. Sail attachment edges and rig settings are current constraint geometry. A sailor uses adjustable running rigging to make reversible local constraint changes.</desc>
+
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#177b8f"/>
+    </marker>
+    <marker id="leader-dot" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5">
+      <circle cx="5" cy="5" r="3.2" fill="#1f2a35"/>
+    </marker>
+    <style>
+      .ink { fill: none; stroke: #1f2a35; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .fine { fill: none; stroke: #1f2a35; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+      .soft { fill: none; stroke: #758390; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+      .accent { fill: none; stroke: #177b8f; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+      .wind { fill: none; stroke: #177b8f; stroke-width: 4; stroke-linecap: round; marker-end: url(#arrow); }
+      .pressure { fill: none; stroke: #bf5b36; stroke-width: 3; stroke-linecap: round; marker-end: url(#arrow); }
+      .leader { fill: none; stroke: #1f2a35; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; marker-start: url(#leader-dot); }
+      .labelbox { fill: #ffffff; stroke: #c9d1d7; stroke-width: 1.5; rx: 10; }
+      .title { font: 700 32px system-ui, -apple-system, "Segoe UI", sans-serif; fill: #17212b; letter-spacing: .2px; }
+      .subtitle { font: 400 17px system-ui, -apple-system, "Segoe UI", sans-serif; fill: #52616d; }
+      .head { font: 700 18px system-ui, -apple-system, "Segoe UI", sans-serif; fill: #17212b; }
+      .copy { font: 400 15px system-ui, -apple-system, "Segoe UI", sans-serif; fill: #34424e; }
+      .small { font: 400 13px system-ui, -apple-system, "Segoe UI", sans-serif; fill: #5d6973; }
+      .windtext { font: 700 18px system-ui, -apple-system, "Segoe UI", sans-serif; fill: #177b8f; }
+      .loadtext { font: 700 16px system-ui, -apple-system, "Segoe UI", sans-serif; fill: #a34528; }
+      .water { fill: none; stroke: #8aa8b5; stroke-width: 3; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#fbfcfc"/>
+
+  <text x="800" y="54" text-anchor="middle" class="title">Billowed Sail: Physical Components in the IER Analogy</text>
+  <text x="800" y="83" text-anchor="middle" class="subtitle">The driver generates a load; the integrated structure bears and resolves it.</text>
+
+  <!-- Wind: continuing physical driver -->
+  <path class="wind" d="M 88 205 C 210 185, 315 205, 438 190"/>
+  <path class="wind" d="M 60 265 C 190 245, 326 269, 485 248"/>
+  <path class="wind" d="M 104 325 C 230 304, 352 327, 505 308"/>
+  <text x="82" y="158" class="windtext">WIND</text>
+  <text x="82" y="180" class="copy">continuing physical driver</text>
+
+  <!-- Boat and rig: side/profile line drawing -->
+  <!-- hull -->
+  <path class="ink" d="M 360 690 C 480 712, 658 722, 875 716 C 1057 711, 1195 691, 1300 646"/>
+  <path class="ink" d="M 360 690 C 408 790, 564 836, 838 838 C 1040 840, 1205 792, 1300 646"/>
+  <path class="fine" d="M 421 719 C 612 756, 1003 756, 1249 691"/>
+  <path class="fine" d="M 612 715 L 634 757 M 1065 708 L 1034 744"/>
+
+  <!-- keel -->
+  <path class="ink" d="M 792 839 C 797 892, 830 924, 870 842"/>
+
+  <!-- mast, boom, standing rigging -->
+  <path class="ink" d="M 702 714 L 702 142"/>
+  <path class="ink" d="M 703 565 L 1112 607"/>
+  <circle cx="702" cy="565" r="8" fill="#fbfcfc" stroke="#1f2a35" stroke-width="3"/>
+  <path class="soft" d="M 702 145 L 382 689"/>
+  <path class="soft" d="M 702 145 L 1264 652"/>
+
+  <!-- billowed mainsail, curved leech and belly contour -->
+  <path class="ink" d="M 716 170 C 798 226, 941 356, 1088 589"/>
+  <path class="ink" d="M 716 170 L 716 562"/>
+  <path class="ink" d="M 716 562 C 854 557, 980 571, 1088 589"/>
+  <path class="accent" d="M 716 188 C 792 276, 859 397, 895 557"/>
+  <path class="soft" d="M 735 248 C 820 287, 909 362, 984 453"/>
+  <path class="soft" d="M 726 350 C 821 383, 921 455, 1032 536"/>
+  <path class="soft" d="M 721 463 C 826 482, 929 525, 1054 574"/>
+
+  <!-- jib -->
+  <path class="fine" d="M 684 220 C 593 306, 494 437, 410 651"/>
+  <path class="fine" d="M 684 220 L 682 608"/>
+  <path class="fine" d="M 410 651 C 515 625, 602 613, 682 608"/>
+  <path class="soft" d="M 648 286 C 568 380, 496 488, 442 613"/>
+
+  <!-- running rigging / sheets -->
+  <path class="accent" d="M 1088 589 C 1032 634, 973 671, 902 696"/>
+  <path class="accent" d="M 410 651 C 506 664, 587 683, 649 704"/>
+  <rect x="887" y="685" width="30" height="13" rx="5" fill="#fbfcfc" stroke="#177b8f" stroke-width="3"/>
+  <rect x="634" y="695" width="30" height="13" rx="5" fill="#fbfcfc" stroke="#177b8f" stroke-width="3"/>
+
+  <!-- sailor -->
+  <circle cx="814" cy="628" r="20" fill="#fbfcfc" stroke="#1f2a35" stroke-width="3"/>
+  <path class="fine" d="M 814 648 L 813 692 M 813 661 L 857 683 M 813 663 L 779 688 M 813 692 L 785 716 M 813 692 L 843 714"/>
+  <path class="fine" d="M 857 683 L 896 692"/>
+
+  <!-- Distributed aerodynamic load arrows -->
+  <path class="pressure" d="M 570 286 L 748 306"/>
+  <path class="pressure" d="M 555 383 L 778 411"/>
+  <path class="pressure" d="M 558 485 L 805 509"/>
+
+  <!-- Aerodynamic-load label, isolated from the arrows and rig -->
+  <rect class="labelbox" x="30" y="337" width="320" height="88"/>
+  <text x="50" y="374" class="loadtext">AERODYNAMIC LOAD</text>
+  <text x="50" y="399" class="copy">Distributed pressure and tension</text>
+  <text x="50" y="418" class="small">“what is borne”</text>
+
+  <!-- water -->
+  <path class="water" d="M 246 852 C 300 831, 351 873, 405 852 C 459 831, 510 873, 564 852 C 618 831, 669 873, 723 852 C 777 831, 828 873, 882 852 C 936 831, 987 873, 1041 852 C 1095 831, 1146 873, 1200 852 C 1254 831, 1305 873, 1359 852"/>
+
+  <!-- Callout: sail -->
+  <path class="leader" d="M 914 395 L 1178 287 L 1300 287"/>
+  <rect class="labelbox" x="1290" y="220" width="278" height="133"/>
+  <text x="1310" y="251" class="head">FILLED, BILLOWED SAIL</text>
+  <text x="1310" y="279" class="copy">Load-bearing deformable field</text>
+  <text x="1310" y="302" class="copy">Visible analogue of ongoing</text>
+  <text x="1310" y="325" class="copy">UEF operation</text>
+  <text x="1310" y="345" class="small">(analogy, not an implementation)</text>
+
+  <!-- Callout: attachment boundary -->
+  <path class="leader" d="M 718 454 L 1190 435 L 1300 435"/>
+  <rect class="labelbox" x="1290" y="379" width="278" height="112"/>
+  <text x="1310" y="410" class="head">SAIL EDGES + ATTACHMENTS</text>
+  <text x="1310" y="438" class="copy">Current boundary conditions</text>
+  <text x="1310" y="461" class="copy">and constraint geometry</text>
+
+  <!-- Callout: mast/boom/hull -->
+  <path class="leader" d="M 703 605 L 1146 780 L 1300 780"/>
+  <rect class="labelbox" x="1290" y="717" width="278" height="127"/>
+  <text x="1310" y="748" class="head">MAST • BOOM • HULL</text>
+  <text x="1310" y="776" class="copy">Inherited supporting structure</text>
+  <text x="1310" y="799" class="copy">and persistent substrate</text>
+  <text x="1310" y="824" class="small">Carries forces produced by the sail</text>
+
+  <!-- Callout: sailor and running rigging -->
+  <path class="leader" d="M 893 694 L 1127 615 L 1300 615"/>
+  <rect class="labelbox" x="1290" y="527" width="278" height="133"/>
+  <text x="1310" y="558" class="head">SAILOR + RUNNING RIGGING</text>
+  <text x="1310" y="586" class="copy">Sheets, lines, and cleats alter</text>
+  <text x="1310" y="609" class="copy">local tension and sail geometry</text>
+  <text x="1310" y="636" class="small">Reversible local constraint changes</text>
+
+  <!-- Callout: standing rigging -->
+  <path class="leader" d="M 535 427 L 364 487 L 243 487"/>
+  <rect class="labelbox" x="30" y="436" width="223" height="108"/>
+  <text x="50" y="467" class="head">STANDING RIGGING</text>
+  <text x="50" y="495" class="copy">Persistent support and</text>
+  <text x="50" y="518" class="copy">inherited load paths</text>
+
+  <!-- Bottom explanatory sequence -->
+  <rect x="295" y="912" width="1010" height="58" rx="14" fill="#f2f6f7" stroke="#b8c5cb" stroke-width="1.5"/>
+  <text x="800" y="947" text-anchor="middle" class="head">
+    DRIVER <tspan fill="#177b8f">→</tspan> DISTRIBUTED LOAD <tspan fill="#177b8f">→</tspan> LOAD-BEARING FIELD <tspan fill="#177b8f">→</tspan> DEFORMATION + CONTINUATION
+  </text>
+</svg>

@@ -5,8 +5,8 @@ on experiential unity, subject identity, and continuity through change.
 
 ## Status
 
-Status: support
-Authority: non-canonical
+Status: support\
+Authority: non-canonical\
 See: *IER-status-zones*
 
 These materials explain and assess IER. The
