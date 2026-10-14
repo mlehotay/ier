@@ -2,7 +2,7 @@
 
 ## Developmental Memory and Sedimentation in Human Brain Organoids
 
-**Informational Experiential Realism (IER v10.11.4)**
+**Informational Experiential Realism (IER v10.11.6)**
 *Research Note · Non-Normative · External-Literature Bridge · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -82,7 +82,7 @@ An epigenetic clock can predict age because molecular state covaries with elapse
 
 ```text
 state predicts age
-≠
+does not by itself establish that
 state represents elapsed time
 ```
 
@@ -160,13 +160,19 @@ The useful conclusion is narrower:
 
 > **History can remain physically efficacious by becoming present organization rather than by surviving as a stored copy of itself.**
 
+## Effective History Is Not Subject Continuity
+
+[Processes](../../IER/IER-processes.md) separates enabling or causal involvement from constitutive contribution, global bearing, joint resolution, diachronic uptake and common typing. [Continuity](../../IER/IER-continuity.md) additionally requires continuous owned closure, operational successor production, effective typed irreversible inheritance, operation-mediated change and unique successor and predecessor within the fixed comparison domain. A lineage, age marker or transformed cell population supplies none of that full relation by itself.
+
+Dissociation and reaggregation can preserve developmental effects without preserving one numerical subject. The reported plasticity does not establish which effects are irreversible under a specified intervention family. Physical records and regulatory timing mechanisms remain possible; denying psychological recollection is not a prohibition on molecular storage. The identity proposal and complete concrete attribution remain separate from the developmental analogy.
+
 ## Sedimentation Is Not Destiny
 
-The heterochronic experiment also prevents a deterministic reading.
+The heterochronic experiment also prevents a fixed-fate reading. This does not show that the underlying physical dynamics are indeterministic.
 
 Older progenitors remained plastic. Young-cell signals altered their molecular state and induced renewed neurogenesis.
 
-Their history therefore constrained their future without fixing one inevitable outcome.
+Their history therefore conditioned subsequent development without making all environmental interventions ineffective.
 
 ```text
 history
@@ -179,7 +185,7 @@ not:
 ```text
 history
 →
-predetermined successor
+one intervention-independent fate fixed by age alone
 ```
 
 That is an important feature of sedimentation.
@@ -251,7 +257,7 @@ The most useful IER interpretation is therefore simple:
 
 That is not evidence that organoids are experiential.
 
-It is a strong biological illustration of the structural idea IER calls sedimentation.
+It is a bounded biological analogy for effective history in current organization, not an identified IER sedimentation result or proof of one continuing experiential token.
 
 ## Reference
 

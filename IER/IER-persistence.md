@@ -8,7 +8,7 @@ ier:
   category: temporal_continuity
   status: canonical
   filename: IER-persistence.md
-  version: 10.11.5
+  version: 10.11.6
   requires:
     hard:
     - IER-specification
@@ -36,7 +36,7 @@ ier:
 
 ## Learning and Reorganization Under the Full Token Relation
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -131,6 +131,12 @@ healthy versus pathological reorganization.
 Personal narrative, clinical identity, and legal responsibility remain separate
 questions. The physical token account is not resemblance of content or a
 promise that familiar labels preserve continuity.
+
+## A Fork, a Convergence, and Changing Skill
+
+Consider a declared model of the stage relation in which the other four continuity clauses are independently satisfied. If one stage has two equally qualifying successor candidates, neither supplies the required unique successor. If two predecessor candidates converge on one stage, unique outgoing succession from each does not supply that stage's unique predecessor. Both directions matter. This is an illustration of the rule, rather than a physical instantiation or a procedure for attributing subjects.
+
+Where there is one uniquely produced continuer and the entire five-clause relation holds, changed skill, participation, material roster, or self-description can coexist with continuing numerical identity. Their similarity is not what establishes that identity. Conversely, after a physical null interval, a later qualifying operation can inherit skills and records from the same organism without continuing the earlier subject token. Retained capacity, inherited organization, and current token operation remain separate questions.
 
 ## Intermission - Structural Fact
 

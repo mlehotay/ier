@@ -8,7 +8,7 @@ ier:
   category: foundations
   status: canonical
   filename: IER-information.md
-  version: 10.11.5
+  version: 10.11.6
   provides:
   - UC089
   - UI024
@@ -39,10 +39,12 @@ ier:
 
 ## Information as Structured Exclusion of Admissible Continuation
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T1 · Foundational Clarification · Canon-Constrained · Non-Normative*
 
 ## Status, Scope, and Authority
+
+Experiential structure confers no epistemic authority about mind-independent reality.
 
 
 This document is explanatory and non-normative.
@@ -174,6 +176,10 @@ Information corresponds to the excluded region:
 
 $A_{base}(s) \smallsetminus A_{org}(s)$
 
+For example, stipulate an independently justified baseline with successor support `00`, `01`, `10`, `11`, and an operative organization that prevents `11` under the same physical comparison. The excluded region contains `11`. This explains information as organizational restriction, without assigning a bit count or probability to it. An analyst omitting `11` for convenience would instead change the description, not establish physical information in this sense.
+
+The comparison can hold throughout an interval without a fresh loss of reachability at each successor. A new collapse claim requires the separate before/after physical foreclosure comparison; a baseline-to-operative difference alone supplies no such event.
+
 This expression is descriptive only.
 
 It does not define a quantity or measurement.
@@ -260,13 +266,9 @@ When foreclosure and its post-collapse incorporation occur:
 
 The conditional welding, propagation, and sedimentation relations are distinct. Ordinary succession can carry existing consequences without a fresh complete pipeline. Irreversibility concerns the typed historical event, not a claim that every later successor set is a subset of every earlier one.
 
-Information therefore accumulates historically.
+Information can therefore have physically inherited effects. A deformation left by an earlier foreclosure can constrain later operation even when no new foreclosure occurs. Sedimentation names that stabilized consequence, not a universal law of shrinking successor sets.
 
-Nothing is stored as symbolic content.
-
-Instead, prior exclusions continue to shape present admissibility.
-
-Information is sedimented because previously reachable continuations no longer remain possible.
+This account adds no primitive symbolic store. Ordinary physical records can exist; their efficacy depends on the organization carrying and using them. Previously foreclosed alternatives remain foreclosed within the justified historical comparison, while later configurations can have different successor supports. Information is sedimented insofar as the relevant consequence remains effective in that later organization.
 
 ## Information and Knowledge
 

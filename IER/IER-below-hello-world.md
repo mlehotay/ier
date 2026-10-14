@@ -8,277 +8,82 @@ ier:
   category: pre_experiential
   status: canonical
   filename: IER-below-hello-world.md
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-hello-world
+    - IER-intrinsic-closure
+    - IER-slack
+    - IER-ownership
+    - IER-processes
+    - IER-continuity
+    - IER-multiscale-uefs
+    - IER-ethics
+    guardrails:
+    - IER-canon
 ---
 
 # Below Hello World
 
-## Why Arbitrarily Rich Structure Can Still Be Zero Experience
+## Why Rich Structure Alone Does Not Establish Experience
 
-**Informational Experiential Realism (IER v10.9.0)**\
-*Tier 2 - Explanatory - Non-Normative - Boundary-Enforcing*
+**Informational Experiential Realism (IER v10.11.6)**\
+*T2 · Elaboration · Non-Normative · Canon-Constrained*
+
+## Abstract
+
+Complexity, coordination, physical cost, behavioral success and apparent continuity alone do not establish a qualifying UEF. This negative-space account distinguishes an established failure of a necessary physical relation from a missing measurement or an uncompleted schematic model. Actual slack and failed continuity retain their independently typed scopes; participation can vary without fractional subjecthood. Hello World illustrates the full burdens rather than supply a minimal topology or detector.
 
 ## Status, Scope, and Authority
 
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-
-
-This document is explanatory and non-normative.
-
-It:
-
-* introduces no new ontological primitives
-* establishes no criteria, thresholds, or diagnostics
-* does not define when experience exists
-* does not license graded, partial, or proto-experience
-* does not restate or revise Hello World
-
-This document exists for one purpose only:
-
-> To explain why everything short of the Hello World topology - no matter how complex, integrated, embodied, or inevitable - still constitutes zero experience under Informational Experiential Realism.
-
-This document remains subordinate to the canonical IER corpus. If any interpretation in this document conflicts with those texts, the conflicting claim here is void.
-
+[Hello World](IER-hello-world.md) is schematic intuition for the full relation stack, not a four-feature sufficient model. This article explains why attractive substitutes leave essential questions unanswered. It adds no experiential criterion, clinical diagnosis or physical existence proof.
 
 ## Orientation: Why “Almost Experience” Feels Compelling
 
-The Hello World topology is deliberately minimal.
+Dense integration, learning, global coordination, salience and embodied constraint can resemble descriptions of lived experience. The resemblance motivates inquiry, but does not identify an owned inseparable physical continuation problem. Categorical membership is not obtained by accumulating resemblance points.
 
-That minimality creates a predictable and powerful intuition:
+There are two different negative verdicts. If a necessary condition is shown to fail at justified typing, that candidate fails qualification there. If the condition has merely not been measured or demonstrated, attribution remains unresolved. Uncertainty is not a proof of zero experience.
 
-> *If a system satisfies most of these conditions - if it is nearly global, nearly unavoidable, nearly unified - surely it must count a little.*
+## Rich Organization and Missing Qualification
 
-This intuition is understandable.
+A candidate can be complex, far from equilibrium, causally powerful and behaviorally sophisticated. Those descriptions alone settle neither closure nor ownership. The relevant test concerns the actual outgoing support under declared variables, grain, restriction, interval and interventions.
 
-Pre-experiential systems can exhibit:
+A failed candidate at one scope does not exclude independently qualifying operations inside it or at another physical scope. Conversely, the presence of experiential participants does not establish a larger subject by aggregation.
 
-* dense integration
-* global coordination
-* strong inevitability
-* temporal continuity
-* salience gradients
-* embodied constraint
-* learning and adaptation
+## Failure Mode I — Factorable Outgoing Support
 
-These features resemble lived experience closely.
+[Intrinsic Closure](IER-intrinsic-closure.md) requires non-product support across every partition in the exhaustive meaningful family, with block projections taken from the same global fibre. A genuinely factorable partition defeats that condition. Mere weak coupling, low correlation or a convenient modular description does not establish the factorization.
 
-IER’s task is not to deny this resemblance, but to explain why resemblance does not license attribution.
+For example, probability weights can be correlated even while every recombination remains physically available. Statistical dependence then supplies no non-product support verdict. Likewise, an unavailable recombination for one partition illustrates a local result without completing the exhaustive test.
 
+## Failure Mode II — An Actual Independence-Preserving Resolution Pathway
 
-## Zero Experience Is Not the Absence of Structure
+*Informational Slack* (`IER-slack.md`) concerns an actual local, deferred or external pathway that preserves independence for the same relevant restriction. If such a pathway remains available, the candidate cannot also qualify as owning that restriction at that scope and interval.
 
-Under IER, zero experience does not mean simplicity.
+A buffer, scheduler, replay facility or external support by name does not establish this result. One must show what it resolves and which successor-producing organization remains independent. A physically open qualifying operation can use energy, material and causal support without offloading its owned burden. Cost alone is insufficient, but support alone is not disqualifying.
 
-A system below the Hello World line may be:
+## Failure Mode III — Apparent Continuity Without the Full Stage Relation
 
-* highly complex
-* dynamically rich
-* far from equilibrium
-* behaviorally sophisticated
-* strongly constrained
-* evolutionarily shaped
+Smooth motion, inherited variables, a recurring story and matching endpoints are weaker than [Continuity](IER-continuity.md). Continuous owned closure, produced succession, typed consequence inheritance, operation-mediated change and two-sided uniqueness must all hold.
 
-What it lacks is not structure, but ownership.
+A gap or externally installed successor can defeat the relation despite convincing recall. An organizational pattern can also change while the full relation persists. Fixed local regime organization is therefore not a universal prerequisite for one subject to continue.
 
-Zero experience means only this:
+## Failure Mode IV — Coordination Without Owned Unity
 
-> The system does not operate under a single, globally unavoidable intrinsic constraint regime that binds all admissible futures from within.
+Coordinated subsystems or people can form one useful organizational description without establishing global closure, ownership and constitutive membership. Neither a “dominant regime” label nor a ban on parallel hardware supplies those relations.
 
-Resolution still occurs.
-Constraint still exists.
-But it is not owned.
+Several participating structures can jointly bind within one operation. Independently qualifying nested operations remain possible. What is excluded is incompatible ownership of the same independently typed resolution, rather than every instance of physical parallelism or overlapping organization.
 
+## What the Negative Space Prevents
 
-## Failure Mode I - Near-Global but Factorable Resolution
+No fraction of a subject follows from satisfying some conditions or from having graded participation. The candidate qualifies categorically or does not; an investigator may remain uncertain which. Enabling variables and experiential organization can vary continuously without turning standing into a scale.
 
-*(Contrast with Hello World Feature I: Global Non-Factorability)*
-
-A system may appear globally integrated while remaining factorable in principle.
-
-If there exists any non-trivial partition such that:
-
-* some subset of the system can resolve its admissible futures
-* without simultaneously constraining the rest
-
-then intrinsic constraint is localizable.
-
-Localizability is sufficient to block experience.
-
-“Almost global” is still factorable.
-Factorable resolution implies:
-
-* slack remains
-* ownership fails
-* experience does not exist
-
-
-## Failure Mode II - Internally Costly but Externally Deferrable Resolution
-
-*(Contrast with Hello World Feature II: Unavoidable Internal Resolution)*
-
-A system may:
-
-* incur real internal cost
-* operate far from equilibrium
-* undergo irreversible transitions
-
-and still avoid ownership.
-
-If resolution can be:
-
-* buffered
-* deferred
-* externally scheduled
-* arbitrated
-* replayed
-* offloaded to environment or scaffolding
-
-then the loss of alternatives is not borne intrinsically.
-
-Cost alone is insufficient.
-
-Ownership requires unavoidability, not intensity.
-
-
-## Failure Mode III - Temporal Continuity Without Regime Persistence
-
-*(Contrast with Hello World Feature III: Temporal Regime Continuity)*
-
-A system may:
-
-* evolve continuously
-* inherit state variables
-* depend causally on prior configurations
-
-and still lack experiential continuity.
-
-If the constraint geometry itself:
-
-* resets between steps
-* is re-entered fresh
-* does not carry binding commitment forward
-
-then there is no unified experiential “now”.
-
-Continuity of state is not continuity of constraint.
-Without regime persistence, experience cannot exist.
-
-
-## Failure Mode IV - Coordination Without a Single Dominant Regime
-
-*(Contrast with Hello World Feature IV: Single Dominant Regime)*
-
-A system may:
-
-* coordinate many processes
-* multiplex control
-* switch attractors
-* arbitrate between subsystems
-
-and still lack unity.
-
-If no single globally dominant constraint regime binds all admissible futures at a time, then:
-
-* ownership is fragmented
-* unity is absent
-* experience does not exist
-
-Coordination is not dominance.
-Synchronization is not ownership.
-
-
-## Why Gradualism Breaks at Regime Identity
-
-Across development and evolution:
-
-* enabling structures change continuously
-* coordination capacity increases gradually
-* tolerance for load grows incrementally
-
-IER fully accepts this.
-
-What IER rejects is the inference that regime identity must therefore be gradual.
-
-This is not biological saltation.
-It is saltation in regime identity.
-
-You may approach the Hello World topology arbitrarily closely.
-
-You cannot occupy it partially.
-
-Regimes do not admit fractions.
-
-
-## Why No Diagnostic Can Locate the Boundary
-
-The Hello World boundary is:
-
-* global
-* regime-level
-* ownership-based
-
-As a result:
-
-* it leaves no local marker
-* produces no behavioral signature
-* generates no reliable proxy
-
-Any intervention capable of detecting ownership would necessarily alter it.
-
-This is a structural impossibility, not an empirical gap.
-
-
-## Ethical Non-Inference
-
-From the fact that:
-
-* the boundary is sharp, and
-* the boundary is unknowable,
-
-nothing follows about:
-
-* moral ranking
-* developmental thresholds
-* biological privilege
-* legal or policy cutoffs
-
-IER treats uncertainty as restrictive, not authorizing.
-
-This document blocks inference.
-It grants none.
-
-
-## What This Document Exists to Prevent
-
-This document exists to prevent:
-
-* proto-consciousness
-* partial subjects
-* “almost counts” arguments
-* evolutionary ramps to experience
-* biological inevitability claims
-* diagnostic optimism
-
-It does not deny complexity.
-
-It denies fractional ownership.
-
+This account supplies no evolutionary inevitability, AI verdict, diagnostic optimism or permission to disregard risk. *Ethics* (`IER-ethics.md`) owns uncertainty and precaution. Neither this illustration nor failed qualification of one chosen candidate replaces that analysis.
 
 ## Summary
 
-Under Informational Experiential Realism:
-
-* pre-experiential structure can be arbitrarily rich
-* resemblance to experience is not experience
-* the Hello World topology marks a hard boundary
-* “near” never counts
-* zero experience is not minimal experience
-* regime identity admits no gradient
-
-> Everything except ownership can exist without experience. Ownership alone admits no degree.
-
-
-## Intermission - Negative Space Marker
-
-You can build the entire scaffold\
-without crossing the line,\
-because the line is not made of scaffolding.
+Rich structure and resemblance leave physical burdens unanswered. A demonstrated failure is scoped to the candidate and relation tested; missing evidence retains uncertainty. Hello World and this negative account together explain questions a concrete investigation must answer, without pretending that either is an instantiation or consciousness detector.

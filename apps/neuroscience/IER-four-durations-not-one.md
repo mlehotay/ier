@@ -28,7 +28,7 @@ The study's authors interpret these patterns as supporting a cortical hierarchy 
 
 The more defensible IER interpretation begins elsewhere. The task organizes one physically timed event into several relational forms: persistent sensory stimulation, a learned comparison structure, task-relative neural differentiation, and a categorical action. The fitted cortical parameter preserves distinctions among experimenter-defined durations, while the PSE summarizes a participant's report criterion. Neither is identical to experienced duration. IER can therefore accept that neural systems discriminate, preserve, and transform duration-related relations for behavior without treating an internal clock, a duration map, or a decision boundary as the constitution of temporal phenomenology.
 
-On IER's canonical duration account, experienced duration concerns the density and organization of cognitively registered welded deformation. Centanino et al. did not independently manipulate or measure that structure. Their experiment is consequently not evidence for "duration without clocks." Its present philosophical value is diagnostic: it shows how a sophisticated stimulus-brain-behavior study can remain on one side of the identification bridge. It is also a valuable platform for separating physical persistence, duration-sensitive representation, learned reference, category structure, motor implementation, and phenomenological duration in future work.
+The current [Duration](../../IER/IER-duration.md) account proposes that the organization and cognitive registration of consequential deformation can contribute to experienced length. It supplies no collapse-count law or established quantitative mapping. Centanino et al. did not independently manipulate or measure that structure. Their experiment is consequently not evidence for "duration without clocks." Its present philosophical value is diagnostic: it shows how a sophisticated stimulus-brain-behavior study can remain on one side of the identification bridge. It is also a valuable platform for separating physical persistence, duration-sensitive representation, learned reference, category structure, motor implementation, and phenomenological duration in future work.
 
 ## The Reinterpretive Error to Avoid
 
@@ -118,13 +118,11 @@ Medium-centered cortical preferences could therefore reflect the learned referen
 
 ### Experienced duration under IER
 
-IER's canonical duration article proposes:
-
-> Experienced duration tracks the density and structural organization of cognitively registered welded deformation within an interval.
+The current [Duration](../../IER/IER-duration.md) article proposes a possible contribution from registered consequential deformation, with distinct online organization and retrospective reconstruction. This is a qualified explanatory proposal, not a definition or universal empirical law of experienced length.
 
 This is not another name for $d$, $\mu_d$, or $PSE_i$.
 
-It refers to how structural change becomes salient, segmented, propagated, integrated, registered, and in some cases reconstructed. The account was introduced to explain why physically similar intervals may feel different, why online and retrospective duration may dissociate, and why novelty, routine, crisis, boredom, flow, narrative, and music reorganize duration without requiring a stored temporal scalar.
+The proposed bridge asks how consequential change is organized and cognitively registered, and how later reconstruction compares with immediate organization. Those roles need not form a compulsory collapse–welding sequence in every interval. The account was introduced to explain why physically similar intervals may feel different, why online and retrospective duration may dissociate, and why novelty, routine, crisis, boredom, flow, narrative, and music reorganize duration without requiring a stored temporal scalar.
 
 Centanino et al. did not manipulate registered deformation density. They did not compare richly and sparsely articulated intervals of equal physical length. They did not independently measure event segmentation, integration-envelope organization, or online versus retrospective duration. Their behavioral task required temporal discrimination, but it did not isolate the structural variable proposed by IER.
 
@@ -183,6 +181,12 @@ This yields a cleaner relation between IER and timing neuroscience:
 | Why does an interval feel long, short, thick, empty, expanded, or compressed? | Temporal phenomenology, including IER's registered-deformation proposal |
 
 The questions interact, but they are not interchangeable. The Centanino case therefore functions here as an identification-gap analysis, not as a positive identity candidate.
+
+## Qualification and Continuity Remain Separate
+
+[Intrinsic Closure](../../IER/IER-intrinsic-closure.md), [Ownership](../../IER/IER-ownership.md), [Processes](../../IER/IER-processes.md) and [Continuity](../../IER/IER-continuity.md) retain their distinct physical burdens. BOLD covariance, duration discrimination and report criteria establish neither exhaustive same-fibre support closure nor non-externalizable ownership, all five membership conditions or all five stage-continuity clauses. A timing-related process may contribute causally without being a constitutive participant.
+
+Continuous reporting or an experienced interval does not establish numerical token continuity. Actual produced succession, effective typed inheritance, mediated change and unique predecessor/successor remain required alongside continuous owned closure. Existing history can remain effective without fresh collapse at every trial or successor. A failed stage relation can end a token without a system-wide absence of experience. These distinctions qualify the interpretation; this experiment was not designed to measure them.
 
 ## The Task as a Structured Situation
 
@@ -298,7 +302,7 @@ The IER contribution is twofold.
 
 First, it clarifies representation. Duration-related neural organization need not be a miniature timeline or an inner quantity presented to a witness. A response pattern can preserve relations relevant to physical persistence, comparison, and action without copying time into the brain.
 
-Second, it preserves the autonomy of the phenomenological explanandum. Successful discrimination, a cortical map, and a behavioral criterion do not by themselves explain why an interval has the experienced character of length, compression, expansion, thickness, emptiness, or flow. IER assigns that problem to the organization and registration of irreversible deformation, not to a clock reading.
+Second, it preserves the autonomy of the phenomenological explanandum. Successful discrimination, a cortical map, and a behavioral criterion do not by themselves explain why an interval has the experienced character of length, compression, expansion, thickness, emptiness, or flow. IER proposes organized registration and reconstruction as possible contributors. It does not derive a duration law from irreversible-event density or deny physical timing mechanisms.
 
 This reinterpretation neither replaces neuroscience with ontology nor shelters IER from neuroscience. It identifies where an empirical bridge would actually have to be built.
 
@@ -308,7 +312,7 @@ The study does not confirm IER, but it contributes three useful constraints and 
 
 ### Physical, neural, behavioral, and phenomenal duration must be separated
 
-Any IER account of duration discrimination must explain how an organism remains sensitive to objective temporal extent. Saying that subjective duration is registered deformation does not explain why participants reliably distinguish 0.2 from 0.8 seconds. That behavioral capacity requires a neural account.
+Any IER account of duration discrimination must explain how an organism remains sensitive to objective temporal extent. Proposing a contribution from registered deformation does not explain why participants reliably distinguish 0.2 from 0.8 seconds. That behavioral capacity requires a neural account.
 
 Conversely, a neural account of discrimination does not automatically explain experienced duration. The two explanations must connect without substitution. Until experienced variation is independently characterized, relations among the other three quantities cannot show that an experiential and a physical description share a referent.
 
@@ -320,7 +324,7 @@ This favors an analysis in which temporal information participates in a situatio
 
 ### IER's duration bridge needs operational content
 
-"Registered welded deformation" cannot function as a retrospective relabeling of any neural activity that accompanies duration judgment. To become an empirical bridge hypothesis, its components need measures that are defined independently of the outcome they are meant to explain.
+A proposed measure of registered consequential deformation cannot function as a retrospective relabeling of any neural activity that accompanies duration judgment. To become an empirical bridge hypothesis, its components need measures that are defined independently of the outcome they are meant to explain.
 
 At minimum, a study would need to distinguish:
 

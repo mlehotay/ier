@@ -5,9 +5,32 @@
 NON-CANONICAL | EXAMPLE-SCOPED | NOT READER-FACING
 
 
-## Purpose
+## Canonical Boundary
 
-This project uses Conway - s Game of Life (GoL) as a controlled example system to explore structural concepts from Informational Experiential Realism (IER).
+All constructs here are example-scoped descriptions. A singleton next-state
+set at a fixed complete configuration factorizes under same-fibre projection.
+Predicate filtering and regional support formed from alternative starting
+configurations are different objects, not evidence that the actual GoL
+successor fibre has changed.
+
+[Intrinsic Closure](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-intrinsic-closure.md)
+requires an independently declared physical candidate, variables, grain,
+interval, interventions and exhaustive meaningful partition family. Even a
+properly typed support failure establishes only the tested synchronic relation.
+[Ownership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-ownership.md),
+[all-five constitutive membership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-processes.md)
+(contribution, global bearing, joint resolution, uptake and common typing), and
+[all-five continuity](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-continuity.md)
+(continuous owned closure, successor production, typed effective inheritance,
+mediated change and unique successor/predecessor) remain separate burdens.
+These documents establish none of them for a physical computer or organism.
+The identity proposal is abductive; the simulation is no experience detector.
+
+## Review and Implementation Status
+
+The simulator implements Life updates, native statistics, pattern/`.cells` startup and runtime commands, with a [non-interactive aggregate test suite](../tests/README.md). The phase-exit audit remains open. Dependence, region and support analysis are documented proposals, with no computed GoL witness supplied yet. See the [README](../README.md), [predicate specification](IER-GoL-predicate-nondecomposability.md) and [support proposal](IER-GoL-support-admissibility.md).
+
+This project uses Conway’s Game of Life (GoL) as a controlled example system to explore structural concepts from Informational Experiential Realism (IER).
 
 It is not:
 
@@ -35,9 +58,7 @@ This makes it useful for isolating structural questions such as:
 
 In standard GoL:
 
-[
-\(A(s) = \{ \hat{s} \}\)
-]
+$$ A(s) = \{ \hat{s} \} $$
 
 There is exactly one admissible successor.
 
@@ -45,12 +66,12 @@ Therefore:
 
 * admissible futures are singleton
 * admissibility factorizes trivially
-* intrinsic closure (in the IER sense) is not present
+* this fixed-state abstract successor fibre fails the canonical support-closure condition; no verdict about its physical host follows
 
 
 ## Why It Is Still Useful
 
-Despite this limitation, GoL can exhibit:
+Despite this limitation, the descriptive programme investigates:
 
 * predicate non-decomposability
 * dependence structures spanning regions
@@ -58,22 +79,20 @@ Despite this limitation, GoL can exhibit:
 
 These allow us to demonstrate:
 
-> many forms of - holistic - or non-compositional structure do not imply non-factorizable admissible futures
+> Holistic descriptions and non-compositional predicates do not by themselves imply non-factorization of the same physically typed successor fibre.
 
 
 ## IER Interpretation
 
 Within IER terms:
 
-* GoL fully instantiates:
+* The abstract Life model illustrates:
 
   * configuration
   * flow
   * constraint
 
-* GoL does not instantiate:
-
-  * coherence (intrinsic closure)
+* Its singleton fibre does not establish intrinsic closure, ownership, constitutive membership or numerical subject continuity.
 
 
 ## Role in the IER Project

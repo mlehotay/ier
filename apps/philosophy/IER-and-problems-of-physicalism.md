@@ -2,7 +2,7 @@
 
 ## Status, scope and evidence
 
-Status: bounded assessment; 29 September 2026
+Status: bounded assessment; reconciled 13 October 2026
 Authority: non-canonical; no theory revision or diagnostic
 
 This companion maps the thirty entries in [Problems of Physicalism](problems-of-physicalism.md)
@@ -47,7 +47,7 @@ is only an idealized transport/turnover demonstration, not full-stack evidence.
 A precise criterion partly addresses the formulation of these problems; it does
 not demonstrate a concrete subject. Fission and fusion already have substantial
 antecedents. IER's stated criterion is a comparison difference, not a priority
-claim or proof of superiority. See DiFrisco/Mossio, Austin and McIntyre in the
+claim or proof of superiority. See the qualified DiFrisco/Mossio entries in the bibliography and Austin/McIntyre routes in the [curriculum](IER-philosophy-of-mind-curriculum.md#ownership-quality-and-individuation). Consult the
 [annotated bibliography](../../IER/IER-bibliography.md) for live challenges.
 
 ## Phenomenal identity and qualitative character
@@ -97,13 +97,14 @@ Russellian or cosmopsychist position.
 
 The assessment above does not review the full semantic, normative or
 metaphysical corpus. The following rows therefore assign no IER solution.
-The source areas are routing pointers, not reviewed findings or public evidence
-links; their dated formulations may themselves need propagation review.
+The source areas are navigation pointers, not evidence of a completed solution.
+Accepted core and wider reviews retain their own bounds; these rows do not
+assess the complete semantic, normative or qualitative corpus.
 
 | Problem and target | Commitment considered here | Response type | Evidence level | Residual question / source area |
 | --- | --- | --- | --- | --- |
-| 25. Intentionality — naturalized content | Physical information is defined without semantic primitives. | Separately scoped | Specification boundary only | How determinate content and error arise; `IER-intentionality.md`, `IER-representation.md`. |
-| 26. Rule-following/normativity — dispositional reduction | No epistemic authority follows from experience. | Separately scoped | No full normative-argument review | Descriptive organization versus correctness or reasons; `IER-normativity.md`, `IER-correctness.md`. |
+| 25. Intentionality — naturalized content | Physical information is defined without semantic primitives. | Separately scoped | Specification boundary only | How determinate content and error arise; [Intentionality](https://github.com/mlehotay/ier/blob/main/IER/IER-intentionality.md), [Representation](../../IER/IER-representation.md). |
+| 26. Rule-following/normativity — dispositional reduction | No epistemic authority follows from experience. | Separately scoped | No full normative-argument review | Descriptive organization versus correctness or reasons; [Normativity](https://github.com/mlehotay/ier/blob/main/IER/IER-normativity.md), [Correctness](https://github.com/mlehotay/ier/blob/main/IER/IER-correctness.md). |
 | 27. Broad-content causation — semantic externalism | External influence is not automatically subject membership. | Separately scoped | Physical membership distinction only | Relevance of externally individuated meaning to local behavior; representation / causal-attribution sources. |
 | 28. Cognitive phenomenology — conscious meaning | Subjecthood is not a cognition threshold. | Separately scoped | No complete semantic/quality mapping | Proprietary thought character and determinate meaning; cognition / thought sources. |
 | 29. Abstracta — global physicalism | Physical monism and derived informational language. | Separately scoped | No abstract-object ontology audit | Scope over numbers, propositions and universals; ontology / abstraction sources. |

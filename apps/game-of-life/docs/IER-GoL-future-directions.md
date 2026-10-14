@@ -3,14 +3,40 @@
 
 ## IER - Game of Life: Future Directions
 
-Status: Non-Canonical | Exploratory | Methodological
-Role: Example Extension Roadmap
-Scope: Development of analysis, tooling, and formal results within the IER - GoL framework
+Status: Non-Canonical | Exploratory | Methodological\
+Role: Example Extension Roadmap\
+Scope: Development of analysis, tooling, and formal results within the IER - GoL framework\
 
+
+## Current Baseline and Inference Limits
+
+The [README](../README.md) records the current simulator surface. Ordinary
+birth/death/change counts already exist, but the baseline GoL phase is still
+incomplete: the control and phase-exit audits remain open; a
+basic [world test harness](../tests/README.md) now exists. The
+analysis below is a prospective programme, not implemented functionality or an
+admitted result. The [predicate argument](IER-life-nondecomposability.md) proves
+an implication under its premises; a computed GoL witness remains required.
+The [regional support schema](IER-GoL-support-admissibility.md) also needs an
+independently fixed perturbation neighborhood, coherence/history policy and
+same-support comparison before claiming non-product support.
+
+The development-side project phase-completion plan and task dashboard
+own baseline implementation work.
+The [explanation-completeness proposal](IER-GoL-explanation-completeness-criterion.md)
+remains a later analysis direction, requiring predictive models and proven
+interaction coverage under a fixed geometry and topology.
+
+[Canonical qualification](gol-orientation.md#canonical-boundary) is separate.
+Region tracking, recurrence and graph predicates do not establish ownership,
+all-five constitutive membership, all-five stage continuity or experience.
+Ordinary continuation does not require fresh collapse. An optional weight,
+entropy or diagnostic would have its own example typing and could not substitute
+for physical successor support or confer graded experiential standing.
 
 ## Purpose
 
-This document outlines concrete next steps for developing the IER layer applied to Conway - s Game of Life (GoL).
+This document outlines concrete next steps for developing the IER layer applied to Conway’s Game of Life (GoL).
 
 The objective is not to extend IER ontology or modify GoL dynamics.
 Instead, the goal is to:
@@ -31,7 +57,7 @@ All proposals remain strictly:
 
 ## Objective
 
-Upgrade the current non-decomposability result from:
+Resolve the proposed non-decomposability case from:
 
 > existence sketch
 
@@ -42,24 +68,26 @@ to:
 
 ## Required Deliverable
 
-A fully specified tuple:
+A fully specified configuration/history, topology, time window, region, nonempty partition and predicate policy. The shorthand tuple
 
 $(s(t), \Sigma, A, B, k)$
 
+is insufficient for $k>1$ without the preceding history and startup policy.
+
 with:
 
-1. explicit GoL configuration \( s(t) \)
-2. explicit region \( \Sigma \) and partition \( \Sigma = A \cup B \)
+1. explicit GoL configuration $s(t)$
+2. explicit region $\Sigma$ and partition $\Sigma = A \cup B$
 3. computed:
 
-   * \( D(s(\tau)) \) for relevant \( \tau \)
-   * \( C_t \)
+   * $D(s(\tau))$ for relevant $\tau$
+   * $C_t$
 
 4. verified:
 
-   * \( \Sigma \) is bounded
-   * \( A_t^{\mathrm{bd}}(\Sigma) \ne \varnothing \)
-   * \( A_t^{\mathrm{bd}}(A) = \varnothing \) and/or \( A_t^{\mathrm{bd}}(B) = \varnothing \)
+   * $\Sigma$ is bounded
+   * $A_t^{\mathrm{bd}}(\Sigma) \ne \varnothing$
+   * $A_t^{\mathrm{bd}}(A) = \varnothing$ and/or $A_t^{\mathrm{bd}}(B) = \varnothing$
 
 
 ## Suggested Targets
@@ -88,7 +116,7 @@ Make the IER layer computable, inspectable, and reproducible.
 
 ### (a) Counterfactual Sensitivity Engine
 
-For each pair \( (i,j) \), compute:
+For each pair $(i,j)$, compute:
 
 $$ (i,j) \in D(s) \iff \exists v \in \{0,1\} \text{ such that } \hat{s}_i \ne \hat{s}^{(j \leftarrow v)}_i $$
 
@@ -118,12 +146,12 @@ $\text{undirected}(C_t)$
 
 Output:
 
-* candidate regions \( \Sigma \)
+* candidate regions $\Sigma$
 
 
 ### (d) Boundedness Checker
 
-Given \( \Sigma \), verify:
+Given $\Sigma$, verify:
 
 * internal dependence closure
 * absence of external dependence
@@ -131,14 +159,14 @@ Given \( \Sigma \), verify:
 
 ### (e) Non-Decomposability Tester
 
-Given partition \( \Sigma = A \cup B \), test:
+Given partition $\Sigma = A \cup B$, test:
 
 $$ A_t^{\mathrm{bd}}(\Sigma) \stackrel{?}{=} \{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) \} $$
 
 
 ### (f) Step-Level Instrumentation
 
-Augment simulation stepping with structured summaries:
+The simulator already records the following summaries; future analysis may consume them:
 
 * live cell count
 * births
@@ -158,8 +186,8 @@ IER analysis must operate on the full world state, not on its terminal represent
 
 Formally:
 
-* world state: \( s(t) \in S \)
-* UI: a projection (viewport) of \( s(t) \)
+* world state: $s(t) \in S$
+* UI: a projection (viewport) of $s(t)$
 
 
 ## Principle
@@ -169,9 +197,9 @@ Formally:
 
 ## Implications
 
-* resizing the terminal must not alter analysis
+* a future fixed-world/view policy would make display-only resize irrelevant; current resize changes the world and must be recorded as an intervention
 * visualization must not affect computation
-* all IER structures (\(D(s), C_t, \Sigma\)) are computed on the full configuration
+* all IER structures ($D(s), C_t, \Sigma$) are computed on the full configuration
 
 
 ## Output Formats
@@ -221,8 +249,8 @@ Develop a classification system based on structural properties, not visual geome
 
 A catalog of patterns annotated by:
 
-* \( \Sigma \)
-* \( C_t \)
+* $\Sigma$
+* $C_t$
 * boundedness
 * decomposability
 
@@ -231,7 +259,7 @@ A catalog of patterns annotated by:
 
 ## Objective
 
-Use \( D(s) \) and \( C_t \) to analyze structural robustness.
+Use $D(s)$ and $C_t$ to analyze structural robustness.
 
 
 ## Key Questions
@@ -277,7 +305,7 @@ is conservative.
 Include new cells:
 
 * if strongly dependent on prior region
-* via \( C(s') \)
+* via the declared successor history relation; specify empty and disconnected survivor cases
 
 
 ### (b) Hybrid Models
@@ -307,7 +335,7 @@ Understand behavior under increasing size and time.
 ## Questions
 
 * Do large regions become decomposable?
-* Does increasing \(k\):
+* Does increasing $k$:
 
   * enlarge regions?
   * stabilize closure?
@@ -356,8 +384,8 @@ $$ s(t+1) = T(s(t)) $$
 
 with:
 
-* counterfactual dependence \(D(s)\)
-* diachronic accumulation \(C_t\)
+* counterfactual dependence $D(s)$
+* diachronic accumulation $C_t$
 
 
 ## Goal
@@ -406,7 +434,7 @@ Visualization must remain:
 
 * detection of structural units
 * analysis of dependence and closure
-* identification of irreducible organization
+* tests of example-level non-decomposability under declared predicates and support families
 
 
 ## What This Work Does NOT Do
@@ -423,6 +451,8 @@ Visualization must remain:
 
 
 ## Recommended Execution Order
+
+Complete and validate the existing GoL baseline phase first. The sequence below concerns later analysis work, not a change to the current task dependencies.
 
 1. explicit witness construction
 2. basic tooling

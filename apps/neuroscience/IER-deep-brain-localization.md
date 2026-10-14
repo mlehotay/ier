@@ -2,7 +2,7 @@
 
 ## Causal Localization, Subject Individuation, and the Bearer Problem
 
-**Informational Experiential Realism (IER v10.11.3)**
+**Informational Experiential Realism (IER v10.11.6)**
 *Research Note · Non-Normative · External-Literature Bridge · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -94,7 +94,7 @@ Recent consciousness research does provide increasingly strong evidence that sub
 
 But that evidence does not support a simple replacement of corticocentrism with a deep-brain localization theory.
 
-The strongest contemporary picture is increasingly **networked**.
+The selected studies emphasize network relations. This bounded reading is not a consensus census or proof that one anatomical theory has prevailed.
 
 ### The 2025 IIT–GNWT adversarial collaboration
 
@@ -118,7 +118,9 @@ Jang and colleagues used low-intensity focused ultrasound to perturb different t
 
 The scientifically important result is causal:
 
-> altering a particular thalamic region changed conscious visual perception.
+> altering a thalamic target changed measured recognition sensitivity in the task.
+
+Recognition sensitivity and category accuracy are different outcomes: the source also reports a high-duty-cycle category-accuracy decrease across targets. Its proposed cellular and circuit explanations are interpretations, not direct identification of the experiential subject.
 
 But the network result matters equally.
 
@@ -219,23 +221,14 @@ Several physical relations remain possible.
 
 The structure might be:
 
-1. **constitutive**
-   Its operation is part of the physical regime identical with experience.
-
-2. **enabling**
-   It maintains background conditions required for a wider experiential system.
-
-3. **modulatory**
-   It reorganizes the contents or stability of an already-existing experiential regime.
-
-4. **a coupling hub**
-   Its removal fragments interactions among other constitutive processes.
-
-5. **a bottleneck**
-   Many processes depend on it even though the relevant system extends beyond it.
-
-6. **a boundary-relevant participant**
-   Its coupling relations may help determine whether a larger candidate system can function as one integrated whole.
+| Possible role | What it would mean |
+| --- | --- |
+| Constitutive | Its operation belongs to the physical regime proposed as identical with experience, subject to the full membership relation. |
+| Enabling | It maintains background conditions required for a wider experiential operation. |
+| Modulatory | It reorganizes content or stability of an already existing operation. |
+| Coupling hub | Its removal fragments interactions among other constitutive processes. |
+| Bottleneck | Many processes depend on it even though the relevant system extends beyond it. |
+| Boundary-relevant participant | Its physical relations bear on whether the larger candidate can qualify as one operation. |
 
 These possibilities cannot be collapsed into the statement:
 
@@ -347,9 +340,9 @@ IER therefore asks:
 
 > **Where is intrinsic constraint borne as one non-factorizable, temporally continuous physical regime?**
 
-IER's closure relation is explicitly structural rather than anatomical, and ownership asks where irreversible traversal is borne.
+[Intrinsic Closure](../../IER/IER-intrinsic-closure.md) assesses outgoing support across an independently fixed exhaustive meaningful partition family using projections from the same global fibre. [Ownership](../../IER/IER-ownership.md) concerns non-externalizable bearing and resolution of that restriction, including ordinary continuation without fresh foreclosure. Anatomy, probability covariance and irreversible traversal alone do not establish either relation.
 
-Informational slack supplies an exclusion principle. If constraint can remain confined to a proper subsystem without reorganizing the larger candidate system, then the larger candidate does not possess the globally binding closure required of a UEF.
+Informational slack supplies an exclusion principle. If the relevant restriction has an actual independence-preserving local, deferred or external resolution pathway at the same candidate, grain, interval and intervention context, that ownership scope fails. An irrelevant local freedom or enabling supply does not exclude another independently qualifying operation.
 
 That does not provide an observational consciousness detector.
 
@@ -573,9 +566,7 @@ Those conclusions require analysis of the larger organization.
 
 ## What an IER-Aligned Experimental Programme Would Ask
 
-IER should therefore not approach neuroscience by asking researchers to “find the UEF.”
-
-That wording would invite exactly the diagnostic inference the theory rejects.
+Researchers can investigate independently typed candidate operations and test their qualification relations. Merely naming a measured network “the UEF” does not establish those relations or experiential identity.
 
 A more disciplined research programme would ask how candidate physical boundaries behave under intervention.
 
@@ -583,7 +574,7 @@ For a proposed system $\Sigma$ and a candidate partition into subsystems, the us
 
 ### Can relevant constraint remain local?
 
-If perturbation of one subsystem can be absorbed and resolved there without reorganizing the larger candidate system, that is evidence of independence across the proposed partition.
+A perturbation absorbed locally can motivate a decomposition hypothesis. To establish canonical slack, the independently resolved restriction and matching physical typing must be identified; one harmless perturbation does not prove that every relevant burden is localizable.
 
 Under IER, genuine localizability is incompatible with treating the larger system as one globally intrinsic UEF.
 
@@ -605,7 +596,7 @@ A node that maintains wakefulness may have a different relation to the experient
 
 IER subjecthood is not a momentary connectivity relation.
 
-Experience exists across non-zero duration, and identity concerns continued ownership of the same history–future frontier.
+[Processes](../../IER/IER-processes.md) requires contribution, global bearing, joint resolution, diachronic uptake and common typing. [Continuity](../../IER/IER-continuity.md) requires continuous owned closure, produced succession, effective typed irreversible inheritance, operation-mediated change and unique successor/predecessor. Similar spectra, recurrent activity and preserved capacities do not supply the full relation. A token can end without a system-wide experience-null interval, and ordinary succession needs no fresh collapse.
 
 These are all ordinary physical questions.
 
@@ -672,11 +663,9 @@ Thalamic, hypothalamic, brainstem, or basal forebrain processes might belong dir
 
 No compact anatomical region may be privileged. Experience could depend on organization spanning multiple anatomical systems.
 
-### A smaller subcortical regime could constitute the subject while cortical processes dynamically participate
+### A subcortical candidate could qualify while cortex remains externally coupled
 
-This is a logically coherent possibility under IER.
-
-But current evidence does not establish it.
+This is a conditional possibility if the subcortical candidate independently satisfies the full relation stack and the cortical processes retain external resolution. If cortical processes instead satisfy all five constitutive membership clauses, the subject scope includes them; it is no longer the stipulated smaller subcortical operation. Current cited evidence does not decide those roles.
 
 ### Conventional neuroanatomical categories could fail to match the relevant boundary
 
@@ -688,7 +677,7 @@ IER should leave every one of these possibilities open until physical evidence c
 
 ## The Strongest Current Conclusion
 
-Current neuroscience justifies a significant correction to a strongly cortex-centered picture of consciousness.
+The cited neuroscience motivates revisiting simple cortex-only necessity claims. It does not establish their universal negation or identify a replacement subcortical subject.
 
 Subcortical systems are not merely inert power supplies beneath a conscious cortex.
 
@@ -756,28 +745,34 @@ That is what it would mean to locate the bearer.
 
 ---
 
+## Source Access and Inference Limits
+
+The linked studies support their specific measurements, interventions and reported interpretations. Jang's sensitivity/accuracy results and Colombo's disconnected-cortex recordings are assessed against accessible primary text. Edlow, Fang and Pinto retain the reported-method/primary-abstract boundary where complete text was not newly inspected. Merker's argument, Aleman/Merker's caregiver survey and Shewmon's case reports motivate challenges to simple necessity claims; their interpretations are not direct measurements of IER qualification.
+
+The DBS network article reports clinical associations and a candidate network, not a completed constitutive localization. Its publisher correction and the distinction between imaging association, intervention effect and full identity warrant remain relevant. This article supplies no clinical prescription, individual consciousness verdict, full-data reanalysis or validation of an experiential boundary.
+
 ## References
 
-Albantakis, L., Barbosa, L., Findlay, G., Grasso, M., Haun, A. M., Marshall, W., et al. (2023). **Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms.** *PLoS Computational Biology, 19*(10), e1011465. DOI: 10.1371/journal.pcbi.1011465.
+Albantakis, L., Barbosa, L., Findlay, G., Grasso, M., Haun, A. M., Marshall, W., et al. (2023). **Integrated information theory (IIT) 4.0: Formulating the properties of phenomenal existence in physical terms.** *PLoS Computational Biology, 19*(10), e1011465. [DOI](https://doi.org/10.1371/journal.pcbi.1011465).
 
-Aleman, B., & Merker, B. (2014). **Consciousness without cortex: A hydranencephaly family survey.** *Acta Paediatrica, 103*(10), 1057–1065. DOI: 10.1111/apa.12718.
+Aleman, B., & Merker, B. (2014). **Consciousness without cortex: A hydranencephaly family survey.** *Acta Paediatrica, 103*(10), 1057–1065. [DOI](https://doi.org/10.1111/apa.12718).
 
-Cogitate Consortium et al. (2025). **Adversarial testing of global neuronal workspace and integrated information theories of consciousness.** *Nature, 642*, 133–142. DOI: 10.1038/s41586-025-08888-1.
+Cogitate Consortium et al. (2025). **Adversarial testing of global neuronal workspace and integrated information theories of consciousness.** *Nature, 642*, 133–142. [DOI](https://doi.org/10.1038/s41586-025-08888-1).
 
-Colombo, M. A., Favaro, J., Mikulan, E., Pigorini, A., Zauli, F. M., Sartori, I., et al. (2025). **Hemispherotomy leads to persistent sleep-like slow waves in the isolated cortex of awake humans.** *PLoS Biology, 23*(10), e3003060. DOI: 10.1371/journal.pbio.3003060.
+Colombo, M. A., Favaro, J., Mikulan, E., Pigorini, A., Zauli, F. M., Sartori, I., et al. (2025). **Hemispherotomy leads to persistent sleep-like slow waves in the isolated cortex of awake humans.** *PLoS Biology, 23*(10), e3003060. [DOI](https://doi.org/10.1371/journal.pbio.3003060).
 
-Edlow, B. L., et al. (2024). **Multimodal MRI reveals brainstem connections that sustain wakefulness in human consciousness.** *Science Translational Medicine, 16*(745), eadj4303. DOI: 10.1126/scitranslmed.adj4303.
+Edlow, B. L., et al. (2024). **Multimodal MRI reveals brainstem connections that sustain wakefulness in human consciousness.** *Science Translational Medicine, 16*(745), eadj4303. [DOI](https://doi.org/10.1126/scitranslmed.adj4303).
 
-Fang, Z., et al. (2025). **Human high-order thalamic nuclei gate conscious perception through the thalamofrontal loop.** *Science, 388*(6742), eadr3675. DOI: 10.1126/science.adr3675.
+Fang, Z., et al. (2025). **Human high-order thalamic nuclei gate conscious perception through the thalamofrontal loop.** *Science, 388*(6742), eadr3675. [DOI](https://doi.org/10.1126/science.adr3675).
 
-Jang, H., Fotiadis, P., Mashour, G. A., Hudetz, A. G., Huang, Z., et al. (2025). **Role of thalamus in human conscious perception revealed by low-intensity focused ultrasound neuromodulation.** *Nature Communications, 16*, 11700. DOI: 10.1038/s41467-025-66832-3.
+Jang, H., Fotiadis, P., Mashour, G. A., Hudetz, A. G., Huang, Z., et al. (2025). **Role of thalamus in human conscious perception revealed by low-intensity focused ultrasound neuromodulation.** *Nature Communications, 16*, 11700. [DOI](https://doi.org/10.1038/s41467-025-66832-3).
 
-Merker, B. (2007). **Consciousness without a cerebral cortex: A challenge for neuroscience and medicine.** *Behavioral and Brain Sciences, 30*(1), 63–81; discussion 81–134. DOI: 10.1017/S0140525X07000891.
+Merker, B. (2007). **Consciousness without a cerebral cortex: A challenge for neuroscience and medicine.** *Behavioral and Brain Sciences, 30*(1), 63–81; discussion 81–134. [DOI](https://doi.org/10.1017/S0140525X07000891).
 
-Pinto, Y., Neville, D. A., Otten, M., Corballis, P. M., Lamme, V. A. F., de Haan, E. H. F., et al. (2017). **Split brain: divided perception but undivided consciousness.** *Brain*.
+Pinto, Y., Neville, D. A., Otten, M., Corballis, P. M., Lamme, V. A. F., de Haan, E. H. F., et al. (2017). **Split brain: divided perception but undivided consciousness.** *Brain*, 140(5), 1231-1237. [DOI](https://doi.org/10.1093/brain/aww358).
 
 Pinto, Y., Neville, D. A., Otten, M., Corballis, P. M., Lamme, V. A. F., de Haan, E. H. F., et al. (2017). **The split-brain phenomenon revisited: A single conscious agent with split perception.** *Trends in Cognitive Sciences, 21*, 835–851.
 
-Shewmon, D. A., Holmes, G. L., & Byrne, P. A. (1999). **Consciousness in congenitally decorticate children: Developmental vegetative state as self-fulfilling prophecy.** *Developmental Medicine & Child Neurology, 41*(6), 364–374.
+Shewmon, D. A., Holmes, G. L., & Byrne, P. A. (1999). **Consciousness in congenitally decorticate children: Developmental vegetative state as self-fulfilling prophecy.** *Developmental Medicine & Child Neurology, 41*(6), 364–374. [Primary abstract](https://pubmed.ncbi.nlm.nih.gov/10400170/).
 
-Warren, A. E. L., Raguž, M., Friedrich, H., Schaper, F. L. W. V. J., Tasserie, J., Snider, S. B., et al. (2025). **A human brain network linked to restoration of consciousness after deep brain stimulation.** *Nature Communications, 16*, 6721. DOI: 10.1038/s41467-025-61988-4.
+Warren, A. E. L., Raguž, M., Friedrich, H., Schaper, F. L. W. V. J., Tasserie, J., Snider, S. B., et al. (2025). **A human brain network linked to restoration of consciousness after deep brain stimulation.** *Nature Communications, 16*, 6721. [DOI](https://doi.org/10.1038/s41467-025-61988-4).

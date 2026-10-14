@@ -8,338 +8,82 @@ ier:
   category: institutional_systems
   status: canonical
   filename: IER-social-systems.md
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-ownership
+    - IER-processes
+    - IER-continuity
+    - IER-corporations
+    - IER-slack
+    - IER-ethics
+    - IER-responsibility
+    - IER-multiscale-uefs
+    guardrails:
+    - IER-canon
 ---
-# IER - Social Systems
 
-## Coordination, Constraint, Harm, and Enablement Without Ordinary Collective Experience
+# Social Systems
 
-**Informational Experiential Realism (IER v10.11.0)**\
-*Canon-Constrained Analytical Extension - Tier 2 - Non-Normative*
+## Coordination, Harm and Enablement Without Automatic Collective Standing
+
+**Informational Experiential Realism (IER v10.11.6)**\
+*T2 · Case · Non-Normative · Canon-Constrained*
+
+## Abstract
+
+Institutions are historically persistent social state machines organizing recognized roles, procedures, artifacts and transitions; organizations instantiate those arrangements, while companies and corporations name economic and legal organizational forms. Coordination alone establishes no collective UEF or transfer of standing. External arrangements can shape internally borne constraint and can harm or enable qualifying subjects. Actual slack, physical qualification, ethical harm and responsibility each require their own premises.
 
 ## Status, Scope, and Authority
 
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
+This article distinguishes social organization from experiential qualification. [Specification](IER-specification.md), [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md) own the physical and identity relations. *Ethics* (`IER-ethics.md`) owns harm, standing and precaution. No new collective entity, moral calculus or institutional design rule is introduced.
 
+## Institutions and Organizations
 
-This document is non-normative and canon-constrained.
+Institutions are historically persistent social state machines organizing recognized roles, relationships, procedures, artifacts and transitions. “State machine” is a descriptive social model implemented through physical participants and artifacts, not an additional causal substance or a complete finite automaton theory of society.
 
-It introduces:
+Organizations are bounded participant structures instantiating institutional roles and procedures. Companies are economic organizations; corporations are legal organizational forms. These distinctions do not decide experiential qualification or legal rights. A practice can change while an organization continues, and an institution can persist across successive organizations.
 
-* no ontological primitives
-* no experiential criteria
-* no thresholds or diagnostics
-* no independent ethical principles
+## Coordination and Collective Attribution
 
-All ontological and ethical authority resides exclusively in:
+Rules, incentives, signaling, enforcement and records can coordinate behavior and change individual continuation. Ordinary coordination alone does not establish collective closure, ownership or membership. The earlier inference that a social label proves failure of those relations was too strong.
 
-The relevant canonical IER documents govern this clarification.
+Where an actual independence-preserving local, deferred or external resolution pathway is established for the collective candidate's relevant restriction, that slack excludes qualification at the same scope and interval. An organizational chart or replaceable role alone does not demonstrate such a physical pathway. [Corporations](IER-corporations.md) develops this conditional exclusion.
 
-If any statement here conflicts with those documents, the conflict is resolved against this document.
+A differently organized distributed candidate remains subject to independent assessment. Nesting or overlap requires separate physical typing; neither aggregate intelligence nor the presence of already qualifying participants supplies a new subject by summation.
 
-### Purpose and Orientation
+## External Influence and Internal Bearing
 
-Social, cultural, bureaucratic, and institutional systems exert profound influence over human lives. They coordinate behavior, shape opportunity, distribute burden, and impose structure at scales no individual can control alone. This naturally invites questions such as:
+Institutional arrangements can impose schedules, demands and resource conditions. Their external origin does not make every current effect externally owned: learned norms and present participation can reorganize an individual's internally borne restriction. Conversely, influencing that organization does not automatically make the institution a constitutive member.
 
-* Do social systems have experiences?
-* Can institutions be harmed or benefited?
-* Do collective entities have moral standing?
-* How does responsibility function when harm is diffuse?
+Suppose a service procedure changes which appointments a participant can obtain. It can change reachable action at one comparison, or increase cost while relevant action remains available at another. The legal category “permitted” and the physical category “admissible” must not be silently equated. A complaint or apparent compliance does not decide either physical result alone.
 
-Under Informational Experiential Realism (IER), these questions receive sharp structural answers that differ from many familiar moral and political frameworks.
+## Institutional Harm and Responsibility
 
-This document explains how the social systems analyzed here matter morally *without* attributing experience, subjecthood, or standing to ordinary groups or institutions. It aims to prevent common misreadings while preserving the real ethical force of institutional action. It does not rule out a future architecture that differs structurally from these social systems.
+Experiential harm is organizational damage to intrinsic constraint within a qualifying UEF under Ethics. A routine canonical collapse is not automatically harm. Damage may concern overload, destabilization or lost capacity where independently established; inefficiency or an institutional loss is not by itself experiential suffering.
 
-The constraints described here are structural, not punitive, and are intended to prevent misattribution rather than discipline the reader.
+Intent is not required for damage to occur. Intent, knowledge and alternatives can nevertheless matter to responsibility and justification; absence of intent does not erase harm, and it does not alone settle all ethical evaluation.
 
-For the canonical distinction between institutions, organizations, companies, and corporations, see [*IER social systems*](IER-social-systems.md).
+Designers, maintainers, enforcers and other actors can have differing causal roles, alternatives and capacities. Mere beneficiary status does not determine a fixed share of responsibility. Organizational and legal accountability remain practical questions even without demonstrated collective experience. Diffuse causation does not automatically dissolve moral relevance.
 
-## Global Informational Language Disclaimer
+## Institutional Enablement
 
-All uses of *information*, *coordination*, *structure*, *constraint*, *system*, *organization*, and *institution* refer exclusively to:
+Institutional enablement names arrangements that, under stated conditions, reduce risks of organizational harm or support UEF-sustaining capacity, agency and viable participation of qualifying subjects. It concerns effects on those subjects, rather than a new experiential good owned by the institution.
 
-> physically instantiated state distinctions that modulate future dynamics under constraint,
-> as defined in *IER Specification II.A (Physical Information)*.
+Examples can include reducing volatile demands, protecting recovery opportunities or maintaining access to resources. Their effectiveness, persistence and possible adverse effects need evidence. Enablement need not be exclusively reversible, and the word “slack” should not be used for a qualifying subject's allegedly absent owned burden. External support and practical flexibility can improve conditions without discharging constitutive qualification.
 
-No semantic, representational, epistemic, or agentive primitives are introduced.
+Neither enablement nor institutional advantage automatically offsets harm elsewhere. Ethical evaluation retains standing, responsibility and precaution rather than sum a population's experiences into a collective currency.
 
-## Ordinary Social Systems Do Not Instantiate Collective Experience
+## Uncertainty and Precaution
 
-### I.1 No Group Unified Experiential Fields
+First-person privacy blocks transfer of occupancy, not all independent evidence about physical organization or damage. Absence of complaint, administrative efficiency and apparent cooperation are insufficient certificates of safety. Under the ethical account, plausible irreversible risk to UEF-bearing or UEF-sustaining capacity can increase the justification burden under uncertainty.
 
-Under IER, experience exists if and only if a physical system sustains a Unified Experiential Field (UEF): a globally integrated, temporally continuous regime of coherent intrinsic constraint.
-
-The social systems analyzed here - including ordinary institutions, organizations, cultures, governments, corporations, and communities - do not satisfy these conditions.
-
-Under IER, institutions are not interchangeable with organizations. Institutions are persistent social state machines; organizations are bounded participant structures that instantiate institutional roles and procedures; companies are economic organizations; corporations are legal organizational forms.
-
-They lack:
-
-* a single globally binding intrinsic constraint
-* a unified temporal present
-* unavoidable system-level ownership of admissible futures
-
-Coordination across individuals, no matter how tight or persistent, does not merge intrinsic constraint across experiential boundaries.
-
-> No collective UEF follows merely from ordinary social coordination.
-
-### I.2 Coordination Is Not Experiential Integration
-
-Social systems coordinate through:
-
-* rules
-* incentives
-* signaling
-* enforcement
-* norms
-* shared artifacts
-
-These mechanisms reshape behavior and redistribute constraint, but they do not produce:
-
-* a shared point of view
-* collective subjecthood
-* group-level experience
-
-Each individual continues to bear intrinsic constraint within their own UEF.
-
-Coordination alters *what individuals must navigate*, not *who experiences*.
-
-### I.3 Rejection of Hive-Mind and Super-Subject Models
-
-IER rejects attributing the following to ordinary social systems merely on the basis of coordination:
-
-* group minds
-* collective consciousness
-* institutional subjects
-* cultural experiencers
-* superordinate moral patients
-
-This rejection is not empirical or sociological. It follows by identity from how experience is defined.
-
-No amount of complexity, coordination, intelligence, persistence, or influence alone converts an ordinary social system into an experiencer. A future distributed architecture would require separate structural analysis under the UEF conditions.
-
-## Institutions as External Constraint Structures
-
-### II.1 What Institutions Are Under IER
-
-Under IER, institutions are best understood as:
-
-> Externally imposed, historically persistent constraint-shaping structures that modify the choice spaces, participation loads, and stability conditions of individual Unified Experiential Fields.
-
-They:
-
-* impose rules
-* shape admissible actions
-* allocate risk
-* distribute burden
-* stabilize or destabilize trajectories
-
-They do not:
-
-* feel
-* experience
-* suffer
-* benefit
-* possess standing
-
-Institutions are persistent social state machines: they sediment recognized roles, relationships, procedures, artifacts, and transitions within recurring domains of social life.
-
-Organizations instantiate those institutions. They are bounded participant structures that occupy institutional roles and procedures without being identical to the institution itself.
-
-Companies are economic organizations. Corporations are legal organizational forms. Neither term names an institution by itself.
-
-### II.2 Constraint Is External, Not Owned
-
-Crucially, institutional constraint is external to any given UEF.
-
-Even when deeply internalized:
-
-* laws
-* norms
-* expectations
-* bureaucratic demands
-
-remain externally generated and structurally resolvable only through individual experiential systems.
-
-This distinction matters ethically:
-
-* Institutions apply constraint
-* Individuals bear constraint
-
-Ownership never transfers upward.
-
-## Institutional Harm
-
-### III.1 Harm Without Collective Standing
-
-IER defines moral harm as:
-
-> Destabilization, overload, fragmentation, or irreversible collapse of intrinsic constraint within a Unified Experiential Field.
-
-Institutions cannot be harmed in this sense.
-
-However, institutions can cause harm by imposing constraint patterns that:
-
-* overload individual UEFs
-* fragment participation
-* collapse agency
-* foreclose viable futures
-* destabilize coherence
-
-Harm occurs within individuals, even when its source is diffuse and impersonal.
-
-### III.2 Structural Features of Institutional Harm
-
-Institutional harm is often:
-
-* non-intentional
-* distributed across many actors
-* algorithmic or procedural
-* slow and cumulative
-* externally rational
-* internally catastrophic
-
-These features explain why institutional harm can be:
-
-* morally serious
-* widely denied
-* responsibility-opaque
-* resistant to blame-based models
-
-Under IER, absence of intent does not mitigate harm, because harm is defined organizationally, not psychologically.
-
-### III.3 Responsibility Without a Collective Subject
-
-Because institutions lack subjecthood:
-
-* responsibility does not attach to the institution as an experiencer
-* moral standing does not shift upward
-* harm is not “absorbed” by the system
-
-Responsibility instead distributes across:
-
-* designers
-* maintainers
-* enforcers
-* beneficiaries
-* decision-makers
-
-Responsibility is graded by capacity, not equalized by diffusion.
-
-Diffuse causation does not dissolve moral relevance.
-
-## Institutional Enablement (Not “Benefit”)
-
-### IV.1 Why “Benefit” Is the Wrong Term
-
-IER avoids the language of institutional benefit because it suggests:
-
-* aggregation of welfare
-* net positive outcomes
-* moral credit
-* optimization targets
-
-None of these are licensed under IER.
-
-Institutions cannot benefit *as entities*, and individual experiential standing does not aggregate.
-
-### IV.2 Enablement Defined
-
-Instead, IER recognizes institutional enablement:
-
-> Structural arrangements that reduce harmful intrinsic constraint, stabilize experiential regimes, preserve agency, or expand viable resolution pathways within individual Unified Experiential Fields.
-
-Enablement affects capacity, not value.
-
-### IV.3 Forms of Enablement
-
-Institutional enablement may include:
-
-* reducing background volatility
-* preventing chronic overload
-* stabilizing participation demands
-* preserving informational slack
-* widening safe choice spaces
-* preventing foreseeable harm
-
-Enablement is always:
-
-* indirect
-* conditional
-* context-dependent
-* reversible
-* non-guaranteeing
-
-It does not produce experiential goods.
-It removes barriers and risks.
-
-### IV.4 Ethical Limits of Enablement
-
-Under IER:
-
-* Enablement does not justify harm elsewhere
-* Enablement does not aggregate across subjects
-* Enablement does not confer moral credit
-* Enablement does not override standing
-* Enablement does not license tradeoffs
-
-Preventing harm is ethically significant.
-Producing advantage is not a compensatory currency.
-
-## Social Systems, Ethics, and Precaution
-
-### V.1 Structural Uncertainty Persists
-
-Because intrinsic constraint is structurally private:
-
-* institutions cannot know precisely whom they harm
-* absence of complaint does not imply absence of damage
-* compliance does not imply safety
-* efficiency does not imply ethical permissibility
-
-This uncertainty is structural, not epistemic negligence.
-
-### V.2 Precaution Applies to Institutional Action
-
-When institutional actions plausibly risk:
-
-> irreversible loss, collapse, or foreclosure of intrinsic-constraint-bearing capacity within individuals
-
-the burden of justification increases as certainty decreases.
-
-This follows directly from *IER ethics*, not from political theory or policy preference.
-
-## What This Document Does Not Claim
-
-This document does not claim that:
-
-* institutions are moral agents
-* institutions have experiences
-* institutions deserve rights
-* social systems optimize moral outcomes
-* ethical evaluation reduces to policy analysis
-* harm can be traded against benefit
-
-It does not provide:
-
-* governance models
-* institutional design principles
-* optimization frameworks
-* moral rankings of systems
-
-Those questions remain practical, political, and context-dependent.
+This account supplies no complete policy rule, political ranking or optimization procedure. Institutional structure can matter morally without being an experiencer. Its actual effects and the independently qualifying operations affected remain the objects of inquiry.
 
 ## Summary
 
-Under Informational Experiential Realism (IER v10.8):
-
-* Ordinary social systems do not experience
-* Ordinary coordination does not establish collective subjects
-* Institutions shape constraint but do not bear it
-* Moral standing remains individual and categorical
-* Institutional harm is real, serious, and non-intentional
-* Responsibility distributes without collectivizing
-* Institutional enablement reduces risk rather than creating value
-* No aggregation, optimization, or moral credit is licensed
-
-> Institutions matter morally not because they suffer or flourish,
-> but because they shape the constraint landscapes within which real experiential worlds must survive.
+Social arrangements organize consequential physical activity. Their persistence and coordination do not alone establish collective subjecthood. Effects originating outside a subject can be borne within it; harm, enablement and responsibility need their own premises. The absence of a collective attribution certificate leaves institutional accountability and risks to subjects serious.

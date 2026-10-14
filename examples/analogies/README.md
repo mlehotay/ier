@@ -13,9 +13,9 @@ illustrated instantiate experience.
 ## Choose an example
 
 - [Garden Hose](garden-hose.md): boundary conditions and flow patterns.
-- [Drum and String](drum-and-string.md): field unity and boundary conditions.
-- [Black Snake](black-snake.md): trajectory formation under constraint.
-- [Lonely Hearts Runners](lonely-hearts-runners.md): slack, saturation, and regime transition.
+- [Drum and String](drum-and-string.md): distributed coupling and reversible boundary modulation; neither proves intrinsic unity.
+- [Black Snake](black-snake.md): realized growth and effective earlier structure; extension is not automatically collapse.
+- [Lonely Hearts Runners](lonely-hearts-runners.md): symbolic capacity, coherent assignment, and rule change; label fullness is not informational saturation.
 - [Green Acorns](green-acorns.md): qualitative differentiation within one experience.
 - [Interlocking Gears](interlocking-gears.md): why exact coordination does not establish a subject.
 - [The Steady Jet and the Marble](steady-jet-and-marble.md): persistence through material turnover.

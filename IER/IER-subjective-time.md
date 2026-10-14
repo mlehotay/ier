@@ -8,569 +8,94 @@ ier:
   category: temporal_continuity
   status: canonical
   filename: IER-subjective-time.md
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-time
+    - IER-continuity
+    - IER-specious-present
+    - IER-event-segmentation
+    - IER-duration
+    - IER-cognition
+    - IER-futures
+    - IER-history-future-boundary
+    guardrails:
+    - IER-canon
 ---
 
 # Subjective Time
 
-## Subjective Time as Frontier-Structured Irreversibility
+## Temporal Appearance Within Continuing Operation
 
-**Informational Experiential Realism (IER v10.10.2)**\
-*Tier 2 - Synthesis - Explanatory - Non-Normative - Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.6)**\
+*T2 · Elaboration · Explanatory · Non-Normative*
+
+## Abstract
+
+This synthesis distinguishes constitutive coherence, temporal asymmetry, apparent present thickness, event articulation and experienced duration. Ordinary succession need not complete a fresh collapse pipeline; inherited consequences can remain effective while operation continues. Temporal phenomenology is an explanatory target, not a physical continuity verdict or an established complete qualitative mapping. Physical clocks, records and timing processes remain compatible with the account.
 
 ## Status, Scope, and Authority
 
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
+*Time* (`IER-time.md`) owns structural temporal asymmetry; [Continuity](IER-continuity.md) owns the full stage relation. [Specious Present](IER-specious-present.md), [Event Segmentation](IER-event-segmentation.md) and [Duration](IER-duration.md) develop conditional phenomenological projections. This synthesis supplies no new time primitive, diagnostic or universal psychological law.
 
+## Orientation — Several Questions About Time
 
-This document is explanatory and non-normative.
+Present thickness, event boundaries, felt length, apparent flow and retrospective fixity are different questions. An answer to one does not automatically answer all. IER does not require an inner clock to produce experience, but that is not a ban on physically instantiated timing, interval estimation or representation.
 
-It:
+## Future Openness, Inherited History and Actual Succession
 
-* introduces no new ontological primitives
-* introduces no criteria, thresholds, or diagnostics
-* does not redefine time, collapse, admissibility, welding, or propagation
-* does not introduce clocks, time variables, or internal timelines
-* does not posit storage of temporal sequences or traversal through time
-* does not treat time as a substance, dimension, or flowing medium
+$A(s)$ is the outgoing successor fibre at a physically typed configuration. A represented possible future is not evidence that it belongs to that fibre. Deterministic or stochastic descriptions of lawful dynamics do not add a selector or decide UEF qualification.
 
-This document remains subordinate to the canonical IER corpus.
+The history-future boundary relates physically effective inherited consequences to continuing admissibility. Successors can be realized without fresh irreversible loss. Where collapse occurs, foreclosure, welding, propagation and sedimentation retain separate roles. Compare before-after support at the same justified root and domain, rather than arbitrary fibres along a trajectory.
 
-If any statement here conflicts with Tier-1 commitments, Tier-1 prevails.
+Physical records can carry effects into later organization; they do not contain earlier experience. Re-entry can be historically effective without episodic recall. Past fixity therefore cannot be reduced to what someone remembers or currently judges inevitable.
 
+## Coherence, Apparent Flow and Numerical Continuity
 
-## Explanatory Aim
+A qualifying UEF requires nonzero-duration coherent operation. Its continuing token requires continuous owned closure, operational production, typed inheritance, operation-mediated change and unique successor and predecessor. Felt flow, absent recall and a smooth description settle none of those clauses alone.
 
-To explain temporal phenomenology within Informational Experiential Realism by showing how:
+Ongoing succession with inherited history can motivate an account of apparent flow. This is not a proof that every succession feels continuous, nor that discrete reports indicate discrete experiential tokens. Physically coherent stages are not snapshots stitched together by a higher observer.
 
-* the present appears extended
-* experience divides into events
-* intervals feel longer or shorter
-* the past appears fixed and the future open
-* experience exhibits temporal hierarchy
-* time appears to “flow”
+## Present Thickness and Event Articulation
 
-all arise from:
+Current co-determining organization may contribute to apparent thickness under the proposal in Specious Present. A local reversible envelope can persist or relax while the overall operation continues. A collapse can alter a portion of its organization without ending all present coherence.
 
-> frontier dynamics under intrinsic constraint
+Event Segmentation develops the narrower case of a collapse-associated consequence articulated through propagation and cognitive registration. Not every physical collapse becomes a recognized event. Conversely, a reported scene or narrative boundary alone does not prove collapse. Physical recording and cognitive boundary organization remain possible.
 
-without introducing any additional temporal primitives.
+## Immediate and Retrospective Duration
 
+Duration proposes that the organization and registration of consequential deformation can contribute to felt length. Immediate organization and later reconstruction need not make the same comparison. Activity, event counts and switching frequency alone do not determine felt duration; a complete quantitative mapping has not been supplied.
 
-## Orientation - The Problem of Temporal Experience
+Suppose a monotonous interval sustains repetitive current recruitment but leaves little differentiated organization for later reconstruction. It may feel drawn out while occurring and compressed later. That is a conditional explanatory comparison, not a diagnosis of boredom or a universal prediction. Novelty or crisis labels likewise need case-specific evidence.
 
-Experience appears temporally structured.
+## Temporal Hierarchy and Scaffolding
 
-Among the phenomena to be explained:
+Speech timing, musical phrasing and narrative pacing can shape participation and reconstruction over different scales. Their physical influence may affect costs, coherence and even support where independently established. They supply no additional time substance, universal hierarchy or new collapse operator.
 
-* the present appears thick rather than instantaneous
-* experience divides into events
-* intervals feel longer or shorter
-* the past appears fixed
-* the future appears open
-* experience appears to progress or flow
-* temporal structure exists at multiple scales
-
-These are often explained using:
-
-* internal clocks
-* stored timelines
-* temporal containers
-* moving presents
-
-Under Informational Experiential Realism, such constructs are structurally unavailable.
-
-IER does not permit:
-
-* internal time variables
-* temporal storage mechanisms
-* traversal through a timeline
-* accumulation of temporal units
-
-The problem must therefore be reframed:
-
-> Subjective time is not something experienced within time.
-> It is the structure of experience produced by frontier resolution.
-
-
-## Core Claim - No Time Variable, Only Structured Resolution
-
-IER introduces no internal representation of time.
-
-All temporal phenomenology arises from:
-
-* admissibility structure
-* irreversible contraction
-* persistence of deformation
-* ordered boundary-local resolution
-
-
-### Future Openness
-
-At boundary configuration $s$, $A(s)$ denotes admissible continuation.
-
-Future openness corresponds to:
-
-* multiplicity of $A(s)$
-* unresolved continuation
-* structural indeterminacy
-
-The future is not a container.
-
-It is:
-
-> what remains reachable.
-
-
-### Irreversibility
-
-Collapse contracts admissibility:
-
-$$ A_{t^+}(s) \subset A_{t^-}(s) $$
-
-This contraction is:
-
-* atomic
-* irreversible
-* reachability-defined
-
-Irreversibility is therefore produced by:
-
-> collapse at the history - future boundary.
-
-
-### Past Fixity
-
-After collapse:
-
-* welding integrates deformation
-* propagation distributes consequences
-
-The past is:
-
-> welded deformation that continues to constrain admissible futures.
-
-
-### Temporal Ordering
-
-Temporal order is not traversal.
-
-It is:
-
-> the ordered accumulation of collapse-indexed transitions at the boundary.
-
-There is no movement through time - only:
-
-* ongoing frontier operation
-* irreversible contraction
-* persistent structural consequence
-
-
-## Continuity and Discreteness - The Structural Resolution
-
-Experience appears both continuous and discrete.
-
-Under Informational Experiential Realism, this is not a contradiction.
-
-It reflects two distinct structural regimes:
-
-
-### Continuous Organization (Pre-Collapse)
-
-Within integration envelopes:
-
-* frontier organization is continuous
-* multiple elements remain jointly implicated
-* constraint organization remains reversible
-
-This produces:
-
-* apparent continuity
-* co-presence
-* temporal thickness
-
-
-### Discrete Articulation (Collapse)
-
-Discreteness arises only when:
-
-$$ A_{t^+}(s) \subset A_{t^-}(s) $$
-
-That is:
-
-* collapse irreversibly contracts admissible futures
-* a structural distinction is produced
-* alternatives are no longer reachable
-
-This produces:
-
-* event boundaries
-* irreversible differentiation
-* discrete articulation
-
-
-### Canonical Statement
-
-> Continuity belongs to reversible frontier organization.
-> Discreteness belongs exclusively to collapse.
-
-or more compactly:
-
-> Experience is continuous in organization and discrete in irreversible consequence.
-
-No additional temporal mechanism is required.
-
-
-## The Specious Present - Co-Determination Before Collapse
-
-*IER specious-present* establishes:
-
-> The specious present is the maximal span over which constraint organization remains actively co-determining frontier resolution prior to collapse.
-
-Within this span:
-
-* organization is reversible
-* multiple structures remain jointly active
-* admissibility has not yet been contracted
-
-This explains:
-
-* present thickness
-* simultaneity-like experience
-* co-presence without storage
-
-The specious present is:
-
-> a coherence condition, not a temporal container.
-
-
-## Event Segmentation - Discrete Articulation of Collapse
-
-Event segmentation introduces discreteness.
-
-> Events are the discrete articulation of collapse at the boundary.
-
-Formally:
-
-> An event corresponds to a configuration at which admissibility contracts.
-
-However:
-
-* not all collapse yields event-scale articulation
-* segmentation depends on:
-
-  * propagation
-  * structural consequence
-  * cognitive registration
-
-Events are therefore:
-
-* not time slices
-* not stored units
-* not accumulated entities
-
-They are:
-
-> boundary-indexed articulations of irreversible change.
-
-
-## Propagation and Persistence - From Events to Structure
-
-Collapse alone does not produce temporal structure.
-
-The required sequence is:
-
-1. collapse
-2. welding
-3. propagation
-
-
-### Welding
-
-* integrates deformation into structure
-* produces persistence
-
-
-### Propagation
-
-* distributes deformation forward
-* reshapes admissibility
-* enables continuity across intervals
-
-
-### Result
-
-> Temporal structure arises from propagated deformation, not from collapse alone.
-
-
-```mermaid
-flowchart TB
-
-  FC[Future cone]
-  FO[Future openness]
-
-  AN[Anticipation]
-  PR[Prospection]
-  PL[Planning]
-  IE[Integration envelopes]
-  FR[Frontier operation]
-
-  BI[Binding]
-  CO[Collapse]
-  WE[Welding]
-  PG[Propagation]
-
-  EV[Event segmentation]
-  DU[Subjective duration]
-  ME[Memory re-entry]
-  PA[Past fixity]
-
-  NA[Narrative pacing]
-  MU[Music timing]
-  CU[Cultural timing]
-
-  FC --> FO
-  FC --> AN
-  AN --> PR
-  PR --> PL
-  PL --> IE
-  IE --> FR
-
-  FR --> BI
-  BI --> CO
-  CO --> WE
-  WE --> PG
-
-  CO --> EV
-  PG --> EV
-  WE --> PA
-  PG --> ME
-  EV --> DU
-  ME --> DU
-
-  PG --> NA
-  PG --> MU
-  PG --> CU
-```
-
-Figure 1. Temporal structure under IER.
-This diagram summarizes the subjective-time cluster as one continuous frontier architecture. The top sequence shows future-facing organization within admissible continuation: future openness, anticipation, prospection, planning, and integration envelopes leading into live frontier operation. The middle sequence shows irreversible structure formation: binding, collapse as contraction of (A(s)), welding, and propagation. From this pipeline arise event segmentation, past fixity, memory re-entry, and subjective duration. Narrative, music, and culture appear here as post-collapse temporal organizers and external scaffolds of temporal structure, not as generators of collapse or admissibility.
-
-
-```mermaid
-flowchart TB
-
-  FC[Future cone]
-  AN[Anticipation]
-  PR[Prospection]
-  PL[Planning]
-  IE[Integration envelopes]
-  FR[Frontier operation]
-
-  BI[Binding]
-  CO[Collapse]
-  WE[Welding]
-  PG[Propagation]
-
-  EV[Event segmentation]
-  DU[Subjective duration]
-  ME[Memory re-entry]
-  PA[Past fixity]
-
-  RH[Rhythm patterns]
-  SPH[Speech timing]
-  NP[Narrative pacing]
-  CP[Cultural pacing]
-
-  FC --> AN
-  AN --> PR
-  PR --> PL
-  PL --> IE
-  IE --> FR
-
-  FR --> BI
-  BI --> CO
-  CO --> WE
-  WE --> PG
-
-  CO --> EV
-  PG --> EV
-  EV --> DU
-  PG --> ME
-  WE --> PA
-
-  RH --> IE
-  SPH --> IE
-  NP --> IE
-  CP --> IE
-```
-
-Figure 2. Live frontier organization, irreversible articulation, and temporal scaffolds.
-The top block shows cognition operating within the future cone: anticipation, prospection, planning, integration envelopes, and frontier operation. The middle block shows the irreversible pipeline: binding, collapse, welding, and propagation, from which event segmentation, memory re-entry, past fixity, and duration become possible. The bottom block shows external temporal scaffolds - rhythm, speech timing, narrative pacing, and cultural pacing - which stabilize or shape envelope organization without generating collapse, admissibility, or irreversibility themselves.
-
-> Figures 1 and 2 make explicit that subjective time is not produced by a clock or timeline, but by the relation between reversible frontier organization, irreversible contraction, and the persistence of propagated deformation.
-
-
-## Salience - Pre-Event Temporal Loading
-
-Salience operates prior to collapse.
-
-It:
-
-* modulates recruitment
-* influences binding
-* shapes which collapses become event-scale
-* determines which deformation is strongly registered
-
-Thus:
-
-> Salience shapes temporal structure by determining which frontier organization becomes consequential, without altering admissibility.
-
-
-## Subjective Duration - Registered Deformation Density
-
-*IER duration* establishes:
-
-> Experienced duration tracks the density and structural organization of cognitively registered welded deformation.
-
-Duration depends on:
-
-* propagation
-* segmentation structure
-* salience-modulated registration
-
-It does not depend on:
-
-* event count
-* activity level
-* switching frequency
-
-
-### Immediate vs Retrospective Duration
-
-Immediate duration:
-
-* depends on current organization
-
-Retrospective duration:
-
-* depends on reconstructed deformation
-
-> Duration reflects structure, not stored time.
-
-
-### Dissociation
-
-Boredom demonstrates:
-
-* extended immediate experience
-* compressed retrospective duration
-
-Thus:
-
-> Duration depends on registration, not activity.
-
-
-## Temporal Hierarchy - Nested Integration Envelopes
-
-Temporal structure exists at multiple scales due to:
-
-* nested integration envelopes
-* multi-scale propagation
-* hierarchical organization of deformation
-
-Thus:
-
-> Temporal hierarchy reflects nested scales of reversible co-determination and propagated deformation.
-
-
-## The Appearance of Temporal Flow
-
-Experience appears to flow.
-
-IER rejects this literally.
-
-There is no:
-
-* moving present
-* traversal through time
-* advancing frame
-
-Instead:
-
-> The appearance of flow arises from ordered collapse-indexed progression and persistence of deformation.
-
-
-## Retrospective Determinacy - Why the Past Feels Fixed
-
-At prior configuration ( s' ):
-
-* multiple futures were admissible
-* collapse removed alternatives
-* only welded deformation persists
-
-Thus:
-
-* the past appears inevitable
-* alternatives are no longer reachable
-
-This reflects:
-
-> loss of admissible alternatives, not stored history.
-
-
-## Narrative, Music, and Cultural Time
-
-External structures may organize temporal experience:
-
-* narrative pacing
-* musical rhythm
-* conversational timing
-
-They:
-
-* organize segmentation
-* stabilize envelopes
-* compress temporal structure
-
-They do not:
-
-* generate collapse
-* alter admissibility
-
-
-## What Subjective Time Is Not
-
-Subjective time is not:
-
-* a timeline
-* a dimension inside experience
-* a stored sequence
-* a measurable internal variable
-* event accumulation
-* traversal across states
-
-Additionally:
-
-> Events are not stored or accumulated.
-> History is deformation, not a sequence.
-
-
-## Structural Summary
-
-| phenomenon         | frontier structure                   |
+| Physical organization | Explanatory role and limit |
 | --- | --- |
-| present thickness  | pre-collapse co-determination        |
-| continuity         | reversible organization              |
-| discreteness       | collapse                             |
-| event boundaries   | admissibility contraction            |
-| persistence        | welding + propagation                |
-| duration           | registered deformation density       |
-| temporal hierarchy | nested envelopes                     |
-| past fixity        | welded deformation                   |
-| future openness    | admissible futures $A(s)$            |
-| flow appearance    | ordered collapse-indexed progression |
+| Ongoing qualifying operation and effective inherited history | Provide continuing physical conditions, without a new collapse at every advance. |
+| Current co-determination | May contribute to apparent thickness; no complete qualitative mapping follows. |
+| Present reproduction or reconstruction | Can organize comparison of experienced duration under its stated proposal. |
+| Independently established foreclosure with welding and propagation | May support collapse-associated event articulation where consequences are registered. |
+| Physical temporal scaffolding | Can influence current coordination and reconstruction without an extra time primitive. |
 
+Table 1. Distinct roles and conditional bridges. These relationships are not a compulsory pipeline or a quantitative phenomenological law.
 
-## Final Compression
+## Summary
 
-> Subjective time arises from irreversible contraction of admissible futures and the propagation of welded deformation within nested envelopes of reversible co-determination, yielding temporal structure without clocks, containers, or flow.
+| Question | Account and preserved burden |
+| --- | --- |
+| Coherent present operation | Nonzero-duration qualification; no universal measured minimum |
+| Numerical persistence | Full five-condition stage relation |
+| Present thickness | Proposed current co-determination bridge |
+| Event boundaries | Conditional articulated consequences; reports alone do not establish collapse |
+| Felt duration | Proposed registered-organization and reconstruction account |
+| Past fixity | Physically effective history, distinct from certainty or recall |
+| Apparent flow | Ongoing operation, without an additional moving present |
+
+These projections organize inquiry. They neither replace physical relations with temporal feelings nor close qualitative mapping, concrete attribution or identity-warrant research.

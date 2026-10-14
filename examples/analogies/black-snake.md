@@ -23,47 +23,15 @@ This chapter exists for orientation only.
 
 ## A Burning Firework
 
-A small novelty firework is lit.
+Imagine a novelty firework pellet that, when lit, produces a growing, fragile column of residue. It lengthens, bends, and curls as it forms, suggesting a black snake rising from the ground.
 
-Often sold as “black snakes” or “Pharaoh’s snakes,” it begins as a simple pellet - usually a compact mixture of fuels and oxidizers that decompose under heat.
-
-When ignited, it does not explode.
-
-Instead, the pellet undergoes a slow chemical reaction:
-
-* gases are released
-* carbon-rich residue forms
-* the material expands outward
-
-What emerges is a growing column of ash:
-
-* dark
-* fragile
-* irregular
-
-It lengthens, bends, and curls as it forms.
-
-The result resembles a small black snake rising from the ground.
-
+The example stipulates that visible behaviour. Commercial formulations differ; “black snake” and “Pharaoh's snake” do not specify one chemistry. No recipe, chemical mechanism, or universal claim about these products is needed for the analogy.
 
 ## One Trajectory, No Choices
 
-At no point does the system:
+Follow one realized growth history. Each newly formed segment extends the actual path. Nothing in this description requires a hidden evaluator or a plan.
 
-* evaluate alternatives
-* select between options
-* branch into multiple paths
-
-There is never more than one realized continuation.
-
-The structure does not explore possibilities.
-
-It does not “try” different directions.
-
-It simply continues.
-
-At each moment, the next segment forms in exactly one way.
-
+One realized trajectory does not mean only one continuation was physically admissible. Different initial conditions, airflow, or support may permit different paths. Actual growth and counterfactual reachability answer different questions. Physical computation, stochastic dynamics, or optimization descriptions are not excluded by the absence of a separate chooser.
 
 ## Curvature Without Selection
 
@@ -86,36 +54,18 @@ Because of this:
 * some continuations are easier
 * others are more fragile
 
-The structure therefore turns toward the direction of lower resistance.
+These asymmetries can condition growth direction. No universal least-resistance rule is established here.
 
-No option is selected.
-
-Instead, bias accumulates as curvature.
+Visible bending makes uneven mechanical conditions easy to picture. It is not a measurement of IER frontier curvature or proof of how a qualifying UEF continues.
 
 
 ## Collapse as Extension
 
-The structure does not remain soft or indeterminate.
+Deposited material may persist and alter the conditions of later growth. Within a stated run, some earlier configurations may no longer be recoverable through the permitted dynamics.
 
-Each segment:
+That supplies an image of history-bearing change, not a demonstration of canonical collapse. [Collapse](https://github.com/mlehotay/ier/blob/main/IER/IER-collapse.md) concerns same-root loss of reachable continuation under the relevant typed relation. Growth, stabilization, and irreversible deposition do not independently establish that comparison. Ordinary successor realization need not foreclose alternatives.
 
-* forms
-* stabilizes
-* becomes part of the growing shape
-
-Once formed, it does not revert.
-
-The path behind the frontier is fixed.
-
-What was previously possible is no longer available.
-
-Each new segment is therefore:
-
-* not just growth
-* but irreversible continuation
-
-The visible extension is the result of collapse becoming structure.
-
+The residue may crumble, shift, or otherwise change. A fixed path is a simplifying image, not an assertion of permanent immobility or inevitable monotonic contraction.
 
 ## The Snake Writes Its Own Constraint
 
@@ -135,11 +85,9 @@ As a result:
 * the next segment is not formed in empty space
 * it is formed within a modified environment created by prior segments
 
-The past is not stored.
+The residue is a present physical trace of earlier growth. Such traces can be called records without being containers of earlier experience. No experiential memory is attributed to this example.
 
-Nothing is remembered.
-
-But the system is no longer free to continue as it could have earlier.
+If the trace changes current support or airflow, its influence must be physically effective; merely resembling an earlier shape does not supply the inheritance required by [Continuity](../../IER/IER-continuity.md).
 
 Instead:
 
@@ -149,7 +97,7 @@ Each segment therefore:
 
 * constrains the next
 * biases future curvature
-* narrows admissible continuation
+* can change which continuations remain available
 
 The snake’s path is progressively self-shaped.
 
@@ -184,16 +132,16 @@ The black snake metaphor isolates one structural point:
 
 Each segment emerges from the current frontier.
 
-Each completed segment becomes part of the sedimented structure.
+Each completed segment can become part of the deposited structure.
 
 That structure changes the admissible continuation of the next segment.
 
-The path is not planned, selected, or stored.
+The path is produced through physical growth under changing conditions. Its present trace can condition later growth without a separate planner.
 
-It is produced by sequential deformation.
+[Trajectory](https://github.com/mlehotay/ier/blob/main/IER/IER-trajectory.md) distinguishes realized succession from reachable alternatives; [Sedimentation](https://github.com/mlehotay/ier/blob/main/IER/IER-sedimentation.md) owns incorporated history in its canonical scope. This illustration establishes neither closure, ownership, all five membership conditions, the full stage-continuity relation, nor experience.
 
 
 ## Intermission - Structural Image
 
 > The snake’s curve is not a chosen path.
-> It is sedimented constraint becoming visible as trajectory.
+> It is a visible growth history shaped by physically effective earlier structure.

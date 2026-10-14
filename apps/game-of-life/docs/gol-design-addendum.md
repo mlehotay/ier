@@ -77,7 +77,7 @@ typedef struct {
     int w;
     int h;
 } Viewport;
-````
+```
 
 Deferred responsibilities:
 
@@ -147,6 +147,9 @@ Potential features:
 
 ### Coherence and closure metrics
 
+These would be explicitly defined example diagnostics, with declared boundary, window and predicate. A score, heatmap or connected graph cannot measure canonical intrinsic closure or experiential standing. Singleton actual successors and perturbation-support alternatives must be displayed as different objects.
+
+
 Possible additions:
 
 * coherence scores
@@ -196,6 +199,8 @@ typedef struct {
 } AnalysisStats;
 ```
 
+The fields are illustrative placeholders without implemented formulas. Entropy would require a separately stated statistical model and is not canonical support; a future-cone score would not be an experiential attribution.
+
 These are:
 
 * not required for simulation correctness
@@ -205,11 +210,7 @@ These are:
 
 ## Command System Extensions
 
-The command system currently supports:
-
-* simulation control
-* pattern operations
-* runtime configuration
+The GoL command system implements simulation control, built-in pattern and `.cells` placement, seed/delay changes, and topology/stats commands. See [current command rules](commands.md). RLE loader format selection and every analysis command below remain separate work.
 
 Deferred command categories:
 
@@ -251,7 +252,7 @@ Future data structures may include:
 * region objects
 * dependency graphs
 * tracked structures
-* identity persistence mechanisms
+* tracking rules for example regions, distinct from canonical numerical subject continuity
 
 These are not required for GoL correctness.
 

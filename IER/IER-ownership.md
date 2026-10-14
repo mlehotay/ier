@@ -34,7 +34,7 @@ ier:
 
 ## Non-Externalizable Burden, Mineness, and Operation-Relative Boundaries
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · PROJECTION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -59,6 +59,23 @@ and interventions before assessing the relation. Synchronic support closure
 concerns non-factorization of a single outgoing fibre under physically meaningful
 partitions. It does not by itself establish ownership, membership, continuity,
 or experience. Those remain separate physical relations.
+
+The distinction can be expressed through a conditional boundary comparison.
+Suppose a candidate's next organization depends on a resource supplied from
+outside. The supply may be indispensable, yet the receiving operation still
+has to resolve how that resource enters its jointly constrained continuation.
+Supplying a condition does not complete that problem. If an external process
+instead settles part of the relevant alternatives independently and delivers
+their completed result, the proposed cut exports resolution as well as
+receiving support.
+
+The comparison must preserve the relevant alternatives and intervention
+context. Replaying one observed input sequence cannot show that the same
+successor-producing organization would remain available. Conversely, an
+interface that reproduces the removed joint dynamics has relocated the
+resolver rather than demonstrated independent support. These comparisons
+explain why an operation-relative boundary differs from anatomical enclosure
+or the full network of its causes.
 
 Ownership concerns ongoing intrinsic operation, not only atomic collapse.
 Ordinary lawful succession can proceed without fresh foreclosure. A completed
@@ -112,6 +129,14 @@ there is no independently enduring thing that has it. Current physical
 self-models and representations can nevertheless occur as organization within
 that operation, without becoming another subject or privileged observer.
 
+In this translation, *mine* answers where the burden is borne, rather than
+who possesses an inner object. Given qualifying operation, altered constraint
+must be taken up into its own continuation. Another system's description,
+recognition, or assistance does not thereby perform that owned continuation
+in its place. For-me-ness names this internally borne occurrence without
+adding a witness behind it. Whether the operation endorses, recognizes, or
+can report its organization is a separate question.
+
 ## Illustrations: Pain and Decision Pressure
 
 Pain can illustrate an internally borne burden in an already qualifying UEF.
@@ -119,11 +144,30 @@ Neither the word pain nor its report specifies a complete physical boundary,
 a fixed geometry, or a necessarily contracted successor set. Its intensity
 does not establish membership or moral desert.
 
+Suppose painful organization is present within a qualifying continuing UEF.
+It can reorganize participation, effort, and the conditions of later activity.
+Those changes are borne through that operation's own continuation; an external
+description of the pain does not bear them instead. Assistance can alter or
+remove the physical conditions sustaining the burden without retroactively
+making its previous occurrence external. This is the explanatory sense in
+which the pain is mine without a second entity possessing it. Neither this
+stipulation nor a pain report proves a concrete UEF or loss of reachability.
+
 Decision pressure can concern live alternatives, changing costs, and inherited
 consequences. Urgency need not be foreclosure. Where owned foreclosure occurs
 under live multiplicity, choice proper retains its event conditions without
 a chooser or a required duration of deliberation. Felt inevitability does not
 prove that every alternative was physically removed.
+
+For a stipulated continuing operation under decision pressure, several
+alternatives may remain physically reachable while their costs and consequences
+matter to the operation as a whole. Urgency expresses present organization;
+ownership concerns where that organization must be borne. If qualifying
+foreclosure occurs, its consequences are incorporated into the operation's
+later conditions. If it does not, ordinary successor production can still be
+owned. A demand imposed by another person can therefore be internally borne
+without being endorsed or freely controllable. Felt responsibility supplies
+no independent moral or physical-boundary verdict.
 
 ## Disrupted Mineness Without an Identity Verdict
 
@@ -132,6 +176,15 @@ linkages can motivate questions about participation and ownership phenomenology.
 They do not by their labels establish subject multiplication, a persisting UEF,
 cessation, or absence of experience. Under a stipulated continuing UEF, such
 changes can alter how ownership is expressed without grading ownership itself.
+
+For example, stipulate that the full physical relation continues while
+self-attribution becomes unstable. A thought or action can be expressed as
+alien or involuntary even though its organizational consequences still enter
+the same internally borne continuation. The expression concerns how current
+organization represents or recognizes itself; it does not transfer that
+burden to a new observer. In this stipulated case ownership remains while its
+phenomenological expression changes. For an actual dissociation-like report,
+whether the operation continues remains a separate physical question.
 
 Numerical persistence requires all five clauses between independently
 individuated stages: continuous owned closure, operational successor production,

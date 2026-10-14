@@ -20,7 +20,7 @@ NON-CANONICAL | EXAMPLE-SCOPED | NOT READER-FACING
 
 ## Status, Scope, and Causal Boundary
 
-This document defines a derived admissibility layer over standard Conway - s Game of Life (GoL).
+This document defines a derived admissibility layer over standard Conway’s Game of Life (GoL).
 
 It is:
 
@@ -28,9 +28,30 @@ It is:
 - EXAMPLE-SCOPED
 - NOT READER-FACING
 
-> This document defines a region-indexed admissibility structure derived from deterministic dynamics and demonstrates non-factorability at the level of admissible continuation itself.
+> This document proposes a region-indexed perturbation-support construction. It states a factorization question; a concrete neighborhood/history specification and computed witness are still required. These are alternatives across starting configurations, not multiple successors of the fixed actual state.
 > It extends, but does not replace, the predicate-level result.
 
+
+## Canonical Boundary
+
+All constructs here are example-scoped descriptions. A singleton next-state
+set at a fixed complete configuration factorizes under same-fibre projection.
+Predicate filtering and regional support formed from alternative starting
+configurations are different objects, not evidence that the actual GoL
+successor fibre has changed.
+
+[Intrinsic Closure](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-intrinsic-closure.md)
+requires an independently declared physical candidate, variables, grain,
+interval, interventions and exhaustive meaningful partition family. Even a
+properly typed support failure establishes only the tested synchronic relation.
+[Ownership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-ownership.md),
+[all-five constitutive membership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-processes.md)
+(contribution, global bearing, joint resolution, uptake and common typing), and
+[all-five continuity](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-continuity.md)
+(continuous owned closure, successor production, typed effective inheritance,
+mediated change and unique successor/predecessor) remain separate burdens.
+These documents establish none of them for a physical computer or organism.
+The identity proposal is abductive; the simulation is no experience detector.
 
 ## Causal Status
 
@@ -40,7 +61,7 @@ $$ s(t+1) = T(s(t)) $$
 
 The structures introduced here:
 
-- do not modify \(T\)
+- do not modify $T$
 - do not introduce new transitions
 - do not select outcomes
 - do not introduce probabilities
@@ -52,18 +73,19 @@ They define a descriptive admissibility overlay.
 
 Let:
 
-- \( G \) be a finite lattice
-- \( S = \{0,1\}^G \)
-- \( s(t) \in S \)
+- $G$ be a finite lattice
+- $S = \{0,1\}^G$
+- $s(t) \in S$
 
 
 ## Transition
 
-Let:
+Let the standard GoL update be:
 
-$$ T \subseteq S \times S $$
+$$ T:S\rightarrow S $$
 
-be the standard GoL transition.
+The transition relation is the graph of this deterministic map.
+
 
 Deterministic:
 
@@ -79,7 +101,7 @@ $$ (i,j) \in D(s) \iff \exists v \in \{0,1\} \text{ such that } \hat{s}_i \ne \h
 
 ## Diachronic Relation
 
-For window \(k\):
+For window $k$:
 
 $$ C_t = \bigcup_{\tau=t-k+1}^{t} D(s(\tau)) $$
 
@@ -90,7 +112,7 @@ Define live set:
 
 $$ L(t) = \{ i \in G \mid x_i(t)=1 \} $$
 
-A region \( \Sigma(t) \subseteq L(t) \) is a maximal set connected under:
+A region $\Sigma(t) \subseteq L(t)$ is a maximal set connected under:
 
 $\text{undirected}(C_t)$
 
@@ -110,7 +132,7 @@ Global admissibility contains no multiplicity and always factorizes trivially un
 
 Therefore:
 
-> global admissibility cannot express structural non-factorability.
+> this fixed-state singleton does not supply support non-factorization; other declared physical supports require their own assessment.
 
 
 ## Strategy
@@ -124,7 +146,7 @@ Introduce region-indexed admissibility derived from:
 
 ## Regional Admissibility Structure
 
-For region \( \Sigma \), define:
+For region $\Sigma$, define:
 
 $$ A_\Sigma(s,t) \subseteq S_\Sigma $$
 
@@ -133,7 +155,10 @@ as the set of admissible regional continuations.
 
 ## Definition (Support-Based Admissibility)
 
-A regional continuation \( u \in S_\Sigma \) is admissible iff:
+This is a construction schema. Specify $N_t(s,\Sigma)$ independently: allowed sites, perturbation values/radius, topology, time window, and whether earlier history is held fixed or regenerated. The coherence predicate and startup/prehistory policy also need exact definitions. Boundedness alone does not determine a unique support. Here $C(\tilde{s}')$ suppresses those history inputs; for $k>1$ it is not determined by the successor configuration alone.
+
+
+A regional continuation $u \in S_\Sigma$ is admissible iff:
 
 $$ u \in A_\Sigma(s,t) $$
 
@@ -152,12 +177,12 @@ $\tilde{s} \text{ differs from } s \text{ only within a bounded neighborhood of 
 ### Dependence Coherence
 $\Sigma \text{ remains connected under } C(\tilde{s}')$
 
-where \( \tilde{s}' = T(\tilde{s}) \)
+where $\tilde{s}' = T(\tilde{s})$
 
 
 ## Interpretation
 
-\( A_\Sigma(s,t) \) contains:
+$A_\Sigma(s,t)$ contains:
 
 > all regional futures that can be jointly supported by some compatible completion of the surrounding configuration.
 
@@ -171,13 +196,9 @@ This is:
 ## Properties of Regional Admissibility
 
 
-## Non-Singleton Structure
+## Support Cardinality
 
-In general:
-
-$|A_\Sigma(s,t)| \ge 1$
-
-Multiple regional continuations may be admissible.
+Depending on the declared perturbation family and coherence filter, the set may be empty, singleton or larger. Nonemptiness and multiplicity are not established by this schema.
 
 
 ## Non-Equivalence with Projection
@@ -211,7 +232,7 @@ Define:
 
 $A_A(s,t), \quad A_B(s,t)$
 
-by the same construction.
+by separately applying the regional construction. These independently filtered sets need not be the projections of the one whole-region support.
 
 
 ## Factorization Test
@@ -228,15 +249,12 @@ $A_\Sigma(s,t) \ne \mathrm{Recombine}(A,B)$
 
 ## Interpretation
 
-Some regional continuations:
-
-- are admissible only as joint configurations
-- cannot be decomposed into independently admissible subregion continuations
+A failed comparison with independently constructed subregion sets may reflect changed neighborhoods or filters. To test product structure of one overlay support, instead compare $A_\Sigma$ with recombinations of $\pi_A(A_\Sigma)$ and $\pi_B(A_\Sigma)$ from that same support. Both comparisons require computed sets; neither is established by cross-boundary dependence alone.
 
 
 ## Mechanism of Non-Factorability
 
-Non-factorability arises from:
+Candidate sources of a regional-filter mismatch include:
 
 
 ## Cross-Boundary Dependence
@@ -250,38 +268,38 @@ link subregions structurally.
 
 ## Joint Support Requirement
 
-Some \( u \in A_\Sigma \) require:
+A proposed joint-support case would need to demonstrate:
 
-- coordinated structure across \(A\) and \(B\)
+- coordinated structure across $A$ and $B$
 - no valid completion exists for isolated subregion variants
 
 
 ## Failure of Independent Completion
 
-There exist:
+A possible mismatch with independently constructed regional sets would have:
 
-- \( u \in A_\Sigma \)
+- $u \in A_\Sigma$
 
 such that:
 
-- \( u|_A \notin A_A \) or
-- \( u|_B \notin A_B \)
+- $u|_A \notin A_A$ or
+- $u|_B \notin A_B$
 
 
 ## Relation to Canonical IER Structure
 
-This example instantiates:
+This proposed example investigates:
 
-> admissibility-level non-factorability
+> non-factorability of a declared perturbation support, separately from actual physical frontier qualification
 
 
 ## Mapping
 
-| Example Object | Canonical Analog |
+| Example Object | Typing and Limit |
 |----------------|-------------------|
-| \( A_\Sigma(s,t) \) | \( A(s) \) |
-| Non-factorability | Lack of admissibility decomposition |
-| Support condition | Intrinsic constraint |
+| $A_\Sigma(s,t)$ | A proposed overlay support across perturbed starting states, distinct from canonical $A(s)$ |
+| Same-support projection mismatch | A bounded mathematical factorization comparison, if demonstrated |
+| Support/coherence filter | Example-defined eligibility, not intrinsic constraint or ownership |
 
 
 ## Important Limitation
@@ -305,16 +323,14 @@ Previous formulation:
 
 New formulation:
 
-> closure is replaced by admissibility support structure
+> the separate support experiment uses a different object; it does not replace the predicate construction or canonical closure
 
 Optional predicates may still be defined, but are secondary.
 
 
-## What Is Demonstrated
+## Proposed Test and Required Evidence
 
-This system demonstrates:
-
-> deterministic dynamics can induce region-indexed admissibility structures that fail to factor across partitions.
+This proposal asks whether a specified perturbation family yields non-product support. A complete definition and computed witness must precede an existence or result claim.
 
 
 ## What Is Not Claimed
@@ -330,7 +346,7 @@ This system does not:
 
 ## One-Line Definition
 
-> The model defines region-indexed admissible continuations via support under bounded perturbation, yielding admissibility structures that need not factor across partitions.
+> The model defines region-indexed admissible continuations via support under bounded perturbation, with their product structure still to be tested.
 
 
 ## End of Document

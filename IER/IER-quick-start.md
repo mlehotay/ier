@@ -10,7 +10,7 @@ ier:
   - guardrails_and_orientation
   category: framework_overviews
   filename: IER-quick-start.md
-  version: 10.11.5
+  version: 10.11.6
   provides: []
   requires:
     hard:
@@ -36,7 +36,7 @@ ier:
 
 ## Identity, Structure, and Continuity
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T4 · Orientation · Draft · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -72,6 +72,13 @@ Nor is the subject identical merely with:
 When the qualifying operation exists, its operation does not produce experience.
 
 Its operation is the experience and the subject.
+
+IER accepts one objective physical reality, mind-independent law, and complete
+physical determination. A complete constitutive physical duplicate of a UEF
+operation cannot differ in experiential presence or qualitative character.
+Matching a report, computation, or selected output does not establish that
+complete duplication. The identity proposal adds no autonomous phenomenal
+property or bridge law to the physical operation.
 
 ## What Makes a UEF
 

@@ -8,7 +8,7 @@ ier:
   category: organization_II
   status: canonical
   filename: IER-taxonomy.md
-  version: 10.11.5
+  version: 10.11.6
   requires:
     hard:
     - IER-specification
@@ -22,6 +22,9 @@ ier:
     - IER-resolution
     - IER-pipeline
     - IER-continuity
+    - IER-cognition
+    - IER-participation
+    - IER-binding
     guardrails:
     - IER-canon
 ---
@@ -30,7 +33,7 @@ ier:
 
 ## Typed Descriptions of Organization and Change
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Explanatory · Non-Normative · Non-Criterial*
 
 ## Status, Scope, and Authority
@@ -99,7 +102,7 @@ propagation, and sedimentation roles.
 
 ## Cognition and Action
 
-Cognition describes reproduced topology that need not bind to the frontier.
+Reproduction alone need not bind, but cognition jointly requires reproduction, participation, frontier relevance and reversible organization. A reproduced but irrelevant pattern is not sufficient cognition.
 Thinking can recruit participation, binding, soft bonding, and curvature;
 it is not exhausted by one operator. Cognitive activity can occur within
 regime persistence, excursions, or transition segments.

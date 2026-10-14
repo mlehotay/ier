@@ -15,6 +15,10 @@ It is not part of the canonical IER corpus. It introduces no new IER ontology, i
 
 The collection also claims no authority over Buddhist doctrine. It does not present one definitive account of Abhidharma, and it does not treat IER as a scientific completion or validation of Buddhist thought.
 
+## Theory Reading Route
+
+Read the [Specification](../../IER/IER-specification.md) for normative definitions and the [current IER premises](IER-abhidharma.md#current-ier-premises) for this collection's imported closure, ownership, membership and continuity relations. Structural similarity and contemplative report do not certify those physical relations or prove the identity proposal.
+
 ## Central Question
 
 The collection asks:
@@ -45,9 +49,9 @@ These analyses are valuable to IER because they supply precise candidate boundar
 The collection uses two sources with different evidential roles:
 
 - [*Abhidharma* (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/abhidharma/) provides the broad historical and cross-school framework.
-- [*A Comprehensive Manual of Abhidhamma*](https://store.pariyatti.org/products/6269), edited by Bhikkhu Bodhi, provides detailed access to the mature Theravāda *Abhidhammatthasaṅgaha* tradition.
+- [*A Comprehensive Manual of Abhidhamma*, publisher PDF](https://download.pariyatti.org/_xUn1HgkZ/Comprehensive%20Manual%20of%20Abhidhamma.pdf), edited by Bhikkhu Bodhi, provides detailed access to the mature Theravāda *Abhidhammatthasaṅgaha* tradition.
 
-The Bodhi manual is not treated as a neutral history of all Abhidharma or as evidence for every school. Claims drawn from it are identified as Theravāda manual-tradition claims. General statements about Abhidharma are constrained by the cross-school source.
+The Bodhi manual is not treated as a neutral history of all Abhidharma or as evidence for every school. Claims drawn from it are identified as Theravāda manual-tradition claims. The consulted copy is the 2012 BPS Pariyatti PDF eBook; detailed articles cite its printed pages and distinguish those from PDF indices. General statements about Abhidharma are constrained by the cross-school source.
 
 The spelling *Abhidharma* refers to the wider Sanskrit-named family of traditions. *Abhidhamma* refers to Theravāda materials in Pāli. The same contextual distinction governs *dharma/dhamma*.
 

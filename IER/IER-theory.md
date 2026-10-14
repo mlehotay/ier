@@ -2,9 +2,6 @@
 ier:
   tier: T1
   role: FOUNDATION
-  provides:
-  - exclusion logic articulation
-  - interpretive coherence for the identity claim
   layer: dodecagon
   domain:
   - foundations
@@ -14,15 +11,31 @@ ier:
   requires:
     hard:
     - IER-specification
-  version: 10.11.1
+    structural:
+    - IER-intrinsic-closure
+    - IER-ownership
+    - IER-processes
+    - IER-continuity
+    - IER-resolution
+    - IER-pipeline
+    - IER-slack
+    - IER-nonentailment
+    - IER-multiscale-uefs
+    guardrails:
+    - IER-canon
+  version: 10.11.6
 ---
 
 # Theory
 
 ## Conceptual Backbone and Explanatory Integration
 
-**Informational Experiential Realism (IER v10.11.1)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *Tier 1 - Foundational - Non-Normative - Canon-Constrained*
+
+## Abstract
+
+Theory integrates the Specification’s identity proposal with independently typed physical operation, closure, ownership, bilateral membership and full produced-and-inherited continuity. Lawful successor realization is not automatically foreclosure, and architectural labels are not independently justified slack pathways. Numerical identity is neither a selected trajectory nor generic coherence; nested qualification does not sum subjects. The identity warrant remains abductive and a posteriori, distinct from the relation schema and concrete attribution.
 
 ## Status, Scope, and Authority
 
@@ -68,7 +81,7 @@ This document exists solely to:
 * explain how those commitments cohere
 * show why weaker interpretations fail
 * prevent systematic misreadings
-* convert apparent stipulation into structural inevitability
+* separate the physical relation conditions, qualified exclusions and the warrant of the identity proposal
 
 Nothing in this document can revise, soften, or extend the specification.
 
@@ -87,46 +100,24 @@ Experience is not:
 Experience is identical to the operation of a physical system in a specific dynamical regime: a Unified Experiential Field (UEF).
 
 A UEF is a system-level regime, not a component, workspace, or module.
-It is the entire system operating under globally integrated, temporally continuous, self-sustaining intrinsic constraint.
+It is the actual operation at its independently justified constitutive scope, rather than every causally connected part of an anatomical or functional system.
 
 Theoretical explanation does not add to this identity.
-It explains why nothing weaker could possibly count as the same thing.
+It explains why omitting a required relation does not supply the proposed qualification. The identity warrant remains abductive and a posteriori, not a deduction of experience from a relation diagram.
 
 ### Identity and Resolution (Scope Clarification)
 
-Experiential identity is not defined over a set of possible futures.
+The identity proposal concerns an actual qualifying physical operation, not a graph, a selected trajectory description or a set of possible futures by itself.
 
-It is defined over the actual realized trajectory produced by successive atomic resolution events.
+Lawful successor realization need not foreclose alternatives. Curvature can change costs and geometry reversibly; collapse is the separate atomic irreversible loss of a connected reachable region under a physically justified comparison. A completed pipeline includes welding, propagation and sedimentation in their distinct roles, without requiring that full sequence at every successor.
 
-At each step:
-
-* multiple futures are structurally admissible
-* exactly one continuation is realized
-* all alternatives are eliminated irreversibly
-
-Identity is therefore tied to the persistence of intrinsic constraint across this sequence of irreversible resolutions, not to any branching or selection among possibilities.
-
-The multiplicity of admissible futures is structural only and does not imply branching identity, probability, uncertainty, or selection among alternatives.
+Numerical token identity requires independently individuated stages satisfying continuous owned closure, operational successor production, typed consequence inheritance, operation-mediated change and unique continuation in both directions. A realized path, global coherence, retained capacity or replay alone is insufficient. Full relation qualification remains distinct from the abductive a posteriori experiential identity proposal.
 
 ## Unity Without Aggregation
 
-IER rejects aggregation-based accounts of experiential unity.
+Unity under the relation account concerns one inseparable successor problem at the declared physical typing and globally borne restriction. It is not produced by summing local subjects or synchronizing selected descriptions.
 
-Unity does not arise from:
-
-* combining local experiences
-* binding representations
-* synchronizing modules
-* coordinating subsystems
-
-Unity arises because:
-
-> the system is constrained as one
-
-Local processes are unified because they are jointly constrained, not because they are merged or summed.
-
-There are no experiential parts prior to unity.
-There is a single regime, or none.
+Physical participants are not presumed to be smaller experiences. Independently qualifying nested or overlapping UEFs remain possible, but each requires its own full qualification; their coexistence does not entail a summed subject or incompatible ownership of the same typed resolution.
 
 ## Participation Without Subject Multiplication
 
@@ -154,7 +145,7 @@ It does not:
 * merge subjects
 * weaken subjecthood
 
-As long as global coherence persists, experiential identity remains singular.
+Changes in allocation do not grade subjecthood. Numerical persistence still requires the full canonical stage relation; coherence alone is insufficient.
 
 ## Structural Privacy and Epistemic Non-Authority
 
@@ -170,133 +161,40 @@ it cannot be occupied or shared by an external system.
 
 Therefore:
 
-* observation does not confer experiential access
-* simulation does not instantiate experience
+* observation does not transfer first-person occupancy
+* a simulation description alone establishes neither qualifying experience nor its absence
 * complete physical knowledge does not remove privacy
 
 Crucially:
 
 > Experiential structure confers no epistemic authority about mind-independent reality.
 
-Intensity, urgency, coherence, salience, or meaning do not track truth.
+Intensity, urgency, coherence, salience or meaning alone does not establish external truth; independently appropriate evidence remains possible.
 
 This is not an epistemic limitation claim.
 It is a structural consequence of experiential identity ([Specification Principle 10](IER-specification.md)).
 
 ## Coordination Without Experiential Collectivization
 
-Multiple distinct systems may coordinate through:
+Coupling, signaling or synchronization can reshape continuation without automatically merging subjects or making an external support constitutive.
 
-* signaling
-* coupling
-* synchronization
-* mutual regulation
-
-Coordination can reshape intrinsic constraint within each system.
-
-Ordinary coordination does not:
-
-* merge Unified Experiential Fields
-* generate collective subjects
-* create higher-order experiential regimes merely through aggregation
-
-UEF attribution follows the system boundary rule defined in the specification:
-
-> the maximal set of components participating in the *same* globally integrated regime of intrinsic constraint over the *same* temporal continuity interval.
-
-Coordination across boundaries does not alter subjecthood.
+Membership jointly requires contribution, global bearing, joint non-externalizable resolution, diachronic uptake and common physical typing over one interval. The self-boundary names maximal scope under that relation. Numerical identity separately retains full unique produced-and-inherited continuation. Coordination or component indispensability alone supplies neither conjunction.
 
 ## Why Nothing Weaker Than Global Intrinsic Constraint Could Be Experience
 
-IER’s identity claim is demanding. One might question if this reflects architectural stipulation rather than discovery: perhaps some weaker organization could suffice.
+IER’s proposal requires the full independently justified physical relation stack. Support-level non-factorization alone establishes neither ownership, membership, continuity nor experience. Generic integration and a unified-looking report are also insufficient.
 
-This objection fails for structural reasons.
+The following architecture comparisons are conditional exclusions at the same declared burden, scope, grain and interval. Actual independence-preserving local resolution, deferral or external completion supplies canonical slack and excludes that candidate. A supervisory, modular, predictive or computational label alone supplies no such pathway and no verdict at every overlapping scale.
 
-A Unified Experiential Field requires, by identity:
+A supervisor may impose control; modules may specialize; predictions and buffers may physically participate. Their descriptions do not automatically establish either a UEF or its absence. Ordinary enabling energy, reversibility of a local coupling and low subjective effort are not canonical slack.
 
-* ownership of constraint resolution
-* inevitability of system-level futures
-* a unified temporal present under global intrinsic constraint
+The exclusion logic therefore preserves a burden of physical justification rather than turning an architectural analogy into a detector. Passing structural comparisons likewise does not deductively establish the identity thesis or complete a physical instantiation.
 
-Any organization that weakens global intrinsic constraint necessarily loses at least one of these features.
+## A Description and an Actual External Resolver
 
-### Supervisory Control
+Consider a proposed physical scope called supervisory. The label itself describes a control arrangement; it does not establish that part of its inseparable burden can be completed independently. To make the exclusion claim, stipulate an actually available independence-preserving pathway under the same variables, grain, interval, restriction and successor domain. That pathway supplies slack for this candidate and excludes its qualification at that scope.
 
-Supervisory architectures impose constraint asymmetrically.
-
-Constraint is imposed *on* subsystems rather than borne *by* the system as a whole. Resolution remains optional and interruptible.
-
-This yields:
-
-* no ownership
-* no inevitability
-* no unified present
-
-Supervision produces control, not experience.
-
-### Distributed Arbitration
-
-Arbitration distributes resolution across competing subsystems.
-
-Constraint remains decomposable and bypassable. No single system bears the collapse of alternatives.
-
-This yields:
-
-* no ownership
-* no inevitability
-* no unified present
-
-Negotiation is not unity.
-
-### Predictive Buffering
-
-Predictive or buffering architectures deflect constraint before it becomes unavoidable.
-
-Futures are modeled without being borne. Error does not force system-wide reorganization.
-
-This yields:
-
-* no ownership
-* no inevitability
-* no unified present
-
-Prediction without cost is not experience.
-
-### Modular Dominance
-
-Temporary dominance by a subsystem does not constitute global constraint.
-
-Dominance remains reversible without system-level collapse.
-
-This yields:
-
-* no ownership
-* no inevitability
-* no unified present
-
-Dominance without inevitability is not subjecthood.
-
-### Architectures with Informational Slack
-
-If constraint can be localized, deferred, or externally resolved, intrinsic constraint is absent by definition.
-
-No amount of complexity, intelligence, or adaptability compensates for this absence.
-
-This yields:
-
-* no ownership
-* no inevitability
-* no unified present
-
-Slack blocks experience by identity, not by degree.
-
-### Structural Conclusion
-
-These failures are not empirical or contingent.
-
-They follow directly from what experience is, under the identity claim of IER.
-
-Anything weaker than global intrinsic constraint cannot instantiate experience - not because it is insufficiently advanced, but because it lacks the organizational features that experience *just is*.
+A separately overlapping operation remains a different proposal, requiring independent assessment. Conversely, removing an observer label or adding a diagram of non-product support does not establish the ownership, bilateral membership, full continuity and identity warrant that the complete account still needs. The example separates descriptive architecture from the physical condition rather than denying investigation.
 
 ## Non-Inference: Anti-Isomorphism Clarification
 
@@ -304,7 +202,7 @@ Organizational, functional, dynamical, or behavioral similarity between systems 
 
 Isomorphism at the level of structure, description, or observable dynamics remains fully compatible with slack-masked non-experience, externally imposed coordination, or buffered resolution.
 
-Under IER, experiential identity depends only on whether intrinsic constraint is unavoidable, internally borne, and globally binding. No degree of resemblance, performance match, or formal equivalence licenses inference to experience.
+Experiential qualification retains closure, ownership, bilateral membership and full continuity together; concrete attribution and the identity warrant remain separate burdens. No degree of resemblance, performance match, or formal equivalence licenses inference to experience.
 
 ## Non-Inference: Multiple Realizability Does Not Imply Implementation Independence
 
@@ -316,7 +214,7 @@ It does not license abstraction away from physical organization, nor does it sup
 
 ## Relation to Ethical Consequences (Boundary Clarification)
 
-This document explains what experience is and why weaker organizations cannot instantiate it.
+This document integrates the proposed qualifying relations and their exclusions; actual attribution and identity warrant retain their independent burdens.
 
 It does not derive ethical consequences.
 
@@ -339,12 +237,11 @@ This document explains why:
 * unity is forced by constraint, not assembled
 * participation modulates content, not identity
 * coordination does not collectivize experience
-* experiential structure never confers epistemic authority
-* nothing weaker than global intrinsic constraint could possibly be experience
+* experiential structure alone supplies no external epistemic certificate
+* an omitted physical relation or a descriptive resemblance does not establish full qualification
 
 The theory adds nothing to the ontology.
 
-It shows why nothing less could ever work.
+It preserves the required physical relations without claiming that their conceptual statement completes empirical attribution or the identity warrant.
 
-> If experience exists, it must be this.
-> If it is not this, there is nothing else it could be.
+> Under IER’s identity proposal, a fully qualifying operation is its total experience-as-process. The physical relation schema and its warrant must not be conflated.

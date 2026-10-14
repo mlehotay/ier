@@ -2,10 +2,10 @@
 
 ## Status and role
 
-Status: current philosophical exposition; synchronized 29 September 2026
+Status: current philosophical exposition; synchronized 13 October 2026
 Authority: non-canonical; canon-constrained
 
-This document explains the implemented v10.11.5 account of experience, subject,
+This document explains the implemented v10.11.6 account of experience, subject,
 unity, ownership, membership and continuity. Phases 1–9/S1–S5 are complete at
 recorded bounds. It introduces no criterion, diagnostic, empirical attribution,
 ethical rule or independent ontological primitive.
@@ -22,8 +22,9 @@ ethical rule or independent ontological primitive.
 Completeness here concerns the stated relations and their conditional
 implications. It does not mean demonstrated physical sufficiency, exhaustive
 quality correspondence, empirical individuation or proof of experiential
-identity. Any unresolved normative-source reconciliation belongs to the
-canonical owners and Phase 12; this support document cannot settle it.
+identity. Canonical owners retain meaning authority. The completed Phase 12–14 review
+and later accepted alignment scopes retain their recorded bounds; this exposition
+does not reopen those decisions or certify an independently owned publication.
 
 ## Central thesis
 
@@ -194,7 +195,7 @@ An organismic process can therefore be external to the organism's UEF, while a t
 
 ## Embodiment
 
-Closure must be physically realized and paid somewhere. Energy dissipation, stress, saturation, damage, fatigue, and finite recovery make constraint unavoidable in practice. Embodiment names this physical realization of the closure-bearing burden.
+Closure must be physically instantiated. Energy dissipation, stress, damage, fatigue and finite recovery can condition actual operation, but those labels do not establish non-externalizable ownership or the support relation. Embodiment names the physical realization and bearing of an independently qualifying restriction.
 
 Embodiment does not independently define the subject:
 
@@ -409,7 +410,7 @@ The following matters remain open without making the metaphysical description in
 - how to operationalize non-factorization, bearing, and inheritance empirically;
 - how particular organizations correspond to complete qualitative character;
 - which investigation-specific mathematical descriptions express the relations; and
-- how the stabilized account should be propagated through the canonical corpus.
+- necessary reconciliation in still-unreviewed application and publication scopes, distinct from the completed core reviews.
 
 The identity case is a posteriori and abductive: independently specified
 physical organization, proposed token coextension and ontological economy
@@ -453,7 +454,7 @@ No downstream article should use an effect at one level as an unargued criterion
 
 ## Final compression
 
-> Experience is not produced for a subject by a physical system. One qualifying physical operation is numerically identical with the total experience and its subject. It is unified because its admissible continuation is globally non-factorizable; bounded by the scope of the frontier it owns non-externalizably; physically constituted by processes that contribute to and bear that same owned restriction; embodied wherever its costs are realized; and preserved through time as the operation that produces its successor and inherits its own consequences. It can change content, organization, matter, and boundary while remaining the same token process. It ends when that process ends. Nothing in this account by itself proves the identity, detects a UEF, or identifies one in a particular system.
+> Experience is not produced for a subject by a physical system. One qualifying physical operation is numerically identical with the total experience and its subject. It is unified because its admissible continuation is globally non-factorizable; bounded by the scope of the frontier it owns non-externalizably; physically constituted by processes that jointly satisfy contribution, global bearing, joint resolution, diachronic uptake and common typing for that owned restriction; embodied wherever its costs are realized; and preserved through time only under all five stage conditions, including operation-mediated change and unique successor and predecessor. It can change content, organization, matter, and boundary while remaining the same token process. It ends when that process ends. Nothing in this account by itself proves the identity, detects a UEF, or identifies one in a particular system.
 
 ## Established lineages and contribution
 

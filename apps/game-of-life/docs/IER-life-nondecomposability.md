@@ -20,15 +20,7 @@ NON-CANONICAL | EXAMPLE-SCOPED | NOT READER-FACING
 
 ## Status and Scope
 
-This document establishes a structural result for the system defined in:
-
-```
-
-IER-GoL-predicate-nondecomposability
-
-```
-
-It proves:
+This document gives the conditional set argument for the [predicate construction](IER-GoL-predicate-nondecomposability.md). A computed configuration/history witnessing its GoL premises is still required. The argument establishes:
 
 > closure predicates on projected continuations need not factor across partitions,
 > even when admissible futures are singleton and projection factorizes trivially.
@@ -44,27 +36,48 @@ It does not establish:
 
 > non-factorability of admissible futures themselves.
 
-A separate construction (*IER-GoL-support-admissibility*) addresses admissibility-level non-factorability.
+The separate [support proposal](IER-GoL-support-admissibility.md) asks about regional perturbation supports; it does not establish non-factorization of the actual GoL successor fibre.
 
+
+## Canonical Boundary
+
+All constructs here are example-scoped descriptions. A singleton next-state
+set at a fixed complete configuration factorizes under same-fibre projection.
+Predicate filtering and regional support formed from alternative starting
+configurations are different objects, not evidence that the actual GoL
+successor fibre has changed.
+
+[Intrinsic Closure](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-intrinsic-closure.md)
+requires an independently declared physical candidate, variables, grain,
+interval, interventions and exhaustive meaningful partition family. Even a
+properly typed support failure establishes only the tested synchronic relation.
+[Ownership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-ownership.md),
+[all-five constitutive membership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-processes.md)
+(contribution, global bearing, joint resolution, uptake and common typing), and
+[all-five continuity](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-continuity.md)
+(continuous owned closure, successor production, typed effective inheritance,
+mediated change and unique successor/predecessor) remain separate burdens.
+These documents establish none of them for a physical computer or organism.
+The identity proposal is abductive; the simulation is no experience detector.
 
 ## Setup
 
 Let:
 
-- \( G \) be the lattice
-- \( s(t) \in S \) the configuration
-- \( T \) the Game of Life transition
-- \( \hat{s} = T(s(t)) \)
+- $G$ be the lattice
+- $s(t) \in S$ the configuration
+- $T$ the Game of Life transition
+- $\hat{s} = T(s(t))$
 
 Let:
 
-- \( D(s) \subseteq G \times G \) be counterfactual dependence
-- \( C_t \subseteq G \times G \) be the diachronic relation
+- $D(s) \subseteq G \times G$ be counterfactual dependence
+- $C_t \subseteq G \times G$ be the diachronic relation
 
 Let:
 
-- \( \Sigma(t) \subseteq G \) be a region
-- \( \Sigma = A \cup B \), \( A \cap B = \varnothing \)
+- $\Sigma(t) \subseteq G$ be a region
+- $\Sigma = A \cup B$, $A \cap B = \varnothing$
 
 
 ## Deterministic Invariant
@@ -80,7 +93,7 @@ $$ \pi_{\Sigma}(A_t) = \{ \hat{s}|_{\Sigma} \} $$
 
 ## Singleton Structure
 
-For all regions \( \Sigma \):
+For all regions $\Sigma$:
 
 $\pi_{\Sigma}(A_t) \text{ is singleton}$
 
@@ -94,7 +107,7 @@ $\pi_{\Sigma}(A_t) \text{ is singleton}$
 
 ## Key Implication
 
-> All structural phenomena arise from predicate evaluation, not from admissible future structure.
+> In this filtered-set comparison, any factorization failure arises from predicate evaluation; the fixed-state successor remains singleton. Life’s broader dynamics are not thereby trivial.
 
 
 ## Closure Predicate
@@ -153,7 +166,7 @@ $$ A_t^{\mathrm{bd}}(\Sigma) = \mathrm{Recombine}(A,B) $$
 
 ## Proposition (Predicate Non-Decomposability)
 
-There exist configurations \( s(t) \), regions \( \Sigma \), and partitions \( \Sigma = A \cup B \) such that:
+Assume a configuration/history, region $\Sigma$, and nonempty disjoint partition $\Sigma = A \cup B$ satisfying:
 
 $$ P(\Sigma, \hat{s}|_{\Sigma}) = \text{true} $$
 
@@ -174,6 +187,8 @@ $$ A_t^{\mathrm{bd}}(A) = \varnothing \quad \text{or} \quad A_t^{\mathrm{bd}}(B)
 ## Conclusion
 
 $A_t^{\mathrm{bd}}(\Sigma) \ne \mathrm{Recombine}(A,B)$
+
+Under the assumptions, the left side contains its one projected successor. At least one factor on the right is empty, so recombination is empty. This proves the implication, not existence of a GoL history meeting its premises.
 
 
 ## Mechanism
@@ -196,7 +211,7 @@ $$ C(s')|_{A \times B} $$
 
 ## Whole-Region Evaluation
 
-For \( \Sigma \):
+For $\Sigma$:
 
 - full dependence structure is present
 - closure may hold
@@ -204,15 +219,15 @@ For \( \Sigma \):
 
 ## Subregion Evaluation
 
-For \( A \) or \( B \):
+For $A$ or $B$:
 
-- cross-boundary relations are removed
+- formerly internal cross-cut relations become external to each subregion; external independence must be checked against the full relation
 - closure may fail
 
 
 ## Key Property
 
-> Dependence relations used in closure are not preserved under restriction
+> Internal connectivity and absence of external dependence need not survive a changed evaluation boundary.
 
 
 ## Nature of the Result
@@ -264,7 +279,7 @@ This example instantiates:
 
 ## One-Line Result
 
-> Closure predicates on projected continuations are not, in general, compositional under restriction, even when admissible futures are singleton.
+> Whole-region success and subregion failure imply predicate non-decomposability even for a singleton successor. A concrete GoL witness is an open example-development task.
 
 
 ## End of Document

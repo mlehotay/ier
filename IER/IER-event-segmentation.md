@@ -6,391 +6,89 @@ ier:
   domain:
   - phenomenology
   category: phenomenology_II
-  provides:
-  - discrete articulation of collapse
-  - bridge from frontier dynamics to temporal phenomenology
-  - event boundary formalization
-  - choice space discretization
   status: canonical
   filename: IER-event-segmentation.md
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-collapse
+    - IER-welding
+    - IER-propagation
+    - IER-cognition
+    - IER-choice-space
+    - IER-memory
+    - IER-continuity
+    - IER-salience
+    - IER-behaviour-layer
+    guardrails:
+    - IER-canon
 ---
 
-# *IER event-segmentation*
+# Event Segmentation
 
-## Event Segmentation as Discrete Articulation of Collapse in Choice Space
+## Articulating Consequential Change Without a New Time Primitive
 
-**Informational Experiential Realism (IER v10.10.2)**\
-*T2 - Foundational Bridge - Explanatory - Non-Normative - Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.6)**\
+*T2 · Explanatory Bridge · Non-Normative · Canon-Constrained*
+
+## Abstract
+
+This article proposes a conditional account of collapse-associated event articulation through welding, propagation and cognitive registration at a stated scale. It distinguishes canonical physical foreclosure from psychological, narrative and perceptual boundaries. A registered event need not prove collapse, and a collapse need not become a registered event. Graphs and records can describe change without creating a selector or storing earlier experience; empirical segmentation findings do not certify IER qualification.
 
 ## Status, Scope, and Authority
 
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
+*Collapse* (`IER-collapse.md`), *Welding* (`IER-welding.md`), *Propagation* (`IER-propagation.md`) and *Cognition* (`IER-cognition.md`) retain their definitions. This article introduces no universal segmentation mechanism, observer, threshold or subject criterion. Its collapse-associated account is a possible explanatory bridge, not an identity between every psychological boundary and canonical foreclosure.
 
+## Purpose — Why Experience Divides into Events
 
+Actions, perceptual units, narrative beats and remembered episodes can be described with boundaries. A boundary description can arise from changed goals, context or current cognitive organization without evidence of atomic support loss. Physical representations and segmentation processes are permitted; no extra experiencer is required to read them.
 
-This document is explanatory and non-normative.
+The useful question is which physical consequences and current organizing processes support a particular boundary description. A reported boundary cannot answer that question by itself.
 
-It:
+## The Conditional Collapse-Associated Proposal
 
-* introduces no new ontological primitives
-* introduces no criteria, thresholds, or diagnostics
-* does not redefine collapse, welding, propagation, or admissibility
-* introduces no decision mechanisms, selectors, or evaluators
-* does not treat events as stored units or temporal containers
-* does not introduce traversal through states or paths
+A collapse-associated event boundary may arise when a justified foreclosure episode is incorporated, propagated and cognitively registered as a reorganization of ongoing activity at a declared scale. The physical collapse and the subsequent articulation have distinct roles.
 
-The governing corpus retains all binding authority.
+Collapse is atomic irreversible non-selective foreclosure of a connected reachable region under intrinsic constraint. Its strict before-after comparison holds at the same physically comparable root and domain. Merely realizing a successor, narrowing a displayed cone or producing a new description does not establish it.
 
-```text
-IER-specification
-IER-theory
-IER-dynamics
-IER-collapse
-IER-futures
-IER-canon
-```
+Welding incorporates deformation; propagation distributes consequences; current cognitive registration must satisfy reproduction, participation, frontier relevance and reversible organization in its own role. No “sufficient deformation” threshold is specified by this article.
 
-This document relies structurally on:
+## Event and Collapse Are Not Interchangeable
 
-```text
-IER-collapse
-IER-welding
-IER-propagation
-IER-salience
-IER-memory
-IER-choice
-IER-choice-topology
-IER-integration-envelopes
-```
+A small or unregistered foreclosure need not articulate a cognitive event. Conversely, a reader can segment a narrated change of location while the text supplies no physical evidence of a qualifying operation or foreclosure in its characters.
 
-If any statement here conflicts with Tier-1 commitments, Tier-1 prevails.
+Suppose a qualifying operation undergoes a justified restriction-changing episode, and its propagated effects reorganize a currently reproduced task description. That motivates the collapse-associated proposal. Suppose instead that a task label changes during reversible navigation with support preserved. A descriptive boundary can still be marked, but it is not evidence of canonical collapse.
 
+These contrasts preserve the earlier concern about over-segmentation without making collapse the only source of physical, mathematical or psychological discreteness.
 
-## Purpose - Why Experience Divides into Events
+## Salience, Scale and Hierarchy
 
-Experience appears segmented into:
+Salience can condition recruitment and subsequent registration, but no universal probability of a boundary follows. The same episode may be described as several subevents or one larger activity. Nested descriptions are not nested subjects, and boundary granularity is not a UEF measurement.
 
-* actions
-* perceptual units
-* narrative beats
-* decision points
-* memory episodes
+Integration-envelope organization can change or relax locally without ending the token. A local collapse need not terminate all current co-determination. Constitutive continuity retains all five physical clauses.
 
-These are commonly treated as:
+## Graphs, Choice Space and History
 
-* stored chunks
-* temporal slices
-* cognitive constructions
-* narrative overlays
+*Choice Space* (`IER-choice-space.md`) describes configurations and lawful operative transitions. A graph can mark collapse-associated changes where separately established; it can also mark ordinary succession or narrative events. A node is not a primitive event or a selected experiential frame.
 
-Under Informational Experiential Realism, these interpretations are structurally unavailable.
+Pooling edges from incompatible configurations can invent unavailable routes. An anticipated transition does not establish physical admissibility. A recorded event is present physical organization that can support reconstruction, rather than a stored fragment of past experience.
 
-IER does not permit:
+## Memory, Behaviour and Action
 
-* storage of temporal units
-* traversal through a timeline
-* internal segmentation mechanisms
-* event containers
+Physical consequences can shape later organization without becoming recall. Episodic memory is contingent present re-entry under its own conditions. A narrative boundary can support reconstruction without proving a past collapse.
 
-The problem must therefore be reframed:
+Ordinary activity need not consist entirely of foreclosure. Collapse-related propagated action effects and continuing reversible task organization keep their distinct roles. This account therefore cannot locate every action boundary at a supposed decision instant.
 
-> Why does continuous frontier organization appear discretely articulated?
+## Empirical Source and the Missing Identification
 
+Speer, Zacks and Reynolds studied reading narratives and later boundary judgments; activity changes were associated with points participants subsequently identified as event boundaries. That finding concerns experimental segmentation and neural activity, not IER collapse or subject individuation. See [“Human Brain Activity Time-Locked to Narrative Event Boundaries”](https://doi.org/10.1111/j.1467-9280.2007.01920.x), *Psychological Science* 18 (2007), 449–455.
 
-## Core Thesis
+A bridge to this proposal would need an independently justified physical foreclosure comparison, its consequences and the actual registering organization. Neural activity or prediction-error language alone does not supply those relations. The article admits no new empirical result about IER.
 
-> Event segmentation is the discrete articulation of collapse within the structure described as choice space, admissible futures, or topology.
+## Summary
 
-Events are not primitives.
-
-They arise when:
-
-```text
-pre-collapse organization
--> binding
--> collapse
--> welding
--> propagation
-```
-
-produces a structurally consequential transition.
-
-
-## Collapse and Discreteness
-
-As defined in *IER collapse*:
-
-> Collapse is the binary, irreversible contraction of admissible futures at the boundary.
-
-Formally:
-
-$$ A_{t^+}(s) \subset A_{t^-}(s) $$
-
-This contraction:
-
-* removes reachable continuation
-* produces irreversible differentiation
-* redefines the structure of admissible futures
-
-Collapse is therefore the only source of discreteness in temporal structure.
-
-
-## Event != Collapse
-
-Not all collapse yields an event.
-
-Without constraint:
-
-* every micro-contraction would count as an event
-* experience would be infinitely fragmented
-* temporal structure would not match phenomenology
-
-This is structurally incorrect.
-
-
-## Required Definition
-
-> An event boundary corresponds to a collapse - welding transition that produces sufficient propagated deformation to reorganize ongoing constraint structure at a scale accessible to cognitive integration.
-
-Event segmentation therefore requires:
-
-* collapse
-* welding (structural integration)
-* propagation (forward consequence)
-* cognitive registration (no mechanism implied)
-
-
-## Consequence
-
-> Events are salient, propagated collapse transitions - not raw collapse events.
-
-This prevents:
-
-* over-segmentation
-* flattening of temporal hierarchy
-* mismatch with empirical segmentation
-
-
-## Salience and Pre-Event Structure
-
-Salience operates prior to collapse.
-
-As defined in *IER salience*:
-
-> salience is graded recruitment pressure prior to binding
-
-Within event segmentation:
-
-* salience gradients organize participation
-* high salience increases likelihood of event-scale consequence
-* salience shapes which deformation becomes registered
-
-Thus:
-
-> Events are preceded by salience-structured frontier organization.
-
-Salience does not alter admissibility.
-
-It influences:
-
-* recruitment
-* binding formation
-* downstream registration
-
-
-## Events as Nodes in Choice Space
-
-*IER choice* and *IER choice-topology* establish:
-
-> choice space, admissible futures, and topology are one structure under different explanatory projections.
-
-Under the admissibility register:
-
-[
-A(s)
-]
-
-denotes the set of admissible successor configurations.
-
-Under the agency-facing register, the same structure is called a choice space.
-
-
-## Discrete Articulation of Choice Space
-
-Event segmentation acts on this structure.
-
-> An event corresponds to a boundary configuration at which admissible continuation is irreversibly contracted.
-
-Formally:
-
-$$ A_{t_c^+}(s) \subset A_{t_c^-}(s) $$
-
-Each such contraction:
-
-* removes reachable futures
-* redefines remaining continuation
-* restructures the local choice space
-
-
-## Induced Graph Structure (Descriptive Only)
-
-This structure may be represented descriptively as a graph:
-
-* nodes - boundary-indexed configurations after contraction
-* edges - admissible continuation under intrinsic constraint
-* paths - realized continuation
-
-In this register:
-
-> Event segmentation induces a discrete structure over choice space by marking configurations at which admissible continuation is irreversibly reduced.
-
-
-## Strict Non-Interpretation Constraint
-
-This graph is descriptive only.
-
-It does not imply:
-
-* traversal across nodes
-* selection among alternatives
-* storage of states
-* internal representation of a graph
-* decision processes
-
-Collapse alters reachability.
-
-> The graph represents that alteration.
-
-
-## From Possibility to History
-
-Event segmentation marks the transition:
-
-```text
-possible continuation
--> historical fact
-```
-
-This occurs through:
-
-```text
-collapse -> welding -> propagation
-```
-
-
-## Collapse
-
-* forecloses futures
-
-## Welding
-
-* integrates deformation into structure
-
-## Propagation
-
-* redistributes deformation forward
-
-
-## Result
-
-> Events mark where possibility becomes irreversible history.
-
-
-## Temporal Hierarchy of Events
-
-Events exist at multiple scales due to:
-
-* nested integration envelopes
-* multi-scale propagation
-* hierarchical constraint organization
-
-Thus:
-
-* micro-events may occur without registration
-* macro-events involve large-scale deformation
-* temporal structure is hierarchically organized
-
-
-## Relationship to Memory
-
-*IER memory* establishes:
-
-* memory is re-entry of propagated deformation
-
-Event segmentation:
-
-* structures memory encoding
-* organizes recall around boundaries
-* enables narrative compression
-
-Events are not stored.
-
-> They structure what is later reconstructible.
-
-
-## Relationship to Behaviour and Action
-
-Within *IER behaviour-layer*:
-
-* action corresponds to collapse expressed through propagation
-
-Event segmentation:
-
-* marks action boundaries
-* structures behavioural episodes
-* defines transition points in organized activity
-
-
-## External Bridges
-
-This account aligns with:
-
-### Neuroscience
-
-* event segmentation theory
-* hippocampal boundary signals
-* prediction error resets
-
-### Psychology
-
-* perceptual segmentation
-* action chunking
-* narrative cognition
-
-These correspond to:
-
-> registration of propagated deformation at collapse boundaries.
-
-
-## What Events Are Not
-
-Events are not:
-
-* stored units
-* temporal containers
-* internal representations
-* timeline segments
-* decisions
-* selections
-* discrete time steps
-
-Additionally:
-
-> Events are not accumulated objects.
-> They are articulations of structural change.
-
-
-## Structural Summary
-
-* collapse produces discreteness
-* welding integrates deformation
-* propagation distributes consequence
-* salience organizes pre-event structure
-* events correspond to salient propagated collapse transitions
-* event segmentation discretizes choice space / admissible futures
-* the induced graph is descriptive only
-
-
-## Compression
-
-> Event segmentation is the discrete articulation of collapse within choice space, where admissible futures are irreversibly contracted and propagated deformation reorganizes ongoing constraint structure, producing boundary-indexed transitions from possibility to history without introducing traversal, storage, or selection.
+Consequential change can become articulated at a declared scale. Collapse-associated articulation is one proposed case, not every event. Keep physical foreclosure, propagation, cognitive registration, descriptive boundaries and numerical continuity separate when comparing theory with an experiment or example.

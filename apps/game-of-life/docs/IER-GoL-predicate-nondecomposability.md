@@ -28,9 +28,30 @@ It is:
 * EXAMPLE-SCOPED
 * NOT READER-FACING
 
-> This document demonstrates non-decomposability arising from predicate evaluation over projected continuation in a system with singleton admissible futures.
+> This document specifies a predicate construction and a proposed GoL non-decomposability case. The conditional set argument is valid if its premises hold; a fully computed GoL witness remains unprovided.
 > It does not introduce non-factorability at the level of admissibility itself.
 
+
+## Canonical Boundary
+
+All constructs here are example-scoped descriptions. A singleton next-state
+set at a fixed complete configuration factorizes under same-fibre projection.
+Predicate filtering and regional support formed from alternative starting
+configurations are different objects, not evidence that the actual GoL
+successor fibre has changed.
+
+[Intrinsic Closure](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-intrinsic-closure.md)
+requires an independently declared physical candidate, variables, grain,
+interval, interventions and exhaustive meaningful partition family. Even a
+properly typed support failure establishes only the tested synchronic relation.
+[Ownership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-ownership.md),
+[all-five constitutive membership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-processes.md)
+(contribution, global bearing, joint resolution, uptake and common typing), and
+[all-five continuity](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-continuity.md)
+(continuous owned closure, successor production, typed effective inheritance,
+mediated change and unique successor/predecessor) remain separate burdens.
+These documents establish none of them for a physical computer or organism.
+The identity proposal is abductive; the simulation is no experience detector.
 
 ## Causal Status
 
@@ -68,11 +89,12 @@ $$ s(t) = \{x_i(t)\}_{i \in G}, \quad x_i(t) \in \{0,1\} $$
 
 ## Transition
 
-Let:
+Let the standard Game of Life update be:
 
-$$ T \subseteq S \times S $$
+$$ T:S\rightarrow S $$
 
-be the standard Game of Life transition relation.
+The lawful transition relation is the graph of this deterministic map; here $R=T$ abbreviates equality with that graph.
+
 
 Since deterministic:
 
@@ -86,7 +108,7 @@ $$ A_t = \{ \hat{s} \} $$
 
 ## Invariant (Singleton Structure)
 
-For all regions \( \Sigma \):
+For all regions $\Sigma$:
 
 $$ A_t^{\mathrm{bd}}(\Sigma) \in \{ \varnothing, \{ \hat{s}|_{\Sigma} \} \} $$
 
@@ -97,20 +119,20 @@ $$ A_t^{\mathrm{bd}}(\Sigma) \in \{ \varnothing, \{ \hat{s}|_{\Sigma} \} \} $$
 * no branching structure
 * no probabilistic interpretation
 
-All structural phenomena arise from predicate filtering, not from properties of \(A_t\).
+Any mismatch in this filtered-set comparison arises from predicate evaluation, not from branching of the actual $A_t$.
 
 
 ## Relation to Global Temporal Structure (Omniperiodicity)
 
-Game of Life is known to be omniperiodic, i.e.:
+Life on its unbounded lattice is omniperiodic ([Brown et al. 2023](https://arxiv.org/abs/2312.02799)), i.e.:
 
-> for every \( n \in \mathbb{N} \), there exists a configuration whose global trajectory has period \( n \).
+> for every positive integer $n$, there exists a configuration whose global trajectory has period $n$.
 
-This result concerns the existence of global trajectories over time.
+This external result concerns oscillator existence over time and arbitrary required space. It is not a claim that one fixed finite lattice realizes every period.
 
 ### Non-Interaction with This Construction
 
-The present system operates at a fixed time \(t\), where:
+The present system operates at a fixed time $t$, where:
 
 $$ A_t = \{ \hat{s} \} $$
 
@@ -143,14 +165,14 @@ These operate at different levels and do not interact.
 
 ## Counterfactual Dependence
 
-For neighboring sites \(i,j\), define:
+For an updated site $i$ and a site $j$ in its local update stencil (including $i$), define:
 
 $s^{(j \leftarrow 0)}, \quad s^{(j \leftarrow 1)}$
 
 Let:
 
-- \(\hat{s}\) = update from \(s\)
-- \(\hat{s}^{(j \leftarrow v)}\) = update from perturbed configuration
+- $\hat{s}$ = update from $s$
+- $\hat{s}^{(j \leftarrow v)}$ = update from perturbed configuration
 
 
 ## Dependence Relation
@@ -167,7 +189,7 @@ $$ (i,j) \in D(s) \iff \exists v \in \{0,1\} \text{ such that } \hat{s}_i \ne \h
 
 ## Diachronic Dependence Relation
 
-Let persistence window \(k \ge 1\).
+Let persistence window $k \ge 1$.
 
 Define:
 
@@ -190,23 +212,23 @@ $$ L(t) = \{ i \in G \mid x_i(t)=1 \} $$
 
 ## Region Definition
 
-A region \( \Sigma(t) \subseteq G \) is a maximal subset such that:
+A region $\Sigma(t) \subseteq G$ is a maximal subset such that:
 
-1. \( \Sigma(t) \subseteq L(t) \)
-2. for all \(i,j \in \Sigma(t)\), there exists a path:
+1. $\Sigma(t) \subseteq L(t)$
+2. for all $i,j \in \Sigma(t)$, there exists a path:
 
 $$ i = i_0, \dots, i_n = j $$
 
 with:
 
-$$ (i_m, i_{m+1}) \in C_t $$
+$$ (i_m, i_{m+1}) \in C_t \quad\text{or}\quad (i_{m+1},i_m)\in C_t $$
 
-Connectivity is evaluated on the undirected interpretation of \(C_t\).
+Connectivity is evaluated on the undirected interpretation of $C_t$, with path vertices in the tested live subset.
 
 
 ## Internal and External Dependence
 
-For region \( \Sigma \):
+For region $\Sigma$:
 
 $$ C_t^{\mathrm{in}}(\Sigma) = C_t \cap (\Sigma \times \Sigma) $$
 
@@ -215,7 +237,7 @@ $$ C_t^{\mathrm{out}}(\Sigma) = C_t \cap (\Sigma \times \Sigma^c) $$
 
 ## Boundedness
 
-A region \( \Sigma(t) \) is bounded if:
+A region $\Sigma(t)$ is bounded if:
 
 
 ## Internal Dependence
@@ -230,8 +252,8 @@ $$ C_t^{\mathrm{out}}(\Sigma) = \varnothing $$
 
 ## Interpretation
 
-* internally sustained
-* no recent dependence on external cells
+* an internal dependence edge exists
+* no recorded outward-coordinate sensitivity to external cells in the chosen window; this is not operational self-sustainment or canonical ownership
 
 
 ## Projection of Admissible Futures
@@ -256,9 +278,7 @@ Let:
 
 $$ s' = \hat{s} $$
 
-Compute:
-
-$D(s'), \quad C(s')$
+Compute $D(s')$ from the next update. Here $C(s')$ abbreviates $C_{t+1}$ built from the realized history extended by $s'$. It is not a function of $s'$ alone when $k>1$. The window, available prehistory and startup policy must be supplied for a reproducible example.
 
 
 ## Region Continuation
@@ -277,7 +297,7 @@ $$ \Sigma'(t+1) = \text{maximal } C(s')\text{-connected set containing surviving
 
 ## Status
 
-The default model uses conservative continuation.
+The documented default uses conservative continuation. Recruitment is a proposed variant: it requires a rule for no survivors and for survivors in multiple connected components; it is not an implemented identity relation.
 
 
 ## Structural Closure Condition
@@ -301,8 +321,10 @@ Closure is evaluated relative to the region under consideration.
 
 That is:
 
-* evaluating \( \Sigma \) uses full dependence structure over \( \Sigma \)
-* evaluating subregions uses restricted dependence structure
+* internal connectivity uses the relation induced on the surviving cells of the tested region;
+* external independence uses the full $C_{t+1}$ and that region’s complement in $G$. Deleting boundary edges before testing external independence would make that test vacuous;
+* empty continuation is not a connected continuing region for this comparison;
+* $P$ depends on full successor/history context, suppressed in the compact $P(\Sigma,\hat{s}|_\Sigma)$ notation. It cannot in general be evaluated from the projected cell values alone.
 
 
 ## Implication
@@ -334,11 +356,11 @@ This set is:
 
 Non-decomposability does not arise from:
 
-* transition relation \(T\)
-* admissible futures \(A_t\)
-* projection \( \pi_{\Sigma}(A_t) \)
+* multiple transitions from the same complete input under $T$
+* admissible futures $A_t$
+* projection $\pi_{\Sigma}(A_t)$
 
-These all factorize trivially.
+The singleton successor projections factorize trivially; the update function can still couple neighboring cells.
 
 
 ## Correct Source
@@ -368,18 +390,18 @@ $$ \mathrm{Recombine}(A,B) = \{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in
 $$ A_t^{\mathrm{bd}}(\Sigma) \stackrel{?}{=} \mathrm{Recombine}(A,B) $$
 
 
-## Actual Result (Correct Interpretation)
+## Proposed GoL Witness
 
-There exist regions \( \Sigma \) such that:
+The proposed GoL witness must supply a region $\Sigma$ such that:
 
-* \( A_t^{\mathrm{bd}}(\Sigma) \ne \varnothing \)
+* $A_t^{\mathrm{bd}}(\Sigma) \ne \varnothing$
 * but:
   $$ A_t^{\mathrm{bd}}(A) = \varnothing \quad \text{or} \quad A_t^{\mathrm{bd}}(B) = \varnothing $$
 
 
 ## Interpretation
 
-> Closure predicates on projected continuations do not factor across subregions.
+> Under the proposed whole-success/subregion-failure premises, the filtered sets do not factor; those premises still need a computed Life witness.
 
 
 ## Mechanism
@@ -388,7 +410,7 @@ This occurs because:
 
 * closure depends on diachronic dependence relations
 * these relations include cross-boundary edges
-* restriction removes those edges
+* restriction changes which edges are internal; an edge across a subregion cut remains external when testing independence
 
 
 ## Conclusion
@@ -406,7 +428,7 @@ GoL dynamics
 -> projection (trivial)
 -> closure predicate (non-trivial)
 -> decomposition analysis
-````
+```
 
 
 ## What Is Not Claimed
@@ -416,13 +438,13 @@ This system does not:
 * introduce new causal forces
 * modify transition dynamics
 * produce multiple admissible futures
-* imply non-factorization of (A_t)
+* imply non-factorization of $A_t$
 * introduce probabilistic structure
 
 
-## What Is Demonstrated
+## Conditional Result and Open Witness
 
-> Deterministic dynamics can produce regions whose closure predicates - defined via diachronic dependence - do not decompose under restriction.
+> If a computed Life history satisfies the stated whole/subregion predicates, the filtered sets fail to decompose. Cross-boundary edges suggest a candidate but do not prove a GoL realization. The explicit witness is still required.
 
 
 ## Final Summary
@@ -437,7 +459,7 @@ This system does not:
 
 ## One-Line Definition
 
-> This model is standard Game of Life equipped with a diachronic dependence structure in which closure predicates on projected continuations fail to factor under restriction.
+> This model is standard Game of Life equipped with a diachronic dependence structure in which closure predicates on projected continuations are tested for failure to factor under restriction.
 
 
 ## End of Document

@@ -26,14 +26,14 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: 10.11.5
+  version: 10.11.6
 ---
 
 # Intrinsic Closure
 
 ## Non-Factorizable Continuation at and Across Frontiers
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Structural Clarification · Non-Normative · Canon-Constrained*
 
 ## Reader Notice
@@ -126,6 +126,39 @@ $$ A(s)=A_1(s_1)\times A_2(s_2). $$
 
 If each block admits two successors and all four cross-combinations remain
 globally available, the successor support factorizes across that partition.
+
+### Worked Common-Fibre Comparison
+
+Fix two physically meaningful blocks and one frontier. Let the labels
+$A1,A2$ and $B1,B2$ denote their projected physical successor configurations.
+In the product case, the global support is:
+
+$$ A(s)=\{A1B1,A1B2,A2B1,A2B2\}. $$
+
+Projection of this support gives $F_1(s)=\{A1,A2\}$ and
+$F_2(s)=\{B1,B2\}$. Their product reconstructs exactly the four global
+successors. Each block alternative can combine with either alternative of
+the other block under this stated support.
+
+In a separate comparison case at the same declared physical typing, suppose
+the support instead is:
+
+$$ A(s)=\{A1B1,A2B1,A2B2\}. $$
+
+Projecting this three-successor support still gives the same two local sets:
+$A1$ occurs with $B1$, and $B2$ occurs with $A2$. Their product also contains
+$A1B2$, but that recombination is absent globally. Thus local availability of
+each component does not establish availability of their joint configuration.
+The problem fails to factor across this cut even though several successors
+remain reachable and both projections remain meaningful.
+
+These are stipulated support comparisons, not a physical intervention that
+simply deletes an abstract pair. An investigation must justify the physical
+availability and unavailability of the combinations under its lawful relation
+and interventions. No probability weights or frequency estimates enter the
+comparison. The example is the same bounded distinction illustrated in
+*Coherence*, Appendix A; it proves non-factorization only across the stated
+partition. The exhaustive condition below remains required.
 
 ## Non-Factorizable Reachability
 

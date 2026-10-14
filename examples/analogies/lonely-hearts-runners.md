@@ -4,13 +4,9 @@
 
 ## Status, Scope, and Authority
 
-This example is illustrative and non-normative.
+This non-canonical example follows a stipulated playing-card ranking rule. It preserves the distinction between a coherent assignment, limited capacity, a capacity conflict, and a revised rule. It defines no IER primitive, threshold, attribution test, or experiential subject.
 
-It introduces no new IER primitives, criteria, diagnostics, thresholds, or authority. Its purpose is to provide an intuitive example of slack, saturation, constraint propagation, coherence, and regime reorganization using a simple social ranking system.
-
-The Lonely Hearts Runners are not a Unified Experiential Field (UEF), and this article is not about consciousness, intrinsic closure, ownership, collapse, or any other UEF-specific concepts. Instead, it examines a more general constrained system. The example shows how a system can absorb disturbance while slack remains available, how increasing coupling compresses slack, how saturation occurs when all available degrees of freedom within a regime have been exhausted, and how continued growth eventually forces a choice between reorganization and incoherence.
-
-The goal is not to model UEF formation. The goal is to build intuition for the structural concepts of slack and saturation that appear throughout the theory.
+Card capacity is not canonical informational slack. [Slack](https://github.com/mlehotay/ier/blob/main/IER/IER-slack.md) asks whether the same physically typed burden can be completed through a local, deferred, or external pathway preserving independence. [Saturation](https://github.com/mlehotay/ier/blob/main/IER/IER-saturation.md) means exhaustion of those pathways, not fullness of a symbolic register. Propagating a rank update supplies neither that exhaustion nor the full relation stack.
 
 ## The Club Rule
 
@@ -44,13 +40,9 @@ If someone improves, ranks can shift.
 
 If someone leaves, the structure can adjust.
 
-The system has slack because local changes can be absorbed without forcing reorganization of the governing rule.
+The assignment has spare capacity for another entrant under the Hearts-only rule. “Slack” here is ordinary organizational language.
 
-In IER terms, slack concerns the local absorbability of constraint.
-
-The unused Hearts are not themselves slack.
-
-They are evidence that local resolution pathways remain available.
+Unused labels do not demonstrate a physically available independence-preserving resolution pathway. A new fast entrant may require updates to many labels even while spare capacity remains.
 
 The ranking system can still accommodate disturbance while preserving its existing structure.
 
@@ -78,15 +70,9 @@ The club remains coherent.
 
 Every card still maps uniquely to a runner.
 
-But the system has become increasingly coupled.
+The update propagates through everyone ranked below the entrant. That can happen at eight runners as well as twelve; propagation depends on insertion rank and implementation, not just unused-card count.
 
-Changes propagate farther.
-
-Disturbances affect more identities.
-
-The remaining slack is shrinking.
-
-Constraint is becoming increasingly difficult to absorb locally.
+Spare label capacity is shrinking. Update effort and number of affected singlets can also change, but they are different quantities. None determines intrinsic closure, physical ownership, or subject identity.
 
 ## Saturation
 
@@ -94,7 +80,7 @@ Now the thirteenth Heart is assigned.
 
 The Hearts suit is full.
 
-At this point, the system reaches saturation.
+At this point, the thirteen distinct Hearts labels are exhausted.
 
 Every available position within the existing regime is occupied.
 
@@ -108,15 +94,13 @@ The regime remains fully coherent.
 
 Saturation is not incoherence.
 
-Saturation is the final coherent state available within the existing organizational structure.
+Capacity saturation here concerns adding another simultaneously ranked runner while retaining unique Hearts labels. It is not the final possible state: the same thirteen runners can still reorder, someone can leave, and assignments can change.
 
-The Hearts-only system has exhausted its slack.
-
-No further growth can be absorbed without changing something more fundamental.
+A fourteenth simultaneous rank cannot be encoded injectively by thirteen labels. This finite counting result establishes neither canonical saturation nor a lack of physically admissible successors.
 
 The regime still works.
 
-It simply has no remaining degrees of freedom.
+It has no unused distinct Heart for an additional simultaneous rank. Other changes remain possible.
 
 ## The Fork Beyond Saturation
 
@@ -124,9 +108,7 @@ Saturation does not immediately produce failure.
 
 Instead, it creates a fork.
 
-The next disturbance can no longer be absorbed within the existing rule.
-
-The system now faces two possibilities:
+Under the further stipulation that a fourteenth runner must be admitted immediately and every rank must stay uniquely displayed, the Hearts-only rule cannot satisfy the demand. Two illustrative responses are:
 
 ```text
         saturated regime
@@ -145,7 +127,7 @@ This distinction is critical.
 
 Saturation is not failure.
 
-It is the boundary at which further continuation requires a choice.
+It marks incompatibility between those stipulated demands. The club could also limit membership, delay admission, rotate runners, or abandon card ranking. Those are outside the two illustrated responses; no exhaustive physical fork or inner selector is established.
 
 ## Rank Conflict
 
@@ -228,7 +210,7 @@ It also creates new governance questions:
 * Do suits represent divisions, cohorts, or tiers?
 * Can runners move between suits?
 
-The new regime solves the saturation problem.
+The new rule supplies more labels if the suit ordering is specified.
 
 But it must establish new rules to preserve coherence.
 
@@ -242,19 +224,11 @@ The Hearts-only regime remained saturated.
 
 Instead, a new regime was created.
 
-That new regime possesses its own degrees of freedom.
-
-Its own local resolution pathways.
-
-Its own slack.
+The revised assignment has its own label capacity and permitted updates. This does not establish new independence-preserving physical resolution pathways.
 
 This distinction matters.
 
-Slack belongs to a regime.
-
-When a regime saturates, its slack is exhausted.
-
-Reorganization creates a different regime with different possibilities.
+Capacity is relative to the stated rule and demand. Changing the rule changes the assignment possibilities. Canonical slack instead remains relative to the actual restriction, candidate, grain, interventions, and interval.
 
 ## Coherence and Slack
 
@@ -272,9 +246,7 @@ The Hearts-only club at eight runners is coherent and slack-rich.
 
 These are different structural states.
 
-Coherence concerns preservation of distinctions.
-
-Slack concerns the absorbability of constraint.
+Assignment coherence here means each displayed card identifies one rank under the declared rule. Spare capacity means another rank can receive an unused label. Neither term establishes canonical experiential coherence or informational slack.
 
 They often interact.
 
@@ -282,53 +254,20 @@ They are not identical.
 
 ## Everyday Compression
 
-The Lonely Hearts Runners illustrate several IER concepts in ordinary terms.
+The comparison keeps each role bounded:
 
-| Club Feature                      | IER Concept                         |
-| --------------------------------- | ----------------------------------- |
-| Unused Hearts                     | Available local resolution pathways |
-| Ability to absorb rank changes    | Slack                               |
-| Increasing propagation of changes | Slack compression                   |
-| Full Hearts suit                  | Saturation                          |
-| Duplicate card assignments        | Coherence failure                   |
-| Adding Diamonds                   | New degree of freedom               |
-| Hearts to Hearts + Diamonds       | Regime transition                   |
-| Suit-ordering questions           | Governance                          |
+| Club feature | What the example establishes | What remains separate |
+| --- | --- | --- |
+| Unused Hearts | Capacity for additional unique ranks | Independence-preserving physical resolution |
+| A fast entrant shifts lower ranks | Propagation of an assignment update | Non-product successor support |
+| Thirteen simultaneous ranks | A full but coherent injective assignment | Canonical saturation and UEF qualification |
+| Fourteenth rank under the same labels | Incompatible fixed counting demands | Collapse or experiential failure |
+| Ordered Hearts plus Diamonds | Revised representational capacity | Produced-and-inherited subject continuity |
 
-Nothing mystical is happening.
-
-A simple symbolic system is attempting to preserve distinctions under increasing pressure.
-
-At first, disturbance can be absorbed locally.
-
-As available degrees of freedom disappear, propagation increases.
-
-Eventually the regime saturates.
-
-At saturation, the system remains coherent but possesses no remaining slack.
-
-Further growth forces a choice between incoherence and reorganization.
+[Groups](../../IER/IER-groups.md) and [Social Systems](../../IER/IER-social-systems.md) own the distinction between coordination and independently qualifying collective experience. This card example supplies no collective attribution. A descriptive organizational transition changes the rule; it need not be canonical irreversible foreclosure.
 
 ## Final Compression
 
-The Lonely Hearts Runners begin with a coherent regime containing substantial slack.
+Eight runners can be assigned unique Hearts with five labels unused. Thirteen exhaust the labels while remaining uniquely ranked. A fourteenth simultaneous rank conflicts with a fixed thirteen-label rule. Adding Diamonds can restore unique display if a new ordering is defined; restricting admission is another possible response.
 
-Growth compresses that slack.
-
-At saturation, all available degrees of freedom within the regime have been exhausted.
-
-The regime remains coherent.
-
-The next increment creates a fork.
-
-Either distinctions are sacrificed and coherence fails, or the regime reorganizes and new degrees of freedom are introduced.
-
-In compressed form:
-
-> Slack is the capacity to absorb constraint within an existing regime.
->
-> Saturation is the exhaustion of that capacity.
->
-> Saturation is not incoherence.
->
-> It is the final coherent state available before further growth requires either reorganization or failure.
+This preserves the useful contrast between capacity exhaustion and failure of distinctions. It is a bounded counting and rule-change example. It neither identifies canonical informational saturation nor turns a club, its coordinated members, or a symbolic ranking into one UEF.

@@ -22,7 +22,7 @@ It is not a shortened name for IER.
 
 ### Informational Structural Realism
 
-Informational Structural Realism (ISR) is associated with Luciano Floridi and the philosophy of information.
+Informational Structural Realism (ISR) is associated with Luciano Floridi and the philosophy of information; see his [primary paper](https://doi.org/10.1007/s11229-007-9163-z).
 
 It predates IER and is a separate theory.
 
@@ -40,7 +40,7 @@ None of these uses should be assumed to refer to IER.
 
 ### Processual Experiential Realism
 
-Processual Experiential Realism is a separate theory developed from an experiential-realist ontology.
+Processual Experiential Realism is the name of a separate framework by Kwan Hong Tan; see the [author's text](https://philpapers.org/archive/TANPER.pdf). This notice distinguishes names rather than evaluating that framework.
 
 It is not a variant or extension of IER.
 

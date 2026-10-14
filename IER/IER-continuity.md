@@ -26,7 +26,7 @@ ier:
   - temporal_persistence
   category: temporal_continuity
   filename: IER-continuity.md
-  version: 10.11.5
+  version: 10.11.6
   requires:
     hard:
     - IER-specification
@@ -58,7 +58,7 @@ ier:
 
 ## Produced Successors, Inherited History, and Token Continuity
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -87,6 +87,23 @@ Time-indexed physical descriptions remain possible; no additional container,
 stored present, or stitching observer is needed. Temporal asymmetry can involve
 inherited irreversible effects without fresh foreclosure at every successor.
 Clinical and sleep labels alone establish neither presence nor absence of a UEF.
+
+## Why Continuity Requires an Extended Operation
+
+A configuration describes an organization at a stated stage. By itself it
+contains no relation showing that another stage was produced by that operation.
+A sequence of similar configurations therefore leaves open whether one process
+continued, another copied it, or a cessation separated two reconstructions.
+The question of flow requires an account of the physical transition itself.
+
+This distinguishes three explanatory questions: what makes an extended present
+possible, what connects successive stages as one token, and what can remain
+when that token ceases. A non-zero coherence window addresses the first;
+produced and inherited adjacency addresses the second; retained substrate and
+capacity address the third. No privileged instantaneous present or stored
+experience is needed. Clock-indexed descriptions and lawful deterministic
+succession remain compatible with this account; neither alone supplies the
+qualifying continuity relation.
 
 ## Distinct Physical Relations
 
@@ -153,6 +170,26 @@ A genuine UEF-null interval is sufficient for cessation, but not necessary:
 failure of production, inheritance, membership-mediated change, or uniqueness
 can end a token even without a system-wide experiential gap. Reconstruction,
 replay, resemblance, or retained capacity cannot bridge that failure.
+
+### Why Each Adjacency Clause Matters
+
+The clauses exclude different ways in which similar endpoints can fail to be
+one continuing operation:
+
+| Clause | Contrast it resolves |
+| --- | --- |
+| Continuous owned closure | Qualifying endpoints separated by a gap do not sustain operation across that gap. |
+| Operational production | An externally installed successor can resemble the earlier organization without being produced by it. |
+| Typed inheritance | A copied record or generic dependence on an earlier state does not show that physically effective irreversible consequence was carried through the actual transition. |
+| Operation-mediated change | Shared matter or gradual replacement does not establish that recruitment, release, and boundary changes occurred within the same owned organization. |
+| Two-sided uniqueness | Shared causal history cannot assign one earlier token to several successors, or several earlier tokens to one successor. |
+
+Successor uniqueness alone would leave convergence unresolved; predecessor
+uniqueness alone would leave branching unresolved. Both directions are needed
+within the independently fixed comparison domain. An asymmetric change can
+preserve one token only where exactly one continuation meets the full relation.
+These exclusions concern numerical identity, rather than degrees of likeness
+or the quality of remembered continuity.
 
 ## Unified Experiential Fields as Temporal Regimes
 
@@ -262,6 +299,31 @@ its name establish high-cost experience, and responsiveness does not certify
 continuity. A local regime pattern can fail or change while qualifying UEF
 operation continues. Actual qualifying interruption cannot be bridged by
 latent capacity or later recall.
+
+### Three Conditional Continuation Comparisons
+
+First, suppose a qualifying operation continues while matter turns over,
+participation changes, and recall is absent. The earlier organization still
+produces the later one; effective inherited consequence remains instantiated;
+change occurs through the operation; and the qualifying successor and
+predecessor are unique. All five clauses hold. The changing configurations
+belong to one token even without a remembered narrative joining them.
+
+Second, suppose qualifying operation genuinely ceases, but its substrate and
+capacity remain. Later dynamics can produce an organization resembling the
+earlier one, perhaps with inherited records or apparent recall. Continuous
+owned closure failed across the intervening interval. The later qualifying
+operation is a new token; preserved records and capacity explain how it can
+occur without restoring the earlier token's numerical identity.
+
+Third, suppose no system-wide UEF-null interval is established, yet one earlier
+operation has two equally qualifying candidate successors under clauses 1 - 4.
+The unique-successor clause fails. Conversely, if two equally qualifying
+predecessors converge, unique-predecessor continuity fails. Experiential
+operation somewhere in the physical system therefore does not suffice to
+continue the earlier token. These are stipulated relation comparisons, not
+clinical diagnoses. Sleep, anesthesia, unresponsiveness, or recovered behavior
+alone decides none of them.
 
 ## Cessation, Null Intervals, and Capacity
 

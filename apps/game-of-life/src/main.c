@@ -30,7 +30,9 @@ int main(int argc, char **argv) {
         app_poll_input(&app);
         app_update(&app);
 
-        if (app.needs_redraw || app.resized) {
+        /* A failed size query leaves the old layout unverified. Retry before
+           drawing so an already-shrunken terminal is not given stale bounds. */
+        if (!term_resize_pending && (app.needs_redraw || app.resized)) {
             ui_draw_frame(&app);
             app.needs_redraw = 0;
             app.resized = 0;

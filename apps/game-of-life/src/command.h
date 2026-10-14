@@ -10,6 +10,7 @@ typedef struct {
     char buf[CMD_BUF_CAP];
     int len;
     int cursor;
+    int overflow; /* reject the whole command if editor input exceeded capacity */
     char message[CMD_BUF_CAP];
 } CommandLine;
 

@@ -35,13 +35,13 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: v10.11.5
+  version: v10.11.6
 ---
 
 # Processes
 ## Constraint Processes and Constitutive Participation
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Explanatory Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -372,6 +372,37 @@ role within the stated regime.
 The beaker example does not establish a UEF. It isolates the physical
 difference between endogenous interlock and external coupling.
 
+
+### Applying the Membership Questions to the Resource Loop
+
+For the same stipulated beaker candidate, resource interlock supplies a
+starting comparison rather than a membership verdict. Each clause requires
+its own physical justification over the same declared interval:
+
+| Clause | Question within the candidate loop |
+| --- | --- |
+| Contribution | Do differences in regeneration and transport alter the reaction organization's admissible continuation, rather than only supply an independently completed input? |
+| Global bearing | Does the candidate's joint restriction constrain the resource process's own continuation, rather than leave it independently settled by an external supplier? |
+| Joint resolution | Are resource and reaction alternatives settled through one non-externalizable organization, or can each be completed independently and joined at an interface? |
+| Diachronic uptake | Do the resulting ATP/ADP changes enter physical production of later organization, rather than merely correlate with a later measurement? |
+| Common typing | Do all four findings concern the same operation, restriction, variables, grain, interventions, and interval? |
+
+The endogenous loop explains why both directions matter: resource processes
+alter the reaction's possibilities, while reaction consequences alter the
+resource processes' later possibilities. Those arrows motivate the inquiry;
+they do not establish global bearing or non-externalizable joint resolution.
+The surrounding heat bath can also exchange effects in both directions while
+settling its relevant continuation independently.
+
+A replacement comparison must preserve the relevant alternatives and
+interventions, not merely replay the observed concentration sequence. If an
+interface must reproduce the removed joint resource dynamics to supply those
+alternatives, the resolver has been moved rather than shown unnecessary. If
+independently completed supply preserves the retained organization without
+that joint resolution, the supplier is external for the tested restriction.
+Generic removal can destroy either support or membership and does not decide
+which relation obtained beforehand. This illustration adds no physical
+membership oracle or experiential attribution.
 
 ## Why Constitutive Participation Must Be Bilateral
 

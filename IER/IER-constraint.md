@@ -8,7 +8,7 @@ ier:
   category: foundations
   status: canonical
   filename: IER-constraint.md
-  version: 10.11.5
+  version: 10.11.6
   provides: []
   requires:
     hard:
@@ -32,7 +32,7 @@ ier:
 
 ## Constraint as Lawful Restriction on Admissible Continuation
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T1 · Foundational Clarification · Canon-Constrained · Non-Normative*
 
 ## Status, Scope, and Authority
@@ -183,6 +183,12 @@ The structural relation is therefore:
 
 Constraint exists independently of informational structure.
 
+## A Restricted Continuation Without a Chooser
+
+Consider a declared two-component model with binary successor coordinates. Suppose the physical baseline permits `00`, `01`, `10`, and `11`, while an independently specified coupling prevents `11` at the same frontier and grain. Operative support is then `00`, `01`, `10`. Both components can individually take either value, yet their projected alternatives cannot be freely recombined. The coupling is part of the physical conditions; crossing out an edge on paper would not create it.
+
+If the actual successor is `01`, its occurrence describes lawful continuation under that restriction. It does not demonstrate a new irreversible foreclosure of `00` or `10`. Nor does the missing combination establish ownership or experience. The same-fibre comparison below answers a narrower structural question; a larger candidate requires every independently meaningful partition to be assessed.
+
 ## Constraint and Intrinsic Closure
 
 Constraint exists wherever physical law restricts continuation.
@@ -195,13 +201,13 @@ For two physically meaningful subsystem blocks, the following is a pedagogical c
 
 ### Intrinsic closure condition
 
-$$ A(s) \neq A_A(s_A) \times A_B(s_B) $$
+$$ A(s) \neq \pi_A(A(s)) \times \pi_B(A(s)) $$
 
 In such regimes:
 
 * subsystem continuations constrain one another
 * admissible futures form a single integrated structure
-* the regime cannot be decomposed into independent dynamics.
+* independently recombining projected successors would admit continuations unavailable to the whole at the tested frontier.
 
 Constraint therefore permits closure but does not imply it.
 
@@ -209,11 +215,7 @@ The projected successor supports must come from the same global outgoing fibre. 
 
 ## Constraint and Incompatibility
 
-When intrinsic closure holds, subsystem continuations cannot vary independently.
-
-Some combinations of subsystem continuations become jointly unsustainable.
-
-This produces incompatibility.
+When intrinsic closure holds, some recombinations of projected subsystem successors are unavailable to the whole. That is a restriction on which joint successors can occur. It is distinct from whether several individually reachable alternatives can remain jointly sustainable as the operation proceeds. The first relation alone does not establish the second.
 
 Incompatibility occurs when:
 

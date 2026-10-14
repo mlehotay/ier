@@ -3,8 +3,11 @@
 #include "app.h"
 
 #include "term.h"
+#include "cells.h"
+#include "cli.h"
 
 #include <stdio.h>
+#include <limits.h>
 #include <string.h>
 #include <time.h>
 #include <unistd.h>
@@ -42,24 +45,11 @@ static void app_update_terminal_small_flag(App *app) {
 static void app_init_defaults(App *app) {
     if (!app) return;
 
-    app->startup.width = 0;
-    app->startup.height = 0;
-    app->startup.seed = 42u;
-    app->startup.delay_ms = 100;
-    app->startup.toroidal = 1;
-    app->startup.mode = STARTUP_RANDOM;
-    app->startup.pattern_name[0] = '\0';
-    app->startup.load_path[0] = '\0';
-
-    app->placement.centered = 1;
-    app->placement.has_xy = 0;
-    app->placement.x = 0;
-    app->placement.y = 0;
+    cli_startup_defaults(&app->startup);
 
     app->paused = 0;
     app->running = 1;
     app->show_stats = 1;
-    app->show_help = 0;
     app->needs_redraw = 1;
     app->resized = 0;
     app->terminal_too_small = 0;
@@ -71,39 +61,69 @@ static void app_init_defaults(App *app) {
 static int app_apply_startup_initializer(App *app) {
     if (!app) return -1;
 
-    /* gol-01/gol-02 policy: random startup remains the only active
-       initializer. Pattern/load modes are represented in state now and wired
-       later. Recompute stats after any non-step mutation of world state. */
+    /* Exactly one source initializes a fresh board; seed applies only to random. */
     world_clear(&app->world);
-
-    if (app->startup.mode == STARTUP_RANDOM) {
-        world_randomize(&app->world, app->startup.seed);
+    CellsPattern owned = {0};
+    Pattern view;
+    const Pattern *pattern = NULL;
+    switch (app->startup.mode) {
+        case STARTUP_RANDOM:
+            world_randomize(&app->world, app->startup.seed);
+            break;
+        case STARTUP_PATTERN:
+            pattern = pattern_lookup(app->startup.pattern_name);
+            if (!pattern) {
+                fprintf(stderr, "error: unknown pattern '%s'\n", app->startup.pattern_name);
+                return -1;
+            }
+            break;
+        case STARTUP_LOAD: {
+            CellsError error;
+            if (cells_load(app->startup.load_path, &owned, &error) != CELLS_OK) {
+                char detail[640];
+                cells_format_error(app->startup.load_path, &error, detail, sizeof(detail));
+                fprintf(stderr, "error: Load failed: %s\n", detail);
+                cells_pattern_destroy(&owned);
+                return -1;
+            }
+            view = (Pattern){app->startup.load_path, owned.cells, owned.count, owned.width, owned.height};
+            pattern = &view;
+            break;
+        }
+        default:
+            fprintf(stderr, "error: invalid startup mode\n");
+            return -1;
+    }
+    if (pattern) {
+        PatternPlaceResult result = pattern_apply(&app->world, pattern, &app->placement);
+        cells_pattern_destroy(&owned);
+        if (result != PATTERN_PLACE_OK) {
+            char source[256];
+            snprintf(source, sizeof(source), "%s", pattern->name);
+            for (char *p = source; *p; ++p) {
+                if ((unsigned char)*p < 32 || (unsigned char)*p >= 127) *p = '?';
+            }
+            fprintf(stderr, "error: %s World is %dx%d; pattern is %dx%d; source '%s'.\n",
+                    pattern_place_message(result), app->world.w, app->world.h, pattern->width, pattern->height, source);
+            return -1;
+        }
     }
 
-    app->generation = 0;
-    app_recompute_world_stats(app);
     return 0;
 }
 
-int app_init(App *app, const StartupConfig *startup) {
-    if (!app) return -1;
-    memset(app, 0, sizeof(*app));
-
-    app_init_defaults(app);
-
-    if (startup) {
-        app->startup = *startup;
-    }
-
-    cmd_init(&app->cmd);
-
+static int app_create_startup_world(App *app) {
+    /* Resolve geometry before allocation; failed startup queries retain the
+       established default geometry, independently of partial query outputs. */
     int term_w = 80;
     int term_h = 24;
-    term_get_size(&term_w, &term_h);
+    if (term_get_size(&term_w, &term_h) != 0) {
+        term_w = 80;
+        term_h = 24;
+    }
     ui_layout_compute(&app->layout, term_w, term_h);
-    app_update_terminal_small_flag(app);
 
-    /* gol-01 policy: the world is the visible board. There is no off-screen
+    /* gol-0001 policy: the world is the visible board. There is no off-screen
        world and no panning. Terminal resize changes world dimensions. */
     int world_w = app_grid_world_width(app);
     int world_h = app_grid_world_height(app);
@@ -120,15 +140,34 @@ int app_init(App *app, const StartupConfig *startup) {
         return -1;
     }
 
-    if (world_init(&app->world, world_w, world_h, app->startup.toroidal) != 0) {
+    if (world_init(&app->world, world_w, world_h, 0) != 0) {
+        fprintf(stderr, "error: cannot allocate startup world\n");
         return -1;
     }
+    return 0;
+}
 
+int app_init(App *app, const StartupConfig *startup) {
+    if (!app) return -1;
+    memset(app, 0, sizeof(*app));
+    app_init_defaults(app);
+    if (startup) app->startup = *startup;
+    app->placement = app->startup.placement;
+    app->placement.centered = !app->placement.has_xy;
+    cmd_init(&app->cmd);
+
+    /* main parses CLI first; resolve/create, apply topology, select exactly
+       one source, then finalize statistics and layout state before TTY setup. */
+    if (app_create_startup_world(app) != 0) return -1;
+    app->world.toroidal = app->startup.toroidal;
     if (app_apply_startup_initializer(app) != 0) {
         world_destroy(&app->world);
         return -1;
     }
-
+    app->generation = 0;
+    app_recompute_world_stats(app);
+    app_update_terminal_small_flag(app);
+    app->needs_redraw = 1;
     return 0;
 }
 
@@ -139,13 +178,21 @@ void app_destroy(App *app) {
 
 void app_handle_resize(App *app) {
     if (!app) return;
-    if (!term_resize_pending) return;
+    if (!term_resize_pending && !app->world_resize_pending) return;
 
     term_resize_pending = 0;
 
     int term_w = 0;
     int term_h = 0;
-    if (term_get_size(&term_w, &term_h) != 0) return;
+    if (term_get_size(&term_w, &term_h) != 0) {
+        term_resize_pending = 1;
+        return;
+    }
+
+    /* SIGWINCH can arrive without a geometry change. In particular, leave an
+       explicitly smaller startup world alone until the terminal really changes. */
+    if (!app->world_resize_pending && term_w == app->layout.screen_w &&
+        term_h == app->layout.screen_h) return;
 
     ui_layout_compute(&app->layout, term_w, term_h);
     app_update_terminal_small_flag(app);
@@ -156,9 +203,20 @@ void app_handle_resize(App *app) {
 
     if (new_w != app->world.w || new_h != app->world.h) {
         if (world_resize(&app->world, new_w, new_h) != 0) {
-            cmd_set_message(&app->cmd, "Resize failed.");
+            app->world_resize_pending = 1;
+            cmd_set_message(&app->cmd, "Resize failed; retrying.");
         } else {
+            app->world_resize_pending = 0;
             app_recompute_world_stats(app);
+            if (strcmp(app->cmd.message, "Resize failed; retrying.") == 0) {
+                app->cmd.message[0] = '\0';
+            }
+        }
+    } else {
+        /* A later window change can return to the retained world's dimensions. */
+        app->world_resize_pending = 0;
+        if (strcmp(app->cmd.message, "Resize failed; retrying.") == 0) {
+            app->cmd.message[0] = '\0';
         }
     }
 
@@ -203,7 +261,7 @@ void app_handle_key(App *app, int ch) {
             app->needs_redraw = 1;
             break;
         case 'n':
-            if (app->paused) {
+            if (app->paused && !app->world_resize_pending && !term_resize_pending) {
                 world_step(&app->world, &app->last_step);
                 app->generation++;
                 app->needs_redraw = 1;
@@ -226,7 +284,8 @@ void app_handle_key(App *app, int ch) {
             app->needs_redraw = 1;
             break;
         case '-':
-            app->startup.delay_ms += 10;
+            app->startup.delay_ms = app->startup.delay_ms > INT_MAX - 10 ?
+                                    INT_MAX : app->startup.delay_ms + 10;
             app->needs_redraw = 1;
             break;
         case ':':
@@ -256,6 +315,8 @@ void app_poll_input(App *app) {
 void app_update(App *app) {
     if (!app) return;
     if (app->terminal_too_small) return;
+    if (app->world_resize_pending) return;
+    if (term_resize_pending) return;
 
     if (!app->paused) {
         world_step(&app->world, &app->last_step);

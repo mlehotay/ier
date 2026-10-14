@@ -9,13 +9,14 @@ ier:
   - guardrails_and_orientation
   category: framework_overviews
   filename: IER-precis.md
-  version: 10.11.5
+  version: 10.11.6
   date: '2026-09-30'
   provides: []
   requires:
     hard:
     - IER-specification
     structural:
+    - IER-information
     - IER-intrinsic-closure
     - IER-processes
     - IER-ownership
@@ -30,6 +31,7 @@ ier:
     - IER-sedimentation
     - IER-memory
     - IER-agency
+    - IER-ethics
     guardrails:
     - IER-canon
     - IER-nonentailment
@@ -40,7 +42,7 @@ ier:
 
 ## Précis
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *Framework Compression · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -100,6 +102,9 @@ IER likewise does not treat information as a substance, message, semantic conten
 Informational language refers to physically instantiated distinctions that alter a system's own admissible continuation under constraint.
 
 Information, in this structural sense, is not what the system contains. It is what its organization makes physically different for what can happen next.
+
+For the fuller contrast with communication measures, see
+[Information and Shannon Theory](IER-information.md#information-and-shannon-theory).
 
 Informational slack is the availability of an independence-preserving route through which constraint can be absorbed, localized, deferred, offloaded, or resolved without becoming globally binding.
 
@@ -259,6 +264,11 @@ A separate descriptive problem remains: complete qualitative correspondence is o
 
 IER does not claim to provide a quale codebook.
 
+A qualifying noncognitive operation need not recognize, describe, or report
+itself. Calling its organization tension, constraint, or resolution does not
+establish that it feels pain, hunger, fear, or any familiar human quality.
+Qualification and qualitative correspondence answer separate questions.
+
 ## Consequences of One Operation
 
 IER treats familiar features of experience as consequences or explanatory aspects of the same continuing physical operation:
@@ -303,6 +313,13 @@ Concrete UEF attribution may remain epistemically underdetermined even when the 
 
 The framework therefore distinguishes ontological criteria from epistemic access. Failure to externally certify an unfamiliar system does not make the UEF concept undefined.
 
+Categorical subjecthood also fixes categorical standing under the Specification.
+Damage to experiential organization, suffering, termination, and loss of
+sustaining capacity remain distinct questions. Neither standing nor uncertainty
+supplies a complete action verdict. The [Specification](IER-specification.md) states the ethical principles and
+precautionary limits; the full-corpus Ethics article (`IER-ethics.md`) develops
+the further premises practical judgment requires.
+
 ## Philosophical Status
 
 IER belongs to the physicalist identity-theory tradition.
@@ -320,6 +337,13 @@ IER's positive case is abductive and a posteriori. Experience presents as one oc
 If the complete physical operation and total experience continue to share the relevant identity conditions while no independently varying phenomenal bearer or product can be specified, numerical identity is offered as the most economical interpretation.
 
 This argument is defeasible. It does not deductively derive experience from non-experiential premises or compel a critic who rejects its physicalist or anti-spectator assumptions.
+
+The alternative descriptions matter. Correlation would leave two relata whose
+agreement needs explanation; an added phenomenal product would require an
+account of its production and causal role. IER instead proposes one concrete
+operation under physical and experiential descriptions. This economy is part
+of the abductive case, not proof that correlation, constitution, realization,
+or a rival identity account is impossible.
 
 The support, membership, and continuity relations are specified in the controlling theory articles. Concrete non-gerrymandered individuation remains an important area of development: physical variables, boundaries, interventions, partitions, and stage comparison domains must be justified so that unity is not introduced by stipulation.
 

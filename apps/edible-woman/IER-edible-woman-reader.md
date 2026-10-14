@@ -12,7 +12,7 @@ ier:
   canonical: false
   canonical_authority: none
   filename: IER-edible-woman-reader.md
-  version: 10.11.3
+  version: 10.11.6
   provides:
     - non-specialist introduction to the IER reading of The Edible Woman
     - translation of IER concepts into literary and psychological language
@@ -34,7 +34,7 @@ ier:
 
 ## A Reader’s Guide to the IER Analysis of *The Edible Woman*
 
-**Informational Experiential Realism (IER v10.11.3)**
+**Informational Experiential Realism (IER v10.11.6)**
 
 *Tier 4 · Companion Reader · Draft · Non-Normative · Non-Canonical*
 
@@ -71,7 +71,7 @@ flowchart TD
 
 This diagram states the article’s proposed interpretive arc. It is not presented as a demonstrated clinical mechanism.
 
-# 1. Three Levels of Claim
+## 1. Three Levels of Claim
 
 The easiest way to misread the article is to collapse three different kinds of statement.
 
@@ -87,9 +87,9 @@ For example, the novel depicts Marian’s body or stomach as if it has taken an 
 
 Likewise, Marian explicitly calls the cake a substitute. That textual fact supports an analysis of substitution. It does not by itself prove the article’s broader hypothesis that her inability to consume substitutes for an inability to refuse being consumed. That remains a proposed explanation of the pattern.
 
-# 2. The Minimum IER Needed for This Article
+## 2. The Minimum IER Needed for This Article
 
-## 2.1 IER is a proposed physical identity theory of experience
+### 2.1 IER is a proposed physical identity theory of experience
 
 IER begins with a philosophical claim about what experience is. It proposes that experience is identical with the operation of a physical system under a particular kind of globally integrated, internally borne constraint. It calls such an organization a **Unified Experiential Field**, or **UEF**.
 
@@ -100,9 +100,9 @@ This base ontology is not established by *The Edible Woman*. The novel is used a
 1. Does the proposed reading illuminate Marian’s trajectory?
 2. Is IER’s underlying identity theory of experience correct?
 
-An answer to the first does not settle the second.
+An answer to the first does not settle the second. The article’s [current-premise explanation](IER-edible-woman.md#current-ier-premises-and-literary-limits) supplies the independently typed closure, ownership, all-five membership and all-five continuity conditions. One continuing Marian is stipulated for the literary reading; no depicted behaviour or narrative form verifies those physical relations.
 
-## 2.2 “Constraint” does not mean repression or external pressure alone
+### 2.2 “Constraint” does not mean repression or external pressure alone
 
 In ordinary literary and psychological language, constraint often means prohibition, oppression, inhibition, or social limitation. IER uses the term more broadly and more physically. A constraint is a restriction on how a system can continue from its present organization.
 
@@ -110,7 +110,7 @@ Some constraints in the novel are plainly social: expectations surrounding marri
 
 IER’s point is not that all these constraints are the same. It is that their effects meet in one continuing subject and jointly shape what remains practically available.
 
-## 2.3 There is no inner executive standing outside experience
+### 2.3 There is no inner executive standing outside experience
 
 IER does not picture the person as a conscious executive receiving messages from separate modules and deciding what the body will do. Nor does it replace the conscious executive with an unconscious one.
 
@@ -120,7 +120,7 @@ For this reason, the article avoids the attractive but overly literal statement 
 
 > Marian’s embodied behaviour reorganizes before her explicit interpretation stabilizes.
 
-## 2.4 Experience is organized toward possible continuation
+### 2.4 Experience is organized toward possible continuation
 
 IER describes a subject at the boundary between a sedimented history and a range of physically admissible continuations. “Future” here does not mean a list of consciously imagined options. It means what the current organization can still become or do.
 
@@ -134,7 +134,7 @@ This lets the article ask questions that are slightly different from “What doe
 
 This emphasis on continuation is the bridge between IER’s ontology and its literary application.
 
-# 3. Translating the Article’s Vocabulary
+## 3. Translating the Article’s Vocabulary
 
 The terms below are best read as precise questions about organization, not as names for hidden faculties.
 
@@ -143,11 +143,11 @@ The terms below are best read as precise questions about organization, not as na
 | **Environment** | Everything outside the proposed subject boundary that can constrain or support continuation. | Peter, the office, family responses, food, the salon, the apartment, and cultural practices all participate differently in Marian’s environment. |
 | **Culture / social stack** | Material, linguistic, institutional, and relational supports that make some lives easier to reproduce than others. | The “future wife” role arrives with expectations, language, appearance, approval, and practical momentum already attached. |
 | **Situation** | The presently integrated organization of what matters, what is happening, and what can be done. | The same steak is dinner for Peter but a scene of slaughter for Marian because they inhabit different actionable situations. |
-| **Participation** | Which processes, histories, perceptions, bodily demands, and models are actively contributing to what happens next. | Cow, blood, butcher, disgust, Peter, hunger, and social politeness do not contribute equally at every meal. |
+| **Participation** | Which processes and history-bearing or model-organized differences currently contribute to what happens next; this does not establish constitutive membership. | Cow, blood, butcher, disgust, Peter, hunger, and social politeness do not contribute equally at every meal. |
 | **Salience** | What becomes comparatively difficult to ignore because it matters to continuation. | The animal history of meat becomes more salient than taste or nourishment. |
 | **Interpretation** | A stabilizing organization of what is happening under incomplete knowledge. It can guide action without being true. | Marian’s “ethical stand” makes her changing food response intelligible and then helps recruit further foods as cases. |
 | **Affordance** | An action that is locally available to this subject in this situation. | Food can cease to afford eating while affording disgust, concealment, ethical concern, or refusal. |
-| **Narrowing** | Progressive loss of practical flexibility before an irreversible outcome. | Marian’s menu and her means of responding to the engagement both become increasingly restricted. |
+| **Narrowing** | Canonically, deformation of future organization while physical reachability remains intact; the literary reading describes reduced practical flexibility without proving that physical relation. | Marian’s menu and her means of responding to the engagement both become increasingly restricted. |
 | **Autonomia** | Bodily and regulatory participation becoming strongly foregrounded without becoming a separate agent. | Nausea, throat closure, appetite loss, and hunger constrain action while Marian remains one acting subject. |
 | **Situation dominance** | A changed context reorganizes what is happening on new terms. | The cake introduces a new local situation in which accusation and direct refusal become possible. |
 | **Experience dominance** | An already active organization recruits a changed context as another place for itself to continue. | Restaurant, breakfast, office party, grocery store, apartment, and engagement party all become sites of consumption, vulnerability, or capture. |
@@ -163,9 +163,9 @@ The terms below are best read as precise questions about organization, not as na
 
 The final term is not established IER canon. It is a concept proposed by the literary bridge article for later evaluation.
 
-# 4. Reading the Novel’s Trajectory Through IER
+## 4. Reading the Novel’s Trajectory Through IER
 
-## 4.1 The engagement is a prepared future, not a single isolated choice
+### 4.1 The engagement is a prepared future, not a single isolated choice
 
 The article does not say that Marian has no agency or that Peter unilaterally determines her life. Marian assents, resists, delegates, improvises, conceals, and eventually refuses. The relevant issue is how much of the continuation has already been organized by her environment.
 
@@ -173,7 +173,7 @@ Marriage is culturally legible. It comes with a role, timing, public presentatio
 
 For literary critics, this is close to saying that ideology is materialized in institutions, habits, expectations, and forms of appearance. IER’s added emphasis is on local action geometry: how those structures become part of Marian’s immediate field of viable continuation rather than remaining abstract “social forces.”
 
-## 4.2 The third-person narration stages altered self-coordination
+### 4.2 The third-person narration stages altered self-coordination
 
 Part Two’s shift from “I” to “she” follows the engagement and precedes the categorical steak refusal. The article therefore does not make the narration a direct report of the food symptom or a literal measure of consciousness.
 
@@ -181,7 +181,7 @@ IER distinguishes the experiential subject from the self-model. Marian remains t
 
 The return to first person supports a reorganization reading because it accompanies a changed trajectory. It does not prove the restoration of a metaphysical “true self,” nor does it guarantee complete psychological recovery.
 
-## 4.3 The food sequence is a change in action, not just a change in opinion
+### 4.3 The food sequence is a change in action, not just a change in opinion
 
 Marian does not merely decide that meat is morally objectionable and adopt a stable vegetarian practice. Food becomes unavailable in an uneven sequence. Fish and shrimp remain possible after some meats do not. Artificial foods temporarily seem safe. The pattern later expands to vegetables and processed foods imagined as organic.
 
@@ -189,7 +189,7 @@ IER describes this as affordance reorganization. The conventional identity of th
 
 This is why the article takes Marian’s bodily response seriously without treating it as infallible. The response is real as an organization of action. Its ethical and causal interpretation may still be incomplete or wrong.
 
-## 4.4 Marian’s ethical explanation both clarifies and broadens the pattern
+### 4.4 Marian’s ethical explanation both clarifies and broadens the pattern
 
 Marian retrospectively interprets her body as refusing what once was or might still be living. That explanation gives the existing changes a common structure. Once stabilized, it can make later encounters easier to recruit into the same organization.
 
@@ -202,7 +202,7 @@ The sequence can therefore be read as feedback:
 
 IER calls an interpretation action-organizing without granting it privileged access to truth. The feeling that the carrot is screaming may be compelling enough to stop Marian’s action. It does not establish that the carrot screams, suffers as imagined, or constitutes an experiential subject.
 
-## 4.5 Mould extends the problem from diet to destruction
+### 4.5 Mould extends the problem from diet to destruction
 
 Mould is not another item in Marian’s menu. The kitchen scene matters because the same organization now reaches cleaning. Washing dishes would preserve Marian’s household by destroying or removing another living organization.
 
@@ -210,7 +210,7 @@ This exposes the practical limit of her rule. Organisms continue through transfo
 
 IER separates biological life, possible experience, moral standing, harm, and absolute preservation. Marian’s concern may be ethically serious even when her classification is unreliable and her rule is unlivable.
 
-## 4.6 The consumer/consumed relation persists across domains
+### 4.6 The consumer/consumed relation persists across domains
 
 The article treats consumption as a governing relation, not merely a repeated word or symbol. At work, people are classified for consumer research. In marriage, Marian fears assimilation. At meals, living beings appear as available matter. At the salon and party, Marian is made displayable. With the camera, a socially manufactured Marian threatens to become fixed as an image.
 
@@ -218,7 +218,7 @@ These scenes are materially different. IER does not claim they are literally ide
 
 This is experience dominance: new objects and settings become new surfaces for an already active relation. It is also behavioural transfer: the governing organization continues even when the visible behaviour changes.
 
-## 4.7 The cake is an action, not merely a decoded symbol
+### 4.7 The cake is an action, not merely a decoded symbol
 
 Traditional literary interpretation can ask what the cake represents. IER asks an additional question: what does constructing and presenting the cake make possible?
 
@@ -228,7 +228,7 @@ The model changes its situation. Before the cake, Marian can run from scenes, hi
 
 Calling the cake a model does not deny that it is a symbol, image, joke, grotesque object, or parody of domestic labour. “Model” identifies its practical role in the scene: it preserves enough organization to support projection and action.
 
-## 4.8 The ending is reorganization, not cure or purity
+### 4.8 The ending is reorganization, not cure or purity
 
 After Peter leaves, Marian becomes hungry and eats part of the cake. The next day first-person narration returns. She cleans the apartment, reports eating steak, and gives the remaining cake to Duncan.
 
@@ -236,11 +236,11 @@ The article interprets this cluster as disengagement: the engagement no longer h
 
 Residue and ambiguity remain. Marian still lives within consumer society, embodiment, gender, material dependency, and inherited language. Duncan’s final description of her as a consumer prevents an innocent ending. IER’s term **reorganizability** is deliberately modest: Marian has regained enough practical flexibility for another continuation to become possible.
 
-# 5. The Behavioural-Substitution Hypothesis
+## 5. The Behavioural-Substitution Hypothesis
 
 This is the most original and most contestable part of the article.
 
-## 5.1 What it proposes
+### 5.1 What it proposes
 
 The hypothesis claims that Marian’s eating problem preserves the structure of her primary conflict while changing domain and reversing her position within it.
 
@@ -252,7 +252,7 @@ The hypothesis claims that Marian’s eating problem preserves the structure of 
 
 The behaviour is meaningful without being a deliberately encoded communication. Marian need not secretly decide, “Because Peter is consuming me, I will stop consuming animals.” The relation can persist through changes in attention, bodily response, interpretation, and available action without being represented as a sentence or selected by a hidden agent.
 
-## 5.2 What it does not propose
+### 5.2 What it does not propose
 
 The hypothesis does not claim that:
 
@@ -264,7 +264,7 @@ The hypothesis does not claim that:
 - one event mechanically produces every later refusal;
 - fictional organization demonstrates a real clinical mechanism.
 
-## 5.3 How to evaluate it
+### 5.3 How to evaluate it
 
 A reader should ask:
 
@@ -277,7 +277,7 @@ A reader should ask:
 
 The hypothesis earns its place only if it improves the reading under those tests. Its label alone explains nothing.
 
-# 6. Comparison with Familiar Literary Approaches
+## 6. Comparison with Familiar Literary Approaches
 
 IER is best treated as a complementary lens rather than a replacement for established criticism.
 
@@ -293,69 +293,69 @@ IER is best treated as a complementary lens rather than a replacement for establ
 
 IER’s most useful contribution to literary criticism may be its insistence that symbols can be actions. The cake means, but it also changes the scene. The camera represents, but it also creates a practical threat of fixing and circulating a version of Marian. Literary objects participate in the trajectory rather than merely awaiting interpretation from outside it.
 
-# 7. Comparison with Familiar Psychological Explanations
+## 7. Comparison with Familiar Psychological Explanations
 
 IER is not a clinical psychology and does not provide diagnostic criteria. Still, its explanation can be compared with several psychological families of thought.
 
-## 7.1 Displacement and somatic expression
+### 7.1 Displacement and somatic expression
 
 A psychodynamic account might say that a conflict that cannot be consciously acknowledged is displaced into a symptom. A psychosomatic account might emphasize the genuine bodily expression of stress or conflict.
 
 IER agrees that behaviour can reorganize outside articulate deliberation and that a conflict can appear in another domain. Its caution concerns agency and coding. It does not assume that an unconscious executive chose food as a symbol or that nausea is a message sent from body to mind. The same embodied organization can alter salience, autonomic participation, interpretation, and action before it can formulate a report about itself.
 
-## 7.2 Appraisal, attention, and disgust generalization
+### 7.2 Appraisal, attention, and disgust generalization
 
 A cognitive account might describe changes in appraisal: meat is appraised as flesh, risk, or harm; attention becomes biased toward signs of life; disgust generalizes across categories; avoidance reinforces the pattern.
 
-IER can accept much of this descriptive sequence. Its own vocabulary emphasizes that appraisal is not merely an internal label applied to an otherwise unchanged action. Once interpretation and salience reorganize the situation, the available continuation changes. Avoidance also has a trajectory cost: each local refusal resolves immediate conflict while making the broader field of eating narrower.
+IER can accept much of this descriptive sequence. Its own vocabulary emphasizes that appraisal is not merely an internal label applied to an otherwise unchanged action. Once interpretation and salience reorganize the situation, what feels actionable can change. That does not by itself establish that physical successors have been removed. Avoidance also has a trajectory cost: each local refusal resolves immediate conflict while making the broader field of eating narrower.
 
-## 7.3 Ecological and embodied approaches
+### 7.3 Ecological and embodied approaches
 
 Ecological psychology and embodied cognition emphasize organism–environment relations and action possibilities rather than a detached internal spectator. IER has a strong family resemblance here. Its concept of affordance is relational: what can be done depends on the organization of subject and environment together.
 
 IER adds its own ontology of intrinsic constraint and insists that affordances are locally admissible continuations within one experiential subject. Whether that added metaphysical structure is useful or warranted is an independent question.
 
-## 7.4 Predictive or model-based accounts
+### 7.4 Predictive or model-based accounts
 
 A model-based psychology might say that Marian’s expectations and generative models increasingly interpret ambiguous food features as signs of life, harm, or anatomy. The cake might be treated as an externalized model that enables reappraisal.
 
 IER also uses the word **model**, but it does not make prediction or inner representation the basis of experience. A model is an organization used to preserve selected structure and project bounded consequences. The cake can function as a model precisely because models need not be hidden in the head.
 
-## 7.5 Agency and recovery
+### 7.5 Agency and recovery
 
 Many psychological readings would describe the cake scene as recovery of agency, integration, insight, or assertiveness. IER narrows the claim. Marian has acted throughout the novel, including when her agency is conflicted or constrained. What changes is trajectory authorship and disengagement: the future no longer has to reproduce the engagement.
 
-This avoids two extremes. Marian was not previously an inert victim, and the cake does not make her an unconstrained sovereign. Agency is graded and distributed across time; authorship concerns whether she bears and reorganizes the constraints shaping her continuation.
+This avoids two extremes. Marian was not previously an inert victim, and the cake does not make her an unconstrained sovereign. Effective exercise of agency can vary across time; experiential ownership and standing are not thereby graded. Within the stipulated reading, authorship concerns how she bears and reorganizes the constraints shaping her continuation.
 
-# 8. What IER Adds to the Analysis
+## 8. What IER Adds to the Analysis
 
 The article offers six main additions.
 
-## 8.1 One account across bodily, social, narrative, and material domains
+### 8.1 One account across bodily, social, narrative, and material domains
 
 The reading does not require separate explanations for society acting on Marian, a body rebelling against a mind, a narrator changing grammatical person, and a symbol resolving a theme. It treats these as differently describable organizations within one trajectory while preserving their differences.
 
-## 8.2 Behaviour before explicit explanation
+### 8.2 Behaviour before explicit explanation
 
 IER makes room for meaningful reorganization that is neither consciously planned nor authored by a second unconscious person. Marian’s later ethical theory can shape the continuation without being the original cause or final truth of the pattern.
 
-## 8.3 Action possibilities rather than beliefs alone
+### 8.3 Action possibilities rather than beliefs alone
 
 The language of affordances explains why “Marian knows the food is edible” is not a sufficient objection. Knowledge and action availability can diverge. The central fact is not merely what proposition she endorses but what continuation her present organization permits.
 
-## 8.4 Authorship across time
+### 8.4 Authorship across time
 
 The article does not search for the one authentic decision that reveals Marian’s real will. It examines how authorship is lost, mixed, exercised, and recovered across a sequence of consent, resistance, concealment, construction, confrontation, and consequence.
 
-## 8.5 The cake as an intervention
+### 8.5 The cake as an intervention
 
 Treating the cake as a material model explains how representation can reorganize action. Marian does not only understand the consumption metaphor; she builds an object that makes a different response possible in a shared situation.
 
-## 8.6 Ethics without purity
+### 8.6 Ethics without purity
 
 The analysis preserves the moral importance of vulnerability and harm while rejecting the idea that ethical seriousness must produce a universal rule of non-consumption. Marian’s own continuation has standing too. Ethical conflict can be real even when no innocent option exists.
 
-# 9. What the Article Does Not Establish
+## 9. What the Article Does Not Establish
 
 For a critical reader, these limits are as important as the interpretation.
 
@@ -372,7 +372,7 @@ For a critical reader, these limits are as important as the interpretation.
 
 The companion article is strongest when read as a disciplined redescription of narrative organization. It is weakest if its technical vocabulary is treated as proof simply because it is technical.
 
-# 10. A Scene-by-Scene Quick Reference
+## 10. A Scene-by-Scene Quick Reference
 
 | Novel element | Familiar reading | IER question |
 | --- | --- | --- |
@@ -388,9 +388,9 @@ The companion article is strongest when read as a disciplined redescription of n
 | Eating, cleaning, and return of “I” | Recovery, reintegration, or qualified liberation. | What has rebound, what residue remains, and how much reorganizability has returned? |
 | Duncan’s “consumer” remark | Irony; complication of emancipation. | Can Marian regain authorship without escaping implication in consumption? |
 
-# 11. Questions for a Seminar or Comparative Discussion
+## 11. Questions for a Seminar or Comparative Discussion
 
-## For literary scholars
+### For literary scholars
 
 1. Does the concept of a material model add anything to a symbolic reading of the cake?
 2. Does trajectory authorship illuminate Marian’s mixed agency better than the opposition between autonomy and oppression?
@@ -398,7 +398,7 @@ The companion article is strongest when read as a disciplined redescription of n
 4. What formal work does the narration shift perform that cannot be captured by psychological vocabulary?
 5. Does the qualified ending support disengagement, or does Duncan’s final remark reinstate the original structure?
 
-## For psychologists and philosophers of mind
+### For psychologists and philosophers of mind
 
 1. Can behaviour reorganize before explicit explanation without positing a separate unconscious agent?
 2. What explanatory work is done by “affordance reorganization” beyond appraisal, avoidance, and disgust generalization?
@@ -406,14 +406,14 @@ The companion article is strongest when read as a disciplined redescription of n
 4. Does treating the cake as an external model improve an account of reappraisal and action?
 5. What evidence would be required before any part of this fictional redescription could become a psychological hypothesis?
 
-## For ethicists
+### For ethicists
 
 1. Which parts of Marian’s expanding concern track plausible harm, and which depend on resemblance or imagined livingness?
 2. How should concern respond to uncertainty about experience without collapsing into universal preservation?
 3. Does the ending reject Marian’s ethics, reject only her purity rule, or leave the question unresolved?
 4. How should Marian’s own viability constrain her duty not to consume or destroy?
 
-# 12. Final Orientation
+## 12. Final Orientation
 
 The IER article can be understood without mastering the entire theory. Its central contribution is a way of describing how one governing relation can organize social expectation, bodily response, perception, narration, ethical interpretation, and action across time.
 
@@ -427,6 +427,6 @@ In IER language, the same claim is:
 
 Those paragraphs should be treated as translations of one reading, not as two separate explanations. The value of IER here depends on whether its more exact vocabulary helps the reader see the novel’s organization more clearly—and whether the framework preserves ambiguity where the novel does.
 
-## Source Relationship
+### Source Relationship
 
-This guide is a companion to `IER-edible-woman.md`, whose chapter-based textual claims and drafting boundaries are controlled by `edible-woman-claims-ledger.md`. Direct quotations and edition-specific page citations should be verified against the edition selected for publication.
+This guide is a companion to `IER-edible-woman.md`, whose chapter-based textual claims and drafting boundaries are controlled by the [claims ledger](edible-woman-claims-ledger.md). Direct quotations and edition-specific page citations should be verified against the edition selected for publication.

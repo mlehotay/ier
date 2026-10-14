@@ -2,11 +2,45 @@
 
 ## Design Spec: Game of Life Terminal Application
 
+## Implementation Status
+
+This is a target design, not a feature inventory. The executable currently has
+random, built-in and `.cells` startup, size/delay/topology/placement CLI options,
+simulation-native stats, and the complete required [runtime command surface](commands.md).
+The [startup path](cli.md) initializes exactly one source on a fresh board and
+refreshes statistics before the first tick. Startup errors precede raw mode and
+alternate-screen entry.
+The [built-in registry](patterns.md) supplies all seven required patterns;
+the shared placement helper supports both built-ins and parsed patterns.
+The standalone [`.cells` parser](cells-format.md) is available;
+runtime and startup loading use shared placement. The startup pattern, placement
+and load examples below are implemented; the explicit startup pipeline is complete under `gol-0020`.
+The non-interactive [world test harness](../tests/README.md) is available through
+`make test`; registry/fixture checks, block stability, oscillator periods and
+glider translation are covered. Gosper gun emission is covered by `gol-0024`.
+The aggregate also includes rendering-bound checks. The stats pane collapses
+below 60 columns or 14 rows; below 20 columns or 5 rows the command pane takes
+priority with a compact fallback. Rendering reserves the bottom-right cell
+and clips all output to avoid scroll. World-resize hardening (`gol-0019`) now
+retries failed size reads/allocations, preserves the old board on allocation
+failure and defers stepping until geometry is verified. A signal with unchanged
+terminal dimensions leaves the world alone. The tiny fallback uses a 1x1 world.
+
+The current policy is a visible-board world: terminal resizing changes world
+dimensions, preserves the top-left overlap and dead-fills new cells. Full
+world/view independence and panning remain deferred. Help/h commands return
+ordinary transient feedback; the user removed the separate help-toggle mode. The
+development-side project task dashboard retains the incomplete phase-exit gate
+(`gol-0025`); this document does not mark it complete. The
+development-side phase-completion plan owns the
+current implementation policy and acceptance criteria.
+See the [current README](../README.md) for executable usage.
+
 ## Purpose
 
 This document defines the design of the Game of Life application itself.
 
-Its scope is limited to building a complete, stable, and maintainable terminal implementation of Conway - s Game of Life with:
+Its scope is limited to building a complete, stable, and maintainable terminal implementation of Conway’s Game of Life with:
 
 - ANSI terminal rendering
 - a structured pane-based UI
@@ -63,7 +97,7 @@ This is a structured terminal simulator, not a terminal widget framework.
 
 The primary goals are:
 
-- implement Conway - s Game of Life correctly
+- implement Conway’s Game of Life correctly
 - make terminal behavior stable and predictable
 - provide an interactive, usable interface
 - support deterministic and file-based pattern initialization
@@ -118,7 +152,7 @@ src/
   stats.h
   command.c
   command.h
-````
+```
 
 ### Responsibility split
 
@@ -199,7 +233,7 @@ Owns:
 
 ## Simulation model
 
-The simulation is standard Conway - s Game of Life.
+The simulation is standard Conway’s Game of Life.
 
 ### Rule set
 
@@ -338,10 +372,7 @@ On terminal resize:
 * the screen is fully redrawn
 * the application remains visually stable
 
-The implementation may either:
-
-* resize the world with overlap preservation, or
-* keep world dimensions stable and adapt only the view
+The current implementation resizes the world with top-left overlap preservation and dead-fill. A fixed-world viewport is a permitted future alternative, requiring its own implementation and validation
 
 For the GoL phase, either policy is acceptable as long as it is:
 
@@ -373,7 +404,6 @@ typedef struct {
     int resized;
 
     int show_stats;
-    int show_help;
 
     StepStats last_step;
     CommandLine cmd;
@@ -485,7 +515,6 @@ Expected runtime controls include:
 * `-` slower
 * `:` enter command mode
 * `s` toggle stats visibility
-* `h` toggle help or hints
 
 This is sufficient for the GoL phase.
 
@@ -545,7 +574,16 @@ Preferred first-pass rule:
 
 External pattern loading is part of the GoL phase.
 
-### Purpose
+### Current Loading Status
+
+Startup `--load` and runtime `load` parse `.cells` files and use shared placement.
+The standalone RLE parser is tested, but loader format selection remains separate
+work. Loading and placement errors are transactional; startup failures occur
+before terminal raw mode. See [loading rules](cells-format.md) and
+[current implementation status](#implementation-status). The development-side
+phase-exit audit remains open; it is not completed by these tests.
+
+## Purpose
 
 This makes the application a reusable Life tool rather than only a built-in demo program.
 
@@ -767,7 +805,7 @@ Future theory-oriented work should be specified separately rather than folded ba
 
 ## Summary
 
-This project is a modular ANSI terminal implementation of Conway - s Game of Life with:
+This design targets a modular ANSI terminal implementation of Conway’s Game of Life with:
 
 * pane-based UI
 * interactive controls

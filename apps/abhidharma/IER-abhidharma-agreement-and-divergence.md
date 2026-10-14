@@ -22,6 +22,12 @@ IER is a physicalist identity theory. Its central proposal is:
 
 Physical organization does not first exist and then generate experience. The physical and experiential descriptions concern one organization.
 
+## Current Physical and Comparative Scope
+
+The [current relation-stack explanation](IER-abhidharma.md#current-ier-premises) keeps independently typed support closure, ownership, all five membership conditions and all five produced-and-inherited continuity conditions separate. Mere causal sequence, co-arising or recurrent organization supplies none of them by itself. Ordinary continuation need not contain fresh collapse; numerical identity can end without a system-wide experiential gap. A traditional moment, an interpretive category and a subject token therefore remain different objects.
+
+The physical identity proposal is abductive and a posteriori. This comparison neither identifies a concrete UEF nor establishes qualitative correspondence, doctrinal truth or liberation from a physical geometry.
+
 ## Comparison Discipline
 
 The comparison has three possible outcomes on any axis:
@@ -107,7 +113,7 @@ This is a structured unity, not a bag of independently existing inner components
 
 ### IER
 
-IER identifies one experiential subject with one UEF: a physical regime whose intrinsic constraint is globally integrated and non-factorizable into independently resolvable subsystem constraints. Processes may participate to different degrees without becoming fractional subjects. Unity is not produced by binding representations for an internal observer.
+Under the identity proposal, one independently qualifying UEF operation is one subject. Support non-factorization, non-externalizable ownership, full membership and the complete stage relation jointly carry that conditional account. Processes may participate to different degrees without becoming fractional subjects. Unity is not produced by binding representations for an internal observer.
 
 ### Assessment
 
@@ -182,7 +188,7 @@ The apparent contrast between discrete Abhidharma events and continuous IER expe
 | Process duration | Sequence of cittas performing differentiated functions | Extended physical trajectory or regime dynamics |
 | Model granularity | School-specific unit or phase structure | Resolution of the physical description |
 | Experienced continuity | How rapid conditioned events constitute an apparently continuous stream | Continuity of an operating UEF and its changing participation/content |
-| Subject persistence | What, if anything, persists through the sequence | Continuous instantiation of one UEF, distinct from embodied-system continuity |
+| Subject persistence | What, if anything, persists through the sequence | Full stage relation, distinct from organism persistence or uninterrupted UEF presence |
 
 Sarvāstivāda treats the moment as an indivisible unit and applies momentariness to mental and material dharmas. Post-canonical Theravāda divides a consciousness moment into phases, treats the length of a moment contextually, and allows material phenomena to persist for multiple consciousness moments.[^time]
 
@@ -199,8 +205,8 @@ IER collapse is also not an Abhidharma mental moment. Collapse is an atomic cont
 | Synchronic unity | Organization of one consciousness occurrence | Unity of one UEF |
 | Inner owner | Whether an agent or substance exists behind dharmas | IER posits no inner observer or self-entity |
 | Person | Conventional designation versus ultimate constituent | Embodied-system and personal description are not identical to UEF ontology |
-| Diachronic continuity | Causally connected stream of events | Dynamic dependence and sedimented physical continuity |
-| Experiential numerical identity | Not settled merely by saying "no-self" | One continuously instantiated UEF is one subject |
+| Diachronic continuity | Causally connected stream of events | Produced-and-inherited succession under all five stage clauses |
+| Experiential numerical identity | Not settled merely by saying "no-self" | Maximal one-to-one chain under the full stage relation |
 | Reappearance after cessation | School-specific accounts of continuity and rebirth | A later UEF after genuine cessation is numerically distinct, even if the embodied system persists |
 
 Abhidharma's denial of an enduring independent self need not deny the organized unity of a consciousness moment or the conventional usefulness of person-talk. IER's identification of a UEF as one subject does not introduce an immutable soul, narrative self, or observer inside experience.
@@ -336,7 +342,7 @@ The immediate research task is therefore not to translate an Abhidharma atlas in
 ## Sources
 
 - Noa Ronkin, ["Abhidharma," *The Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/abhidharma/), substantive revision March 31, 2026.
-- Bhikkhu Bodhi, general editor, [*A Comprehensive Manual of Abhidhamma: The Abhidhammattha Saṅgaha of Ācariya Anuruddha*](https://store.pariyatti.org/products/6269), third edition, Buddhist Publication Society, 2007.
+- Bhikkhu Bodhi, general editor, *A Comprehensive Manual of Abhidhamma: The Abhidhammattha Saṅgaha of Ācariya Anuruddha*. Consulted [publisher PDF eBook](https://download.pariyatti.org/_xUn1HgkZ/Comprehensive%20Manual%20of%20Abhidhamma.pdf), BPS Pariyatti Editions, 2012; title matter records BPS copyright 1993/1999, first BPS Pariyatti edition 2000 and reprints 2003/2007/2010. Citations below use printed page numbers, not PDF page indices; no unverified edition-equivalence claim is made.
 
 Canonical IER claims in this document are constrained by the current IER specification, theory, dynamics, ontology, continuity, identity, coordinate-systems, and projection documents. If this comparison conflicts with those sources, they control.
 

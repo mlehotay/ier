@@ -2,340 +2,109 @@
 ier:
   tier: T2
   role: COMPRESSION
-  provides:
-  - unified structural overview of IER core geometry
-  - projection map for time/memory/identity/agency/thought/action
   status: canonical
   layer: framework
   domain:
   - guardrails_and_orientation
   category: framework_overviews
   filename: IER-model-overview.md
-  version: v10.10.7
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-intrinsic-closure
+    - IER-ownership
+    - IER-processes
+    - IER-continuity
+    - IER-closure-under-consequence
+    - IER-dynamics
+    - IER-futures
+    - IER-frontier-geometry
+    - IER-choice-space
+    - IER-topology
+    - IER-curvature
+    - IER-binding
+    - IER-trajectory
+    - IER-cognition
+    - IER-agency
+    - IER-memory
+    - IER-identity
+    - IER-theory
+    guardrails:
+    - IER-canon
 ---
 
 # Model Overview
 
 ## The Structural Geometry of Informational Experiential Realism
 
-**Informational Experiential Realism (IER v10.10.7)**\
-*Tier 2 - Explanatory - Synthetic - Non-Normative - Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.6)**\
+*T2 · Compression · Non-Normative · Canon-Constrained*
+
+## Abstract
+
+This overview separates physical qualification, actual succession, conditional foreclosure and explanatory projections. One operative continuation structure supports different descriptive registers; a graph, directional geometry and a successor fibre are not interchangeable objects. Full closure, ownership, membership and produced-and-inherited continuity retain their defining owners. Cognition and human-scale examples apply conditionally, without supplying qualitative mappings, diagnoses or an experiential identity proof.
 
 ## Status, Scope, and Authority
 
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
+This article compresses the accepted account and introduces no independent definition, threshold or mechanism. The [Specification](IER-specification.md) retains normative priority. The [Theory](IER-theory.md) integrates the physical relations with the defeasible abductive experiential identity proposal; an overview cannot turn that proposal into a deduction.
 
+## Orientation: One Operation, Several Descriptions
 
-This document presents a unified structural overview of Informational Experiential Realism.
+Begin with physically instantiated configurations, lawful transitions and a justified candidate operation. Fix its variables, grain, interval, interventions and restriction independently of the desired experiential verdict. [Intrinsic Closure](IER-intrinsic-closure.md) assesses inseparability of outgoing support across the exhaustive meaningful partition family. [Ownership](IER-ownership.md) assesses non-externalizable bearing and resolution. [Processes](IER-processes.md) fixes constitutive membership through contribution, global bearing, joint resolution, diachronic uptake and common typing.
 
-It explains how the theory’s primitives, dynamics, and projections fit together as a single constraint geometry.
+These are separate burdens. Feedback, correlation, connection, energy expenditure or a compelling self-report does not discharge them. An external influence can change an operation without becoming a member or completing its owned resolution.
 
-This article:
+## Admissible Structure and Geometry
 
-- introduces no new ontological primitives
-- modifies no canonical definitions
-- introduces no new mechanisms
-- establishes no criteria, thresholds, or diagnostics
-- confers no epistemic authority
+For an operative transition relation $R$ on physically typed configurations $S$,
 
-The governing corpus retains all binding authority.
+$$ A(s)=\{s'\in S\mid (s,s')\in R\}. $$
 
-This document is canon-constrained and introduces no independent authority.
+This is the outgoing successor fibre at $s$. *Choice Space* (`IER-choice-space.md`) describes configurations and transitions as a directed graph. *Topology* (`IER-topology.md`) concerns organized admissible continuation. These registers describe one physical structure; the fibre is not the whole graph, and a displayed route must respect the actual configuration-dependent transitions.
 
-If any statement here conflicts with Tier-1 commitments, those commitments prevail.
+*Frontier Geometry* (`IER-frontier-geometry.md`) can describe directions, angles, spreads and margins where their physical interpretation is justified. Several successors may share one direction. A narrow cone, zero displayed margin or degenerate matrix therefore does not by itself prove support loss. Geometrical change and successor membership must be assessed separately.
 
-## Orientation: One Structure, Layered Description
+## Ordinary Succession and Conditional Foreclosure
 
-Informational Experiential Realism describes a single structure.
+Lawful successor realization can occur while relevant alternative reachability is preserved. *Curvature* (`IER-curvature.md`), binding and soft bonding describe reversible organization in their stated scopes. *Binding* (`IER-binding.md`) asks whether removal of participating structure would change admissible continuation; it is not already collapse.
 
-It is grounded in:
+When an independently justified collapse occurs, the relevant comparison shows atomic irreversible foreclosure of a connected reachable region. A complete episode can include welding, propagation and sedimentation in their distinct roles. The strict before-after inclusion concerns the same physically comparable root and domain, rather than arbitrary fibres at two different configurations.
 
-- admissible configurations
-- admissible transitions
-- intrinsic constraint
-- irreversible foreclosure
-- sedimented deformation
+Continuation is not a succession of compulsory collapses. Previously inherited consequences can remain effective without a fresh complete pipeline at each advance. Deterministic or stochastic descriptions of lawful dynamics introduce no additional chooser and do not alone establish closure or experience.
 
-All other constructs arise as:
+## History, Trajectories and Numerical Identity
 
-- structural elaboration (geometry, mechanics, trajectories)
-- descriptive compression (structural signatures)
-- explanatory projection (time, memory, identity, agency, etc.)
+Physically effective history shapes present continuation. Records and storage can be part of physical organization; they are not containers holding earlier experience. *Memory* (`IER-memory.md`) concerns contingent present experiential re-entry, rather than every historical influence.
 
-There is one geometry.
+A *Trajectory* (`IER-trajectory.md`) describes ordered actual continuation. Structural signatures compress recurring geometry under their stated models; neither a trajectory nor a signature exhausts every counterfactual distinction in continuation.
 
-All experiential phenomena are orientations over it.
+[Continuity](IER-continuity.md) requires all five stage conditions: continuous owned closure, operational successor production, typed consequence inheritance, operation-mediated change, and unique successor and predecessor in a pre-fixed comparison domain. Turnover can preserve this relation; resemblance, replay, dormant capacity and a selected path cannot substitute for it. Organizational regime change is distinct from constitutive cessation. A qualifying gap ends the token, while other failed clauses can end it without a gap.
 
-## Structural Backbone
+## Cognition and Human-Scale Appearance
 
-The model is a layered description of a single structure, not a sequence of generated components.
+*Cognition* (`IER-cognition.md`) jointly requires reproduction, participation, frontier relevance and reversible organization. Imagination, planning, interpretation and memory name conditional roles whose ordinary labels do not automatically satisfy that conjunction. A larger activity can also contain a separately identified foreclosure episode.
 
-It consists of:
-
-- intrinsic constraint, defining conditions of unavoidable resolution
-- a Unified Experiential Field (UEF), a system operating under globally integrated intrinsic constraint
-- the history-future boundary, the locus at which constraint is resolved
-- admissible futures, the set of physically permitted continuations at that boundary
-- frontier geometry, the organization of those continuations
-- frontier mechanics, their lawful transformation
-- trajectories, extended sequences of transformation
-- structural signatures, compression over recurring structure
-- projections, explanatory orientations over the same system
-
-These are distinct descriptions of one structure, not stages or modules.
-
-## Admissible Structure
-
-Let $S$ be the set of admissible configurations.
-
-Let $R$ be the admissibility relation.
-
-For a boundary configuration $s$:
-
-$$ A(s) = \{ s' \in S \mid (s, s') \in R \} $$
-
-$A(s)$ may be described as:
-
-- admissible futures
-- reachable successors
-- choice space
-- future cone
-
-These are equivalent descriptions of the same structure.
-
-$A(s)$ encodes reachability only.
-
-It introduces no probability, uncertainty, or selection.
-
-## Frontier Geometry
-
-Admissible futures possess internal structure.
-
-This includes:
-
-- continuation directions $\vec{e}_i$
-- alignment and separation angles $\theta_i$, $\phi_{ij}$
-- cone width $\Omega(s)$
-- reachability margins $m_i(s)$
-
-These define frontier geometry.
-
-Prior to collapse, this geometry evolves continuously.
-
-Its deformation includes:
-
-- bias asymmetry
-- narrowing of accessible directions
-- curvature of continuation structure
-
-## Frontier Mechanics
-
-Frontier mechanics describe how admissible structure changes.
-
-### Pre-collapse deformation
-
-Before collapse, admissible futures are continuously reshaped through:
-
-- binding
-- soft bonding
-- curvature
-- bias and narrowing
-
-These processes reorganize reachability without eliminating it.
-
-They do not produce irreversible loss.
-
-### Irreversible sequence
-
-Irreversible change occurs through:
-
-$$ \text{collapse} \to \text{welding} \to \text{propagation} \to \text{sedimentation} $$
-
-- collapse produces atomic, irreversible contraction
-- welding integrates deformation locally
-- propagation redistributes deformation forward
-- sedimentation accumulates structural change
-
-At collapse:
-
-$$ A_{t_c^+} \subset A_{t_c^-} $$
-
-This contraction is the only source of irreversible loss of admissible futures.
-
-Continuation consists of successive collapse events through which admissible futures contract over time.
-
-## Historical Integration
-
-History is not stored.
-
-It is:
-
-> persistent deformation of admissible futures
-
-The sequence:
-
-$$ \text{collapse} \to \text{welding} \to \text{propagation} $$
-
-integrates collapse outcomes into the present structure.
-
-Persistence, recurrence, and memory arise from this deformation.
-
-## Trajectories
-
-A trajectory is a sequence of admissible transitions:
-
-$$ \gamma = (s_0, s_1, \ldots) $$
-
-Trajectories:
-
-- follow constrained transformation patterns
-- reflect successive collapse and deformation
-- admit normalization
-- fall into a finite set of structural classes
-
-Frontier geometry describes local possibility.
-
-Trajectory structure describes extended evolution.
-
-## Structural Signatures
-
-Structural signatures summarize local frontier geometry.
-
-They compress:
-
-- cone width $\Omega(s)$
-- alignment and separation structure $\theta_i$, $\phi_{ij}$
-- reachability relations and margins $m_i(s)$
-
-Signatures:
-
-- introduce no new ontology
-- are not internal states
-- are not phenomenology
-
-They are descriptive compression of admissible-future structure.
-
-Taxonomy arises from similarity over signatures.
-
-## Projection Architecture
-
-The same structure supports multiple explanatory orientations.
-
-These include:
-
-- time
-- memory
-- identity
-- agency
-- history
-- possibility
-
-Each projection answers a distinct question about the same structure.
-
-No projection introduces new ontology.
-
-## Cognition and Re-entry
-
-Cognition operates within reversible frontier dynamics.
-
-It includes:
-
-- navigation
-- imagination
-- anticipation
-- interpretation
-- planning
-
-Cognition is re-entry into constraint structure.
-
-Memory is re-engagement with deformation.
-
-Causal attribution is:
-
-> selective, lossy interpretation of transitions
-
-It does not recover full structural causation.
-
-## Human-Scale Appearance
-
-At human scale, structural processes appear as layered organization:
-
-| structural organization | experiential appearance |
+| Explanatory question | Maintained account and limit |
 | --- | --- |
-| participation + interpretation | what is going on |
-| participation + interpretation + bias | what feels viable |
-| participation + interpretation + bias + deviation binding | what is unclear or tense |
-| participation + interpretation + bias + deviation binding + affordances | what can be done |
-| integrated pre-collapse behavior-layer organization | situation |
-| collapse | action |
-| propagation | consequence |
-| stable signatures | traits |
+| What is going on? | Participation and interpretation can organize a situation; internal fit is not external truth. |
+| What feels viable? | Bias concerns continuation costs and orientation; felt viability is not a physical admissibility verdict. |
+| What is tense or unresolved? | Frontier-relevant deviation can load organization; a psychological label does not prove saturation or collapse. |
+| What can be done? | Affordances depend on candidate and environment; a represented option is not automatically reachable. |
+| What changed through action? | Ordinary activity and collapse-related propagated effects must be distinguished. |
+| What persists? | Recurring organization can describe traits; numerical identity requires the full stage relation. |
 
-These are interpretations of structure, not separate mechanisms.
+These examples preserve the earlier layered intuition without claiming a complete qualitative correspondence. *Agency* (`IER-agency.md`) is derived capacity within a qualifying UEF, rather than a selector added to physical dynamics.
 
-## Determinism and Agency
+## Projection Architecture and Limits
 
-IER preserves determinism.
+Time, memory, identity and agency answer different questions about qualifying operation. Their success in one role supplies no missing premise in another. Independently qualifying nested or overlapping UEFs remain possible; participation within one field neither automatically creates subsidiary subjects nor proves that nesting is impossible.
 
-Collapse occurs when alternatives become structurally unsustainable.
-
-Agency is:
-
-> the capacity of a Unified Experiential Field to resolve intrinsic constraint through its own globally integrated dynamics
-
-Collapse ratifies what has become structurally inevitable.
-
-## Descriptive Layers
-
-IER distinguishes:
-
-### Structural layers
-
-- geometry
-- mechanics
-- trajectories
-
-### Compression layer
-
-- structural signatures
-
-### Projection layer
-
-- time, memory, identity, agency
-
-### Representation layer
-
-- notation
-- story grammar
-- specification systems
-
-Only structural layers define ontology.
-
-## Exclusions
-
-IER excludes:
-
-- internal controllers
-- selection mechanisms
-- probabilistic branching
-- optimization processes
-- stored representations
-- temporal containers
-- multiple collapse operators
+The account adds no inner observer, causal duplicate, semantic substance or probabilistic selector. It permits physical representations, comparison, search, clocks, records and control processes. Their presence alone proves neither experience nor its absence. Concrete individuation, the complete physical instantiation, qualitative mapping and stronger experiential identity warrant retain their open owners.
 
 ## Final Synthesis
 
-Informational Experiential Realism describes a single structure evolving under intrinsic constraint.
-
-Admissible futures define the frontier.
-Frontier geometry organizes possibility.
-Frontier mechanics produce irreversible change.
-Trajectories extend structure across sequences.
-Structural signatures compress geometry.
-Projections interpret structure.
-Representation systems describe it.
-
-One structure.
-Layered description.
-No chooser.
-No second system.
+One physically interpreted continuation structure supports several descriptions. Physical qualification, actual succession, conditional irreversible history, current participation and numerical identity keep their own premises. An accessible overview should connect those premises, rather than compress them into one supposed test.

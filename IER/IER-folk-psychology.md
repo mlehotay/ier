@@ -9,381 +9,104 @@ ier:
   category: phenomenology_II
   status: canonical
   filename: IER-folk-psychology.md
-  version: 10.11.0
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-participation
+    - IER-bias
+    - IER-cognition
+    - IER-binding
+    - IER-continuity
+    - IER-affordances
+    - IER-interpretation
+    - IER-truth
+    - IER-knowledge
+    - IER-ethics
+    guardrails:
+    - IER-canon
 ---
 
 # Folk Psychology
 
-## Ordinary Language as Compression of Constraint Geometry
+## Ordinary Language and Conditional Structural Reconstruction
 
-**Informational Experiential Realism (IER v10.11.0)**\
-*Tier 2 - Explanatory - Translational - Non-Normative - Non-Criterial*
+**Informational Experiential Realism (IER v10.11.6)**\
+*T2 · Elaboration · Translational · Non-Normative*
+
+## Abstract
+
+Folk expressions can motivate approximate reconstructions of participation, bias, affordances and continuing organization. Their labels do not identify mechanisms, physical admissibility, collapse or subjecthood. Reproduced content is distinct from reachable continuation, several demands can jointly bind, and physical representation or comparison is permitted without an inner chooser. The public-speaking example contrasts reversible change with independently established foreclosure rather than assume a compulsory collapse sequence.
 
 ## Status, Scope, and Authority
 
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
+This article develops a translation proposal, not an empirical dictionary or diagnostic. [Participation](IER-participation.md), *Bias* (`IER-bias.md`), *Cognition* (`IER-cognition.md`), *Binding* (`IER-binding.md`) and [Continuity](IER-continuity.md) own the underlying relations. Ordinary phrases are not sufficient physical descriptions, and the same phrase can motivate different reconstructions in different settings.
 
+## Orientation and Translation Principle
 
-This document provides a translation layer between ordinary folk-psychological language and the structural vocabulary of Informational Experiential Realism (IER).
+“Follow your heart,” “gut feeling,” “panic,” “overthinking” and “clear-headed” can name recognizable experiences while leaving their physical organization uncertain. IER permits bodily mechanisms, physical representations and comparison; it does not posit an independent inner agent named Heart or Gut.
 
-Expressions such as “follow your heart,” “gut feeling,” “panic,” “overthinking,” and “clear-headed” are treated here as compressed descriptions of admissible future structure, participation dynamics, and intrinsic constraint organization.
+The proposal is to reconstruct a phrase through independently justified organization of participation, continuation costs, current reproduction and environmental coupling. A successful reconstruction does not prove that every use of the phrase has that organization. Felt certainty neither certifies external truth nor excludes independently warranted evidence.
 
-This document is explanatory, non-normative, non-epistemic, non-criterial, and translational in scope.
+## Structural Axes of Comparison
 
-It:
+| Proposed descriptive axis | What must remain distinct |
+| --- | --- |
+| Directional spread | Several successors can share one direction; cone width does not count futures. |
+| Bias and cost | A difficult route can remain admissible; strong preference is not physical foreclosure. |
+| Participation depth | Current recruitment grades content and influence, not categorical subjecthood. |
+| Constraint centering | A salient task or threat can organize activity without a new causal substance. |
+| Stability | Local task instability does not alone establish failed constitutive operation. |
 
-- introduces no new ontological primitives
-- defines no criteria, thresholds, or diagnostics
-- assigns no truth, correctness, or rational status to any state
-- introduces no internal subsystems, faculties, or modules
-- does not define when experience exists
-- does not modify any identity or constraint claims fixed in the *IER specification*
+All axes concern a stated candidate, interval and comparison. They do not create parallel causal worlds. A representation of an option can differ from physically available continuation.
 
-The governing corpus retains all binding authority.
+## Anticipation and Activation
 
-This document is canon-constrained and introduces no independent authority.
+“Butterflies,” “racing heart,” “dread” and “excitement” can motivate questions about bodily recruitment, anticipatory organization and bias. No pulse, sensation or label establishes narrowing, saturation or impending collapse. These descriptions may change while relevant successor membership is preserved.
 
-If any statement here conflicts with Tier-1 commitments, those commitments prevail.
+A threat-oriented organization and a task organization can both bind: removing either might alter continuation. This is compatible with one owned operation and does not require separate emotional and rational subjects.
 
-### Translation-Layer Constraint
+## Bias-Dominant Organization
 
-All mappings in this document are descriptive compressions only.
+“Following your heart” can describe strongly oriented participation; “gut feeling” can describe orientation before extensive reflective reproduction; “instinct” can describe recurrent stabilized response. These are conditional interpretations, rather than universal definitions of faculties or proof that bodily signals have one mechanism.
 
-They do not introduce additional structure, parallel choice spaces, resolution layers, internal agents, or epistemic authority. Folk-psychological terms are treated strictly as low-resolution labels for recurring patterns in admissible futures, participation organization, and intrinsic constraint dynamics.
-
-Terms such as “heart,” “gut,” or “instinct” therefore do not refer to distinct systems, separate causal processors, or independent evaluators. They are descriptive handles over recurring organizational patterns.
-
-## Orientation
-
-Human language reliably encodes distinctions in lived experience using compact, metaphor-rich expressions.
-
-Under Informational Experiential Realism, these expressions cannot be interpreted as references to internal representations, cognitive modules, emotional subsystems, or decision-making agents. Nevertheless, they are not arbitrary. They track stable regularities in how systems organize admissible futures, distribute participation, undergo narrowing and collapse, and stabilize or destabilize intrinsic constraint.
-
-IER posits a single admissible future structure governed by intrinsic constraint. All experiential variation arises from differences in:
-
-- constraint organization
-- admissible future geometry
-- participation allocation
-- stability and narrowing dynamics
-
-Folk-psychological language therefore functions as a coarse coordinate system over these variations.
-
-This document formalizes that coordinate system without elevating it to ontology or introducing new explanatory primitives.
-
-## Translation Principle
-
-The central claim of this document is:
-
-> Folk psychological terms are labels for recurring shapes of how admissible futures are structured and navigated under intrinsic constraint.
-
-These phrases do not encode truth conditions, semantic correctness, or rational validity. They instead encode how the space of possible continuations is organized and experienced.
-
-All such descriptions remain projections over a single admissible future structure. They do not imply additional ontological layers, parallel spaces, or alternative resolution systems.
-
-There is only one admissible future set. All variation arises from how it is structured and navigated.
-
-## Structural Axes of Variation
-
-Most folk-psychological expressions can be organized along a small number of recurring structural dimensions.
-
-*Cone width* concerns the number of reachable continuations. Wide cones correspond to many viable futures, while narrow cones correspond to severe reachability restriction.
-
-*Gradient steepness* concerns the strength of directional pull. Flat gradients correspond to weak preference between futures, while steep gradients correspond to strong directional bias.
-
-*Participation* concerns the degree of system-wide recruitment. Participation may remain localized and limited or become globally distributed and highly activated.
-
-*Constraint centering* concerns which variables dominate continuation. Depending on the state, continuation may become centered around safety, reward, identity, threat, or social evaluation.
-
-Finally, *stability* concerns whether constraint organization remains coherent and internally consistent or becomes unstable, oscillatory, fragmented, or noisy.
-
-Most ordinary folk terms can be understood as compressions over combinations of these dimensions.
-
-## Anticipation and Activation States
-
-Many ordinary expressions describe systems approaching imminent resolution under increasing constraint pressure.
-
-“Butterflies in your stomach” corresponds to unstable narrowing with elevated bodily participation. The admissible future cone remains relatively wide, but competing gradients begin tightening around unresolved continuation pressure.
-
-“Racing heart” corresponds to advanced narrowing under steep directional bias. Participation becomes highly concentrated as collapse approaches or begins.
-
-“Sense of dread” describes strong aversive directional organization under narrowing constraint. The cone becomes increasingly dominated by negatively weighted continuations.
-
-“Excitement,” by contrast, involves strong positive bias together with an expanding or stable cone. Participation becomes highly recruited while continuation remains approach-centered rather than avoidance-centered.
-
-Across these cases, folk language tracks changing geometry and participation dynamics rather than hidden emotional substances or internal evaluators.
-
-## Bias-Dominant States
-
-Some folk-psychological expressions primarily track directional bias organization.
-
-“Following your heart” corresponds to affectively centered constraint with a strongly asymmetric continuation structure. Exploration narrows as one directional pull dominates available continuation.
-
-“Gut feeling” describes steep directional organization prior to explicit topology reproduction. The system exhibits strong anticipatory bias without extensive reflective traversal of alternatives.
-
-“Instinct” refers to highly stabilized directional organization that reproduces similar gradients across contexts.
-
-None of these states imply separate systems, faculties, or causal agents. They are compressions over stable bias organization within a single admissible future structure.
+Reflection, evidence or practice can change orientation reversibly. Learning need not wait for failure or perform a fresh foreclosure at every revision.
 
 ## Deliberation and Cognitive Navigation
 
-Many ordinary cognitive expressions describe explicit navigation of future topology through re-entry and comparative traversal.
+“Thinking it through” and “weighing options” can motivate reproduced, participatory, frontier-relevant reversible organization under all four cognitive conditions. Physical symbolic reasoning and comparison are permitted without an extra selector.
 
-“Thinking it through” corresponds to active topology reproduction in which reachable continuations are temporarily expanded and inspected.
+“Second thoughts” need not reopen an irreversibly foreclosed physical region; they can reproduce a different description or navigate still-reachable continuation. “Overthinking” need not mean that collapse is overdue. It may describe costly recurrent organization whose relation to actual constraints requires investigation.
 
-“Weighing options” describes comparative traversal across multiple directional gradients.
+## Restriction, Clarity and Conflict
 
-“Having second thoughts” corresponds to local re-entry into previously pruned continuation regions.
+“Stuck,” “no choice” and “tunnel vision” can describe perceived restriction, high cost or limited recruitment. A felt absence of options is not evidence of singleton support or atomic collapse. “Panic,” “freezing” and “blacking out” do not establish a clinical mechanism or UEF cessation.
 
-“Overthinking” describes excessive recursive traversal without stable collapse. The system repeatedly re-enters nearby continuation regions while remaining unable to resolve narrowing into committed continuation.
+“Calm,” “clear-headed” and “grounded” can motivate coherent-organization descriptions without conferring correctness. “Torn” can concern several binding demands with competing costs. “Uneasy” can motivate an instability question without diagnosing low compressibility or failed ownership.
 
-In all such cases, folk language tracks navigation dynamics over admissible futures rather than symbolic reasoning performed by independent internal agents.
+## Bodily Language and Epistemic Limits
 
-## Narrowing and Constraint States
+Heart and gut expressions can concern real bodily participation. The metaphor alone establishes neither a causal location, a separate organ subject nor the absence of one independently qualifying at another scope. Independent evidence remains necessary for specific biological or qualitative mappings.
 
-Many familiar expressions describe severe reachability restriction.
+Likewise, “this feels right” can matter organizationally without being a truth certificate. An assertion may still be accurate for reasons established separately. *Truth* (`IER-truth.md`) and *Knowledge* (`IER-knowledge.md`) preserve that distinction.
 
-“Stuck” corresponds to substantial loss of reachable continuation margins.
+## Worked Example — Public Speaking
 
-“No choice” describes conditions in which admissible futures collapse toward effective single-continuation structure.
+Suppose an independently qualifying operation prepares and gives a presentation. The following are possible overlapping descriptions, not a necessary anxiety sequence or diagnostic of experience.
 
-“Tunnel vision” corresponds to extreme narrowing around one dominant continuation axis.
+| Phase | Conditional organization | What the phrase does not establish |
+| --- | --- | --- |
+| Anticipation: “butterflies” | Bodily recruitment and task-oriented reproduction interact. | A particular cone width or inevitable foreclosure |
+| Exposure: “I want to run” | Avoidance can remain admissible while its costs increase. | Saturation or loss of every alternative |
+| Onset: “I went for it” | Speaking is an actual successor; a separate restriction-changing episode may occur. | That beginning speech necessarily collapses all other continuation |
+| Performance: “found my rhythm” or “froze” | Task organization stabilizes or a specified capacity fails. | Preserved or ended numerical token identity |
+| Afterward: “I overthought it” | Current reconstruction evaluates earlier activity under changed conditions. | Accurate access to every earlier alternative or duty to trust a gut feeling |
 
-“Panic” describes unstable collapse under maximal narrowing and globally recruited participation.
+If a physical comparison establishes collapse, retain its incorporation and propagation roles. If costs relax afterward, do not infer that irreversibly removed successors have returned at the same comparison. New configurations can have different outgoing fibres without undoing an earlier event.
 
-These expressions track geometric restriction and collapse dynamics rather than internal emotional entities.
+## Summary
 
-## Stability and Clarity States
-
-Other expressions describe coherent and stabilized constraint organization.
-
-“Clear-headed” corresponds to stable centering together with smooth and coherent continuation structure.
-
-“Calm” corresponds to relatively low gradient intensity within a wide and stable continuation cone.
-
-“Grounded” describes coherent constraint centering anchored to stable environmental participation.
-
-These states do not imply objective correctness or epistemic authority. They describe organizational coherence under intrinsic constraint.
-
-## Instability and Misalignment
-
-Some expressions instead describe incoherent or competing organizational regimes.
-
-“Torn between options” corresponds to competing constraint centers with similarly weighted directional gradients.
-
-“Something doesn’t feel right” describes low-compressibility or unstable continuation structure.
-
-“Uneasy” corresponds to mild instability without clear directional organization.
-
-These descriptions track instability, fragmentation, and unresolved competition within admissible future organization.
-
-## Re-entry and Cognitive Compression
-
-Many ordinary descriptions invoke apparent “mental spaces,” “paths,” or “options.”
-
-Under IER, these arise from cognitive compression rather than ontology.
-
-Cognition reproduces portions of constraint topology through re-entry, navigates them locally, and compresses regions into manageable handles. These handles appear phenomenologically as options, paths, nodes, alternatives, or imagined continuations.
-
-They are not separate spaces. They are navigation tools operating over a single admissible future structure.
-
-## Why Body-Based Language Persists
-
-Expressions involving the heart, gut, stomach, blood, or bodily sensation persist because stable correlations exist between participation organization and interoceptive recruitment.
-
-These expressions track:
-
-- recurring interoceptive participation patterns
-- recruitment of bodily systems into signaling dynamics
-- stable phenomenological regularities
-
-They do not indicate causal location, distributed cognition across organs, or separate biological minds.
-
-They are compressed descriptions of participation structure involving bodily recruitment.
-
-## Error Without Failure
-
-A critical structural constraint follows from the translation framework established here:
-
-> Folk states do not track truth.
-
-States such as “this feels right,” “this feels wrong,” or “I just know” do not imply correctness, accuracy, rational superiority, or epistemic authority.
-
-They instead reflect:
-
-- constraint organization
-- viability gradients
-- participation dynamics
-
-These states govern continuation organization, not truth.
-
-## Limits of Translation
-
-This mapping remains approximate and compressive rather than exact.
-
-Folk categories overlap, shift across contexts, and vary culturally. Multiple phrases may describe similar structures, while identical phrases may refer to different organizational patterns under different conditions.
-
-The translation framework therefore preserves recurring structural regularities without treating ordinary language categories as sharp theoretical boundaries.
-
-## Compression Summary
-
-All folk-psychological language discussed in this document can ultimately be reduced to combinations of:
-
-- admissible future structure
-- bias gradients
-- reachability margins
-- participation allocation
-- constraint centering
-
-No additional structures are required.
-
-## Final Statement
-
-> Folk psychology is a low-resolution coordinate system over constraint geometry.
-
-Terms such as “heart,” “gut,” “panic,” and “clarity” are not descriptions of hidden internal mechanisms.
-
-They are stable linguistic compressions of how admissible futures are structured and navigated under intrinsic constraint.
-
-## Appendix A - Worked Example: Public Speaking Anxiety
-
-### Dynamic Reconstruction of Folk Psychological States Under Constraint Evolution
-
-This appendix follows a single scenario - public speaking anxiety - across multiple phases of evolving constraint organization.
-
-The goal is to show how seemingly distinct “mental states” emerge as phase descriptions of one continuously changing admissible future structure.
-
-At no point are additional systems, internal agents, or separate decision spaces introduced. The analysis concerns only admissible futures, intrinsic constraint organization, and participation dynamics.
-
-## Scenario Setup
-
-A person is about to give a presentation to a room of peers.
-
-The system evolves across five overlapping phases:
-
-1. pre-event anticipation
-2. imminent exposure
-3. onset of speaking
-4. mid-performance stabilization or destabilization
-5. post-event recovery
-
-The folk-psychological descriptions associated with each phase reflect changing continuation geometry rather than separate mental systems.
-
-## Phase 1 - Pre-Event Anticipation
-
-Before speaking begins, the admissible future cone remains relatively wide, but gradients begin steepening around social evaluation, identity, and anticipated performance.
-
-Participation increases, particularly through interoceptive recruitment, while continuation remains unstable because both favorable and unfavorable futures retain viability.
-
-Expressions such as:
-
-- “I’ve got butterflies in my stomach”
-- “I’m nervous”
-- “Something doesn’t feel right”
-
-compress this organizational condition into low-resolution phenomenological language.
-
-“Butterflies” track unstable narrowing together with bodily participation. “Nervousness” tracks elevated participation under uncertain gradients. “Something doesn’t feel right” reflects low-compressibility continuation structure.
-
-The system is therefore highly activated without resolved directional collapse.
-
-## Phase 2 - Imminent Exposure
-
-As speaking becomes unavoidable, continuation rapidly narrows.
-
-Gradients steepen sharply around threat and social evaluation. Participation becomes highly concentrated while alternative continuations - especially avoidance paths - lose viability.
-
-Expressions such as:
-
-- “My heart is racing”
-- “Oh no, this is happening”
-- “I want to run”
-
-track imminent collapse under increasingly constrained continuation.
-
-“Racing heart” compresses high activation under narrowing collapse. “I want to run” reflects residual viability of avoidance trajectories. “This is happening” tracks recognition of narrowing inevitability.
-
-## Phase 3 - Onset
-
-Once speaking begins, admissible futures collapse toward active continuation.
-
-Alternatives become effectively unavailable. Participation becomes globally recruited and continuation proceeds through highly constrained directional structure.
-
-Expressions such as:
-
-- “I had no choice”
-- “I just went for it”
-- “I blacked out”
-
-track different aspects of this collapse process.
-
-“No choice” compresses effective single-continuation structure. “Went for it” reflects acceptance of narrowing collapse. “Blacked out” corresponds to unstable topology reproduction under extreme participation pressure.
-
-Depending on stability conditions, onset may remain coherent or become partially destabilized.
-
-## Phase 4 - Mid-Performance
-
-At this stage the system may stabilize into coherent participation or destabilize into fragmented narrowing.
-
-Under stabilization, participation remains high but organized. Constraint centering shifts toward task execution, gradients become smoother, and the cone modestly re-expands.
-
-Expressions such as:
-
-- “I got into it”
-- “I found my rhythm”
-- “I felt clear-headed”
-
-track coherent continuation under stabilized constraint.
-
-Under destabilization, narrowing becomes extreme; participation grows increasingly disorganized. Constraint centering fragments, topology reproduction degrades, and viable continuation becomes unstable.
-
-Expressions such as:
-
-- “I panicked”
-- “I lost my train of thought”
-- “I froze”
-
-compress unstable collapse under overloaded constraint organization.
-
-## Phase 5 - Post-Event Recovery
-
-After the event, the admissible future cone re-expands.
-
-Gradients flatten, participation decreases, and threat-centered continuation weakens. Futures that previously appeared inaccessible become visible again.
-
-Expressions such as:
-
-- “That wasn’t so bad”
-- “Why was I so nervous?”
-- “I overthought it”
-- “I should have trusted my gut”
-
-reflect evaluation from a different geometric condition than the one that produced the earlier behavior.
-
-The important asymmetry is structural: post-event evaluation occurs after narrowing has relaxed.
-
-“Overthinking” compresses excessive topology reproduction. “Wasn’t so bad” reflects post hoc flattening of gradients. “Trust my gut” expresses preference for bias-dominant navigation over extensive reflective traversal.
-
-## Cross-Phase Insight
-
-Across all phases of the example:
-
-- no new structures are introduced
-- no internal agents appear
-- no separate decision systems emerge
-
-Instead, a single admissible future structure continuously deforms under changing intrinsic constraint.
-
-The folk-psychological descriptions associated with the scenario track changing patterns of narrowing, participation, bias organization, and stability at different points within that evolution.
-
-What appears phenomenologically as anxiety, panic, clarity, rhythm, confidence, or reflection consists of time-slices within one evolving continuation geometry.
-
-## Final Compression
-
-> Public speaking anxiety is not a sequence of separate mental states.
-> It is a continuous deformation of admissible futures under changing intrinsic constraint, tracked in low resolution by folk language.
-
-Expressions such as “butterflies,” “racing heart,” “panic,” “flow,” and “overthinking” function as labels for recurring regions within that evolving structure.
-
-The same decomposition applies generally.
-
-Complex human experience need not be divided into separate mental systems. It can instead be understood as phases of admissible future geometry unfolding over time.
+Folk language supplies useful reader questions. Conditional structural reconstruction can clarify them while keeping mechanisms, physical support, qualitative mapping, truth and numerical identity independently accountable. It is neither an exhaustive reduction of ordinary psychology nor a fixed dictionary from words to frontier geometry.

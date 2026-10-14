@@ -14,7 +14,7 @@ ier:
   - guardrails_and_orientation
   category: comparative_boundary
   filename: IER-nonentailment.md
-  version: 10.11.5
+  version: 10.11.6
   requires:
     hard:
     - IER-specification
@@ -36,7 +36,7 @@ ier:
 
 ## Why Experience Does Not Imply What Intuition Demands
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T3 · Guardrail · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -89,6 +89,20 @@ Experience alone does not entail:
 - moral certainty
 
 These non-entailments are not externally imposed limitations. They follow directly from the structure of the IER identity claim itself.
+
+## What a Non-Entailment Leaves Open
+
+A non-entailment identifies a missing premise. Suppose a qualifying operation
+bears urgent, coherent constraint. Those facts describe the operation; they do
+not state whether a belief about an external object is accurate. Accuracy needs
+independent evidence concerning that object. Urgency can remain while such
+evidence changes, without a contradiction of experiential identity.
+
+Similarly, one subject's existence does not enumerate other qualifying operations
+or establish the evolutionary history of its architecture. Physical investigation
+can bear on either question. The blocked step is treating the existence of
+experience alone as a sufficient premise, not supplying and evaluating additional
+evidence. A non-entailment is not a claim that its conclusion is always false.
 
 ## Probabilistic and Selection Interpretations
 
@@ -199,6 +213,12 @@ Experience may exist:
 Conversely, life, intelligence, and functional control may occur without
 experience.
 
+The Specification's experiential agency is the derived capacity of a UEF to
+resolve intrinsic tension through its own integrated dynamics. That capacity
+must not be confused with successful control, deliberation, or every exercise
+of action. Those expressions require further conditions; their impairment does
+not by itself remove subjecthood or standing.
+
 Any framework that treats these properties as mutually entailing reintroduces functional or representational criteria into the IER identity claim.
 
 ## Experience Does Not Entail Moral Certainty
@@ -254,8 +274,8 @@ These inferences remain invalid regardless of intuition, plausibility, precedent
 
 ## Summary Constraint
 
-> IER tells you exactly what experience is.
-> It tells you almost nothing else.
+> The identity proposal fixes what a qualifying experiential operation is.
+> Further conclusions require the premises appropriate to their questions.
 
 Experience alone cannot justify conclusions about universality, rarity, purpose, truth, moral certainty, or epistemic privilege.
 

@@ -34,7 +34,7 @@ ier:
 
 ## Choice Spaces, Narrative Paths, and Ownership of Alternatives
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -42,7 +42,7 @@ ier:
 
 This document is NON-NORMATIVE.
 
-It provides an explanatory and structural account of *choice* under Informational Experiential Realism (IER v10.11.5).
+It provides an explanatory and structural account of *choice* under Informational Experiential Realism (IER v10.11.6).
 
 This document:
 
@@ -271,6 +271,12 @@ experiential choice there. Physical costs, records, and history-bearing
 consequences can nevertheless persist and affect later continuation. Unowned
 physical branching does not imply consequence-free dynamics or necessary dissolution.
 
+
+## A Live Alternative and an Owned Foreclosure
+
+Suppose a qualifying operation has two physically live continuations: waiting and acting, under independently justified conditions. Ordinary continuation along the waiting path does not alone show that acting was foreclosed or refused. If the live acting alternative participates in organizing non-entry, that can support the separate refusal-organization question; it does not follow from the path drawing.
+
+Now stipulate an actual irreversible foreclosure under live multiplicity whose resolution is internally borne by the qualifying operation. That episode supplies the stated choice-proper conditions. The foreclosed region need not contain every alternative. A deadline, instruction, or branching program by itself supplies neither the physical foreclosure event nor its ownership. The comparison distinguishes lawful realization, refusal-organization, and owned choice without assigning a concrete behavioral or responsibility verdict.
 
 ## Narrative as Path Through a Choice Space
 

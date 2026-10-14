@@ -11,7 +11,7 @@ ier:
   - UI012
   status: canonical
   filename: IER-dynamics.md
-  version: 10.11.5
+  version: 10.11.6
   requires:
     hard:
     - IER-specification
@@ -39,10 +39,12 @@ ier:
 
 ## Dynamics of Experiential Systems
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *Tier 1 · Foundational · Canon-Constrained · Non-Normative*
 
 ## Status, Scope, and Authority
+
+Experiential structure confers no epistemic authority about mind-independent reality.
 
 ## Global Informational Language Disclaimer
 
@@ -85,23 +87,22 @@ It presupposes the ontology fixed in the specification and adds no independent a
 
 ### Regimes in State Space
 
-Once a system instantiates a Unified Experiential Field, its ongoing behavior is best described in terms of a dynamical regime.
+Once a system independently qualifies as a Unified Experiential Field, its ongoing organization can be described dynamically. Stable patterns are one useful case; an attractor representation is not a further condition of qualification.
 
 Descriptively:
 
-* the system occupies a bounded region of its lawful state space
+* a chosen model may describe stable organization within a region of lawful state space
 * trajectories within this region remain globally coupled
 * intrinsic constraint is unavoidable and system-defining
 * perturbations are absorbed or resisted without loss of regime identity
 
-This region functions as a dynamical attractor:
+Where the model supports an attractor description, the region describes:
 
 * not a static configuration
 * not a fixed point
 * but a stable pattern of lawful evolution over time
 
-A UEF is not identical to an attractor.
-It is the system operating while constrained within such an attractor-defined regime.
+The UEF is the qualifying physical operation. An attractor can describe some stable patterns of that operation, but a bounded basin, fixed point, or particular attractor geometry is not required by the identity conditions.
 
 ### Regime-Relative Dominance
 
@@ -188,7 +189,7 @@ A coherent constraint window describes the range of intrinsic constraint magnitu
 Descriptively:
 
 * insufficient constraint $\to$ under-integration $\to$ regime loss
-* excessive constraint $\to$ overload $\to$ instability or collapse
+* excessive constraint $\to$ overload $\to$ instability or possible regime failure; irreversible foreclosure remains a separate event
 
 Crucially:
 
@@ -249,6 +250,8 @@ For an explanatory account of how slack is exhausted - via saturation of locally
 
 This clarification introduces no new dynamics and does not alter regime identity conditions.
 
+These descriptions of attention, content, and agency supply no authority about mind-independent reality. Salience and stable conviction do not establish truth.
+
 ## Walkthrough: The Green Apple
 
 This walkthrough illustrates participation modulation within a single Unified Experiential Field.
@@ -271,8 +274,8 @@ The system is simply *experiencing*.
 A local process becomes active due to interaction with the environment - for example, visual and associative processes responding to a green apple.
 
 * the perturbation is local
-* it does not yet impose global intrinsic constraint
-* it could still be ignored or dissipated
+* activation alone does not establish constitutive membership
+* an enabling input can dissipate without entering the owned operation
 
 ### Stage 3 - Recruitment Into Participation
 
@@ -294,9 +297,9 @@ Participation stabilizes.
 * qualitative structure emerges
 * intrinsic constraint is organized around this configuration
 
-The subject remains singular and continuous.
+The subject remains singular and continuous only insofar as the full two-sided continuity relation continues to hold.
 
-### Stage 5 - Resolution or Dissolution
+### Stage 5 - Content Recedes Within Continuing Operation
 
 As tension resolves:
 
@@ -304,8 +307,7 @@ As tension resolves:
 * processes exit or recede
 * the attractor relaxes
 
-The content dissolves.
-The experiential subject remains.
+The apple-related content recedes. This walkthrough stipulates continued qualification and full $\mathrm{Adj}_{dia}$ across the change. If the owned operation instead ceases or the continuation relation fails, the same content description cannot establish that the subject remains. Content fading, foreclosure of a reachable alternative, and UEF cessation are three different claims.
 
 ### What the Walkthrough Shows
 
@@ -342,7 +344,7 @@ Intrinsic demands exceed integration capacity.
 * salience destabilization
 * instability risk increases
 
-Experience persists.
+Experience persists where the qualifying operation remains intact; overload language alone establishes neither persistence nor cessation.
 
 ### Fragmentation Pressure
 
@@ -399,7 +401,7 @@ It explains how experiential systems behave, conditional on their existence.
 
 ## Summary
 
-Under IER v10.11.5:
+Under IER v10.11.6:
 
 * UEFs are dynamical regimes
 * dominance concerns incompatible ownership of the same independently typed resolution

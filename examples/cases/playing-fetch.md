@@ -2,14 +2,14 @@
 
 ## Play as Broad Continuation and Compressible Failure
 
-**Informational Experiential Realism (IER v10.10.7)**
+**Informational Experiential Realism (IER v10.11.6)**
 *Illustrative Example · Non-Normative · Non-Criterial*
 
 ## Status, Scope, and Authority
 
 This is a worked interpretation of a familiar activity. It introduces no new
 IER criteria, behavioral mechanisms, or diagnostic claims about animal
-experience. Canonical documents govern the theory.
+experience. The [Specification](../../IER/IER-specification.md) governs the theory.
 
 The continuation of an activity involving a dog and a human does not establish one experiential
 regime or a shared Unified Experiential Field (UEF). The account below describes
@@ -37,14 +37,16 @@ as throwing, chasing, searching, pausing, or inviting another throw.
 A forgiving episode of fetch leaves many such opportunities open. The dog
 can approach indirectly; the person can retrieve the ball instead; both can
 pause and resume. These are possible ways of preserving the activity, rather
-than a requirement that every episode of fetch behave alike.
+than a requirement that every episode of fetch behave alike. Anticipated or
+imagined opportunities can be mistaken; their description is not an inventory
+of physically reachable successors.
 
 ## Compressible Failure
 
 Suppose the dog overshoots the ball. The immediate retrieval has failed, but
 little may need to change for play to continue. The person can wait, gesture,
 or throw again. In this illustrative use, the failure is *compressible*: it can
-be absorbed without reorganizing the whole interaction.
+be absorbed without reorganizing the whole interaction. [Compressibility](https://github.com/mlehotay/ier/blob/main/IER/IER-compressibility.md) owns the conditional theory relation; forgiving play does not supply a measured compression quantity or independence-preserving informational slack.
 
 That tolerance has limits. Fatigue, injury, loss of interest, or an unavailable
 toy may interrupt or end the game. Whether a deviation is absorbable depends

@@ -12,7 +12,7 @@ ier:
   canonical: false
   canonical_authority: none
   filename: IER-edible-woman-literary-context.md
-  version: 10.11.3
+  version: 10.11.6
   provides:
     - orientation to established criticism of The Edible Woman
     - distinction between critical consensus and interpretive dispute
@@ -37,7 +37,7 @@ ier:
 
 ## Established Readings, Live Disputes, and What the IER Analysis Adds
 
-**Informational Experiential Realism (IER v10.11.3)**
+**Informational Experiential Realism (IER v10.11.6)**
 
 *Tier 4 · Literary Context · Draft · Non-Normative · Non-Canonical*
 
@@ -53,9 +53,9 @@ It is not a claim that literary scholars have agreed on one official meaning. It
 - oversimplifications that should not be presented as scholarly consensus;
 - the explanatory claims introduced or sharpened by the IER application.
 
-The novel remains the primary authority for what happens in the text. Scholarship supplies arguments about the significance, organization, and historical meaning of those events. The factual chronology used here is controlled by `edible-woman-claims-ledger.md`.
+The novel remains the primary authority for what happens in the text. Scholarship supplies arguments about the significance, organization, and historical meaning of those events. The factual chronology used here is controlled by the [claims ledger](edible-woman-claims-ledger.md). The IER comparison uses the article’s [current premises and literary limits](IER-edible-woman.md#current-ier-premises-and-literary-limits); textual continuity and practical authorship are not physical attribution tests.
 
-# 1. Is There an Accepted Interpretation?
+## 1. Is There an Accepted Interpretation?
 
 Literary study is neither an answer key nor the Wild West.
 
@@ -75,7 +75,7 @@ Peer review is therefore a quality filter, not a truth oracle. Citation counts a
 
 For *The Edible Woman*, the stable centre is clear enough to describe. The novel is widely read as a comic and disturbing critique of the relation among consumer culture, gendered social roles, female embodiment, threatened identity, and eating. The interpretive frontier begins when critics ask exactly how Marian's food refusal works and how complete her apparent recovery is.
 
-# 2. The Critical Centre of Gravity
+## 2. The Critical Centre of Gravity
 
 The following map gives the most useful approximation to a “standard interpretation.”
 
@@ -91,7 +91,7 @@ The following map gives the most useful approximation to a “standard interpret
 
 This centre is visible across feminist, materialist, psychoanalytic, narrative, and body-oriented criticism. Emma Parker's influential account treats eating as a metaphor for power and non-eating as both powerlessness and protest. J. Brooks Bouson emphasizes the novel's ability to resist the tidy explanatory schemes critics build around it. Jennifer Hobgood explicitly describes a divide between optimistic liberation readings and materialist-feminist protest readings, then argues that the novel's unstable structure complicates both. More recent work continues to place bodily self-alienation, consumerism, and resistance at the centre while resisting a single-sentence solution. See [Parker 1995](https://www.jstor.org/stable/441857), [Bouson 1990](https://www.jstor.org/stable/42945853), [Hobgood 2002](https://www.jstor.org/stable/10.5325/style.36.1.146), and [Roles 2021](https://doi.org/10.7560/TSLL63303).
 
-# 3. Feminist Social Satire
+## 3. Feminist Social Satire
 
 The most common broad description is that *The Edible Woman* is a feminist or protofeminist social satire.
 
@@ -110,15 +110,15 @@ These options are satirically exaggerated but not simply unreal. The comedy depe
 
 This reading should not be reduced to “Peter is patriarchy.” Peter locally concentrates conventional masculine authority, predatory imagery, professional respectability, and photographic control. Yet Clara, Ainsley, the office, the family, advertising, fashion, and Marian's own habits also reproduce the available system. Fiona Tolan's book-length treatment of Atwood's feminism and later body-oriented scholarship are useful for this wider frame. Sarah Appleton situates *The Edible Woman* within Atwood's recurring depictions of female bodily self-obliteration and reclamation. See [Tolan 2007](https://brill.com/downloadpdf/display/book/9789401204545/B9789401204545-s003.pdf) and [Appleton 2021](https://doi.org/10.1017/9781108626651.006).
 
-## What is stable here
+### What is stable here
 
 The novel exposes the limited and gendered social scripts available to Marian.
 
-## What remains disputed
+### What remains disputed
 
 Whether Marian discovers an authentic identity outside those scripts, negotiates a less destructive position within them, or merely interrupts one particular future.
 
-# 4. Consumer Culture, Commodification, and Classification
+## 4. Consumer Culture, Commodification, and Classification
 
 The consumer reading is as central as the feminist reading because the novel makes them structurally inseparable.
 
@@ -128,15 +128,15 @@ Under this reading, Marian is both an agent and an object of consumer culture. S
 
 Materialist readings differ in emphasis. Parker organizes the politics around the asymmetry between those who consume and those who are consumed. Hobgood uses the novel's unstable form to argue that capitalism both constrains subjectivity and produces unstable openings for desire. Cailin Flannery Roles connects Marian's self-alienation to postwar consumer culture and emphasizes that the novel offers no easy exit from late capitalism. Poonam Bajwa develops a narrower extension: Duncan's graduate-school world permits the novel to satirize the commercialization of literary scholarship itself. See [Roles's account of the project](https://utpress.utexas.edu/blog/2022/07/11/consumerism-identity-in-margaret-atwoods-the-edible-woman-a-conversation-with-cailin-roles/) and [Bajwa 2010](https://journals.lib.unb.ca/index.php/SCL/article/view/18328).
 
-## What is stable here
+### What is stable here
 
 The consumer/consumed relation organizes work, food, gender, appearance, and intimacy.
 
-## What remains disputed
+### What remains disputed
 
 Whether Marian's final eating represents active consumer agency, unavoidable complicity, a return to normality, or all three at once.
 
-# 5. Food, Power, and Bodily Protest
+## 5. Food, Power, and Bodily Protest
 
 The conventional interpretation does not treat Marian's changing diet as a neutral sequence of food preferences. Her body increasingly refuses objects she can connect to life, flesh, vulnerability, or organic form. Critics usually relate this expansion to her own growing sense of being vulnerable to consumption.
 
@@ -154,15 +154,15 @@ Third, the refusal is both resistant and dangerous. It prevents Marian from part
 
 Sofia Sanchez-Grant and the Cambridge body scholarship place Marian within Atwood's wider concern with female bodies as sites of objectification, disappearance, and attempted reclamation. More recent work on vulnerability emphasizes that fragility and resistance need not be opposites. See [Sanchez-Grant 2008](https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1314&context=jiws) and [Appleton 2021](https://doi.org/10.1017/9781108626651.006).
 
-## What is stable here
+### What is stable here
 
 Marian's inability to eat is meaningfully related to threatened identity, objectification, and the consumer/consumed relation.
 
-## What remains disputed
+### What remains disputed
 
 Whether the body should be understood as unconscious knowledge, symptom, metaphor, protest, abjection, nonconscious resistance, or an unstable combination of these.
 
-# 6. Narrative Voice and Self-Alienation
+## 6. Narrative Voice and Self-Alienation
 
 The novel's three-part pronoun structure is one of its most discussed formal features:
 
@@ -176,15 +176,15 @@ The simplest version says Marian loses her identity and then gets it back. That 
 
 Bouson's account is important because it warns against mastering the novel through an overly neat structure. Hobgood similarly treats the shifting point of view and asymmetrical three-part form as evidence that the novel presents a more unstable subject than the loss-and-restoration formula permits. The form supports a reorganization of narrative agency; it does not prove that a unified, authentic self disappeared and returned unchanged.
 
-## What is stable here
+### What is stable here
 
 The pronoun shift is meaningfully connected to Marian's estrangement and changed participation in her own story.
 
-## What remains disputed
+### What remains disputed
 
 Whether the final return to “I” signals restored identity, provisional agency, formal closure, or an ironic claim that the novel itself partly undermines.
 
-# 7. The Woman-Cake
+## 7. The Woman-Cake
 
 The woman-shaped cake is the critical centre of the ending because it makes the novel's governing metaphor materially explicit.
 
@@ -201,25 +201,25 @@ Many readings describe the cake as a symbol of recovered agency or a counter-can
 
 The strongest conventional conclusion is therefore limited: the cake allows Marian to refuse the threatened marriage trajectory directly. It does not abolish gender, capitalism, eating, dependency, or implication in harm.
 
-# 8. The Ending: Liberation or Continued Complicity?
+## 8. The Ending: Liberation or Continued Complicity?
 
 This is the most important established dispute.
 
-## Affirmative reading
+### Affirmative reading
 
 Marian names the threat, rejects Peter, eats again, resumes first-person narration, and cleans her apartment. The sequence supports recovered agency, bodily reintegration, and renewed capacity to act. On this reading, the cake is an effective creative intervention and the novel completes a comic movement away from an unsuitable marriage.
 
-## Skeptical reading
+### Skeptical reading
 
 Marian has not escaped consumer society. She resumes eating meat, performs domestic cleaning, gives the remaining cake to Duncan, and accepts the role of consumer. The future beyond Peter remains unspecified. On this reading, the ending risks restoring normality more than transforming the conditions that produced the crisis.
 
-## Qualified reading
+### Qualified reading
 
 The most persuasive synthesis is that Marian achieves a real but limited reorganization. She is no longer committed to becoming Peter's wife and can again nourish and narrate herself. She has not transcended consumption or discovered a socially uncontaminated true self. The novel treats agency as possible within implication, not as escape from every system.
 
 Hobgood's article is especially useful for locating the historical critical divide. Roles's later account likewise stresses that the novel offers critique and altered positionality rather than an easy exit from capitalism. The IER article's ending is closest to this qualified reading.
 
-# 9. Established Secondary Traditions
+## 9. Established Secondary Traditions
 
 The readings below are legitimate parts of the scholarship but should not be mistaken for universal consensus.
 
@@ -235,7 +235,7 @@ The readings below are legitimate parts of the scholarship but should not be mis
 
 T. D. MacLulich's early fairy-tale reading compares the novel with eating tales such as “The Gingerbread Man” and “Little Red Cap.” Ellen McWilliams places food and hunger within feminist, Canadian, postcolonial, and female-development contexts. Newer ecofeminist work links the consumption of women and animals, though this is a developing extension rather than the original critical consensus. See [MacLulich's reprinted essay](https://www.cambridge.org/core/books/cambridge-introduction-to-margaret-atwood/further-reading/711C2CA10ADA89B867E0DCC153A5C402), [McWilliams 2006](https://ro.uow.edu.au/kunapipi/vol28/iss2/9/), and [Mijomanović 2016](https://doi.org/10.25038/am.v0i10.135).
 
-# 10. Common Oversimplifications to Avoid
+## 10. Common Oversimplifications to Avoid
 
 The following claims are common in summaries but should not be presented as the accepted interpretation:
 
@@ -250,7 +250,7 @@ The following claims are common in summaries but should not be presented as the 
 | Atwood's word “protofeminist” makes feminist readings mistaken. | The label describes historical position and authorial framing, not an interpretive prohibition. |
 | Every scholarly interpretation is equally valid. | Interpretations remain accountable to textual accuracy, explanatory reach, prior criticism, and counterevidence. |
 
-# 11. What the IER Reading Shares With Existing Criticism
+## 11. What the IER Reading Shares With Existing Criticism
 
 The IER article should not claim novelty for conclusions the critical tradition already established.
 
@@ -266,7 +266,7 @@ IER shares the following with conventional scholarship:
 
 These are the bridge article's scholarly starting points, not its proprietary discoveries.
 
-# 12. What IER Reframes or Adds
+## 12. What IER Reframes or Adds
 
 IER's contribution lies primarily in explanatory organization. It asks what kind of process could connect the established observations without treating symbols, bodily reactions, social forces, and decisions as separate magical causes.
 
@@ -288,7 +288,7 @@ The strongest candidate for an original IER contribution is therefore not “the
 
 That claim remains a bridge hypothesis. To become an academic contribution, it must be compared directly with adjacent accounts of displacement, somatic expression, conversion, metaphor enactment, affective appraisal, and embodied protest. IER terminology alone does not establish novelty.
 
-# 13. How an English Professor or Psychologist Can Evaluate the IER Article
+## 13. How an English Professor or Psychologist Can Evaluate the IER Article
 
 An English professor does not need to accept IER's ontology to test the reading. The immediate questions are literary:
 
@@ -308,17 +308,17 @@ A psychologist can treat the article as a theoretical redescription rather than 
 
 These questions allow the literary reading to succeed, fail, or be revised independently of the truth of IER's full physical identity theory of experience.
 
-# 14. Recommended Scholarly Reading Path
+## 14. Recommended Scholarly Reading Path
 
-## Five-source orientation
+### Five-source orientation
 
 1. **Emma Parker, “You Are What You Eat” (1995).** The most useful entry point for food, power, consumption, and gender across Atwood's novels. [JSTOR record](https://www.jstor.org/stable/441857)
 2. **J. Brooks Bouson, “The Anxiety of Being Influenced” (1990).** Useful for the novel's resistance to tidy critical mastery and the reader's involvement in Marian's fears. [JSTOR record](https://www.jstor.org/stable/42945853)
 3. **Jennifer Hobgood, “Anti-Edibles” (2002).** Clearly identifies the liberation-versus-materialist dispute and complicates it through capitalism, narrative form, and unstable subjectivity. [JSTOR record](https://www.jstor.org/stable/10.5325/style.36.1.146)
 4. **Sofia Sanchez-Grant, “The Female Body in *The Edible Woman* and *Lady Oracle*” (2008).** Places bodily disappearance and reclamation within Atwood's recurring treatment of female embodiment. [Open PDF](https://vc.bridgew.edu/cgi/viewcontent.cgi?article=1314&context=jiws)
-5. **Cailin Flannery Roles, “The Surface on Which You Work” (2021).** A recent account joining self-alienation to postwar consumer culture and rejecting easy escape from capitalism. [DOI](https://doi.org/10.7560/TSLL63303)
+5. **Cailin Flannery Roles, “‘The Surface on Which You Work’: Self-Alienation and the Culture of Narcissism in *The Edible Woman*” (2021).** A recent account joining self-alienation to postwar consumer culture and rejecting easy escape from capitalism. [DOI](https://doi.org/10.7560/TSLL63303)
 
-## Extensions by question
+### Extensions by question
 
 - **Female bodies across Atwood:** Sarah A. Appleton, “Margaret Atwood's Female Bodies” (2021). [DOI](https://doi.org/10.1017/9781108626651.006)
 - **Corporeal fragility and resistance:** Anna Kisiel, “Her Body Islanded” (2021). [DOI](https://doi.org/10.5604/01.3001.0015.5567)
@@ -328,7 +328,7 @@ These questions allow the literary reading to succeed, fail, or be revised indep
 - **Academic commercialization:** Poonam Bajwa, “Margaret Atwood's *The Edible Woman* and the Commercialization of Literary Scholarship” (2010). [Journal record](https://journals.lib.unb.ca/index.php/SCL/article/view/18328)
 - **Food, cannibalism, fertility, and postcolonial mimicry:** Stevan Mijomanović, “Cannibalism, Fertility, and the Role of Food” (2016). [DOI](https://doi.org/10.25038/am.v0i10.135)
 
-# 15. Practical Publication Guidance for the IER Article
+## 15. Practical Publication Guidance for the IER Article
 
 For a project application, `IER-edible-woman.md` can remain a self-contained theoretical bridge. For submission to a literary journal or presentation to an academic audience, it would need several additions:
 
@@ -345,7 +345,7 @@ The resulting academic claim would be modest but real:
 
 > The article does not overturn the standard feminist-consumer reading of *The Edible Woman*. It proposes a more explicit account of how the novel's governing consumption relation moves between social role, bodily refusal, food, cleaning, photography, and material representation—and how the cake changes that relation from something Marian undergoes into something she can directly act upon.
 
-## Source Note
+### Source Note
 
 This document maps a representative critical conversation rather than providing a complete systematic review of every publication on *The Edible Woman*. Its hierarchy of “near-consensus,” “established dispute,” and “specialist extension” is an analytical judgement based on recurrence across influential and recent scholarship, not a formal vote among critics.
 

@@ -14,7 +14,7 @@ It:
 * grants no epistemic or ethical authority
 * revises no canonical claims
 
-This example remains subordinate to the Tier-1 and Tier-2 IER corpus, especially *IER-taxonomy* and *IER-state-evolution*.
+This example remains subordinate to the [Taxonomy](../../IER/IER-taxonomy.md) and [State Evolution](https://github.com/mlehotay/ier/blob/main/IER/IER-state-evolution.md). Stable flow is a mechanical description; it establishes neither an experiential regime nor numerical subject identity.
 
 If anything here conflicts with canonical material, the canonical material prevails.
 
@@ -68,7 +68,9 @@ They are stable patterns of flow under a given constraint configuration.
 
 In *IER-taxonomy*, this corresponds to a regime:
 
-> a temporally extended, globally coherent organization that persists and shapes what can happen next.
+> a persistent organization shaping continuation across an interval.
+
+The analogy illustrates persistence of organization. In the experiential taxonomy, qualification of the underlying UEF is a separate premise.
 
 The hose remains the same hose.
 
@@ -119,9 +121,7 @@ In *IER-taxonomy*, this corresponds to an excursion:
 
 > a transient deviation within a regime that resolves without altering global organization.
 
-The stream never left its pattern.
-
-It fluctuated and returned.
+The stream departed temporarily from its usual configuration and returned without replacing its overall organization. An excursion can also be within-regime state evolution; these descriptions can overlap.
 
 
 ## State Evolution: Gradual Change Without Reorganization
@@ -162,15 +162,9 @@ The existing organization continues in a slightly different configuration.
 
 The hose metaphor provides a way to visualize the structural limits laid out in *IER-taxonomy*.
 
-At any moment, the stream is:
+The stream can retain one persistent pattern while its parameters shift, temporarily depart and return, or reorganize into a different pattern.
 
-* in one stable pattern (regime),
-* briefly reorganizing between patterns (transition), or
-* temporarily fluctuating within a pattern (excursion).
-
-And sometimes:
-
-* the same pattern persists while its internal parameters shift (state evolution).
+These are compatible descriptive roles, not an exhaustive set of mutually exclusive states. A fluctuation can be both an excursion and state evolution. Pattern replacement does not by itself establish irreversible foreclosure, and continued flow does not establish the full [Continuity](../../IER/IER-continuity.md) relation.
 
 The metaphor does not add new categories.
 
@@ -209,7 +203,7 @@ That is enough to hold:
 * excursions
 * state evolution
 
-without multiplying kinds of events.
+without treating those descriptions as exclusive event kinds.
 
 
 > One flow.

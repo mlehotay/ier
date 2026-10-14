@@ -1,12 +1,12 @@
 # Green Acorns
 ## Qualitative Differentiation Without Phenomenal Composition
 
-**Informational Experiential Realism (IER v10.11.5)**
+**Informational Experiential Realism (IER v10.11.6)**
 *Tier-2 · Explanatory Analogy · Non-Normative · Canon-Subordinate*
 
 ## Status, Scope, and Authority
 
-This example illustrates the distinction between one physically instantiated experiential operation, its qualitative differentiation, and a cognitive description of that differentiation. It does not introduce an ontological primitive, criterion, threshold, diagnostic, or mechanism of experiential production. It does not establish the physical boundary of a Unified Experiential Field (UEF), demonstrate intrinsic closure, or infer experience from ordinary sensory processing. All identity and subjecthood claims remain governed by the IER Specification and canon-constrained elaborations.
+This example illustrates the distinction between one physically instantiated experiential operation, its qualitative differentiation, and a cognitive description of that differentiation. It does not introduce an ontological primitive, criterion, threshold, diagnostic, or mechanism of experiential production. It does not establish the physical boundary of a Unified Experiential Field (UEF), demonstrate intrinsic closure, or infer experience from ordinary sensory processing. All identity and subjecthood claims remain governed by the [Specification](../../IER/IER-specification.md), [Processes](../../IER/IER-processes.md), [Qualia](../../IER/IER-specification.md#qualia), and [Continuity](../../IER/IER-continuity.md).
 
 The acorn is a familiar case of a human sensory experience, not a proposed UEF model or a claim that an acorn experiences anything. The description *green* is a report about the eater's experience, not a property of a separate experiential object.
 
@@ -14,7 +14,7 @@ The acorn is a familiar case of a human sensory experience, not a proposed UEF m
 
 As a child, someone bites into a raw acorn and finds it unpleasantly *green*. Green is not a basic taste, yet the description seems apt. The experience may involve bitterness, a woody or vegetal aroma, astringent mouth-drying, and a dense, starchy texture. The astringency may feel puckering or even chalky, but *chalky* is a possible description of mouthfeel, not a necessary property of every raw acorn. Different acorns and degrees of maturity will differ.
 
-These ordinary descriptions are not a chemical assay. In particular, tannins can contribute both bitterness and astringency, while the precise aroma and texture cannot be inferred from the child's memory alone. The point is that the eater experiences a recognizable configuration and calls it *too green* without first identifying or independently measuring its constituents.
+These ordinary descriptions are not a chemical assay. Controlled sensory work on flavan-3-ols distinguishes [bitterness and astringency](https://scijournals.onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291097-0010%28199906%2979%3A8%3C1123%3A%3AAID-JSFA336%3E3.0.CO%3B2-D) (Peleg, Gacon, Schlich, and Noble, 1999). That study is background for the distinction; it neither assays this acorn nor identifies the child's experience. The precise aroma and texture cannot be inferred from the child's memory alone. The point is that the eater experiences a recognizable configuration and calls it *too green* without first identifying or independently measuring its constituents.
 
 ## One Operation, Different Descriptions
 

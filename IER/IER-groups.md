@@ -8,270 +8,72 @@ ier:
   category: relational_regimes
   status: canonical
   filename: IER-groups.md
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-relationships
+    - IER-ownership
+    - IER-processes
+    - IER-continuity
+    - IER-slack
+    - IER-ethics
+    - IER-responsibility
+    - IER-multiscale-uefs
+    guardrails:
+    - IER-canon
 ---
+
 # Groups
 
-## Groups as Coordination Without Subjecthood Under Informational Experiential Realism
+## Coordination and the Burden of Collective Attribution
 
-**Informational Experiential Realism (IER v10.11.1)**\
-*Case Analysis - Tier 2 - Non-Normative - Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.6)**\
+*T2 · Case · Non-Normative · Canon-Constrained*
+
+## Abstract
+
+Role- and norm-mediated group coordination does not by itself establish collective experience. Group-level descriptions, shared goals, mutual accommodation and personal vulnerability can coexist without merging subjects. A collective candidate needs independently justified closure, ownership, constitutive membership and produced-and-inherited continuity; actual independence-preserving slack excludes it at the same scope. Parasocial representation, organizational breakdown and moral significance retain their separate inference limits.
 
 ## Status, Scope, and Authority
 
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-
-
-This document is explanatory and non-normative.
-
-It:
-
-* introduces no new ontological claims
-* introduces no ethical principles or obligations
-* does not define experience or experiential standing
-* does not rank groups relative to other relational regimes
-* does not prescribe how groups ought to be formed, governed, or valued
-
-The governing corpus retains all binding authority.
-
-Purpose of this document
-
-> To analyze groups as coordination regimes that distribute constraint across roles and norms without ever constituting an experiential subject under Informational Experiential Realism (IER).
-
-This document develops only the structural region occupied by groups.
-The general relational map and shared machinery are defined in *IER Relationships*.
-
-### Invariant Constraints (Binding)
-
-All analysis in this document presupposes:
-
-* Single-UEF dominance - one experiential subject per Unified Experiential Field
-* Structural privacy - no subject has access to another’s intrinsic constraint
-* No fusion - UEFs do not merge
-* No shared intrinsic constraint
-* No transfer of experiential standing
-* No collective experiencer within the group regime defined here
-
-Groups as defined here coordinate subjects; they do not become subjects merely
-through coordination.
+This article examines coordination regimes, rather than assert an empirical survey of every group. *Relationships* (`IER-relationships.md`) owns relational descriptions; [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md) own physical qualification. Group labels add no subject criterion or ethical prescription.
 
 ## Regime Identification
 
-### Groups’ Role in the Relational Section
+In the role-mediated group case, participants coordinate through roles, norms, artifacts and procedures. Persistence of the organization can outlast a participant and can be represented as one agent. Such organizational unity is not evidence of a UEF by itself.
 
-Groups occupy the boundary regime of relational space.
+People in groups can also form friendships, exchange vulnerability and reshape one another's practical continuations. Group coordination is compatible with those relations; the earlier claim that groups never accommodate another's intrinsic constraint was unwarranted. Neither accommodation nor intimacy fuses experiential tokens.
 
-They represent cases in which:
+## Structural Geometry and Coordination
 
-* coordination occurs among many subjects
-* constraint is managed through roles, norms, and institutions
-* accommodation is distributed, not personal
-* persistence is structural, not experiential
-* salience may be high without subjecthood
+Time horizon, reciprocity, role symmetry, costs and exit conditions can describe the group at its declared scale. They do not constitute the full physical closure and ownership account. Coordination through a procedure can impose real costs on participants even while allowing organizational resolution through independently continuing interfaces.
 
-Groups are the canonical case that explains why ordinary role- and norm-based
-coordination does not aggregate into experience.
+If a relevant restriction can actually be localized, deferred or externally resolved while independence is preserved, that slack defeats qualification of the collective candidate for that restriction, scope and interval. Merely having a manager, documents or waiting periods does not demonstrate the pathway.
 
-### Canonical One-Sentence Definition
+## Why a Group Can Feel Unified
 
-> Under Informational Experiential Realism, groups are coordination regimes in which multiple experiential subjects align behavior through roles, norms, or institutions that distribute constraint externally, without generating a unified experiential field or collective intrinsic constraint.
+Shared symbols, goals and recurring activity can support a representation of “us.” Each participant can reproduce that organization while bearing their own current constraint. A shared description establishes neither a shared point of view nor transferable first-person occupancy.
 
-This definition blocks group minds by construction.
+An independently qualifying collective architecture is not excluded by scale or a group label. It would need a separately justified inseparable support problem, owned burden, constitutive membership and full stage continuity. Participants' own qualification does not automatically establish or refute qualification of the larger candidate. Nested physical operation remains possible under independent typing.
 
-## Structural Geometry of Groups
+## Parasocial and Celebrity Cases
 
-### Axis Values
+A participant can organize activity around a representation of another person without reciprocal accommodation by that person. The attachment can be experientially real even when the represented person does not know the participant.
 
-Groups are defined by the following configuration:
+This is a conditional comparison, not a diagnosis or a rule placing every mediated connection outside dyadic relations. Actual interaction and repair can change its characterization. Narrative access alone does not establish reciprocity, shared futures or numerical identity.
 
-* Time horizon: variable (often long-lived)
-* Reciprocity: role-based, not personal
-* Future binding: norm-mediated, not experiential
-* Symmetry: role-dependent
-* Cost structure: distributed and variable
-* Exit structure: role- and institution-dependent
+## Failure, Harm and Accountability
 
-These features explain group persistence without invoking shared experience.
+Misaligned roles, excessive demands and constrained exit can damage coordination and can harm qualifying participants where the ethical conditions are established. Organizational breakdown does not by itself prove UEF collapse, nor does continuing institutional function establish participants' safety.
 
-### Coordination Mechanics in Groups
+*Ethics* (`IER-ethics.md`) and *Responsibility* (`IER-responsibility.md`) retain their normative premises. Lack of demonstrated collective experience does not erase legal accountability, moral wrongs or the effects of organizational action. Standing is not summed upward from members or discounted through an efficiency description.
 
-In group regimes:
+## Neighboring Regimes and Summary
 
-* subjects coordinate via rules, norms, incentives, or authority
-* constraint is offloaded onto procedures and structures
-* participation is mediated by roles rather than personal accommodation
-* stabilization occurs at the behavioral and organizational level
+Friendship, caregiving, family and love can occur within groups rather than form an exclusive partition of social life. Distinguish the relevant relation from organizational membership and physical constitutive membership.
 
-Critically:
-
-* no subject reshapes their admissible futures *because of* another subject’s intrinsic constraint
-* coordination does not involve mutual vulnerability exchange
-* intrinsic constraint remains entirely individual
-
-Groups manage interaction, not experience.
-
-## Stabilizers and Functional Payoff
-
-### Why Groups Exist Under IER
-
-Groups exist because they:
-
-* allow large-scale coordination without intimacy
-* enable persistence beyond individual lifespans
-* distribute burden without personal obligation
-* scale action without scaling vulnerability
-
-Under IER terms:
-
-> Groups stabilize collective action by externalizing constraint into norms and roles rather than internalizing it within subjects.
-
-This explains the power of institutions, movements, teams, and organizations without attributing experience to them.
-
-### Why Groups Can Feel Unified
-
-Groups often feel like unified agents because:
-
-* coordination is temporally extended
-* narratives produce apparent continuity
-* symbols and identities compress complexity
-* shared goals synchronize behavior
-
-These features create representational unity, not experiential unity.
-
-IER treats this as a *cognitive compression*, not an ontological fact.
-
-## Boundary Conditions and Explicit Non-Claims
-
-Groups are not:
-
-* experiential subjects
-* moral persons by experience
-* holders of intrinsic constraint
-* capable of feeling, suffering, or caring
-* fused identities
-* minds above minds
-* bearers of standing independent of members
-
-No increase in size, complexity, or coordination density alone converts a group
-into a subject. A structurally different future architecture would require
-separate analysis.
-
-## Parasocial and Celebrity Cases (Option A Inclusion)
-
-Parasocial and celebrity relationships fall within the group regime, not dyadic relational regimes.
-
-### Structural Characterization
-
-In parasocial cases:
-
-* one subject reorganizes their intrinsic constraint around
-* a *role-mediated representation* of another subject
-* without reciprocal accommodation
-* and without shared future binding
-
-The admired subject participates only as a node within an institutionally mediated group structure (media, platform, audience).
-
-### Why Parasocial Attachment Feels Real
-
-Parasocial attachment feels real because:
-
-* salience is genuine
-* narrative identification reshapes identity
-* emotional regulation occurs internally
-* intrinsic constraint is truly reorganized
-
-IER does not pathologize this experience.
-
-It explains it structurally.
-
-### Why Parasocial Is Not a Relationship Regime
-
-Parasocial attachment lacks:
-
-* mutual constraint accommodation
-* vulnerability exchange
-* repair loops
-* shared future coordination
-
-The apparent “relationship” is a coordination illusion produced by institutional mediation and narrative access.
-
-No dyadic regime exists.
-
-## Common Misclassifications and Inflation Errors
-
-Groups are frequently misinterpreted due to scale and salience.
-
-Common errors include:
-
-### Group Mind Attribution
-
-Treating coordinated behavior as evidence of shared experience.
-
-### Moral Personhood Inflation
-
-Treating institutions as moral subjects rather than role systems.
-
-### Parasocial Confusion
-
-Treating narrative access as reciprocity.
-
-### Identity Subsumption
-
-Treating group membership as experiential fusion.
-
-These errors arise from confusing coordination with experience.
-
-## Failure Modes (Structural, Not Moral)
-
-Group regimes destabilize when:
-
-* roles become misaligned with capacity
-* norms exceed enforcement
-* institutional inertia replaces adaptability
-* individuals are treated as interchangeable experience-bearers
-* exit is suppressed by coercion rather than structure
-
-These failures reflect organizational breakdown, not experiential collapse.
-
-Groups cannot suffer.
-Only subjects can.
-
-## Relation to Neighboring Regimes
-
-Relative to adjacent regimes:
-
-* Friendship requires mutual accommodation absent in groups
-* Caregiving involves personal cost not distributed by role
-* Family shapes identity but does not collectivize experience
-* Love binds futures mutually, which groups never do
-
-Groups remain distinct because they coordinate without accommodating intrinsic constraint directly.
-
-## Ethical Neutrality Statement
-
-Under IER:
-
-* Group membership is not morally mandatory
-* Exit is structurally permissible, even if costly
-* Groups do not possess experiential rights
-* Moral claims about groups must be grounded elsewhere
-* Coordination does not generate standing
-
-IER explains how groups function.
-It does not sanctify them.
-
-## Closing
-
-Under Informational Experiential Realism, groups are powerful precisely because they do not experience.
-
-They are:
-
-* coordination systems
-* role-distribution mechanisms
-* norm-mediated stabilizers
-* scalable without intimacy
-* persistent without subjecthood
-
-Groups act.
-Subjects experience.
-
-> No amount of ordinary coordination alone turns action into experience.
+Coordination is consequential and can be richly reciprocal. It does not alone produce a collective subject. Establish the actual physical relations before claiming collective presence or absence, and retain the independent ethical significance of participants and institutional action.

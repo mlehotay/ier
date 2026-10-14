@@ -8,7 +8,7 @@ ier:
   category: structural_history_I
   status: canonical
   filename: IER-history-future-boundary.md
-  version: 10.11.5
+  version: 10.11.6
   requires:
     hard:
     - IER-specification
@@ -31,10 +31,12 @@ ier:
 
 ## The Structural Frontier Where Constraint Operates
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · FOUNDATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+Experiential structure confers no epistemic authority about mind-independent reality.
 
 This document names and clarifies a single structural locus already presupposed throughout the IER corpus:
 
@@ -95,9 +97,7 @@ Two structures are already established:
 
 These are not separate objects.
 
-They meet at a single locus:
-
-> where prior collapse has already deformed admissibility, and future reachability is now constrained.
+They meet at the current physical operation: inherited organization constrains what can follow. Where earlier foreclosure and incorporation occurred, sedimented deformation can contribute to that organization. This conditional route does not exhaust effective history or require a new collapse whenever the frontier advances.
 
 ## The History - Future Boundary Defined
 
@@ -117,15 +117,7 @@ It is:
 * the site of lawful successor realization and conditional irreversible resolution
 * the interface between what is no longer reachable and what remains possible
 
-On one side:
-
-* alternatives have been irreversibly removed
-* deformation has already occurred
-
-On the other:
-
-* futures remain admissible
-* reachability is still open
+Where irreversible foreclosure has occurred, its consequences can be physically inherited. What has already occurred is distinct from the currently admissible successors, which have not become actual merely by remaining reachable. This historical/current distinction does not require every lawful transition to remove an alternative.
 
 Intrinsic constraint is currently borne at the frontier. Its operation does
 not require loss of admissible futures at every advance.
@@ -165,15 +157,7 @@ It reflects:
 * what has been foreclosed
 * what cannot be otherwise
 
-Narrative corresponds to:
-
-* collapse removing alternatives
-* welding integrating that removal
-* sedimentation stabilizing deformation
-
-Narrative inevitability is structural:
-
-> not because the past is remembered, but because alternatives no longer exist.
+A narrative description can track ordinary realized succession as well as conditional collapse, incorporation, and stabilized inheritance. The occurrence of a past transition and irreversible removal of a previously reachable alternative are different claims. Narrative settlement or apparent inevitability cannot supply the missing physical foreclosure comparison.
 
 ## Continuing Frontiers and Numerical Identity
 
@@ -194,6 +178,12 @@ the qualifying operation. Reconstruction, shared matter, or stored records
 cannot bridge failure of the relation. Continuous operation requires no fresh
 collapse, welding, propagation, sedimentation, or re-entry at every frontier.
 Those terms retain their distinct conditional roles when foreclosure occurs.
+
+## An Inherited Restriction at a Later Frontier
+
+Suppose an earlier foreclosure leaves a physically instantiated deformation. At a later frontier that organization still affects switching costs and admissibility while an ordinary lawful successor occurs. The later operation does not retrieve a stored past experience, and no fresh foreclosure is needed merely to carry the effect forward. A finer account can identify the material mechanisms carrying that history.
+
+A copied record of the earlier deformation could resemble the present organization without being its uniquely produced successor. Thus effective history answers what currently constrains continuation; the full stage relation separately answers whether this is the same token operation. A present configuration, a record, or a nonempty future fibre cannot substitute for that relation.
 
 ## Temporal Asymmetry Without Storage
 

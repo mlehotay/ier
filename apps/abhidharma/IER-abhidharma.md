@@ -81,6 +81,14 @@ It is:
 
 > Does a specified Abhidharma distinction track an independently identifiable IER organization, relation, or trajectory strongly enough to predict something that was not placed into the reconstruction by definition?
 
+## Current IER Premises
+
+The [Specification](../../IER/IER-specification.md) retains normative authority. [Intrinsic Closure](../../IER/IER-intrinsic-closure.md) compares one global outgoing successor fibre with products of its own projections across an exhaustive, independently fixed family of meaningful physical partitions. [Ownership](../../IER/IER-ownership.md) asks where the same burden is non-externalizably borne and resolved. [Processes](../../IER/IER-processes.md) jointly requires contribution, global bearing, joint resolution, diachronic uptake and common typing.
+
+[Continuity](../../IER/IER-continuity.md) requires continuous owned closure, produced succession, physically effective typed irreversible inheritance, operation-mediated change and unique successor and predecessor in a fixed domain. A token is a maximal one-to-one chain under that full relation. Recurrence, smoothness, copied content or a causally connected stream does not establish it. A token can end without a system-wide absence of experience.
+
+Ordinary continuation can remain reversible; a separately established foreclosure has its conditional pipeline account. An Abhidharma sequence does not supply a collapse at every moment. Independently qualifying nested or overlapping operations remain possible; traditional item counts establish neither their presence nor their absence. The experiential identity proposal remains abductive and a posteriori. Association or taxonomy reconstruction is a different burden from physical qualification and identity warrant.
+
 ## Six Analytical Layers
 
 The reconstruction begins by separating six layers.
@@ -163,7 +171,7 @@ This produces exact combinatorial claims. For example, the system identifies sev
 
 ### The IER comparison
 
-A UEF is a globally integrated physical regime whose intrinsic constraint is not factorizable into independently resolving subsystem constraints. Participating processes do not become separate or fractional subjects.
+A UEF must satisfy the full relation stack above. Its synchronic closure concerns outgoing successor support, not merely correlated weights, simultaneous factors or mutually maintained constraints. Participating processes do not become separate or fractional subjects.
 
 That does not make a citta-cetasika assemblage a UEF. Nor does it make a cetasika:
 
@@ -210,7 +218,7 @@ Later Theravāda commentaries and manuals organize perception into consciousness
 
 This is not simply a list of states. It is a functional and temporal architecture built from citta types, association rules, and conditional relations.
 
-An IER trajectory is a lawful sequence of physical configurations. A trajectory can be described through changes in structural signatures, regimes, transitions, and articulated events. But the existence of a sequence in both frameworks does not establish that a consciousness process is an IER trajectory of the same grain.
+An IER trajectory describes ordered realized continuation. Lawfulness of a sequence alone establishes neither production by one operation nor the full numerical-identity relation. A trajectory can be described through changes in structural signatures, regimes, transitions, and articulated events. But the existence of a sequence in both frameworks does not establish that a consciousness process is an IER trajectory of the same grain.
 
 A reconstruction would need to ask:
 
@@ -262,7 +270,7 @@ Under IER, physical organization does not generate a separate phenomenal product
 
 ### Preserve UEF unity
 
-Local processes, factors, events, and projections do not automatically constitute subjects. No mapping may multiply UEFs merely because a traditional analysis distinguishes several simultaneous or successive items.
+Local processes, factors, events, and projections do not automatically constitute subjects. No mapping may infer additional UEFs merely because a traditional analysis distinguishes several simultaneous or successive items. Equally, analytical unity does not rule out another independently qualifying nested operation.
 
 ### Preserve temporal grain
 
@@ -392,7 +400,7 @@ The value of Abhidharma for IER lies neither in ancient confirmation nor in a re
 ## Sources
 
 - Noa Ronkin, ["Abhidharma," *The Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/abhidharma/), substantive revision March 31, 2026.
-- Bhikkhu Bodhi, general editor, [*A Comprehensive Manual of Abhidhamma: The Abhidhammattha Saṅgaha of Ācariya Anuruddha*](https://store.pariyatti.org/products/6269), third edition, Buddhist Publication Society, 2007.
+- Bhikkhu Bodhi, general editor, *A Comprehensive Manual of Abhidhamma: The Abhidhammattha Saṅgaha of Ācariya Anuruddha*. Consulted [publisher PDF eBook](https://download.pariyatti.org/_xUn1HgkZ/Comprehensive%20Manual%20of%20Abhidhamma.pdf), BPS Pariyatti Editions, 2012; title matter records BPS copyright 1993/1999, first BPS Pariyatti edition 2000 and reprints 2003/2007/2010. Citations below use printed page numbers, not PDF page indices; no unverified edition-equivalence claim is made.
 
 Canonical IER claims in this document are constrained by the current IER specification, theory, dynamics, ontology, event-structure, structural-signatures, structural-typology, taxonomy, coordinate-systems, projections, continuity, and identity documents. If this reconstruction conflicts with those sources, they control.
 

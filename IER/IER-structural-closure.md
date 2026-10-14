@@ -23,14 +23,14 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: 10.11.5
+  version: 10.11.6
 ---
 
 # Structural Closure
 
 ## The Framework-Internal Terminus of Explanation
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T1 · Foundational Clarification · Non-Normative · Canon-Constrained*
 
 ## Reader Notice
@@ -40,6 +40,8 @@ diachronic intrinsic closure, and it does not require every lawful successor
 transition to contain a collapse.
 
 ## Status, Scope, and Authority
+
+Experiential structure confers no epistemic authority about mind-independent reality.
 
 This canonical Tier-1 article fixes where explanation terminates within IER's
 accepted physical ontology. It rejects hidden selectors, controllers,
@@ -137,9 +139,9 @@ terminus of explanation for foreclosure when foreclosure occurs.
 ## Consequence Without a Second Bearer
 
 A continuing operation may inherit physically instantiated consequences of
-its prior activity. This inheritance introduces no record-reader distinction.
-The operation does not emit a result to a separate storage surface and later
-consult it.
+its prior activity. Physical records and mechanisms that later use them can
+participate in this history. What inheritance does not require is a second
+bearer that reads the operation from outside its complete physical realization.
 
 When continuity holds, present organization, actual successor production, and
 inherited consequence are projections of one physical history. Closure under
@@ -166,7 +168,7 @@ required behind those physical relations.
 Knowledge and memory can involve inherited, welded, propagated, or sedimented
 deformation when the relevant events occur. Ordinary continuation can carry
 already instantiated history without a new foreclosure at every stage. No
-separate storage substrate or access relation is introduced.
+primitive storage bearer or non-physical access relation is introduced.
 
 ### Time
 
@@ -217,6 +219,12 @@ The rejection of hidden layers does not deny ordinary physical components,
 controllers, memories, or representations described at appropriate levels. It
 denies that those descriptions introduce a further bearer or adjudicator
 beneath the complete physical operation.
+
+## Refinement at the Same Explanatory Level
+
+Suppose a coarse account describes a persistent physical deformation, and a finer account identifies the material configuration and interactions through which that deformation alters later transitions. The finer explanation adds physical detail to the operation. It does not add an observer who interprets the deformation and then commands the next transition. A controller or record-reading circuit, if present, belongs in that physical account; its function is not evidence of a further phenomenal bearer.
+
+The distinction lets explanation stop descending into additional ontology while empirical investigation continues. It also prevents explanatory termination, felt meaning, or stabilized conviction from conferring authority about mind-independent reality. Knowledge and meaning retain their own typed roles; successful continuation does not by itself establish truth.
 
 ## What Would Reopen Depth
 

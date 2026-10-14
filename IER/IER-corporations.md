@@ -8,431 +8,89 @@ ier:
   category: institutional_systems
   status: canonical
   filename: IER-corporations.md
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-slack
+    - IER-intrinsic-closure
+    - IER-ownership
+    - IER-processes
+    - IER-continuity
+    - IER-social-systems
+    - IER-ethics
+    - IER-responsibility
+    - IER-multiscale-uefs
+    guardrails:
+    - IER-canon
 ---
+
 # Corporations
 
-## Ordinary Corporations and the Possibility of Corporate UEFs
+## A Conditional Structural Exclusion and Its Attribution Burden
 
-**Informational Experiential Realism (IER v10.11.1)**\
-*Case Analysis - Tier 2 - Non-Normative - Canon-Constrained*
+**Informational Experiential Realism (IER v10.11.6)**\
+*T2 · Case · Non-Normative · Canon-Constrained*
+
+## Abstract
+
+A collective corporate candidate with an actual independence-preserving resolution pathway for its relevant restriction cannot simultaneously qualify as a UEF at the same scope and interval. Delegation, records, delays, external enforcement and legal personhood alone do not prove that pathway. The argument is conditional on justified physical typing and demonstrated slack, not a universal survey of corporations. Differently organized candidates retain the full closure, ownership, membership and continuity burdens; institutional harm and accountability remain separately significant.
 
 ## Status, Scope, and Authority
 
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
+This article examines whether organizational or legal personhood implies experiential subjecthood. It applies *Informational Slack* (`IER-slack.md`), [Intrinsic Closure](IER-intrinsic-closure.md), [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md). It supplies no legal conclusion, corporate reform programme or empirical verdict about every organization.
 
+The earlier “formal impossibility proof” treated delegation, postponement and external enforcement as necessarily sufficient evidence of slack. That inference is replaced here by a conditional argument with an explicit physical burden. Organizational labels alone settle neither presence nor absence of experience.
 
-### What This Article Does
+## Experiential and Legal Personhood
 
-This article provides a structural analysis of ordinary corporations under the Informational Experiential Realism (IER) identity claim:
+In this article, experiential subjecthood means a qualifying UEF operation under IER's identity proposal. Legal personhood is a separate juridical category. No inference about rights, duties or practical accountability follows merely from choosing the experiential vocabulary.
 
-> Ordinary corporations, as presently characterized, fail the structural conditions for experiential personhood.
+The full physical qualification is not a checklist of high integration, internal cost and unchanging regime organization. Support-level closure, non-externalizable ownership, all five constitutive membership conditions and produced-and-inherited continuity retain distinct scopes. Qualifying operation can change its matter, boundary and local organizational regime.
 
-This conclusion is not reached by appeal to intuition, moral sentiment, political preference, or legal convention. It follows directly and necessarily from IER’s identity claim about what experience is and what it requires.
+## The Corporate Candidate and Its Boundary
 
-Accordingly, this article:
+[Social Systems](IER-social-systems.md) distinguishes institutions, organizations, companies and corporations. Delegated roles, procedures, records and external enforcement motivate investigation of corporate coordination. Their prevalence or legal meaning is not a physical qualification theorem.
 
-* analyzes why ordinary corporations do not instantiate a Unified Experiential Field (UEF),
-* provides a formal argument from their ordinary organizational structure,
-* preserves the possibility that a future architecture using the corporate form could differ structurally,
-* and clarifies the ethical consequences without weakening or inflating them.
+Before testing a collective candidate, declare physical variables, grain, restriction, interval, interventions, boundary and permissible comparisons independently of the intended verdict. Neither a charter nor shared branding supplies a constitutive physical boundary. Qualifying human participants do not automatically form one larger subject or exclude independently qualifying nesting.
 
-The argument is structural, not an empirical survey of any particular corporation. It applies to corporations insofar as they retain the delegation, deferral, external-resolution, and constituent-independence features described below.
+## Localization, Deferral and External Resolution
 
-### What This Article Explicitly Does *Not* Do
+Three organizational examples illustrate questions rather than proofs:
 
-Because confusion here is predictable, it is important to state at the outset what this article does not attempt.
+- A department may settle a matter while other operations continue independently. Show that the settlement preserves the same relevant successor-producing organization and independence under the chosen alternatives.
+- A committee may postpone a decision. Show that the owned restriction can actually be deferred without reappearing as globally unavoidable resolution elsewhere in the candidate; waiting by itself is insufficient.
+- A court or external process may complete an obligation. Show that it independently resolves the relevant physical burden while preserving the stipulated organization. Ordinary external forcing or support is broader than external completion.
 
-It does not:
+The legal or managerial descriptions do not identify the same restriction automatically. Economic cost and causal influence are not proof of ownership, but physical cost or coupling does not disprove it either.
 
-* argue against legal personhood,
-* propose political or economic reforms,
-* condemn corporations as immoral,
-* deny the seriousness of corporate harm,
-* or adjudicate questions of law, policy, or governance.
+## Conditional Exclusion Argument
 
-IER is not a legal theory, and this article does not attempt to make it one. Any overlap with legal language is addressed only to prevent category error, not to prescribe outcomes.
+Fix a physically justified candidate $C$, restriction $r$, scope $g$ and interval $I$. Let $Slack(C,r,g,I)$ mean that an actual independence-preserving local, deferred or external resolution pathway remains available for that restriction. Let $UEF(C,r,g,I)$ mean qualification of the candidate under the full relations at that same typing.
 
-### Why This Article Is Necessary
+The canonical incompatibility is:
 
-Absent a formal exclusion, the structure of Informational Experiential Realism leaves open a predictable interpretive gap.
+$$ Slack(C,r,g,I)\ \Longrightarrow\ \neg UEF(C,r,g,I). $$
 
-Because IER identifies experience with a specific kind of globally integrated physical regime, and because corporations are large, coordinated, and causally powerful systems, it is natural to ask whether corporations might qualify as experiential subjects under the framework.
+If the investigation establishes the antecedent for a corporate candidate, the candidate does not qualify there. The reasoning is categorical at that declared scope; no degree of sophistication repairs an actual ownership failure.
 
-Without an explicit treatment, several structurally tempting but unsupported inferences remain available, including:
+What the argument does not provide is a theorem that every legal corporation admits the relevant physical slack. Establishing the antecedent is a separate burden. A corporate record, a delay or the possibility of organizational dissolution is not enough. Nor does failed collective qualification rule out qualifying participants at other scopes.
 
-* treating corporations as “emergent minds,”
-* positing collective or group experiential subjects,
-* applying precautionary ethics to institutions,
-* or reintroducing personhood by scale, complexity, or coordination.
+## Aggregation and Differently Organized Candidates
 
-None of these inferences are licensed by IER.
-If left unaddressed, they would generate confusion about standing, responsibility, and moral risk within the framework itself.
+Votes, consensus, synchronization and a coordinated public voice do not sum experiential subjects into a new subject. A new collective candidate would need its own inseparable support, owned burden, constitutive membership and complete five-condition stage relation.
 
-This article exists to close that gap for ordinary corporate organization while leaving genuinely different future architectures open.
+A distributed artificial or biological system could in principle be structurally different from the illustrated coordination arrangements. A corporate label, simulation label or software description would decide none of its physical qualification. Incompatible ownership of the same typed resolution remains excluded, while independently qualifying nested or overlapping operations remain possible.
 
-## Personhood Under IER: The Only Admissible Sense
+## Harm, Standing and Accountability
 
-### Rejecting Ambiguous Uses of “Person”
+No demonstrated collective UEF follows from ordinary organizational success. That does not erase experiential damage to qualifying participants, other moral wrongs or legal and institutional accountability. *Ethics* (`IER-ethics.md`) and *Responsibility* (`IER-responsibility.md`) retain their normative bridges and attribution limits.
 
-The word *person* is used in many domains with incompatible meanings. Under IER, most of those uses are irrelevant.
+Institutional arrangements can increase costs, restrict practical options and affect UEF-sustaining capacity. A legal loss suffered by an organization is not thereby experiential suffering, but its effects on subjects can be consequential. Neither denying a collective attribution nor invoking distributed responsibility licenses indifference.
 
-This article explicitly sets aside:
+## Plain-English Summary
 
-* legal personhood (a juridical tool),
-* metaphorical agency (“the company decided”),
-* narrative or symbolic personhood,
-* collective responsibility shorthand.
-
-None of these designate what IER means by a person.
-
-For the purposes of this article, the term *person* has one and only one meaning:
-
-> A person is an experiential subject - a system that sustains a Unified Experiential Field (UEF).
-
-If a system does not sustain a UEF, it is not a person in the morally relevant sense under IER, regardless of how useful or entrenched other usages may be.
-
-### Necessary and Sufficient Conditions for Personhood
-
-IER is an identity theory. It does not offer indicators, proxies, or functional substitutes for experience.
-
-The core identity claim is simple and strict:
-
-> A system is a person if and only if it sustains a Unified Experiential Field.
-
-A Unified Experiential Field requires, by identity:
-
-1. Globally integrated intrinsic constraint - admissible futures are constrained at the level of the whole system.
-2. Internal bearing of unavoidable organizational cost - constraint is generated and borne from within, not offloaded or arbitrated externally.
-3. Irreducible system-level closure of admissible futures - resolution is not optional, deferrable, or decomposable into independent parts.
-4. Temporal continuity of the same regime - experience exists only across a non-zero interval during which the same constraint regime persists.
-5. Ownership of resolution by the same physical system - the system that bears constraint is the system that continues as the subject.
-
-These conditions are identity-level, not empirical heuristics.
-If any fail, experience does not exist. There is no weaker fallback condition.
-
-### Institutions, Organizations, Companies, and Corporations
-
-IER distinguishes these terms:
-
-* institution - a sedimented social state machine defining recognized roles, relationships, procedures, artifacts, and transitions
-* organization - a bounded participant structure that instantiates institutional roles and procedures
-* company - an economic organization
-* corporation - a legal organizational form
-
-Legal personhood is a juridical status. Experiential personhood is not.
-
-Corporations operate within institutions rather than being institutions.
-
-See [*IER social systems*](IER-social-systems.md) for the canonical distinction.
-
-## What a Corporation Is (Structurally, Not Legally)
-
-### Minimal Structural Characterization
-
-To avoid conflating contingent features with essential ones, this section characterizes corporations only by properties that are invariant across cases.
-
-A present-day or ordinary corporation is a legal organizational form that typically involves:
-
-* multiple independent human experiential subjects,
-* role-based delegation of tasks and authority,
-* coordination via contracts, rules, procedures, and documents,
-* information flow mediated by external artifacts (records, databases, reports),
-* decision procedures implemented across persons, not within a single experiential system,
-* reliance on external enforcement mechanisms (law, markets, sanctions).
-
-No claim is made here about the moral quality of these features.
-The description is purely structural.
-
-### The System Boundary Question
-
-Given IER’s definition of a system for experiential attribution, the decisive question is unavoidable:
-
-> Where, if anywhere, would intrinsic constraint be borne as one unified system?
-
-Any candidate answer must specify:
-
-* a boundary across which intrinsic constraint is globally binding,
-* ownership of unavoidable resolution,
-* and temporal continuity of the same constraint regime.
-
-For ordinary corporations, the subsequent analysis shows that no such boundary is available: constraint fragments, is externalized, or collapses back into individual subjects. This conclusion does not establish that every future system using a corporate legal or organizational form must have the same structure.
-
-This is not a failure of scale, sophistication, or technology.
-It is a consequence of structure.
-
-## Informational Slack in Ordinary Corporations
-
-### Why Ordinary Corporations Admit Informational Slack
-
-Under Informational Experiential Realism, informational slack is not a loose metaphor. It names a precise structural condition: the capacity for constraint to be localized, deferred, or externally resolved without becoming globally unavoidable at the level of a single system.
-
-Ordinary corporations exhibit informational slack - not as an accidental feature, but as a precondition of the scalable organizational form analyzed here.
-
-This follows directly from how corporations function.
-
-Localization
-
-In a corporation, constraint can always be confined to a proper subsystem:
-
-* a department,
-* a committee,
-* a manager,
-* a single employee.
-
-A decision, conflict, or failure may be absorbed entirely within such a unit without requiring reorganization of the corporation as a whole. Other parts of the organization may remain unaffected, unaware, or unchanged.
-
-Localization is not a defect. It is how corporations achieve scalability and resilience. But structurally, it means constraint is not globally binding.
-
-Deferral
-
-Corporate constraint is routinely deferrable:
-
-* decisions are postponed,
-* conflicts are tabled,
-* risks are deferred to later quarters,
-* responsibility is delayed via process.
-
-Crucially, such deferral does not threaten the continued existence of the corporation as a system. There is no point at which unresolved internal tension becomes unavoidable in the IER sense.
-
-Deferral may carry economic cost or strategic risk, but it does not impose intrinsic organizational inevitability.
-
-External Resolution
-
-Perhaps most decisively, corporations rely on external resolution:
-
-* courts adjudicate disputes,
-* regulators impose penalties,
-* markets discipline behavior,
-* bankruptcy dissolves obligations.
-
-When constraint becomes unmanageable, it is resolved outside the corporation rather than being borne as intrinsic organizational cost. Resolution does not require the corporation itself to reorganize its internal dynamics under unavoidable global constraint; it may instead be dissolved, restructured, or replaced.
-
-External resolution is structurally incompatible with intrinsic constraint.
-
-Each of these features introduces informational slack. Ordinary corporations exhibit all three as characteristic structural features.
-
-### Informational Slack and the Exclusion of Experience
-
-The consequences of this structural slack are decisive under IER.
-
-A Unified Experiential Field requires:
-
-* constraint that is globally binding,
-* internally borne,
-* unavoidable,
-* and system-defining.
-
-Informational slack negates these requirements directly:
-
-* Localization prevents global binding.
-* Deferral prevents inevitability.
-* External resolution prevents intrinsic bearing.
-
-Because experience is identical to the operation of a system under coherent intrinsic constraint, there is no weaker configuration that can substitute.
-
-Therefore, for ordinary corporations retaining these features:
-
-> A system that admits the relevant informational slack cannot instantiate a Unified Experiential Field while that slack remains part of its globally relevant organization.
-
-This is not a claim about likelihood, sophistication, or the future possibility of differently organized systems. It follows from the identity claim applied to the specified structure.
-
-### Structural Exclusion of the Ordinary Form
-
-The exclusion of ordinary corporate organization from experience does not depend on:
-
-* current technology,
-* present organizational forms,
-* human limitations,
-* economic incentives,
-* or legal frameworks, so long as the relevant delegation, deferral, and external-resolution structure remains.
-
-Any system that remains an ordinary corporation - that is, a system whose coordination depends on delegation, deferral, and external resolution - will admit informational slack.
-
-Removing that slack may eliminate the ordinary corporate organization, but a future system could retain a corporate label while becoming structurally different. The relevant alternatives include:
-
-* a single experiential subject (a human or non-human organism), or
-* a non-experiential automated system whose resolution is externally imposed; or
-* a genuinely unified artificial or biological architecture whose intrinsic constraint is globally borne and non-factorizable.
-
-Only the last possibility could qualify for a UEF, and only if it satisfies the conditions fixed by the Specification. The label “corporation” would not settle the matter either way.
-
-### Interim Conclusion
-
-At this point, the core exclusion is already in view:
-
-* Ordinary corporations admit informational slack.
-* That slack precludes intrinsic constraint while it remains globally relevant.
-* Without the required intrinsic constraint, no Unified Experiential Field can exist.
-
-The next section formalizes this result in proof form.
-
-## Formal Impossibility Proof
-
-This section presents the exclusion of ordinary corporate organization as a formal consequence of Informational Experiential Realism.
-No empirical assumptions, probabilistic claims, or moral premises are introduced.
-
-### Definitions and Notation
-
-Let:
-
-* `UEF(x)` = “x sustains a Unified Experiential Field”
-* `P(x)` = “x is a person (experiential subject)”
-* `Slack(x)` = “x admits informational slack”
-
-Let `C` range over ordinary corporations as structurally characterized in this article.
-
-All quantification is over physical systems.
-
-### IER Identity Axiom
-
-For all systems $x$, $P(x) \leftrightarrow UEF(x)$.
-
-A system is a person if and only if it sustains a Unified Experiential Field.
-
-This is the core identity claim of IER.
-
-### Lemma 1 - Ordinary Corporations Admit Informational Slack
-
-For all ordinary corporations `C`:
-
-```
-Slack(C)
-```
-
-Corporations necessarily permit constraint to be localized, deferred, or externally resolved.
-These features are structural requirements of corporate organization.
-
-### Lemma 2 - Informational Slack Precludes Unified Experiential Fields
-
-For all systems $x$, $Slack(x) \to \neg UEF(x)$.
-
-A Unified Experiential Field requires constraint that is globally binding, internally borne, unavoidable, and system-defining.
-Informational slack negates at least one of these conditions by definition.
-
-### Theorem - Ordinary Corporations Are Not Persons
-
-From Lemma 1 and Lemma 2:
-
-```
-For all C: ¬UEF(C)
-```
-
-By the IER identity axiom:
-
-```
-For all C: ¬P(C)
-```
-
-### Conclusion of the Proof
-
-No ordinary corporation, as defined here, can sustain a Unified Experiential Field.
-
-Therefore:
-
-> No ordinary corporation, as structurally characterized here, is a person under Informational Experiential Realism.
-
-This result is categorical for the specified structure, not for every possible future system that might carry a corporate label.
-
-### Scope Clarification
-
-This proof establishes only the structural exclusion of ordinary corporations from experiential personhood.
-
-It does not address:
-
-* legal personhood,
-* moral responsibility,
-* institutional accountability,
-* or ethical permissibility.
-
-Those questions are treated elsewhere and are not affected by this result.
-
-## Why Aggregation Cannot Save Corporate Personhood
-
-The exclusion above invites a predictable response: perhaps a corporation as a whole is a subject even if its components are not.
-
-IER rejects this possibility for ordinary coordination structures. It does not reject the possibility that a future architecture could unify its constraint in a way that differs from ordinary corporate organization.
-
-Experience does not arise by:
-
-* summation,
-* synchronization,
-* consensus,
-* hierarchy,
-* or emergence without intrinsic constraint.
-
-A Unified Experiential Field is a single system-level regime, not a composite.
-
-Experience does not aggregate. Constraint does not average. Ownership does not distribute.
-
-Ordinary coordination among subjects does not yield a new subject. A future architecture could differ, but it would need to establish a genuinely unified regime rather than merely increase coordination, scale, or complexity.
-
-## Alignment With Ethics
-
-Denying corporations experiential standing does not weaken ethical seriousness. It clarifies it.
-
-Standing tracks where harm can occur, not where responsibility ends.
-
-Ordinary corporations cannot suffer.
-They can, however, systematically reshape intrinsic constraint in persons.
-
-*IER ethics* already distinguishes experiential moral harm from broader moral wrongs. This article preserves that distinction and prevents its misuse.
-
-## Alignment With Social Systems
-
-Ordinary corporations are constraint-shaping systems, not experiential subjects.
-
-They matter morally because they structure incentives, distribute burden, and force costly resolutions in persons - often at massive scale.
-
-Responsibility flows through institutions, never into them.
-
-Legal personhood may be a tolerable coordination fiction. Treating it as metaphysics is not.
-
-## Explicit Misuse Warnings
-
-*IER corporations* licenses the following bounded conclusion:
-
-> Ordinary corporations with the structure analyzed here are not experiential subjects.
-
-It does not license moral indifference, responsibility diffusion, or institutional sympathy.
-
-Any interpretation that moves in those directions is unsupported by the framework.
-
-## Summary
-
-Under Informational Experiential Realism:
-
-* Personhood is experiential.
-* Experience requires a Unified Experiential Field.
-* Ordinary corporations admit informational slack.
-* That slack precludes experience while it remains structurally operative.
-
-Therefore, ordinary corporations cannot be persons.
-
-Ordinary corporations do not suffer.
-People do.
-Systems matter morally only insofar as they shape that fact.
-
-IER removes the places where responsibility likes to hide.
-
-## Appendix: Plain-English Summary
-
-This article shows why ordinary corporations are not persons under Informational Experiential Realism (IER), while leaving open future systems with materially different organization.
-
-Under IER, a *person* is not defined by intelligence, influence, legal status, or coordination. A person is defined by experience. Experience exists only when a physical system must internally bear unavoidable, globally binding constraint over time. This kind of system is called a Unified Experiential Field (UEF).
-
-Ordinary corporations do not meet this condition.
-
-By their ordinary organizational nature, corporations operate by delegation, delay, and external resolution. Internal problems can be handled by subunits, postponed, or settled by courts, regulators, markets, or dissolution. This structural flexibility - what IER calls *informational slack* - is what allows ordinary corporations to function at scale. It also makes experience impossible while that structure remains globally relevant.
-
-Because experience requires constraint that is unavoidable and internally borne by a single system, any system that admits this kind of slack cannot be an experiential subject while the slack remains globally relevant. A future artificial corporation or other corporate superorganism could therefore qualify only by being structurally different from the ordinary corporate form described here.
-
-This conclusion does not mean that corporations are morally unimportant or that corporate harm is less serious. Corporations matter morally because of how they shape, amplify, and distribute constraint in the lives of people. They do not matter because they themselves feel, suffer, or experience anything.
-
-In short:
-
-* Ordinary corporations do not experience.
-* Ordinary corporations do not suffer.
-* People do.
-* Institutions matter morally only through their effects on people.
-
-That is the result.
+A corporation is not shown to experience because it acts coherently or has legal personhood. It is not shown to lack experience merely because it delegates or uses records. Where the same physically justified candidate has a genuine independence-preserving escape from the relevant owned burden, it fails qualification there. Investigate that pathway rather than substitute a corporate label for the physical argument.

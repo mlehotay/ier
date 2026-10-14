@@ -8,20 +8,28 @@ ier:
   category: comparative_boundary
   status: canonical
   filename: IER-rubric.md
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-identity
+    - IER-nonentailment
+    guardrails:
+    - IER-canon
 ---
 # Evaluation Rubric
 
 ## Evaluating Theories of Experience Without Smuggling Assumptions
 
-**Informational Experiential Realism (IER v10.10.7)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *Tier-3 - Evaluation Misuse Containment - Non-Normative - Canon-Constrained*
 
+## Abstract
+
+The rubric separates explanandum, constitution, ontology, empirical evidence, attribution and ethics. Its protocol reconstructs named source versions before internal evaluation and matched comparison, retaining explicit, advocated, compatible, disputed and unspecified claims. It permits criticism of unsupported inference without converting IER commitments into neutral criteria. Methodological source attribution supplies no new theory claim or automatic experiential verdict.
+
 ## Status, Scope, and Authority
-
-
-
-
-
 
 This document establishes constraints on the fair reconstruction, evaluation,
 and comparison of theories of experience. It is compatible with identity
@@ -154,7 +162,7 @@ must report which response it gives.
 The rubric does not specify how any of these features must be realized,
 grounded, measured, or accessed.
 
-
+## Claim-Strength Labels
 
 Every substantive statement attributed to a theory must be assigned the
 strongest status supported by the relevant sources.
@@ -429,7 +437,7 @@ Present the theory in terms its proponents could reasonably endorse. Separate:
 * omissions
 * evaluator inference
 
-Use the claim-status labels in section 3.
+Use the [claim-strength labels](#claim-strength-labels).
 
 ### Stage 3 - Evaluate Internally
 

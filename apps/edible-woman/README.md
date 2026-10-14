@@ -13,7 +13,7 @@ documents. They do not modify IER canon, establish new IER ontology, define a
 diagnostic category, or treat the novel as evidence for IER's truth.
 
 If any document here conflicts with the canonical IER corpus, the canonical
-source controls.
+source controls. The article’s [current premises and literary limits](IER-edible-woman.md#current-ier-premises-and-literary-limits) distinguish stipulated fictional subjecthood from independently established physical qualification. Edition-level quotation/page verification remains a publication requirement, not a result of this alignment review.
 
 ## Reading Order
 

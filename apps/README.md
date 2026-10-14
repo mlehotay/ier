@@ -12,5 +12,7 @@ non-canonical; the [core theory](../IER/IER-model-overview.md) defines IER.
 | [The Edible Woman](edible-woman/README.md) | A reading of Margaret Atwood's novel, with a reader guide and claims ledger. |
 | [Game of Life](game-of-life/README.md) | Software and research on persistent organization, trajectories, and constraint in a cellular automaton. |
 
-Each project has its own reading route and research limits. Simulations,
+Each project has its own reading route and research limits. Complete application
+alignment remains pending; the linked materials retain their stated research
+status and source qualifications. Simulations,
 analogies, and comparisons do not by themselves establish experiential identity.

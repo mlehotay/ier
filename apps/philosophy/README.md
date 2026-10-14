@@ -7,7 +7,7 @@ on experiential unity, subject identity, and continuity through change.
 
 Status: support\
 Authority: non-canonical\
-See: *IER-status-zones*
+Source and literature review status is stated in each document.
 
 These materials explain and assess IER. The
 [Specification](../../IER/IER-specification.md) governs the theory's criteria.
@@ -15,7 +15,8 @@ These materials explain and assess IER. The
 ## Where to begin
 
 Start with the [Philosophy of Mind curriculum](IER-philosophy-of-mind-curriculum.md)
-for a guided reading route. For IER's philosophical account, read the
+for a guided reading route. The [Bibliography](../../IER/IER-bibliography.md)
+provides wider attributed reading with explicit source-access limits. For IER's philosophical account, read the
 [Metaphysical Account](metaphysical-account-of-the-uef-process-subject.md).
 
 | Document | What it offers |

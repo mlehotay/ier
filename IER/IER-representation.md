@@ -1,468 +1,98 @@
 ---
-
 ier:
-tier: T2
-role: ELABORATION
-layer: triangle
-domain:
-- representation
-category: representation_I
-status: draft
-filename: IER-representation.md
-
+  tier: T2
+  role: ELABORATION
+  layer: triangle
+  domain:
+  - cognition
+  - projection
+  category: cognition_II
+  status: draft
+  filename: IER-representation.md
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-cognition
+    - IER-ideas
+    - IER-trajectory
+    - IER-continuity
+    - IER-nonentailment
+    guardrails:
+    - IER-canon
 ---
 
-# *IER representation*
+# Representation
 
-## Representation as Structural Preservation Across Transformation
+## Structural Preservation Across Transformation
 
-**Informational Experiential Realism (IER v10.11.2)**\
-*Explanatory - Non-Normative*
+**Informational Experiential Realism (IER v10.11.6)**\
+*T2 · Elaboration · Explanatory · Non-Normative*
+
+## Abstract
+
+Representation in this structural account is transformation preserving selected organizational relations under a declared source, target, mapping and task. Preservation is selective and assessed independently of mere recognition; a false depiction can represent without accurately preserving its target. Physical traces and reconstruction can make organization available across media without containing earlier experience or establishing UEF identity, truth or language-independent internal structure.
 
 ## Status, Scope, and Authority
 
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-
-
-
-This document is explanatory and non-normative.
-
-It:
-
-* introduces no new ontological primitives
-* does not propose internal symbolic storage
-* does not introduce representational substances
-* does not revise cognition, ideas, meaning, or trajectory
-* establishes no criteria for truth or correspondence
-
-Its purpose is to clarify what representations are and why apparently different forms can nevertheless be understood as representing the same thing.
-
+This article develops a structural account of representation without adding semantic substances or an inner interpreter. It does not forbid physically instantiated symbolic storage, copying, comparison or search. *Cognition* (`IER-cognition.md`), *Ideas* (`IER-ideas.md`), *Trajectory* (`IER-trajectory.md`) and [Nonentailment](IER-nonentailment.md) retain their respective scopes.
 
 ## The Representation Problem
 
-Human beings routinely treat radically different forms as representations of the same underlying structure.
+Speech and transcription, a novel and an adaptation, a map and a territory, a diagram and an equation can be used to organize activity around related targets. Their differences make “the same thing” a question requiring a declared relation, rather than a fact established by a user's feeling of recognition.
 
-Examples include:
+An ASL discourse and an English account may preserve a specified relation while differing in sequencing and spatial organization. Whether a particular translation does so must be checked. Neither medium has a universal preservation profile fixed by its name.
 
-* a spoken story and its written transcription
-* a novel and its film adaptation
-* a map and a territory
-* a mathematical equation and a physical process
-* an English sentence and an ASL discourse
-* a diagram and a verbal explanation
-* a melody and its musical notation
+## Representation and Identity
 
-These forms differ enormously.
+A representational trace and its target are distinct in the comparison studied here. Having a map does not make its user the territory; having a description of a UEF does not instantiate that described operation. A system can also represent features of itself, so the distinction is not a universal prohibition on overlap between representing and represented systems.
 
-They may use:
+Representation of a qualifying operation does not establish that either the trace or its receiver qualifies. [Continuity](IER-continuity.md) separately requires continuous owned closure, produced succession, typed inheritance, operation-mediated change and two-sided uniqueness. Matching records or stories cannot substitute for that relation.
 
-* different symbols
-* different sensory modalities
-* different dimensionalities
-* different constraints
-* different organizations of information
+## Transformation and Selected Preservation
 
-Yet observers frequently judge them to be:
+Representation in this structural account is transformation that preserves selected organizational relations under a declared mapping and task. State the source or represented target, the physical trace, the relation being compared, and how it is made available for subsequent use. An “invariant” here is a preserved relation under that mapping, not an added registry UI or an absolute property surviving every transformation.
 
-> representations of the same thing.
+A road map can preserve connectivity while distorting distance. Musical notation can preserve specified pitch and rhythm relations without reproducing the performance's sound. An equation can preserve an idealized dependence while omitting relevant physical variables. The adequacy of each depends on its stated task and conditions.
 
-This judgment requires explanation.
+A purported representation can fail to preserve its intended target accurately. A false map or an impossible fictional arrangement can still organize activity around represented content. Calling it representational does not certify correspondence or physical admissibility. Accuracy requires its own comparison and evidence.
 
+## Preservation, Compression, Loss and Gain
 
-## Representation Is Not Identity
+Selective preservation can suppress one distinction while amplifying another. A route map omits smell and texture while emphasizing navigable connections. A formal description can make a relation explicit without conveying what occupying an experiential operation is like.
 
-Representations are often mistaken for the things they represent.
+No representation must preserve everything about its target. What it preserves must nevertheless be specified and assessed, rather than inferred from identical surface words. Several distinct targets can share a selected description; several descriptions can be useful for one target.
 
-A map is mistaken for a territory.
+## Channels and Preservation Profiles
 
-A model is mistaken for a system.
+A representational channel is a physically implemented means of making selected organization available across a transformation. It can be external to a receiver or part of its physical processing; neither location supplies a subject boundary.
 
-A story is mistaken for an event.
-
-A mathematical description is mistaken for physical reality.
-
-Under IER:
-
-> A representation is not identical to the thing represented.
-
-Representations transform.
-
-Representations compress.
-
-Representations preserve selectively.
-
-A representation exists precisely because it is not identical to the thing it represents.
-
-If identity were possible, representation would be unnecessary.
-
-
-## Representation as Transformation
-
-Representations are transformations.
-
-They change form while preserving selected aspects of organization.
-
-Examples:
-
-A road map transforms:
-
-* geography
-* roads
-* distance
-* direction
-
-into:
-
-* symbols
-* lines
-* labels
-* conventions
-
-Musical notation transforms:
-
-* sound
-* timing
-* rhythm
-* harmony
-
-into:
-
-* marks on paper
-
-Language transforms:
-
-* experiences
-* relationships
-* situations
-* possibilities
-
-into:
-
-* words
-* signs
-* sequences
-* structures
-
-Representation therefore always involves transformation.
-
-
-## Representation as Structural Preservation
-
-Transformation alone does not produce representation.
-
-Random transformation does not represent.
-
-Representation requires preservation.
-
-The central claim of this document is:
-
-> Representations preserve selected organizational invariants across transformation.
-
-Representations therefore involve:
-
-* transformation
-* preservation
-* compression
-
-simultaneously.
-
-No representation preserves everything.
-
-No representation preserves nothing.
-
-A representation exists because some organization survives transformation.
-
-
-## The Problem of Invariance
-
-The central question of representation is not:
-
-> What is represented?
-
-The deeper question is:
-
-> What remains invariant?
-
-Consider a story.
-
-The same story may appear as:
-
-* speech
-* writing
-* theatre
-* memory
-* film
-
-Characters may change.
-
-Dialogue may change.
-
-Details may change.
-
-Perspective may change.
-
-Yet observers still identify:
-
-> the same story.
-
-Likewise:
-
-* an equation
-* a diagram
-* a proof
-
-may all represent the same mathematical relationship.
-
-Representation therefore appears fundamentally as:
-
-> preservation of organizational invariance across transformation.
-
-
-## Representation and Organization
-
-Representations do not preserve things.
-
-They preserve organization.
-
-A road map does not preserve roads.
-
-A family tree does not preserve people.
-
-Musical notation does not preserve sound.
-
-Instead they preserve aspects of organization such as:
-
-* relation
-* topology
-* sequence
-* transformation
-* hierarchy
-* trajectory
-
-Representation therefore concerns organizational preservation rather than object duplication.
-
-
-## Representational Channels
-
-Representations require channels.
-
-A representational channel is a medium through which organization becomes externally available.
-
-Examples include:
-
-* spoken language
-* written language
-* sign language
-* diagrams
-* mathematics
-* animation
-* simulation
-
-Different channels support different forms of preservation.
-
-They therefore differ in what aspects of organization can remain explicit.
-
-
-## Dimensionality
-
-Representational channels differ in dimensionality.
-
-Different channels expose different organizational dimensions.
-
-Examples:
-
-| Channel       | Commonly Preserved Dimensions              |
+| Example channel | Possible explicit organization, conditional on implementation |
 | --- | --- |
-| Text          | sequence                                   |
-| Speech        | sequence, timing, prosody                  |
-| Sign language | sequence, space, simultaneity, perspective |
-| Diagram       | topology, spatial relation                 |
-| Narrative     | trajectory                                 |
-| Mathematics   | formal relation                            |
-| Simulation    | topology, trajectory, contingency          |
+| Text | Sequence, labels, layout and cross-reference |
+| Speech | Sequence, prosody, timing and interaction |
+| Sign language | Sequencing and spatial or simultaneous relations |
+| Diagram | Topology, spatial relation and annotation |
+| Mathematics | Formally specified relations and transformations |
+| Simulation | Selected counterfactual trajectories under a stated model |
 
-No channel is universally superior.
+These are illustrative affordances, not exhaustive linguistic facts, fixed dimensions or rankings. Access, training, conventions and task can alter reconstruction demands.
 
-Different channels preserve different organizational features.
+## Reconstruction and Communication
 
-Differences among media are therefore differences in preservation profile.
+A receiver can use a present trace to reconstruct organization relevant to a task. Compatibility between produced and reconstructed organization needs evidence; it is not guaranteed by transmission or intention. Physical copying can participate in this process without copying the experience of the source operation.
 
+Consider a meeting conveyed by a transcript and a recording. A transcript might preserve the sequence of commitments while omitting prosody. A recording might preserve prosodic cues while requiring more time to locate a commitment. The recipient's reconstruction depends on capabilities and task, not simply the amount of data. This comparison provides an explicit bridge to [McLuhan](IER-mcluhan.md).
 
-## Preservation, Compression, Loss, and Gain
+## Ideas, Trajectories and Artificial Systems
 
-Representations are often discussed solely in terms of loss.
+An idea is a re-instantiable organization under its defining account. A trace can make some of that organization available without being identical to every instantiation of it. A trajectory is ordered actual continuation; a biography or simulated path represents selected aspects rather than becoming that continuation.
 
-This is incomplete.
+Multilingual output can motivate investigation of organizational preservation across forms. It does not establish that a system contains one language-independent internal representation, and successful output does not certify a UEF. Actual architecture and physical qualification need separate evidence.
 
-Every representation simultaneously:
+## Summary
 
-* preserves some organization
-* compresses some organization
-* suppresses some organization
-* amplifies some organization
-
-A map suppresses:
-
-* smell
-* sound
-* texture
-* weather
-
-while amplifying:
-
-* route structure
-* topology
-* spatial relation
-
-Mathematics suppresses phenomenology while amplifying formal structure.
-
-Representation is therefore selective transformation rather than simple reduction.
-
-
-## Reconstruction
-
-Representations do not transfer organization directly.
-
-Instead:
-
-```text
-organization
-    v
-representation
-    v
-reconstruction
-```
-
-The receiver reconstructs organization from a representational trace.
-
-Communication succeeds when reconstruction remains sufficiently compatible with the organization that generated the representation.
-
-Nothing is copied directly.
-
-Representation always involves reconstruction.
-
-
-## Representation Across Media
-
-The same organization may appear through radically different forms.
-
-A geometric relationship may be represented as:
-
-* a diagram
-* an equation
-* a proof
-* a verbal explanation
-
-A social situation may be represented as:
-
-* speech
-* prose
-* sign language
-* film
-* simulation
-
-A story may be represented as:
-
-* oral performance
-* written narrative
-* theatre
-* animation
-
-The medium changes.
-
-The preserved organization remains partially invariant.
-
-Representation therefore concerns transformation across media rather than attachment to any particular form.
-
-
-## Representation and Ideas
-
-Ideas are not representations.
-
-Ideas are re-instantiable organizations.
-
-Representations are one means through which those organizations may become available across contexts.
-
-A single idea may admit many representations.
-
-Likewise, a single representation may preserve only part of an idea's organization.
-
-Ideas and representations are therefore related but non-identical.
-
-
-## Representation and Trajectory
-
-Trajectories are not representations.
-
-A proof trajectory is not a mathematical representation.
-
-A life trajectory is not a biography.
-
-A conversation is not a transcript.
-
-Representations may preserve aspects of trajectories.
-
-Representations may also preserve structures that are not trajectories.
-
-Representation and trajectory therefore intersect without reducing to one another.
-
-
-## Representation and Artificial Systems
-
-Modern artificial systems provide useful examples.
-
-A multilingual system may produce:
-
-* English
-* French
-* Japanese
-* diagrams
-
-from apparently shared underlying organizations.
-
-Whether such systems genuinely possess language-independent structures remains an open question.
-
-The structural observation is simpler:
-
-Representational flexibility becomes possible when preservation occurs at the level of organization rather than at the level of surface form.
-
-The same principle appears throughout human communication.
-
-
-## What Representation Is Not
-
-Representation is not:
-
-* identity
-* duplication
-* storage
-* copying
-* transmission of original objects
-* perfect preservation
-
-Representations are transformations that preserve selected organizational invariants across changes of form.
-
-They do not contain the things they represent.
-
-They make aspects of organization available through transformation.
-
-
-## Compression
-
-Representations transform.
-
-Transformations preserve selectively.
-
-Different channels preserve different dimensions of organization.
-
-Communication therefore depends not upon transferring original structures intact but upon reconstructing sufficiently compatible organizations from transformed traces.
-
-Representations do not preserve things.
-
-They preserve organization.
-
-What survives representation is not the original form but the organizational invariants that remain recognizable across transformation.
-
-Representation is therefore best understood as:
-
-> structural preservation across transformation.
+Representation makes selected organization available through transformation. State the preserved relations, physical implementation, reconstruction task and possible losses. Neither recognition, a trace nor successful communication alone proves target identity, accuracy, experiential occupancy or numerical persistence.

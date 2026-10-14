@@ -8,7 +8,7 @@ ier:
   - boundary_and_futures
   category: constraint_geometry
   filename: IER-causation.md
-  version: 10.11.5
+  version: 10.11.6
   requires:
     hard:
     - IER-specification
@@ -32,10 +32,12 @@ ier:
 
 ## Causation, Constraint, and Resolution Without Inflation
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+Experiential structure confers no epistemic authority about mind-independent reality.
 
 This document is explanatory and non-normative.
 
@@ -101,7 +103,7 @@ full `Adj_dia` relation and numerical identity.
 
 ## Intrinsic Constraint Is Not a Causal Entity
 
-*IER ontology* defines intrinsic constraint as non-externalizable cost borne within a Unified Experiential Field.
+*IER ontology* summarizes intrinsic constraint as non-externalizable cost borne within a qualifying Unified Experiential Field; the Specification and definition owners control its meaning.
 
 Intrinsic constraint is not:
 
@@ -267,6 +269,12 @@ IER remains neutral about the deeper metaphysics of causation.
 It assumes only that lawful physical transition exists.
 
 Everything else is structural redescription within that constraint.
+
+## One Operation Under Two Descriptions
+
+Suppose an independently qualifying UEF acts and the resulting bodily movement changes its environment. The movement, its enabling conditions, and its consequences belong to ordinary physical causation. Under the conditional identity proposal, the relevant owned operation is also experiential. Its physical efficacy is not followed by a second influence exerted by experience.
+
+This answers the worry that an experiential description must either add a force or describe something causally idle. Identity locates efficacy in the same operation. It does not establish qualification from movement, purposeful behavior, or a causal graph, and it supplies no general qualitative correspondence. Ordinary physical components can execute control functions within that operation without becoming an additional subject behind it. Agency so described also confers no authority about mind-independent reality.
 
 ## Closing Clarification
 

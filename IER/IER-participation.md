@@ -34,7 +34,7 @@ ier:
 
 ## Graded Recruitment Without Graded Subjecthood
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -140,6 +140,12 @@ subject when the full stage relation holds. Continuous owned closure,
 operational successor production, typed inheritance, operation-mediated change,
 and unique successor and predecessor must all be established. Resemblance,
 restored capacity, or recurring content cannot bridge their failure.
+
+## One Present Pattern, Different Anchoring
+
+Suppose a qualifying operation reproduces a familiar route pattern. Under one present organization it is lived as remembering a journey; under another it contributes to planning a possible journey. The past or future anchoring concerns the current organization, rather than moving participation to another time. Neither label establishes episodic memory or all four cognition conditions by itself.
+
+A quiet carried obligation might alter admissible continuation under the justified restriction comparison while a vivid image does not. Recruitment, salience, and binding must therefore be compared separately. An impossible imagined journey can still have a presently binding planning process. None of these descriptions establishes constitutive membership without its full bilateral interval relation.
 
 ## Intermission - Structural Fact
 

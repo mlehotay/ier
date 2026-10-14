@@ -37,7 +37,7 @@ Two familiar dynamical systems illuminate different aspects:
 | drumhead      | unity and global coupling of the experiential field |
 | guitar string | boundary conditions shaping field organization      |
 
-Together they provide a compact way to visualize how experiential patterns behave under intrinsic constraint.
+Together they make distributed response and boundary modulation easier to picture. Mechanical coupling does not establish intrinsic closure, ownership, constitutive membership, or experience.
 
 
 ## The Drumhead: Unity of the Experiential Field
@@ -60,14 +60,14 @@ The surface behaves as one coupled dynamical field.
 | membrane            | Unified Experiential Field            |
 | vibration pattern   | experiential state                    |
 | membrane tension    | intrinsic constraint coupling         |
-| drum frame          | welded substrate supporting the field |
+| drum frame          | enabling boundary support; not demonstrated welding |
 | air cavity feedback | internally generated system dynamics  |
 
 In the analogy:
 
-> The vibration pattern of the membrane is the experiential state itself, not a representation of it.
+> The vibration is an actual physical process, rather than merely a description of that process.
 
-Just as the sound of a drum is identical to the vibration of its membrane interacting with the surrounding air, IER proposes that experience is identical to the unified dynamical pattern occurring in the field.
+Membrane vibration, airborne pressure waves, and a listener's auditory experience are different physical relations. Under IER's identity proposal, a separately qualifying UEF operation is the experience; this mechanical comparison does not establish that identity or identify a drum as experiential.
 
 
 ### Global Coupling
@@ -78,12 +78,9 @@ In a tensioned drumhead:
 2. field-wide propagation
 3. whole-surface pattern
 
-Every region of the membrane participates in the evolving pattern.
+A disturbance can propagate through coupled regions. Its actual extent depends on modes, boundaries, damping, and the assessment interval.
 
-This illustrates a key property of the UEF:
-
-* experience forms one globally integrated field
-* disturbances reorganize the entire field rather than remaining isolated
+This illustrates distributed influence. [Intrinsic Closure](../../IER/IER-intrinsic-closure.md) instead compares global successor support with the product of projections from that same fibre across every physically meaningful partition. Propagation and coupling do not settle that comparison. Nor must every disturbance uniformly affect every constitutive participant.
 
 
 ### Temporal Continuity
@@ -94,7 +91,7 @@ $$ \mathrm{pattern}(t) \to \mathrm{pattern}(t+1) $$
 
 Each configuration emerges from the previous one.
 
-This helps illustrate why experience appears temporally continuous rather than as disconnected moments.
+This illustrates succession of physical configurations. Smooth evolution alone cannot establish [Continuity](../../IER/IER-continuity.md): continuous owned closure, produced succession, typed irreversible consequence inheritance, operation-mediated change, and unique successor and predecessor must all hold.
 
 
 ## The Guitar String: Boundary Conditions on the Field
@@ -131,13 +128,13 @@ The resulting vibration pattern determines the note we hear.
 
 | String element        | IER analog                          |
 | --------------------- | ----------------------------------- |
-| vibrating string      | Unified Experiential Field          |
-| standing wave pattern | experiential state                  |
-| string tension        | intrinsic constraint                |
+| vibrating string      | candidate coupled physical organization |
+| standing wave pattern | differentiated configuration; not a quale mapping |
+| string tension        | mechanical restriction; not established intrinsic constraint |
 | boundary conditions   | constraint geometry at the frontier |
 | finger on string      | reversible frontier coupling        |
-| capo                  | persistent structural constraint    |
-| resulting note        | global experiential configuration   |
+| capo                  | persistent but normally reversible fixation |
+| resulting note        | audible consequence; not the string's experience |
 
 The analogy illustrates an important structural principle:
 
@@ -146,72 +143,29 @@ The analogy illustrates an important structural principle:
 
 ## Soft Bonding: Temporary Boundary Conditions
 
-Pressing a finger against a guitar string introduces a temporary boundary.
+Pressing a finger against a string changes its effective vibrating length:
 
 ```text
 finger ----------- bridge
 ```
 
-The vibration reorganizes immediately:
+The allowed modes change under the new boundary. Lifting the finger can restore the previous setting, although transient vibration and dissipated energy need not reverse exactly.
 
-1. new boundary
-2. new standing wave pattern
-3. different note
-
-But the change is reversible.
-
-When the finger lifts, the string returns to its original configuration.
-
-This corresponds to soft bonding in IER.
-
-Soft bonding is:
-
-* reversible
-* frontier-local
-* non-integrative
-* non-historical
-
-It temporarily reshapes the field without collapsing futures or integrating the change into the substrate.
-
+This supplies an intuition for reversible modulation. Canonical [Soft Bonding](https://github.com/mlehotay/ier/blob/main/IER/IER-soft-bonding.md) concerns frontier-relevant coupling after binding and before any collapse in that episode. A finger position supplies none of those physical premises by itself. Reversible organization can affect later continuation without already being welding; a larger activity may also contain a separately established irreversible event.
 
 ## Hard Bonding and Welding: Persistent Boundary Conditions
 
-A capo creates a different type of constraint.
-
-When a capo clamps across the strings:
+A capo holds a new effective endpoint across several strings:
 
 ```text
 capo ======== bridge
 ```
 
-a new boundary condition becomes persistent.
+The setting persists while clamped and shapes subsequent vibration. Yet a capo is normally removable. Duration and repeated influence therefore do not make the setting canonical hard bonding or welding.
 
-Every subsequent vibration occurs under the altered geometry.
+[Pipeline](../../IER/IER-pipeline.md) orders roles conditionally in an episode that actually reaches foreclosure. Welding requires incorporation of the resolved restriction into effective subsequent organization; ordinary persistence of an adjustable setting does not supply that history. Stretching or damaging a string would change later possibilities, but even durable material change is not automatically the canonical collapse-and-welding relation.
 
-The instrument now behaves differently until the capo is removed.
-
-This illustrates hard bonding in IER.
-
-Hard bonding occurs when:
-
-1. resolution
-2. welding
-3. constraint integrated into the substrate
-
-The constraint structure of the system has changed in a way that affects all subsequent dynamics.
-
-
-### Welding as Persistent Geometry
-
-In the analogy:
-
-* placing the capo corresponds to the completion of hard bonding
-* the capoed state corresponds to welded constraint geometry
-
-Once welding occurs, the field continues operating under the new structure.
-
-Future experiential patterns arise within this altered constraint landscape.
-
+The useful contrast survives: temporary modulation, held reversible fixation, and durable alteration can shape future dynamics in different ways. Their theoretical typing must be assessed separately.
 
 ## Attention as Temporary Boundary Modulation
 
@@ -223,7 +177,7 @@ A finger can move along the string, temporarily modifying the boundary condition
 2. temporary boundary modulation
 3. different vibration patterns stabilize
 
-This resembles attention in IER.
+This offers a bounded comparison with [Attention](https://github.com/mlehotay/ier/blob/main/IER/IER-attention.md), which concerns allocation of participation in an already qualifying operation. The finger is not an inner chooser or a physical implementation of attention.
 
 Attention is not a separate mechanism or spotlight.
 
@@ -255,13 +209,13 @@ The drumhead and string analogies highlight different aspects of the same system
 
 | drumhead                                 | guitar string                |
 | ---------------------------------------- | ---------------------------- |
-| explains unity of the experiential field | explains constraint geometry |
+| illustrates distributed coupling | illustrates adjustable boundaries |
 | shows global coupling                    | shows boundary effects       |
-| emphasizes field formation               | emphasizes field modulation  |
+| emphasizes propagation limits | emphasizes reversible fixation |
 
-The drum helps explain why there is one unified field.
+The drum illustrates distributed coupling without proving intrinsic unity.
 
-The string helps explain how constraint changes reorganize that field.
+The string illustrates how changing a boundary can reorganize allowed modes without a new irreversible event.
 
 
 ## Limits of the Analogies
@@ -284,8 +238,8 @@ The drumhead and guitar string metaphors together provide an intuitive picture o
 The drumhead illustrates:
 
 * global coupling
-* distributed experiential states
-* unity of the field
+* distributed configurations
+* the limits of inferring unity from propagation
 
 The guitar string illustrates:
 
@@ -293,10 +247,6 @@ The guitar string illustrates:
 * reversible and persistent constraint changes
 * how attention and bonding reorganize the field
 
-In both systems, the observable phenomenon - the sound - is identical to the dynamical pattern of the physical system.
+Membrane or string motion, radiated sound, and heard sound must keep their own physical accounts.
 
-IER proposes a similar identity:
-
-> Experience is identical to the unified dynamical organization of a globally constrained field.
-
-These metaphors help visualize how such a field can evolve, reorganize, and integrate new structure while remaining a single unified experiential process.
+IER's identity proposal concerns the operation satisfying the full canonical relation stack. These analogies clarify distributed organization and adjustable boundaries; they prove neither experiential identity nor qualitative correspondence. Definitions and warrant remain with the [Specification](../../IER/IER-specification.md) and [Theory](../../IER/IER-theory.md).

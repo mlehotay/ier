@@ -29,7 +29,7 @@ ier:
 
 ## Global Extendability in Non-Product Admissible-Future Structures
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -147,6 +147,12 @@ successor can be admissible while having no further coherent successor over
 the horizon in question. This failure requires neither a selector nor a
 retroactive removal of its original admissibility.
 
+
+## Immediate Support and a Two-Step Horizon
+
+Consider a declared model with $A(s)=\{u,v\}$, $A(u)=\{w\}$, and $A(v)=\{f\}$. Both $u$ and $v$ are immediately admissible physical successors. Stipulate that $u$ and $w$ preserve the organization under study, while $f$ is its failure configuration. Over a two-step coherent-continuation horizon, $s\to u\to w$ qualifies, whereas $s\to v\to f$ is lawful but fails that stated coherence condition.
+
+Nothing retroactively removes $v$ from $A(s)$. The longer-horizon verdict concerns coherent extension, not immediate physical reachability or a new foreclosure event. The example needs no claim of non-product support: even a product fibre does not guarantee later coherent continuation. Separately, a forbidden recombination across a same-fibre partition fails immediate global admissibility before the horizon question arises. Neither comparison proves numerical subject continuity.
 
 ## Product and Non-Product Futures
 
@@ -331,7 +337,7 @@ every locally reachable branch
 extends into some future path
 ```
 
-Non-product future structures invalidate this assumption.
+The assumption can fail through later coherence conditions even with pointwise product support; non-product support introduces the additional immediate combination question.
 
 Instead:
 
@@ -362,9 +368,7 @@ rather than ordinary collapse.
 
 ## Why This Appears Paradoxical
 
-Humans naturally reason locally.
-
-We assume:
+The tempting but unsupported reconstruction is:
 
 ```text id="9r2m5v"
 if each subsystem continuation appears possible

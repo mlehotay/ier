@@ -12,7 +12,7 @@ ier:
   - UI033
   status: canonical
   filename: IER-futures.md
-  version: v10.11.5
+  version: v10.11.6
   requires:
     hard:
     - IER-specification
@@ -35,10 +35,12 @@ ier:
 
 ## Admissibility Domains and the Structure of Futures
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · FOUNDATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+Experiential structure confers no epistemic authority about mind-independent reality.
 
 
 This document:
@@ -257,6 +259,12 @@ Structural admissibility does not require anticipation.
 
 Imagined futures are not foreclosed merely by ceasing to be imagined. The physically instantiated cognitive organization doing the imagining can nevertheless participate, bind, deform, and undergo owned resolution. Its imagined content must not be substituted for operative physical successors.
 
+
+## A Plan and Its Physical Realization
+
+Suppose a qualifying operation anticipates crossing a bridge that is physically unavailable under the declared conditions. The imagined crossing can belong to its anticipated content while failing to correspond to any member of physical $A_{\text{UEF}}(s)$. Yet the present physical activity of planning can itself participate in the operation and alter its continuation. Content and the organization doing the anticipating have different roles.
+
+Learning that the bridge is unavailable does not, by itself, foreclose a previously reachable crossing: it may correct anticipation of an alternative that was already physically unavailable. Conversely, an independently established physical loss of a previously reachable crossing can change support whether or not it was anticipated. The event must meet the collapse owner's physical and temporal conditions; disappointment, a changed list, or an updated map cannot establish it.
 
 ## Domain IV - Counterfactual Reference
 

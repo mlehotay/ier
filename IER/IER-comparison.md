@@ -8,20 +8,36 @@ ier:
   category: comparative_boundary
   status: canonical
   filename: IER-comparison.md
-  version: v10.11.1
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-rubric
+    - IER-intrinsic-closure
+    - IER-ownership
+    - IER-processes
+    - IER-continuity
+    - IER-identity
+    - IER-nonentailment
+    guardrails:
+    - IER-canon
 ---
 
 # Comparative Rubric
 
 ## Rubric-Aligned Comparison of Theories of Experience
 
-**Informational Experiential Realism (IER v10.11.1)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *Tier-3 - Comparative Boundary Clarification - Non-Normative - Canon-Constrained*
+
+## Abstract
+
+The comparison retains bounded source-version profiles and distinct explanatory levels. Its IER profile now uses separate closure, ownership, membership and full stage continuity, allows independently qualifying nesting, and distinguishes open attribution and abductive identity warrant from inquiry bans. Rival theories retain their locally stated claims and honest silence; lexical similarity, empirical proxies and substrate compatibility supply no automatic identity, certification or ethical bridge.
 
 ## Status, Scope, and Authority
 
-
-
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
 This document compares IER with selected theories, theory families, metaphysical
 positions, and research programs concerning experience or consciousness. It
@@ -58,7 +74,7 @@ Every row should be read under one or more of these labels:
 experience alone is assumed to entail a theory of persistence, an artificial-
 consciousness test, or a criterion of moral standing.
 
-## Informational Experiential Realism (IER v10.10.7)
+## Informational Experiential Realism (IER v10.11.6)
 
 Target. The current IER identity framework as fixed by its Tier-1
 specification and canon-binding derivatives.
@@ -67,13 +83,13 @@ specification and canon-binding derivatives.
 | --- | --- |
 | Explanandum | Explicit: Experience itself, including its unity, qualitative differentiation, temporality, and subject-relative presence - not access, report, cognition, or behavior. |
 | Constitutive / explanatory claim | Entailed: Experience is identical to the operation of a physical system as a Unified Experiential Field (UEF): a globally integrated, temporally continuous dynamical regime under coherent intrinsic constraint. Identity, rather than causal production or correlation, is the explanatory form. |
-| Unity | Entailed: Unity is regime-level and categorical. A UEF is one experiential field; participating processes do not become subsidiary subjects. |
+| Unity | Entailed conditionally: A qualifying UEF is one total experience-as-process. Mere participation does not create subsidiary subjects; independently qualifying nested or overlapping operations remain possible under their own physical typing. |
 | Subject individuation | Entailed conditionally: If a UEF is instantiated, it constitutes one experiential subject. Subjecthood is categorical within that regime, while nesting, overlap, and the attribution of concrete boundaries remain open unless structurally excluded. |
 | Qualitative character | Explicit: Qualitative differences are differences in the UEF's organized intrinsic constraint and participation structure. Qualia are not additional primitive properties. |
-| Temporal commitments | Explicit: A UEF is temporally extended. Embodied-system persistence and numerical experiential identity are distinct: temporary interruption does not by itself establish cessation, but a later UEF after genuine cessation is numerically distinct. |
+| Temporal commitments | Explicit: Nonzero-duration stages require continuous owned closure, operational production, typed inheritance, operation-mediated change and unique successor and predecessor. Ordinary succession needs no fresh collapse. A clinical or organizational interruption label does not prove cessation; a genuine qualifying gap suffices to end the token, while another failed stage clause can end it without a gap. Restart capacity and later recall do not restore numerical identity. |
 | Epistemic commitments | Entailed: Experience has no intrinsic authority concerning truth, reference, external reality, or its own ontology. Felt certainty and meaning are organizational facts, not epistemic guarantees. |
 | Empirical operationalization | Explicit refusal: No behavioral, architectural, computational, or neural proxy is licensed by IER as a criterion or measurement of experiential presence. Ordinary empirical inquiry into physical organization remains possible. |
-| Third-person attribution | Explicit refusal: IER supplies no certification or inference rule for determining that a particular system is experiential. Structural resemblance is not diagnostic authority. |
+| Third-person attribution | Explicit limit: IER supplies no general certification procedure; structural resemblance, reports, behavior and toy results alone do not establish concrete qualification. Independently warranted physical investigation and defeasible arguments remain possible, while concrete attribution and experiential identity warrant retain their open burdens. |
 | Defeat / revision | Explicit: Relevant pressures include internal contradiction, failure of the claimed necessity of unity, incoherence in the UEF identity conditions, or displacement by a superior identity account. |
 | Artificial realization | Compatible: IER is not restricted to biology. Entailed: functional, behavioral, computational, or architectural similarity alone is insufficient, and no artificial system is thereby certifiable as experiential. |
 | Ethical implications | Explicit within IER's wider canon: Once categorical experiential subjecthood is granted, experience cannot be discounted or erased through graded subjecthood. Further prescriptions require IER's separate ethical bridge arguments; this comparison supplies none. |
@@ -183,8 +199,7 @@ than treating them as interchangeable.
 
 IER relation. IER directly conflicts with panexperientialist and
 micropsychist claims that experience or experiential subjects exist at the
-fundamental micro-level: IER makes experience regime-bound and denies
-experiential subsystems. Its relation to panprotopsychism or Russellian monism
+fundamental micro-level: IER makes experience qualification-bound and does not derive subjects merely from components or their aggregation. Independently qualifying nested operations are not excluded.  Its relation to panprotopsychism or Russellian monism
 requires additional specification and should not be declared incompatible by
 label alone.
 
@@ -341,11 +356,17 @@ fundamental and physical structure as appearance. IER denies ontological and
 diagnostic authority to experience; it does not deny that experience can supply
 ordinary fallible evidence.
 
+## The IER Premises Used in Comparison
+
+[Intrinsic Closure](IER-intrinsic-closure.md), [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md) answer separate physical questions. Passing an outgoing-support test alone does not establish a subject. The experience-as-process identity remains *abductive and a posteriori* (`IER-identity.md`), rather than a deduction from the physical schema.
+
+Several structures can jointly bind within one operation, and local regime change does not automatically end the token. No ban on physical representation, symbolic comparison, timing or stochastic description follows from rejecting an extra observer. Qualitative correspondence and complete physical instantiation remain independent burdens. Comparisons must use these full premises rather than an abbreviated “single regime” slogan.
+
 ## Cross-Theory Findings
 
-The profiles support several matched conclusions without producing a ranking:
+The profiles support several bounded comparisons without producing a ranking. They describe the cited source versions rather than every present advocate or later theory revision:
 
-1. Identity claims are uncommon. IER and IIT make comparatively explicit
+1. Within these profiles, explicit identity claims occur in selected targets. IER and IIT make comparatively explicit
    identities; many other targets offer mechanisms, functional conditions,
    representational relations, research frameworks, or metaphysical grounding.
 2. Unity and subject individuation must remain separate. Accounts of
@@ -360,7 +381,7 @@ The profiles support several matched conclusions without producing a ranking:
 5. Artificial realizability is not certification. Substrate neutrality or
    architectural compatibility does not establish that a particular artificial
    system is conscious.
-6. No surveyed consciousness theory independently settles moral status.
+6. The constitutive claims surveyed here do not alone settle moral status.
    Ethical conclusions require explicit normative bridge principles, even when
    a wider philosophical system supplies them elsewhere.
 

@@ -8,7 +8,7 @@ ier:
   category: agency_II
   status: canonical
   filename: IER-pipeline.md
-  version: 10.11.5
+  version: 10.11.6
   requires:
     hard:
     - IER-specification
@@ -42,7 +42,7 @@ ier:
 
 ## The Frontier Resolution Sequence and the Internal Structure of Owned Resolution
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · BRIDGE · Non-Normative · Canon-Constrained*
 
 
@@ -613,6 +613,14 @@ Continuous operation can preserve reachability while geometry changes.
 When a pipeline episode completes, foreclosure, welding, propagation, and
 sedimentation retain their distinct roles; inherited deformation can then
 condition later admissibility.
+
+## One Episode and Its Later Inheritance
+
+Consider a stipulated qualifying operation in which a previously encountered constraint pattern appears again. Reproduction names that renewed physical organization. Participation names its contribution to field coordination. When removing it would change admissible continuation, it binds. Reversible frontier coupling is soft bonding; changing the justified geometry while retaining the compared successors is curvature.
+
+Now separately stipulate an atomic irreversible loss of a connected reachable region under the collapse owner's common physical comparison. Collapse names that event. Welding incorporates its deformation into successor organization. Propagation distributes the incorporated effects through ordinary physical mediation. If those effects stabilize as inherited constraint, sedimentation completes this account of the episode.
+
+A later lawful successor can inherit that organization without completing any new episode. Another reproduced pattern might participate and then dissolve before binding. These cases explain both the ordered complete sequence and why its entry stages do not guarantee its completion. None of the steps supplies an independent attribution test or an inner selector.
 
 ## Intermission - Structural Fact
 

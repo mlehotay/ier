@@ -8,266 +8,83 @@ ier:
   category: cognition_II
   status: canonical
   filename: IER-concurrency.md
+  version: 10.11.6
+  requires:
+    hard:
+    - IER-specification
+    structural:
+    - IER-ownership
+    - IER-processes
+    - IER-binding
+    - IER-attention
+    - IER-participation
+    - IER-cognition
+    - IER-continuity
+    - IER-multiscale-uefs
+    guardrails:
+    - IER-canon
 ---
-# Co-Presence Without Parallelism
 
-**Informational Experiential Realism (IER v10.11.2)**\
-*T2 - ELABORATION - Non-Normative - Canon-Constrained*
+# Co-Presence and Joint Participation
+
+## Several Contents Within One Owned Operation
+
+**Informational Experiential Realism (IER v10.11.6)**\
+*T2 · Elaboration · Non-Normative · Canon-Constrained*
+
+## Abstract
+
+Several contents and participating structures can coexist and jointly bind within a qualifying UEF. Binding concerns a removal counterfactual, whereas ownership concerns the whole operation and membership has its full bilateral conditions. Co-presence neither requires an extra inner scheduler nor forbids physical parallel processing, internal conflict or independently qualifying nested operations. Examples of shallow imagery or background sensation are conditional descriptions, not universal non-binding classifications.
 
 ## Status, Scope, and Authority
 
+Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
+This article explains co-presence within an independently qualifying operation. It adds no scheduling mechanism, participation capacity law or diagnostic of subjecthood. [Ownership](IER-ownership.md), [Processes](IER-processes.md), *Binding* (`IER-binding.md`) and *Attention* (`IER-attention.md`) retain their separate definitions.
 
+## Why “Multiple Streams” Needs Reconstruction
 
-This article explains how multiple thoughts, sensations, and reproduced structures can be co-present within a single Unified Experiential Field (UEF) without multithreading, modularization, or parallel ownership.
+Streams, voices, threads and parts can describe several concurrently active processes. The metaphors do not by themselves establish several owners or a committee of experiential agents. Physical parallel processing, competing recruitment, symbolic comparison and implemented scheduling remain possible. Their existence is different from positing an additional inner subject that directs the whole.
 
-It:
+The earlier conclusion that no concurrency or conflict is possible was too strong. No extra chooser is required to explain how interacting constraints change the operation's continuation.
 
-* introduces no new ontological primitives
-* posits no internal agents, schedulers, or controllers
-* does not redefine binding, participation, or traversal
-* does not claim experiential parallelism
+## One Owned Resolution, Several Binding Contributions
 
-Its purpose is to clarify the architectural meaning of *“simultaneous experience”* under Informational Experiential Realism (IER).
+Within one UEF, differentiated processes participate in the total experience-as-process. More than one participating structure can be frontier-relevant at once. If removing either a task organization or a threat organization changes admissible continuation under the same typing, both bind. Their joint effect remains part of one globally owned problem; neither thereby becomes a separate owner.
 
-This clarification follows the canonical IER framework.
+Binding does not replace the five constitutive membership conditions. A causal support can matter counterfactually without being a member, and membership over an interval is not a momentary depth score. [Continuity](IER-continuity.md) independently governs the token through changes in content and participation.
 
-The relevant canonical IER documents govern this clarification.
+## Participation Depth and Conditional Examples
 
-This article is explanatory only.
+Participation grades current contribution to intrinsic-constraint distribution and content. A reproduced image might remain shallow and droppable; in another setting the same imagery might organize avoidance or planning and become binding.
 
-## Why “Multiple Streams” Is the Wrong Abstraction
+| Co-present content | Question to establish independently |
+| --- | --- |
+| Cold toes during a task | Does the bodily organization alter continuation, or remain shallow under this comparison? |
+| Background affect | Is it merely present, or reorganizing the task's viable continuation? |
+| Imagined kittens | Does dropping the present reproduction change continuation, irrespective of the kittens' feasibility? |
+| A competing plan | Are several frontier-relevant reproductions interacting reversibly under all four cognitive conditions? |
 
-*Elaboration - Non-Normative - Canon-Constrained*
+Content labels decide none of these questions. Non-binding participation is not unreal; binding is not a universal measure of intensity, switching cost or ownership.
 
+## Gating and the “Firewall” Metaphor
 
+*Gating* (`IER-attention.md`) describes recruitment limitation or stabilization where that organization is physically established. A “firewall” can illustrate a difference between currently droppable and frontier-relevant organization. It is not a new universal mechanism, one anatomical barrier or a prohibition on internal partitions.
 
-Ordinary descriptions of experience frequently invoke:
+Droppability can differ among structures and change over time. Physical scope and actual recruitment must be described rather than inferred from a software analogy.
 
-* streams of thought
-* background processes
-* inner voices
-* parallel threads
-* multitasking
-* internal parts
+## Apparent Layering and Internal Conflict
 
-These metaphors implicitly assume:
+Stable reproduction, changing participation, bodily signals and smooth navigation can motivate descriptions of layered experience. Particular bandwidth, buffering and switching-cost explanations need their own physical evidence. IER supplies no universal capacity profile or theory of clinical parts.
 
-* parallel ownership of experience
-* arbitration or scheduling
-* modular sub-systems
-* multiple loci of control
+Conflict can arise when several binding demands condition continuation differently. That is genuine organizational tension, without requiring several inner subjects. The task-versus-threat example illustrates how a route may remain physically available while its cost or recruitment becomes difficult. A report of “two minds” alone establishes neither fission nor incompatible ownership.
 
-Under IER, all such assumptions are structurally impossible.
+## Nested Qualification and Limits
 
-If experience is identical with the operation of a single, globally integrated constraint regime, then:
+Independently qualifying nested or overlapping UEF operations remain possible under their own physical typing. The same matter can participate at several descriptions without automatically transferring a token or granting shared first-person occupancy. Incompatible ownership of the same typed global resolution remains excluded.
 
-* ownership of intrinsic constraint cannot be parallelized
-* irreversible resolution cannot occur in more than one place
-* no internal scheduler can exist outside experience
-
-Concurrency must therefore be explained without parallel execution.
-
-## The Single-Regime Constraint
-
-IER entails:
-
-* exactly one Unified Experiential Field at a time
-* exactly one history - future boundary
-* exactly one locus where intrinsic constraint is borne
-
-This does not imply poverty of experience.
-
-It implies that only one integrated structure can bind, even while many structures are present.
-
-Concurrency, if it exists, must be apparent rather than literal.
-
-## Co-Presence vs Concurrency
-
-IER draws a strict distinction between:
-
-* co-presence - multiple structures being simultaneously present
-* concurrency - multiple structures simultaneously binding or owning futures
-
-IER allows unlimited co-presence.
-IER forbids concurrency of binding.
-
-Many things may be present at once.
-Only one integrated constraint structure may participate in irreversible resolution.
-
-This distinction is architectural, not phenomenological.
-
-## Participation Depth as the Primary Axis
-
-The appearance of concurrency arises from graded participation, not parallel threads.
-
-Participation may be:
-
-* deep - strongly coupled to frontier resolution (binding)
-* shallow - present but non-binding
-* background - weakly coupled signal
-
-Most structures commonly described as “other streams” are shallow reproductions.
-
-They persist because they are cheap, not because they compete.
-
-## Binding as the Exclusivity Condition
-
-As defined in *IER binding*:
-
-> Binding is frontier relevance - participation such that dropping it would alter admissible futures under intrinsic constraint.
-
-Only binding structures:
-
-* narrow futures
-* carry switching cost
-* demand resolution
-* own traversal
-
-Non-binding structures:
-
-* do not compete
-* do not require arbitration
-* do not fragment experience
-
-This is why:
-
-* cold toes
-* ambient affect
-* background imagery
-* stray thoughts
-* imagined kittens
-
-can coexist with a binding task or threat without conflict.
-
-They are present, but they do not bind.
-
-## Why There Is Only One Firewall
-
-The so-called “firewall” is not a mechanism.
-
-It is the architectural separation between:
-
-* binding structure (frontier-relevant)
-* non-binding structure (droppable, co-present)
-
-There is exactly one such separation, because there is exactly one history - future boundary.
-
-There are no:
-
-* per-stream sandboxes
-* internal partitions
-* nested firewalls
-* protected subsystems
-
-All co-presence occurs on the same side of the same boundary.
-
-## Why Apparent Concurrency Feels Real
-
-Co-presence often *feels* concurrent because of:
-
-* persistence of shallow reproduction
-* low switching cost
-* wide participation bandwidth
-* imagistic buffering
-* smooth curvature changes
-
-This produces the phenomenology of:
-
-* “thinking about several things at once”
-* background awareness
-* parallel imagery
-* layered experience
-
-None of this requires:
-
-* time-slicing
-* rapid scheduling
-* parallel ownership
-
-No arbitration is needed because non-binding structures do not compete.
-
-## Architectural Variation Across Individuals
-
-Experiential architectures vary widely in:
-
-* participation bandwidth
-* gating strictness
-* imagistic buffering
-* switching cost
-* tolerance for shallow clutter
-
-As a result:
-
-* some experience feels narrowly single-threaded
-* some feels richly layered
-* some tolerates many co-present structures
-* some collapses quickly under clutter
-
-These differences alter texture and capacity, not structure.
-
-No architecture permits parallel binding.
-
-## Why “Internal Conflict” Is a Misinterpretation
-
-Conflict requires shared binding.
-
-Since binding cannot be parallelized, apparent internal conflict arises when:
-
-* shallow structure is mistaken for binding
-* non-binding participation is treated as a competing agent
-* metaphor is mistaken for architecture
-
-This produces:
-
-* parts reification
-* committee narratives
-* false adversarial framing
-* fragmentation pressure
-
-IER blocks these interpretations structurally.
-
-## Relationship to Navigation and Traversal
-
-Concurrency collapses into navigation variables already defined elsewhere:
-
-* participation depth
-* gating strength
-* attractor curvature
-* switching cost
-
-Changes in apparent concurrency reflect changes in traversal geometry, not new machinery.
-
-No additional operators are required.
-
-## What This Article Does Not Claim
-
-This article does not claim:
-
-* that experience is serial in a computational sense
-* that only one thing can be present
-* that background awareness is illusory
-* that rapid switching is conscious
-* that richness implies parallelism
-
-It blocks parallel ownership, not experiential density.
+Co-presence thus permits dense differentiation and joint binding within one operation. It proves neither nested subjecthood nor its absence, and it establishes no clinical, computational or qualitative correspondence by itself.
 
 ## Summary
 
-> Experience is not multithreaded.
-> It is densely layered.
-> Only one layer binds.
-
-Under Informational Experiential Realism:
-
-* many structures may be co-present
-* participation is graded
-* binding is exclusive
-* concurrency is apparent, not literal
-* firewalls separate binding from non-binding - not streams from streams
-
-Nothing is scheduled.
-Nothing is arbitrated.
-Nothing is divided.
-
-There is one system, bearing constraint once - and many shapes it can hold without letting them count.
+Many structures may be present; several may bind jointly. Their participation need not be an aggregate of subjects. Reconstruct the actual organization and distinguish binding, membership, ownership and token continuity before drawing an architectural conclusion.

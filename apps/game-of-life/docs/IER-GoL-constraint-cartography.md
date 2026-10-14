@@ -1,246 +1,142 @@
 # From Structural Example to Constraint Cartography
 
-## Reinterpreting the IER Game of Life Project as a Foundation for Organizational Reconstruction
+## A Proposed Game of Life Substrate for Organizational Reconstruction
 
-Status: Research Note / Design Retrospective
-
+Status: Non-Canonical Research Note / Design Retrospective\
 
 ## Abstract
 
-The original IER Game of Life (GoL) project was conceived as a controlled environment for exploring structural concepts such as dependence, projection, restriction, and non-decomposability within a deterministic dynamical system. At the time, these examples primarily served to illustrate mathematical ideas developed elsewhere in Informational Experiential Realism (IER).
-
-Subsequent theoretical work has substantially expanded the IER framework through the introduction of explicit formalisms for future structure, representation, persistent organization, and Constraint Cartography. These developments suggest a new interpretation of the GoL project.
-
-Rather than functioning merely as an illustrative example, the Game of Life now appears to provide a natural experimental substrate for developing organizational reconstruction techniques. Although the current implementation remains only a baseline simulator and the organizational analysis layer has not yet been implemented, the project already possesses many of the structural properties required of a future toy model.
-
-This report documents that reinterpretation, explains its relationship to the Constraint Cartography research program, and outlines how the existing GoL work can evolve into an experimental platform for studying organizational reconstruction before applying similar techniques to modern neural networks.
-
-
-## Introduction
-
-The Game of Life has occupied a modest but recurring role throughout the development of IER.
-
-Its appeal was never that Conway's cellular automaton resembles cognition or consciousness. On the contrary, its value lies in its simplicity. The dynamics are deterministic, discrete, and completely specified by a local update rule. This makes GoL an unusually clean environment in which structural questions can be isolated from the complexities of biological or artificial intelligence.
-
-Accordingly, the original GoL project was conceived as an example system rather than a foundational component of the theory. It provided concrete demonstrations of concepts such as dependence propagation, projection, restriction, and structural non-decomposability without making any claims about consciousness or experiential organization.
-
-Since that work began, however, the theoretical landscape has changed considerably.
-
-IER now includes explicit treatments of future structure, representation, persistent organization, and Constraint Cartography. These developments suggest that the Game of Life project occupies a more significant methodological position than originally recognized.
-
-The purpose of this report is to explain that reinterpretation.
-
-
-## The Original Role of the Game of Life
-
-The original project asked a relatively modest question:
-
-Can a simple deterministic system exhibit interesting structural properties relevant to IER?
-
-The answer was yes.
-
-Even though standard Game of Life possesses only a single admissible global future, it nevertheless exhibits rich dependence structures, region interactions, projection phenomena, and forms of non-compositional behavior.
-
-This made GoL valuable as a collection of structural examples.
-
-It demonstrated that phenomena such as non-decomposability or region-spanning dependence should not automatically be interpreted as evidence for intrinsic closure or consciousness. Instead, they arise naturally within deterministic systems and therefore function as useful negative controls for the broader theory.
-
-In this original interpretation, the GoL application primarily illustrated existing ideas.
-
-It was not itself viewed as a research platform.
-
-
-## What Changed
-
-The reinterpretation described in this report did not arise from changes to Conway's Game of Life.
-
-It arose from changes to the surrounding theory.
-
-The development of Constraint Cartography introduced a distinction between two different explanatory objectives:
-
-* reconstructing transient computation, and
-* reconstructing persistent organization.
-
-This distinction initially emerged within explainable artificial intelligence, where modern interpretability techniques were observed to provide increasingly detailed observations of computation while leaving open the question of how the enduring organization established during learning should itself be reconstructed.
-
-Viewed from this perspective, organizational reconstruction became the primary scientific objective.
-
-This immediately suggests a practical problem.
-
-Where should organizational reconstruction methods be developed?
-
-Large language models are extraordinarily powerful, but they are also extraordinarily complex. Even relatively simple interpretability experiments require substantial computational resources and often involve incomplete or indirect observations.
-
-A smaller experimental environment would therefore be valuable.
-
-Only after developing the Constraint Cartography framework did it become apparent that the existing GoL work already possessed many of the characteristics such an environment would require.
-
-
-## A New Interpretation
-
-The important realization is not that Game of Life already implements Constraint Cartography.
-
-It does not.
-
-The current implementation is intentionally limited to being a correct, deterministic Game of Life simulator. The implementation plan explicitly excludes IER analysis layers, future-cone visualization, dependence tracking, coherence metrics, and organizational instrumentation until the simulator itself is complete.
-
-Instead, the realization is that the GoL project already defines an appropriate *substrate* upon which Constraint Cartography can later be built.
-
-The distinction is important.
-
-A simulator evolves configurations.
-
-Constraint Cartography reconstructs organization.
-
-The simulator therefore provides observations.
-
-The analysis layer will eventually infer persistent organizational structure from those observations.
-
-This separation closely mirrors the distinction proposed in the Constraint Cartography research program itself.
-
-
-## Correspondence with Constraint Cartography
-
-Once viewed from this perspective, the correspondence becomes striking.
-
-| Constraint Cartography             | Game of Life (future analysis layer) |
-| ---------------------------------- | ------------------------------------ |
-| Persistent organization            | Diachronic dependence structure      |
-| Learned organizational constraints | Structural dependence relations      |
-| Organizational regions             | Region decomposition                 |
-| Organizational boundaries          | Closure boundaries                   |
-| Computational trajectories         | Cell-state evolution                 |
-| Observations                       | Successive board configurations      |
-| Organizational reconstruction      | Dependence and region analysis       |
-
-The analogy should not be interpreted literally.
-
-Game of Life contains neither learning nor adaptive optimization.
-
-Nevertheless, both systems present the same methodological challenge.
-
-Observable computations occur over time.
-
-Persistent organizational structure must be inferred from those observations.
-
-The mathematical complexity differs substantially.
-
-The scientific objective is remarkably similar.
-
-
-## Why Game of Life is an Appropriate Toy Substrate
-
-An effective toy model should isolate the phenomenon of interest while minimizing unrelated complexity.
-
-Game of Life satisfies this requirement unusually well.
-
-Its update rule is completely known.
-
-The entire system is deterministic.
-
-Every state is observable.
-
-Dependence relationships are precisely defined.
-
-Experiments are perfectly reproducible.
-
-These properties make GoL unsuitable as a model of intelligence, but highly suitable as a controlled environment for developing organizational reconstruction techniques.
-
-Rather than asking whether a reconstruction algorithm scales to billions of parameters, researchers can first investigate whether it correctly recovers organizational structure within a fully understood dynamical system.
-
-This progression closely follows established scientific practice.
-
-New observational methods are commonly developed on simplified experimental systems before being applied to substantially more complex natural phenomena.
-
-
-## Current Status
-
-It is important to distinguish between the present implementation and the longer-term research vision.
-
-The current project should not yet be described as a completed toy model of Constraint Cartography.
-
-Instead, it is best understood as the first implementation milestone.
-
-The immediate objective is to complete a robust, deterministic Game of Life simulator featuring stable rendering, deterministic initialization, pattern support, reproducible testing, and a maintainable architecture.
-
-Only after this baseline has been completed does the planned analysis layer become appropriate.
-
-That future phase includes capabilities such as:
-
-* diachronic dependence tracking,
-* region identification,
-* future-structure visualization,
-* non-decomposability instrumentation,
-* structural overlays,
-* and organizational analysis.
-
-Those capabilities represent the beginning - not the completion - of a Constraint Cartography toy model.
-
-
-## Implications for the Constraint Cartography Research Program
-
-During development of the Constraint Cartography position paper, one recurring criticism was the absence of a concrete toy example.
-
-At the time, this appeared to require constructing a simplified neural-network experiment.
-
-The reinterpretation presented here suggests a different path.
-
-Rather than inventing an artificial example specifically for the paper, the existing GoL project can evolve into a dedicated organizational reconstruction laboratory.
-
-This offers several advantages.
-
-The dynamics are completely known.
-
-Ground truth is available.
-
-Dependence can be computed exactly.
-
-Organizational hypotheses can be evaluated under controlled conditions.
-
-Visualization techniques can be developed incrementally.
-
-Most importantly, reconstruction algorithms can be studied independently of the many engineering complexities associated with contemporary machine learning systems.
-
-The resulting platform would not demonstrate that Constraint Cartography succeeds for large language models.
-
-Instead, it would demonstrate that organizational reconstruction is a coherent scientific objective capable of being investigated in a fully specified dynamical system.
-
-That is precisely the role expected of a toy model.
-
-
-## Future Work
-
-The next phase of the GoL project naturally extends beyond simulation toward organizational analysis.
-
-Representative research directions include:
-
-* computing explicit diachronic dependence graphs,
-* reconstructing region-level organization,
-* visualizing projected future structure,
-* investigating closure and support conditions,
-* developing organizational metrics,
-* evaluating reconstruction algorithms,
-* and comparing reconstructed organization against known ground truth.
-
-Collectively, these efforts would transform the project from a deterministic simulator into a genuine experimental platform for Constraint Cartography.
-
-
-## Conclusion
-
-The role of the Game of Life project has changed as the surrounding theoretical framework has matured.
-
-Originally, it served as a controlled example for illustrating structural concepts within IER and as a useful negative control for distinguishing dependence and non-decomposability from intrinsic closure.
-
-The subsequent development of Constraint Cartography reveals an additional methodological role.
-
-Although the current implementation remains a baseline simulator and the organizational analysis layer has yet to be constructed, the project now appears to provide a natural foundation upon which a genuine toy model of organizational reconstruction can be built.
-
-This reinterpretation does not alter the original purpose of the project.
-
-Instead, it expands it.
-
-The Game of Life remains a simple deterministic cellular automaton.
-
-What has changed is our understanding of what can be learned from studying it.
-
-Rather than serving only as an illustration of existing theory, it now offers a practical path toward developing and validating Constraint Cartography in a fully understood environment before extending those ideas to the considerably more complex domain of learned neural systems.
+Conway’s Game of Life supplies a deterministic, inspectable substrate on which
+to develop tests of dependence, projection, region predicates and organizational
+reconstruction. The current executable supplies a simulator baseline and
+ordinary step statistics. Its GoL phase is incomplete, and its dependence,
+region and support analysis remains proposed. This note explains how those
+future tools could support constraint cartography without treating a descriptive
+graph as a physical subject or an unfinished construction as a demonstrated
+result.
+
+## Original Role and Retained Question
+
+The original project asked whether a simple deterministic system could isolate
+structural questions relevant to IER. At a fixed complete Life configuration,
+the next-state set is singleton. Its projections factorize. A separately
+defined region predicate can nevertheless be sensitive to the boundary at which
+it is evaluated. These are different mathematical questions.
+
+The [predicate specification](IER-GoL-predicate-nondecomposability.md) and
+[conditional argument](IER-life-nondecomposability.md) preserve that distinction.
+If the whole predicate succeeds while a subregion predicate fails, the filtered
+singleton differs from the empty recombination. An explicit computed GoL history
+satisfying those premises is still required. The
+[regional support proposal](IER-GoL-support-admissibility.md) uses outputs across
+perturbed starting configurations, not multiple successors of the actual state.
+Its neighborhood, history policy and factorization result remain to be supplied.
+
+The useful negative-control question survives: which forms of apparent unity
+can arise in a description without establishing canonical intrinsic closure?
+It does not require declaring the physical computer conscious or non-conscious.
+
+## Current Meaning of Constraint Cartography
+
+The earlier retrospective framed cartography mainly as reconstruction of
+persistent organization behind transient computation, aimed eventually at
+neural networks. That is a possible application, but it is not the complete
+current account. [Paper 02, Constraint Cartography](https://github.com/mlehotay/halfbaked/blob/main/pub/articles/paper-02-constraint-cartography.md)
+develops a model-relative method through slime-mold studies and distinguishes
+three explanatory targets:
+
+| Map | Question for a future Life experiment |
+| --- | --- |
+| Instance | Why did this board follow this trajectory under this topology and initialization? |
+| Mechanism | Which specified update sensitivities recur across a declared family of configurations? |
+| Organization | How do those relations compose, persist, compete or change over the selected interval? |
+
+A cartographic relation states its bearer, locus, timescale, origin, evidence,
+effect, rival explanation and failure condition. In Life, these fields would
+need an explicit board, boundary rule, perturbation family, history window and
+comparison target. Observed co-activity and intervention-supported sensitivity
+must retain different evidence roles. A connected region is one descriptive
+unit under that construction, not automatically one autonomous operation.
+
+Cartographic constraint is ordinary and model-relative. A board boundary,
+initialization, changed topology or prior configuration can affect later
+transitions without establishing intrinsic constraint, owned foreclosure,
+welding or subject persistence. Current-state effects of past evolution do not
+show that the past is stored as experiential content.
+
+## Proposed Correspondences and Their Limits
+
+| Cartographic question | Proposed Life construction | Limitation |
+| --- | --- | --- |
+| Present organization with later effects | Current configuration and declared history-window dependence | Window accumulation is not numerical subject continuity or irreversible inheritance. |
+| Local and distributed relations | Counterfactual update sensitivity and cross-region edges | Coupling and indispensability do not establish constitutive membership. |
+| Descriptive boundaries | Regions and region-relative predicates | No canonical closure or ownership verdict follows from connectivity. |
+| Realized trajectories | Successive board configurations | One realized trajectory does not inventory all physically available continuations. |
+| Alternative support | Outputs across a fixed perturbation family | Changing starting states is distinct from the actual state's outgoing successor fibre. |
+| Reconstruction validation | Comparison with exactly computed relations under a declared construction | Knowing the update rule does not make every proposed organizational boundary a unique ground truth. |
+
+Life has no implemented learning mechanism here. A recurrent pattern or
+sliding-window graph is therefore not learned organization in the sense of a
+trained neural network. Successful recovery of an example relation would not
+establish that the same method explains slime-mold intelligence or scales to
+language models. Those comparisons need independent models and evidence.
+
+## Why the Substrate Remains Useful
+
+The update rule is known, individual states can be inspected, and perturbations
+can be specified exactly. A future experiment could compare a reconstruction
+algorithm against a computed sensitivity relation instead of judging it by
+visual resemblance. The comparison must fix the boundary, grain, topology,
+window and intervention family before seeing the reconstruction output.
+
+This makes a limited test tractable. It does not establish one complete
+organizational map in advance. Different timescales, region rules and
+perturbations may produce different legitimate descriptions. An experiment
+should state the shared observation, rival maps, divergent predictions and
+rejection condition so that disagreement can narrow the proposed method.
+
+## Implementation Status and Sequence
+
+The [README](../README.md) describes the current CLI and controls. The
+[design](gol-design.md#implementation-status) targets a complete simulator;
+runtime commands and random/pattern/file startup initialization are available. A basic
+[world test harness](../tests/README.md) checks block/oscillator/glider evolution;
+Gosper gun emission is also verified; the phase-exit audit remains open. Ordinary birth/death/change statistics exist, but there is no
+implemented dependence graph, region extraction, closure score, support
+enumerator or cartography reconstruction layer.
+
+Current terminal resizing changes the world dimensions with overlap preservation
+and dead-fill. It is a world intervention, not a display-only change. Future
+analysis must fix geometry during a trial, record resize/topology changes, or
+implement a separately validated world/viewport policy.
+
+After the simulator phase is complete, the
+[future programme](IER-GoL-future-directions.md) proposes:
+
+1. Fix the example definitions and compute an explicit predicate witness.
+2. Add read-only sensitivity/history/region tools incrementally.
+3. Specify and enumerate the regional perturbation support, with same-support
+   projections kept distinct from independently recomputed regional filters.
+4. Evaluate rival reconstructions against the declared comparison target.
+5. Develop visualization, continuation variants and cross-rule experiments
+   only for concrete analysis questions.
+
+These are research and implementation proposals. They are not newly imposed
+repository gates or missing results blocking this document's alignment.
+
+## Canonical Qualification and Consumer Boundary
+
+The [orientation](gol-orientation.md#canonical-boundary) supplies the current
+relation order. Intrinsic closure requires same-fibre support and an exhaustive
+meaningful partition family at an independently declared physical typing.
+Ownership, all five constitutive membership conditions and all five produced
+and inherited continuity conditions remain independent. Descriptive boundary
+closure is not causal isolation, and external support does not automatically
+defeat intrinsic ownership. Ordinary continuation need not have fresh collapse.
+
+No proposed score, graph, recurrence or toy result supplies those relations or
+the abductive identity warrant. This note revises application currency; it does
+not report a completed empirical/model result, change Paper 02, or authorize
+new simulator features. The original methodological purpose remains: use a
+small inspectable system to test clearly typed structural questions before
+attempting broader explanations.

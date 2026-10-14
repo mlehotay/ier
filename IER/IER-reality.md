@@ -40,7 +40,7 @@ ier:
 
 ## Reversibility, Irreversibility, and What “Real” Means Under Informational Experiential Realism
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T2 · CASE · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -338,6 +338,12 @@ Under Informational Experiential Realism:
 * Truth names constraint that survives organization.
 * Frontier completion supplies no intrinsic correctness verdict.
 
+
+## An Unavailable Bridge That Still Matters
+
+Suppose a qualifying operation anticipates crossing a bridge that is physically unavailable under the declared conditions. The same mind-independent world constrains the operation, while its present planning activity can be frontier-relevant. That relevance does not make the imagined crossing physically reachable or reveal the world's categorical intrinsic constitution.
+
+Learning of the bridge's unavailability can correct anticipation without a new physical foreclosure: the crossing may never have belonged to the compared support. Conversely, independently established loss of an available crossing can matter whether anticipated or not. Conviction, felt reality, and irreversible consequences supply no external truth warrant. The account distinguishes content, present organization, and the physical world without splitting reality.
 
 ## Intermission - Structural Fact
 

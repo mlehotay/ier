@@ -4,7 +4,7 @@
 
 Status: experimental
 Authority: non-canonical
-See: `governance/IER-status-zones.md`
+The [Specification](../../IER/IER-specification.md) retains theory authority.
 
 ## Empirical Case Studies for IER
 
@@ -47,7 +47,7 @@ The article uses deep-brain intervention, hydranencephaly, split-brain research,
 
 [The Past Is in the Present](IER-past-in-the-present.md) applies IER's concept of sedimentation to Faravelli et al.'s study of long-term human cortical organoids.
 
-It distinguishes developmental history retained as present physical organization from psychological memory, and examines how that history constrains—but does not determine—future developmental continuations.
+It distinguishes developmental history effective in current organization from psychological memory and age markers. Plasticity leaves developmental options responsive to context; it establishes neither indeterministic physics nor numerical subject continuity.
 
 ## Files
 

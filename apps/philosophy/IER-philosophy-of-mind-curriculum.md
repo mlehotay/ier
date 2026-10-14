@@ -10,15 +10,15 @@ ier:
     - guardrails_and_orientation
   category: reading_guides
   filename: IER-philosophy-of-mind-curriculum.md
-  version: 10.11.5
-  date: 2026-09-30
+  version: 10.11.6
+  date: 2026-10-13
 ---
 
 # Philosophy of Mind for Learning IER
 
 ## A Beginner Reading Guide to Informational Experiential Realism
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.11.6)**\
 *T4 · Orientation · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -37,7 +37,7 @@ The curriculum is deliberately selective. A beginner does not need to master the
 
 ## Theory and Reading Scope
 
-This guide follows the current v10.11.5 formulation. It is teaching support
+This guide follows the current v10.11.6 formulation. It is teaching support
 and independently settles no theory claim. The controlling theory articles
 are available in the public IER repository.
 
@@ -83,11 +83,11 @@ The labels mean:
 - **Deepening** — for readers who want to pursue a specific issue.
 - **Reference** — useful to consult rather than read straight through.
 
-# Part I. Start Here: Learn IER First
+## Part I. Start Here: Learn IER First
 
 A reader should begin with IER itself before reading the surrounding literature.
 
-## 1. IER Quick Start
+### 1. IER Quick Start
 
 **Essential.**
 
@@ -95,11 +95,11 @@ The shortest current orientation to the theory.
 
 Read this first for the process-subject identity claim, what makes a Unified Experiential Field, bilateral participation and regime-relative boundaries, continuity through turnover and change, admissible continuation, curvature and collapse, and the main things IER does not claim.
 
-The Quick Start is the best first-pass mental model.
+The Quick Start is a compact first-pass orientation; the Specification and definition owners control its compressed claims.
 
 Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-quick-start.md>
 
-## 2. IER Précis
+### 2. IER Précis
 
 **Essential.**
 
@@ -111,7 +111,7 @@ The précis should be read as a compact overview, not as a substitute for the Sp
 
 Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-precis.md>
 
-## 3. IER Specification
+### 3. IER Specification
 
 **Essential.**
 
@@ -121,7 +121,7 @@ A beginner does not need to memorize the full specification. The point of readin
 
 Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md>
 
-## 4. IER Hello World
+### 4. IER Hello World
 
 **Recommended structural intuition.**
 
@@ -135,7 +135,7 @@ contrast, not the whole relation stack.
 
 Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-hello-world.md>
 
-## 5. The Stapled Net and the Billowed Sail
+### 5. The Stapled Net and the Billowed Sail
 
 **Recommended.**
 
@@ -146,13 +146,16 @@ Public teaching materials are available from Michael Lehotay's PhilPeople profil
 
 The **Stapled Net** is useful for run-relative irreversible fixation, mechanical transition permission, inherited constraint, and transverse effects of interior fixations. Immediate capture availability differs from later mechanical attainability; neither establishes canonical UEF reachability or subject continuity.
 
-The **Billowed Sail** is useful for continuing driven operation, distributed load-bearing, and reversible deformation without requiring a fresh irreversible collapse at every moment.
+The [current Billowed Sail source](../../examples/analogies/billowed-sail.md) is useful for continuing driven operation, distributed load-bearing, and reversible deformation without requiring a fresh irreversible collapse at every moment.
 
 These are teaching analogies. They do not establish sufficiency for experience.
+The [current examples index](../../examples/README.md) includes coupling,
+turnover, qualitative differentiation and everyday interpretations with explicit
+limits. A profile link does not certify which revision a hosted artifact contains.
 
 Link: <https://philpeople.org/profiles/michael-lehotay>
 
-## Optional route through the current definition owners
+### Optional route through the current definition owners
 
 After the three essential IER overviews, these readings explain the current definitions.
 They explain the relation stack more precisely than an analogy: support-level
@@ -171,11 +174,11 @@ philosophical comparisons below.
 - **Closure under Consequence**\
   Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-closure-under-consequence.md>
 
-# Part II. Physicalist Identity: Why IER Is an Identity Theory
+## Part II. Physicalist Identity: Why IER Is an Identity Theory
 
 IER is easier to understand once the reader sees what earlier identity theorists were trying to accomplish.
 
-## 6. Stanford Encyclopedia of Philosophy, "The Mind/Brain Identity Theory"
+### 6. Stanford Encyclopedia of Philosophy, "The Mind/Brain Identity Theory"
 
 **Essential.**
 
@@ -185,7 +188,7 @@ Read this before Place and Smart if the historical debate is unfamiliar.
 
 Link: <https://plato.stanford.edu/entries/mind-identity/>
 
-## 7. U. T. Place, "Is Consciousness a Brain Process?" (1956)
+### 7. U. T. Place, "Is Consciousness a Brain Process?" (1956)
 
 **Essential.**
 
@@ -199,7 +202,7 @@ What it does not provide is IER's answer to the further question:
 
 Link: <https://doi.org/10.1111/j.2044-8295.1956.tb00560.x>
 
-## 8. J. J. C. Smart, "Sensations and Brain Processes" (1959)
+### 8. J. J. C. Smart, "Sensations and Brain Processes" (1959)
 
 **Essential.**
 
@@ -209,7 +212,7 @@ His economy argument is a useful ancestor of IER's claim that experience need no
 
 Link: <https://www.jstor.org/stable/2182164>
 
-## 9. Stanford Encyclopedia of Philosophy, "Physicalism"
+### 9. Stanford Encyclopedia of Philosophy, "Physicalism"
 
 **Recommended.**
 
@@ -219,7 +222,7 @@ IER needs the first and argues for a specific identity claim. It does not infer 
 
 Link: <https://plato.stanford.edu/entries/physicalism/>
 
-## 10. Galen Strawson, "What Is the Relation Between an Experience, the Subject of the Experience, and the Content of the Experience?" (2003)
+### 10. Galen Strawson, "What Is the Relation Between an Experience, the Subject of the Experience, and the Content of the Experience?" (2003)
 
 **Essential.**
 
@@ -237,11 +240,11 @@ of continuing-process ideas is claimed as historically new.
 
 Link: <https://doi.org/10.1111/1533-6077.00015>
 
-# Part III. The Subject: Unity, Bearer, and Process
+## Part III. The Subject: Unity, Bearer, and Process
 
 IER is not merely a theory of conscious states. It is a theory of the physical operation that is the total experience and subject.
 
-## 11. Tim Bayne, "Conscious States and Conscious Creatures"
+### 11. Tim Bayne, "Conscious States and Conscious Creatures"
 
 **Recommended.**
 
@@ -251,7 +254,7 @@ This is useful for seeing why identifying a conscious state with some neural eve
 
 Link: <https://philpapers.org/archive/BAYCSA.pdf>
 
-## 12. Matthew Owen, "The Neglected Conscious Subject in Consciousness Science"
+### 12. Matthew Owen, "The Neglected Conscious Subject in Consciousness Science"
 
 **Recommended.**
 
@@ -264,7 +267,7 @@ Do not read this annotation as a full-text review of the 2024 commentary.
 
 Link: <https://doi.org/10.1016/j.plrev.2024.06.009>
 
-## 13. Stanford Encyclopedia of Philosophy, "The Unity of Consciousness"
+### 13. Stanford Encyclopedia of Philosophy, "The Unity of Consciousness"
 
 **Essential.**
 
@@ -274,15 +277,17 @@ The main lesson for IER is that physical integration and subject unity are not a
 
 Link: <https://plato.stanford.edu/entries/consciousness-unity/>
 
-## 14. Tim Bayne and David Chalmers, "What Is the Unity of Consciousness?"
+### 14. Tim Bayne and David Chalmers, "What Is the Unity of Consciousness?"
 
 **Recommended.**
 
 A more detailed treatment of phenomenal and subject unity.
 
-This is useful once the reader understands IER's claim that one globally non-factorizable operation is one subject.
+This is useful once the reader understands that the full qualifying relation stack, not non-factorization alone, carries IER's conditional subject-identity proposal.
 
-## 15. Henry Taylor, "The Relation Between Subjects and Their Conscious Experiences" (2020)
+Link: <https://consc.net/papers/unity.html>
+
+### 15. Henry Taylor, "The Relation Between Subjects and Their Conscious Experiences" (2020)
 
 **Deepening.**
 
@@ -292,7 +297,7 @@ Read this as a clean counterpoint to the IER and Strawson view: perhaps a subjec
 
 Link: <https://doi.org/10.1007/s11098-019-01379-w>
 
-## 16. Helen Steward, "Substances, Agents and Processes" (2020)
+### 16. Helen Steward, "Substances, Agents and Processes" (2020)
 
 **Deepening.**
 
@@ -302,7 +307,7 @@ This is one of the clearest objections to any theory that claims the operation i
 
 Link: <https://doi.org/10.1017/S0031819119000494>
 
-# Part IV. Continuity: How a Process Can Remain the Same Subject
+## Part IV. Continuity: How a Process Can Remain the Same Subject
 
 IER's process-subject claim becomes distinctive at the diachronic level.
 
@@ -310,7 +315,7 @@ The relevant question is not simply whether a process exists, but:
 
 > What makes a later stage the continuation of the same process-subject?
 
-## 17. Stanford Encyclopedia of Philosophy, "Process Philosophy"
+### 17. Stanford Encyclopedia of Philosophy, "Process Philosophy"
 
 **Recommended.**
 
@@ -320,7 +325,7 @@ It is useful background, but IER does not follow from process philosophy as a wh
 
 Link: <https://plato.stanford.edu/entries/process-philosophy/>
 
-## 18. Thomas Pradeu, "Genidentity and Biological Processes" (2018)
+### 18. Thomas Pradeu, "Genidentity and Biological Processes" (2018)
 
 **Essential.**
 
@@ -330,7 +335,7 @@ This is one of the most useful conceptual tools for understanding why material t
 
 Link: <https://doi.org/10.1093/oso/9780198779636.003.0005>
 
-## 19. James DiFrisco, "Biological Processes: Criteria of Identity and Persistence" (2018)
+### 19. James DiFrisco, "Biological Processes: Criteria of Identity and Persistence" (2018)
 
 **Essential.**
 
@@ -340,7 +345,7 @@ That distinction maps closely onto IER's separation of synchronic individuation 
 
 Link: <https://doi.org/10.1093/oso/9780198779636.003.0004>
 
-## 20. Rowland Stout, "The Category of Occurrent Continuants" (2016)
+### 20. Rowland Stout, "The Category of Occurrent Continuants" (2016)
 
 **Recommended.**
 
@@ -350,7 +355,7 @@ This is one of the closest general metaphysical neighbors to IER's continuing pr
 
 Link: <https://doi.org/10.1093/mind/fzv138>
 
-## 21. Antony Galton and Riichiro Mizoguchi, "The Water Falls but the Waterfall Does Not Fall" (2009)
+### 21. Antony Galton and Riichiro Mizoguchi, "The Water Falls but the Waterfall Does Not Fall" (2009)
 
 **Recommended.**
 
@@ -360,7 +365,7 @@ The lesson is not that a UEF is a waterfall. It is that a concrete process can r
 
 Link: <https://doi.org/10.3233/AO-2009-0067>
 
-## 22. Anne Sophie Meincke, "The Disappearance of Change: Towards a Process Account of Persistence" (2019)
+### 22. Anne Sophie Meincke, "The Disappearance of Change: Towards a Process Account of Persistence" (2019)
 
 **Recommended.**
 
@@ -370,7 +375,7 @@ This is particularly relevant to IER's claim that content, organization, and bou
 
 Link: <https://doi.org/10.1080/09672559.2018.1548634>
 
-## 23. Derek Parfit, *Reasons and Persons*, Part III
+### 23. Derek Parfit, *Reasons and Persons*, Part III
 
 **Deepening.**
 
@@ -378,13 +383,13 @@ Parfit's fission and teletransportation cases are useful once the basic IER cont
 
 IER takes a stricter view than Parfit about numerical identity: psychological or causal continuity may survive even where one subject does not.
 
-# Part V. Organization and History
+## Part V. Organization and History
 
 These readings explain established resources for maintained constraint,
 productive successor organization and effective history. Their biological and
 cybernetic relations do not by themselves identify a conscious subject.
 
-## 24. Maël Montévil and Matteo Mossio, "Biological Organisation as Closure of Constraints" (2015)
+### 24. Maël Montévil and Matteo Mossio, "Biological Organisation as Closure of Constraints" (2015)
 
 **Essential selected reading.**
 
@@ -397,7 +402,7 @@ The reviewed copy was a 2016 author manuscript; its PDF pagination is not the
 
 Link: <https://doi.org/10.1016/j.jtbi.2015.02.029>
 
-## 25. James DiFrisco and Matteo Mossio, "Diachronic Identity in Complex Life Cycles: An Organizational Perspective" (2020)
+### 25. James DiFrisco and Matteo Mossio, "Diachronic Identity in Complex Life Cycles: An Organizational Perspective" (2020)
 
 **Essential selected reading.**
 
@@ -410,7 +415,7 @@ manuscript; published-edition equivalence was not verified.
 
 Link: <https://doi.org/10.4324/9781351066389-10>
 
-## 26. Ezequiel Di Paolo, "Autopoiesis, Adaptivity, Teleology, Agency" (2005)
+### 26. Ezequiel Di Paolo, "Autopoiesis, Adaptivity, Teleology, Agency" (2005)
 
 **Recommended.**
 
@@ -420,7 +425,7 @@ agency, sense-making or self-maintenance alone establishes no experiential ident
 
 Link: <https://doi.org/10.1007/s11097-005-9002-y>
 
-## 27. W. Ross Ashby, "Variety, Constraint, and the Law of Requisite Variety" (1968)
+### 27. W. Ross Ashby, "Variety, Constraint, and the Law of Requisite Variety" (1968)
 
 **Recommended.**
 
@@ -434,7 +439,7 @@ Statistical dependence is not necessarily restricted successor support.
 
 Link: <https://www.routledge.com/Systems-Research-for-Behavioral-Science-A-Sourcebook/Buckley/p/book/9780202362809>
 
-## 28. Matteo Mossio and Gaëlle Pontarotti, "Conserving Functions across Generations: Heredity in Light of Biological Organization" (2022; online 2019)
+### 28. Matteo Mossio and Gaëlle Pontarotti, "Conserving Functions across Generations: Heredity in Light of Biological Organization" (2022; online 2019)
 
 **Deepening.**
 
@@ -446,13 +451,13 @@ subject token.
 
 Link: <https://doi.org/10.1093/bjps/axz031>
 
-# Part VI. The Explanatory Gap and the Identity Burden
+## Part VI. The Explanatory Gap and the Identity Burden
 
 IER does not claim that a structural description deductively proves consciousness.
 
 The following readings clarify what burden remains after a physical identity candidate has been specified.
 
-## 29. Joseph Levine, "Materialism and Qualia: The Explanatory Gap" (1983)
+### 29. Joseph Levine, "Materialism and Qualia: The Explanatory Gap" (1983)
 
 **Essential.**
 
@@ -467,7 +472,7 @@ IER's physical specification addresses the first question more directly than man
 
 Link: <https://doi.org/10.1111/j.1468-0114.1983.tb00207.x>
 
-## 30. David Chalmers, "Facing Up to the Problem of Consciousness" (1995)
+### 30. David Chalmers, "Facing Up to the Problem of Consciousness" (1995)
 
 **Recommended.**
 
@@ -477,7 +482,7 @@ IER should be understood as making an ontological identity proposal, not merely 
 
 Link: <https://consc.net/papers/facing.html>
 
-## 31. Saul Kripke, *Naming and Necessity*, Lecture III
+### 31. Saul Kripke, *Naming and Necessity*, Lecture III
 
 **Deepening.**
 
@@ -485,7 +490,7 @@ Kripke provides the classical modal challenge to psychophysical identity.
 
 Read this after the basic identity-theory literature, not before it.
 
-## 32. David Papineau, "Phenomenal and Perceptual Concepts"
+### 32. David Papineau, "Phenomenal and Perceptual Concepts"
 
 **Deepening.**
 
@@ -493,11 +498,11 @@ Papineau helps explain why an identity might remain epistemically difficult even
 
 The strategy can answer some conceivability pressure without itself proving IER's identity claim.
 
-# Part VII. Main Contemporary Contrasts
+## Part VII. Main Contemporary Contrasts
 
 These readings help locate IER without requiring a beginner to survey every theory of consciousness.
 
-## 33. Larissa Albantakis et al., "Integrated Information Theory (IIT) 4.0"
+### 33. Larissa Albantakis et al., "Integrated Information Theory (IIT) 4.0"
 
 **Essential comparison.**
 
@@ -518,7 +523,7 @@ conscious microsubjects.
 
 Link: <https://doi.org/10.1371/journal.pcbi.1011465>
 
-## 34. Stanford Encyclopedia of Philosophy, "Functionalism"
+### 34. Stanford Encyclopedia of Philosophy, "Functionalism"
 
 **Recommended.**
 
@@ -528,7 +533,7 @@ IER allows organizational description but does not treat coarse functional or co
 
 Link: <https://plato.stanford.edu/entries/functionalism/>
 
-## 35. Ned Block, "Troubles with Functionalism"
+### 35. Ned Block, "Troubles with Functionalism"
 
 **Recommended.**
 
@@ -536,7 +541,7 @@ Block's examples help separate functional organization from phenomenal conscious
 
 This is useful for understanding why IER's physical identity claim must be about concrete causal-modal organization rather than abstract role alone.
 
-## 36. Galen Strawson, "Realistic Monism: Why Physicalism Entails Panpsychism" (2006)
+### 36. Galen Strawson, "Realistic Monism: Why Physicalism Entails Panpsychism" (2006)
 
 **Recommended.**
 
@@ -544,7 +549,7 @@ Strawson argues that realistic physicalism plus rejection of radical emergence p
 
 IER shares several starting commitments with Strawson but rejects the inference that macroexperience must phenomenally inherit experiential constituents.
 
-## 37. David Papineau, "Comments on Galen Strawson: 'Realistic Monism'" (2006)
+### 37. David Papineau, "Comments on Galen Strawson: 'Realistic Monism'" (2006)
 
 **Recommended.**
 
@@ -552,7 +557,7 @@ Papineau argues that a complex system-level physical condition may simply be ide
 
 This is an especially useful bridge between Strawsonian physicalism and IER.
 
-## 38. David Chalmers, "The Combination Problem for Panpsychism" (2017)
+### 38. David Chalmers, "The Combination Problem for Panpsychism" (2017)
 
 **Deepening.**
 
@@ -562,11 +567,11 @@ IER's relevant position is narrow: it rejects phenomenal constituent inheritance
 
 Link: <https://consc.net/papers/combination.pdf>
 
-# Part VIII. Structural Non-Triviality and Individuation
+## Part VIII. Structural Non-Triviality and Individuation
 
 Once the reader understands the core theory, the next question is whether its structural vocabulary picks out anything physically substantive rather than an arbitrary pattern.
 
-## 39. M. H. A. Newman, "Mr. Russell's 'Causal Theory of Perception'" (1928)
+### 39. M. H. A. Newman, "Mr. Russell's 'Causal Theory of Perception'" (1928)
 
 **Recommended.**
 
@@ -574,7 +579,7 @@ Newman's objection shows how purely abstract structural descriptions can become 
 
 For IER, this means a UEF cannot be identified merely by finding an abstract graph that happens to fit a desired subject.
 
-## 40. Peter M. Ainsworth, "Newman's Objection" (2009)
+### 40. Peter M. Ainsworth, "Newman's Objection" (2009)
 
 **Recommended.**
 
@@ -584,7 +589,7 @@ The relevant IER response is to require concrete variables, physical relations, 
 
 Link: <https://doi.org/10.1093/bjps/axn051>
 
-## 41. Stanford Encyclopedia of Philosophy, "Causal Models"
+### 41. Stanford Encyclopedia of Philosophy, "Causal Models"
 
 **Reference.**
 
@@ -594,11 +599,11 @@ This becomes important when formal IER analysis moves beyond toy examples and in
 
 Link: <https://plato.stanford.edu/entries/causal-models/>
 
-# Part IX. Optional Deepening
+## Part IX. Optional Deepening
 
 The following areas are valuable, but they are not prerequisites for learning IER.
 
-## Representation
+### Representation
 
 - SEP, "Representational Theories of Consciousness"
 - Fred Dretske, "Experience as Representation"
@@ -606,7 +611,7 @@ The following areas are valuable, but they are not prerequisites for learning IE
 
 Read these if you want to understand why IER treats representation as something that may occur within experience rather than as the basis of experience itself.
 
-## Personal Identity and Interruption
+### Personal Identity and Interruption
 
 - SEP, "Personal Identity"
 - David Hershenov on intermittent existence
@@ -614,7 +619,7 @@ Read these if you want to understand why IER treats representation as something 
 
 Read these for difficult persistence, branching, and subject-count cases.
 
-## Russellian and Neutral Monism
+### Russellian and Neutral Monism
 
 - SEP, "Russellian Monism"
 - SEP, "Neutral Monism"
@@ -628,7 +633,7 @@ correspondence; ultimate constitution is not disclosed by felt certainty.
 
 Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-russellian-monism.md>
 
-## Ownership, Quality and Individuation
+### Ownership, Quality and Individuation
 
 These are optional routes through the accepted research, not additions to the
 short beginner sequence:
@@ -654,7 +659,7 @@ short beginner sequence:
 - Brakel 2021, "Can Neuroscientists Test a New Physicalist Mind/Body View: DiCoToP (Diachronic Conjunctive Token Physicalism)?": an advanced event-identity comparison, whose content conjunction differs from one continuing total subject.\
   Link: <https://doi.org/10.3389/fnhum.2021.786133>
 
-## IIT and Causal Grain
+### IIT and Causal Grain
 
 Marshall, Findlay, Albantakis and Tononi 2026,
 "Intrinsic Units: Identifying a System's Causal Grain," extends the grain
@@ -666,7 +671,7 @@ the precursor were not independently reviewed.
 
 Link: <https://doi.org/10.1093/nc/niag013>
 
-## Contemporary Consciousness Science
+### Contemporary Consciousness Science
 
 - Seth and Bayne, "Theories of Consciousness"
 - Cogitate Consortium et al., adversarial testing of GNWT and IIT
@@ -674,7 +679,7 @@ Link: <https://doi.org/10.1093/nc/niag013>
 
 These are useful for situating IER relative to empirical consciousness science.
 
-## Ethics and Artificial Systems
+### Ethics and Artificial Systems
 
 - Jonathan Birch, *The Edge of Sentience*
 - Thomas Metzinger, "Artificial Suffering"
@@ -683,7 +688,7 @@ These are useful for situating IER relative to empirical consciousness science.
 
 These become relevant once the distinction between ontology, attribution, and precaution is already clear.
 
-# Part X. A Short Beginner Route
+## Part X. A Short Beginner Route
 
 For readers who want one compact sequence, the following route is sufficient.
 
@@ -708,7 +713,7 @@ without turning the route into a comprehensive research bibliography.
 
 After these readings, a beginner should be able to understand why IER is an identity theory rather than a production theory; why the subject is identified with a continuing process rather than a separate bearer; what global non-factorization, intrinsic constraint, slack, and bilateral participation are doing; why continuity depends on process history rather than sameness of matter; why cessation differs from turnover; why the theory is structurally specifiable without becoming a consciousness detector; how IER differs from classical identity theory, IIT, functionalism, and Strawsonian realistic physicalism; and what philosophical burdens remain open.
 
-# Part XI. Public IER Reading Surfaces
+## Part XI. Public IER Reading Surfaces
 
 The public repository contains the main beginner-facing theory materials, including:
 
@@ -754,14 +759,13 @@ precede the current development revision:
 - *Informational Experiential Realism: The Identity and Structure of Experience*
 
 These papers argue for, compare, and situate the theory. They are not required
-before reading the IER core itself. Paper 01 exists as a manuscript with its
-contribution claim finalized; full revision and publication checks remain
-separate. The annotated bibliography provides
+before reading the IER core itself. Papers 00–01 were finalized and reviewed at Phase 11. Independent journal
+preparation and hosted-artifact acceptance remain separate. The annotated bibliography provides
 further source references and comparison limits.
 
 Link: <https://github.com/mlehotay/ier/blob/main/IER/IER-bibliography.md>
 
-# Closing Orientation
+## Closing Orientation
 
 The most useful way to approach IER is not to begin with every debate in contemporary philosophy of mind.
 

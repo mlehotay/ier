@@ -20,7 +20,7 @@ NON-CANONICAL | EXAMPLE-SCOPED | NOT READER-FACING
 
 ## Status, Scope, and Authority Boundary
 
-This document defines a minimal extension of the IER mathematical register for use in example systems such as cellular automata.
+This document supplies local example notation for cellular automata. It is not an extension of the governed canonical register: [Mathematics](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-math.md) and [Math Addons](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-math-addons.md) own the accepted basis and supplementary idioms.
 
 This document is:
 
@@ -42,18 +42,39 @@ All canonical authority remains in:
 IER-math
 IER-futures
 IER-constraint
-````
+```
 
+
+## Canonical Boundary
+
+All constructs here are example-scoped descriptions. A singleton next-state
+set at a fixed complete configuration factorizes under same-fibre projection.
+Predicate filtering and regional support formed from alternative starting
+configurations are different objects, not evidence that the actual GoL
+successor fibre has changed.
+
+[Intrinsic Closure](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-intrinsic-closure.md)
+requires an independently declared physical candidate, variables, grain,
+interval, interventions and exhaustive meaningful partition family. Even a
+properly typed support failure establishes only the tested synchronic relation.
+[Ownership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-ownership.md),
+[all-five constitutive membership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-processes.md)
+(contribution, global bearing, joint resolution, uptake and common typing), and
+[all-five continuity](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-continuity.md)
+(continuous owned closure, successor production, typed effective inheritance,
+mediated change and unique successor/predecessor) remain separate burdens.
+These documents establish none of them for a physical computer or organism.
+The identity proposal is abductive; the simulation is no experience detector.
 
 ## Purpose
 
 The canonical IER register already supports:
 
-* configuration sets (S)
-* transition relations (T)
-* admissible regimes (R)
-* admissible futures (A(s), A_t)
-* trajectories \(\gamma\)
+* configuration sets $S$
+* transition relations $T$
+* admissible regimes $R$
+* admissible futures $A(s), A_t$
+* trajectories $\gamma$
 * partitions and projections
 
 Example systems require additional ability to express:
@@ -111,7 +132,7 @@ Use:
 
 $s|_{\Sigma}$
 
-to denote restriction of configuration (s) to region \(\Sigma\).
+to denote restriction of configuration $s$ to region $\Sigma$.
 
 This is a structural restriction only.
 
@@ -120,13 +141,13 @@ It does not imply subsystem autonomy, enclosure, or informational isolation.
 
 ## Projection of Admissible Futures
 
-The canonical admissible future set is:
+In canonical usage $R$ is the operative regime-relative lawful relation and $A(s)=\{s'\mid(s,s')\in R\}$. In the unrestricted Life example $R$ is the graph of the deterministic update $T$, so:
 
-$$ A_t = { s' \mid (s(t), s') \in T } $$
+$$ A_t = \{ s' \mid (s(t), s') \in R \} $$
 
 Define projection:
 
-$$ \pi_{\Sigma}(A_t) = { s'|_{\Sigma} \mid s' \in A_t } $$
+$$ \pi_{\Sigma}(A_t) = \{ s'|_{\Sigma} \mid s' \in A_t \} $$
 
 
 ### Notation Convention
@@ -135,7 +156,7 @@ The shorthand:
 
 $A_t(\Sigma)$
 
-may be used only as notation for \(\pi_{\Sigma}(A_t)\).
+may be used only as notation for $\pi_{\Sigma}(A_t)$.
 
 It does not introduce an independent subsystem-level admissibility relation.
 
@@ -144,11 +165,11 @@ It does not introduce an independent subsystem-level admissibility relation.
 
 In deterministic examples where:
 
-$$ A_t = { \hat{s} } $$
+$$ A_t = \{ \hat{s} \} $$
 
 projection reduces to:
 
-$$ \pi_{\Sigma}(A_t) = { \hat{s}|_{\Sigma} } $$
+$$ \pi_{\Sigma}(A_t) = \{ \hat{s}|_{\Sigma} \} $$
 
 This may be treated as a named special case when useful.
 
@@ -163,9 +184,9 @@ denotes a subset obtained by applying a structural predicate after projection.
 
 Typical form:
 
-$$ A_t^{\mathrm{bd}}(\Sigma) = { \hat{s}|_{\Sigma} \mid P(\Sigma,\hat{s}|_{\Sigma}) } $$
+$$ A_t^{\mathrm{bd}}(\Sigma) = \{ \hat{s}|_{\Sigma} \mid P(\Sigma,\hat{s}|_{\Sigma}) \} $$
 
-where (P) is defined locally in the example.
+where $P$ is defined locally in the example.
 
 This notation does not introduce a new transition relation or subsystem dynamics.
 
@@ -203,7 +224,7 @@ or more generally:
 
 $s^{(j \leftarrow v)}$
 
-to denote replacement of component (j) by value (v).
+to denote replacement of component $j$ by value $v$.
 
 This is a structural operation only.
 
@@ -246,7 +267,7 @@ This may be used to express structural change under perturbation, but is optiona
 
 ## Relation Restriction
 
-For region \(\Sigma\):
+For region $\Sigma$:
 
 $$ C_t|_{\Sigma \times \Sigma} $$
 
@@ -267,7 +288,7 @@ $$ C_t \cap (\Sigma \times \Sigma^c) $$
 
 In deterministic examples with projected singleton futures, predicate-filtered projection may satisfy:
 
-$$ A_t^{\mathrm{bd}}(\Sigma) \in { \varnothing, { \hat{s}|_{\Sigma} } } $$
+$$ A_t^{\mathrm{bd}}(\Sigma) \in \{ \varnothing, \{ \hat{s}|_{\Sigma} \} \} $$
 
 This expresses:
 
@@ -284,21 +305,21 @@ $$ \Sigma = A \cup B, \quad A \cap B = \varnothing $$
 
 Define recombination:
 
-$$ \mathrm{Recombine}(A,B) = { a \cup b \mid a \in X,\ b \in Y } $$
+$$ \mathrm{Recombine}(A,B) = \{ a \cup b \mid a \in X,\ b \in Y \} $$
 
-for sets (X,Y) of restricted configurations.
+for sets $X,Y$ of restricted configurations.
 
 
 ### Projection Factorization Form
 
-$$ \pi_{\Sigma}(A_t) = { a \cup b \mid a \in \pi_A(A_t),\ b \in \pi_B(A_t) } $$
+$$ \pi_{\Sigma}(A_t) = \{ a \cup b \mid a \in \pi_A(A_t),\ b \in \pi_B(A_t) \} $$
 
-This is a statement about projected admissible futures only.
+This is a factorization condition on one projected support, not a general identity. It holds for a singleton fibre; non-product supports can fail it. All factors must come from that same fibre.
 
 
 ### Predicate-Filtered Factorization Form
 
-$$ A_t^{\mathrm{bd}}(\Sigma) \stackrel{?}{=} { a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) } $$
+$$ A_t^{\mathrm{bd}}(\Sigma) \stackrel{?}{=} \{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) \} $$
 
 This is a statement about predicate-filtered projected continuation, not about future multiplicity.
 
@@ -338,8 +359,8 @@ Some example predicates are evaluated relative to the region under consideration
 
 In such cases:
 
-* evaluating \(P(\Sigma,\cdot)\) may use one relation structure
-* evaluating \(P(A,\cdot)\) or \(P(B,\cdot)\) may use restricted relation structure
+* evaluating $P(\Sigma,\cdot)$ may use one relation structure
+* evaluating $P(A,\cdot)$ or $P(B,\cdot)$ may use restricted relation structure
 
 Therefore:
 
@@ -354,44 +375,48 @@ All added notation is strictly structural.
 
 In particular:
 
-* \(\Sigma\) does not imply ontological enclosure
-* \(s|_{\Sigma}\) does not imply subsystem isolation
-* \(\pi_{\Sigma}(A_t)\) does not imply independent subsystem dynamics
-* \(A_t^{\mathrm{bd}}(\Sigma)\) does not imply causal restriction unless explicitly defined in the example
-* \(P(\Sigma,\cdot)\) does not introduce a new law of motion
-* (C_t) does not imply force, signal, or mechanism
-* counterfactual notation does not introduce modality
-* \(\triangle\) does not imply metric structure
+* $\Sigma$ does not imply ontological enclosure
+* $s|_{\Sigma}$ does not imply subsystem isolation
+* $\pi_{\Sigma}(A_t)$ does not imply independent subsystem dynamics
+* $A_t^{\mathrm{bd}}(\Sigma)$ does not imply causal restriction unless explicitly defined in the example
+* $P(\Sigma,\cdot)$ does not introduce a new law of motion
+* $C_t$ records specified sensitivity relations; graph edges alone establish no new force, complete mechanism, ownership or membership
+* counterfactual replacements compare stipulated configurations under the same update, without adding global successor branching
+* $\triangle$ does not imply metric structure
 
 
 ## Disallowed Extensions
 
-This document does not permit introduction of:
+This local example notation does not define:
 
 * probability or entropy
-* optimization operators
-* weighted graph structures without explicit example need
+* optimization operators as new canonical primitives
+* weighted graph structures without separately specified example need
 * dynamical fields or potentials
 * measurement procedures
 * observer-dependent quantities
 
 
+## Regional Perturbation Support
+
+The [support proposal](IER-GoL-support-admissibility.md) uses $A_\Sigma(s,t)$ for outputs across an independently specified family of perturbed inputs. It is neither shorthand for $\pi_\Sigma(A_t)$ nor a predicate-filtered subset of the actual singleton fibre. Regional recomputation and projection of one common support are different tests. A connectivity filter needing external/history data must retain that context even when its compact notation displays only a region and projected state.
+
 ## Minimal Summary
 
 This extension adds only:
 
-* region indexing: \(\Sigma\)
-* restriction: \(s|_{\Sigma}\)
-* projection: \(\pi_{\Sigma}(A_t)\)
-* shorthand: \(A_t(\Sigma)\)
+* region indexing: $\Sigma$
+* restriction: $s|_{\Sigma}$
+* projection: $\pi_{\Sigma}(A_t)$
+* shorthand: $A_t(\Sigma)$
 * deterministic singleton projection case
-* predicate-filtered projection: \(A_t^{\mathrm{bd}}(\Sigma)\)
-* predicate form: \(P(\Sigma, s|_{\Sigma})\)
-* counterfactual replacement: \(s^{(j \leftarrow \cdot)}\)
-* diachronic relations: (C_t)
+* predicate-filtered projection: $A_t^{\mathrm{bd}}(\Sigma)$
+* predicate form: $P(\Sigma, s|_{\Sigma})$
+* counterfactual replacement: $s^{(j \leftarrow \cdot)}$
+* diachronic relations: $C_t$
 * relation restriction
 * typed recombination for factorization
-* optional structural difference: \(\triangle\)
+* optional structural difference: $\triangle$
 
 
 ## Role Within Examples

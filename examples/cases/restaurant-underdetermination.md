@@ -10,7 +10,7 @@
 This worked interpretation illustrates how observable behavior underdetermines
 participant-relative concerns and expectations. It introduces no new IER
 criteria and offers no diagnosis of particular people or their experiential
-organization. Canonical documents govern the theory.
+organization. The [Specification](../../IER/IER-specification.md) governs the theory.
 
 ## One Departure, Several Possible Interpretations
 
@@ -53,8 +53,9 @@ not require separate realities, irrationality, or disagreement about the
 observed movement.
 
 The case illustrates [Non-Entailment](../../IER/IER-nonentailment.md): an
-external description of behavior does not uniquely establish experiential
-organization. It also cautions against moving directly from an observed action
+selected external description of behavior does not uniquely establish experiential
+organization. This is not a theorem that complete physical evidence or further
+inquiry could never discriminate the proposed accounts. It also cautions against moving directly from an observed action
 to claims about a subject's internal continuation structure.
 
 The shared departure leaves room for different concerns, anticipated futures,

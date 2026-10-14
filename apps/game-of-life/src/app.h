@@ -4,6 +4,7 @@
 #include "command.h"
 #include "ui.h"
 #include "world.h"
+#include "pattern.h"
 
 typedef enum {
     STARTUP_RANDOM = 0,
@@ -20,14 +21,8 @@ typedef struct {
     StartupMode mode;
     char pattern_name[64];
     char load_path[256];
+    PlacementConfig placement;
 } StartupConfig;
-
-typedef struct {
-    int centered;            /* default placement policy */
-    int has_xy;              /* explicit x/y override present */
-    int x;
-    int y;
-} PlacementConfig;
 
 typedef struct App {
     World world;
@@ -43,9 +38,9 @@ typedef struct App {
     int needs_redraw;
     int resized;
     int terminal_too_small;
+    int world_resize_pending; /* retry a failed allocation before stepping */
 
     int show_stats;
-    int show_help;
 
     StepStats last_step;
     CommandLine cmd;

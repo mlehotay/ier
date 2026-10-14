@@ -11,7 +11,7 @@ The preliminary source findings remain evidence for the completed Strawson
 batches and accepted integration. The current assessment below distinguishes
 those findings from later IER-facing synthesis; it does not restart the survey.
 
-## Current-use assessment — 29 September 2026
+## Current-use assessment — 13 October 2026
 
 Outcome A remains the bounded explicit-precedent finding: physical
 process-subject identity itself is not new. The historical body below retains
@@ -30,14 +30,23 @@ The antecedents project is closed with an accepted 44-source synthesis;
 Phase 9/S5 is complete at literature-comparison and contribution-claim scope.
 IER contributes the developed physicalist framework and its particular
 formulation, organization, arguments and implications. Historical novelty
-of individual ideas or established combinations is not claimed. Full manuscript
-revision remains Phase 11 work. Concrete individuation, attribution, complete
+of individual ideas or established combinations is not claimed. Papers 00–01
+were finalized and reviewed at Phase 11; journal preparation and independent
+hosted-artifact acceptance remain separately owned. Concrete individuation, attribution, complete
 quality correspondence and abductive identity warrant remain open.
 
 Private provenance: `_work/antecedents/final-report.md`,
 `_work/antecedents/contribution-claim.md` and
 `_work/unification/phases/phase-09-summary.md`. These are repository audit paths,
 not exported public evidence links. The historical body begins below.
+
+Its short-duration and no-gap shorthand is not the current persistence criterion.
+Strawson’s part/content-sensitive 2003 criterion is the contrast; thin subjects
+need not be universally brief. The preliminary candidate table and translation
+audits preserve dated judgments. Current IER requires all five stage clauses,
+including two-sided uniqueness; a subject can end without a system-wide gap.
+The former proposed novelty and future-work prescriptions are superseded by
+the accepted framework contribution and final synthesis.
 
 ## Historical Preliminary Finding
 

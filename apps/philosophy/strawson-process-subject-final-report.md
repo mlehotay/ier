@@ -6,6 +6,12 @@ Status: final research synthesis; Phase 8 relations retained; Phase 9/S5 claim f
 
 Authority: research report; no canonical IER revision is made here
 
+Current-use reconciliation: 13 October 2026. Current relation exposition follows
+v10.11.6; source notes, historical corpus classifications and dated decisions
+retain their original bounds. Papers 00–01 were finalized/reviewed at Phase 11.
+Older revision handoffs below describe their historical purpose; journal
+preparation and hosted-artifact acceptance remain separate.
+
 Corpus: 32 primary and specialist sources across the four Strawson batches, three process-persistence stop points, and the optional intermittent-existence contrast
 
 This report evaluates whether Informational Experiential Realism (IER) can develop a continuing process-subject identity theory from Galen Strawson's physicalist insights while rejecting experiential ultimates, constitutive micropsychism, and panpsychism. It consolidates the argument matrices, source notes, decision notes, position statements, and P1, P2, and S stop-point results.
@@ -525,8 +531,8 @@ separate evidence package and overlapping sources are not added together.
 Phase 9's summary and S5 disposition (private provenance: `_work/unification/phases/phase-09-summary.md`)
 records completion at the user's direction using the already accepted
 framework contribution claim. The external manuscript's contribution and
-priority passages now apply that boundary. Full paper revision and
-publication preparation remain with Phase 11, while physical individuation,
+priority passages now apply that boundary. Phase 11 manuscript revision/review is complete at its recorded bounds;
+independent publication preparation remains separately owned. Physical individuation,
 quality correspondence and empirical attribution remain open.
 
 ## 12. Existing manuscript and revision handoff
@@ -643,8 +649,8 @@ The final assessment draws on the following completed corpus.
 
 The research programme has achieved its most important objective. It has transformed the vague claim that a subject is a continuing physical process into a structured proposal with explicit identity conditions, boundary rules, difficult-case verdicts, and a response to arbitrary structural realization. It has also located that proposal accurately within the Strawson, Papineau, combination, process-ontology, and structural-realist literatures.
 
-The result supports revision of the existing **Paper 01 manuscript on continuing
-process-subject identity after Strawson** under Phase 11. It is not strong enough to claim a completed metaphysical demonstration that realistic physicalism avoids panpsychism. The paper's intellectual honesty and distinctiveness depend on preserving that distinction.
+The result supplied the Phase 11 revision of the **Paper 01 manuscript on continuing
+process-subject identity after Strawson**, now reviewed at its recorded bounds. This research does not warrant claiming a completed metaphysical demonstration that realistic physicalism avoids panpsychism. The paper's intellectual honesty and distinctiveness depend on preserving that distinction.
 
 In compact form:
 
@@ -668,8 +674,8 @@ positive experiential identity: abductively supported, not proved
 
 That is a coherent position for further manuscript development. Phase 8 is
 complete at synthesis scope; Phase 9/S5 is complete at literature-comparison
-and contribution-claim scope. Phases 10–11 own the remaining contrast and
-publication work.
+and contribution-claim scope. Phases 10–11 have their completed bounded contrast/manuscript reviews;
+independent publication plans retain journal and hosted-artifact work.
 Full-stack physical investigation, qualitative correspondence, and the
 phenomenology-to-identity defense remain independently open. No broad search,
 publication, or empirical certification is authorized by this report.

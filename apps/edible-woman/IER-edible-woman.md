@@ -12,7 +12,7 @@ ier:
   canonical: false
   canonical_authority: none
   filename: IER-edible-woman.md
-  version: 10.11.3
+  version: 10.11.6
   provides:
     - IER interpretation of The Edible Woman
     - behavioural-substitution bridge hypothesis
@@ -48,8 +48,6 @@ ier:
     - IER-disengagement.md
     - IER-choice-topology.md
     - IER-environment.md
-  informs:
-    - IER-behavioural-substitution.md
   tags:
     - edible-woman
     - margaret-atwood
@@ -67,7 +65,7 @@ ier:
 
 ## Food Refusal, Normality, and Situation Authorship in *The Edible Woman*
 
-**Informational Experiential Realism (IER v10.11.3)**  
+**Informational Experiential Realism (IER v10.11.6)**\
 *Tier 4 · Literary Bridge · Draft · Non-Normative · Non-Canonical · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -89,6 +87,47 @@ The article is deliberately narrower than the novel. It does not attempt to map 
 
 All theoretical authority remains with the canonical IER corpus. If this bridge article conflicts with a governing source, that source prevails.
 
+## Current IER Premises and Literary Limits
+
+The reading stipulates Marian as one continuing fictional experiential subject.
+That is a narrative premise, not an empirical attribution to a physical system.
+Neither a pronoun, a food refusal, a dream nor a depicted act establishes the
+physical organization required by IER's identity proposal.
+
+[Intrinsic Closure](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-intrinsic-closure.md)
+requires non-factorization across an exhaustive family of physically meaningful
+partitions, with all local projections drawn from the same outgoing successor
+fibre at an independently declared boundary, grain and interval.
+[Ownership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-ownership.md)
+then asks where the inseparable burden is internally borne and cannot be
+externalized through an independence-preserving resolver. Social influence,
+delegating a decision and receiving support do not themselves transfer that
+physical ownership.
+
+[Constitutive membership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-processes.md)
+requires contribution, global bearing, joint resolution, diachronic uptake and
+common physical typing over the same interval. Peter, Duncan, food, the camera
+and the cake do not become members of Marian's operation because they influence
+her. Literary participation, recurrent imagery and depicted autonomic activity
+are interpretive descriptions; they do not determine the physical membership
+of any concrete operation.
+
+[Numerical continuity](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-continuity.md)
+requires continuous owned closure, operational successor production, typed
+physically effective inheritance, operation-mediated change, and a unique
+successor and predecessor between independently individuated stages. Narrative
+continuity, memory and returning to first person supply no replacement for
+that full relation. Ordinary succession need not contain fresh collapse; a
+subject token can end without all experience ceasing everywhere.
+
+The identity proposal remains abductive. This interpretation supplies neither
+its independent physical instantiation nor a complete mapping of qualitative
+experience. In the analysis below, felt impossibility and practical loss of
+flexibility remain distinct from physical successor exclusion. Canonical
+narrowing preserves reachability while changing its organization; canonical
+collapse requires independently justified irreversible foreclosure. The novel's
+depicted food aversion does not establish either physical event by itself.
+
 ## Abstract
 
 *The Edible Woman* can be read as a study of profound crisis inside an outwardly normal continuation and of refusal displaced across behavioural domains. Before Marian MacAlpin refuses steak, accepts Peter's proposal, or offers an ethical explanation for her eating, she dreams that her feet are dissolving and her fingers becoming transparent. She later cries at Peter's rabbit-hunting story without initially recognizing her tears, runs, hides, delegates the “big decisions,” and enters a future that remains socially intelligible while becoming experientially unlivable. When Marian eventually seeks confirmation, Clara calls the eating problem wedding nerves and Peter tells her that she is normal. Their reassurance does not resolve the crisis; it reveals a mismatch between Marian's action field and the interpretations available around her.
@@ -107,11 +146,11 @@ This article does not claim novelty for saying that Marian fears being consumed,
 
 ---
 
-# 1. Disturbance Before Refusal
+## 1. Disturbance Before Refusal
 
 The food refusal is the novel's most visible crisis, but it is not the beginning of Marian's disturbance.
 
-In Chapter 6, before Peter's proposal and before the categorical refusal of any food, Marian dreams that her feet are dissolving into jelly and her fingers are becoming transparent. The dream does not diagnose her, reveal a hidden truth, or prove that one later event causes the whole trajectory. It does establish that bodily and personal integrity are already unstable. Marian's crisis cannot be reduced to a worked-out ethical objection to meat, and the engagement does not create distress in an otherwise untouched subject.
+In Chapter 6, before Peter's proposal and before the categorical refusal of any food, Marian dreams that her feet are dissolving into jelly and her fingers are becoming transparent. The dream does not diagnose her, reveal a hidden truth, or prove that one later event causes the whole trajectory. It supplies early imagery of unstable bodily and personal integrity. Marian's crisis cannot be reduced to a worked-out ethical objection to meat, and the engagement does not create distress in an otherwise untouched subject.
 
 The next major sequence makes that instability behavioural. Before Peter proposes marriage, he tells a graphic story about hunting and killing a rabbit. Marian begins to cry without initially recognizing that she is crying. Later she runs away, is pursued, hides under Len's bed, attempts to leave again, and is followed. The proposal emerges after this sequence of tears, flight, hiding, pursuit, argument, and reconciliation rather than as an isolated conventional scene (Chapters 8–10).
 
@@ -125,7 +164,7 @@ Marian's trajectory around the engagement is mixed. She assents, resists, delega
 
 > The engagement is not one decision that explains everything. It is an increasingly organized continuation inside a disturbance that has already begun.
 
-# 2. A Normal Future Around an Unrecognized Crisis
+## 2. A Normal Future Around an Unrecognized Crisis
 
 Peter is central to Marian's crisis, but he is not its complete mechanism. Nor does the apparent normality of the engagement show that nothing serious is happening.
 
@@ -153,7 +192,7 @@ The primary point is environmental and experiential at once:
 
 > Marian enters a future whose cultural scaffolding is ordinary and whose local continuation is becoming impossible for her.
 
-# 3. The Woman Who Becomes Third Person
+## 3. The Woman Who Becomes Third Person
 
 The novel formalizes Marian's altered relation to her situation through its narrative voice. Parts One and Three use first-person narration. Part Two, beginning in Chapter 13, refers to Marian in the third person.
 
@@ -169,13 +208,13 @@ The return of first person in Chapter 31 is likewise not the resurrection of a m
 
 > The subject does not disappear into “she” and return as “I.” What changes is the narrative organization through which Marian participates in her own continuation.
 
-# 4. Refusal Before Explanation
+## 4. Refusal Before Explanation
 
 The novel often personifies Marian's body and stomach. They refuse, close, take positions, or seem to change their minds. This divided idiom is central to the comedy and terror of the book, but it should not be turned into a hidden-executive theory.
 
 It is tempting to say that Marian's body knows she is being consumed before Marian consciously understands it. That formulation installs a second knower: a bodily intelligence that discovers the truth and sends symptoms to an otherwise separate self. IER blocks that division.
 
-There is one continuously operating experiential subject. Deliberative, autonomic, perceptual, affective, narrative, and regulatory participation can differ in salience and availability without becoming separate subjects. Marian's nausea, stomach closure, inability to swallow, and loss of appetite are forms of organization within her experience, not messages from another agent.
+Under the reading’s fictional one-subject premise, there is one continuously operating experiential subject. Deliberative, autonomic, perceptual, affective, narrative, and regulatory participation can differ in salience and availability without becoming separate subjects. Marian's nausea, stomach closure, inability to swallow, and loss of appetite are forms of organization within her experience, not messages from another agent.
 
 The sequence supports a narrower and stronger claim:
 
@@ -194,7 +233,7 @@ This creates a feedback relation:
 
 The model neither reveals a secret agent nor becomes epistemically privileged because it fits. It is an organization that makes the sequence coherent enough to continue.
 
-## Autonomia Without a Bodily Homunculus
+### Autonomia Without a Bodily Homunculus
 
 `IER-autonomia.md` describes cases in which autonomic and regulatory participation becomes experientially foregrounded. Cognition and planning are not removed, but their available continuations may be constrained by nausea, digestion, arousal, pain, or viability demand.
 
@@ -202,7 +241,7 @@ This is a productive lens for Marian. Her eating problem is not usually a loss o
 
 For the same reason, **constraint dominance** should not be the article's default explanation. In its technical IER use, constraint dominance involves failure of ordinary regime governance under binding overload. Most of Marian's sequence is better described through autonomic foregrounding, salience, interpretation, affordance reorganization, and narrowing. Constraint dominance may be locally suggestive where gagging or comparable bodily thresholds overrun an intended action, but it should not name the whole crisis.
 
-# 5. When Food Stops Affording Food
+## 5. When Food Stops Affording Food
 
 An affordance is not a meaning stored in an object. It is a locally admissible continuation generated by a system's organization within an environment. Food affords eating when eating appears as an available continuation. That availability depends on bodily capacity, sedimented history, interpretation, salience, social context, and current constraint.
 
@@ -228,7 +267,7 @@ The larger food sequence is likewise not an instantaneous conversion to a single
 
 This chronology matters. The rabbit is a pre-engagement hunting scene, not Marian's first food refusal. Artificial food first provides ordinary convenience and then temporary refuge; its later failure is therefore a transformation in Marian's action field, not just another item added to a list. Mould is not a food she tries to eat; it reorganizes cleaning. The processed-food failures occur before the mould scene. Duncan, not Marian, eats pumpkin seeds in the cinema. The sequence is structured, but it must not be made tidier than the novel.
 
-## Deviation Binding
+### Deviation Binding
 
 Ordinarily, the histories of food items can be compressed out of action. The diner need not encounter every causal stage between organism, harvest, processing, preparation, and plate. In Marian's experience those compressed histories return as binding deviations. Steak cannot remain merely steak once the cow and butcher matter to what can happen next. The egg cannot remain breakfast once the chick is recruited. The carrot cannot remain produce once uprooting and possible suffering bind.
 
@@ -236,7 +275,7 @@ This does not mean the foods possess an intrinsic deviation status. Deviation bi
 
 Refusal reduces the immediate conflict created by the bound item. Not eating the steak avoids eating what now appears as slaughtered flesh. But each local solution narrows the broader field of nourishment and social participation. As more categories bind under the same relation, avoidance becomes less reorganizable. The sequence approaches starvation not because Marian has stopped caring about continuation, but because her available terms for continuation have become mutually incompatible.
 
-## Situation and Experience Dominance
+### Situation and Experience Dominance
 
 Individual encounters reorganize Marian on local terms. Peter's rabbit story, Len's chick story, the carrot, the processed desserts, the mould, the party presentation, and the cake each recruit new constraints and affordances. In this component-relative sense, particular situations become dominant: changed context reorganizes what happens next.
 
@@ -244,7 +283,7 @@ Across those changes, however, a previously active organization increasingly ass
 
 This is **experience dominance** in IER's descriptive sense. It names continuity of organization across contextual change. It is not a force exerted by “experience,” a mechanism added to the pipeline, or evidence that Marian's interpretation is true. It says that what is already happening increasingly organizes each changed context as another place for the same relation to continue.
 
-# 6. Empathy Without Access
+## 6. Empathy Without Access
 
 The rabbit, cow, chick, carrot, and mould scenes can be read as a progressive broadening of Marian's participation in reproduced vulnerability. The fate of another living organization becomes locally structured through relations she can undergo: fear, injury, destruction, uprooting, assimilation, disposal.
 
@@ -254,7 +293,7 @@ This distinction becomes especially important when the sequence reaches plants a
 
 The literary sequence is powerful precisely because Marian's local organization does not respect those distinctions. “Living” becomes sufficient to recruit the entire ethical and behavioural pattern. The breadth of identification explains the refusal's phenomenology; it does not certify its ontology.
 
-# 7. Ethical Constraint Without an Innocent Meal
+## 7. Ethical Constraint Without an Innocent Meal
 
 Marian's later ethical explanation discovers something real about ordinary continuation: organisms live through consumption, transformation, displacement, and destruction. Food does not appear without causal histories. Cleaning is not pure restoration; it destroys some organizations to preserve others. A body cannot continue without altering an environment.
 
@@ -283,7 +322,7 @@ The novel need not be read as mocking ethical concern or proving that concern ir
 
 Marian's later return to steak does not establish that the cow, the butcher, or the earlier disgust meant nothing. It shows that her universal non-consumption rule no longer governs action. Ethical seriousness may persist after an impossible decision procedure releases.
 
-# 8. Duncan and the False Exit
+## 8. Duncan and the False Exit
 
 Duncan matters because he seems to offer a route outside the normal future organized around Peter. He is physically, socially, and rhetorically unlike Peter. He does not ask Marian to perform the same romantic script, and his low expectations can feel like relief. But the difference in style does not remove the user/used relation.
 
@@ -301,7 +340,7 @@ IER describes the episode as a failed change of situation. New location, compani
 
 > Duncan offers relief from one performance while reproducing instrumental use. The relief is genuine; the exit is not.
 
-# 9. Refusal in the Wrong Domain
+## 9. Refusal in the Wrong Domain
 
 Marian resists repeatedly before she directly ends the engagement. She cries, runs, hides, argues, delegates, loses appetite, conceals food, removes and replaces her ring, avoids being photographed, seeks Duncan, and flees the party. Yet the engagement continues to organize practical continuation. She prepares for it, worries about it, and remains situated as Peter's future wife.
 
@@ -309,7 +348,7 @@ This is where `IER-disengagement.md` clarifies the novel. Stopping an activity d
 
 Marian's food refusal changes what she is doing, but it does not by itself release the engagement trajectory. Neither do ring removal, secrecy, sex, or flight with Duncan. Restaurant, office, grocery store, apartment, dinner, party, laundromat, hotel, and ravine remain organized by the future she has not directly refused and by the crisis that accompanies it. Activity and location change while the earlier organization continues to govern.
 
-## The Behavioural-Substitution Hypothesis
+### The Behavioural-Substitution Hypothesis
 
 This article proposes a specific literary bridge hypothesis:
 
@@ -332,7 +371,7 @@ That reversal explains why the behaviour can be meaningful without being a selec
 
 Behavioural substitution should therefore remain explicitly provisional. It is what the article contributes for later theoretical evaluation, not a canonical mechanism the novel merely illustrates.
 
-# 10. The Camera's Image
+## 10. The Camera's Image
 
 The engagement party makes the future role materially visible. Peter suggests a new dress and elaborate hair. Salon work and Ainsley's additions leave Marian artificial and difficult for herself to recognize. She has not simply chosen an outfit; she has been organized into a public presentation of the fiancée.
 
@@ -340,13 +379,13 @@ Peter's camera intensifies the relation. An earlier posed photograph is interrup
 
 The novel supplies the hunter, marksman, and weapon relation. The further claim that the camera threatens **capture of a socially manufactured identity** is an interpretation. It is nevertheless a strong one. The image would not merely record Marian; it would fix the version constructed for Peter's party from a position outside Marian's authorship.
 
-Here ordinary literary representation must be distinguished from IER's technical vocabulary. The photograph is a possible external representation: an artifact that preserves selected visual organization. It is not an internal representational content or an ontological ingredient of experience. Marian's resistance concerns what the artifact would do within the social situation—how it would stabilize, circulate, and ratify the made-up party woman.
+Here ordinary literary representation must be distinguished from IER's technical vocabulary. The photograph is a possible external representation: an artifact that preserves selected visual organization. This external artifact is distinct from current physical representation within a subject’s operation; neither is an additional ontological ingredient or an inner observer. Marian's resistance concerns what the artifact would do within the social situation—how it would stabilize, circulate, and ratify the made-up party woman.
 
 The camera and cake are therefore opposed not because one is representation and the other is reality. Both are material constructions capable of preserving organization. They differ in practical authorship and use.
 
 Peter attempts to frame Marian in an image prepared for his future. Marian later constructs an image whose materials, form, features, and presentation she authors herself.
 
-# 11. The Cake as a Material Model
+## 11. The Cake as a Material Model
 
 After the failed detour through Duncan and the near-total food refusal, Marian returns home. Peter telephones about her disappearance from the party. Marian does not explain the night to him; she invites him to come for tea. She then buys new ingredients, bakes without a recipe, cuts the cake into the shape of a woman, and decorates it with a pink party dress, green eyes, and hair resembling her party presentation (Chapter 30).
 
@@ -356,7 +395,7 @@ In IER, a model is an organization used to project bounded consequence. It need 
 
 The model is materially selective. It preserves the party dress, hair, femininity, attractiveness, edibility, and offer. It does not preserve Marian's subjecthood. That omission is the point. The cake can be consumed without the experiential subject being assimilated into the future it models.
 
-## A Model That Changes Its Situation
+### A Model That Changes Its Situation
 
 Models do not stand outside the situations in which they are used. Once the cake exists on the table, it reorganizes local salience, interpretation, and affordances. What had been distributed across engagement, food, dress, camera, hunting, and fear becomes available for direct action.
 
@@ -368,7 +407,7 @@ Peter leaves without eating. The novel does not state his internal reason. The a
 
 Marian then becomes hungry and begins eating the cake at the feet. This can be read as consumption of a constructed substitute rather than assent to her own assimilation. But that reading remains an inference. Ainsley interprets the act as rejection of femininity; Marian replies that it is only a cake. The novel gives no single explanatory voice final authority.
 
-# 12. Authorship Across the Trajectory
+## 12. Authorship Across the Trajectory
 
 The cake is a turning point, but it should not be isolated as one sovereign decision. IER trajectory authorship locates authorship in the persistence of owned constraint redistribution across time. Marian's final action depends on what has already happened: the dissolution dream, rabbit, flight, engagement, delegated decisions, narration shift, food aversion, ethical interpretation, normalizing reassurance, concealment, mould, Duncan's instrumental use, temporary ring removal, makeover, camera, failed sexual exit, starvation fear, Peter's call, and the practical work of baking.
 
@@ -381,9 +420,9 @@ The cake condenses this history into action. Its construction follows a recogniz
 - Peter's departure changes the continuation;
 - Marian's hunger and eating register another reorganization.
 
-None of this requires a selector outside the pipeline. The action is authored because Marian bears and redistributes the relevant constraint across the trajectory. The cake is not proof that she was previously non-agentive. It is a new organization of agency that makes direct refusal more available than displaced refusal.
+None of this requires a selector outside the pipeline. Under the stipulated reading, the action can be described as authored because Marian bears and redistributes the relevant constraint across the trajectory; its depiction does not independently establish physical ownership. The cake is not proof that she was previously non-agentive. It is a new organization of agency that makes direct refusal more available than displaced refusal.
 
-## Disengagement and Rebinding
+### Disengagement and Rebinding
 
 Disengagement occurs when a previously governing behavioural organization ceases to organize continuation. Residue may remain. The history need not disappear, and every effect need not reverse.
 
@@ -395,7 +434,7 @@ This is **reorganizability**, not purification. Reorganizability is the capacity
 
 The return of appetite is therefore neither a biological theorem nor a simple moral. It is one component of a larger reorganization whose other components include direct speech, broken engagement, first-person narration, cleaning, and altered action.
 
-# 13. Consumer Without Innocence or a Single Cause
+## 13. Consumer Without Innocence or a Single Cause
 
 Chapter 31 returns to first person the next day. Marian cleans dirty dishes, the refrigerator, and rotten food. She reports eating steak. Duncan first wonders whether Peter had been trying to destroy Marian or Marian had been trying to destroy Peter. He then dismisses the difference by calling her a consumer. Marian gives him the remaining woman-cake, and he eats its face and hair.
 
@@ -413,43 +452,43 @@ This makes the ending ethically harder and structurally stronger than a purity n
 
 > Marian does not become innocent of consumption. She becomes less available for consumption by a future she has not authored.
 
-# 14. What *The Edible Woman* Contributes to IER
+## 14. What *The Edible Woman* Contributes to IER
 
 This article has treated the novel as an application, but the traffic is not entirely one-way. Fiction can preserve a complex organization across scenes, characters, objects, and narrative form more effectively than a single abstract example. *The Edible Woman* gives IER several unusually clear structures to examine.
 
-## 14.1 Behaviour Can Reorganize Before Explanation
+### 14.1 Behaviour Can Reorganize Before Explanation
 
 Marian's eating changes before her ethical theory stabilizes. The sequence illustrates why an interpretation should not automatically be treated as either the hidden cause or the privileged truth of the behaviour it explains. Later interpretation can organize future salience without having initiated the pattern.
 
-## 14.2 Crisis Can Remain Real Without Social Recognition
+### 14.2 Crisis Can Remain Real Without Social Recognition
 
 Clara's wedding-nerves explanation and Peter's reassurance do not resolve Marian's condition. They show that a severe change in one subject's action field can remain invisible within ordinary shared descriptions. Public continuity and experiential viability are related but non-identical.
 
-## 14.3 Relief Can Coexist With Instrumental Use
+### 14.3 Relief Can Coexist With Instrumental Use
 
 Marian's time with Duncan reduces the demand to perform conventional affection, yet Duncan openly uses her as a substitute, outlet, and experiment. The novel prevents the easy equation of relief with freedom or of unconventionality with non-instrumental relation.
 
-## 14.4 Refusal Can Move Across Domains
+### 14.4 Refusal Can Move Across Domains
 
 Running, hiding, not eating, transferring meat, fleeing photography, baking, confronting, and eating are not one behaviour. Yet they can preserve related organization. The novel supports analysis at the level of governing relations rather than surface acts alone.
 
-## 14.5 Transfer Can Include Positional Reversal
+### 14.5 Transfer Can Include Positional Reversal
 
 IER behavioural transfer already describes organization continuing through a changed domain. The novel suggests a narrower possibility worth later theoretical development: a relation may persist while the participant's position reverses. Being organized as consumable becomes refusal to consume. The bridge term **behavioural substitution** names that proposed pattern here.
 
-## 14.6 A Material Model Can Reorganize the Situation It Models
+### 14.6 A Material Model Can Reorganize the Situation It Models
 
 The cake does not only express Marian's situation. Its construction and use change what can be done. It preserves enough structure to support consequence projection, accusation, substitution, and direct refusal. The case demonstrates why external models belong inside environmental coupling rather than outside action.
 
-## 14.7 Disengagement Is Not Stopping
+### 14.7 Disengagement Is Not Stopping
 
 Marian changes activities and locations repeatedly without releasing the engagement's governance. She runs, eats differently, visits Duncan, and leaves the party, but the same future continues to organize what follows. Disengagement occurs only when continuation no longer has to reproduce that future.
 
-## 14.8 Ethical Recognition Does Not Produce Closure
+### 14.8 Ethical Recognition Does Not Produce Closure
 
 The novel makes biological implication difficult to ignore while showing the failure of universal non-consumption. IER can preserve both sides: harm and standing constrain action, but neither supplies a complete algorithm for innocent continuation.
 
-# 15. Structural Summary
+## 15. Structural Summary
 
 The article's complete reading can be compressed into five movements.
 
@@ -465,7 +504,7 @@ The novel's trajectory can therefore be stated without a hidden knower, a metaph
 
 > Marian undergoes a severe but socially unrecognized reorganization inside a future everyone around her can continue to call normal. She repeatedly resists becoming consumable or usable before she can refuse that organization directly. The relation reorganizes eating and then cleaning until ordinary continuation becomes unavailable; Duncan changes its style without providing an exit. By constructing an edible model of the party woman and offering it as a substitute, Marian makes the relation actionable outside herself. Direct refusal becomes available, the engagement ceases to govern continuation, and appetite and first-person narration return. She does not escape consumption or receive a final causal explanation. She becomes less available as the assigned object of someone else's continuation.
 
-# 16. Non-Claims and Drafting Boundaries
+## 16. Non-Claims and Drafting Boundaries
 
 This article does not claim that:
 
@@ -492,9 +531,9 @@ This article does not claim that:
 
 These exclusions are not incidental cautions. They preserve the difference between text, interpretation, and theory on which the article depends.
 
-## Source and Verification Note
+### Source and Verification Note
 
-All references to *The Edible Woman* are by chapter because pagination varies across editions. The controlling textual chronology and claim boundaries are maintained in `edible-woman-claims-ledger.md`. Before publication, direct wording and page citations should be checked against the edition selected for the bibliography.
+All references to *The Edible Woman* are by chapter because pagination varies across editions. The controlling textual chronology and claim boundaries are maintained in the [claims ledger](edible-woman-claims-ledger.md). Before publication, direct wording and page citations should be checked against the edition selected for the bibliography.
 
 Primary text:
 
@@ -502,11 +541,11 @@ Primary text:
 
 Selected critical orientation:
 
-- Bouson, J. Brooks. “The Anxiety of Being Influenced: Reading and Responding to Characters in Margaret Atwood's *The Edible Woman*.” 1990. [JSTOR](https://www.jstor.org/stable/42945853)
+- Bouson, J. Brooks. “The Anxiety of Being Influenced: Reading and Responding to Character in Margaret Atwood's *The Edible Woman*.” 1990. [JSTOR](https://www.jstor.org/stable/42945853)
 - Hobgood, Jennifer. “Anti-Edibles: Capitalism and Schizophrenia in Margaret Atwood's *The Edible Woman*.” 2002. [JSTOR](https://www.jstor.org/stable/10.5325/style.36.1.146)
 - Parker, Emma. “You Are What You Eat: The Politics of Eating in the Novels of Margaret Atwood.” 1995. [JSTOR](https://www.jstor.org/stable/441857)
-- Roles, Cailin Flannery. “The Surface on Which You Work: Self-Alienation in Margaret Atwood's *The Edible Woman*.” 2021. [DOI](https://doi.org/10.7560/TSLL63303)
+- Roles, Cailin Flannery. “‘The Surface on Which You Work’: Self-Alienation and the Culture of Narcissism in *The Edible Woman*.” 2021. [DOI](https://doi.org/10.7560/TSLL63303)
 
-## Intermission — Structural Claim
+### Intermission — Structural Claim
 
 > A crisis can remain real while its surroundings call it normal. Refusal can change domains without finding its object. A model can change the situation by making that object available for action.

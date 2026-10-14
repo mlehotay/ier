@@ -445,7 +445,8 @@ visual durations. *PLOS Biology, 24*(3), e3003704.
 
 ## Companion Documents
 
-- *Four Durations, Not One*
-- *The Identification Problem for Physicalist Theories of Experience*
-- *IER-duration*
-- *IER-subjective-time*
+- [Four Durations, Not One](IER-four-durations-not-one.md): the separate IER interpretation and its current physical/phenomenological limits.
+- [Duration](../../IER/IER-duration.md): possible contributions from organized registration and reconstruction, without a universal count law.
+- [Subjective Time](../../IER/IER-subjective-time.md): current temporal explanatory scope.
+
+*The Identification Problem for Physicalist Theories of Experience* is a separate paper; its manuscript and hosted-artifact acceptance have independent owners. The study's source findings are not a positive full-stack identity result.

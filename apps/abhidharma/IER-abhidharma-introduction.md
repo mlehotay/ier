@@ -15,6 +15,12 @@ The manual must not be treated as a neutral history of Abhidharma or as evidence
 
 This document therefore uses *Abhidharma* for the wider Sanskrit-named family of movements, methods, texts, and school traditions, and *Abhidhamma* for Theravāda materials in Pāli. Likewise, it uses *dharma* and *dhamma* according to context.
 
+## Current Physical and Comparative Scope
+
+The [current relation-stack explanation](IER-abhidharma.md#current-ier-premises) keeps independently typed support closure, ownership, all five membership conditions and all five produced-and-inherited continuity conditions separate. Mere causal sequence, co-arising or recurrent organization supplies none of them by itself. Ordinary continuation need not contain fresh collapse; numerical identity can end without a system-wide experiential gap. A traditional moment, an interpretive category and a subject token therefore remain different objects.
+
+The physical identity proposal is abductive and a posteriori. This comparison neither identifies a concrete UEF nor establishes qualitative correspondence, doctrinal truth or liberation from a physical geometry.
+
 ## The Question for IER
 
 The useful question is not:
@@ -139,7 +145,7 @@ This does not by itself answer every question about subjecthood. A comparison mu
 - narrative or doctrinal identification; and
 - numerical identity of an experiential subject.
 
-IER also rejects an inner observer or self-entity, but it identifies one Unified Experiential Field with one experiential subject. It separately distinguishes UEF continuity, embodied-system continuity, and later re-instantiation after genuine UEF cessation. Apparent similarity on "no inner self" therefore does not settle whether the two frameworks agree about subjecthood or persistence.
+IER also rejects an inner observer or self-entity, but it identifies one Unified Experiential Field with one experiential subject. It separately distinguishes full stage-connected UEF continuity, embodied-system continuity, and later qualifying operations after any stage-relation failure. A null interval is sufficient for failure, not necessary. Apparent similarity on "no inner self" therefore does not settle whether the two frameworks agree about subjecthood or persistence.
 
 ## Abhidharma Is Psycho-Physical but Not Modern Physics
 
@@ -199,7 +205,7 @@ The value of Abhidharma for IER is therefore not that it supplies a ready-made a
 ## Sources
 
 - Noa Ronkin, ["Abhidharma," *The Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/abhidharma/), substantive revision March 31, 2026.
-- Bhikkhu Bodhi, general editor, [*A Comprehensive Manual of Abhidhamma: The Abhidhammattha Saṅgaha of Ācariya Anuruddha*](https://store.pariyatti.org/products/6269), third edition, Buddhist Publication Society, 2007.
+- Bhikkhu Bodhi, general editor, *A Comprehensive Manual of Abhidhamma: The Abhidhammattha Saṅgaha of Ācariya Anuruddha*. Consulted [publisher PDF eBook](https://download.pariyatti.org/_xUn1HgkZ/Comprehensive%20Manual%20of%20Abhidhamma.pdf), BPS Pariyatti Editions, 2012; title matter records BPS copyright 1993/1999, first BPS Pariyatti edition 2000 and reprints 2003/2007/2010. Citations below use printed page numbers, not PDF page indices; no unverified edition-equivalence claim is made.
 
 Canonical IER claims in this document are constrained by the current IER specification, theory, dynamics, ontology, continuity, identity, coordinate-systems, and projection documents. If this introduction conflicts with those sources, they control.
 

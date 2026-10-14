@@ -18,6 +18,20 @@ ier:
 NON-CANONICAL | EXAMPLE-SCOPED | NOT READER-FACING
 
 
+## Implementation and Result Status
+
+This is a planned analysis workflow, not a tutorial for commands the current
+executable supplies. Build/run and current options are in the [README](../README.md).
+The simulator supplies ordinary step counts; dependence, history-window graphs,
+regions, predicates and perturbation-support enumeration remain future tooling.
+The [predicate specification](IER-GoL-predicate-nondecomposability.md) explains
+full-relation boundary tests and suppressed history inputs. Its
+[conditional argument](IER-life-nondecomposability.md) is not yet a computed GoL
+existence witness. The [support proposal](IER-GoL-support-admissibility.md) is a
+separate experiment across perturbed starting states, not actual branching.
+The [orientation](gol-orientation.md#canonical-boundary) preserves full physical
+qualification and inference limits.
+
 ## Purpose
 
 This document provides guidance for beginning analysis of Game of Life (GoL) within the IER framework.
@@ -66,7 +80,7 @@ The system is fully deterministic.
 
 ## Deterministic Invariant
 
-For all regions \( \Sigma \):
+For all regions $\Sigma$:
 
 $$ A_t^{\mathrm{bd}}(\Sigma) \in \{ \varnothing, \{ \hat{s}|_{\Sigma} \} \} $$
 
@@ -77,7 +91,7 @@ $$ A_t^{\mathrm{bd}}(\Sigma) \in \{ \varnothing, \{ \hat{s}|_{\Sigma} \} \} $$
 * no probabilistic structure
 * no ambiguity in continuation
 
-All structure arises from predicate evaluation, not from \(A_t\).
+Any mismatch in this predicate-filtered comparison arises from evaluation, not branching of the fixed-state $A_t$. This is not a claim that Life has no other interesting structure.
 
 
 ## Conceptual Stack
@@ -88,11 +102,11 @@ The analysis proceeds through:
 configuration s(t)
 -> counterfactual dependence D(s)
 -> diachronic relation C_t
--> region extraction \(\Sigma(t)\)
+-> region extraction $\Sigma(t)$
 -> projection
 -> structural predicate (closure)
--> bounded projection \(A_t^{bd}(\Sigma)\)
-````
+-> bounded projection $A_t^{bd}(\Sigma)$
+```
 
 Each layer is:
 
@@ -126,17 +140,17 @@ Encodes persistence of dependence.
 
 ## Regions
 
-A region \(\Sigma\) is:
+A region $\Sigma$ is:
 
 * a subset of live cells
-* connected under the undirected form of ( C_t )
+* connected under the undirected form of $C_t$
 
 
 ## Projection
 
 $s|_{\Sigma}$
 
-$$ \pi_{\Sigma}(A_t) = { \hat{s}|_{\Sigma} } $$
+$$ \pi_{\Sigma}(A_t) = \{ \hat{s}|_{\Sigma} \} $$
 
 Projection is structurally trivial at the level of admissible futures.
 
@@ -154,14 +168,14 @@ $$ A_t^{\mathrm{bd}}(\Sigma) \subseteq \pi_{\Sigma}(A_t) $$
 
 ## Source of Structure
 
-All non-trivial behavior arises from:
+In this comparison, a filtered-set mismatch would arise from:
 
 > predicate evaluation under restriction
 
 
 ## Representation vs World State
 
-IER analysis operates on the full configuration, not its display.
+Future IER analysis must operate on the full configuration, not its display. Currently terminal resizing changes the world itself; record it as an intervention or fix geometry during a trial. View independence is a future policy, not a property of the current program.
 
 
 ## Principle
@@ -171,7 +185,7 @@ IER analysis operates on the full configuration, not its display.
 
 ## Implications
 
-* analysis must use full ( s(t) )
+* analysis must use full $s(t)$
 * viewport size must not affect results
 * visualization is derived, not constitutive
 
@@ -183,9 +197,9 @@ The correct entry point is structure, not patterns.
 
 ## Compute Local Dependence
 
-Given ( s(t) ):
+Given $s(t)$:
 
-* compute ( D(s) )
+* compute $D(s)$
 * identify influence relations
 
 Observation:
@@ -212,7 +226,7 @@ Compute connected components of:
 
 $\text{undirected}(C_t)$
 
-These define candidate regions \(\Sigma\).
+These define candidate regions $\Sigma$.
 
 
 ## Evaluate Projection
@@ -223,7 +237,7 @@ $\hat{s}|_{\Sigma}$
 
 Note:
 
-* projection always factorizes
+* singleton projection factorizes; this is not a general theorem for arbitrary supports
 * it does not introduce structure
 
 
@@ -231,7 +245,7 @@ Note:
 
 Evaluate:
 
-* internal connectivity under ( C(s') )
+* internal connectivity under $C(s')$
 * absence of external dependence
 
 
@@ -243,7 +257,7 @@ $$ \Sigma = A \cup B $$
 
 Test:
 
-$$ A_t^{\mathrm{bd}}(\Sigma) \stackrel{?}{=} { a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) } $$
+$$ A_t^{\mathrm{bd}}(\Sigma) \stackrel{?}{=} \{ a \cup b \mid a \in A_t^{\mathrm{bd}}(A),\ b \in A_t^{\mathrm{bd}}(B) \} $$
 
 
 ## Instrumentation and Tooling
@@ -278,17 +292,15 @@ They must remain:
 
 ## Key Structural Result
 
-The central phenomenon is:
-
-> closure predicates on projected continuations do not, in general, factor across partitions.
+The proposed witness must show whole-region predicate success and a subregion failure. If it does, the filtered singleton cannot equal the empty recombination. A cross-boundary edge alone does not establish that a GoL history satisfies all required predicates.
 
 
 ## Cause
 
 This occurs because:
 
-* closure depends on ( C(s') )
-* dependence relations are not preserved under restriction
+* closure depends on $C(s')$
+* internal/external classification changes at the cut; external independence must still inspect the full relation
 
 
 ## Not the Cause
@@ -302,10 +314,7 @@ This is not due to:
 
 ## Relation to Known GoL Results
 
-Game of Life supports:
-
-* arbitrarily long periodic trajectories
-* universal computation
+Life on its unbounded lattice supports oscillators of every positive period ([Brown et al. 2023](https://arxiv.org/abs/2312.02799)). A single fixed finite board has finitely many states and cannot realize every period. Long-period trajectories do not introduce multiple next states from one complete configuration.
 
 These concern:
 
@@ -333,9 +342,9 @@ IER perspective:
 
 To begin analysis:
 
-1. compute ( D(s) )
-2. construct ( C_t )
-3. extract regions \(\Sigma\)
+1. compute $D(s)$
+2. construct $C_t$
+3. extract regions $\Sigma$
 4. project continuation
 5. apply structural predicates
 6. test decomposition
@@ -343,7 +352,7 @@ To begin analysis:
 
 ## One-Line Guidance
 
-> Begin from dependence rather than patterns, and from projection rather than global evolution; all non-trivial structure arises from predicate evaluation under restriction.
+> Begin from dependence rather than patterns, and from projection rather than global evolution; the proposed filtered-set comparison concerns predicate evaluation under restriction, not the whole of Life dynamics.
 
 
 ## End of Document
