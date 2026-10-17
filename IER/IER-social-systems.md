@@ -1,5 +1,9 @@
 ---
 ier:
+  aligned_with:
+  - certification: 10.11.6-unification-canon
+    reviewed_on: '2026-10-16'
+    review: c0ca7846244a784b71bbbdde4b14cef0321c122b:traceability/reviews/batch-14.md#member-16
   tier: T2
   role: CASE
   layer: framework

@@ -14,9 +14,11 @@ These materials explain and assess IER. The
 
 ## Where to begin
 
-Start with the [Philosophy of Mind curriculum](IER-philosophy-of-mind-curriculum.md)
-for a guided reading route. The [Bibliography](../../IER/IER-bibliography.md)
-provides wider attributed reading with explicit source-access limits. For IER's philosophical account, read the
+For philosophical context, use [IER in Philosophical Context: A Reading Map](IER-philosophy-of-mind-curriculum.md),
+organized by argument and question. For a beginner sequence, use
+[Learning IER: A Guided Annotated Reading List](../../IER/IER-bibliography.md),
+with prerequisites, selected readings and optional branches. For IER's
+philosophical exposition, read the
 [Metaphysical Account](metaphysical-account-of-the-uef-process-subject.md).
 
 | Document | What it offers |

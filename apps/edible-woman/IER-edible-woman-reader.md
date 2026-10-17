@@ -1,5 +1,9 @@
 ---
 ier:
+  aligned_with:
+  - certification: 10.11.6-unification-canon
+    reviewed_on: '2026-10-16'
+    review: ee9293d549e0b44b791d2cbba2010e0e9d290d61:traceability/reviews/batch-17.md#member-2
   tier: T4
   role: READER_GUIDE
   layer: application

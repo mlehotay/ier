@@ -1,5 +1,9 @@
 ---
 ier:
+  aligned_with:
+  - certification: 10.11.6-unification-canon
+    reviewed_on: '2026-10-16'
+    review: c0ca7846244a784b71bbbdde4b14cef0321c122b:traceability/reviews/philpeople-teaching.md#member-4
   tier: T2
   role: EXAMPLE
   status: active
@@ -10,8 +14,8 @@ ier:
 
 ## A Physical Analogy for Continuing Drive, Load-Bearing, Reversible Deformation, and Ongoing Operation
 
-**Informational Experiential Realism (IER v10.11.5)**\
-**Date:** 30 September 2026\
+**Informational Experiential Realism (IER v10.11.6)**\
+**Date:** 16 October 2026\
 *Tier-2 · Explanatory · Illustrative · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -22,7 +26,7 @@ Its role is explanatory; the analogy does not define a canonical mechanism.
 
 It introduces no new IER primitive, criterion, experiential mode, dynamical operator, threshold, measurement, or implementation. A sail is not claimed to be experiential. Aerodynamic deformation is not intrinsic constraint, and ongoing operation does not by itself imply collapse, welding, sedimentation, or substrate replacement.
 
-The [IER précis](https://github.com/mlehotay/ier/blob/main/IER/IER-precis.md) supplies the conceptual overview. Definitions remain controlled by the [Specification](https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md) and canonical concept owners. For optional background, the Stapled Net is a complementary illustration of inherited constraint and run-relative irreversible transition permission, available through [Michael Lehotay's PhilPeople profile](https://philpeople.org/profiles/michael-lehotay).
+The [IER précis](https://github.com/mlehotay/ier/blob/main/IER/IER-precis.md) supplies the conceptual overview. Definitions remain controlled by the [Specification](https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md) and canonical concept owners. For optional background, the Stapled Net is a complementary illustration of inherited constraint and run-relative irreversible transition permission, available through the [teaching-materials profile](https://philpeople.org/profiles/michael-lehotay/teaching_materials); the profile link does not certify the revision of a hosted copy.
 
 ## The Central Image
 
@@ -93,7 +97,7 @@ When effective airflow or trim is insufficient, part of the sail may luff. Luffi
 
 Cleating a line holds a setting persistently, but it is normally reversible: the line can be uncleated and adjusted. A cleated setting can constrain many subsequent shapes without rewriting the sailcloth.
 
-This is the Sail's clearest contrast with the Stapled Net. The net foregrounds run-relative irreversible locks and route loss; the sail foregrounds continuing load-bearing through adjustable, usually reversible constraint. The two examples are complementary and neither defines the other.
+This is the Sail's clearest contrast with the Stapled Net. The net foregrounds run-relative irreversible locks and loss of reopening permission; the sail foregrounds continuing load-bearing through adjustable, usually reversible constraint. The two examples are complementary and neither defines the other.
 
 ## Reachable Configurations
 

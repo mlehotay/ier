@@ -21,7 +21,7 @@ For an intuitive introduction, try [Hello World](IER/IER-hello-world.md),
 [Below Hello World](IER/IER-below-hello-world.md), or the
 [analogy examples](examples/analogies/README.md). Hello World supplies schematic
 intuition; it is not a completed physical instantiation. The
-[Bibliography](IER/IER-bibliography.md) supplies attributed comparison sources.
+[Learning IER: A Guided Annotated Reading List](IER/IER-bibliography.md) supplies a beginner sequence and optional branches. The [philosophical reading map](apps/philosophy/IER-philosophy-of-mind-curriculum.md) organizes sources by argument and question.
 
 ## Explore
 
