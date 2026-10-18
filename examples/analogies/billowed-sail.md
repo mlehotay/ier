@@ -42,7 +42,7 @@ A gust may deepen the sail, a lull may relax it, and a heading change may alter 
 
 ## Diagram
 
-![The filled sail bears a changing load through inherited but adjustable geometry. The image is analogical, not a UEF implementation.](sailboat.svg)
+![The filled sail bears a changing load through inherited but adjustable geometry. The image is analogical, not a UEF implementation.](../../assets/diagrams/sailboat.svg)
 
 ## Driver, Load, Bearer, and Support
 

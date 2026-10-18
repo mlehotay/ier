@@ -412,20 +412,7 @@ Lawful continuation need not contain a fresh collapse, welding, propagation, or 
 
 ## Appendix A - Future Types and Conditional History
 
-```mermaid
-flowchart TD
-A[Current physical frontier] --> B[Admissible physical successors]
-A --> C[Anticipated planned or imagined futures]
-B --> D[Actual lawful continuation]
-D --> E[Later physical frontier]
-B --> F[Conditional atomic foreclosure]
-F --> G[Welding incorporates deformation]
-G --> H[Propagation redistributes consequences]
-H --> I[Stabilized inheritance: sedimentation]
-I --> E
-C --> J[Present cognitive organization can participate and bind]
-J --> A
-```
+![Future types and conditional history](../assets/diagrams/future-types-and-conditional-history.svg)
 
 Plans and imagination are cognitive organizations, not further physical
 successor sets. Their content can misdescribe reachability; their current

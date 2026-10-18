@@ -25,6 +25,8 @@ intuition; it is not a completed physical instantiation. The
 
 ## Explore
 
+- [Where IER lives](MAP.md): theory sources, books, papers, teaching materials,
+  purchase and library routes, and the authority of each partition.
 - [Core theory](IER/IER-model-overview.md): the canonical account of IER.
 - [Examples](examples/README.md): short, non-canonical illustrations.
 - [Applications](apps/README.md): exploratory projects in philosophy, neuroscience, literature, and toy systems.

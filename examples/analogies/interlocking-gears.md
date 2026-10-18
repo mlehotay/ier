@@ -12,7 +12,7 @@ continuity.
 
 Three ideal gears are arranged in a line:
 
-![Three interlocking gears showing the mediated rotation of Gear 1 through Gear 2 to Gear 3.](gears.svg)
+![Three interlocking gears showing the mediated rotation of Gear 1 through Gear 2 to Gear 3.](../../assets/diagrams/gears.svg)
 
 ```text
 Gear 1  ↔  Gear 2  ↔  Gear 3
