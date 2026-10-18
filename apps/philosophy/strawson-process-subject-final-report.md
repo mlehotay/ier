@@ -371,7 +371,7 @@ irreversible inheritance, or unique two-sided adjacency.
 
 I2b–I2e remain partial or indeterminate in that dossier. The model does not
 attribute experience to a waterfall or instantiate the entire I2 stack.
-The accepted S2 record (private provenance: `_work/unification/workstream-c/investigations/waterfall/s2-integration-and-stop-point.md`)
+The accepted S2 record (private provenance: `apps/research/investigations/waterfall/s2-integration-and-stop-point.md`)
 retains these limits. Independent qualified investigation and reproduction
 remain separate work; acceptance of S2 does not reopen or erase its bounds.
 

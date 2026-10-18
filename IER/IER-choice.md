@@ -22,6 +22,7 @@ ier:
     - IER-processes
     - IER-continuity
     - IER-agency
+    - IER-diachronic-freedom
     - IER-refusal
     - IER-coercion
     - IER-responsibility
@@ -236,6 +237,31 @@ From this it follows:
 * choice is regime-bound, not ubiquitous
 
 Successor realization alone does not constitute choice proper.
+
+### Corrective Activity and Choice Proper
+
+An ongoing correction does not require an extra chooser to make physical
+regulation effective. Current organization shapes the response to physical
+conditions, and the response changes the conditions of subsequent activity.
+Within a qualifying continuing UEF, owned trajectory formation is part of
+[Diachronic Freedom](IER-diachronic-freedom.md). Freedom describes that activity;
+it does not add a cause behind it.
+
+The [Gymnast](IER-gymnast.md) illustrates the distinction. Adjustments can change
+the margins for several landing families while those families remain reachable.
+An owned irreversible loss of live alternatives is the further event of choice
+proper. Ordinary correction, a realized successor, and an irreversible choice
+must therefore be assessed separately. [Free Will](IER-free-will.md) develops
+micro-adjustment without a separate executive.
+
+[Skydiving](IER-skydiving.md) keeps that extended activity distinct from the
+final landing. Touchdown does not itself establish a fresh foreclosure, and
+it does not exhaust the earlier shaping or later inherited consequence.
+
+The account does not require every physical adjustment to be a fresh choice.
+Nor does a recurrent controller establish the independent UEF conditions.
+Physical availability, actual foreclosure, ownership, and token continuity
+must each be justified in a concrete attribution.
 
 
 ### Unrealized Alternatives and Refusal

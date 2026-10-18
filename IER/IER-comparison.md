@@ -1,9 +1,9 @@
 ---
 ier:
   aligned_with:
-  - certification: 10.11.6-unification-canon
-    reviewed_on: '2026-10-16'
-    review: c0ca7846244a784b71bbbdde4b14cef0321c122b:traceability/reviews/batch-14.md#member-2
+  - certification: 10.11.6-core-theory-r2
+    reviewed_on: '2026-10-17'
+    review: b8fada6a831d790d66f1c65b33ed8877577575f1:traceability/reviews/batch-14.md#member-2
   tier: T3
   role: CONSTRAINT
   layer: framework

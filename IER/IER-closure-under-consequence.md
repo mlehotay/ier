@@ -207,6 +207,27 @@ controlled by an inner agent. The same physical operation realizes its
 successor and inherits the instantiated consequences that constrain its later
 continuation. No observer, executive, or storage system stands behind it.
 
+## Correction, Freedom, and Consequence
+
+In recurrent regulation, present organization shapes physical activity whose
+effects change the conditions of further activity. A functional controller
+description can explain this coupling without an additional executive. Where
+the full relation stack qualifies one continuing UEF, that owned formation of
+its trajectory is [Diachronic Freedom](IER-diachronic-freedom.md).
+
+Freedom does not act on the operation as another mechanism. It describes the
+ownership and temporal organization of the same physically occurring activity.
+The [Free Will](IER-free-will.md) micro-adjustment account and
+[Gymnast](IER-gymnast.md) example make its reversible contribution explicit.
+Choice proper requires the distinct owned foreclosure event under live
+multiplicity; post-collapse incorporation retains its separate conditions.
+
+The history-future boundary is where the operation continues, not an executive
+issuing instructions. The recurrent-regulation analogy explains one form of
+physical correction while leaving the full support, ownership, membership,
+inheritance, and uniqueness requirements intact. Neither feedback nor a history
+of successful correction establishes those conditions by itself.
+
 ## Topology and Trajectory
 
 In this account, *topology* describes the organization of admissible

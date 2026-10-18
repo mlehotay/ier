@@ -1,9 +1,9 @@
 ---
 ier:
   aligned_with:
-  - certification: 10.11.6-unification-canon
-    reviewed_on: '2026-10-16'
-    review: ee9293d549e0b44b791d2cbba2010e0e9d290d61:traceability/reviews/batch-17.md#member-7
+  - certification: 10.11.6-core-theory-r2
+    reviewed_on: '2026-10-17'
+    review: b8fada6a831d790d66f1c65b33ed8877577575f1:traceability/reviews/batch-17.md#member-7
   tier: T0
   role: EXAMPLE_DIRECTION
   layer: analysis
