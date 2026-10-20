@@ -64,10 +64,14 @@ declared sources. Selection and chapter order grant no additional theoretical
 authority. Its current Working Canon Edition remains separate from readiness
 for standalone public distribution.
 
-The compendium is the development basis for a planned second edition of the
-seed book. Publication details will be announced when the edition is ready.
-The second edition is not yet available; the current working selection is not
-its final contents.
+The v10.10.7 Seed is a quick-reference instance; the v10.11.7 Compendium is a
+developing detailed-reference instance. They share the planned title
+*Informational Experiential Realism: The Identity and Structure of Experience*,
+while retaining separate source and publication records. Compendium's proposed
+contents remain under author review; its current working selection is not final.
+The v10.11.7 Pocket Guide is a separate pocket-book quick reference with fourteen
+accepted articles. Contents acceptance does not establish release readiness.
+Publication details will be announced when confirmed.
 
 ## Choosing a Starting Point
 
