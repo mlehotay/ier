@@ -46,7 +46,7 @@ Its contents are not a complete inventory of every development document or of
 the theory's core working scope. Public selection, canonical authority, review
 status, and publication readiness are separate questions.
 
-## Books, Papers, and the Compendium
+## Book and Working Papers
 
 The seed book records the compact first published edition. The working
 papers develop particular arguments for scholarly discussion:
@@ -57,21 +57,6 @@ papers develop particular arguments for scholarly discussion:
 
 Record titles can differ across revisions. A working-paper listing is not a
 claim of peer review or journal publication.
-
-The compendium is a selected collection of canonical articles, summaries,
-and publication framing. It gives readers a book-shaped route through its
-declared sources. Selection and chapter order grant no additional theoretical
-authority. Its current Working Canon Edition remains separate from readiness
-for standalone public distribution.
-
-The v10.10.7 Seed is a quick-reference instance; the v10.11.7 Compendium is a
-developing detailed-reference instance. They share the planned title
-*Informational Experiential Realism: The Identity and Structure of Experience*,
-while retaining separate source and publication records. Compendium's proposed
-contents remain under author review; its current working selection is not final.
-The v10.11.7 Pocket Guide is a separate pocket-book quick reference with fourteen
-accepted articles. Contents acceptance does not establish release readiness.
-Publication details will be announced when confirmed.
 
 ## Choosing a Starting Point
 
@@ -108,10 +93,10 @@ The publisher also links the author's
 [personal site](https://mlehotay.github.io/). These identify the author and help
 readers find the project; they are not additional canonical partitions.
 
-This inventory was assembled on 18 October 2026 from the repository's publication
-records, the linked public pages, and the author's supplied access routes. The
-Amazon and WorldCat links are author-supplied; their live listings and holdings
-were not independently inspected for this guide. Hosted PDFs were not compared
-byte for byte with local builds. Other mirrors, retailers, and library records
-may exist. Update this shared guide when a new edition or distribution route
-is announced.
+This inventory was assembled on 18 October 2026 from the repository's
+publication records, the linked public pages, and the author's supplied access
+routes. The Amazon and WorldCat links are author-supplied; their live listings
+and holdings were not independently inspected for this guide. Hosted PDFs were
+not compared byte for byte with local builds. Other mirrors, retailers, and
+library records may exist. Update this shared guide when a new edition or
+distribution route is announced.

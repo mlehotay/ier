@@ -33,7 +33,7 @@ intuition; it is not a completed physical instantiation. The
 
 ## Project details
 
-IER is an active research project in the v10.11.6 development era. Physical
+IER is an active research project in the v10.11.7 development era. Physical
 instantiation, empirical attribution of experience, qualitative correspondence,
 and the abductive defense of identity remain open research questions.
 
