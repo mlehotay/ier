@@ -213,12 +213,12 @@ In recurrent regulation, present organization shapes physical activity whose
 effects change the conditions of further activity. A functional controller
 description can explain this coupling without an additional executive. Where
 the full relation stack qualifies one continuing UEF, that owned formation of
-its trajectory is [Diachronic Freedom](IER-diachronic-freedom.md).
+its trajectory is *Diachronic Freedom*.
 
 Freedom does not act on the operation as another mechanism. It describes the
 ownership and temporal organization of the same physically occurring activity.
-The [Free Will](IER-free-will.md) micro-adjustment account and
-[Gymnast](IER-gymnast.md) example make its reversible contribution explicit.
+The *Free Will* micro-adjustment account and
+*Gymnast* example make its reversible contribution explicit.
 Choice proper requires the distinct owned foreclosure event under live
 multiplicity; post-collapse incorporation retains its separate conditions.
 

@@ -244,17 +244,17 @@ An ongoing correction does not require an extra chooser to make physical
 regulation effective. Current organization shapes the response to physical
 conditions, and the response changes the conditions of subsequent activity.
 Within a qualifying continuing UEF, owned trajectory formation is part of
-[Diachronic Freedom](IER-diachronic-freedom.md). Freedom describes that activity;
+*Diachronic Freedom*. Freedom describes that activity;
 it does not add a cause behind it.
 
-The [Gymnast](IER-gymnast.md) illustrates the distinction. Adjustments can change
+The *Gymnast* illustrates the distinction. Adjustments can change
 the margins for several landing families while those families remain reachable.
 An owned irreversible loss of live alternatives is the further event of choice
 proper. Ordinary correction, a realized successor, and an irreversible choice
-must therefore be assessed separately. [Free Will](IER-free-will.md) develops
+must therefore be assessed separately. *Free Will* develops
 micro-adjustment without a separate executive.
 
-[Skydiving](IER-skydiving.md) keeps that extended activity distinct from the
+*Skydiving* keeps that extended activity distinct from the
 final landing. Touchdown does not itself establish a fresh foreclosure, and
 it does not exhaust the earlier shaping or later inherited consequence.
 

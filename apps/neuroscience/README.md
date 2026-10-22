@@ -49,6 +49,10 @@ The article uses deep-brain intervention, hydranencephaly, split-brain research,
 
 It distinguishes developmental history effective in current organization from psychological memory and age markers. Plasticity leaves developmental options responsive to context; it establishes neither indeterministic physics nor numerical subject continuity.
 
+### Zolpidem and Complex Sleep Behaviors
+
+[Ambien and Complex Sleep Behaviors](IER-ambien-hypothesis.md) develops a conditional case hypothesis about preserved behavioral coordination, impaired redirection, amnesia, and possible UEF cessation. Its claim traceability table distinguishes admitted IER inference limits from empirical questions that remain open.
+
 ## Files
 
 ```text
@@ -57,7 +61,8 @@ apps/neuroscience/
 ├── neuroscience-primer.md
 ├── IER-four-durations-not-one.md
 ├── IER-deep-brain-localization.md
-└── IER-past-in-the-present.md
+├── IER-past-in-the-present.md
+└── IER-ambien-hypothesis.md
 ```
 
 ## Relationship to IER
