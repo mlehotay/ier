@@ -41,7 +41,7 @@ It does not require declaring the physical computer conscious or non-conscious.
 The earlier retrospective framed cartography mainly as reconstruction of
 persistent organization behind transient computation, aimed eventually at
 neural networks. That is a possible application, but it is not the complete
-current account. [Paper 02, Constraint Cartography](https://github.com/mlehotay/halfbaked/blob/main/pub/articles/paper-02-constraint-cartography.md)
+current account. *Constraint Cartography* (Paper 02)
 develops a model-relative method through slime-mold studies and distinguishes
 three explanatory targets:
 

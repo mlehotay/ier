@@ -6,4 +6,4 @@ Examples offer two ways into Informational Experiential Realism (IER):
 - [Everyday cases](cases/README.md): worked interpretations of play and social encounters, focusing on continuation and differing expectations.
 
 The examples are non-canonical reading aids. For definitions and criteria,
-read the [core theory](../IER/IER-model-overview.md).
+read the [Specification](../IER/IER-specification.md).

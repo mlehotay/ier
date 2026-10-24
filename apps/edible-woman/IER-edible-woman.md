@@ -98,17 +98,17 @@ That is a narrative premise, not an empirical attribution to a physical system.
 Neither a pronoun, a food refusal, a dream nor a depicted act establishes the
 physical organization required by IER's identity proposal.
 
-[Intrinsic Closure](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-intrinsic-closure.md)
+[Intrinsic Closure](../../IER/IER-intrinsic-closure.md)
 requires non-factorization across an exhaustive family of physically meaningful
 partitions, with all local projections drawn from the same outgoing successor
 fibre at an independently declared boundary, grain and interval.
-[Ownership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-ownership.md)
+[Ownership](../../IER/IER-ownership.md)
 then asks where the inseparable burden is internally borne and cannot be
 externalized through an independence-preserving resolver. Social influence,
 delegating a decision and receiving support do not themselves transfer that
 physical ownership.
 
-[Constitutive membership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-processes.md)
+[Constitutive membership](../../IER/IER-processes.md)
 requires contribution, global bearing, joint resolution, diachronic uptake and
 common physical typing over the same interval. Peter, Duncan, food, the camera
 and the cake do not become members of Marian's operation because they influence
@@ -116,7 +116,7 @@ her. Literary participation, recurrent imagery and depicted autonomic activity
 are interpretive descriptions; they do not determine the physical membership
 of any concrete operation.
 
-[Numerical continuity](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-continuity.md)
+[Numerical continuity](../../IER/IER-continuity.md)
 requires continuous owned closure, operational successor production, typed
 physically effective inheritance, operation-mediated change, and a unique
 successor and predecessor between independently individuated stages. Narrative

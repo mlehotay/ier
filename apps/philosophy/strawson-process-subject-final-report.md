@@ -28,13 +28,10 @@ their historical meanings. Their provisional notation and boundary recipes
 are not current theory. Current owners are `IER-intrinsic-closure.md`,
 `IER-processes.md`, `IER-continuity.md`,
 `IER-closure-under-consequence.md`, and `IER-structural-closure.md`.
-The implementation record is
-Phase 8 synthesis review (private provenance: `_work/unification/phases/phase-08-strawson-synthesis-review.md`).
 
 ## Contribution correction — 29 September 2026
 
-The user authorized the corrected framework contribution claim (private provenance: `_work/antecedents/contribution-claim.md`)
-after Phase 9/S5 completion. It supersedes the earlier restriction to the
+The corrected framework contribution claim supersedes the earlier restriction to the
 specification document. The accepted comparison evidence, gate closure and
 remaining empirical/argumentative obligations are retained.
 
@@ -371,8 +368,7 @@ irreversible inheritance, or unique two-sided adjacency.
 
 I2b–I2e remain partial or indeterminate in that dossier. The model does not
 attribute experience to a waterfall or instantiate the entire I2 stack.
-The accepted S2 record (private provenance: `apps/research/investigations/waterfall/s2-integration-and-stop-point.md`)
-retains these limits. Independent qualified investigation and reproduction
+The bounded waterfall result retains these limits. Independent qualified investigation and reproduction
 remain separate work; acceptance of S2 does not reopen or erase its bounds.
 
 ## 7. The positive argument for identity
@@ -507,8 +503,7 @@ The source findings constrain the claim:
 | Cybernetics and autonomy records | Feedback, recurrence, self-maintenance, operational/organizational closure, and self-production are not novel individually |
 | Structural-self literature | Anti-substantival structural selfhood is prior art; selfhood is distinct from the total experiential subject |
 
-The accepted cybernetics handoff (private provenance: `_work/unification/workstream-d/i4-cybernetics-reconciliation-handoff.md`)
-credits possibility restriction, physical control, reciprocal constraint
+The cybernetics comparison credits possibility restriction, physical control, reciprocal constraint
 production, adaptivity, and viability as antecedents or transformations.
 Other uses of “closure” are not automatically IER's same-fibre
 nonfactorization, ownership, membership, or diachronic identity.
@@ -520,17 +515,15 @@ process-subject identity, noncompositional unity and unique two-sided
 continuity. Closure under consequence names this synthesis; a new phrase
 supplies no historical originality claim.
 
-The user accepted the 44-source antecedents final report (private provenance: `_work/antecedents/final-report.md`)
-on 2026-09-29 and closed that project. It records substantial individual and
+The 44-source antecedents synthesis, completed on 2026-09-29, records substantial individual and
 joint precedents, the closest comparisons, false friends, primary-note
 support and residual coverage limits. It establishes no smallest novel
 conjunction or comprehensive first priority. The 32-source Strawson corpus
 remains this report's historical baseline; the 44-source comparison is a
 separate evidence package and overlapping sources are not added together.
 
-Phase 9's summary and S5 disposition (private provenance: `_work/unification/phases/phase-09-summary.md`)
-records completion at the user's direction using the already accepted
-framework contribution claim. The external manuscript's contribution and
+The literature comparison is complete at its stated scope under the framework
+contribution claim. The manuscript's contribution and
 priority passages now apply that boundary. Phase 11 manuscript revision/review is complete at its recorded bounds;
 independent publication preparation remains separately owned. Physical individuation,
 quality correspondence and empirical attribution remain open.

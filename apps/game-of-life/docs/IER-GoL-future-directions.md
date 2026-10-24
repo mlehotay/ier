@@ -21,8 +21,6 @@ The [regional support schema](IER-GoL-support-admissibility.md) also needs an
 independently fixed perturbation neighborhood, coherence/history policy and
 same-support comparison before claiming non-product support.
 
-The development-side project phase-completion plan and task dashboard
-own baseline implementation work.
 The [explanation-completeness proposal](IER-GoL-explanation-completeness-criterion.md)
 remains a later analysis direction, requiring predictive models and proven
 interaction coverage under a fixed geometry and topology.

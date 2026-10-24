@@ -7,8 +7,8 @@ IER is a physicalist theory of experience. Its central claim is:
 The identity proposal is abductive and a posteriori. Coupling, coordination,
 mechanical load-bearing, or persistence alone does not establish qualification.
 
-This public repository contains the core theory, worked examples, and exploratory
-applications.
+This repository contains selected canonical theory articles, worked examples,
+and exploratory applications.
 
 ## Start reading
 
@@ -27,13 +27,13 @@ intuition; it is not a completed physical instantiation. The
 
 - [Where IER lives](MAP.md): theory sources, books, papers, teaching materials,
   purchase and library routes, and the authority of each partition.
-- [Core theory](IER/IER-model-overview.md): the canonical account of IER.
+- [Theory overview](IER/IER-model-overview.md): an entry point to the selected canonical articles.
 - [Examples](examples/README.md): short, non-canonical illustrations.
 - [Applications](apps/README.md): exploratory projects in philosophy, neuroscience, literature, and toy systems.
 
 ## Project details
 
-IER is an active research project in the v10.11.7 development era. Physical
+IER is an active research project. Physical
 instantiation, empirical attribution of experience, qualitative correspondence,
 and the abductive defense of identity remain open research questions.
 
@@ -42,12 +42,3 @@ edition. The text is licensed under [CC BY-NC 4.0](LICENSE); see [NOTICE](NOTICE
 for attribution and licensing details.
 
 For unrelated theories with similar names, see [the disambiguation guide](NAMING.md).
-
-
-## Source review status
-
-The core explanatory review is accepted. Review of the wider public articles,
-examples, and applications proceeds in bounded scopes; complete public alignment
-remains pending. An accepted literature synthesis does not establish empirical
-attribution or accept every application. Application reading routes are available
-for exploration while their remaining source reviews continue.

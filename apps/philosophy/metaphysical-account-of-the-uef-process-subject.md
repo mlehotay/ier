@@ -487,12 +487,7 @@ implemented owners are [Pipeline](../../IER/IER-pipeline.md),
 ultimate intrinsic constitution from physically borne intrinsic closure;
 the external Russellian disagreement does not remove the internal quality burden.
 
-The earlier discovery, ownership-hypothesis and boundary-test records under
-`_work/unification/workstream-a/` remain private historical provenance, not
-current definition owners. The accepted research and contribution records are
-`_work/antecedents/final-report.md` and
-`_work/antecedents/contribution-claim.md`; Phase 9/S5 is recorded in
-`_work/unification/phases/phase-09-summary.md`. These private paths are not
-public evidence links. The [curriculum](IER-philosophy-of-mind-curriculum.md)
-and [annotated bibliography](../../IER/IER-bibliography.md) supply reader-facing
-primary references.
+The [curriculum](IER-philosophy-of-mind-curriculum.md) and
+[annotated bibliography](../../IER/IER-bibliography.md) supply reading routes
+to the primary references. The canonical articles linked above remain the
+definition owners.

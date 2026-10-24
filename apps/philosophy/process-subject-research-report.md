@@ -35,10 +35,7 @@ were finalized and reviewed at Phase 11; journal preparation and independent
 hosted-artifact acceptance remain separately owned. Concrete individuation, attribution, complete
 quality correspondence and abductive identity warrant remain open.
 
-Private provenance: `_work/antecedents/final-report.md`,
-`_work/antecedents/contribution-claim.md` and
-`_work/unification/phases/phase-09-summary.md`. These are repository audit paths,
-not exported public evidence links. The historical body begins below.
+The historical body begins below.
 
 Its short-duration and no-gap shorthand is not the current persistence criterion.
 Strawson’s part/content-sensitive 2003 criterion is the contrast; thin subjects

@@ -29,11 +29,8 @@ terminal dimensions leaves the world alone. The tiny fallback uses a 1x1 world.
 The current policy is a visible-board world: terminal resizing changes world
 dimensions, preserves the top-left overlap and dead-fills new cells. Full
 world/view independence and panning remain deferred. Help/h commands return
-ordinary transient feedback; the user removed the separate help-toggle mode. The
-development-side project task dashboard retains the incomplete phase-exit gate
-(`gol-0025`); this document does not mark it complete. The
-development-side phase-completion plan owns the
-current implementation policy and acceptance criteria.
+ordinary transient feedback; there is no separate help-toggle mode. The
+phase-exit audit remains open; this document does not mark it complete.
 See the [current README](../README.md) for executable usage.
 
 ## Purpose
@@ -580,8 +577,8 @@ Startup `--load` and runtime `load` parse `.cells` files and use shared placemen
 The standalone RLE parser is tested, but loader format selection remains separate
 work. Loading and placement errors are transactional; startup failures occur
 before terminal raw mode. See [loading rules](cells-format.md) and
-[current implementation status](#implementation-status). The development-side
-phase-exit audit remains open; it is not completed by these tests.
+[current implementation status](#implementation-status). The phase-exit audit
+remains open; it is not completed by these tests.
 
 ## Purpose
 

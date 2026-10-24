@@ -44,14 +44,14 @@ Predicate filtering and regional support formed from alternative starting
 configurations are different objects, not evidence that the actual GoL
 successor fibre has changed.
 
-[Intrinsic Closure](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-intrinsic-closure.md)
+[Intrinsic Closure](../../../IER/IER-intrinsic-closure.md)
 requires an independently declared physical candidate, variables, grain,
 interval, interventions and exhaustive meaningful partition family. Even a
 properly typed support failure establishes only the tested synchronic relation.
-[Ownership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-ownership.md),
-[all-five constitutive membership](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-processes.md)
+[Ownership](../../../IER/IER-ownership.md),
+[all-five constitutive membership](../../../IER/IER-processes.md)
 (contribution, global bearing, joint resolution, uptake and common typing), and
-[all-five continuity](https://github.com/mlehotay/halfbaked/blob/main/IER/IER-continuity.md)
+[all-five continuity](../../../IER/IER-continuity.md)
 (continuous owned closure, successor production, typed effective inheritance,
 mediated change and unique successor/predecessor) remain separate burdens.
 These documents establish none of them for a physical computer or organism.

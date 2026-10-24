@@ -41,10 +41,8 @@ The three directories have different purposes:
   non-canonical illustrations, analogies, and cases. They help readers explore
   distinctions; they supply no independent definition or proof of the theory.
 
-The public repository is a selected export of the maintained source project.
-Its contents are not a complete inventory of every development document or of
-the theory's core working scope. Public selection, canonical authority, review
-status, and publication readiness are separate questions.
+These sections serve different purposes. A document's presence here does not
+change its stated authority or establish publication readiness.
 
 ## Book and Working Papers
 
@@ -93,10 +91,5 @@ The publisher also links the author's
 [personal site](https://mlehotay.github.io/). These identify the author and help
 readers find the project; they are not additional canonical partitions.
 
-This inventory was assembled on 18 October 2026 from the repository's
-publication records, the linked public pages, and the author's supplied access
-routes. The Amazon and WorldCat links are author-supplied; their live listings
-and holdings were not independently inspected for this guide. Hosted PDFs were
-not compared byte for byte with local builds. Other mirrors, retailers, and
-library records may exist. Update this shared guide when a new edition or
-distribution route is announced.
+Publication and retailer listings can change. Check the current record for
+availability and cite the edition or revision actually read.

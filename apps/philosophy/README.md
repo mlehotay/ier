@@ -26,6 +26,7 @@ philosophical exposition, read the
 | [Problems of Physicalism](problems-of-physicalism.md) | A neutral inventory of thirty problems, without an IER verdict. |
 | [IER and the Problems of Physicalism](IER-and-problems-of-physicalism.md) | An assessment of IER's commitments, evidence, and remaining objections. |
 | [Final Strawson Research Report](strawson-process-subject-final-report.md) | The accepted synthesis on physical process-subject identity, its precedents, and its limits. |
+| [Strawson's Panpsychism Exchange and IER](strawson-volume-ier-argument-exchange.md) | A concise argument map of the 2006 Strawson volume's positions most relevant to IER. |
 | [Process-Subject Literature Report](process-subject-research-report.md) | The historical preliminary survey; some assessments of IER are superseded. Read its current-use notice first. |
 
 ## Research context
@@ -36,7 +37,5 @@ biology, and accounts of persistence. The reports distinguish those precedents
 from IER's particular formulation and arguments; they do not establish
 historical first priority.
 
-The final report records the accepted synthesis and remaining research
-obligations. Original source findings and dated comparisons remain historical
-evidence. Public references are included in the reports; detailed source
-ledgers, notes, and decision records remain in the private development workspace.
+The final report records the synthesis and remaining research obligations.
+The linked reports provide their sources and state the limits of their conclusions.

@@ -23,9 +23,8 @@ own the adopted structural relations. [Reality](../../IER/IER-reality.md),
 supply the bounded explanatory distinctions used below.
 
 The evidence baseline is the [current final research synthesis](strawson-process-subject-final-report.md)
-and accepted 44-source antecedents review. The full source audit is private
-provenance under `_work/antecedents/`; its corpus is bounded and its count overlaps
-with earlier research packages. Phase 9/S5 closed literature comparison and
+and a bounded 44-source antecedents review whose count overlaps with earlier
+research packages. Phase 9/S5 closed literature comparison and
 contribution wording, not independent physical attribution or publication readiness.
 
 Response types are **commitment**, **rejected presupposition**, **specified

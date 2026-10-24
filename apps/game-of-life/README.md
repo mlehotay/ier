@@ -54,12 +54,6 @@ apps/game-of-life/gol --help
 apps/game-of-life/gol --seed 42 --delay 100 --bounded
 ```
 
-## Project Workflow
-
-Implementation plans, dashboards, and agent instructions are maintained in the
-upstream development repository and are excluded from this public projection.
-Use `make` to build and `make test` to verify the exported simulator.
-
 ## Tests
 
 Run `make test` inside this directory for the non-interactive world, UI, integration,
