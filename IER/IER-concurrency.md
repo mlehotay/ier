@@ -36,15 +36,15 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Elaboration · Non-Normative · Canon-Constrained*
 
-## Abstract
-
-Several contents and participating structures can coexist and jointly bind within a qualifying UEF. Binding concerns a removal counterfactual, whereas ownership concerns the whole operation and membership has its full bilateral conditions. Co-presence neither requires an extra inner scheduler nor forbids physical parallel processing, internal conflict or independently qualifying nested operations. Examples of shallow imagery or background sensation are conditional descriptions, not universal non-binding classifications.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-This article explains co-presence within an independently qualifying operation. It adds no scheduling mechanism, participation capacity law or diagnostic of subjecthood. [Ownership](IER-ownership.md), [Processes](IER-processes.md), *Binding* (`IER-binding.md`) and *Attention* (`IER-attention.md`) retain their separate definitions.
+This article explains co-presence within an independently qualifying operation. It adds no scheduling mechanism, participation capacity law or diagnostic of subjecthood. [Ownership](IER-ownership.md), [Processes](IER-processes.md), *Binding* (*IER-binding*) and *Attention* (*IER-attention*) retain their separate definitions.
+
+## Abstract
+
+Several contents and participating structures can coexist and jointly bind within a qualifying UEF. Binding concerns a removal counterfactual, whereas ownership concerns the whole operation and membership has its full bilateral conditions. Co-presence neither requires an extra inner scheduler nor forbids physical parallel processing, internal conflict or independently qualifying nested operations. Examples of shallow imagery or background sensation are conditional descriptions, not universal non-binding classifications.
 
 ## Why “Multiple Streams” Needs Reconstruction
 
@@ -73,7 +73,7 @@ Content labels decide none of these questions. Non-binding participation is not 
 
 ## Gating and the “Firewall” Metaphor
 
-*Gating* (`IER-attention.md`) describes recruitment limitation or stabilization where that organization is physically established. A “firewall” can illustrate a difference between currently droppable and frontier-relevant organization. It is not a new universal mechanism, one anatomical barrier or a prohibition on internal partitions.
+*Gating* (*IER-attention*) describes recruitment limitation or stabilization where that organization is physically established. A “firewall” can illustrate a difference between currently droppable and frontier-relevant organization. It is not a new universal mechanism, one anatomical barrier or a prohibition on internal partitions.
 
 Droppability can differ among structures and change over time. Physical scope and actual recruitment must be described rather than inferred from a software analogy.
 

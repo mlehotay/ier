@@ -34,15 +34,15 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Elaboration · Explanatory · Non-Normative*
 
-## Abstract
-
-Representation in this structural account is transformation preserving selected organizational relations under a declared source, target, mapping and task. Preservation is selective and assessed independently of mere recognition; a false depiction can represent without accurately preserving its target. Physical traces and reconstruction can make organization available across media without containing earlier experience or establishing UEF identity, truth or language-independent internal structure.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-This article develops a structural account of representation without adding semantic substances or an inner interpreter. It does not forbid physically instantiated symbolic storage, copying, comparison or search. *Cognition* (`IER-cognition.md`), *Ideas* (`IER-ideas.md`), *Trajectory* (`IER-trajectory.md`) and [Nonentailment](IER-nonentailment.md) retain their respective scopes.
+This article develops a structural account of representation without adding semantic substances or an inner interpreter. It does not forbid physically instantiated symbolic storage, copying, comparison or search. *Cognition* (*IER-cognition*), *Ideas* (*IER-ideas*), *Trajectory* (*IER-trajectory*) and [Nonentailment](IER-nonentailment.md) retain their respective scopes.
+
+## Abstract
+
+Representation in this structural account is transformation preserving selected organizational relations under a declared source, target, mapping and task. Preservation is selective and assessed independently of mere recognition; a false depiction can represent without accurately preserving its target. Physical traces and reconstruction can make organization available across media without containing earlier experience or establishing UEF identity, truth or language-independent internal structure.
 
 ## The Representation Problem
 

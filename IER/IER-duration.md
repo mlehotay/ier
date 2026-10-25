@@ -38,15 +38,15 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Elaboration · Explanatory · Non-Normative*
 
-## Abstract
-
-This article proposes that the organization and cognitive registration of consequential deformation can contribute to experienced duration. Immediate organization and retrospective reconstruction may differ. Collapse count, activity and switching alone supply no duration law; physical timing mechanisms and records are permitted without storing past experience. Examples of boredom, novelty, crisis and flow remain conditional comparisons, with quantitative and qualitative mapping unresolved.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-*Time* (`IER-time.md`) and [Continuity](IER-continuity.md) govern physical temporal relations. This article develops a possible phenomenological explanation, rather than a proven constitutive definition of felt duration or a ban on physical timing mechanisms. It adds no threshold, internal time substance or diagnostic.
+*Time* (*IER-time*) and [Continuity](IER-continuity.md) govern physical temporal relations. This article develops a possible phenomenological explanation, rather than a proven constitutive definition of felt duration or a ban on physical timing mechanisms. It adds no threshold, internal time substance or diagnostic.
+
+## Abstract
+
+This article proposes that the organization and cognitive registration of consequential deformation can contribute to experienced duration. Immediate organization and retrospective reconstruction may differ. Collapse count, activity and switching alone supply no duration law; physical timing mechanisms and records are permitted without storing past experience. Examples of boredom, novelty, crisis and flow remain conditional comparisons, with quantitative and qualitative mapping unresolved.
 
 ## Orientation — The Variability of Duration
 

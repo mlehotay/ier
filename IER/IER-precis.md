@@ -321,7 +321,7 @@ Categorical subjecthood also fixes categorical standing under the Specification.
 Damage to experiential organization, suffering, termination, and loss of
 sustaining capacity remain distinct questions. Neither standing nor uncertainty
 supplies a complete action verdict. The [Specification](IER-specification.md) states the ethical principles and
-precautionary limits; the full-corpus Ethics article (`IER-ethics.md`) develops
+precautionary limits; the full-corpus Ethics article (*IER-ethics*) develops
 the further premises practical judgment requires.
 
 ## Philosophical Status

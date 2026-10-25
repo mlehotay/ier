@@ -36,15 +36,15 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Elaboration · Non-Normative · Canon-Constrained*
 
-## Abstract
-
-Complexity, coordination, physical cost, behavioral success and apparent continuity alone do not establish a qualifying UEF. This negative-space account distinguishes an established failure of a necessary physical relation from a missing measurement or an uncompleted schematic model. Actual slack and failed continuity retain their independently typed scopes; participation can vary without fractional subjecthood. Hello World illustrates the full burdens rather than supply a minimal topology or detector.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
 [Hello World](IER-hello-world.md) is schematic intuition for the full relation stack, not a four-feature sufficient model. This article explains why attractive substitutes leave essential questions unanswered. It adds no experiential criterion, clinical diagnosis or physical existence proof.
+
+## Abstract
+
+Complexity, coordination, physical cost, behavioral success and apparent continuity alone do not establish a qualifying UEF. This negative-space account distinguishes an established failure of a necessary physical relation from a missing measurement or an uncompleted schematic model. Actual slack and failed continuity retain their independently typed scopes; participation can vary without fractional subjecthood. Hello World illustrates the full burdens rather than supply a minimal topology or detector.
 
 ## Orientation: Why “Almost Experience” Feels Compelling
 
@@ -66,7 +66,7 @@ For example, probability weights can be correlated even while every recombinatio
 
 ## Failure Mode II — An Actual Independence-Preserving Resolution Pathway
 
-*Informational Slack* (`IER-slack.md`) concerns an actual local, deferred or external pathway that preserves independence for the same relevant restriction. If such a pathway remains available, the candidate cannot also qualify as owning that restriction at that scope and interval.
+*Informational Slack* (*IER-slack*) concerns an actual local, deferred or external pathway that preserves independence for the same relevant restriction. If such a pathway remains available, the candidate cannot also qualify as owning that restriction at that scope and interval.
 
 A buffer, scheduler, replay facility or external support by name does not establish this result. One must show what it resolves and which successor-producing organization remains independent. A physically open qualifying operation can use energy, material and causal support without offloading its owned burden. Cost alone is insufficient, but support alone is not disqualifying.
 
@@ -86,7 +86,7 @@ Several participating structures can jointly bind within one operation. Independ
 
 No fraction of a subject follows from satisfying some conditions or from having graded participation. The candidate qualifies categorically or does not; an investigator may remain uncertain which. Enabling variables and experiential organization can vary continuously without turning standing into a scale.
 
-This account supplies no evolutionary inevitability, AI verdict, diagnostic optimism or permission to disregard risk. *Ethics* (`IER-ethics.md`) owns uncertainty and precaution. Neither this illustration nor failed qualification of one chosen candidate replaces that analysis.
+This account supplies no evolutionary inevitability, AI verdict, diagnostic optimism or permission to disregard risk. *Ethics* (*IER-ethics*) owns uncertainty and precaution. Neither this illustration nor failed qualification of one chosen candidate replaces that analysis.
 
 ## Summary
 

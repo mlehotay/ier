@@ -37,17 +37,17 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Comparative Projection · Non-Normative*
 
-## Abstract
-
-This article distinguishes McLuhan's claims about media from an IER reconstruction through selected preservation, reconstruction demands, participation and repeated coordination. Channel properties can condition those roles under specified tasks and implementations, but no automatic chain from medium to social structure follows. Hot/cool terminology, coupling and institutional effects retain separate comparisons. Media can physically shape continuation without certifying truth, collective experience or a universal causal primacy over content.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
 The target is selected arguments in Marshall McLuhan's *Understanding Media: The Extensions of Man* (1964), especially chapters 1 and 2 and the introduction's electronic interdependence discussion. This is a bounded reconstruction, not an endorsement of technological determinism or a complete history of media.
 
-[Representation](IER-representation.md), *Attention* (`IER-attention.md`), *Behaviour Layer* (`IER-behaviour-layer.md`), [Social Systems](IER-social-systems.md) and [Continuity](IER-continuity.md) retain their respective meanings. The comparisons introduce no collective experiencer, new semantic substance or quantitative media law.
+[Representation](IER-representation.md), *Attention* (*IER-attention*), *Behaviour Layer* (*IER-behaviour-layer*), [Social Systems](IER-social-systems.md) and [Continuity](IER-continuity.md) retain their respective meanings. The comparisons introduce no collective experiencer, new semantic substance or quantitative media law.
+
+## Abstract
+
+This article distinguishes McLuhan's claims about media from an IER reconstruction through selected preservation, reconstruction demands, participation and repeated coordination. Channel properties can condition those roles under specified tasks and implementations, but no automatic chain from medium to social structure follows. Hot/cool terminology, coupling and institutional effects retain separate comparisons. Media can physically shape continuation without certifying truth, collective experience or a universal causal primacy over content.
 
 ## Source Claims and Interpretive Departure
 

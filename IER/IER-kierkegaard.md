@@ -38,17 +38,17 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Comparative Projection · Non-Normative*
 
-## Abstract
-
-This article reconstructs selected questions from The Sickness unto Death while preserving their theological source context. Existential self-relation is distinguished from IER's numerical token identity. Narrative organization, significance, participation and practical opportunities provide conditional intermediate premises for understanding alienation within a continuing subject. Felt impossibility does not establish physical foreclosure, and reflective awareness does not guarantee recovery. The reconstruction is an interpretive proposal, not an equivalence, clinical theory or identity proof.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-This is an IER reconstruction of selected passages, not a complete interpretation of Kierkegaard. [Specification](IER-specification.md), [Continuity](IER-continuity.md), *Narrative Self* (`IER-narrative-self.md`), *Meaning* (`IER-meaning.md`) and *Cognition* (`IER-cognition.md`) retain their respective authority. Neither a historical philosopher nor a successful analogy supplies a new physical criterion.
+This is an IER reconstruction of selected passages, not a complete interpretation of Kierkegaard. [Specification](IER-specification.md), [Continuity](IER-continuity.md), *Narrative Self* (*IER-narrative-self*), *Meaning* (*IER-meaning*) and *Cognition* (*IER-cognition*) retain their respective authority. Neither a historical philosopher nor a successful analogy supplies a new physical criterion.
 
 The article adds no theological commitment, destiny, therapeutic standard or prescription for authentic living. Its task is to identify what a secular structural reconstruction can preserve and what it changes.
+
+## Abstract
+
+This article reconstructs selected questions from The Sickness unto Death while preserving their theological source context. Existential self-relation is distinguished from IER's numerical token identity. Narrative organization, significance, participation and practical opportunities provide conditional intermediate premises for understanding alienation within a continuing subject. Felt impossibility does not establish physical foreclosure, and reflective awareness does not guarantee recovery. The reconstruction is an interpretive proposal, not an equivalence, clinical theory or identity proof.
 
 ## Source and Attribution Boundary
 
@@ -80,7 +80,7 @@ Assume an independently qualifying UEF continues under the full stage relation. 
 
 Now suppose the relation between those projects and current circumstances changes. Some projects can cease to recruit meaningful participation, become costly to sustain or be represented as unavailable. The subject can continue numerically while its existential orientation changes substantially. Existential alienation may therefore coexist with preserved numerical token continuity.
 
-The intermediate premises matter: qualifying operation, current narrative reproduction, significance, actual participation and a stated relation to practical opportunities. Bare words such as “sedimentation” or “future geometry” supply none of them by themselves. *Bias* (`IER-bias.md`), *Affordances* (`IER-affordances.md`) and *Interpretation* (`IER-interpretation.md`) explain the relevant roles.
+The intermediate premises matter: qualifying operation, current narrative reproduction, significance, actual participation and a stated relation to practical opportunities. Bare words such as “sedimentation” or “future geometry” supply none of them by themselves. *Bias* (*IER-bias*), *Affordances* (*IER-affordances*) and *Interpretation* (*IER-interpretation*) explain the relevant roles.
 
 ## Possibility, Necessity and Two Different Difficulties
 

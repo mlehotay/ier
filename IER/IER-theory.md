@@ -37,10 +37,6 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *Tier 1 - Foundational - Non-Normative - Canon-Constrained*
 
-## Abstract
-
-Theory integrates the Specification’s identity proposal with independently typed physical operation, closure, ownership, bilateral membership and full produced-and-inherited continuity. Lawful successor realization is not automatically foreclosure, and architectural labels are not independently justified slack pathways. Numerical identity is neither a selected trajectory nor generic coherence; nested qualification does not sum subjects. The identity warrant remains abductive and a posteriori, distinct from the relation schema and concrete attribution.
-
 ## Status, Scope, and Authority
 
 
@@ -66,6 +62,10 @@ If any statement in this document conflicts with the specification, the specific
 All informational language in this document is descriptive shorthand for physically instantiated state distinctions modulating a system’s own future dynamics under intrinsic constraint, as defined in specification ([*Physical Information*](IER-specification.md#physical-information-derived)). No informational primitives are introduced.
 
 Where the term *observer* appears, it functions only as a non-normative modeling convenience and carries no experiential, epistemic, or ethical authority under IER.
+
+## Abstract
+
+Theory integrates the Specification’s identity proposal with independently typed physical operation, closure, ownership, bilateral membership and full produced-and-inherited continuity. Lawful successor realization is not automatically foreclosure, and architectural labels are not independently justified slack pathways. Numerical identity is neither a selected trajectory nor generic coherence; nested qualification does not sum subjects. The identity warrant remains abductive and a posteriori, distinct from the relation schema and concrete attribution.
 
 ## Role of Theory in IER
 

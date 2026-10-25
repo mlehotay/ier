@@ -293,7 +293,7 @@ The rabbit, cow, chick, carrot, and mould scenes can be read as a progressive br
 
 IER empathy does not provide access to another system's experience. Marian does not enter the rabbit, cow, chick, carrot, or mould. Her experience remains locally instantiated. What reorganizes is her own situation through a reproduced topology of vulnerability.
 
-This distinction becomes especially important when the sequence reaches plants and mould. Marian's identification does not establish that everything biologically alive is a Unified Experiential Field. IER contains no license to infer experiential status from behaviour, appearance, biological classification, or empathic force. Biological life, represented vulnerability, established experience, and categorical standing are not interchangeable.
+This distinction becomes especially important when the sequence reaches plants and mould. Marian's identification does not establish that everything biologically alive is a Unified Experiential Field. IER contains no licence to infer experiential status from behaviour, appearance, biological classification, or empathic force. Biological life, represented vulnerability, established experience, and categorical standing are not interchangeable.
 
 The literary sequence is powerful precisely because Marian's local organization does not respect those distinctions. “Living” becomes sufficient to recruit the entire ethical and behavioural pattern. The breadth of identification explains the refusal's phenomenology; it does not certify its ontology.
 

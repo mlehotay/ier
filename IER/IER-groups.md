@@ -36,15 +36,15 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Case · Non-Normative · Canon-Constrained*
 
-## Abstract
-
-Role- and norm-mediated group coordination does not by itself establish collective experience. Group-level descriptions, shared goals, mutual accommodation and personal vulnerability can coexist without merging subjects. A collective candidate needs independently justified closure, ownership, constitutive membership and produced-and-inherited continuity; actual independence-preserving slack excludes it at the same scope. Parasocial representation, organizational breakdown and moral significance retain their separate inference limits.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-This article examines coordination regimes, rather than assert an empirical survey of every group. *Relationships* (`IER-relationships.md`) owns relational descriptions; [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md) own physical qualification. Group labels add no subject criterion or ethical prescription.
+This article examines coordination regimes, rather than assert an empirical survey of every group. *Relationships* (*IER-relationships*) owns relational descriptions; [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md) own physical qualification. Group labels add no subject criterion or ethical prescription.
+
+## Abstract
+
+Role- and norm-mediated group coordination does not by itself establish collective experience. Group-level descriptions, shared goals, mutual accommodation and personal vulnerability can coexist without merging subjects. A collective candidate needs independently justified closure, ownership, constitutive membership and produced-and-inherited continuity; actual independence-preserving slack excludes it at the same scope. Parasocial representation, organizational breakdown and moral significance retain their separate inference limits.
 
 ## Regime Identification
 
@@ -74,7 +74,7 @@ This is a conditional comparison, not a diagnosis or a rule placing every mediat
 
 Misaligned roles, excessive demands and constrained exit can damage coordination and can harm qualifying participants where the ethical conditions are established. Organizational breakdown does not by itself prove UEF collapse, nor does continuing institutional function establish participants' safety.
 
-*Ethics* (`IER-ethics.md`) and *Responsibility* (`IER-responsibility.md`) retain their normative premises. Lack of demonstrated collective experience does not erase legal accountability, moral wrongs or the effects of organizational action. Standing is not summed upward from members or discounted through an efficiency description.
+*Ethics* (*IER-ethics*) and *Responsibility* (*IER-responsibility*) retain their normative premises. Lack of demonstrated collective experience does not erase legal accountability, moral wrongs or the effects of organizational action. Standing is not summed upward from members or discounted through an efficiency description.
 
 ## Neighboring Regimes and Summary
 

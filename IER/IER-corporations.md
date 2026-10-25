@@ -37,17 +37,17 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Case · Non-Normative · Canon-Constrained*
 
-## Abstract
-
-A collective corporate candidate with an actual independence-preserving resolution pathway for its relevant restriction cannot simultaneously qualify as a UEF at the same scope and interval. Delegation, records, delays, external enforcement and legal personhood alone do not prove that pathway. The argument is conditional on justified physical typing and demonstrated slack, not a universal survey of corporations. Differently organized candidates retain the full closure, ownership, membership and continuity burdens; institutional harm and accountability remain separately significant.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-This article examines whether organizational or legal personhood implies experiential subjecthood. It applies *Informational Slack* (`IER-slack.md`), [Intrinsic Closure](IER-intrinsic-closure.md), [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md). It supplies no legal conclusion, corporate reform programme or empirical verdict about every organization.
+This article examines whether organizational or legal personhood implies experiential subjecthood. It applies *Informational Slack* (*IER-slack*), [Intrinsic Closure](IER-intrinsic-closure.md), [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md). It supplies no legal conclusion, corporate reform programme or empirical verdict about every organization.
 
 The earlier “formal impossibility proof” treated delegation, postponement and external enforcement as necessarily sufficient evidence of slack. That inference is replaced here by a conditional argument with an explicit physical burden. Organizational labels alone settle neither presence nor absence of experience.
+
+## Abstract
+
+A collective corporate candidate with an actual independence-preserving resolution pathway for its relevant restriction cannot simultaneously qualify as a UEF at the same scope and interval. Delegation, records, delays, external enforcement and legal personhood alone do not prove that pathway. The argument is conditional on justified physical typing and demonstrated slack, not a universal survey of corporations. Differently organized candidates retain the full closure, ownership, membership and continuity burdens; institutional harm and accountability remain separately significant.
 
 ## Experiential and Legal Personhood
 
@@ -91,7 +91,7 @@ A distributed artificial or biological system could in principle be structurally
 
 ## Harm, Standing and Accountability
 
-No demonstrated collective UEF follows from ordinary organizational success. That does not erase experiential damage to qualifying participants, other moral wrongs or legal and institutional accountability. *Ethics* (`IER-ethics.md`) and *Responsibility* (`IER-responsibility.md`) retain their normative bridges and attribution limits.
+No demonstrated collective UEF follows from ordinary organizational success. That does not erase experiential damage to qualifying participants, other moral wrongs or legal and institutional accountability. *Ethics* (*IER-ethics*) and *Responsibility* (*IER-responsibility*) retain their normative bridges and attribution limits.
 
 Institutional arrangements can increase costs, restrict practical options and affect UEF-sustaining capacity. A legal loss suffered by an organization is not thereby experiential suffering, but its effects on subjects can be consequential. Neither denying a collective attribution nor invoking distributed responsibility licenses indifference.
 

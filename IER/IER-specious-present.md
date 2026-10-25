@@ -35,17 +35,17 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Case · Explanatory · Non-Normative*
 
-## Abstract
-
-The canonical specious present is a nonzero-duration coherence window required for qualifying UEF operation. This article separately proposes that current co-determining organization can contribute to the appearance of a thick present. Locally reversible integration envelopes, salience, inherited history and ongoing succession have distinct roles; a local collapse need not end all present coherence. Felt thickness supplies neither a measured UEF threshold nor a proof of token continuity.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
 [Continuity](IER-continuity.md) fixes the canonical specious-present meaning. It concerns physically coherent operation across nonzero duration, without assigning a universal measured minimum. This article's phenomenological proposal is additional explanatory work, rather than a replacement definition.
 
-*Time* (`IER-time.md`) describes operation-relative temporal asymmetry. Clock-indexed physical description and physically implemented buffering or timing are permitted. They are not a container holding earlier experience or a sufficient subject criterion.
+*Time* (*IER-time*) describes operation-relative temporal asymmetry. Clock-indexed physical description and physically implemented buffering or timing are permitted. They are not a container holding earlier experience or a sufficient subject criterion.
+
+## Abstract
+
+The canonical specious present is a nonzero-duration coherence window required for qualifying UEF operation. This article separately proposes that current co-determining organization can contribute to the appearance of a thick present. Locally reversible integration envelopes, salience, inherited history and ongoing succession have distinct roles; a local collapse need not end all present coherence. Felt thickness supplies neither a measured UEF threshold nor a proof of token continuity.
 
 ## Orientation — Why the Present Seems Thick
 
@@ -61,15 +61,15 @@ Second, this article proposes that actively co-determining organization may cont
 
 ## Reversible Co-Determination and Integration Envelopes
 
-*Integration Envelopes* (`IER-integration-envelopes.md`) describes recoverability of a locally reversible organization before its relaxation or foreclosure. Current participation, binding, soft bonding and curvature can sustain related structure while the relevant alternatives remain reachable.
+*Integration Envelopes* (*IER-integration-envelopes*) describes recoverability of a locally reversible organization before its relaxation or foreclosure. Current participation, binding, soft bonding and curvature can sustain related structure while the relevant alternatives remain reachable.
 
-An earlier syllable can still condition the organization of a word without an earlier experience being replayed. A current record or buffer can physically support that organization, but neither its presence nor its absence establishes qualifying operation. *Memory* (`IER-memory.md`) concerns present episodic re-entry; effective history is broader than recall.
+An earlier syllable can still condition the organization of a word without an earlier experience being replayed. A current record or buffer can physically support that organization, but neither its presence nor its absence establishes qualifying operation. *Memory* (*IER-memory*) concerns present episodic re-entry; effective history is broader than recall.
 
 Envelope loss concerns the specified recoverable organization. It does not prove that every causal effect elsewhere has vanished, that all memory is impossible, or that the UEF token ended.
 
 ## Salience and Joint Recruitment
 
-*Salience* (`IER-salience.md`) describes graded recruitment organization. Stronger recruitment may help related elements remain jointly consequential, or may disrupt their organization. Neither direction is a universal law of felt thickness.
+*Salience* (*IER-salience*) describes graded recruitment organization. Stronger recruitment may help related elements remain jointly consequential, or may disrupt their organization. Neither direction is a universal law of felt thickness.
 
 A melody example makes the comparison concrete. Suppose earlier-note effects remain physically effective while current notes recruit one organized phrase. That supports a co-determination description. If attention changes and the phrase organization disperses, that local organization may cease to be recoverable even though records and other historical effects remain. The listener's numerical identity must be assessed separately.
 

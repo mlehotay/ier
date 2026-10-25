@@ -39,15 +39,15 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Elaboration · Translational · Non-Normative*
 
-## Abstract
-
-Folk expressions can motivate approximate reconstructions of participation, bias, affordances and continuing organization. Their labels do not identify mechanisms, physical admissibility, collapse or subjecthood. Reproduced content is distinct from reachable continuation, several demands can jointly bind, and physical representation or comparison is permitted without an inner chooser. The public-speaking example contrasts reversible change with independently established foreclosure rather than assume a compulsory collapse sequence.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-This article develops a translation proposal, not an empirical dictionary or diagnostic. [Participation](IER-participation.md), *Bias* (`IER-bias.md`), *Cognition* (`IER-cognition.md`), *Binding* (`IER-binding.md`) and [Continuity](IER-continuity.md) own the underlying relations. Ordinary phrases are not sufficient physical descriptions, and the same phrase can motivate different reconstructions in different settings.
+This article develops a translation proposal, not an empirical dictionary or diagnostic. [Participation](IER-participation.md), *Bias* (*IER-bias*), *Cognition* (*IER-cognition*), *Binding* (*IER-binding*) and [Continuity](IER-continuity.md) own the underlying relations. Ordinary phrases are not sufficient physical descriptions, and the same phrase can motivate different reconstructions in different settings.
+
+## Abstract
+
+Folk expressions can motivate approximate reconstructions of participation, bias, affordances and continuing organization. Their labels do not identify mechanisms, physical admissibility, collapse or subjecthood. Reproduced content is distinct from reachable continuation, several demands can jointly bind, and physical representation or comparison is permitted without an inner chooser. The public-speaking example contrasts reversible change with independently established foreclosure rather than assume a compulsory collapse sequence.
 
 ## Orientation and Translation Principle
 
@@ -95,7 +95,7 @@ Reflection, evidence or practice can change orientation reversibly. Learning nee
 
 Heart and gut expressions can concern real bodily participation. The metaphor alone establishes neither a causal location, a separate organ subject nor the absence of one independently qualifying at another scope. Independent evidence remains necessary for specific biological or qualitative mappings.
 
-Likewise, “this feels right” can matter organizationally without being a truth certificate. An assertion may still be accurate for reasons established separately. *Truth* (`IER-truth.md`) and *Knowledge* (`IER-knowledge.md`) preserve that distinction.
+Likewise, “this feels right” can matter organizationally without being a truth certificate. An assertion may still be accurate for reasons established separately. *Truth* (*IER-truth*) and *Knowledge* (*IER-knowledge*) preserve that distinction.
 
 ## Worked Example — Public Speaking
 

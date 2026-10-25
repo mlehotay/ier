@@ -5,6 +5,12 @@
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Reading Support · Non-Normative · Non-Criterial*
 
+## Status, Scope, and Authority
+
+This non-normative, non-criterial reading guide introduces no theory or criteria. The
+[Specification](IER-specification.md) governs IER's normative commitments;
+canonical definition owners govern their physical relations.
+
 ## Purpose and Use
 
 This guide is for readers entering IER or philosophy of mind. Follow the short
@@ -27,7 +33,7 @@ to enter by argument, precedent or objection.
 
 ## The Short Reading Route
 
-### 1. Meet the Proposal in IER's Own Words
+### Meet the Proposal in IER's Own Words
 
 Begin with the [Quick Start](https://github.com/mlehotay/ier/blob/main/IER/IER-quick-start.md), then the [Précis](https://github.com/mlehotay/ier/blob/main/IER/IER-precis.md).
 Use the [Specification](https://github.com/mlehotay/ier/blob/main/IER/IER-specification.md) to check the identity commitment,
@@ -46,27 +52,27 @@ Neither example establishes experience. Hello World is another schematic
 illustration with explicit current-use limits, rather than a completed physical
 instantiation of the theory.
 
-### 2. Understand What an Identity Claim Says
+### Understand What an Identity Claim Says
 
 Read U. T. Place, “Is Consciousness a Brain Process?” (1956), *British Journal
-of Psychology* 47(1), 44–50. [DOI](https://doi.org/10.1111/j.2044-8295.1956.tb00560.x).
+of Psychology* 47(1), 44-50. [DOI](https://doi.org/10.1111/j.2044-8295.1956.tb00560.x).
 Read for the difference between identifying two descriptions of one occurrence
 and merely discovering a correlation. This prepares you to ask which occurrence
 IER proposes, rather than assume that physicalism already supplies the answer.
 
 Then read J. J. C. Smart, “Sensations and Brain Processes” (1959), *The
-Philosophical Review* 68(2), 141–156. [DOI](https://doi.org/10.2307/2182164).
+Philosophical Review* 68(2), 141-156. [DOI](https://doi.org/10.2307/2182164).
 Notice why two descriptions can differ in meaning without referring to two
 things. That possibility does not establish that a particular pair actually
 co-refers. If the debate is unfamiliar, consult the
 [SEP identity-theory entry](https://plato.stanford.edu/entries/mind-identity/)
 before these articles.
 
-### 3. Move from a Conscious State to Its Subject
+### Move from a Conscious State to Its Subject
 
 Read Galen Strawson, “What Is the Relation Between an Experience, the Subject
 of the Experience, and the Content of the Experience?” (2003), *Philosophical
-Issues* 13, 279–315. [DOI](https://doi.org/10.1111/1533-6077.00015).
+Issues* 13, 279-315. [DOI](https://doi.org/10.1111/1533-6077.00015).
 The central lesson is that the subject need not be an additional owner receiving
 experience: subject, experience and physical process may be one occurrence.
 This is a direct precedent for the form of IER's proposal. The important
@@ -79,15 +85,15 @@ Consult Bayne and Chalmers, “What Is the Unity of Consciousness?” (2003),
 separate unity of experience from coordination or integration. The next step
 asks how one subject could continue while its constituents change.
 
-### 4. Understand Continuity through Change
+### Understand Continuity through Change
 
 Start with Thomas Pradeu, “Genidentity and Biological Processes” (2018), in
-*Everything Flows*, 96–112. [DOI](https://doi.org/10.1093/oso/9780198779636.003.0005).
+*Everything Flows*, 96-112. [DOI](https://doi.org/10.1093/oso/9780198779636.003.0005).
 *Genidentity* concerns identity through a history of transformations. Use it to
 see why replacing matter need not automatically replace a process.
 
 James DiFrisco, “Biological Processes: Criteria of Identity and Persistence”
-(2018), in *Everything Flows*, 76–95,
+(2018), in *Everything Flows*, 76-95,
 [DOI](https://doi.org/10.1093/oso/9780198779636.003.0004), is a useful next reading
 for separating identification at one stage from persistence between stages.
 Return to [IER Continuity](https://github.com/mlehotay/ier/blob/main/IER/IER-continuity.md): its produced-and-inherited
@@ -96,11 +102,11 @@ in both directions. Recurrence, memory and retained capacity alone do not
 establish that relation. Biological or personal continuity can answer different
 questions from numerical identity of an experiential subject.
 
-### 5. See What Organization and History Contribute
+### See What Organization and History Contribute
 
 Read the constraint-dependence and closure definitions, then the openness and
 changing-organization discussion in Montévil and Mossio, “Biological Organisation
-as Closure of Constraints” (2015), *Journal of Theoretical Biology* 372, 179–191.
+as Closure of Constraints” (2015), *Journal of Theoretical Biology* 372, 179-191.
 [DOI](https://doi.org/10.1016/j.jtbi.2015.02.029).
 The reviewed copy was a 2016 author manuscript with different pagination;
 published-edition equivalence was not independently audited. Select by section
@@ -116,10 +122,10 @@ Its productive transitions and fission/fusion cases clarify what effective
 history can do. The reviewed copy was the 2019 manuscript; published-edition
 equivalence was not verified. Neither source supplies IER's complete subject rule.
 
-### 6. Keep the Identity Burden Open
+### Keep the Identity Burden Open
 
 Read Joseph Levine, “Materialism and Qualia: The Explanatory Gap” (1983),
-*Pacific Philosophical Quarterly* 64, 354–361.
+*Pacific Philosophical Quarterly* 64, 354-361.
 [DOI](https://doi.org/10.1111/j.1468-0114.1983.tb00207.x).
 A physical candidate can be precisely described while a question remains about
 why to identify it with experience. *Qualitative character* means what an
@@ -127,13 +133,13 @@ experience is like; a structural description is not automatically a complete
 account of particular qualities.
 
 Chalmers, “Facing Up to the Problem of Consciousness” (1995), *Journal of
-Consciousness Studies* 2(3), 200–219,
+Consciousness Studies* 2(3), 200-219,
 [author text](https://consc.net/papers/facing.html), develops a related challenge.
 Read it after Levine if you want the broader dispute. IER's proposal remains
 abductive and a posteriori: supported, if successful, by defeasible explanatory
 fit and evidence rather than a definition proving its own application.
 
-### 7. Compare One Alternative Carefully
+### Compare One Alternative Carefully
 
 Read the introductory aims and the axioms/postulates relationship in
 Albantakis et al., “Integrated Information Theory (IIT) 4.0: Formulating the
@@ -146,12 +152,12 @@ support are different objects; IIT composition need not mean summing conscious
 microsubjects. This is a versioned comparison, not a ranking or a verdict on all IIT.
 
 For a wider map after this example, consult Seth and Bayne, “Theories of
-Consciousness” (2022), *Nature Reviews Neuroscience* 23, 439–452.
+Consciousness” (2022), *Nature Reviews Neuroscience* 23, 439-452.
 [DOI](https://doi.org/10.1038/s41583-022-00587-4).
 Different programmes may address access, report, subjecthood or qualitative
 organization. Compare those targets before treating a difference as a refutation.
 
-### 8. Ask Whether the Physical Description Is Substantive
+### Ask Whether the Physical Description Is Substantive
 
 Read Peter M. Ainsworth, “Newman's Objection” (2009), *British Journal for the
 Philosophy of Science*. [DOI](https://doi.org/10.1093/bjps/axn051).

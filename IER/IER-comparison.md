@@ -35,10 +35,6 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *Tier-3 - Comparative Boundary Clarification - Non-Normative - Canon-Constrained*
 
-## Abstract
-
-The comparison retains bounded source-version profiles and distinct explanatory levels. Its IER profile now uses separate closure, ownership, membership and full stage continuity, allows independently qualifying nesting, and distinguishes open attribution and abductive identity warrant from inquiry bans. Rival theories retain their locally stated claims and honest silence; lexical similarity, empirical proxies and substrate compatibility supply no automatic identity, certification or ethical bridge.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
@@ -77,6 +73,10 @@ Every row should be read under one or more of these labels:
 “Unspecified” is a substantive boundary marker, not a criticism. No account of
 experience alone is assumed to entail a theory of persistence, an artificial-
 consciousness test, or a criterion of moral standing.
+
+## Abstract
+
+The comparison retains bounded source-version profiles and distinct explanatory levels. Its IER profile now uses separate closure, ownership, membership and full stage continuity, allows independently qualifying nesting, and distinguishes open attribution and abductive identity warrant from inquiry bans. Rival theories retain their locally stated claims and honest silence; lexical similarity, empirical proxies and substrate compatibility supply no automatic identity, certification or ethical bridge.
 
 ## Informational Experiential Realism (IER v10.11.6)
 
@@ -362,7 +362,7 @@ ordinary fallible evidence.
 
 ## The IER Premises Used in Comparison
 
-[Intrinsic Closure](IER-intrinsic-closure.md), [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md) answer separate physical questions. Passing an outgoing-support test alone does not establish a subject. The experience-as-process identity remains *abductive and a posteriori* (`IER-identity.md`), rather than a deduction from the physical schema.
+[Intrinsic Closure](IER-intrinsic-closure.md), [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md) answer separate physical questions. Passing an outgoing-support test alone does not establish a subject. The experience-as-process identity remains *abductive and a posteriori* (*IER-identity*), rather than a deduction from the physical schema.
 
 Several structures can jointly bind within one operation, and local regime change does not automatically end the token. No ban on physical representation, symbolic comparison, timing or stochastic description follows from rejecting an extra observer. Qualitative correspondence and complete physical instantiation remain independent burdens. Comparisons must use these full premises rather than an abbreviated “single regime” slogan.
 

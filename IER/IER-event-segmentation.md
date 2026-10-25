@@ -37,15 +37,15 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Explanatory Bridge · Non-Normative · Canon-Constrained*
 
-## Abstract
-
-This article proposes a conditional account of collapse-associated event articulation through welding, propagation and cognitive registration at a stated scale. It distinguishes canonical physical foreclosure from psychological, narrative and perceptual boundaries. A registered event need not prove collapse, and a collapse need not become a registered event. Graphs and records can describe change without creating a selector or storing earlier experience; empirical segmentation findings do not certify IER qualification.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-*Collapse* (`IER-collapse.md`), *Welding* (`IER-welding.md`), *Propagation* (`IER-propagation.md`) and *Cognition* (`IER-cognition.md`) retain their definitions. This article introduces no universal segmentation mechanism, observer, threshold or subject criterion. Its collapse-associated account is a possible explanatory bridge, not an identity between every psychological boundary and canonical foreclosure.
+*Collapse* (*IER-collapse*), *Welding* (*IER-welding*), *Propagation* (*IER-propagation*) and *Cognition* (*IER-cognition*) retain their definitions. This article introduces no universal segmentation mechanism, observer, threshold or subject criterion. Its collapse-associated account is a possible explanatory bridge, not an identity between every psychological boundary and canonical foreclosure.
+
+## Abstract
+
+This article proposes a conditional account of collapse-associated event articulation through welding, propagation and cognitive registration at a stated scale. It distinguishes canonical physical foreclosure from psychological, narrative and perceptual boundaries. A registered event need not prove collapse, and a collapse need not become a registered event. Graphs and records can describe change without creating a selector or storing earlier experience; empirical segmentation findings do not certify IER qualification.
 
 ## Purpose — Why Experience Divides into Events
 
@@ -77,7 +77,7 @@ Integration-envelope organization can change or relax locally without ending the
 
 ## Graphs, Choice Space and History
 
-*Choice Space* (`IER-choice-space.md`) describes configurations and lawful operative transitions. A graph can mark collapse-associated changes where separately established; it can also mark ordinary succession or narrative events. A node is not a primitive event or a selected experiential frame.
+*Choice Space* (*IER-choice-space*) describes configurations and lawful operative transitions. A graph can mark collapse-associated changes where separately established; it can also mark ordinary succession or narrative events. A node is not a primitive event or a selected experiential frame.
 
 Pooling edges from incompatible configurations can invent unavailable routes. An anticipated transition does not establish physical admissibility. A recorded event is present physical organization that can support reconstruction, rather than a stored fragment of past experience.
 
@@ -89,7 +89,7 @@ Ordinary activity need not consist entirely of foreclosure. Collapse-related pro
 
 ## Empirical Source and the Missing Identification
 
-Speer, Zacks and Reynolds studied reading narratives and later boundary judgments; activity changes were associated with points participants subsequently identified as event boundaries. That finding concerns experimental segmentation and neural activity, not IER collapse or subject individuation. See [“Human Brain Activity Time-Locked to Narrative Event Boundaries”](https://doi.org/10.1111/j.1467-9280.2007.01920.x), *Psychological Science* 18 (2007), 449–455.
+Speer, Zacks and Reynolds studied reading narratives and later boundary judgments; activity changes were associated with points participants subsequently identified as event boundaries. That finding concerns experimental segmentation and neural activity, not IER collapse or subject individuation. See [“Human Brain Activity Time-Locked to Narrative Event Boundaries”](https://doi.org/10.1111/j.1467-9280.2007.01920.x), *Psychological Science* 18 (2007), 449-455.
 
 A bridge to this proposal would need an independently justified physical foreclosure comparison, its consequences and the actual registering organization. Neural activity or prediction-error language alone does not supply those relations. The article admits no new empirical result about IER.
 

@@ -46,15 +46,15 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Compression · Non-Normative · Canon-Constrained*
 
-## Abstract
-
-This overview separates physical qualification, actual succession, conditional foreclosure and explanatory projections. One operative continuation structure supports different descriptive registers; a graph, directional geometry and a successor fibre are not interchangeable objects. Full closure, ownership, membership and produced-and-inherited continuity retain their defining owners. Cognition and human-scale examples apply conditionally, without supplying qualitative mappings, diagnoses or an experiential identity proof.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
 This article compresses the accepted account and introduces no independent definition, threshold or mechanism. The [Specification](IER-specification.md) retains normative priority. The [Theory](IER-theory.md) integrates the physical relations with the defeasible abductive experiential identity proposal; an overview cannot turn that proposal into a deduction.
+
+## Abstract
+
+This overview separates physical qualification, actual succession, conditional foreclosure and explanatory projections. One operative continuation structure supports different descriptive registers; a graph, directional geometry and a successor fibre are not interchangeable objects. Full closure, ownership, membership and produced-and-inherited continuity retain their defining owners. Cognition and human-scale examples apply conditionally, without supplying qualitative mappings, diagnoses or an experiential identity proof.
 
 ## Orientation: One Operation, Several Descriptions
 
@@ -68,13 +68,13 @@ For an operative transition relation $R$ on physically typed configurations $S$,
 
 $$ A(s)=\{s'\in S\mid (s,s')\in R\}. $$
 
-This is the outgoing successor fibre at $s$. *Choice Space* (`IER-choice-space.md`) describes configurations and transitions as a directed graph. *Topology* (`IER-topology.md`) concerns organized admissible continuation. These registers describe one physical structure; the fibre is not the whole graph, and a displayed route must respect the actual configuration-dependent transitions.
+This is the outgoing successor fibre at $s$. *Choice Space* (*IER-choice-space*) describes configurations and transitions as a directed graph. *Topology* (*IER-topology*) concerns organized admissible continuation. These registers describe one physical structure; the fibre is not the whole graph, and a displayed route must respect the actual configuration-dependent transitions.
 
-*Frontier Geometry* (`IER-frontier-geometry.md`) can describe directions, angles, spreads and margins where their physical interpretation is justified. Several successors may share one direction. A narrow cone, zero displayed margin or degenerate matrix therefore does not by itself prove support loss. Geometrical change and successor membership must be assessed separately.
+*Frontier Geometry* (*IER-frontier-geometry*) can describe directions, angles, spreads and margins where their physical interpretation is justified. Several successors may share one direction. A narrow cone, zero displayed margin or degenerate matrix therefore does not by itself prove support loss. Geometrical change and successor membership must be assessed separately.
 
 ## Ordinary Succession and Conditional Foreclosure
 
-Lawful successor realization can occur while relevant alternative reachability is preserved. *Curvature* (`IER-curvature.md`), binding and soft bonding describe reversible organization in their stated scopes. *Binding* (`IER-binding.md`) asks whether removal of participating structure would change admissible continuation; it is not already collapse.
+Lawful successor realization can occur while relevant alternative reachability is preserved. *Curvature* (*IER-curvature*), binding and soft bonding describe reversible organization in their stated scopes. *Binding* (*IER-binding*) asks whether removal of participating structure would change admissible continuation; it is not already collapse.
 
 When an independently justified collapse occurs, the relevant comparison shows atomic irreversible foreclosure of a connected reachable region. A complete episode can include welding, propagation and sedimentation in their distinct roles. The strict before-after inclusion concerns the same physically comparable root and domain, rather than arbitrary fibres at two different configurations.
 
@@ -82,15 +82,15 @@ Continuation is not a succession of compulsory collapses. Previously inherited c
 
 ## History, Trajectories and Numerical Identity
 
-Physically effective history shapes present continuation. Records and storage can be part of physical organization; they are not containers holding earlier experience. *Memory* (`IER-memory.md`) concerns contingent present experiential re-entry, rather than every historical influence.
+Physically effective history shapes present continuation. Records and storage can be part of physical organization; they are not containers holding earlier experience. *Memory* (*IER-memory*) concerns contingent present experiential re-entry, rather than every historical influence.
 
-A *Trajectory* (`IER-trajectory.md`) describes ordered actual continuation. Structural signatures compress recurring geometry under their stated models; neither a trajectory nor a signature exhausts every counterfactual distinction in continuation.
+A *Trajectory* (*IER-trajectory*) describes ordered actual continuation. Structural signatures compress recurring geometry under their stated models; neither a trajectory nor a signature exhausts every counterfactual distinction in continuation.
 
 [Continuity](IER-continuity.md) requires all five stage conditions: continuous owned closure, operational successor production, typed consequence inheritance, operation-mediated change, and unique successor and predecessor in a pre-fixed comparison domain. Turnover can preserve this relation; resemblance, replay, dormant capacity and a selected path cannot substitute for it. Organizational regime change is distinct from constitutive cessation. A qualifying gap ends the token, while other failed clauses can end it without a gap.
 
 ## Cognition and Human-Scale Appearance
 
-*Cognition* (`IER-cognition.md`) jointly requires reproduction, participation, frontier relevance and reversible organization. Imagination, planning, interpretation and memory name conditional roles whose ordinary labels do not automatically satisfy that conjunction. A larger activity can also contain a separately identified foreclosure episode.
+*Cognition* (*IER-cognition*) jointly requires reproduction, participation, frontier relevance and reversible organization. Imagination, planning, interpretation and memory name conditional roles whose ordinary labels do not automatically satisfy that conjunction. A larger activity can also contain a separately identified foreclosure episode.
 
 | Explanatory question | Maintained account and limit |
 | --- | --- |
@@ -101,7 +101,7 @@ A *Trajectory* (`IER-trajectory.md`) describes ordered actual continuation. Stru
 | What changed through action? | Ordinary activity and collapse-related propagated effects must be distinguished. |
 | What persists? | Recurring organization can describe traits; numerical identity requires the full stage relation. |
 
-These examples preserve the earlier layered intuition without claiming a complete qualitative correspondence. *Agency* (`IER-agency.md`) is derived capacity within a qualifying UEF, rather than a selector added to physical dynamics.
+These examples preserve the earlier layered intuition without claiming a complete qualitative correspondence. *Agency* (*IER-agency*) is derived capacity within a qualifying UEF, rather than a selector added to physical dynamics.
 
 ## Projection Architecture and Limits
 

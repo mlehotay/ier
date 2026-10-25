@@ -36,10 +36,6 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *Tier-2 - Explanatory - Non-Normative - Canon-Constrained*
 
-## Abstract
-
-Classic puzzles put pressure on different relations: description and instantiation, complete constitutive identity, production, unity, causal role and functional organization. IER responses are conditional on its qualified operation and abductive identity proposal. Full stage continuity, independent nested qualification and open qualitative mapping are preserved. Blocking an inference, avoiding a rival premise and explaining an access asymmetry do not independently prove IER or solve every empirical burden.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
@@ -47,6 +43,10 @@ Named full-corpus owners fix the technical meanings used here. [Theory](IER-theo
 This document is an explanatory map of how IER bears on several classic problems, arguments, and thought experiments concerning consciousness. It introduces no new ontological primitives, experiential criteria, thresholds, diagnostics, or grounds of ethical standing. It neither establishes nor revises the IER identity claim. It applies that claim conditionally and distinguishes what follows from it from what remains an independent philosophical or empirical question.
 
 This document remains subordinate to the IER Specification and does not alter it.
+
+## Abstract
+
+Classic puzzles put pressure on different relations: description and instantiation, complete constitutive identity, production, unity, causal role and functional organization. IER responses are conditional on its qualified operation and abductive identity proposal. Full stage continuity, independent nested qualification and open qualitative mapping are preserved. Blocking an inference, avoiding a rival premise and explaining an access asymmetry do not independently prove IER or solve every empirical burden.
 
 ## Orientation
 
@@ -64,7 +64,7 @@ These differences matter. A representation is not an instantiation. Behavioral, 
 
 The identity proposal applies to a qualifying operation, not any causally connected system or computational description. [Intrinsic Closure](IER-intrinsic-closure.md), [Ownership](IER-ownership.md) and [Processes](IER-processes.md) retain their separate burdens. [Continuity](IER-continuity.md) requires all five clauses: continuous owned closure, operational production, typed inheritance, operation-mediated change and two-sided uniqueness. Ordinary succession need not contain fresh collapse.
 
-*Identity* (`IER-identity.md`) distinguishes the abductive, a posteriori experiential proposal from the physical relation schema. The modal arguments below are conditional consequences of that proposal, not independent proof of it. Complete qualitative correspondence remains open even where an identity commitment excludes freely varying experience at fixed complete constitutive organization.
+*Identity* (*IER-identity*) distinguishes the abductive, a posteriori experiential proposal from the physical relation schema. The modal arguments below are conditional consequences of that proposal, not independent proof of it. Complete qualitative correspondence remains open even where an identity commitment excludes freely varying experience at fixed complete constitutive organization.
 
 ## Description and Instantiation
 

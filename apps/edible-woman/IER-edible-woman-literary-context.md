@@ -152,7 +152,7 @@ That sentence captures a great deal of the novel, but it hides several disagreem
 
 First, Marian does not consciously decide to stop eating as a political act. Her aversion is bodily, uneven, and initially unexplained. She later interprets the pattern as ethical. It is therefore safer to describe non-eating as an **embodied or displaced protest** than as a deliberate strike.
 
-Second, the novel is not a clinical case history. Critics have used the language of anorexia, somatic protest, dissociation, abjection, and eating disorder, but a fictional pattern cannot establish a diagnosis. Recent scholarship often treats the eating disturbance as an extended metaphor and a form of corporeal resistance rather than trying to diagnose Marian. Roles notes this shift in critical practice; Anna Kisiel analyzes Marian's fragile bodily resistance through agency, abjection, fluidity, and becoming. See [Kisiel 2021](https://doi.org/10.5604/01.3001.0015.5567).
+Second, the novel is not a clinical case history. Critics have used the language of anorexia, somatic protest, dissociation, abjection, and eating disorder, but a fictional pattern cannot establish a diagnosis. Recent scholarship often treats the eating disturbance as an extended metaphor and a form of corporeal resistance rather than trying to diagnose Marian. Roles notes this shift in critical practice; Anna Kisiel analyses Marian's fragile bodily resistance through agency, abjection, fluidity, and becoming. See [Kisiel 2021](https://doi.org/10.5604/01.3001.0015.5567).
 
 Third, the refusal is both resistant and dangerous. It prevents Marian from participating normally in consumption, but it also narrows her own capacity to continue. Hunger can register protest while simultaneously erasing the protester. This duality is why descriptions such as “the body fights back” are useful but incomplete.
 
@@ -250,7 +250,7 @@ The following claims are common in summaries but should not be presented as the 
 | The third-person section means Marian has no agency. | She continues to act, conceal, interpret, and ultimately construct the cake. |
 | The cake proves that Marian is completely healed. | It supports a decisive local change; the ending remains ironic and socially unresolved. |
 | Duncan is the liberating alternative to Peter. | Duncan offers contrast and temporary displacement, but he is self-absorbed, evasive, and finally another consumer. |
-| The novel condemns all eating or endorses vegan ethics. | The food sequence raises ethical implication, but the ending restores consumption rather than supplying a dietary program. |
+| The novel condemns all eating or endorses vegan ethics. | The food sequence raises ethical implication, but the ending restores consumption rather than supplying a dietary programme. |
 | Atwood's word “protofeminist” makes feminist readings mistaken. | The label describes historical position and authorial framing, not an interpretive prohibition. |
 | Every scholarly interpretation is equally valid. | Interpretations remain accountable to textual accuracy, explanatory reach, prior criticism, and counterevidence. |
 

@@ -130,7 +130,7 @@ capacities, and pipeline operators must be reclassified.
 ## Organizational Continuity and Subject Identity
 
 A token can span several experiential regimes only where independently
-individuated stages satisfy `Adj_dia` as owned by `IER-continuity.md`.
+individuated stages satisfy `Adj_dia` as owned by *IER-continuity*.
 Organizational resemblance, unchanged matter, records, recovery, or restart
 capacity supply no additional identity test.
 

@@ -29,10 +29,6 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *Tier-3 - Evaluation Misuse Containment - Non-Normative - Canon-Constrained*
 
-## Abstract
-
-The rubric separates explanandum, constitution, ontology, empirical evidence, attribution and ethics. Its protocol reconstructs named source versions before internal evaluation and matched comparison, retaining explicit, advocated, compatible, disputed and unspecified claims. It permits criticism of unsupported inference without converting IER commitments into neutral criteria. Methodological source attribution supplies no new theory claim or automatic experiential verdict.
-
 ## Status, Scope, and Authority
 
 This document establishes constraints on the fair reconstruction, evaluation,
@@ -56,6 +52,9 @@ inferred from it.
 This document is not a scorecard. Comparative assessments belong in separate
 applications.
 
+## Abstract
+
+The rubric separates explanandum, constitution, ontology, empirical evidence, attribution and ethics. Its protocol reconstructs named source versions before internal evaluation and matched comparison, retaining explicit, advocated, compatible, disputed and unspecified claims. It permits criticism of unsupported inference without converting IER commitments into neutral criteria. Methodological source attribution supplies no new theory claim or automatic experiential verdict.
 
 ## Why a Revised Rubric Is Needed
 

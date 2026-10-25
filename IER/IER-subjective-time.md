@@ -36,15 +36,15 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Elaboration · Explanatory · Non-Normative*
 
-## Abstract
-
-This synthesis distinguishes constitutive coherence, temporal asymmetry, apparent present thickness, event articulation and experienced duration. Ordinary succession need not complete a fresh collapse pipeline; inherited consequences can remain effective while operation continues. Temporal phenomenology is an explanatory target, not a physical continuity verdict or an established complete qualitative mapping. Physical clocks, records and timing processes remain compatible with the account.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-*Time* (`IER-time.md`) owns structural temporal asymmetry; [Continuity](IER-continuity.md) owns the full stage relation. [Specious Present](IER-specious-present.md), [Event Segmentation](IER-event-segmentation.md) and [Duration](IER-duration.md) develop conditional phenomenological projections. This synthesis supplies no new time primitive, diagnostic or universal psychological law.
+*Time* (*IER-time*) owns structural temporal asymmetry; [Continuity](IER-continuity.md) owns the full stage relation. [Specious Present](IER-specious-present.md), [Event Segmentation](IER-event-segmentation.md) and [Duration](IER-duration.md) develop conditional phenomenological projections. This synthesis supplies no new time primitive, diagnostic or universal psychological law.
+
+## Abstract
+
+This synthesis distinguishes constitutive coherence, temporal asymmetry, apparent present thickness, event articulation and experienced duration. Ordinary succession need not complete a fresh collapse pipeline; inherited consequences can remain effective while operation continues. Temporal phenomenology is an explanatory target, not a physical continuity verdict or an established complete qualitative mapping. Physical clocks, records and timing processes remain compatible with the account.
 
 ## Orientation — Several Questions About Time
 

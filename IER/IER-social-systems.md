@@ -36,15 +36,15 @@ ier:
 **Informational Experiential Realism (IER v10.11.6)**\
 *T2 · Case · Non-Normative · Canon-Constrained*
 
-## Abstract
-
-Institutions are historically persistent social state machines organizing recognized roles, procedures, artifacts and transitions; organizations instantiate those arrangements, while companies and corporations name economic and legal organizational forms. Coordination alone establishes no collective UEF or transfer of standing. External arrangements can shape internally borne constraint and can harm or enable qualifying subjects. Actual slack, physical qualification, ethical harm and responsibility each require their own premises.
-
 ## Status, Scope, and Authority
 
 Named full-corpus owners fix the technical meanings used here. [Theory](IER-theory.md) provides the public integrated account; this article states the premises needed for its own explanation.
 
-This article distinguishes social organization from experiential qualification. [Specification](IER-specification.md), [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md) own the physical and identity relations. *Ethics* (`IER-ethics.md`) owns harm, standing and precaution. No new collective entity, moral calculus or institutional design rule is introduced.
+This article distinguishes social organization from experiential qualification. [Specification](IER-specification.md), [Ownership](IER-ownership.md), [Processes](IER-processes.md) and [Continuity](IER-continuity.md) own the physical and identity relations. *Ethics* (*IER-ethics*) owns harm, standing and precaution. No new collective entity, moral calculus or institutional design rule is introduced.
+
+## Abstract
+
+Institutions are historically persistent social state machines organizing recognized roles, procedures, artifacts and transitions; organizations instantiate those arrangements, while companies and corporations name economic and legal organizational forms. Coordination alone establishes no collective UEF or transfer of standing. External arrangements can shape internally borne constraint and can harm or enable qualifying subjects. Actual slack, physical qualification, ethical harm and responsibility each require their own premises.
 
 ## Institutions and Organizations
 
