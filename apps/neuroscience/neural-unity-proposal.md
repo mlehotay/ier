@@ -19,24 +19,6 @@ measurement as a test for experience. The [Specification](../../IER/IER-specific
 [Processes](../../IER/IER-processes.md), and
 [Continuity](../../IER/IER-continuity.md) retain authority over those relations.
 
-## Related work and attribution
-
-Francis G. Smith Jr.'s [*No Spoon Framework: Conscious Experience as a
-Structurally Realized Coherent Field*](https://philpapers.org/rec/SMINSF-4)
-is a related, separately authored theory. Smith proposes that coherent neural
-and subcellular phase configurations realize experience when they satisfy a
-non-dynamical admissibility constraint, Φq. That is a specific structural
-realization claim, and it should be credited to Smith.
-
-The present proposal develops a different, still unverified question from the
-IER articles cited below: whether physical support and neural activity jointly
-produce and bear one continuing restriction. It does not adopt Smith's Φq,
-phase-topology account, or realization criterion, and it makes no claim of
-priority over his work. Shared terms such as *constraint*, *coherence*, and
-*unity* do not by themselves establish that the two accounts have the same
-mechanism or that either was derived from the other. A fuller comparison would
-require a version-specific reading of Smith's manuscript.
-
 ## Proposed mechanism
 
 The initial conjecture is that candidate neural processes depend on limited,
@@ -69,32 +51,31 @@ physical support and current neural organization
     → inherited organization constrains later participation and support use
 ```
 
-The IER Constraint Cycle describes multiplicity, deformation, *conditional*
+`IER-constraint-cycle.md` describes multiplicity, deformation, *conditional*
 collapse, and ratification. It does not require a new collapse on every neural
-update. IER's welding account incorporates
-the consequences of an established collapse; later ordinary succession can
-inherit them without another welding event. Thus recruitment can change load
-without being identified with collapse or welding.
+update. `IER-welding.md` describes incorporation of the consequences of an
+established collapse; later ordinary succession can inherit them without
+another welding event. Thus recruitment can change load without being
+identified with collapse or welding.
 
 ## Why spoons, capacities, and headroom matter
 
-IER's Spoons article describes the margin for further participation
-within an already qualifying UEF. Rate Control
-connects added participation to proximity to a coherence boundary under
-accumulating irreversible consequences. Human Integration
-adds a tempo question: when new demands arrive faster than collapse, welding,
-and propagation can be integrated, later demands encounter an organization
-already under deformation. Together, these articles supply a **conditional
-spoon-to-welding bridge**: additional recruitment may increase the demands that
-must be integrated, and prior welded consequences can change what further
-recruitment costs. Neither step says that every demand causes foreclosure.
+`IER-spoons.md` describes the margin for further participation within an already
+qualifying UEF. `IER-rate-control.md` connects added participation to proximity
+to a coherence boundary under accumulating irreversible consequences.
+`IER-human-integration.md` adds a tempo question: when new demands arrive faster
+than collapse, welding, and propagation can be integrated, later demands
+encounter an organization already under deformation. Together, these articles
+supply a **conditional spoon-to-welding bridge**: additional recruitment may
+increase demands that must be integrated, and prior welded consequences can
+change what further recruitment costs. Neither step says that every demand
+causes foreclosure.
 
-IER's Capacities article distinguishes participation,
-attenuation, governance, welding, rate control, and energetic support. These
-are different boundaries, not interchangeable amounts drawn from one reserve.
-Headroom describes how approach to each boundary
-may be lived *within* an existing UEF. The proposed neural mechanism therefore
-must keep two questions apart:
+`IER-capacities.md` distinguishes participation, attenuation, governance,
+welding, rate control, and energetic support. These are different boundaries,
+not interchangeable amounts drawn from one reserve. `IER-headroom.md` describes
+how approach to each boundary may be lived *within* an existing UEF. The
+proposed neural mechanism must keep two questions apart:
 
 1. **Constitution:** Do the physical processes form one internally owned,
    non-factorizable, temporally continuing operation?
@@ -103,6 +84,26 @@ must keep two questions apart:
 
 The second question can constrain an answer to the first. Spoon reports or
 headroom descriptions cannot establish the first answer.
+
+## Canonical leads for a neural mechanism
+
+The neighbouring canon supplies distinctions the physical model can test. It
+does not identify a neural implementation or turn an IER description into a
+measurement of experience.
+
+| Canonical lead | Connection to this proposal | Discriminating observation |
+| --- | --- | --- |
+| [Participation](../../IER/IER-participation.md) and `IER-binding.md` | Recruitment can vary without changing membership; a recruited structure binds only when removing it changes admissible continuation. | Vary recruitment and separately remove or bypass the proposed structure. Test its effect on the same outgoing successor set, not just activity or salience. |
+| `IER-curvature.md`, `IER-viability.md`, and `IER-constraint-cycle.md` | Limited supply can change costs, switching routes, fragility, or sustainment while alternatives remain reachable. Deformation is not yet foreclosure. | Compare physically typed successor sets before and after a support perturbation. Record changed margins separately from lost successors. |
+| `IER-collapse.md`, `IER-welding.md`, `IER-propagation.md`, and `IER-sedimentation.md` | Only independently established irreversible loss of a connected region licenses the post-collapse account. Incorporated effects may then alter later recruitment and support use. | Distinguish reversible load effects from an actual foreclosure event; test whether any subsequent change is physically inherited through the candidate operation. |
+| `IER-capacities.md`, `IER-rate-control.md`, and `IER-human-integration.md` | Energetic support, participation, governance, welding, and rate control name different limits. Scarcity cannot be identified with a single stock of structural capacity; demand arrival and incorporation tempo may matter independently of supply level. | Vary supply, recruitment breadth, and demand tempo separately. Ask whether their effects dissociate, and whether later organization depends on the timing of independently identified events. |
+| [Processes](../../IER/IER-processes.md), [Intrinsic Closure](../../IER/IER-intrinsic-closure.md), and [Ownership](../../IER/IER-ownership.md) | A resource delivery process may be necessary yet remain an external supplier. Its constitutive status depends on joint successor production, global bearing, resolution, and uptake across the proposed boundary. | Compare an endogenous support loop with independently completed supply while preserving the relevant alternatives; test factorization and membership at one physical typing. |
+
+This gives the resource hypothesis a stricter form: a limited substrate may
+perturb several distinct boundaries, but unity requires a physically specified
+support-and-activity loop whose continuations cannot be independently
+recombined and whose restriction is internally borne. The same supply
+perturbation could instead reveal several independently continuing operations.
 
 ## What a physical model must specify
 
@@ -154,36 +155,18 @@ Evidence for supply-sensitive coordination would support a neural mechanism.
 Evidence for a non-factorizable, internally borne, continuing operation would
 support a stronger structural reconstruction. Neither result, nor neural
 recordings, behavior, reports, or a perturbation effect, would by itself certify
-experience or locate a subject. See [Deep Brain Localization](IER-deep-brain-localization.md)
-for the distinction between causal support and constitutive participation.
+experience or locate a subject.
 
-## Connections to the other neuroscience notes
+## Relevant boundary cases
 
-The existing IER reinterpretations help **design and delimit** this program.
-They do not supply evidence that resource competition already unifies a UEF.
-
-| Topic | Contribution to this proposal | Limit |
-| --- | --- | --- |
-| [Deep-brain localization](IER-deep-brain-localization.md) | Thalamic perturbation, distributed arousal, split-brain cases, and hemispherotomy motivate comparisons among enabling supply, coupling pathways, and constitutive participation. Disconnection makes candidate boundaries a physical question. | A necessary hub or successful perturbation does not locate the subject or show that a resource process is constitutive. |
-| [Four durations, not one](IER-four-durations-not-one.md) | Its separation of stimulus time, fitted cortical response, report criterion, and experienced duration supplies a model for keeping resource dynamics, neural coordination, behavior, and phenomenology distinct. Its proposed task manipulations can help vary recruitment while controlling sensory input and decisions. | Distributed response profiles and cross-region covariance do not establish causal flow, shared successor structure, collapse, or experiential unity. |
-| [Neuroscience primer](neuroscience-primer.md) | Its measurement ledger shows why a fitted BOLD parameter or correlation cluster cannot be read as a millisecond-scale trajectory or an intervention result. A unity study needs measurements at the timescale of its proposed coupling and incorporation. | The duration experiment did not measure resource flows or the IER constraint cycle. |
-| [The past is in the present](IER-past-in-the-present.md) | Organoid developmental results illustrate how earlier physical changes can alter present organization and later possibilities. This suggests testing whether a proposed neural support loop carries *causally effective* history rather than merely a marker of elapsed time. | Developmental lineage and retained competence do not establish welding, one continuing UEF token, or experience in organoids. |
-| [Ambien and complex sleep behaviors](IER-ambien-hypothesis.md) | Preserved routine coordination alongside possibly impaired redirection is a useful contrast case for testing whether local behavioral organization can continue when wider recruitment or governance changes. Later amnesia should be measured separately. | Coordinated behavior, impaired control, drug exposure, and absent recall do not determine whether a UEF continued or ceased. |
-
-Taken together, these notes suggest three refinements to the research sequence:
-
-1. Compare proposed resource and coupling boundaries across intervention and
-   disconnection cases, including deep structures and wider support processes.
-2. Measure supply, neural activity, recruitment, and inherited change at their
-   relevant timescales; keep behavior and reports as separate outcomes.
-3. Use preserved local function, altered global coordination, and effective
-   physical history as contrast cases. Require a model that predicts their
-   differences before assigning them to IER's stages.
-
-These reinterpretations make the hypothesis more discriminating. None shows
-that neural support is one global pool, that resource competition passes the
-closure and ownership tests, or that a measured neural organization is
-identical with experience.
+[Deep Brain Localization](IER-deep-brain-localization.md) examines thalamic
+perturbation, distributed arousal, split-brain cases, and hemispherotomy. These
+cases motivate direct tests of whether a proposed support process enables a
+wider operation, couples its parts, or participates constitutively. Physical
+disconnection is especially relevant: the research program should predict
+which joint continuations survive when a major coupling route is removed.
+A necessary hub or successful perturbation still does not locate a subject or
+show that resource competition passes the closure and ownership tests.
 
 ## Current assessment
 
