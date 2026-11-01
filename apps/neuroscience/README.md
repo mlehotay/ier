@@ -17,6 +17,14 @@ The articles examine what empirical measurements, models, and interventions esta
 
 ## Current Case Studies
 
+### Neural Unity and Binding
+
+[Neural Unity and Binding: A Conditional Research Program](neural-unity-proposal.md)
+proposes a bounded investigation of physical support, shared continuation,
+participation load, and the constraint cycle. It identifies the physical
+coupling and ownership evidence still needed before neural competition could
+explain one unified operation.
+
 ### Visual Duration
 
 [Four Durations, Not One](IER-four-durations-not-one.md) reinterprets Centanino, Fortunato, and Bueti's 2026 study of cortical duration processing.
@@ -62,7 +70,8 @@ apps/neuroscience/
 ├── IER-four-durations-not-one.md
 ├── IER-deep-brain-localization.md
 ├── IER-past-in-the-present.md
-└── IER-ambien-hypothesis.md
+├── IER-ambien-hypothesis.md
+└── neural-unity-proposal.md
 ```
 
 ## Relationship to IER
