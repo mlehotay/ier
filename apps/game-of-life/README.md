@@ -11,7 +11,7 @@ This project serves two roles:
 ## Status
 
 Status: experimental\
-Authority: non-canonical\
+Authority: non-canonical
 
 The current executable is a simulator baseline, not the completed GoL phase or an implemented IER analysis layer. Runtime commands and random, built-in or file startup initialization are implemented. Non-interactive suites verify block stability, oscillator periods and glider translation; gun emission is verified; the phase-exit audit remains open. See the [design](docs/gol-design.md#implementation-status), [deferred analysis](docs/gol-design-addendum.md), and [orientation](docs/gol-orientation.md).
 

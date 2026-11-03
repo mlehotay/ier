@@ -5,7 +5,7 @@
 
 Status: Non-Canonical | Exploratory | Methodological\
 Role: Example Extension Roadmap\
-Scope: Development of analysis, tooling, and formal results within the IER - GoL framework\
+Scope: Development of analysis, tooling, and formal results within the IER - GoL framework
 
 
 ## Current Baseline and Inference Limits

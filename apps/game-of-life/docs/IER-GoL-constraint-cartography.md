@@ -2,7 +2,7 @@
 
 ## A Proposed Game of Life Substrate for Organizational Reconstruction
 
-Status: Non-Canonical Research Note / Design Retrospective\
+Status: Non-Canonical Research Note / Design Retrospective
 
 ## Abstract
 

@@ -8,7 +8,7 @@ The [Specification](../../IER/IER-specification.md) retains theory authority.
 
 ## Empirical Case Studies for IER
 
-**Status:** exploratory application  
+**Status:** exploratory application\
 **Authority:** non-canonical
 
 This directory contains neuroscience-facing applications of Informational Experiential Realism (IER).

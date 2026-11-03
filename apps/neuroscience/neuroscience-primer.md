@@ -2,7 +2,7 @@
 
 ## Status and Purpose
 
-Status: reference  
+Status: reference\
 Authority: non-canonical
 
 This primer is for readers of Informational Experiential Realism (IER) who are

@@ -3,7 +3,7 @@
 ## Status
 
 Status: complete preliminary finding; historical report; see current-use assessment
-Date: 6 September 2026  
+Date: 6 September 2026\
 Authority: non-canonical research report
 
 This report is retained as the completed preliminary literature survey.

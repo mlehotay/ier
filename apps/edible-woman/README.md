@@ -4,8 +4,8 @@
 
 ## Status
 
-Status: draft  
-Authority: non-canonical  
+Status: draft\
+Authority: non-canonical
 
 This directory collects the IER application materials for Margaret Atwood's
 *The Edible Woman*. The materials are literary bridge and reader-support

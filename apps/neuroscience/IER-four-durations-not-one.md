@@ -4,7 +4,7 @@
 
 ## Status and Scope
 
-Status: exploratory application  
+Status: exploratory application\
 Authority: non-canonical
 
 This article reinterprets Centanino, Fortunato, and Bueti's 2026 study of visual duration categorization through Informational Experiential Realism (IER). It is also a worked empirical companion to *The Identification Problem for Physicalist Theories of Experience*.
