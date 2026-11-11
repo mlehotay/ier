@@ -13,7 +13,7 @@ ier:
   - guardrails_and_orientation
   category: framework_overviews
   filename: IER-precis.md
-  version: 10.11.6
+  version: 10.12.0
   date: '2026-09-30'
   provides: []
   requires:
@@ -46,7 +46,7 @@ ier:
 
 ## Précis
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *Framework Compression · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -85,7 +85,7 @@ In a qualifying UEF:
 - constraint is globally integrated;
 - the operation persists across a non-zero interval;
 - the relevant constraint is generated and borne within the system's own dynamics;
-- the operation is non-factorizable into independently resolvable subsystem constraints;
+- present activity jointly transforms the conditions of further activity;
 - relevant constraint cannot be indefinitely localized, deferred, offloaded, or externally completed; and
 - the continuation of participating processes is bound by the operation as a whole.
 
@@ -93,7 +93,7 @@ Integration, feedback, recurrence, complexity, information processing, computati
 
 The central structural question is whether relevant constraint remains independently resolvable or has become globally unavoidable within one continuing physical operation.
 
-The formal test concerns physically admissible successor support, not probability weights or observed dependence. The candidate, physical variables, grain, interval, interventions, and exhaustive meaningful partition family are fixed independently. Each block's successors are projected from the same outgoing support; closure requires nonproduct support across every such partition. See [Intrinsic Closure](https://github.com/mlehotay/ier/blob/main/IER/IER-intrinsic-closure.md).
+The physical formulation of present unity is incomplete. It concerns one self-updating organization whose constituent activities jointly transform the conditions of their own continuation. Successor-support non-factorization is no longer its necessary condition; a product or singleton support alone supplies no disunity verdict. Candidate scope, grain and comparisons need independent justification. See [Intrinsic Closure](https://github.com/mlehotay/ier/blob/main/IER/IER-intrinsic-closure.md).
 
 ## Constraint, Information, and Slack
 
@@ -142,7 +142,7 @@ This bilateral participation distinguishes constitutive membership from:
 - external control; and
 - mere causal embedding.
 
-The relevant boundary is therefore the maximal regime-relative set of processes participating in the same bilateral, globally non-factorizable operation through the relevant continuity interval.
+The relevant boundary is therefore the maximal regime-relative set of processes participating in the same bilateral, jointly organized operation through the relevant continuity interval.
 
 Causal connection alone does not imply experiential inclusion.
 
@@ -221,7 +221,7 @@ IER's process-subject identity requires a criterion for when successive stages b
 
 Across immediately successive non-null stages, persistence requires that:
 
-1. continuously instantiated closure remains coherent, non-factorizable, and
+1. continuously instantiated closure remains coherent and
    internally owned;
 2. the earlier operation produces its successor through its own actual dynamics rather than independent reconstruction;
 3. the successor inherits the earlier operation's physically typed irreversible
@@ -277,7 +277,7 @@ Qualification and qualitative correspondence answer separate questions.
 
 IER treats familiar features of experience as consequences or explanatory aspects of the same continuing physical operation:
 
-- unity — constraint is borne by one non-factorizable organization;
+- unity — constraint is borne by one present organization whose physical individuation remains open;
 - ownership — constraint and resolution cannot be externalized from that organization;
 - continuity — successive stages belong to one self-producing history-bearing process;
 - temporality — sedimented history and admissible continuation meet at an active frontier;
@@ -330,7 +330,7 @@ IER belongs to the physicalist identity-theory tradition.
 
 Its distinctive proposal is not merely that an experiential description and a physical-process description may concern the same occurrence. It proposes that one qualifying temporally extended physical operation is numerically identical with both total experience-as-process and its subject, and it supplies structural conditions for the persistence of that process-subject through change.
 
-IER can state its proposed regime without using experience as a physical input: lawful states and transitions, admissible continuation, non-factorizable constraint, bilateral participation, internally borne resolution, temporal continuity, successor production, and inherited deformation.
+IER can state its proposed regime without using experience as a physical input: lawful states and transitions, admissible continuation, present organization under intrinsic constraint, bilateral participation, internally borne resolution, temporal continuity, successor production, and inherited deformation.
 
 This makes the proposed relation schema physically specifiable rather than definitionally circular. Concrete physical typing and individuation must still be justified independently of experience, report, resemblance, or the desired subject verdict.
 
@@ -357,7 +357,7 @@ Further work can also develop integrated physical and biological applications in
 
 IER's central proposal can be compressed as follows:
 
-> Experience is not something produced by sufficiently organized matter. A token UEF operation through a continuity interval is the total experience and experiential subject when intrinsic constraint is globally integrated, internally borne, non-factorizable, and not independently resolvable within the relevant regime.
+> Experience is not something produced by sufficiently organized matter. A token UEF operation through a continuity interval is the total experience and experiential subject when intrinsic constraint is globally integrated, internally borne and not independently resolvable within the relevant regime.
 
 And its continuity claim:
 

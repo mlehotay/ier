@@ -26,21 +26,19 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: 10.11.6
+  version: 10.12.0
 ---
 
 # Intrinsic Closure
 
-## Non-Factorizable Continuation at and Across Frontiers
+## Present Organization and Its Open Physical Criterion
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · Structural Clarification · Non-Normative · Canon-Constrained*
 
 ## Reader Notice
 
-Non-factorizable continuation establishes a synchronic closure condition. It
-does not by itself establish ownership, constitutive membership, numerical
-persistence, experience, or the correct boundary of a concrete system.
+Present unity concerns the organization producing continuation. Successor-support non-factorization is no longer its necessary condition or its formal definition. The replacement physical criterion remains incomplete; support mathematics alone supplies no unity or disunity verdict.
 
 ## Status, Scope, and Authority
 
@@ -63,30 +61,19 @@ and explanatory definition owner within those constraints.
 
 ## Synchronic Closure
 
-Let $S$ be the physically admissible global configuration space, let $R$ be
-the operative regime-relative transition relation, and let the successors
-admissible from the frontier configuration $s$ be:
+Present unity consists in one self-updating organization whose constituent activities jointly transform the conditions of their own continuation.
+
+Synchronic intrinsic closure names the intended joint physical organization of present continuation under intrinsic constraint, rather than the product structure of possible outgoing results. Current physical conditions enable activity; that activity changes conditions governing further activity over a non-zero interval.
+
+This is an incomplete physical formulation, not a necessary-and-sufficient test. The constitutive boundary, the distinction between joint resolution and interacting organizations, and the relation between changing conditions and maintaining constitutive organization remain open. Neither causal coupling nor organizational maintenance alone establishes a UEF.
+
+Candidate scope, physical variables, grain, interval, operative restriction and admissible comparisons must be declared independently of the desired verdict. These are investigation declarations, not a universal attribution tuple. Their declaration does not establish unity. Whether resistance to every meaningful partition is a justified additional requirement remains unresolved.
+
+The physical formulation must not presuppose an experiential subject or numerical token continuity. The Specification retains its further UEF requirements, including generation and maintenance of constraint. Self-updating conditions alone do not discharge them.
+
+The following support comparisons retain their mathematical meaning. They are not a replacement closure test. For a physically interpreted relation $R$ at a fixed frontier:
 
 $$ A(s)=\{s'\in S\mid(s,s')\in R\}. $$
-
-Synchronic intrinsic closure concerns whether this outgoing successor
-structure is one inseparable physical problem at the tested frontier.
-
-The assessment requires the following to be declared independently of the
-desired result:
-
-- the candidate physical operation and its boundary;
-- the physical variables and lawful transition description;
-- the spatial, temporal, and descriptive grain;
-- the frontier configuration and non-zero assessment interval;
-- the intervention family used to establish physically available
-  continuations and recombinations;
-- the restriction under examination; and
-- an exhaustive family of physically meaningful non-trivial partitions of
-  the candidate variables at that grain.
-
-These declarations are investigation-relative. They do not form an additional
-IER object or universal verification tuple.
 
 ## Partitions and Common-Fibre Projections
 
@@ -107,7 +94,7 @@ fixed before factorization is assessed.
 
 Coordinate changes that preserve the same physical variables and transition
 structure do not create new physical partitions. Arbitrary latent
-reparameterizations cannot manufacture or defeat closure.
+reparameterizations cannot manufacture a physical partition or a unity verdict.
 
 ## Factorizable Reachability
 
@@ -117,8 +104,8 @@ factorizes when:
 $$ A(s)=\prod_{i=1}^{k}F_i(s). $$
 
 Factorization means that every combination of independently projected block
-successors remains globally admissible. The blocks can satisfy the outgoing
-successor problem independently at the tested frontier.
+successors remains globally admissible. This is a recombination property of possible results, not proof that the
+physical activities independently produce or resolve their continuation.
 
 In a two-block pedagogical case:
 
@@ -158,24 +145,19 @@ availability and unavailability of the combinations under its lawful relation
 and interventions. No probability weights or frequency estimates enter the
 comparison. The example is the same bounded distinction illustrated in
 *Coherence*, Appendix A; it proves non-factorization only across the stated
-partition. The exhaustive condition below remains required.
+partition. It establishes no present-unity or membership verdict.
 
 ## Non-Factorizable Reachability
 
-The candidate is synchronically non-factorizable at $s$ only when, for every
-partition $P$ in the exhaustive physically meaningful partition family:
+For a declared partition, non-product support means:
 
 $$ A(s)\neq\prod_{i=1}^{k}F_i(s). $$
 
-For each partition, at least one recombination of projected subsystem
-successors is unavailable globally. Continuation is therefore jointly
-constrained rather than assembled from independently satisfiable block
-problems.
+At least one recombination of projected successors is unavailable globally. A claim that this holds across an entire family of partitions requires that family to be justified and assessed exhaustively. This remains a support property; it is not synchronic intrinsic closure.
 
-Failure of factorization across one partition establishes joint constraint
-across that partition only. Synchronic intrinsic closure requires failure
-across every partition in the exhaustive family. If the family is unknown or
-selectively incomplete, the closure verdict remains unestablished.
+Every singleton support factorizes under the stated product identification. Distinct deterministic update rules can therefore share this result while differing in productive dependence. Singleton or product support alone does not disqualify present unity; non-product support alone does not establish it. Compatibility with a genuinely multiple-successor product support is not a completed positive unity example merely because it is not excluded by this test.
+
+The earlier identification of this support condition with present unity is withdrawn. No new support equation is asserted to supply the missing physical criterion.
 
 ## Support, Not Probability
 
@@ -201,48 +183,30 @@ Accordingly, none of the following establishes synchronic closure:
 
 Local equations also do not decide the issue by their syntactic form. A chain
 of pairwise constraints can induce globally non-product successor support,
-while a globally written equation can describe a factorizing system. The test
+while a globally written equation can describe a factorizing system. The support comparison
 concerns physical successor support under the fixed candidate and
-interventions.
+interventions; it does not classify the organization producing it.
 
 ## The Limited Synchronic Verdict
 
-Passing the support-level test establishes only this result:
+A support comparison establishes which recombinations of projected successors are admitted at the declared frontier and grain. It does not establish present unity or disunity.
 
-> At the tested frontier and grain, physically admissible continuation forms
-> one inseparable successor problem rather than a product of independently
-> satisfiable subsystem problems.
-
-It does not establish:
+The incomplete formulation of present organization also does not establish:
 
 - that the provisional candidate is the correct ownership scope;
 - that every process inside the candidate is a constitutive member;
 - that closure continues to another frontier;
 - that two stages are one numerically persisting token;
 - that the operation is a UEF or experiential; or
-- that the same result holds at another grain, scale, regime, or intervention
-  family.
+- that the same result holds at another grain, scale, regime or intervention family.
 
-Repeated passage at each tested frontier in an interval remains a sequence of
-synchronic verdicts. Repetition alone does not supply successor production,
-typed inheritance, or numerical identity.
+Repeating local dependence findings does not supply the unresolved physical criterion, successor production, typed inheritance or numerical identity.
 
 ## Ownership After Synchronic Closure
 
-Ownership asks where the inseparable successor burden is internally borne and
-where it can or cannot be externalized. That question is downstream of
-synchronic closure.
+Ownership asks where a restriction is non-externalizably borne and resolved. This is distinct from the present-organization question and cannot be derived from product or non-product successor support.
 
-A scope can pass the non-factorization test yet fail as an ownership boundary
-if an independence-preserving pathway across its proposed cut completes part
-of the relevant frontier burden. Conversely, external matter, energy,
-forcing, perturbation, or support does not by itself defeat closure. Causal
-openness and intrinsic closure are compatible when the bounded operation
-still bears and produces its own inseparable continuation.
-
-External influence is therefore broader than external resolution. Reciprocal
-coupling, necessity, and large causal effects do not automatically expand the
-ownership scope.
+External matter, energy, forcing, perturbation and support need not defeat a candidate organization or become constitutive members. Conversely, reciprocal influence and indispensable support do not establish membership. A responsive interface reproducing removed dynamics is not automatically independent resolution. The general physical distinction remains to be specified without assuming the operation it is meant to identify.
 
 ## Diachronic Closure
 
@@ -305,28 +269,17 @@ does not bridge the failed adjacency.
 
 ## Relation to a Unified Experiential Field
 
-Synchronic intrinsic closure is necessary within the physical organization of
-a UEF, but it is not sufficient. A concrete attribution also requires the
-appropriate ownership scope, bilateral constitutive membership, diachronic
-continuity, and the canonical identity proposal.
+Present organization is part of the intended physical account of a UEF, whose complete qualification still requires the Specification, ownership, constitutive membership, continuity and the identity proposal. The revised local criterion remains open; no abstract controller, chemical example, organism or artificial system is certified by this formulation.
 
-The mathematical relation is therefore not a consciousness detector. An
-ordinary controller, coupled network, gear train, vortex, chemical process,
-organism, or artificial system may have non-product successor support under a
-stated model. That result establishes only the synchronic condition until the
-remaining relations are independently justified.
+Self-updating activity does not imply self-sustenance, saturation, non-externalizable bearing, numerical persistence or experience. The identity proposal is not a deduction from either a support equation or generic feedback.
 
 ## Summary
 
-Synchronic intrinsic closure is support-level non-factorization across every
-physically meaningful non-trivial partition of an independently fixed
-candidate at a stated frontier and grain. It establishes one inseparable
-successor problem and nothing further by itself.
+Present unity consists in one self-updating organization whose constituent activities jointly transform the conditions of their own continuation.
 
-Diachronic closure concerns the different question of whether one bounded
-operation produces and inherits a unique successor through `Adj_dia`.
-Closure under consequence explains their relation without introducing another
-primitive or test.
+This is an incomplete physical formulation, not a necessary-and-sufficient test. The constitutive boundary, the distinction between joint resolution and interacting organizations, and the relation between changing conditions and maintaining constitutive organization remain open. Neither causal coupling nor organizational maintenance alone establishes a UEF.
+
+Same-fibre support mathematics is retained as support mathematics, with no necessary or sufficient unity verdict. Diachronic closure separately concerns production and inheritance under the full continuity relation. Closure under consequence synthesizes those relations; it does not complete their missing physical individuation.
 
 ## Intermission - Structural Fact
 

@@ -12,7 +12,7 @@ ier:
   - guardrails_and_orientation
   category: framework_overviews
   filename: IER-model-overview.md
-  version: 10.11.6
+  version: 10.12.0
   requires:
     hard:
     - IER-specification
@@ -43,7 +43,7 @@ ier:
 
 ## The Structural Geometry of Informational Experiential Realism
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · Compression · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -58,7 +58,7 @@ This overview separates physical qualification, actual succession, conditional f
 
 ## Orientation: One Operation, Several Descriptions
 
-Begin with physically instantiated configurations, lawful transitions and a justified candidate operation. Fix its variables, grain, interval, interventions and restriction independently of the desired experiential verdict. [Intrinsic Closure](IER-intrinsic-closure.md) assesses inseparability of outgoing support across the exhaustive meaningful partition family. [Ownership](IER-ownership.md) assesses non-externalizable bearing and resolution. [Processes](IER-processes.md) fixes constitutive membership through contribution, global bearing, joint resolution, diachronic uptake and common typing.
+Begin with physically instantiated configurations, lawful transitions and a justified candidate operation. Fix its variables, grain, interval, interventions and restriction independently of the desired experiential verdict. [Intrinsic Closure](IER-intrinsic-closure.md) describes the incomplete present-unity formulation: one self-updating organization whose activities jointly transform continuation conditions. The necessary support-factorization condition is withdrawn. [Ownership](IER-ownership.md) assesses non-externalizable bearing and resolution. [Processes](IER-processes.md) fixes constitutive membership through contribution, global bearing, joint resolution, diachronic uptake and common typing.
 
 These are separate burdens. Feedback, correlation, connection, energy expenditure or a compelling self-report does not discharge them. An external influence can change an operation without becoming a member or completing its owned resolution.
 

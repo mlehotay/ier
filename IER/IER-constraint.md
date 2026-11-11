@@ -12,7 +12,7 @@ ier:
   category: foundations
   status: canonical
   filename: IER-constraint.md
-  version: 10.11.6
+  version: 10.12.0
   provides: []
   requires:
     hard:
@@ -36,7 +36,7 @@ ier:
 
 ## Constraint as Lawful Restriction on Admissible Continuation
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T1 · Foundational Clarification · Canon-Constrained · Non-Normative*
 
 ## Status, Scope, and Authority
@@ -199,11 +199,11 @@ Constraint exists wherever physical law restricts continuation.
 
 Intrinsic closure is a stronger condition.
 
-As clarified in *IER intrinsic-closure*, a regime is intrinsically closed when admissible futures do not factorize across subsystem partitions.
+As clarified in *IER intrinsic-closure*, present unity concerns one self-updating organization whose constituent activities jointly transform the conditions of their own continuation. Its physical criterion remains incomplete; the earlier necessary support-factorization condition is withdrawn.
 
-For two physically meaningful subsystem blocks, the following is a pedagogical case of the support-level condition fixed by *Intrinsic Closure*:
+For two physically meaningful subsystem blocks, the following is a pedagogical support comparison, not the intrinsic-closure condition:
 
-### Intrinsic closure condition
+### Support recombination comparison
 
 $$ A(s) \neq \pi_A(A(s)) \times \pi_B(A(s)) $$
 
@@ -215,11 +215,11 @@ In such regimes:
 
 Constraint therefore permits closure but does not imply it.
 
-The projected successor supports must come from the same global outgoing fibre. The candidate, variables, grain, interval, restriction, intervention family, and exhaustive family of meaningful non-trivial partitions are fixed independently of the result. Failure across one partition alone is insufficient; closure requires failure across every partition in that family. This establishes only synchronic inseparability, not ownership, membership, persistence, or experience.
+The projected successor supports must come from the same global outgoing fibre. The candidate, variables, grain, interval, restriction, intervention family, and exhaustive family of meaningful non-trivial partitions are fixed independently of the result. An exhaustive support claim requires the declared family to be assessed, but even that mathematical result supplies no unity, ownership, membership, persistence or experiential verdict.
 
 ## Constraint and Incompatibility
 
-When intrinsic closure holds, some recombinations of projected subsystem successors are unavailable to the whole. That is a restriction on which joint successors can occur. It is distinct from whether several individually reachable alternatives can remain jointly sustainable as the operation proceeds. The first relation alone does not establish the second.
+When the stated support is non-product, some recombinations of projected subsystem successors are unavailable to the whole. That is a restriction on which joint successors can occur. It is distinct from whether several individually reachable alternatives can remain jointly sustainable as the operation proceeds. The first relation alone does not establish the second.
 
 Incompatibility occurs when:
 

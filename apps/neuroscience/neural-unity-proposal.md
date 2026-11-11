@@ -2,6 +2,8 @@
 
 **Status:** exploratory proposal · non-canonical · no experiential diagnostic
 
+Updated for the v10.12.0 first canonical stage: the necessary support-factorization test is withdrawn. The present-unity formulation and its physical criterion remain incomplete. Resource competition, bilateral influence and organizational maintenance alone establish no UEF. Distinguish changing availability from producing or maintaining the constitutive organization; the proposed neural mechanism has not established that stronger relation.
+
 ## Question and scope
 
 Could competition for the physical means of neural continuation help organize
@@ -78,7 +80,7 @@ how approach to each boundary may be lived *within* an existing UEF. The
 proposed neural mechanism must keep two questions apart:
 
 1. **Constitution:** Do the physical processes form one internally owned,
-   non-factorizable, temporally continuing operation?
+   jointly organized, temporally continuing operation with independently justified constitutive scope?
 2. **Load within an operation:** How do support, recruitment, rate, and inherited
    deformation affect its possible continuations?
 
@@ -97,7 +99,7 @@ measurement of experience.
 | `IER-curvature.md`, `IER-viability.md`, and `IER-constraint-cycle.md` | Limited supply can change costs, switching routes, fragility, or sustainment while alternatives remain reachable. Deformation is not yet foreclosure. | Compare physically typed successor sets before and after a support perturbation. Record changed margins separately from lost successors. |
 | `IER-collapse.md`, `IER-welding.md`, `IER-propagation.md`, and `IER-sedimentation.md` | Only independently established irreversible loss of a connected region licenses the post-collapse account. Incorporated effects may then alter later recruitment and support use. | Distinguish reversible load effects from an actual foreclosure event; test whether any subsequent change is physically inherited through the candidate operation. |
 | `IER-capacities.md`, `IER-rate-control.md`, and `IER-human-integration.md` | Energetic support, participation, governance, welding, and rate control name different limits. Scarcity cannot be identified with a single stock of structural capacity; demand arrival and incorporation tempo may matter independently of supply level. | Vary supply, recruitment breadth, and demand tempo separately. Ask whether their effects dissociate, and whether later organization depends on the timing of independently identified events. |
-| [Processes](../../IER/IER-processes.md), [Intrinsic Closure](../../IER/IER-intrinsic-closure.md), and [Ownership](../../IER/IER-ownership.md) | A resource delivery process may be necessary yet remain an external supplier. Its constitutive status depends on joint successor production, global bearing, resolution, and uptake across the proposed boundary. | Compare an endogenous support loop with independently completed supply while preserving the relevant alternatives; test factorization and membership at one physical typing. |
+| [Processes](../../IER/IER-processes.md), [Intrinsic Closure](../../IER/IER-intrinsic-closure.md), and [Ownership](../../IER/IER-ownership.md) | A resource delivery process may be necessary yet remain an external supplier. Its constitutive status depends on joint successor production, global bearing, resolution, and uptake across the proposed boundary. | Compare an endogenous support loop with independently completed supply while preserving the relevant alternatives; assess productive organization and membership at one physical typing without treating support factorization as a unity test. |
 
 This gives the resource hypothesis a stricter form: a limited substrate may
 perturb several distinct boundaries, but unity requires a physically specified
@@ -116,7 +118,7 @@ following pieces.
 | --- | --- |
 | Physical support | Identify the substances or processes, their delivery and replenishment, and the time and spatial scales on which availability limits continuation. Test whether one or several limits matter. |
 | Coupling rule | Show how changes in one neural process alter the *possible continuations* of others through the proposed support-and-activity loop. Covariation, competition, or a scalar budget alone is insufficient. |
-| Closure | Compare the global outgoing successor set with projections from that same set across independently meaningful partitions. Show where the proposed joint support fails to factorize and where it does factorize. |
+| Closure | Describe which activities jointly transform continuation conditions and which generate or maintain constitutive constraints. Compare responsive supply and interacting organizations; the general boundary criterion remains open. Support calculations supply no unity verdict. |
 | Ownership and membership | Distinguish internal production and bearing of the restriction from indispensable external supply. Assess contribution, global bearing, joint resolution, diachronic uptake, and common physical typing for each proposed participant. |
 | Temporal production | Show how current activity and support organization physically produce later organization, including inherited consequences and any actual boundary change. A repeated pattern or persistent supplier does not establish token continuity. |
 | Conditional events | Identify any irreversible foreclosure independently of greater cost, slowing, selection, or a single observed outcome. Attribute welding and propagation only after that event. |
@@ -152,7 +154,7 @@ closure at another and persistence at a third to manufacture a UEF.
    to complex brains.
 
 Evidence for supply-sensitive coordination would support a neural mechanism.
-Evidence for a non-factorizable, internally borne, continuing operation would
+Evidence for an independently individuated, internally borne, continuing operation would
 support a stronger structural reconstruction. Neither result, nor neural
 recordings, behavior, reports, or a perturbation effect, would by itself certify
 experience or locate a subject.

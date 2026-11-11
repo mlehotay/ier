@@ -35,14 +35,14 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: 10.11.5
+  version: 10.12.0
 ---
 
 # Closure Under Consequence
 
 ## One Operation Producing and Inheriting Its Continuation
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · Explanatory · Non-Normative · Canon-Constrained*
 
 ## Reader Notice
@@ -87,7 +87,7 @@ The central synthesis is:
 
 The phrase *closure under consequence* compresses this synthesis. It names
 no new primitive, mechanism, mathematical object, or criterion. It states the
-joint significance of synchronic non-factorization, ownership, successor
+joint significance of present organization, ownership, successor
 production, typed consequence inheritance, operation-mediated change, and
 unique continuation.
 
@@ -97,7 +97,7 @@ IER uses *closure* for several different relata. They must remain distinct.
 
 | Term | Relatum and role |
 | --- | --- |
-| Synchronic intrinsic closure | Non-factorizable physically admissible continuation at one frontier |
+| Synchronic intrinsic closure | Joint present organization under intrinsic constraint; physical criterion incomplete |
 | Diachronic closure | Physical continuity across independently individuated stages |
 | Closure under consequence | Explanatory compression for successor production and inheritance within one continuing operation |
 | Structural closure | The framework-internal terminus of explanation, not an organizational continuity relation |
@@ -111,37 +111,11 @@ together within one continuing operation.
 
 ## Synchronic Intrinsic Closure
 
-At a frontier configuration $s$, IER defines admissible successors as:
+Present unity consists in one self-updating organization whose constituent activities jointly transform the conditions of their own continuation.
 
-$$ A(s)=\{s'\in S\mid(s,s')\in R\}. $$
+This is an incomplete physical formulation, not a necessary-and-sufficient test. The constitutive boundary, the distinction between joint resolution and interacting organizations, and the relation between changing conditions and maintaining constitutive organization remain open. Neither causal coupling nor organizational maintenance alone establishes a UEF.
 
-Synchronic intrinsic closure concerns the organization of admissible
-continuation at that frontier. The candidate, physical grain, frontier,
-intervention family, restriction, and exhaustive family of physically
-meaningful non-trivial partitions must be fixed independently of the result.
-
-For every such partition, the global successor structure must fail to equal
-the Cartesian product of subsystem successor structures projected from that
-same global successor fibre. At the stated frontier and grain, continuation
-therefore forms one inseparable successor problem rather than a product of
-independently satisfiable local problems.
-
-This is a support-level claim about physical reachability. It is not
-established by:
-
-- correlation or statistical dependence;
-- mutual information, synergy, or another information measure;
-- a non-product probability kernel whose support still factorizes;
-- causal coupling or network connectivity;
-- complexity, feedback, recurrence, or an attractor;
-- non-decomposability of a label or predicate; or
-- the one trajectory that happened to occur.
-
-Synchronic non-factorization does not by itself identify the ownership scope,
-classify constitutive members, connect two frontiers as one token operation,
-establish future closure, identify experience, or attribute a UEF to a
-concrete system. Repeated pointwise closure across an interval does not supply
-the missing continuity relation by itself.
+Support non-factorization is not the necessary local condition. Product or singleton outgoing support does not settle disunity, and non-product support does not settle unity. Actual production, local consequence uptake, ownership and full token continuity must not be inferred from a support comparison. Repeating local dependence findings cannot supply the missing constitutive criterion or the full stage relation.
 
 ## Diachronic Closure
 
@@ -152,7 +126,7 @@ physically produce and inherit the other as its unique continuation?
 The stage-indexed relation `Adj_dia(a,b)` holds only when all five conditions
 hold together:
 
-1. Continuous closure. Globally non-factorizable, internally borne closure
+1. Continuous closure. Joint present organization and internally borne closure
    spans the transition without a qualifying gap.
 2. Operational successor production. The organization at $a$ produces the
    regime-defining organization at $b$ through its actual lawful dynamics.
@@ -283,7 +257,7 @@ A weak formulation such as “the past affects the future” accepts too much.
 
 | Near miss | What it can supply | What remains missing |
 | --- | --- | --- |
-| Ideal orbit | Lawful uninterrupted succession and possible return near an earlier configuration | Independently established non-factorizable ownership and typed irreversible inheritance |
+| Ideal orbit | Lawful uninterrupted succession and possible return near an earlier configuration | Independently established internally borne organization and typed irreversible inheritance |
 | Feedback controller | Feedback, coupling, error sensitivity, and history-dependent response | Closure, ownership, membership, production, inheritance, and uniqueness; control may remain externally arbitrated |
 | Replay, buffer, or checkpoint | A stored or copied record capable of recreating earlier organization | Continuous owned operation across the gap, operational successor production, and token identity |
 | Externally installed succession | Ordered endpoints, causal preparation, or a lawful-looking sequence | Production of the later organization by the earlier operation and inheritance through their actual transition history |
@@ -309,7 +283,7 @@ realization without an inner selector.
 
 The analogy stops there. An ideal orbit may return near an earlier
 configuration without irreversibly changing the conditions of later motion.
-It supplies neither non-factorizable ownership nor typed history-bearing
+It supplies neither internally borne organization nor typed history-bearing
 inheritance. Recurrence is not re-entry, and uninterrupted motion is not
 sufficient for closure under consequence.
 
@@ -363,8 +337,8 @@ after cessation.
 
 ### Unity
 
-Synchronic non-factorization explains why admissible continuation is one joint
-problem rather than a product of separately completed subsystem problems.
+The present-unity formulation targets one organization of jointly transformed
+continuation conditions. Its physical individuation remains incomplete.
 Diachronic closure explains how that bounded unity can continue as one token
 rather than a sequence connected only by resemblance.
 
@@ -434,7 +408,7 @@ This account does not claim that:
 ## Summary
 
 Closure under consequence is the explanatory unity of one bounded physical
-operation's present non-factorizable continuation, actual successor
+operation's present organization, actual successor
 production, and typed inheritance across a unique continuing history. The
 operation does not emit a result to another bearer. When continuity holds, it
 becomes and bears the physically instantiated conditions of what it can do

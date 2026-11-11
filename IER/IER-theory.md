@@ -27,14 +27,14 @@ ier:
     - IER-multiscale-uefs
     guardrails:
     - IER-canon
-  version: 10.11.6
+  version: 10.12.0
 ---
 
 # Theory
 
 ## Conceptual Backbone and Explanatory Integration
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *Tier 1 - Foundational - Non-Normative - Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -119,7 +119,7 @@ Numerical token identity requires independently individuated stages satisfying c
 
 ## Unity Without Aggregation
 
-Unity under the relation account concerns one inseparable successor problem at the declared physical typing and globally borne restriction. It is not produced by summing local subjects or synchronizing selected descriptions.
+Unity under the relation account concerns one self-updating organization whose activities jointly transform continuation conditions. Its physical criterion and constitutive scope remain incomplete. It is not produced by summing local subjects or synchronizing selected descriptions.
 
 Physical participants are not presumed to be smaller experiences. Independently qualifying nested or overlapping UEFs remain possible, but each requires its own full qualification; their coexistence does not entail a summed subject or incompatible ownership of the same typed resolution.
 

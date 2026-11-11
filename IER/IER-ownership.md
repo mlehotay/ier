@@ -28,13 +28,14 @@ ier:
     - IER-nonentailment
     - IER-diagnostics
     - IER-ethics
+  version: 10.12.0
 ---
 
 # Ownership
 
 ## Non-Externalizable Burden, Mineness, and Operation-Relative Boundaries
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · PROJECTION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -48,6 +49,8 @@ or provide privileged access to external truth.
 
 ## Core Relation: Where the Restriction Is Borne
 
+The present-unity premise is physically incomplete. The relations below retain their separate obligations; they do not fill that gap by referring to an already unified operation. Successor-support non-factorization is no longer a necessary unity or continuity condition.
+
 Ownership is non-externalizable bearing and resolution of globally binding
 restriction within the operation. It is operation-relative, not a possession,
 introspective endorsement, anatomical interior, or graded amount of mineness.
@@ -55,10 +58,9 @@ An independently qualifying UEF owns its internally borne successor problem;
 this is not ownership conferred by a report or an observer's classification.
 
 State the candidate boundary, variables, grain, interval, operative restriction,
-and interventions before assessing the relation. Synchronic support closure
-concerns non-factorization of a single outgoing fibre under physically meaningful
-partitions. It does not by itself establish ownership, membership, continuity,
-or experience. Those remain separate physical relations.
+and interventions before assessing the relation. Present unity concerns the organization jointly transforming continuation conditions;
+its physical criterion is incomplete. A successor-support comparison establishes
+neither unity nor ownership, membership, continuity or experience. Those remain separate physical relations.
 
 The distinction can be expressed through a conditional boundary comparison.
 Suppose a candidate's next organization depends on a resource supplied from

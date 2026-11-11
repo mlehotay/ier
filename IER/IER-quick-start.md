@@ -14,7 +14,7 @@ ier:
   - guardrails_and_orientation
   category: framework_overviews
   filename: IER-quick-start.md
-  version: 10.11.6
+  version: 10.12.0
   provides: []
   requires:
     hard:
@@ -40,7 +40,7 @@ ier:
 
 ## Identity, Structure, and Continuity
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T4 · Orientation · Draft · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -91,7 +91,7 @@ A Unified Experiential Field is a continuing physical regime under coherent intr
 In a candidate UEF:
 
 - constraint is globally integrated;
-- the operation is non-factorizable into independently resolvable subsystem constraints;
+- present activity jointly transforms the conditions of further activity;
 - the relevant constraint is generated and borne within the regime;
 - it cannot be indefinitely localized, deferred, offloaded, or externally completed;
 - the operation persists across a non-zero interval;
@@ -106,7 +106,7 @@ Complexity, feedback, recurrence, computation, intelligence, integration, or cau
 
 UEF boundaries are structural rather than assumed anatomical or spatial boundaries. Bilateral contribution and bearing summarize two necessary aspects of constitutive membership. The full relation also requires joint non-externalizable resolution, diachronic uptake, and common physical typing. All five conditions concern the same operation and restriction; reciprocal influence alone is insufficient. See [Processes](https://github.com/mlehotay/ier/blob/main/IER/IER-processes.md#the-full-membership-relation).
 
-Non-factorization concerns physically admissible successor support, not probability weights or observed correlation. The candidate, variables, grain, interventions, and exhaustive meaningful partition family must be fixed independently; each block is projected from the same outgoing support. See [Intrinsic Closure](https://github.com/mlehotay/ier/blob/main/IER/IER-intrinsic-closure.md).
+Present unity concerns one self-updating organization whose constituent activities jointly transform the conditions of their own continuation. Its physical boundary and criterion remain incomplete. The former successor-support non-factorization requirement is withdrawn; neither product support nor singleton support alone settles disunity. See [Intrinsic Closure](https://github.com/mlehotay/ier/blob/main/IER/IER-intrinsic-closure.md).
 
 One independently individuated UEF operation is one subject.
 
@@ -122,7 +122,7 @@ IER identifies the subject with a temporally extended operation, so persistence 
 
 Across successive stages, the same subject continues when:
 
-- coherent non-factorizable closure and internally borne ownership remain
+- coherent present organization and internally borne ownership remain
   continuously instantiated;
 - the operation produces its own successor through actual dynamics;
 - the earlier operation's physically typed irreversible consequences remain
@@ -193,7 +193,7 @@ Concrete UEF attribution may nevertheless remain empirically underdetermined. Th
 
 IER is an abductive, a posteriori identity proposal.
 
-It can describe its proposed physical regime without using consciousness as a physical input: lawful transitions, admissible continuation, non-factorization, bilateral participation, internally borne resolution, temporal continuity, successor production, and inherited deformation.
+It can describe its proposed physical regime without using consciousness as a physical input: lawful transitions, admissible continuation, present organization, bilateral participation, internally borne resolution, temporal continuity, successor production, and inherited deformation.
 
 That makes the proposed relation schema physically specifiable without using experience as an input. It does not establish a non-circular procedure for identifying subjects in concrete systems: physical variables, boundaries, grain, interventions, and comparison domains must be independently justified.
 
@@ -209,7 +209,7 @@ IER argues instead that one qualifying physical operation and total experience s
 | Experience | One token UEF operation through a continuity interval |
 | Subject | The same token operation as total experience-as-process |
 | Identity | Concrete process-subject identity |
-| Unity | Globally integrated, non-factorizable intrinsic constraint |
+| Unity | One qualifying present organization; physical individuation open |
 | Participation | Contribution, bearing, joint resolution, diachronic uptake, and common typing |
 | Boundary | Maximal regime-relative participation boundary |
 | Slack | Independent resolution capacity incompatible with qualifying UEF operation |
@@ -231,7 +231,7 @@ one continuing UEF operation
 = total experience
 = experiential subject
         ↓
-globally non-factorizable,
+jointly organized,
 internally borne constraint
         ↓
 present organization constrains continuation

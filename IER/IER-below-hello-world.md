@@ -12,7 +12,7 @@ ier:
   category: pre_experiential
   status: canonical
   filename: IER-below-hello-world.md
-  version: 10.11.6
+  version: 10.12.0
   requires:
     hard:
     - IER-specification
@@ -33,7 +33,7 @@ ier:
 
 ## Why Rich Structure Alone Does Not Establish Experience
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -60,7 +60,7 @@ A failed candidate at one scope does not exclude independently qualifying operat
 
 ## Failure Mode I — Factorable Outgoing Support
 
-[Intrinsic Closure](IER-intrinsic-closure.md) requires non-product support across every partition in the exhaustive meaningful family, with block projections taken from the same global fibre. A genuinely factorable partition defeats that condition. Mere weak coupling, low correlation or a convenient modular description does not establish the factorization.
+[Intrinsic Closure](IER-intrinsic-closure.md) now concerns present organization with an incomplete physical criterion. The former all-partitions non-product requirement is withdrawn. A factorable partition does not by itself establish disunity; weak coupling, low correlation and a modular description likewise do not establish the constitutive boundary.
 
 For example, probability weights can be correlated even while every recombination remains physically available. Statistical dependence then supplies no non-product support verdict. Likewise, an unavailable recombination for one partition illustrates a local result without completing the exhaustive test.
 

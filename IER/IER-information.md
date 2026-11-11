@@ -8,7 +8,7 @@ ier:
   category: foundations
   status: canonical
   filename: IER-information.md
-  version: 10.11.6
+  version: 10.12.0
   provides:
   - UC089
   - UI024
@@ -39,7 +39,7 @@ ier:
 
 ## Information as Structured Exclusion of Admissible Continuation
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T1 · Foundational Clarification · Canon-Constrained · Non-Normative*
 
 ## Status, Scope, and Authority
@@ -190,11 +190,11 @@ It simply identifies the portion of admissible continuation that has become unav
 
 Intrinsic closure is clarified in *IER intrinsic-closure*.
 
-A regime is intrinsically closed when admissible futures cannot be decomposed into independent subsystem futures.
+Present unity concerns one self-updating organization whose constituent activities jointly transform the conditions of their own continuation. Its constitutive boundary and physical criterion remain incomplete.
 
 Intrinsic closure is not identical to information.
 
-Non-factorization concerns the same outgoing fibre across every independently fixed meaningful partition. It establishes synchronic inseparability only. Ownership determines whether the relevant burden is internally borne and non-externalizable; bilateral membership and full continuity are additional relations.
+Support non-factorization concerns unavailable recombinations in the same outgoing fibre. It is no longer the necessary present-unity condition and establishes neither unity nor disunity. Ownership determines whether the relevant burden is internally borne and non-externalizable; bilateral membership and full continuity are additional relations.
 
 Within an independently qualifying owned regime, when exclusion occurs:
 

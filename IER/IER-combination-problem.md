@@ -24,7 +24,7 @@ ier:
     - IER-canon
     - IER-nonentailment
     - IER-diagnostics
-  version: 10.11.5
+  version: 10.12.0
   provides:
   - UC085
   - UI022
@@ -34,7 +34,7 @@ ier:
 
 ## Unity Under Closure and Consequence
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · BRIDGE · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -75,10 +75,10 @@ Physical parthood is enough to state the compositional distinction.
 The accepted owners divide the explanation rather than supplying a single
 integration score.
 
-* *Intrinsic Closure* specifies synchronic nonfactorization of the
+* *Intrinsic Closure* develops present organization rather than requiring nonfactorization of the
   outgoing continuation fibre across every predeclared physically meaningful
   nontrivial partition, at a fixed candidate, grain, frontier, interval,
-  intervention family, and restriction policy. Nonfactorization alone does
+  intervention family, and restriction policy. The incomplete formulation alone does
   not establish ownership, membership, continuity, or experience.
 * *Processes* governs participant membership through contribution,
   global bearing, joint nonexternalizable resolution, diachronic uptake,

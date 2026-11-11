@@ -12,7 +12,7 @@ ier:
   category: pre_experiential
   status: canonical
   filename: IER-hello-world.md
-  version: 10.11.5
+  version: 10.12.0
   requires:
     hard:
     - IER-specification
@@ -29,7 +29,7 @@ ier:
 
 ## Structural Intuition for a Continuing Physical Operation
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -58,25 +58,13 @@ neither intrinsic closure nor subjecthood.
 
 ## Joint Continuation
 
-[Intrinsic Closure](IER-intrinsic-closure.md) asks whether the outgoing
-admissible support can be resolved as independent block problems. Derive each
-block's successors from the same global support fibre. For every partition in
-the exhaustive predeclared family of physically meaningful nontrivial
-partitions, at least one recombination of projected block successors must be
-unavailable globally.
+Present unity consists in one self-updating organization whose constituent activities jointly transform the conditions of their own continuation.
 
-A two-block illustration can make the distinction visible: each block may
-admit two successors, while only some of the four combinations are globally
-available. This illustrates that partition only; an arbitrary example does
-not establish the exhaustive global condition.
+This is an incomplete physical formulation, not a necessary-and-sufficient test. The constitutive boundary, the distinction between joint resolution and interacting organizations, and the relation between changing conditions and maintaining constitutive organization remain open. Neither causal coupling nor organizational maintenance alone establishes a UEF.
 
-Non-product probability weights can coexist with all combinations remaining
-available. Correlation, feedback, recurrence, network connection or a single
-realized transition therefore cannot substitute for the support test.
+A common description, feedback circuit or support-recombination comparison does not identify a constitutive whole. A singleton successor support factorizes regardless of productive dependence; it supplies no disunity verdict. The rest of UEF qualification remains independently required.
 
-The result is one inseparable physical continuation problem. It does not
-independently identify an owner, a constitutive boundary, a continuing token
-or experience.
+The distinction between externally supplied conditions and constitutive participation remains a physical burden, not an inference from causal influence alone.
 
 ## Owned Burden and Constitutive Membership
 

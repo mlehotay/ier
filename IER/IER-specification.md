@@ -30,7 +30,7 @@ ier:
   - foundations
   category: foundations
   filename: IER-specification.md
-  version: 10.11.5
+  version: 10.12.0
   requires:
     structural:
     - IER-continuity
@@ -41,7 +41,7 @@ ier:
 
 ## Full Normative Specification
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *Tier 1 · Foundational · Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -71,7 +71,7 @@ Admissible futures refer to the set of physically possible continuations permitt
 
 ### Normative Boundary Condition
 
-This document defines the complete and exclusive normative core of Informational Experiential Realism (IER v10.11.5).
+This document defines the complete and exclusive normative core of Informational Experiential Realism (IER v10.12.0).
 
 It specifies exhaustively:
 
@@ -200,6 +200,12 @@ A system-level dynamical regime that is:
 2. Temporally continuous - experience exists only across non-zero duration
 3. Self-sustaining - the system generates and maintains its own constraint
 4. Under coherent intrinsic constraint - unavoidable, irreducible, and globally binding
+
+Present unity consists in one self-updating organization whose constituent activities jointly transform the conditions of their own continuation.
+
+This is an incomplete physical formulation, not a necessary-and-sufficient test. The constitutive boundary, the distinction between joint resolution and interacting organizations, and the relation between changing conditions and maintaining constitutive organization remain open. Neither causal coupling nor organizational maintenance alone establishes a UEF.
+
+Successor-support non-factorization is no longer a necessary condition of present unity or UEF qualification. Singleton or product support alone does not exclude a qualifying regime, and non-product support alone does not establish one. The remaining UEF conditions above are retained; the incomplete formulation is not sufficient for attribution.
 
 A UEF is not a component, module, workspace, or substance.
 
@@ -530,7 +536,7 @@ All further moral reasoning requires principles not contained in this specificat
 
 ## Normative Closure
 
-IER v10.11.5 introduces no primitives beyond:
+IER v10.12.0 introduces no primitives beyond:
 
 * physical systems
 * intrinsic constraint

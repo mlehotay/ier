@@ -12,7 +12,7 @@ ier:
   - UI033
   status: canonical
   filename: IER-futures.md
-  version: v10.11.6
+  version: 10.12.0
   requires:
     hard:
     - IER-specification
@@ -35,10 +35,12 @@ ier:
 
 ## Admissibility Domains and the Structure of Futures
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · FOUNDATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
+
+The physical criterion for present unity is incomplete. Successor-support factorization, singleton cardinality and causal coupling alone establish neither a constitutive unity verdict nor UEF qualification. Support and transition mathematics used here retain their stated descriptive meaning.
 
 Experiential structure confers no epistemic authority about mind-independent reality.
 

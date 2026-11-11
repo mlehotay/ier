@@ -23,14 +23,14 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: 10.11.6
+  version: 10.12.0
 ---
 
 # Structural Closure
 
 ## The Framework-Internal Terminus of Explanation
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T1 · Foundational Clarification · Non-Normative · Canon-Constrained*
 
 ## Reader Notice
@@ -65,7 +65,7 @@ Several uses of *closure* answer different questions.
 
 | Term | Question answered |
 | --- | --- |
-| Synchronic intrinsic closure | Does outgoing continuation form one non-factorizable successor problem at this frontier? |
+| Synchronic intrinsic closure | What constitutes the joint present organization? Its physical criterion remains open. |
 | Diachronic closure | Do independently individuated stages belong to one uniquely continuing operation? |
 | Closure under consequence | How do successor production and inherited consequence form one continuing operation? |
 | Structural closure | Where does explanation terminate within IER's ontology? |
@@ -250,7 +250,7 @@ relations it instantiates:
 
 - lawful transition;
 - admissible continuation;
-- synchronic non-factorization where closure holds;
+- joint present organization where closure is established;
 - internally borne and non-externalizable resolution where ownership holds;
 - bilateral constitutive membership;
 - actual successor production;

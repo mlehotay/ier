@@ -22,7 +22,7 @@ ier:
     - IER-canon
     - IER-nonentailment
     - IER-diagnostics
-  version: 10.11.5
+  version: 10.12.0
   provides:
   - UC108
   - UI027
@@ -33,7 +33,7 @@ ier:
 
 ## Intrinsic Nature, Structural Access, and Epistemic Non-Authority
 
-**Informational Experiential Realism (IER v10.11.5)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · BRIDGE · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -77,7 +77,7 @@ supply categorical experiential stuff to complete its ontology.
 Strawson's intrinsic nature concerns categorical or qualitative being.
 IER intrinsic constraint concerns physically borne restrictions on the
 continuation of an operation. IER intrinsic closure specifies a synchronic
-nonfactorization relation at a fixed physical scope.
+present-organization relation at a physically justified scope; its criterion remains incomplete.
 
 The latter two do not disclose the former. Nor does the adjective “intrinsic”
 convert a relation into privileged acquaintance with ultimate constitution.

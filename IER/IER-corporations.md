@@ -12,7 +12,7 @@ ier:
   category: institutional_systems
   status: canonical
   filename: IER-corporations.md
-  version: 10.11.6
+  version: 10.12.0
   requires:
     hard:
     - IER-specification
@@ -34,7 +34,7 @@ ier:
 
 ## A Conditional Structural Exclusion and Its Attribution Burden
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · Case · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -53,7 +53,7 @@ A collective corporate candidate with an actual independence-preserving resoluti
 
 In this article, experiential subjecthood means a qualifying UEF operation under IER's identity proposal. Legal personhood is a separate juridical category. No inference about rights, duties or practical accountability follows merely from choosing the experiential vocabulary.
 
-The full physical qualification is not a checklist of high integration, internal cost and unchanging regime organization. Support-level closure, non-externalizable ownership, all five constitutive membership conditions and produced-and-inherited continuity retain distinct scopes. Qualifying operation can change its matter, boundary and local organizational regime.
+The full physical qualification is not a checklist of high integration, internal cost and unchanging regime organization. Present organization with an incomplete physical criterion, non-externalizable ownership, all five constitutive membership conditions and produced-and-inherited continuity retain distinct scopes. Qualifying operation can change its matter, boundary and local organizational regime.
 
 ## The Corporate Candidate and Its Boundary
 

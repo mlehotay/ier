@@ -26,7 +26,7 @@ ier:
   - temporal_persistence
   category: temporal_continuity
   filename: IER-continuity.md
-  version: 10.11.6
+  version: 10.12.0
   requires:
     hard:
     - IER-specification
@@ -58,7 +58,7 @@ ier:
 
 ## Produced Successors, Inherited History, and Token Continuity
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -107,8 +107,7 @@ qualifying continuity relation.
 
 ## Distinct Physical Relations
 
-Synchronic closure concerns non-factorization of one physically declared
-successor fibre. Ownership concerns where its relevant burden is borne;
+Present unity concerns the jointly self-updating physical organization. Ownership concerns where its relevant burden is borne;
 constitutive membership concerns the full bilateral interval relation.
 Diachronic continuity concerns produced and inherited succession across
 independently individuated stages. Closure under consequence synthesizes these
@@ -116,6 +115,8 @@ roles without adding a third qualification condition. None substitutes for
 another, and concrete operationalization remains an open physical burden.
 
 ## Physical Stage Continuity
+
+The present-unity premise is physically incomplete. The relations below retain their separate obligations; they do not fill that gap by referring to an already unified operation. Successor-support non-factorization is no longer a necessary unity or continuity condition.
 
 Fix adjacent non-zero-duration stages $a$ and $b$ at a declared physical grain,
 with independently individuated ownership scopes, typed participant domains,
@@ -126,7 +127,7 @@ universal verification tuple.
 
 The accepted stage-indexed relation `Adj_dia(a,b)` requires all five conditions:
 
-1. Continuous closure. Globally non-factorizable, internally borne closure
+1. Continuous closure. Joint present organization and internally borne closure
    spans the relevant transition cuts without a qualifying gap or incompatible
    independently resolved successor operations.
 2. Operational successor production. The actual dynamics at $a$ produce

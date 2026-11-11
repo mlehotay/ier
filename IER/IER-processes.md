@@ -35,13 +35,13 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: v10.11.6
+  version: 10.12.0
 ---
 
 # Processes
 ## Constraint Processes and Constitutive Participation
 
-**Informational Experiential Realism (IER v10.11.6)**\
+**Informational Experiential Realism (IER v10.12.0)**\
 *T2 · Explanatory Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -441,6 +441,8 @@ in the same globally organized successor problem.
 
 
 ## The Full Membership Relation
+
+The present-unity premise is physically incomplete. The relations below retain their separate obligations; they do not fill that gap by referring to an already unified operation. Successor-support non-factorization is no longer a necessary unity or continuity condition.
 
 For a physical process to count as a constitutive participant over a stated
 interval, the following conditions must hold together:
