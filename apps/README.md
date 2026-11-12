@@ -7,7 +7,7 @@ defining criteria.
 
 | Project | What to explore |
 | --- | --- |
-| [Philosophy of Mind](philosophy/README.md) | A reading curriculum, philosophical exposition, and research on physicalism and subject identity. |
+| [Philosophy of Mind](philosophy/README.md) | A reading curriculum, current identity and unity exposition, and research on physicalism and subject identity. |
 | [Neuroscience](neuroscience/README.md) | What brain measurements and models establish about experience, duration, and subject individuation. |
 | [Abhidharma](abhidharma/README.md) | A comparison with a historical taxonomy of experiential structures and conditioning. |
 | [The Edible Woman](edible-woman/README.md) | A reading of Margaret Atwood's novel, with a reader guide and claims ledger. |

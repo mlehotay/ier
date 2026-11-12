@@ -21,6 +21,19 @@ with prerequisites, selected readings and optional branches. For IER's
 philosophical exposition, read the
 [Metaphysical Account](metaphysical-account-of-the-uef-process-subject.md).
 
+The account uses a persistence-first order: identify the continuing physical
+operation, then explain experiential unity through identity with that operation.
+Its physical proposal is that qualification and individuation also determine
+constitutive scope and ownership boundary, without an additional unity
+condition. The physical adequacy of those conditions remains open. The entire
+sedimented substrate is not automatically the operation's constitutive scope.
+The account promises neither phenomenal assembly nor a universal qualitative
+decoder or consciousness certification.
+
+Read [Experiential Unity](../../IER/IER-unity.md) for the canonical distinctions
+among phenomenal, experiential and regime unity, and the incomplete physical
+formulation under the Specification.
+
 | Document | What it offers |
 | --- | --- |
 | [Problems of Physicalism](problems-of-physicalism.md) | A neutral inventory of thirty problems, without an IER verdict. |

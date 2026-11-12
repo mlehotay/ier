@@ -23,6 +23,14 @@ For an intuitive introduction, try [Hello World](IER/IER-hello-world.md),
 intuition; it is not a completed physical instantiation. The
 [Learning IER: A Guided Annotated Reading List](IER/IER-bibliography.md) supplies a beginner sequence and optional branches. The [philosophical reading map](apps/philosophy/IER-philosophy-of-mind-curriculum.md) organizes sources by argument and question.
 
+For the current philosophical account of identity and unity, read the
+[Metaphysical Account of the UEF Process-Subject](apps/philosophy/metaphysical-account-of-the-uef-process-subject.md).
+It starts with a continuing physical operation and explains experiential unity
+through identity with that operation. The physical proposal is that the
+conditions qualifying and individuating the operation also determine its
+constitutive scope and ownership boundary. Their adequacy remains open; the
+account is a non-canonical exposition, not a completed qualification test.
+
 ## Explore
 
 - [Where IER lives](MAP.md): theory sources, books, papers, teaching materials,
@@ -34,7 +42,7 @@ intuition; it is not a completed physical instantiation. The
 ## Project details
 
 IER is an active research project. Physical
-instantiation, empirical attribution of experience, qualitative correspondence,
+instantiation, empirical attribution of experience, particular qualitative identifications under identity,
 and the abductive defense of identity remain open research questions.
 
 By Michael Lehotay. See [CITATION.cff](CITATION.cff) for the current citation

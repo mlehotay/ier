@@ -65,6 +65,12 @@ claim of peer review or journal publication.
 - For a guided learning route: use the PhilPeople teaching materials or the
   [guided annotated reading list](https://github.com/mlehotay/ier/blob/main/IER/IER-bibliography.md).
 - For the scholarly argument: use the working-paper records above.
+- For the current philosophical account of identity and unity: read the
+  [Metaphysical Account](apps/philosophy/metaphysical-account-of-the-uef-process-subject.md).
+  It presents the proposal that physical qualification and individuation
+  determine constitutive scope and ownership boundary, with experiential unity
+  following under identity. The physical conditions remain incomplete; this
+  exposition does not establish a UEF in a particular system.
 - For a stable book edition: download the seed book, buy it, or consult the
   library record. Cite the edition actually read.
 - For a source passage: record the file and a Git commit or tag, rather than

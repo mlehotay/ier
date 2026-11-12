@@ -2,33 +2,45 @@
 
 ## Status and role
 
-Status: current philosophical exposition; synchronized 13 October 2026
+Status: current philosophical exposition; synchronized 12 November 2026
 Authority: non-canonical; canon-constrained
 
-This document explains the implemented v10.11.6 account of experience, subject,
-unity, ownership, membership and continuity. Phases 1–9/S1–S5 are complete at
-recorded bounds. It introduces no criterion, diagnostic, empirical attribution,
-ethical rule or independent ontological primitive.
+This document explains the v10.12.0 account of experience, subject, unity,
+ownership, membership and continuity, using the persistence-first explanatory
+order in the maintained core argument, `traceability/claims-summary.md`
+(development repository).
+It develops the author's chosen philosophical approach: experiential unity
+follows from identity with a qualifying continuing operation, rather than
+requiring a further assembly relation. The physical proposal is that the
+conditions qualifying and individuating the continuing operation also determine
+its constitutive scope and ownership boundary. The adequacy of those physical
+conditions remains open.
+Phases 1–9/S1–S5 are complete at their recorded bounds; that historical status
+does not establish completion of the revised physical account. This exposition
+introduces no criterion, diagnostic, empirical attribution, ethical rule or
+independent ontological primitive.
 
 | Source | Role and status |
 | --- | --- |
 | [Specification](../../IER/IER-specification.md) | Normative authority; its commitments prevail over this exposition. |
-| [Intrinsic closure](../../IER/IER-intrinsic-closure.md) | Implemented support-level synchronic relation. |
+| [Intrinsic closure](../../IER/IER-intrinsic-closure.md) | Present-organization formulation; necessary support non-factorization withdrawn, replacement physical criterion incomplete. |
+| [Unity](../../IER/IER-unity.md) | Regime-first oneness of differentiated experience under the identity proposal. |
 | [Processes](../../IER/IER-processes.md) | Implemented five-clause constitutive membership. |
 | [Continuity](../../IER/IER-continuity.md) | Implemented five-condition stage relation and token cessation. |
 | [Closure under consequence](../../IER/IER-closure-under-consequence.md) | Explanatory synthesis of production and inheritance, not a third criterion. |
 | [Final research report](strawson-process-subject-final-report.md) | Accepted research and contribution limits; no independent theory authority. |
 
-Completeness here concerns the stated relations and their conditional
-implications. It does not mean demonstrated physical sufficiency, exhaustive
-quality correspondence, empirical individuation or proof of experiential
-identity. Canonical owners retain meaning authority. The completed Phase 12–14 review
+The stated relations and their conditional implications do not amount to a
+completed physical individuation account. They do not establish physical
+sufficiency, empirical attribution or proof of experiential identity. Qualitative
+individuation concerns warranted identifications under identity, not a universal
+physical-to-phenomenal decoder. Canonical owners retain meaning authority. The completed Phase 12–14 review
 and later accepted alignment scopes retain their recorded bounds; this exposition
 does not reopen those decisions or certify an independently owned publication.
 
 ## Central thesis
 
-> A Unified Experiential Field is one concrete, temporally continuing physical operation whose admissible continuation is globally non-factorizable, whose frontier constraint is borne and resolved non-externalizably, and whose consequences are inherited as the conditions of its next continuation. That token operation is numerically identical with one total experience-as-process and one experiential subject.
+> A Unified Experiential Field is a concrete, temporally continuing physical operation whose intrinsic constraint is generated and maintained, whose frontier constraint is borne and resolved non-externalizably, and whose consequences are inherited through its qualifying continuation. That token operation is numerically identical with one total experience-as-process and one experiential subject. Experiential unity is the oneness of this qualifying operation, whose differentiated activities constitute its content.
 
 In compressed form:
 
@@ -41,6 +53,68 @@ one token UEF operation
 The equality is numerical identity. It is not constitution, realization, production, representation, correlation, ownership by another entity, or the assembly of experiential parts.
 
 Nothing behind, above, or inside the UEF has the experience. The operation is the experience and subject.
+
+## Identity and unity: the same philosophical strategy
+
+The identity proposal rejects a picture in which a physical operation first
+occurs and then produces an additional experiential occurrence for a separate
+bearer. Physical operation, total experience and subject name the same token.
+On this proposal, no further production bridge connects the physical occurrence
+to experience. This is IER's approach to the hard problem, not a proof that the
+identity is true or that every objection to it has been answered.
+
+The approach to unity uses the same strategy. It rejects a starting picture
+in which independently existing experiences must acquire a further bond to
+become one total experience. Given identity with a qualifying operation,
+experiential differences are differentiations within that operation. There is
+no subsequent phenomenal assembly step. Attention, binding and changing
+participation organize the content; they do not supply its oneness.
+
+| Explanatory question | Identity-based account | Remaining obligation |
+| --- | --- | --- |
+| How does physical activity produce experience for a subject? | The qualifying operation is the experience and subject. | Specify the physical relatum and defend the identity proposal. |
+| How do experiential differences form one experience? | They are differences within that same qualifying operation. | Physically individuate the operation and its constitutive scope. |
+
+The philosophical consequence and the physical proposal must remain distinct.
+Under the identity proposal, one qualifying token operation is one total
+experience. The physical proposal is that the conditions qualifying and
+individuating the continuing UEF operation also determine its constitutive
+scope and ownership boundary. Under the identity claim, experiential unity
+follows without an additional unity condition. The adequacy of the physical
+conditions remains open. In the development repository, the current conceptual
+contract (`_work/unity/propagation/conceptual-contract.md`) states this research
+direction; the continuation-domain hypothesis
+(`_work/unity/discovery/unity-as-continuation-domain.md`) records its exploratory
+background. These development references are not included in the public export.
+
+The constitutive scope concerns processes belonging to that operation over the
+relevant interval. The ownership boundary concerns where its continuation is
+internally borne and resolved. These are related descriptions with distinct
+physical obligations. They do not automatically include the entire sedimented
+substrate: inherited organization can condition continuation outside current
+membership, and a shared substrate can support several operations. Sedimented
+capacity and the currently occurring operation must remain distinguishable.
+
+Calling a collection “one operation” cannot discharge this obligation. A common
+state vector or update function can describe independent systems. The account
+must identify the continuing organization and its scope without assuming the
+subject whose unity it is meant to explain. Any additional inseparability
+condition must earn its role through physical and explanatory justification.
+
+## Begin with physical persistence
+
+First describe a candidate organization that continues through changing states,
+matter and participating activities. Ask what produces later organization,
+which constraints are generated or maintained, and how consequences remain
+physically effective. An organism or an anatomically motivated region can
+provide a starting candidate without already defining the experiential scope.
+
+Ordinary persistence does not establish experience or numerical subject
+continuity. Nor does changing conditions of later activity establish maintenance
+of the organization constituting that activity. Constitutive membership,
+external support, ownership and the full stage relation retain their separate
+obligations. This order lets those physical relations be investigated before
+invoking experiential unity as their consequence.
 
 ## The kind of entity proposed
 
@@ -70,30 +144,34 @@ The account remains compatible in principle with deterministic, stochastic, quan
 
 ## Synchronic intrinsic closure and unity
 
-The [intrinsic-closure owner](../../IER/IER-intrinsic-closure.md) tests outgoing
-admissible successor support `A(s)` at a physically declared candidate, frontier,
-grain, interval and intervention family. For each partition in an exhaustive,
-predeclared family of physically meaningful nontrivial partitions, derive block
-successor sets by projecting that same global support fibre. Closure requires
-that their product differ from `A(s)` for every such partition.
+The [intrinsic-closure owner](../../IER/IER-intrinsic-closure.md) now describes
+present unity as one self-updating organization whose constituent activities
+jointly transform the conditions of their own continuation. Synchronic closure
+names the intended joint organization under intrinsic constraint. This is an
+incomplete physical formulation: its constitutive boundary, joint resolution,
+and relation to organizational maintenance remain open.
 
-Unavailable recombinations express one inseparable physical continuation
-problem. Failure across one selected partition proves only that narrower
-result. An incomplete partition family leaves the global verdict unestablished.
+The v10.12.0 correction withdrew successor-support non-factorization as a
+necessary unity condition. A singleton `A(s)` factorizes regardless of the
+productive dependencies that yield its successor. Product support does not
+establish disunity, and non-product support does not establish unity. The
+support calculations retain their mathematical meaning without individuating
+a subject. Whether resistance to every meaningful partition is justified as
+an additional physical requirement remains unresolved.
 
-This is a support condition, not probability dependence, a measured integration
-score, or the single realized trajectory. All successor combinations can remain
-admissible even when their probabilities are dependent.
+Candidate scope, variables, grain, interval and admissible comparisons must
+receive physical justification independently of the desired verdict. Coupling,
+feedback, correlation and organizational maintenance alone do not establish a
+UEF. Ownership, membership, self-sustenance and full continuity retain their
+requirements; no proposed local relation silently discharges the others.
 
-The synchronic verdict establishes physical joint constraint. Ownership and
-membership must be independently justified; continuity must also hold. Only
-under the complete UEF account and its identity thesis is the operation
-identified with one total experience and subject. Participating physical
-processes need not supply separate experiences to be combined.
-
-Globality is regime-relative. It does not mean the largest causally connected system, the entire organism, or the universe. It ranges over the processes participating in this closure-bearing operation across the relevant interval.
-
-Non-factorization is necessary within the current account but is not sufficient by itself. Ordinary interaction, correlation, feedback, entanglement, or mathematically non-product dynamics do not establish non-externalizable ownership, temporal self-inheritance, or experiential identity.
+Under the identity proposal, differentiated experience is activity within the
+qualifying operation. Unity follows at that level. The unresolved physical
+question is whether the proposed qualification and individuation conditions
+adequately establish that operation, its constitutive scope and ownership
+boundary. An additional unity condition is not assumed. Globality is
+relative to its constitutive scope, not the largest connected system, the
+entire organism or the universe.
 
 ## The frontier
 
@@ -135,8 +213,8 @@ This boundary is structural, regime-relative, and interval-relative. It is not f
 - importance or salience.
 
 Ownership names the global boundary relation. It does not create another
-owner or provide a phenomenological detector. After the synchronic test,
-independently establish where the inseparable burden is borne and resolved;
+owner or provide a phenomenological detector. Within the candidate continuing
+organization, independently establish where the relevant burden is borne and resolved;
 the desired subject attribution cannot select the ownership scope. Maximality
 concerns compatible constitutive participation in that scope and interval,
 not the widest causal ancestry or largest connected system.
@@ -195,7 +273,7 @@ An organismic process can therefore be external to the organism's UEF, while a t
 
 ## Embodiment
 
-Closure must be physically instantiated. Energy dissipation, stress, damage, fatigue and finite recovery can condition actual operation, but those labels do not establish non-externalizable ownership or the support relation. Embodiment names the physical realization and bearing of an independently qualifying restriction.
+Closure must be physically instantiated. Energy dissipation, stress, damage, fatigue and finite recovery can condition actual operation, but those labels do not establish non-externalizable ownership or joint present organization. Embodiment names the physical realization and bearing of an independently qualifying restriction.
 
 Embodiment does not independently define the subject:
 
@@ -209,7 +287,7 @@ The relation among the terms is:
 
 | Concept | Metaphysical role |
 | --- | --- |
-| Synchronic intrinsic closure | Outgoing support is non-factorizable across every declared meaningful partition |
+| Synchronic intrinsic closure | Intended joint present organization under intrinsic constraint; physical criterion incomplete |
 | Ownership | The scope of the operation within which the frontier is borne and resolved |
 | Bilateral participation | The process-relative condition of belonging to that ownership scope |
 | Embodiment | How and where the burden and cost of closure are physically realized |
@@ -248,7 +326,7 @@ The [continuity owner](../../IER/IER-continuity.md) defines `Adj_dia(a,b)`
 for independently individuated adjacent nonzero-duration stages in a pre-fixed
 physical comparison domain. All five conditions are required:
 
-1. **Continuous owned closure:** non-factorizable, internally borne closure
+1. **Continuous owned closure:** joint present organization and internally borne closure
    spans the transition without a qualifying gap or incompatible independent
    resolution.
 2. **Operational successor production:** actual dynamics produce the later
@@ -385,15 +463,15 @@ These are consequences of the proposed identity and boundary relations. They are
 
 ## What is complete and what remains open
 
-This exposition is **intensionally complete only at the level of the stated
-relations and conditional implications**. That does not establish their
-concrete instantiation, empirical sufficiency, or exhaustive qualitative mapping.
+This exposition states an identity commitment, retained physical relations and
+conditional consequences. The replacement physical unity formulation remains
+incomplete; a completed historical review does not close that question.
 Conditional on a UEF, it states:
 
 - what the experience is;
 - what the subject is;
-- what makes the operation one;
-- what fixes the subject boundary;
+- why experiential unity follows from identity with that qualifying operation;
+- which physical relations constrain the subject boundary;
 - what makes a process a constituent;
 - how causal openness is compatible with intrinsic closure;
 - how embodiment relates to ownership;
@@ -401,22 +479,37 @@ Conditional on a UEF, it states:
 - what onset, cessation, reconstruction, branching, and overlap mean; and
 - what follows immediately from those commitments.
 
-The following matters remain open without making the metaphysical description incomplete:
+Remaining work follows the theoretical burdens and scope boundary
+(`_work/theoretical-burdens.md` in the development repository):
 
-- whether the identity claim is true;
-- why identity should be preferred to realization, constitution, correlation, or structural analogy;
-- whether any particular concrete system sustains a UEF;
-- how to identify the exact ownership scope of an arbitrary biological or artificial candidate;
-- how to operationalize non-factorization, bearing, and inheritance empirically;
-- how particular organizations correspond to complete qualitative character;
-- which investigation-specific mathematical descriptions express the relations; and
-- necessary reconciliation in still-unreviewed application and publication scopes, distinct from the completed core reviews.
+- physically specify constitutive continuation domains and reconcile qualification,
+  closure, ownership, membership and continuity without circular assumptions;
+- test bounded structural claims and record supported, adverse and underdetermined
+  results, including whether any additional unity condition is justified;
+- develop defeasible empirical and abductive warrant for particular identifications,
+  including comparison with constitution and realization;
+- investigate particular and comparative qualitative identifications as two
+  descriptions of the same occurrence, subject to structural privacy; and
+- synchronize affected expositions and publications at their declared source
+  baselines while preserving completed reviews at their recorded bounds.
+
+This programme does not owe a mechanism producing experience from a completed
+nonexperiential operation, a bond assembling antecedent experiences, an
+infallible detector, or a universal catalogue decoding physical organization
+into phenomenal labels. It does not promise an exact boundary algorithm for
+every possible candidate. Bounded physical specification and defeasible
+identification remain substantive work; evidence may leave a verdict
+underdetermined. These limits do not protect the proposal from contradictions,
+systematic scope failures or reliable mismatches between independently
+described physical and experiential structure.
 
 The identity case is a posteriori and abductive: independently specified
 physical organization, proposed token coextension and ontological economy
 support a defeasible inference, not a deduction from structural equations.
 Schema articulation, physical typing, empirical attribution, qualitative
-correspondence and identity warrant are distinct burdens. The accepted S2
+individuation and identity warrant are distinct burdens. Qualitative character
+is the occurrence of the relevant intrinsic organization under the proposal,
+not an additional product that the organization must generate. The accepted S2
 waterfall dossier demonstrates an idealized transport/turnover subcase;
 ownership, full membership, inherited consequences and two-sided adjacency
 remain unestablished there. It is neither a whole-stack instantiation nor an
@@ -427,13 +520,21 @@ experiential attribution. Wider propagation remains a governed revision task.
 Subsequent theory work in this programme should preserve the following order:
 
 ```text
-qualifying physical operation
--> synchronic intrinsic closure and unity
--> ownership scope and subject boundary
--> bilateral constitutive membership
--> diachronic closure and numerical persistence
--> experiential organization and consequences
+candidate physical organization and persistence through change
+-> constitutive scope, owned closure and membership
+-> full successor production, inheritance and token continuity
+-> qualifying operation under the UEF commitments
+-> identity with total experience and subject
+-> experiential unity and differentiated content
 ```
+
+This is an explanatory order, not a temporal sequence in which a completed
+nonexperiential operation later acquires experience. Physical relations can
+constrain one another and require joint assessment. Numerical token continuity
+cannot establish its own closure or membership premises. The proposal assigns
+constitutive scope and ownership boundary to the conditions qualifying and
+individuating the operation. Their physical adequacy remains open; no missing
+phenomenal assembly mechanism is implied.
 
 It should not reverse that order by deriving the subject from cognition, report, organism membership, self-model, importance, behaviour, or familiar anatomy.
 
@@ -454,7 +555,7 @@ No downstream article should use an effect at one level as an unargued criterion
 
 ## Final compression
 
-> Experience is not produced for a subject by a physical system. One qualifying physical operation is numerically identical with the total experience and its subject. It is unified because its admissible continuation is globally non-factorizable; bounded by the scope of the frontier it owns non-externalizably; physically constituted by processes that jointly satisfy contribution, global bearing, joint resolution, diachronic uptake and common typing for that owned restriction; embodied wherever its costs are realized; and preserved through time only under all five stage conditions, including operation-mediated change and unique successor and predecessor. It can change content, organization, matter, and boundary while remaining the same token process. It ends when that process ends. Nothing in this account by itself proves the identity, detects a UEF, or identifies one in a particular system.
+> One qualifying continuing physical operation is the total experience and its subject. The identity proposal requires no additional experiential product or bearer; its unity account requires no assembly of antecedent experiences. Contents differentiate that same occurrence. The physical proposal is that the conditions qualifying and individuating the operation also determine its constitutive scope and ownership boundary. The positive task is to specify and test those conditions and develop defeasible warrant for the identification. Their physical adequacy remains open. Physical incompleteness does not reinstate a production bridge, phenomenal bond, detector or universal qualitative decoder.
 
 ## Established lineages and contribution
 
