@@ -38,6 +38,7 @@ account is a non-canonical exposition, not a completed qualification test.
 - [Theory overview](IER/IER-model-overview.md): an entry point to the selected canonical articles.
 - [Examples](examples/README.md): short, non-canonical illustrations.
 - [Applications](apps/README.md): exploratory projects in philosophy, neuroscience, literature, and toy systems.
+- [Changelog](CHANGELOG.md): public version milestones from the Seed release through the unity refactor.
 
 ## Project details
 
