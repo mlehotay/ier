@@ -39,6 +39,12 @@ The structural conditions discussed here remain governed by
 *IER coherence*, *IER intrinsic closure*, and the other canonical
 definition owners.
 
+The explanatory order begins with physical organization and persistence
+through change, assesses constitutive scope and full token continuity, and
+then applies the experiential identity claim. Unity's substantive physical
+work enters the qualification and individuation of that operation. Under
+identity, no further phenomenal assembly is required.
+
 
 ## Why Unity Requires Its Own Name
 
@@ -109,6 +115,88 @@ Candidate, variables, grain, interval, restriction and interventions must be phy
 
 The identity proposal connects experiential and physical descriptions of a qualifying UEF; it does not prove that any proposed organization qualifies.
 
+### Activity and Organizational Maintenance
+
+The physical account concerns occurring activity over a justified non-zero
+interval. Concentrations, contacts, positions, stresses and other conditions
+enable and restrict consumption, production, transport and rearrangement.
+Those activities transform conditions governing later activity. Variables
+describe the conditions; processes perform the transformations. A steady
+concentration can involve continuing consumption and replenishment, so an
+unchanged measured value need not mean inactivity. These distinctions follow
+[Processes](IER-processes.md#configurations-variables-and-processes).
+
+Changing continuation conditions does not by itself establish production or
+maintenance of constitutive organization. Consuming a shared reagent can
+alter another reaction's possibilities without demonstrating renewal of the
+organization through which the reactions occur. An organizational account
+must identify the constitutive constraints and trace which activities produce,
+repair or maintain them, which conditions are externally supplied, and which
+structures simply persist. Ordinary physical interactions perform this work;
+no separate updater, chooser or informational force is implied.
+
+The Specification's self-sustaining requirement remains. Neither self-updating
+conditions nor organizational maintenance alone establishes a UEF. Material
+and energy exchange are compatible with investigating internally maintained
+organization; causal isolation is not required.
+
+### Joint Activity, Scope, and Owned Resolution
+
+Joint organization requires an account of how differentiated activities
+constitute the proposed operation. Dependence can be mediated, directional
+or uneven; direct all-to-all influence and equal participation are not
+required. Conversely, co-location, shared material, reciprocal causal arrows
+or one combined update function cannot establish one operation. A jointly
+organized subcluster does not establish membership of an added independent
+remainder.
+
+Constitutive scope concerns the activities belonging to the operation over
+the relevant interval. Ownership concerns where continuation is internally
+borne and resolved. Neither scope is automatically the whole organism or
+sedimented substrate. Inherited organization can condition continuation beyond
+current membership, and several operations can use common substrate. Retained
+capacity alone does not individuate the currently occurring operation.
+
+[Ownership](IER-ownership.md#core-relation-where-the-restriction-is-borne)
+distinguishes supplied conditions from external resolution. A supplier or bath
+can affect activity, receive its effects and be indispensable while resolving
+its relevant continuation separately. Removal effects therefore do not decide
+membership. Replaying one trajectory cannot establish independence across the
+relevant alternatives; a replacement that must reproduce removed joint dynamics
+may have relocated the resolver instead. The comparison needs common physical
+typing and a justified interval, grain and intervention context. It is not a
+completed boundary algorithm.
+
+The [membership relation](IER-processes.md#the-full-membership-relation)
+retains all five clauses: constitutive contribution, global bearing, joint
+resolution, diachronic uptake and common typing. Reciprocal influence alone
+does not supply their conjunction. Participation and attention concern
+changing recruitment and prominence; they do not independently determine
+constitutive membership or assemble a subject. The relation between
+qualification, membership and scope must be assessed without defining each
+through an already assumed unified subject.
+
+### Produced and Inherited Continuation
+
+Physical persistence supplies a candidate for investigation, rather than a
+verdict about experience or numerical subject identity. An organization can
+continue through changing matter and states; several interacting operations
+can also persist together. The relevant questions concern what produces later
+organization and how earlier consequences remain physically effective within it.
+
+Local uptake helps specify a process's membership role. It does not establish
+the full [continuity relation](IER-continuity.md): continuous owned closure,
+successor production, typed consequence inheritance, operation-mediated change
+and two-sided uniqueness. Repeated local organization, endpoint resemblance,
+copied records, memories and retained substrate cannot bridge a failed stage
+relation. Effective inheritance need not involve fresh collapse at every advance.
+
+[Closure under consequence](IER-closure-under-consequence.md) synthesizes the
+assessed organization, production and inheritance within one operation. It
+cannot establish its own premises. The account must trace physical uptake
+without assuming the same-token verdict that the full relation is meant to
+establish.
+
 ## A Regime-First Account
 
 Accounts of phenomenal unity are often divided into *oneness-first* and
@@ -116,7 +204,11 @@ Accounts of phenomenal unity are often divided into *oneness-first* and
 experience or phenomenal whole. Relation-first approaches appeal to a relation
 such as co-consciousness among experiences.
 
-IER takes a *regime-first* approach.
+IER is *regime-first* in locating experiential differentiation within a
+qualifying physical operation. Its fuller explanatory order is
+*persistence-first*: investigate the organization that continues through change
+and what qualifies and individuates its operation before stating experiential
+unity as an identity consequence.
 
 The explanatory order is not:
 
@@ -127,8 +219,24 @@ small experiences -> unity relation -> total experience
 It is:
 
 ```text
-one UEF operation -> differentiated experiential content
+candidate physical organization and persistence through change
+-> constitutive scope, ownership and membership
+-> full successor production, inheritance and token continuity
+-> qualifying UEF operation under the identity proposal
+-> experiential unity and differentiated content
 ```
+
+This is an order of explanation, not a temporal sequence in which an already
+completed nonexperiential operation acquires experience. Physical relations
+can require joint assessment and revision. Ordinary persistence does not
+establish UEF qualification, and token continuity cannot establish its own
+closure or membership premises.
+
+The physical proposal is that the conditions qualifying and individuating the
+continuing UEF operation also determine its constitutive scope and ownership
+boundary. Its adequacy remains open. Calling a collection one operation,
+placing its variables in a common vector or enclosing it within an anatomical
+surface does not establish those conditions.
 
 The differentiated contents do not first exist as subjects or self-standing
 experiences. They are ways in which one experiential regime is organized.
@@ -137,6 +245,14 @@ unity.
 
 This blocks both an aggregation model and a regress in which a further subject,
 container, or binding operation must unify already experiential parts.
+
+There is no further phenomenal assembly after qualification and individuation.
+That does not mean unity has no explanatory work. The physical account must
+explain what makes this one operation, which differentiated activities belong
+to it, and how its organization continues through change. The preceding
+structural account carries this work into qualification and individuation;
+the identity consequence does not discharge it by stipulation. Any additional
+unity condition requires a specific physical and explanatory justification.
 
 
 ## Relation to the Bayne-Chalmers Taxonomy
@@ -338,11 +454,13 @@ substitutable for regime unity.
 
 ## Explanatory Limits and Remaining Burdens
 
-The regime-first account clarifies IER's proposal, but it does not remove every
-burden.
+The persistence-first order locates unity's physical work within qualification
+and individuation. It does not remove that work or complete the physical account.
 
 IER still owes:
 
+* an account of how activity produces or maintains constitutive organization,
+  distinguished from changing continuation conditions and passive persistence
 * sufficiently precise physical individuation of candidate UEF boundaries
 * evidence that the proposed intrinsic-constraint structure is instantiated in
   concrete systems
@@ -366,6 +484,8 @@ IER's account can be compressed as follows:
 * coherence remains the fourth order of information
 * experiential unity is the oneness of one differentiated experiential field
 * regime unity is the structural articulation of that oneness in IER
+* the persistence-first order carries the physical work on organization,
+  scope, ownership, membership and continuity into qualification and individuation
 * unity is constituted at the level of the UEF, not assembled from experiences
 * access, binding, representation, synchronization, and common subject
   attribution do not establish unity

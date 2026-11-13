@@ -24,7 +24,7 @@ independent ontological primitive.
 | --- | --- |
 | [Specification](../../IER/IER-specification.md) | Normative authority; its commitments prevail over this exposition. |
 | [Intrinsic closure](../../IER/IER-intrinsic-closure.md) | Present-organization formulation; necessary support non-factorization withdrawn, replacement physical criterion incomplete. |
-| [Unity](../../IER/IER-unity.md) | Regime-first oneness of differentiated experience under the identity proposal. |
+| [Unity](../../IER/IER-unity.md) | Persistence-first account retaining unity's physical work within qualification and individuation; experiential oneness follows under identity. |
 | [Processes](../../IER/IER-processes.md) | Implemented five-clause constitutive membership. |
 | [Continuity](../../IER/IER-continuity.md) | Implemented five-condition stage relation and token cessation. |
 | [Closure under consequence](../../IER/IER-closure-under-consequence.md) | Explanatory synthesis of production and inheritance, not a third criterion. |
@@ -69,6 +69,14 @@ become one total experience. Given identity with a qualifying operation,
 experiential differences are differentiations within that operation. There is
 no subsequent phenomenal assembly step. Attention, binding and changing
 participation organize the content; they do not supply its oneness.
+
+There is no further assembly work after the operation has been qualified and
+individuated, but unity still has substantive explanatory work. The physical
+account must explain what makes the candidate one continuing operation, how
+its differentiated activities belong together, and where its constitutive
+scope lies. The persistence-first order places that work within qualification
+and individuation. Beginning with a candidate continuing organization does
+not establish its oneness merely by naming it.
 
 | Explanatory question | Identity-based account | Remaining obligation |
 | --- | --- | --- |
@@ -115,6 +123,65 @@ of the organization constituting that activity. Constitutive membership,
 external support, ownership and the full stage relation retain their separate
 obligations. This order lets those physical relations be investigated before
 invoking experiential unity as their consequence.
+
+## Unity's physical work within persistence and qualification
+
+The earlier regime-first investigation developed physical questions that remain
+essential to this account. Their place in the argument changes: they concern
+the organization being qualified and individuated, rather than an additional
+unity relation applied after that work is complete.
+
+First, describe the activity through which the organization continues.
+Concentrations, contacts, positions and stresses condition consumption,
+production, transport and rearrangement; these activities change conditions
+for later activity. Variables describe those conditions, while processes
+perform the transformations. A steady concentration can involve continuing
+turnover. Ordinary physical interactions account for these changes, without
+a separate updater or informational force.
+
+Then distinguish changing continuation conditions from producing or maintaining
+the organization through which activity occurs. Consuming a shared reagent
+changes another reaction's possibilities, but does not by itself demonstrate
+renewal of the reaction network's constitutive constraints. Trace which
+activities produce, repair or maintain those constraints, which conditions
+are supplied externally, and which structures simply persist. Self-updating
+conditions alone establish neither the Specification's self-sustenance nor
+numerical persistence; organizational maintenance alone does not establish
+experience.
+
+The account must also explain the proposed scope of joint activity. Mediated,
+directional and uneven dependencies can matter without direct all-to-all
+influence. A common material, reciprocal causal arrows or a combined equation
+does not establish that the activities constitute one operation. Shared-reagent
+reactions, responsive baths, external suppliers, independent remainders and
+two interacting organizations supply comparisons through which to investigate
+the distinction. A jointly organized subcluster cannot establish membership
+of an added remainder. These questions require physical justification of grain,
+interval and scope; they do not reinstate a standing requirement of
+inseparability across every meaningful partition.
+
+Ownership and membership make this scope question more precise. An indispensable
+supplier can affect the candidate and receive its effects while resolving its
+relevant continuation separately. Removal alone cannot distinguish support from
+constitution. Replaying one trajectory is also insufficient: a replacement that
+must reproduce removed joint dynamics may have relocated the resolver. The
+five membership clauses below require assessment together under common physical
+typing. Attention and prominence cannot substitute for those relations.
+
+Finally, trace how activity produces successor organization and how earlier
+consequences remain physically effective within it. Local uptake, retained
+substrate, similar endpoints and copied records do not establish all five
+conditions of numerical continuity. Closure under consequence synthesizes the
+assessed organization, production and inheritance; it cannot establish its
+own premises. Membership cannot assume the very same-token verdict that its
+physical uptake relation helps constrain.
+
+These are explanatory obligations within the physical proposal. The relation
+between them can require joint assessment and revision, so their presentation
+as a sequence does not make each independently settled. Their adequacy remains
+open. Under identity, experiential unity articulates the oneness that this
+physical account must justify; it adds no further bond among antecedent
+experiences.
 
 ## The kind of entity proposed
 
@@ -172,6 +239,13 @@ adequately establish that operation, its constitutive scope and ownership
 boundary. An additional unity condition is not assumed. Globality is
 relative to its constitutive scope, not the largest connected system, the
 entire organism or the universe.
+
+This retains a distinction between the explanandum and its proposed account.
+Phenomenal unity names the question of experiences occurring together as a
+whole; experiential unity names the oneness of differentiated experience;
+regime unity articulates that oneness as the qualifying physical operation.
+Access, binding, representation and homogeneous content answer different
+questions. Access unity or disunity alone does not decide experiential oneness.
 
 ## The frontier
 
@@ -484,6 +558,8 @@ Remaining work follows the theoretical burdens and scope boundary
 
 - physically specify constitutive continuation domains and reconcile qualification,
   closure, ownership, membership and continuity without circular assumptions;
+- explain how activity produces or maintains constitutive organization, and
+  compare its scope with supplied conditions and interacting organizations;
 - test bounded structural claims and record supported, adverse and underdetermined
   results, including whether any additional unity condition is justified;
 - develop defeasible empirical and abductive warrant for particular identifications,
@@ -536,6 +612,12 @@ constitutive scope and ownership boundary to the conditions qualifying and
 individuating the operation. Their physical adequacy remains open; no missing
 phenomenal assembly mechanism is implied.
 
+The ordering therefore carries unity's physical work into those preceding
+conditions. An exposition must retain the reasoning about activity,
+organizational maintenance, joint scope, owned resolution and produced and
+inherited continuation. A later sentence saying that unity follows under
+identity cannot substitute for that reasoning.
+
 It should not reverse that order by deriving the subject from cognition, report, organism membership, self-model, importance, behaviour, or familiar anatomy.
 
 New explanations should identify which level they concern:
@@ -555,7 +637,7 @@ No downstream article should use an effect at one level as an unargued criterion
 
 ## Final compression
 
-> One qualifying continuing physical operation is the total experience and its subject. The identity proposal requires no additional experiential product or bearer; its unity account requires no assembly of antecedent experiences. Contents differentiate that same occurrence. The physical proposal is that the conditions qualifying and individuating the operation also determine its constitutive scope and ownership boundary. The positive task is to specify and test those conditions and develop defeasible warrant for the identification. Their physical adequacy remains open. Physical incompleteness does not reinstate a production bridge, phenomenal bond, detector or universal qualitative decoder.
+> One qualifying continuing physical operation is the total experience and its subject. The identity proposal requires no additional experiential product or bearer; its unity account requires no assembly of antecedent experiences. Contents differentiate that same occurrence. Unity's physical work concerns the activity, maintained organization, joint scope, owned resolution and produced and inherited continuation through which the operation is qualified and individuated. The physical proposal is that these conditions also determine its constitutive scope and ownership boundary. The positive task is to specify and test those conditions and develop defeasible warrant for the identification. Their physical adequacy remains open. Physical incompleteness does not reinstate a production bridge, phenomenal bond, detector or universal qualitative decoder.
 
 ## Established lineages and contribution
 
