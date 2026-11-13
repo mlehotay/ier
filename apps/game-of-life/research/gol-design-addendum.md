@@ -210,7 +210,7 @@ These are:
 
 ## Command System Extensions
 
-The GoL command system implements simulation control, built-in pattern and `.cells` placement, seed/delay changes, and topology/stats commands. See [current command rules](commands.md). RLE loader format selection and every analysis command below remain separate work.
+The GoL command system implements simulation control, built-in pattern and `.cells` placement, seed/delay changes, and topology/stats commands. See [current command rules](../docs/commands.md). RLE loader format selection and every analysis command below remain separate work.
 
 Deferred command categories:
 

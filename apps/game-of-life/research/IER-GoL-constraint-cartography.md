@@ -98,7 +98,7 @@ rejection condition so that disagreement can narrow the proposed method.
 ## Implementation Status and Sequence
 
 The [README](../README.md) describes the current CLI and controls. The
-[design](gol-design.md#implementation-status) targets a complete simulator;
+[design](../docs/gol-design.md#implementation-status) targets a complete simulator;
 runtime commands and random/pattern/file startup initialization are available. A basic
 [world test harness](../tests/README.md) checks block/oscillator/glider evolution;
 Gosper gun emission is also verified; the phase-exit audit remains open. Ordinary birth/death/change statistics exist, but there is no

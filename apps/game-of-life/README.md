@@ -13,7 +13,7 @@ This project serves two roles:
 Status: experimental\
 Authority: non-canonical
 
-The current executable is a simulator baseline, not the completed GoL phase or an implemented IER analysis layer. Runtime commands and random, built-in or file startup initialization are implemented. Non-interactive suites verify block stability, oscillator periods and glider translation; gun emission is verified; the phase-exit audit remains open. See the [design](docs/gol-design.md#implementation-status), [deferred analysis](docs/gol-design-addendum.md), and [orientation](docs/gol-orientation.md).
+The current executable is a simulator baseline, not the completed GoL phase or an implemented IER analysis layer. Runtime commands and random, built-in or file startup initialization are implemented. Non-interactive suites verify block stability, oscillator periods and glider translation; gun emission is verified; the phase-exit audit remains open. See the [design](docs/gol-design.md#implementation-status), [deferred analysis](research/gol-design-addendum.md), and [orientation](research/gol-orientation.md).
 
 A standalone [`.cells` parser](docs/cells-format.md) supports startup and runtime
 `load`. A standalone [RLE parser](docs/rle-format.md) is also available; format
@@ -150,10 +150,8 @@ src/
   command.*     -> command system
   cli.*         -> startup option parsing
 
-docs/
-  gol-design
-  gol-design-addendum
-  IER-*      -> structural analysis layer
+docs/          -> simulator usage, formats and design
+research/      -> machine descriptions, worked examples and analysis proposals
 ```
 
 
@@ -217,14 +215,14 @@ The singleton-projection calculation and conditional filtered-set argument are e
 
 ### Relevant Documents
 
-- [Orientation and canonical boundary](docs/gol-orientation.md)
-- [Predicate construction](docs/IER-GoL-predicate-nondecomposability.md) and [conditional argument](docs/IER-life-nondecomposability.md)
-- [Regional support proposal](docs/IER-GoL-support-admissibility.md)
-- [Local mathematical notation](docs/IER-math-register-expansion.md)
-- [Analysis workflow](docs/IER-GoL-getting-started.md)
-- [Future directions](docs/IER-GoL-future-directions.md)
-- [Constraint cartography proposal](docs/IER-GoL-constraint-cartography.md)
-- [Explanation-completeness proposal](docs/IER-GoL-explanation-completeness-criterion.md)
+- [Orientation and canonical boundary](research/gol-orientation.md)
+- [Predicate construction](research/IER-GoL-predicate-nondecomposability.md) and [conditional argument](research/IER-life-nondecomposability.md)
+- [Regional support proposal](research/IER-GoL-support-admissibility.md)
+- [Local mathematical notation](research/IER-math-register-expansion.md)
+- [Analysis workflow](research/IER-GoL-getting-started.md)
+- [Future directions](research/IER-GoL-future-directions.md)
+- [Constraint cartography proposal](research/IER-GoL-constraint-cartography.md)
+- [Explanation-completeness proposal](research/IER-GoL-explanation-completeness-criterion.md)
 
 
 ## Intended Use
