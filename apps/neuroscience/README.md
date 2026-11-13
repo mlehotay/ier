@@ -20,10 +20,11 @@ The articles examine what empirical measurements, models, and interventions esta
 ### Neural Unity and Binding
 
 [Neural Unity and Binding: A Conditional Research Program](neural-unity-proposal.md)
-proposes a bounded investigation of physical support, shared continuation,
-participation load, and the constraint cycle. It identifies the physical
-coupling and ownership evidence still needed before neural competition could
-explain one unified operation.
+starts with neural organization continuing through change, then investigates
+physical support, participation load and the constraint cycle within that
+account. It identifies the organization, maintenance, scope, ownership,
+membership and full continuity evidence still needed to assess the resource
+hypothesis. Competition and support factorization supply no unity verdict.
 
 ### Visual Duration
 

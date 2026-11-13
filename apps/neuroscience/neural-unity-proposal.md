@@ -2,14 +2,19 @@
 
 **Status:** exploratory proposal · non-canonical · no experiential diagnostic
 
-Updated for the v10.12.0 first canonical stage: the necessary support-factorization test is withdrawn. The present-unity formulation and its physical criterion remain incomplete. Resource competition, bilateral influence and organizational maintenance alone establish no UEF. Distinguish changing availability from producing or maintaining the constitutive organization; the proposed neural mechanism has not established that stronger relation.
+Aligned with the v10.12.x persistence-first unity account. The physical criterion
+and constitutive boundary remain incomplete. Support factorization supplies no
+unity or disunity verdict. Resource competition, bilateral influence, physical
+persistence and organizational maintenance alone establish no UEF.
 
 ## Question and scope
 
-Could competition for the physical means of neural continuation help organize
-distributed processes into one jointly constrained operation? If so, what
-additional evidence would distinguish that operation from processes that merely
-share fuel, communicate, synchronize, or depend on the same supplier?
+What neural organization continues through changes in activity and material
+support, and which processes constitute that continuing operation? Within that
+investigation, could competition for the physical means of continuation help
+explain its organization and limits? The account must distinguish constitutive
+activity from processes that share fuel, communicate, synchronize, or depend on
+the same supplier.
 
 This proposal develops a possible **neural implementation** of IER's existing
 structural questions. It neither adds a UEF criterion nor asserts that a human
@@ -20,6 +25,11 @@ measurement as a test for experience. The [Specification](../../IER/IER-specific
 [Ownership](../../IER/IER-ownership.md),
 [Processes](../../IER/IER-processes.md), and
 [Continuity](../../IER/IER-continuity.md) retain authority over those relations.
+The explanatory order follows [Unity](../../IER/IER-unity.md#a-regime-first-account)
+and [Persistence](../../IER/IER-persistence.md): investigate continuing physical
+organization, assess its constitutive scope, ownership, membership and full
+continuity, then consider its qualification under the experiential identity
+proposal. This order does not assume that an already unified subject exists.
 
 ## Proposed mechanism
 
@@ -32,17 +42,34 @@ identified a single global pool**. “Resource” here means a physically specif
 process and its available states, not an amount of experience, willpower, or
 spoons.
 
-Competition becomes a candidate *unity mechanism* only if the participating
-processes and support processes jointly produce and bear the same restriction on
-their next physically possible organization. The claim is stronger than a common
-budget: a common supplier can limit two otherwise independent operations. In
-the proposed case, changing one participant must change the possibilities of
-the others *through the candidate operation*, and the resulting changes must
-feed into that operation's later continuation. The [resource-loop comparison in
-Processes](../../IER/IER-processes.md#phosphorylation-in-a-beaker) gives the
-relevant distinction between endogenous interlock and external supply.
+The resource hypothesis is a possible contribution to that physical account.
+It must trace which activities transform continuation conditions, which produce,
+repair or maintain constitutive constraints, and which supply external enabling
+conditions. Competition can change availability without maintaining the
+organization through which activity continues. A common supplier can limit
+several independently continuing operations; reciprocal influence does not
+settle their constitutive boundary. The [resource-loop comparison in
+Processes](../../IER/IER-processes.md#phosphorylation-in-a-beaker) motivates
+these distinctions without establishing a neural implementation or a UEF.
 
-The proposed chain is:
+The proposal must therefore investigate how current activity produces later
+organization and carries consequences forward, while separately assessing
+ownership and membership. Neither a coupling law nor an organizational
+maintenance loop alone establishes one qualifying experiential operation.
+
+The physical investigation has the following order:
+
+```text
+candidate neural organization persisting through activity and material change
+    → identify constitutive activity, maintained constraints and supplied conditions
+    → assess scope, ownership and membership without assuming one subject
+    → trace successor production, inheritance and the full continuity relation
+    → assess qualification under the experiential identity proposal
+```
+
+Within a candidate operation, the resource hypothesis addresses this further
+chain. It does not itself establish the qualification assumed by UEF-specific
+load descriptions:
 
 ```text
 physical support and current neural organization
@@ -101,11 +128,13 @@ measurement of experience.
 | `IER-capacities.md`, `IER-rate-control.md`, and `IER-human-integration.md` | Energetic support, participation, governance, welding, and rate control name different limits. Scarcity cannot be identified with a single stock of structural capacity; demand arrival and incorporation tempo may matter independently of supply level. | Vary supply, recruitment breadth, and demand tempo separately. Ask whether their effects dissociate, and whether later organization depends on the timing of independently identified events. |
 | [Processes](../../IER/IER-processes.md), [Intrinsic Closure](../../IER/IER-intrinsic-closure.md), and [Ownership](../../IER/IER-ownership.md) | A resource delivery process may be necessary yet remain an external supplier. Its constitutive status depends on joint successor production, global bearing, resolution, and uptake across the proposed boundary. | Compare an endogenous support loop with independently completed supply while preserving the relevant alternatives; assess productive organization and membership at one physical typing without treating support factorization as a unity test. |
 
-This gives the resource hypothesis a stricter form: a limited substrate may
-perturb several distinct boundaries, but unity requires a physically specified
-support-and-activity loop whose continuations cannot be independently
-recombined and whose restriction is internally borne. The same supply
-perturbation could instead reveal several independently continuing operations.
+A limited substrate may perturb several distinct boundaries. The task is to
+explain the occurring organization and its continuation, including what makes
+the proposed activities constitutive of it. Product, singleton and non-product
+successor supports do not settle that question. Recombination comparisons may
+describe possible results; they do not establish whether the organization
+producing those results is one qualifying operation. The same supply
+perturbation could affect several independently continuing operations.
 
 ## What a physical model must specify
 
@@ -116,14 +145,15 @@ following pieces.
 
 | Missing piece | Required account |
 | --- | --- |
+| Continuing organization | Identify the occurring activities and the organization they continue through material and state change. A common state vector, anatomical enclosure or retained capacity does not establish one operation. |
 | Physical support | Identify the substances or processes, their delivery and replenishment, and the time and spatial scales on which availability limits continuation. Test whether one or several limits matter. |
 | Coupling rule | Show how changes in one neural process alter the *possible continuations* of others through the proposed support-and-activity loop. Covariation, competition, or a scalar budget alone is insufficient. |
 | Closure | Describe which activities jointly transform continuation conditions and which generate or maintain constitutive constraints. Compare responsive supply and interacting organizations; the general boundary criterion remains open. Support calculations supply no unity verdict. |
 | Ownership and membership | Distinguish internal production and bearing of the restriction from indispensable external supply. Assess contribution, global bearing, joint resolution, diachronic uptake, and common physical typing for each proposed participant. |
-| Temporal production | Show how current activity and support organization physically produce later organization, including inherited consequences and any actual boundary change. A repeated pattern or persistent supplier does not establish token continuity. |
+| Full continuity | Trace actual successor production and physically effective inheritance between independently individuated stages. Assess continuous owned closure, operation-mediated change and unique qualifying successor and predecessor together. Repeated patterns, records and retained restart capacity cannot bridge a failed relation. |
 | Conditional events | Identify any irreversible foreclosure independently of greater cost, slowing, selection, or a single observed outcome. Attribute welding and propagation only after that event. |
 | Scale and boundaries | Compare neural, neural–glial, vascular, and wider organism candidates. Shared matter, anatomy, and nesting do not predetermine the number or extent of qualifying operations. |
-| Phenomenal bridge | State separately what would warrant identifying a completely characterized physical operation with experience. A successful resource model could remain an account of neural coordination alone. |
+| Experiential qualification and identity | State separately what would warrant qualification and the identity proposal. Under identity, differentiated contents are activity within the qualifying operation; no further phenomenal assembly is required. A successful resource model could still explain neural coordination alone. |
 
 The constitutive comparison should use the same operation and interval for all
 of these claims. One cannot combine a resource interaction at one scale with
@@ -131,27 +161,36 @@ closure at another and persistence at a third to manufacture a UEF.
 
 ## Research sequence and discriminating observations
 
-1. **Build a bounded physical model.** Start with a tractable neural system
-   whose activity, supply, replenishment, and relevant successor possibilities
-   can be independently described. Specify alternative independent-supplier
-   and shared-operation models before fitting outcomes.
+1. **Describe candidate persistence.** Start with a tractable neural system and
+   physically justified variables, grain and non-zero interval. Trace occurring
+   activity through material and state change. Specify competing accounts of
+   one continuing organization and several interacting organizations before
+   fitting outcomes; neither description establishes experiential qualification.
 2. **Vary demand and supply separately.** Perturb one candidate process's demand,
    then perturb supply or replenishment while tracking the other processes' live
    possibilities and later organization. Separate common slowing from changes
    in their joint continuation structure.
-3. **Test partitions and replacement.** Ask whether the modeled successors of
-   proposed parts recombine freely. Replace or bypass a proposed support process
-   while preserving the relevant alternatives, not just one observed input
-   sequence. If independently completed supply preserves those alternatives,
-   that supplier was external to the tested restriction.
+3. **Trace organization and assess replacement.** Identify which activities
+   produce or maintain constitutive constraints and which supply conditions.
+   Compare replacement or bypass across justified alternatives, rather than
+   replaying one trajectory. A replacement that reproduces removed joint
+   dynamics does not demonstrate independent supply. Assess ownership and all
+   membership conditions together; removal effects or unchanged successor sets
+   alone cannot decide constitutive status. Support recombination remains a
+   mathematical comparison, without a unity verdict.
 4. **Test tempo.** Compare demand arrival and incorporation over intervals in
    which conditional irreversible events can be independently identified. Look
    for distinctive effects of event rate, recruitment breadth, and inherited
    deformation instead of treating all overload as depletion of one pool.
-5. **Compare boundary cases.** Model coordinated activity with independent
+5. **Assess full continuity.** Trace production and inheritance across
+   independently individuated stages and assess the full continuity relation,
+   including uniqueness in both directions. Distinguish continued operation
+   from substrate persistence, retained capacity and restart after cessation.
+6. **Compare boundary cases.** Model coordinated activity with independent
    supplies, a common supply without joint resolution, and an endogenous loop.
-   Any proposed criterion should distinguish these cases before it is applied
-   to complex brains.
+   Assess what each comparison establishes about organization, scope and
+   continuation while recording what remains open. None of these model labels
+   supplies a completed physical unity criterion or an experiential verdict.
 
 Evidence for supply-sensitive coordination would support a neural mechanism.
 Evidence for an independently individuated, internally borne, continuing operation would
@@ -168,16 +207,23 @@ wider operation, couples its parts, or participates constitutively. Physical
 disconnection is especially relevant: the research program should predict
 which joint continuations survive when a major coupling route is removed.
 A necessary hub or successful perturbation still does not locate a subject or
-show that resource competition passes the closure and ownership tests.
+establish closure, ownership, membership or full continuity.
 
 ## Current assessment
 
-The proposal has an explanatory route from physical support through
-participation, conditional settlement, and inherited organization. Its decisive
-missing piece is a **specified physical coupling law** showing why the candidate
-processes have one jointly resolved successor problem. The exact support
-processes, their boundary, and the causal role of glial or vascular support are
-also open. The later step from that physical account to experiential identity
-remains an independent argument. Until those pieces are supplied, this is a
-research program for neural unity and binding, not a theory that a scarce
-biochemical resource unifies the UEF.
+The proposal now starts with the physical organization that continues through
+change. Resource dependence may help explain participation, load, conditional
+settlement and inherited effects within that investigation. Its contribution
+depends on specifying the actual support processes and coupling laws, tracing
+production and maintenance of constitutive organization, and justifying scope,
+ownership, membership and full continuity. These are distinct obligations;
+neither competition nor a jointly restricted successor set discharges them.
+
+The neural, glial, vascular and wider organism boundaries remain open, as does
+the general physical criterion distinguishing one qualifying operation from
+interacting organizations. Experiential qualification and the defense of
+identity remain further burdens. Under the identity proposal, an independently
+qualifying operation is its differentiated experience, without an additional
+binding mechanism assembling phenomenal parts. This research program has not
+yet established such an operation or shown that scarce biochemical resources
+explain experiential unity.
