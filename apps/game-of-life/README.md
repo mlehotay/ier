@@ -2,6 +2,8 @@
 
 An experimental implementation of Conway’s Game of Life with a structured terminal UI.
 
+See the [origin and name of the Game of Life](docs/origin.md) for a short history.
+
 This project serves two roles:
 
 * a clean, well-structured terminal application
