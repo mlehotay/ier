@@ -13,10 +13,14 @@ recurrence and responses to interventions in the
 the first exact acceptance examples.
 
 This durable design proposal lives in `research/`. Executable
-implementation tasks, once selected, belong in the project's existing
-`_work/plans/` and task dashboard. This draft changes no task state and does
-not close or expand the current phase-completion plan. Finish that baseline's
-control and exit audits before implementing this extension.
+implementation tasks now belong to app plan `0002-gol-unity-relations-reproduction`,
+`gol-0028`–`gol-0032`, in the existing `_work/plans/` and task dashboard.
+Specification is ready; implementation remains unstarted. The root unity plan
+owns source assessment and relation definitions; the dossier owns protocols and
+findings. This does not close or expand the baseline phase. Finish its control
+and exit audits before implementing this extension. The
+[reading list](GoL-Reading-List.md) informs definitions and their limits;
+bibliography annotations are not implemented measurements.
 
 ## Existing implementation
 
@@ -128,7 +132,9 @@ physical irreversible inheritance or subject identity.
    then run the aggregate test gate and workflow validation. Keep research
    execution and interpretation in its dossier.
 
-Draft task boundaries above are proposals, not allocated task IDs. This plan
+The sequence above is a design resource; app tasks `gol-0028`–`gol-0032` in
+plan 0002 own selected reproduction work and acceptance evidence. Survivor-pane
+presentation remains optional UI work outside the required headless path. This plan
 does not commission a dependency graph, all-cuts search, scalar unity score,
 entropy proxy or ownership classifier. Those require a separate justified
 question and measurement contract.

@@ -72,6 +72,21 @@ CC BY-NC 4.0 license and the public IER URL are provided. For each release:
 
 ## Keep research separate
 
+The literature-led unity reproduction work is allocated in development plan
+`0002-gol-unity-relations-reproduction`, tasks `gol-0028`–`gol-0032`:
+
+- [ ] Specify fixed-world inputs, events/snapshots, relation versions and independent expected fixtures (`gol-0028`, ready).
+- [ ] Add a headless runner through the existing C engine and reproducible provenance (`gol-0029`, after specification and baseline phase exit).
+- [ ] Add reviewed persistence and matched-run measurements (`gol-0030`).
+- [ ] Add reviewed ON/OFF production and contribution traces and checkpoint provenance comparisons (`gol-0031`).
+- [ ] Reproduce separation, interaction, gun/output and grain comparisons and hand evidence to the dossier (`gol-0032`).
+
+Use the [nineteen-paper list](../research/GoL-Reading-List.md) to inform definitions
+and controls. Root unity tasks own the physical proposal, case assessment and
+canonical reconciliation. Software output supports a declared relation; it is
+not a membership or experiential-unity verdict.
+
+
 IER instrumentation, dependence/region/support analysis and persistence
 measurements remain proposals under [research/](../research/README.md).
 They follow completion of the simulator baseline and are not missing ordinary

@@ -37,7 +37,7 @@ The v10.12.1 direction uses [Game of Life](apps/game-of-life/research/README.md)
 as a testbed for real general organizational membership, boundary change and
 successor production. Intrinsic informational tension is the further
 qualification question. Shannon information updates alone establish neither
-tension nor its absence; the proposed GOL distinction remains a physical
+tension nor its absence; the proposed GoL distinction remains a physical
 research question.
 
 ## Explore

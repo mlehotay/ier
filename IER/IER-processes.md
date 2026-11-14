@@ -324,7 +324,7 @@ membership. The participant domain must follow from the relation rather than
 being fixed by the desired pattern identity.
 
 The full relation below concerns membership in an owned, intrinsically
-constrained operation. It is not asserted that GOL satisfies those clauses
+constrained operation. It is not asserted that GoL satisfies those clauses
 while lacking intrinsic constraint. The task is to explain their specialization
 of the proposed general relation, or justify coordinated revisions. General
 participation alone does not establish global bearing, non-externalizable joint

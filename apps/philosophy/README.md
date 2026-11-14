@@ -31,7 +31,7 @@ The account promises neither phenomenal assembly nor a universal qualitative
 decoder or consciousness certification.
 
 The v10.12.1 direction investigates these general organizational relations
-through GOL, then asks about intrinsic informational tension and full UEF
+through GoL, then asks about intrinsic informational tension and full UEF
 qualification. Shannon state descriptions alone establish neither tension nor
 its absence. The proposed distinction is not an entropy threshold or a
 categorical exclusion of computation.

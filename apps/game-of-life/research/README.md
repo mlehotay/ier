@@ -5,7 +5,7 @@
 Status: draft\
 Authority: non-canonical
 
-This material is exploratory. GOL is the primary v10.12.1 testbed for proposed
+This material is exploratory. GoL is the primary v10.12.1 testbed for proposed
 real organizational membership, boundary change and successor production.
 Intrinsic informational tension remains the further qualification question;
 Shannon state distinctions alone establish neither tension nor its absence.
@@ -15,6 +15,18 @@ states the proposal and its limits.
 This directory contains the app's research descriptions, worked examples and
 analysis proposals. Simulator usage, formats and implementation documentation
 remain in [docs/](../docs/).
+
+The [GoL reading list](GoL-Reading-List.md) collects literature on glider
+organization, causal contribution, continuity, autonomy, scale and boundary
+criteria, with proposed comparisons for the IER relational work.
+
+The development unity programme routes source assessment to root `todo-239`,
+candidate definitions to `todo-240`, cases to `todo-237` and justified owner
+reconciliation to `todo-241`. App plan `0002-gol-unity-relations-reproduction`
+and `gol-0028`–`gol-0032` own apparatus specification and later implementation.
+The existing dossier owns protocols/results. These are allocated work, not
+completed formalization or implemented IER metrics.
+
 
 Start with the [Life machine](game-of-life-machine.md), then the worked
 [glider](worked-examples/glider.md) and [toad](worked-examples/toad.md) examples.

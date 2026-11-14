@@ -84,10 +84,10 @@ intrinsic conditions of a UEF. The general membership relation and its owned
 specialization remain to be specified, as discussed in
 [Processes](IER-processes.md#general-organizational-membership).
 
-The hypothesis is that GOL updates Shannon information without intrinsic
+The hypothesis is that GoL updates Shannon information without intrinsic
 informational tension. State distinctions are updated and successors produced,
 but these relations do not, on the hypothesis, instantiate active intrinsic
-constraint. Ordinary GOL production remains state-dependent.
+constraint. Ordinary GoL production remains state-dependent.
 
 A Shannon description alone does not establish absence of tension in a
 physical organization. The proposal requires an independently specified

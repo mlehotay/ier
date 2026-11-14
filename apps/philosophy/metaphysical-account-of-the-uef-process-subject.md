@@ -2,14 +2,14 @@
 
 ## Status and role
 
-Status: current philosophical exposition; GOL direction synchronized 13 November 2026
+Status: current philosophical exposition; GoL direction synchronized 13 November 2026
 Authority: non-canonical; canon-constrained
 
 This document explains experience, subject, unity, ownership, membership and
 continuity using the persistence-first order in the maintained core argument,
 `traceability/claims-summary.md` (development repository). It carries forward
 the v10.12.0 canonical relations while developing the author's requested
-v10.12.1 direction: GOL as a testbed for real general organizational relations,
+v10.12.1 direction: GoL as a testbed for real general organizational relations,
 with intrinsic constraint as a further qualification question.
 It develops the author's chosen philosophical approach: experiential unity
 follows from identity with a qualifying continuing operation, rather than
@@ -128,7 +128,7 @@ invoking experiential unity as their consequence.
 
 ## General organizational relations and intrinsic qualification
 
-The author's GOL hypothesis proposes that the glider and toad instantiate real
+The author's GoL hypothesis proposes that the glider and toad instantiate real
 relations of organizational participation, boundary change and successor
 production. They can help specify these relations even if they lack the
 intrinsic constraint required for experience. This is the active testbed in
@@ -155,7 +155,7 @@ of its relations. Experience requires actual intrinsic tension and full UEF
 qualification, rather than merely representing or calculating those conditions.
 The host and the represented pattern require separate scope assessments.
 
-The hypothesis is that GOL processes Shannon information without intrinsic
+The hypothesis is that GoL processes Shannon information without intrinsic
 informational tension. Its state-dependent production and organizational
 relations are real, while the active intrinsic constraint required for
 experience is proposed to be absent.
@@ -166,7 +166,7 @@ specify the physical difference in the assessed organization, while retaining
 its production and participation relations. No information quantity is made
 an experiential threshold, and no blanket software exclusion follows.
 
-Likewise, claims about GOL's bias and curvature require a mapping to inherited
+Likewise, claims about GoL's bias and curvature require a mapping to inherited
 switching-cost and frontier geometry. A glider's direction or
 changing outline is not yet such a mapping. These are physical research
 questions, not a categorical exclusion of software or an attribution of host
@@ -611,7 +611,7 @@ Conditional on a UEF, it states:
 Remaining work follows the theoretical burdens and scope boundary
 (`_work/theoretical-burdens.md` in the development repository):
 
-- use GOL to specify the proposed general membership and boundary relation,
+- use GoL to specify the proposed general membership and boundary relation,
   distinguish intrinsic from supplied resolution, and reconcile the result with
   canonical qualification, ownership, five-clause membership and continuity;
 - explain how activity produces or maintains constitutive organization, and
@@ -693,7 +693,7 @@ No downstream article should use an effect at one level as an unargued criterion
 
 ## Final compression
 
-> General organizational membership and persistence are the proposed common relations investigated through GOL; intrinsic constraint and full UEF qualification remain further physical questions. One qualifying continuing physical operation is the total experience and its subject. The identity proposal requires no additional experiential product or bearer; its unity account requires no assembly of antecedent experiences. Contents differentiate that same occurrence. Unity's physical work concerns the activity, maintained organization, joint scope, owned resolution and produced and inherited continuation through which the operation is qualified and individuated. The physical proposal is that these conditions also determine its constitutive scope and ownership boundary. The positive task is to specify and test those conditions and develop defeasible warrant for the identification. Their physical adequacy remains open. Physical incompleteness does not reinstate a production bridge, phenomenal bond, detector or universal qualitative decoder.
+> General organizational membership and persistence are the proposed common relations investigated through GoL; intrinsic constraint and full UEF qualification remain further physical questions. One qualifying continuing physical operation is the total experience and its subject. The identity proposal requires no additional experiential product or bearer; its unity account requires no assembly of antecedent experiences. Contents differentiate that same occurrence. Unity's physical work concerns the activity, maintained organization, joint scope, owned resolution and produced and inherited continuation through which the operation is qualified and individuated. The physical proposal is that these conditions also determine its constitutive scope and ownership boundary. The positive task is to specify and test those conditions and develop defeasible warrant for the identification. Their physical adequacy remains open. Physical incompleteness does not reinstate a production bridge, phenomenal bond, detector or universal qualitative decoder.
 
 ## Established lineages and contribution
 

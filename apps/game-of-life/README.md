@@ -209,7 +209,7 @@ geometry, and failed allocations retain the existing board until retry succeeds.
 
 ## Current IER Research Direction
 
-GOL is the primary v10.12.1 testbed for proposed real organizational membership,
+GoL is the primary v10.12.1 testbed for proposed real organizational membership,
 boundary change and successor production. Glider and toad examples investigate
 changing participating roles; full experiential qualification remains separate.
 The Shannon-information/informational-tension distinction asks why these

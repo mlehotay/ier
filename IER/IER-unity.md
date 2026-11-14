@@ -132,7 +132,7 @@ whole simulation. [Processes](IER-processes.md#general-organizational-membership
 explains this development question and its distinction from full UEF membership.
 
 Intrinsic constraint remains a further physical assessment. The hypothesis
-is that GOL's Shannon state distinctions and lawful updates lack informational
+is that GoL's Shannon state distinctions and lawful updates lack informational
 tension: the active manifestation of intrinsic constraint. This distinguishes
 information processing from tension-bearing operation, not internal computation
 from an outside processor. Statistical describability alone cannot establish

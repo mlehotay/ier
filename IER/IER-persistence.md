@@ -82,7 +82,7 @@ The relation must explain continuation through turnover without defining it
 as whatever preserves a recognized pattern.
 
 This general relation is not yet the full owned UEF relation. The hypothesis
-is that GOL updates Shannon information without intrinsic informational tension. State-dependent production and organizational turnover
+is that GoL updates Shannon information without intrinsic informational tension. State-dependent production and organizational turnover
 can therefore be real while intrinsic qualification remains a further question.
 The proposed absence of tension requires physical justification; statistical
 describability alone does not establish it. The [process account](IER-processes.md#general-organizational-membership)

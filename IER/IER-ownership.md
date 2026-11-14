@@ -94,7 +94,7 @@ establish where the relevant restriction is internally borne and resolved.
 The [general membership discussion](IER-processes.md#general-organizational-membership)
 does not silently replace the full five-clause relation.
 
-The proposed non-experiential reading is that GOL's Shannon state distinctions
+The proposed non-experiential reading is that GoL's Shannon state distinctions
 and updates lack intrinsic informational tension. State-dependent production
 can still occur without establishing that intrinsic restriction is borne and
 resolved within the pattern. Ownership asks the further question of where an
