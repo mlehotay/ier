@@ -25,7 +25,7 @@ This project serves two roles:
 Status: experimental\
 Authority: non-canonical
 
-The current executable is a simulator baseline, not the completed GoL phase or an implemented IER analysis layer. Runtime commands and random, built-in or file startup initialization are implemented. Non-interactive suites verify block stability, oscillator periods and glider translation; gun emission is verified; the phase-exit audit remains open. See the [design](docs/gol-design.md#implementation-status), [deferred analysis](research/gol-design-addendum.md), and [orientation](research/gol-orientation.md).
+The current executable is a simulator baseline, not the completed GoL phase or an implemented IER analysis layer. Runtime commands and random, built-in or file startup initialization are implemented. Non-interactive suites verify block stability, oscillator periods and glider translation; gun emission is verified; the phase-exit audit remains open. See the [design](docs/gol-design.md#implementation-status), [deferred analysis](research/gol-design-addendum.md), and canonical GoL account (`IER/IER-game-of-life.md` in the development repository).
 
 A standalone [`.cells` parser](docs/cells-format.md) supports startup and runtime
 `load`. A standalone [RLE parser](docs/rle-format.md) is also available; format
@@ -222,29 +222,31 @@ questions and limits; the simulator does not implement a UEF qualification test.
 
 This project is part of the IER (Informational Experiential Realism) work.
 
-Its documentation proposes studying:
-
-* counterfactual dependence $D(s)$
-* diachronic relations $C_t$
-* region extraction
-* structural closure
-* projection of admissible futures
-
+Its research studies how organization produces its continuation through
+changing participating roles, with controlled comparisons of turnover,
+recurrence, boundary change, and intervention history.
 
 ### Current Formal Status
 
-The singleton-projection calculation and conditional filtered-set argument are established algebraically. The proposed GoL predicate case and regional perturbation support still need explicit computed witnesses and fully specified history/neighborhood policies. The simulator computes ordinary step statistics, not dependence graphs, closure tests or regional support. None of these objects independently establishes physical UEF qualification.
+For one complete board the deterministic update has one successor, whose
+same-fibre projections factorize. This does not exclude unity: the canonical
+account withdrew non-factorization as a necessary unity condition. General
+constitutive membership and full UEF qualification remain open questions.
+The simulator computes ordinary step statistics; research recording,
+interval measurements and production traces remain proposed.
 
+The existing IER mathematical register supplies the needed state, transition,
+set and relation vocabulary. No separate GoL math-register extension is needed.
 
 ### Relevant Documents
 
-- [Orientation and canonical boundary](research/gol-orientation.md)
-- [Predicate construction](research/IER-GoL-predicate-nondecomposability.md) and [conditional argument](research/IER-life-nondecomposability.md)
-- [Regional support proposal](research/IER-GoL-support-admissibility.md)
-- [Local mathematical notation](research/IER-math-register-expansion.md)
-- [Analysis workflow](research/IER-GoL-getting-started.md)
-- [Future directions](research/IER-GoL-future-directions.md)
-- [Constraint cartography proposal](research/IER-GoL-constraint-cartography.md)
+- [Research overview](research/README.md)
+- Canonical GoL account: `IER/IER-game-of-life.md` in the development repository
+- [Life machine](research/game-of-life-machine.md) and worked
+  [glider](research/worked-examples/glider.md) / [toad](research/worked-examples/toad.md) examples
+- [Persistence statistics plan](research/persistence-statistics-plan.md)
+- [Reading list](research/GoL-Reading-List.md) and [follow-up questions](research/GoL-Follow-up-Reading-List.md)
+- [Later UI and instrumentation design](research/gol-design-addendum.md)
 - [Explanation-completeness proposal](research/IER-GoL-explanation-completeness-criterion.md)
 
 
@@ -261,15 +263,11 @@ It is intended to become a controlled experimental system for:
 
 ## Future Work
 
-Planned directions include:
-
-* explicit witness construction for non-decomposability
-* automated computation of $D(s)$ and $C_t$
-* region and closure diagnostics
-* perturbation and sensitivity analysis
-* pattern taxonomy based on structural properties
-* alternative continuation semantics (recruitment)
-* scaling and cross-rule validation
+The [statistics plan](research/persistence-statistics-plan.md) specifies
+fixed-world recording, turnover and interval measurements, recurrence,
+matched interventions, and production provenance. The
+[development TODO](docs/todo.md#keep-research-separate) summarizes the software
+allocation and its implementation boundaries.
 
 
 ## Notes

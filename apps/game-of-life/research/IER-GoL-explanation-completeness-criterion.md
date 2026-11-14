@@ -25,14 +25,14 @@ NON-CANONICAL | EXPLORATORY | NOT READER-FACING
 This document proposes an analysis termination criterion for the IER Game of Life framework.
 
 It is a future analysis direction, not implemented simulator behavior. Dependence,
-history and region tooling remain proposed; see the [current analysis status](IER-GoL-getting-started.md#implementation-and-result-status)
-and [canonical boundary](gol-orientation.md#canonical-boundary). Predictive
+history and region tooling remain proposed; see the [statistics plan](persistence-statistics-plan.md)
+and canonical GoL account (`IER/IER-game-of-life.md` in the development repository). Predictive
 completeness here is relative to a declared model, geometry and topology; it
 establishes no physical closure, ownership or experiential standing.
 
 It does not modify Conway's Game of Life dynamics.
 
-It does not modify admissibility, dependence, or region definitions.
+It does not define constitutive membership or modify canonical admissibility.
 
 Instead, it proposes a proof-relative condition under which stepwise simulation is unnecessary for a specified predictive question. New observations can still matter to other questions or to validation of the model.
 
@@ -158,24 +158,23 @@ At that point:
 the covered evolution is derivable from the declared models and proof. A finite verified horizon justifies stopping explicit stepping only for that horizon; an indefinitely valid prediction requires an indefinite argument. Recognizing a pattern or matching a finite test fixture is insufficient.
 
 
-## Relation to Existing IER Analysis
+## Relation to Current GoL Research
 
-This proposal operates after:
+The [statistics plan](persistence-statistics-plan.md) proposes exact and
+translated recurrence measurements. Those can provide bounded evidence for
+predictive models, but do not by themselves prove complete future interaction
+coverage. Neither automatic region extraction nor a particular dependence
+graph is required by this criterion. Candidate regions and their models must
+be declared and justified for the selected prediction.
 
-- dependence computation
-- diachronic relation construction
-- region extraction
-
-It therefore complements rather than replaces the proposed analysis pipeline.
-None of these analysis stages is implemented in the current simulator.
+Automatic classification and interaction analysis are not implemented in the
+current simulator.
 
 Conceptually:
 
 configuration
 
-→ dependence
-
-→ regions
+→ declared candidate regions
 
 → structural classification
 

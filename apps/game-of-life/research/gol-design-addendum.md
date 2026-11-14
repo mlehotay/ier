@@ -136,50 +136,19 @@ Future capabilities:
 * region-scoped computation
 
 
-### Future-cone visualization
+### Production and participation records
 
-Potential features:
-
-* display of admissible continuation structure
-* forward propagation visualization
-* reachability boundaries
-
-
-### Coherence and closure metrics
-
-These would be explicitly defined example diagnostics, with declared boundary, window and predicate. A score, heatmap or connected graph cannot measure canonical intrinsic closure or experiential standing. Singleton actual successors and perturbation-support alternatives must be displayed as different objects.
-
-
-Possible additions:
-
-* coherence scores
-* closure predicates visualized
-* structural integrity indicators
-
-
-### Non-decomposability instrumentation
-
-Potential tools:
-
-* partition testing
-* factorization checks
-* dependence graph visualization
-
-
-### Diachronic dependence tracking
-
-Future structure:
-
-* explicit representation of dependence relations
-* cross-time dependency mapping
-* visualization of dependence edges
-
+The [statistics plan](persistence-statistics-plan.md) and app plan
+`0002-gol-unity-relations-reproduction` own the current apparatus proposal:
+fixed-world snapshots, event provenance, interval observations and reviewed
+production/contribution traces. This addendum supplies optional UI ideas,
+not a second analysis roadmap or a new membership predicate.
 
 ### Structural overlays
 
 Examples:
 
-* coherence heatmaps
+* turnover maps
 * dependency overlays
 * constraint visualization
 * region interaction indicators
@@ -189,23 +158,11 @@ Examples:
 
 The GoL phase uses simulation-native stats only.
 
-Deferred stats include:
-
-```c
-typedef struct {
-    double coherence;
-    double entropy;
-    double future_cone_score;
-} AnalysisStats;
-```
-
-The fields are illustrative placeholders without implemented formulas. Entropy would require a separately stated statistical model and is not canonical support; a future-cone score would not be an experiential attribution.
-
-These are:
-
-* not required for simulation correctness
-* not part of standard GoL behavior
-* dependent on analysis-layer definitions
+Additional measurements must have concrete definitions and acceptance
+examples in the [statistics plan](persistence-statistics-plan.md). Keep them
+separate from ordinary step counts and from UEF qualification. The earlier
+`coherence`, `entropy` and `future_cone_score` placeholders had no implemented
+formulas and are not a statistics contract.
 
 
 ## Command System Extensions
@@ -223,7 +180,7 @@ Examples (future):
 
 ```
 analyze region 10 10 20 20
-overlay coherence on
+overlay turnover on
 show dependencies
 track structure
 ```
@@ -300,15 +257,9 @@ Not because:
 
 ## Relationship to IER Documents
 
-This document bridges toward:
-
-* Game of Life structural analysis
-* Life nondecomposability
-* future analysis documents
-
-But does not modify them.
-
-It simply identifies where implementation support may eventually be required.
+The canonical GoL account (`IER/IER-game-of-life.md` in the development repository) explains the
+relations and their limits. This document concerns optional implementation
+support; it supplies no additional IER criterion or mathematical register.
 
 
 ## Migration Path

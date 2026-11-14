@@ -16,8 +16,8 @@ This durable design proposal lives in `research/`. Executable
 implementation tasks now belong to app plan `0002-gol-unity-relations-reproduction`,
 `gol-0028`–`gol-0032`, in the existing `_work/plans/` and task dashboard.
 Specification is ready; implementation remains unstarted. The root unity plan
-owns source assessment and relation definitions; the dossier owns protocols and
-findings. This does not close or expand the baseline phase. Finish its control
+owns source assessment and relation definitions; the app research directory owns protocols
+and findings. This does not close or expand the baseline phase. Finish its control
 and exit audits before implementing this extension. The
 [reading list](GoL-Reading-List.md) informs definitions and their limits;
 bibliography annotations are not implemented measurements.
@@ -104,11 +104,12 @@ physical irreversible inheritance or subject identity.
 
 ## Proposed implementation sequence
 
-1. **Reconcile documentation.** Update orientation, design addendum and related
-   support notes against current Unity, Persistence, Ownership, Processes and
-   Continuity. Keep valid singleton-support mathematics while removing the
-   withdrawn non-factorization exclusion. Inventory affected consumers; make
-   no canonical changes.
+1. **Fix the measurement scope.** Use the
+   canonical GoL account (`IER/IER-game-of-life.md` in the development repository) and current Unity,
+   Persistence, Ownership, Processes and Continuity owners. Keep the valid
+   singleton-support calculation without treating it as a unity exclusion.
+   Define the selected observations independently of a desired membership
+   verdict; the old predicate/support programme is not a prerequisite.
 2. **Expose native survivors.** Add the existing count to snapshots and a compact
    optional pane line. Give non-step values an explicit validity convention;
    no tick occurred at initialization. Preserve layout bounds and small-terminal
@@ -161,8 +162,9 @@ allocation failure must preserve simulator state and report missing metrics.
 
 ## Research handoff
 
-The `apps/research/investigations/game-of-life/README.md`
-owns bounded questions, protocol versions, evidence derivation and limits.
+The [research overview](README.md#proposed-sequence-of-investigations) owns
+bounded questions, protocol versions, evidence derivation and limits, with
+protocols and eventual results in [investigations/](investigations/).
 The app owns one simulator and its tests. Before a research run, freeze the
 selected metric definitions, dimensions, interventions and comparison horizon.
 This draft specifies no completed research result.

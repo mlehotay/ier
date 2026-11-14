@@ -102,11 +102,11 @@ the outgoing successor set of one fixed grid.
 
 Current [Unity](../../../IER/IER-unity.md#structural-basis) withdraws
 successor-support non-factorization as a necessary unity condition. Singleton
-support alone supplies neither unity nor disunity. Older
-[orientation](gol-orientation.md) and support-analysis notes retain historical
-claims based on that earlier requirement; their exclusionary unity conclusion
-does not control this persistence-first description. Their broader revision
-is included in the [draft statistics plan](persistence-statistics-plan.md).
+support alone supplies neither unity nor disunity. The development repository's
+`IER/IER-game-of-life.md`, “Deterministic Support and Ordinary Succession,”
+explains that distinction; the earlier predicate/support notes are superseded.
+The [statistics plan](persistence-statistics-plan.md) follows persistence and
+production without requiring a replacement support test.
 
 Extinction or a collision outcome is an ordinary model result. Calling it
 IER collapse requires the distinct foreclosure account under
@@ -120,8 +120,8 @@ draft statistics plan proposes turnover, recurrence, spatial extent,
 intervention comparison and event provenance. No new analysis code is supplied
 by these documents.
 
-The `apps/research/investigations/game-of-life/README.md`
-keeps questions, protocols and eventual evidence together while this app owns
+The [research overview](README.md#proposed-sequence-of-investigations) keeps
+questions, protocols and eventual evidence together in this app, alongside
 the simulator and fixtures. The
 `examples/collections/christmas-tree/christmas-tree-machine.md`
 provides a complementary physical proposal: ornaments reshape the arrangement
