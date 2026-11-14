@@ -84,7 +84,7 @@ Erase-and-redraw can preserve every subsequent grid while changing how the
 checkpoint was produced. A glider–still-life collision can produce cells with
 neighbors from both incoming patterns. Neither outgoing shape nor contribution
 counts alone decides ownership or token continuation. The
-[research proposal](../../../research/investigations/game-of-life/README.md)
+`apps/research/investigations/game-of-life/README.md`
 separates those follow-up questions from this reconstructed example.
 
 Source: `2-gol-chat.md` and `Game-of-Life-Machine.md` from the original

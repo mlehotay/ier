@@ -1,5 +1,7 @@
 # Informational Experiential Realism (IER)
 
+**Current citation edition: v10.12.1 · 13 November 2026.**
+
 IER is a physicalist theory of experience. Its central claim is:
 
 > Experience is identical to the operation of a qualifying Unified Experiential Field: a physically individuated operation with intrinsic closure, non-externalizable ownership, constitutive membership, and produced-and-inherited continuity.
@@ -30,6 +32,13 @@ through identity with that operation. The physical proposal is that the
 conditions qualifying and individuating the operation also determine its
 constitutive scope and ownership boundary. Their adequacy remains open; the
 account is a non-canonical exposition, not a completed qualification test.
+
+The v10.12.1 direction uses [Game of Life](apps/game-of-life/research/README.md)
+as a testbed for real general organizational membership, boundary change and
+successor production. Intrinsic informational tension is the further
+qualification question. Shannon information updates alone establish neither
+tension nor its absence; the proposed GOL distinction remains a physical
+research question.
 
 ## Explore
 

@@ -2,7 +2,17 @@
 
 An experimental implementation of Conway’s Game of Life with a structured terminal UI.
 
+Simulator version: **0.3.0** (experimental; independent of the IER theory version).
+Public IER repository: <https://github.com/mlehotay/ier>.
+Use `./gol --version` or runtime commands `:version`, `:license` and `:repo`
+to view this information. See the [development TODO](docs/todo.md) for remaining work.
+See the [changelog](CHANGELOG.md) for simulator milestones and current changes.
+
 See the [origin and name of the Game of Life](docs/origin.md) for a short history.
+The [resource guide](docs/gol-resources.md) covers cellular automata, rule
+variants and philosophical comparisons; the
+[static display guide](docs/gol-pattern-display.md) covers pattern figures
+for Markdown and publications without JavaScript or live simulation.
 
 This project serves two roles:
 
@@ -197,6 +207,17 @@ geometry, and failed allocations retain the existing board until retry succeeds.
 * random startup and `r` use the configured seed; the C library PRNG gives repeatability within a build/runtime, not a portable cross-platform board format
 
 
+## Current IER Research Direction
+
+GOL is the primary v10.12.1 testbed for proposed real organizational membership,
+boundary change and successor production. Glider and toad examples investigate
+changing participating roles; full experiential qualification remains separate.
+The Shannon-information/informational-tension distinction asks why these
+information updates lack intrinsic tension on the hypothesis. It introduces
+neither an entropy threshold nor an inference that all computation is
+non-experiential. The [research material](research/README.md) states the model
+questions and limits; the simulator does not implement a UEF qualification test.
+
 ## IER Integration
 
 This project is part of the IER (Informational Experiential Realism) work.
@@ -260,4 +281,12 @@ Planned directions include:
 
 ## License
 
-TBD
+Copyright © 2026 Michael Lehotay. The IER Game of Life simulator source and
+documentation are licensed under **Creative Commons Attribution-NonCommercial
+4.0 International (CC BY-NC 4.0)**, matching the public IER repository.
+See [LICENSE](LICENSE) for the full terms, or
+<https://creativecommons.org/licenses/by-nc/4.0/>.
+
+Release metadata is maintained in `src/version.h`. Bump the simulator version
+there and update the development and public READMEs when preparing a release;
+the experimental `0.x` version does not imply phase completion.

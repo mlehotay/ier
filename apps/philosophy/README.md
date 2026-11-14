@@ -30,6 +30,12 @@ sedimented substrate is not automatically the operation's constitutive scope.
 The account promises neither phenomenal assembly nor a universal qualitative
 decoder or consciousness certification.
 
+The v10.12.1 direction investigates these general organizational relations
+through GOL, then asks about intrinsic informational tension and full UEF
+qualification. Shannon state descriptions alone establish neither tension nor
+its absence. The proposed distinction is not an entropy threshold or a
+categorical exclusion of computation.
+
 Read [Experiential Unity](../../IER/IER-unity.md) for the canonical distinctions
 among phenomenal, experiential and regime unity, and the incomplete physical
 formulation under the Specification.

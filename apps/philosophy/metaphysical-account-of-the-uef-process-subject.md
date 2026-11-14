@@ -2,13 +2,15 @@
 
 ## Status and role
 
-Status: current philosophical exposition; synchronized 12 November 2026
+Status: current philosophical exposition; GOL direction synchronized 13 November 2026
 Authority: non-canonical; canon-constrained
 
-This document explains the v10.12.0 account of experience, subject, unity,
-ownership, membership and continuity, using the persistence-first explanatory
-order in the maintained core argument, `traceability/claims-summary.md`
-(development repository).
+This document explains experience, subject, unity, ownership, membership and
+continuity using the persistence-first order in the maintained core argument,
+`traceability/claims-summary.md` (development repository). It carries forward
+the v10.12.0 canonical relations while developing the author's requested
+v10.12.1 direction: GOL as a testbed for real general organizational relations,
+with intrinsic constraint as a further qualification question.
 It develops the author's chosen philosophical approach: experiential unity
 follows from identity with a qualifying continuing operation, rather than
 requiring a further assembly relation. The physical proposal is that the
@@ -17,7 +19,7 @@ its constitutive scope and ownership boundary. The adequacy of those physical
 conditions remains open.
 Phases 1–9/S1–S5 are complete at their recorded bounds; that historical status
 does not establish completion of the revised physical account. This exposition
-introduces no criterion, diagnostic, empirical attribution, ethical rule or
+introduces no settled criterion, diagnostic, empirical attribution, ethical rule or
 independent ontological primitive.
 
 | Source | Role and status |
@@ -124,6 +126,58 @@ external support, ownership and the full stage relation retain their separate
 obligations. This order lets those physical relations be investigated before
 invoking experiential unity as their consequence.
 
+## General organizational relations and intrinsic qualification
+
+The author's GOL hypothesis proposes that the glider and toad instantiate real
+relations of organizational participation, boundary change and successor
+production. They can help specify these relations even if they lack the
+intrinsic constraint required for experience. This is the active testbed in
+place of designing a modified Stapled Net machine.
+
+The proposed member is a process occurrence or participating role at a site
+over an interval. The coordinate can persist after that role ends. Preceding
+organization produces the role, and the role contributes to producing later
+organization. This bilateral relation must distinguish a participant from a
+perturbation, shared support and an independent co-occurring pattern. Shape
+recognition and causal ancestry alone cannot supply it.
+
+The working reading separates a general organizational relation from its
+intrinsically constrained form. Current canonical membership already invokes
+an owned restriction; its five clauses below remain the UEF-specific account.
+The research task is to explain their specialization or justify coordinated
+revisions. General participation does not silently satisfy global bearing or
+joint resolution. Intrinsic constraint also does not automatically discharge
+self-sustenance, full continuity or every other UEF requirement.
+
+The mathematical model itself is an abstract description, with no occurring
+physical tension or experience. A physical realization can instantiate some
+of its relations. Experience requires actual intrinsic tension and full UEF
+qualification, rather than merely representing or calculating those conditions.
+The host and the represented pattern require separate scope assessments.
+
+The hypothesis is that GOL processes Shannon information without intrinsic
+informational tension. Its state-dependent production and organizational
+relations are real, while the active intrinsic constraint required for
+experience is proposed to be absent.
+
+A Shannon description alone cannot establish tension's absence: a qualifying
+operation can also have statistically describable states. The task is to
+specify the physical difference in the assessed organization, while retaining
+its production and participation relations. No information quantity is made
+an experiential threshold, and no blanket software exclusion follows.
+
+Likewise, claims about GOL's bias and curvature require a mapping to inherited
+switching-cost and frontier geometry. A glider's direction or
+changing outline is not yet such a mapping. These are physical research
+questions, not a categorical exclusion of software or an attribution of host
+properties to its represented patterns.
+
+The philosophical implication is precise: general organizational individuation
+can be investigated before experiential qualification. When the full qualifying
+operation is established, identity explains experiential oneness without an
+additional assembly relation. The distinction introduces neither a second
+physical layer nor a mechanism turning nonexperience into experience.
+
 ## Unity's physical work within persistence and qualification
 
 The earlier regime-first investigation developed physical questions that remain
@@ -211,7 +265,7 @@ The account remains compatible in principle with deterministic, stochastic, quan
 
 ## Synchronic intrinsic closure and unity
 
-The [intrinsic-closure owner](../../IER/IER-intrinsic-closure.md) now describes
+The [intrinsic-closure owner](../../IER/IER-intrinsic-closure.md) describes
 present unity as one self-updating organization whose constituent activities
 jointly transform the conditions of their own continuation. Synchronic closure
 names the intended joint organization under intrinsic constraint. This is an
@@ -297,7 +351,8 @@ not the widest causal ancestry or largest connected system.
 
 Bilateral constitutive participation is the process-relative analysis of membership in the ownership boundary.
 
-A physical process belongs to the subject when, across the relevant continuity interval:
+In the current canonical UEF-specific relation, a physical process belongs to
+the subject when, across the relevant continuity interval:
 
 1. **Constitutive contribution** — the process helps constitute the UEF's admissible continuation rather than merely changing an input, parameter, or enabling condition.
 2. **Global bearing** — the UEF's global restriction obtains in the process's own physical possibilities of continuation.
@@ -556,8 +611,9 @@ Conditional on a UEF, it states:
 Remaining work follows the theoretical burdens and scope boundary
 (`_work/theoretical-burdens.md` in the development repository):
 
-- physically specify constitutive continuation domains and reconcile qualification,
-  closure, ownership, membership and continuity without circular assumptions;
+- use GOL to specify the proposed general membership and boundary relation,
+  distinguish intrinsic from supplied resolution, and reconcile the result with
+  canonical qualification, ownership, five-clause membership and continuity;
 - explain how activity produces or maintains constitutive organization, and
   compare its scope with supplied conditions and interacting organizations;
 - test bounded structural claims and record supported, adverse and underdetermined
@@ -597,9 +653,9 @@ Subsequent theory work in this programme should preserve the following order:
 
 ```text
 candidate physical organization and persistence through change
--> constitutive scope, owned closure and membership
--> full successor production, inheritance and token continuity
--> qualifying operation under the UEF commitments
+-> general organizational membership, boundary and successor production
+-> intrinsic constraint and reconciliation with owned UEF membership
+-> full qualification and produced/inherited token continuity
 -> identity with total experience and subject
 -> experiential unity and differentiated content
 ```
@@ -637,7 +693,7 @@ No downstream article should use an effect at one level as an unargued criterion
 
 ## Final compression
 
-> One qualifying continuing physical operation is the total experience and its subject. The identity proposal requires no additional experiential product or bearer; its unity account requires no assembly of antecedent experiences. Contents differentiate that same occurrence. Unity's physical work concerns the activity, maintained organization, joint scope, owned resolution and produced and inherited continuation through which the operation is qualified and individuated. The physical proposal is that these conditions also determine its constitutive scope and ownership boundary. The positive task is to specify and test those conditions and develop defeasible warrant for the identification. Their physical adequacy remains open. Physical incompleteness does not reinstate a production bridge, phenomenal bond, detector or universal qualitative decoder.
+> General organizational membership and persistence are the proposed common relations investigated through GOL; intrinsic constraint and full UEF qualification remain further physical questions. One qualifying continuing physical operation is the total experience and its subject. The identity proposal requires no additional experiential product or bearer; its unity account requires no assembly of antecedent experiences. Contents differentiate that same occurrence. Unity's physical work concerns the activity, maintained organization, joint scope, owned resolution and produced and inherited continuation through which the operation is qualified and individuated. The physical proposal is that these conditions also determine its constitutive scope and ownership boundary. The positive task is to specify and test those conditions and develop defeasible warrant for the identification. Their physical adequacy remains open. Physical incompleteness does not reinstate a production bridge, phenomenal bond, detector or universal qualitative decoder.
 
 ## Established lineages and contribution
 

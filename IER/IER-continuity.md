@@ -26,7 +26,7 @@ ier:
   - temporal_persistence
   category: temporal_continuity
   filename: IER-continuity.md
-  version: 10.12.0
+  version: 10.12.1
   requires:
     hard:
     - IER-specification
@@ -58,7 +58,7 @@ ier:
 
 ## Produced Successors, Inherited History, and Token Continuity
 
-**Informational Experiential Realism (IER v10.12.0)**\
+**Informational Experiential Realism (IER v10.12.1)**\
 *T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -113,6 +113,22 @@ Diachronic continuity concerns produced and inherited succession across
 independently individuated stages. Closure under consequence synthesizes these
 roles without adding a third qualification condition. None substitutes for
 another, and concrete operationalization remains an open physical burden.
+
+## General Succession and Qualifying Continuity
+
+Game of Life supplies a bounded comparison between state-dependent successor
+production and an independently installed identical board. Matching later
+states need not imply matching production histories. The proposed general
+organizational relation can be investigated through such comparisons without
+already establishing the numerical continuity of a subject.
+
+A glider's movement or a toad's recurrence does not by itself establish
+continuous owned closure, physically effective irreversible inheritance or
+unique two-sided qualifying continuation. Recruitment and boundary migration
+in the general account also require reconciliation with the full membership
+relation. These model questions do not weaken any clause of `Adj_dia` below.
+A pause in simulation is likewise not, by itself, a verdict about cessation
+of a physical experiential operation or the qualification of its host.
 
 ## Physical Stage Continuity
 

@@ -3,6 +3,7 @@
 #include "app.h"
 #include "cells.h"
 #include "number.h"
+#include "version.h"
 
 #include <stdio.h>
 #include <string.h>
@@ -25,6 +26,9 @@ static void reply(CommandLine *cmd, int success, const char *format, ...) {
 
 static const char *usage(const char *name) {
     if (!strcmp(name, "help") || !strcmp(name, "h")) return "help";
+    if (!strcmp(name, "version")) return "version";
+    if (!strcmp(name, "license")) return "license";
+    if (!strcmp(name, "repo")) return "repo";
     if (!strcmp(name, "stats")) return "stats on|off";
     if (!strcmp(name, "torus")) return "torus on|off";
     if (!strcmp(name, "bounded")) return "bounded";
@@ -184,7 +188,13 @@ void cmd_execute(struct App *app) {
     } else if (!strcmp(s, "pattern") || !strcmp(s, "load")) {
         apply_pattern(app, count, args, !strcmp(s, "load"));
     } else if ((!strcmp(s, "help") || !strcmp(s, "h")) && count == 1) {
-        reply(&app->cmd, 1, "Commands: help/h, stats on/off, torus on/off, bounded, seed N, delay MS, pattern NAME [center|X Y], load FILE [center|X Y], clear, randomize.");
+        reply(&app->cmd, 1, "Commands: help/h, version, license, repo, stats on/off, torus on/off, bounded, seed N, delay MS, pattern NAME [center|X Y], load FILE [center|X Y], clear, randomize.");
+    } else if (!strcmp(s, "version") && count == 1) {
+        reply(&app->cmd, 1, "%s %s", GOL_NAME, GOL_VERSION);
+    } else if (!strcmp(s, "license") && count == 1) {
+        reply(&app->cmd, 1, "%s %s", GOL_LICENSE, GOL_LICENSE_URL);
+    } else if (!strcmp(s, "repo") && count == 1) {
+        reply(&app->cmd, 1, "%s", GOL_REPOSITORY_URL);
     } else if ((!strcmp(s, "stats") || !strcmp(s, "torus")) && count == 2 &&
                (!strcmp(args[1], "on") || !strcmp(args[1], "off"))) {
         int enabled = !strcmp(args[1], "on");

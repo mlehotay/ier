@@ -103,6 +103,8 @@ startup errors are also smoke-checked during development. `make clean` removes
 the executable. `cli-numbers` checks every numeric option's minimum/maximum,
 signs, whitespace, fractions, junk, overflow, missing/null values and transactional
 rejection, plus malformed API vectors and printable error output.
+`cli-information` verifies that help/version return an informational exit
+without committing partially parsed startup settings.
 
 The rendering suite links `ui.c`, `stats.c` and `world.c` against terminal
 capture functions. Across 504 frames it checks layout thresholds, bounds of
@@ -156,6 +158,7 @@ success or failure; no downloaded fixtures or external dependencies are needed.
 | Command case | Coverage |
 | --- | --- |
 | `command-controls` | All required control commands and help alias, whitespace, seed/delay limits, seed-only updates, deterministic randomization and clear/reset semantics. |
+| `command-information` | Version/license/public URL replies fit 80 columns, preserve world/scratch/settings/statistics, reject extra arguments and remain discoverable in help. |
 | `command-patterns` | All seven names under both topologies, centered/default/explicit positions, exact additive cell results, stats refresh and scratch/generation/pause preservation. |
 | `command-files` | Quoted paths with spaces, centered/explicit/additive placement, malformed/empty/oversized/missing files and error locations. |
 | `command-feedback` | Specific success/error wording, command syntax guidance, pattern bounds context, printable feedback, help replies and rejection of overflowed editor input. |
@@ -211,7 +214,9 @@ Startup/runtime format-selection integration remains separate work.
 
 The executable startup-error suite uses Python's standard library to run the
 real binary with piped output, checking 18 invalid CLI/load/placement invocations
-and help. Every failure must exit 1 with one diagnostic line, no stdout and no
+and help/version. Informational options print version, copyright, license and
+public URL without a TTY, and skip opening a nonexistent startup file. Every
+failure must exit 1 with one diagnostic line, no stdout and no
 ANSI escapes. Cases cover missing/malformed/conflicting flags, pane size limits,
 missing/read/invalid/empty files and invalid placement. Files live in a temporary
 `/tmp/gol-errors-*` directory and are removed afterward. No TTY or third-party

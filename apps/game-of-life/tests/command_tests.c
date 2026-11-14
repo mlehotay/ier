@@ -1,5 +1,6 @@
 #define _POSIX_C_SOURCE 200809L
 #include "app.h"
+#include "version.h"
 
 #include <limits.h>
 #include <stdio.h>
@@ -107,6 +108,51 @@ static int command_controls(void) {
     passed = 1;
 cleanup:
     world_destroy(&expected);
+    world_destroy(&app.world);
+    return passed;
+}
+
+static int command_information(void) {
+    App app = {0};
+    int passed = 0;
+    CHECK(world_init(&app.world, 8, 6, 1) == 0);
+    world_randomize(&app.world, 42);
+    memset(app.world.next, 1, 48);
+    app.generation = 77;
+    app.paused = 1;
+    app.last_step = (StepStats){.live_cells = 12, .births = 2, .deaths = 3, .changed = 5};
+    const struct { const char *command, *expected; } cases[] = {
+        {"version", "OK: " GOL_NAME " " GOL_VERSION},
+        {"license", "OK: " GOL_LICENSE " " GOL_LICENSE_URL},
+        {"repo", "OK: " GOL_REPOSITORY_URL},
+    };
+    uint8_t cells[48], next[48];
+    memcpy(cells, app.world.cells, sizeof(cells));
+    memcpy(next, app.world.next, sizeof(next));
+    for (size_t i = 0; i < sizeof(cases) / sizeof(cases[0]); ++i) {
+        App before = app;
+        execute(&app, cases[i].command);
+        CHECK(finished(&app) && strcmp(app.cmd.message, cases[i].expected) == 0);
+        /* Each informational reply fits an ordinary 80-column command pane. */
+        CHECK(strlen(app.cmd.message) <= 78);
+        App after = app;
+        after.cmd = before.cmd;
+        after.needs_redraw = before.needs_redraw;
+        CHECK(memcmp(&before, &after, sizeof(before)) == 0);
+        CHECK(memcmp(cells, app.world.cells, sizeof(cells)) == 0);
+        CHECK(memcmp(next, app.world.next, sizeof(next)) == 0);
+    }
+    CHECK(rejects_unchanged(&app, "version extra"));
+    CHECK(strstr(app.cmd.message, "Usage: version."));
+    CHECK(rejects_unchanged(&app, "license extra"));
+    CHECK(strstr(app.cmd.message, "Usage: license."));
+    CHECK(rejects_unchanged(&app, "repo extra"));
+    CHECK(strstr(app.cmd.message, "Usage: repo."));
+    execute(&app, "help");
+    CHECK(strstr(app.cmd.message, "version, license, repo"));
+    CHECK(strstr(app.cmd.message, "randomize."));
+    passed = 1;
+cleanup:
     world_destroy(&app.world);
     return passed;
 }
@@ -291,6 +337,7 @@ int main(int argc, char **argv) {
         {"command-controls", command_controls}, {"command-patterns", command_patterns},
         {"command-files", command_files}, {"command-invalid", command_invalid},
         {"command-feedback", command_feedback},
+        {"command-information", command_information},
     };
     int selected = 0, failed = 0;
     if (argc > 2) return 2;

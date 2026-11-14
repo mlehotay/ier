@@ -11,7 +11,7 @@ defining criteria.
 | [Neuroscience](neuroscience/README.md) | What brain measurements and models establish about experience, duration, and subject individuation. |
 | [Abhidharma](abhidharma/README.md) | A comparison with a historical taxonomy of experiential structures and conditioning. |
 | [The Edible Woman](edible-woman/README.md) | A reading of Margaret Atwood's novel, with a reader guide and claims ledger. |
-| [Game of Life](game-of-life/README.md) | Software and research on persistent organization, trajectories, and constraint in a cellular automaton. |
+| [Game of Life](game-of-life/README.md) | Testbed for general organizational membership, successor production and the intrinsic informational-tension question. |
 
 Each project has its own reading route and research limits. Simulations,
 analogies, and comparisons do not by themselves establish experiential identity.

@@ -7,6 +7,9 @@ between arguments are accepted. Extra arguments and malformed numbers fail.
 | Command | Behavior |
 | --- | --- |
 | `help` or `h` | List command syntax as ordinary transient feedback. |
+| `version` | Show the simulator name and version, independent of IER theory versions. |
+| `license` | Show CC BY-NC 4.0 and its full-terms URL. |
+| `repo` | Show the public IER repository URL: <https://github.com/mlehotay/ier>. |
 | `stats on` / `stats off` | Show/hide stats without changing the world or last tick counts. |
 | `torus on` / `torus off` | Enable/disable neighbor wrapping and refresh the stats snapshot. |
 | `bounded` | Alias for bounded topology (`torus off`). |
@@ -18,6 +21,13 @@ between arguments are accepted. Extra arguments and malformed numbers fail.
 | `randomize` | Randomize with the current seed, reset generation and refresh live-cell statistics. |
 
 Seed accepts decimal digits from 0 to `UINT_MAX`; delay accepts 1 to `INT_MAX`.
+`version`, `license` and `repo` accept no arguments and preserve the world,
+generation, pause state, settings and statistics. `:repo` gives the URL its
+own reply so it is readable in an ordinary 80-column terminal. Feedback is
+still clipped on narrower terminals; `./gol --version` prints all metadata
+without entering terminal mode. URLs are plain text for copying or opening
+with a terminal's link support; the app does not launch a browser.
+
 Coordinates accept 0 to `INT_MAX`. Signs, fractions, trailing characters and
 overflow are rejected with the same numeric rules as startup options.
 

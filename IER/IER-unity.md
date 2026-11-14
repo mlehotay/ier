@@ -8,14 +8,14 @@ ier:
   category: regimes_closure
   status: canonical
   filename: IER-unity.md
-  version: 10.12.0
+  version: 10.12.1
 ---
 
 # Experiential Unity
 
 ## Regime Unity Without Aggregation
 
-**Informational Experiential Realism (IER v10.12.0)**\
+**Informational Experiential Realism (IER v10.12.1)**\
 *T2 · Structural Clarification · Non-Normative · Canon-Constrained*
 
 
@@ -114,6 +114,32 @@ The former requirement of successor-support non-factorization is withdrawn. For 
 Candidate, variables, grain, interval, restriction and interventions must be physically justified without assuming a subject, an already unified whole or same-token identity. Neither an independent remainder nor two interacting organizations can be absorbed into one field merely by a common description. Whether an additional all-partitions irreducibility condition is justified remains open.
 
 The identity proposal connects experiential and physical descriptions of a qualifying UEF; it does not prove that any proposed organization qualifies.
+
+### General Organization Before Experiential Qualification
+
+The physical proposal distinguishes general organizational membership and
+persistence from their intrinsically constrained form. Game of Life is a
+testbed for this distinction: a glider migrates through sites, while a toad
+recurs with changing live roles. The hypothesis is that these instantiate real
+organizational participation and successor-production relations. It does not
+attribute experience to the patterns or their cells.
+
+A member is proposed as a temporally located process occurrence or role.
+Earlier organization produces its participation, and it contributes to later
+organization. The relevant domain must be derived from a justified relation,
+not identified by stipulation with the live outline, causal neighborhood or
+whole simulation. [Processes](IER-processes.md#general-organizational-membership)
+explains this development question and its distinction from full UEF membership.
+
+Intrinsic constraint remains a further physical assessment. The hypothesis
+is that GOL's Shannon state distinctions and lawful updates lack informational
+tension: the active manifestation of intrinsic constraint. This distinguishes
+information processing from tension-bearing operation, not internal computation
+from an outside processor. Statistical describability alone cannot establish
+tension's absence; that difference needs physical justification. General membership and a named intrinsic condition do
+not establish all UEF requirements. Under full qualification and identity,
+experiential unity is the oneness of that same operation, without an additional
+phenomenal bond or separate domain-selection rule.
 
 ### Activity and Organizational Maintenance
 
@@ -220,9 +246,10 @@ It is:
 
 ```text
 candidate physical organization and persistence through change
--> constitutive scope, ownership and membership
--> full successor production, inheritance and token continuity
--> qualifying UEF operation under the identity proposal
+-> general organizational membership, boundary and successor production
+-> intrinsic constraint and reconciliation with owned UEF membership
+-> full qualification and produced/inherited token continuity
+-> identity with total experience and subject
 -> experiential unity and differentiated content
 ```
 

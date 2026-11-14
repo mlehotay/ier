@@ -52,11 +52,21 @@ def main():
                 print(f"FAIL startup-errors: {arguments!r}; status={result.returncode}; "
                       f"stdout={result.stdout!r}; stderr={result.stderr!r}", file=sys.stderr)
                 return 1
-        result = subprocess.run([binary, "--help"], capture_output=True, timeout=5)
-        if result.returncode or result.stderr or b"--load" not in result.stdout or b"\x1b" in result.stdout:
-            print("FAIL startup-errors: --help", file=sys.stderr)
-            return 1
-    print(f"PASS startup-errors ({len(cases)} failures and help; no ANSI output)")
+        # Informational options work without a TTY and short-circuit startup:
+        # the missing file would fail if world/file initialization were reached.
+        for option in ("--help", "--version"):
+            result = subprocess.run([binary, "--load", str(missing), option],
+                                    capture_output=True, timeout=5)
+            expected = (b"IER Game of Life 0.3.0", b"Copyright (c) 2026 Michael Lehotay",
+                        b"CC BY-NC 4.0", b"https://creativecommons.org/licenses/by-nc/4.0/",
+                        b"https://github.com/mlehotay/ier")
+            if (result.returncode or result.stderr or b"\x1b" in result.stdout
+                    or any(fragment not in result.stdout for fragment in expected)
+                    or (option == "--help" and b"--version" not in result.stdout)):
+                print(f"FAIL startup-errors: {option}; stdout={result.stdout!r}; "
+                      f"stderr={result.stderr!r}", file=sys.stderr)
+                return 1
+    print(f"PASS startup-errors ({len(cases)} failures, help and version; no ANSI output)")
     return 0
 
 

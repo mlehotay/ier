@@ -35,13 +35,13 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: 10.12.0
+  version: 10.12.1
 ---
 
 # Processes
 ## Constraint Processes and Constitutive Participation
 
-**Informational Experiential Realism (IER v10.12.0)**\
+**Informational Experiential Realism (IER v10.12.1)**\
 *T2 · Explanatory Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -49,9 +49,10 @@ ier:
 This canonical Tier-2 elaboration develops the physical-process vocabulary
 connecting the IER dynamical schema with bilateral constitutive participation.
 
-Its relation vocabulary follows this dependency order: candidate physical
-operation, synchronic closure, ownership scope, bilateral constitutive
-membership, and only then diachronic continuity. The article does not supply a
+Its relation vocabulary begins with candidate physical organization and the
+proposed general organizational membership relation, then assesses intrinsic
+closure, ownership scope, full bilateral UEF membership and diachronic
+continuity. The article does not supply a
 general empirical oracle for any of those relations.
 
 It:
@@ -298,6 +299,37 @@ explains how production and inheritance belong to one continuing operation
 without turning this process vocabulary into another closure test.
 
 
+## General Organizational Membership
+
+The working proposal is that organizational membership has a general physical
+form that can occur without full UEF qualification. Game of Life is a testbed
+for specifying this relation, not merely a picture of experiential organization.
+Glider and toad trajectories supply candidate positive instances of changing
+participation and successor production; their intrinsic qualification is a
+separate question.
+
+The candidate member is a temporally located process occurrence or role. A
+fixed site can participate during one interval and cease to do so later.
+The proposed bilateral relation concerns how preceding organization produces
+that participation and how the role contributes to producing later organization.
+Both directions require physical typing and discrimination; causal ancestry,
+reciprocal influence and a familiar shape do not supply a definition.
+
+For a declared board, topology, B3/S23 rule and interval, trace births and
+survivals with their full neighborhood conditions, including relevant absences.
+Compare a proposed participant domain with the live footprint and causal
+neighborhood. Separated patterns, an outside-cell perturbation and a collision
+challenge rules that equate common execution or all causal influence with
+membership. The participant domain must follow from the relation rather than
+being fixed by the desired pattern identity.
+
+The full relation below concerns membership in an owned, intrinsically
+constrained operation. It is not asserted that GOL satisfies those clauses
+while lacking intrinsic constraint. The task is to explain their specialization
+of the proposed general relation, or justify coordinated revisions. General
+participation alone does not establish global bearing, non-externalizable joint
+resolution, experience or full numerical continuity.
+
 ## Interlocking Is Not Yet Constitutive Membership
 
 Two processes are interlocking in a minimal causal sense when changes in each
@@ -444,6 +476,7 @@ in the same globally organized successor problem.
 
 The present-unity premise is physically incomplete. The relations below retain their separate obligations; they do not fill that gap by referring to an already unified operation. Successor-support non-factorization is no longer a necessary unity or continuity condition.
 
+Here the full relation concerns an owned, intrinsically constrained operation.
 For a physical process to count as a constitutive participant over a stated
 interval, the following conditions must hold together:
 

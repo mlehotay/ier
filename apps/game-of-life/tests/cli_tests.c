@@ -142,6 +142,21 @@ static int cli_numbers(void) {
     return 1;
 }
 
+static int cli_information(void) {
+    StartupConfig cfg;
+    char message[512];
+    const char *options[] = {"--help", "--version"};
+    for (size_t i = 0; i < sizeof(options) / sizeof(options[0]); ++i) {
+        cli_startup_defaults(&cfg);
+        cfg.width = 23;
+        StartupConfig before = cfg;
+        char *args[] = {"gol", "--width", "8", (char *)options[i]};
+        CHECK(parse(ARGC(args), args, &cfg, message, sizeof(message)) == 1);
+        CHECK(!message[0] && config_equal(&cfg, &before));
+    }
+    return 1;
+}
+
 static int cli_invalid(void) {
     char overflow[64], long_path[257];
     snprintf(overflow, sizeof(overflow), "%llu", (unsigned long long)INT_MAX + 1);
@@ -200,6 +215,7 @@ int main(int argc, char **argv) {
     const struct { const char *name; int (*run)(void); } cases[] = {
         {"cli-selection", cli_selection}, {"cli-placement", cli_placement}, {"cli-invalid", cli_invalid},
         {"cli-numbers", cli_numbers},
+        {"cli-information", cli_information},
     };
     int selected = 0, failed = 0;
     if (argc > 2) return 2;

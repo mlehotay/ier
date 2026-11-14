@@ -30,7 +30,7 @@ ier:
   - foundations
   category: foundations
   filename: IER-specification.md
-  version: 10.12.0
+  version: 10.12.1
   requires:
     structural:
     - IER-continuity
@@ -41,7 +41,7 @@ ier:
 
 ## Full Normative Specification
 
-**Informational Experiential Realism (IER v10.12.0)**\
+**Informational Experiential Realism (IER v10.12.1)**\
 *Tier 1 · Foundational · Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -151,6 +151,22 @@ A system is described as *informational* $\text{iff}$ its physically instantiate
 A physical system whose state distinctions modulate its own future dynamics under constraint.
 
 Being an informational system is necessary but not sufficient for experience.
+
+### Organizational Relations and Experiential Qualification
+
+Organizational persistence, participant turnover, changing boundaries and
+successor production can be investigated without presupposing experience.
+The working physical proposal distinguishes a general organizational
+membership relation from its intrinsically constrained form. Game of Life
+provides a testbed for specifying the former; its glider and toad are proposed
+instances of organizational continuation, not established UEFs.
+
+General membership does not by itself establish intrinsic constraint or satisfy
+all UEF requirements. The relation must distinguish constitutive activity from
+causal influence and supplied conditions. Its specialization to owned,
+intrinsically constrained membership remains physically incomplete. This
+proposal does not replace the intrinsic-constraint definition, the UEF
+conditions below, or the full numerical-continuity relation.
 
 ### Informational Slack
 

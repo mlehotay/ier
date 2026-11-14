@@ -28,14 +28,14 @@ ier:
     - IER-nonentailment
     - IER-diagnostics
     - IER-ethics
-  version: 10.12.0
+  version: 10.12.1
 ---
 
 # Ownership
 
 ## Non-Externalizable Burden, Mineness, and Operation-Relative Boundaries
 
-**Informational Experiential Realism (IER v10.12.0)**\
+**Informational Experiential Realism (IER v10.12.1)**\
 *T2 · PROJECTION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -83,6 +83,30 @@ Ownership concerns ongoing intrinsic operation, not only atomic collapse.
 Ordinary lawful succession can proceed without fresh foreclosure. A completed
 pipeline episode keeps collapse, incorporation, redistribution, and stabilized
 inheritance distinct; none introduces an owner outside the physical operation.
+
+## General Membership and Owned Restriction
+
+A general organizational boundary need not already be an ownership boundary
+in the UEF sense. The proposed organizational relation investigated through
+Game of Life concerns production of participating roles and their contribution
+to later organization. Its intrinsically constrained form must additionally
+establish where the relevant restriction is internally borne and resolved.
+The [general membership discussion](IER-processes.md#general-organizational-membership)
+does not silently replace the full five-clause relation.
+
+The proposed non-experiential reading is that GOL's Shannon state distinctions
+and updates lack intrinsic informational tension. State-dependent production
+can still occur without establishing that intrinsic restriction is borne and
+resolved within the pattern. Ownership asks the further question of where an
+intrinsic restriction is borne and resolved; it is not ownership of bits,
+coordinates or an abstract description. A Shannon account alone cannot settle
+that question or establish absence of tension in the physical host.
+
+Once qualification is established, the boundary-defining continuation and
+membership conditions also identify the operation's ownership substrate.
+That substrate is its physical realization over the interval, not automatically
+the entire inherited apparatus. This reuses one physical account while
+preserving the distinct obligations of membership and ownership.
 
 ## External Influence, Support, and External Resolution
 

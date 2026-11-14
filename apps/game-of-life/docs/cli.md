@@ -4,7 +4,7 @@
 
 ```text
 --width N --height N --delay MS --seed N
---bounded --toroidal --help
+--bounded --toroidal --help --version
 --pattern NAME --load FILE --x N --y N --center
 ```
 
@@ -13,6 +13,13 @@ world is randomized with the current seed. `--pattern` and `--load` initialize
 a fresh board through the same [placement helper](patterns.md#shared-placement)
 used by runtime commands. They do not randomize or use the seed. Generation
 starts at zero and live cells/density are valid before the first tick.
+
+`--version` prints the simulator name/version, copyright, CC BY-NC 4.0 license
+and license URL, and the public IER repository URL. `--help` includes the same
+metadata before usage. Both exit successfully before world allocation or
+terminal initialization, work with redirected output, and contain no ANSI
+escapes. Like help, version takes effect when encountered during argument
+parsing; an earlier invalid argument still fails.
 
 Initialization reads terminal geometry, creates a world with the requested or
 pane-derived dimensions and topology, applies exactly one source, then refreshes
@@ -58,15 +65,15 @@ options point to `--help`; unknown patterns list accepted names. Parse failures
 leave config unchanged. Startup size/placement failures report the world and
 pattern dimensions. File failures use categorized shared detail with available
 line/column and path; failures exit 1 before raw mode or alternate-screen output.
-Help exits 0. Terminal-bound diagnostics replace control/non-ASCII bytes with `?`.
+Help and version exit 0. Terminal-bound diagnostics replace control/non-ASCII bytes with `?`.
 
 ## API and Verification
 
 Initialize `StartupConfig` through `cli_startup_defaults`. Parsed placement
 lives in `StartupConfig.placement`; the app copies it into its placement state.
 Successful parsing returns 0 and commits the completed config. Errors return
--1 and help returns 1, both leaving the caller's config unchanged. Errors go
-to the supplied stream (stderr when null); help goes to stdout.
+-1 and help/version return 1, both leaving the caller's config unchanged. Errors go
+to the supplied stream (stderr when null); help/version go to stdout.
 
 `make test-cli` covers source selection, numeric and string limits, placement
 precedence, invalid combinations and transactional error handling. It is part

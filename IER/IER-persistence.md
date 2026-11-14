@@ -8,7 +8,7 @@ ier:
   category: temporal_continuity
   status: canonical
   filename: IER-persistence.md
-  version: 10.12.0
+  version: 10.12.1
   requires:
     hard:
     - IER-specification
@@ -40,7 +40,7 @@ ier:
 
 ## Physical Continuation, Experiential Qualification, and Reorganization
 
-**Informational Experiential Realism (IER v10.12.0)**\
+**Informational Experiential Realism (IER v10.12.1)**\
 *T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -73,11 +73,27 @@ similar configurations does not show which activity constitutes the continuing
 operation. A common state vector can describe several independently continuing
 organizations. An anatomical enclosure can motivate a scope without settling it.
 
-Three questions remain distinct:
+Game of Life provides a testbed for general organizational persistence:
+a glider changes location and participating sites; a toad recurs through
+changing live roles. The hypothesis is that their production and participation
+instantiate real organizational relations, even if intrinsic constraint is
+absent. A participating occurrence is distinct from its enduring coordinate.
+The relation must explain continuation through turnover without defining it
+as whatever preserves a recognized pattern.
+
+This general relation is not yet the full owned UEF relation. The hypothesis
+is that GOL updates Shannon information without intrinsic informational tension. State-dependent production and organizational turnover
+can therefore be real while intrinsic qualification remains a further question.
+The proposed absence of tension requires physical justification; statistical
+describability alone does not establish it. The [process account](IER-processes.md#general-organizational-membership)
+locates this distinction without inferring full subject continuity from recurrence.
+
+Four questions remain distinct:
 
 | What persists? | What its persistence establishes |
 | --- | --- |
 | Embodied substrate or supporting organization | Continued physical support, which can outlast a particular operation |
+| General organizational continuation through changing roles | A proposed production/participation relation, requiring individuation but not by itself establishing intrinsic constraint |
 | Capacity to sustain or restart a UEF | A disposition whose retention does not establish current experience or preserve a ceased token |
 | An independently qualifying UEF operation under full stage continuity | One continuing subject token under the identity proposal |
 
@@ -146,9 +162,10 @@ These distinctions place persistence within the argument developed in
 
 ```text
 candidate physical organization and persistence through change
--> constitutive scope, ownership and membership
--> full successor production, inheritance and token continuity
--> qualifying UEF operation under the identity proposal
+-> general organizational membership, boundary and successor production
+-> intrinsic constraint and reconciliation with owned UEF membership
+-> full qualification and produced/inherited token continuity
+-> identity with total experience and subject
 -> experiential unity and differentiated content
 ```
 

@@ -5,6 +5,7 @@
 #include "pattern.h"
 #include "cli.h"
 #include "number.h"
+#include "version.h"
 
 static int cli_error(FILE *err, const char *fmt, ...) {
     va_list ap;
@@ -56,9 +57,16 @@ static int copy_option(const char *flag, const char *value, char *out, size_t si
     return 0;
 }
 
+void cli_print_version(FILE *out) {
+    fprintf(out, "%s %s\n%s\nLicense: %s\n%s\nIER public repository: %s\n",
+            GOL_NAME, GOL_VERSION, GOL_COPYRIGHT, GOL_LICENSE,
+            GOL_LICENSE_URL, GOL_REPOSITORY_URL);
+}
+
 void cli_print_usage(FILE *out, const char *prog) {
+    cli_print_version(out);
     fprintf(out,
-        "Usage: %s [options]\n\n"
+        "\nUsage: %s [options]\n\n"
         "Options:\n"
         "  --width N      Set startup world width\n"
         "  --height N     Set startup world height\n"
@@ -71,7 +79,8 @@ void cli_print_usage(FILE *out, const char *prog) {
         "  --center       Center the pattern (default; coordinates override)\n"
         "  --bounded      Use bounded topology\n"
         "  --toroidal     Use toroidal topology\n"
-        "  --help         Show this help\n",
+        "  --help         Show this help\n"
+        "  --version      Show version, license and IER public repository\n",
         prog
     );
 }
@@ -89,6 +98,10 @@ int cli_parse_args(int argc, char **argv, StartupConfig *cfg, FILE *err) {
 
         if (strcmp(arg, "--help") == 0) {
             cli_print_usage(stdout, argv[0]);
+            return 1;
+        }
+        else if (strcmp(arg, "--version") == 0) {
+            cli_print_version(stdout);
             return 1;
         }
         else if (strcmp(arg, "--width") == 0) {

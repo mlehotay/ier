@@ -155,7 +155,7 @@ allocation failure must preserve simulator state and report missing metrics.
 
 ## Research handoff
 
-The [research dossier proposal](../../research/investigations/game-of-life/README.md)
+The `apps/research/investigations/game-of-life/README.md`
 owns bounded questions, protocol versions, evidence derivation and limits.
 The app owns one simulator and its tests. Before a research run, freeze the
 selected metric definitions, dimensions, interventions and comparison horizon.

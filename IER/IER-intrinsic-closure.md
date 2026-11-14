@@ -26,14 +26,14 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: 10.12.0
+  version: 10.12.1
 ---
 
 # Intrinsic Closure
 
 ## Present Organization and Its Open Physical Criterion
 
-**Informational Experiential Realism (IER v10.12.0)**\
+**Informational Experiential Realism (IER v10.12.1)**\
 *T2 · Structural Clarification · Non-Normative · Canon-Constrained*
 
 ## Reader Notice
@@ -74,6 +74,28 @@ The physical formulation must not presuppose an experiential subject or numerica
 The following support comparisons retain their mathematical meaning. They are not a replacement closure test. For a physically interpreted relation $R$ at a fixed frontier:
 
 $$ A(s)=\{s'\in S\mid(s,s')\in R\}. $$
+
+## Organizational Relations and Intrinsic Realization
+
+General organizational continuation must be distinguished from intrinsic
+closure. Game of Life is proposed to instantiate participation, changing
+boundaries and successor production without thereby establishing the
+intrinsic conditions of a UEF. The general membership relation and its owned
+specialization remain to be specified, as discussed in
+[Processes](IER-processes.md#general-organizational-membership).
+
+The hypothesis is that GOL updates Shannon information without intrinsic
+informational tension. State distinctions are updated and successors produced,
+but these relations do not, on the hypothesis, instantiate active intrinsic
+constraint. Ordinary GOL production remains state-dependent.
+
+A Shannon description alone does not establish absence of tension in a
+physical organization. The proposal requires an independently specified
+physical distinction between informational updates and intrinsically borne
+tension, without an entropy threshold or blanket exclusion of computation.
+Direction of travel and changing screen shape are likewise not measurements
+of canonical bias or curvature without a justified mapping. The remaining
+Specification and full continuity conditions retain their separate force.
 
 ## Partitions and Common-Fibre Projections
 

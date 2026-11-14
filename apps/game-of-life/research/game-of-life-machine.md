@@ -110,7 +110,7 @@ is included in the [draft statistics plan](persistence-statistics-plan.md).
 
 Extinction or a collision outcome is an ordinary model result. Calling it
 IER collapse requires the distinct foreclosure account under
-[Collapse](../../../IER/IER-collapse.md).
+`IER/IER-collapse.md`.
 
 ## Current use and proposed development
 
@@ -120,10 +120,10 @@ draft statistics plan proposes turnover, recurrence, spatial extent,
 intervention comparison and event provenance. No new analysis code is supplied
 by these documents.
 
-The [research proposal](../../research/investigations/game-of-life/README.md)
+The `apps/research/investigations/game-of-life/README.md`
 keeps questions, protocols and eventual evidence together while this app owns
 the simulator and fixtures. The
-[Christmas Tree Machine](../../../examples/collections/christmas-tree/christmas-tree-machine.md)
+`examples/collections/christmas-tree/christmas-tree-machine.md`
 provides a complementary physical proposal: ornaments reshape the arrangement
 of an ongoing display; Life exposes successive update production directly.
 
