@@ -16,6 +16,13 @@ informational tension, experiential unity, or the full `Adj_dia` relation.
 Journal/chapter DOIs identify published works; entry 12 is an arXiv preprint
 with an arXiv DOI. Open versions are linked where available.
 
+The [follow-up reading list](GoL-Follow-up-Reading-List.md) records the questions
+sharpened by the first source-reading pass, existing material to revisit, and
+eight targeted additional works. The development repository's dedicated notes
+are indexed at `references/references.md`; its cross-source review is
+`_work/unity/review/gol-literature-assessment.md`. Reading coverage varies and
+is recorded in each note; the review is not a completed physical criterion.
+
 ## Glider organization and transition histories
 
 1. **Beer, R. D. (2004). Autopoiesis and cognition in the Game of Life.** *Artificial Life*, 10(3), 309–326. [10.1162/1064546041255539](https://doi.org/10.1162/1064546041255539)\
@@ -35,11 +42,21 @@ with an arXiv DOI. Open versions are linked where available.
 
 ## Motion, collisions, and part–whole relations
 
-6. **Eppstein, D. (2002). Searching for spaceships.** In R. Nowakowski (Ed.), *More Games of No Chance* (pp. 433–454). [10.1017/9781316135167.031](https://doi.org/10.1017/9781316135167.031)\
+6. **Eppstein, D. (2002). Searching for spaceships.** In R. Nowakowski (Ed.), *More Games of No Chance* (pp. 433–453). [10.1017/9781316135167.031](https://doi.org/10.1017/9781316135167.031). [Open author preprint (arXiv, 2000)](https://arxiv.org/abs/cs/0004003); [direct PDF](https://arxiv.org/pdf/cs/0004003).\
    Uses graph search to find patterns that recur with spatial displacement in Conway Life and related automata. The traveling-pattern criterion gives a starting point for identifying the same glider type in different locations. A separate transition history is needed to trace a particular instance.
+   Access checked 2026-11-14: the arXiv PDF is the 17-page author preprint,
+   revised 26 April 2000, rather than the published chapter's pagination.
+   Start with §3, “Notation and Classification of Patterns,” for the spaceship
+   definition. The [author's publication record](https://ics.uci.edu/~eppstein/pubs/j-book.html)
+   links the same preprint and confirms the published chapter's page range.
 
-7. **Dennett, D. C. (1991). Real patterns.** *The Journal of Philosophy*, 88(1), 27–51. [10.2307/2027085](https://doi.org/10.2307/2027085)\
+7. **Dennett, D. C. (1991). Real patterns.** *The Journal of Philosophy*, 88(1), 27–51. [10.2307/2027085](https://doi.org/10.2307/2027085). [Tufts archive record](https://dl.tufts.edu/concern/pdfs/wp988x11s); [Tufts direct PDF](https://dl.tufts.edu/downloads/p2677677g?filename=wp988x11s.pdf); [Purdue PDF mirror](https://web.ics.purdue.edu/~drkelly/DCDRealPatterns1991.pdf).\
    Uses a Life glider to ask what makes motion real when the underlying sites stay fixed. Read alongside Eppstein for the relation between the moving pattern and the updates that realize it.
+   Access checked 2026-11-14: both direct links return the article as a PDF.
+   The Tufts copy is in the Daniel C. Dennett papers and contains 25 PDF pages;
+   the Purdue copy has 27, including archive material. Use the article's printed
+   page numbers, 27–51, when citing passages. These are alternate access routes
+   to the original paper, not substitute readings.
 
 8. **Brajon, J., & Makarenko, A. (2019). Game of life with non-regular space with boundaries: Glider case.** *System Research & Information Technologies*, 2019(1). [10.20535/SRIT.2308-8893.2019.1.03](https://doi.org/10.20535/SRIT.2308-8893.2019.1.03)\
    Examines glider collisions and introduces internal boundaries into a modified Life lattice. The lattice boundary provides a comparison with the moving organizational boundary in Beer’s model.

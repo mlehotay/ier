@@ -19,6 +19,10 @@ remain in [docs/](../docs/).
 The [GoL reading list](GoL-Reading-List.md) collects literature on glider
 organization, causal contribution, continuity, autonomy, scale and boundary
 criteria, with proposed comparisons for the IER relational work.
+The [follow-up queue](GoL-Follow-up-Reading-List.md) records unresolved questions
+and targeted further reading after the nineteen first-pass source notes.
+The development review is `_work/unity/review/gol-literature-assessment.md`;
+its private source notes retain explicit coverage and reproduction limits.
 
 The development unity programme routes source assessment to root `todo-239`,
 candidate definitions to `todo-240`, cases to `todo-237` and justified owner
