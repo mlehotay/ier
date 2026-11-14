@@ -16,7 +16,7 @@ informational tension, experiential unity, or the full `Adj_dia` relation.
 Journal/chapter DOIs identify published works; entry 12 is an arXiv preprint
 with an arXiv DOI. Open versions are linked where available.
 
-The [follow-up reading list](GoL-Follow-up-Reading-List.md) records the questions
+The [follow-up reading list](reading-list-followup.md) records the questions
 sharpened by the first source-reading pass, existing material to revisit, and
 eight targeted additional works. The development repository's dedicated notes
 are indexed at `references/references.md`; its cross-source review is

@@ -13,7 +13,7 @@ ier:
     - organization
   category: termination
   status: non_canonical
-  filename: IER-GoL-explanation-completeness-criterion
+  filename: explanation-completeness-criterion
 ---
 
 # Explanation Completeness Criterion for Game of Life

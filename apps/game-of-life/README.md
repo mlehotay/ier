@@ -245,9 +245,9 @@ set and relation vocabulary. No separate GoL math-register extension is needed.
 - [Life machine](research/game-of-life-machine.md) and worked
   [glider](research/worked-examples/glider.md) / [toad](research/worked-examples/toad.md) examples
 - [Persistence statistics plan](research/persistence-statistics-plan.md)
-- [Reading list](research/GoL-Reading-List.md) and [follow-up questions](research/GoL-Follow-up-Reading-List.md)
+- [Reading list](research/reading-list.md) and [follow-up questions](research/reading-list-followup.md)
 - [Later UI and instrumentation design](research/gol-design-addendum.md)
-- [Explanation-completeness proposal](research/IER-GoL-explanation-completeness-criterion.md)
+- [Explanation-completeness proposal](research/explanation-completeness-criterion.md)
 
 
 ## Intended Use

@@ -3,7 +3,7 @@
 Date: 2026-11-14\
 Status: focused follow-up queue; new works have not received full source reviews\
 Authority: non-canonical research\
-Basis: the [nineteen-paper reading list](GoL-Reading-List.md) and its source notes
+Basis: the [nineteen-paper reading list](reading-list.md) and its source notes
 
 The first pass sharpened the questions more than it resolved physical
 individuation. Further reading is appropriate where it changes a proposed

@@ -16,10 +16,10 @@ This directory is the single home for GoL research: readings, descriptions,
 worked examples, analysis proposals, investigation protocols and eventual
 results. Simulator usage, formats and implementation documentation remain in [docs/](../docs/).
 
-The [GoL reading list](GoL-Reading-List.md) collects literature on glider
+The [GoL reading list](reading-list.md) collects literature on glider
 organization, causal contribution, continuity, autonomy, scale and boundary
 criteria, with proposed comparisons for the IER relational work.
-The [follow-up queue](GoL-Follow-up-Reading-List.md) records unresolved questions
+The [follow-up queue](reading-list-followup.md) records unresolved questions
 and targeted further reading after the nineteen first-pass source notes.
 The development review is `_work/unity/review/gol-literature-assessment.md`;
 its private source notes retain explicit coverage and reproduction limits.
@@ -57,7 +57,7 @@ Two separate proposals remain useful:
 
 - [Later UI and instrumentation design](gol-design-addendum.md), including
   world/viewport separation and optional overlays.
-- [Explanation completeness](IER-GoL-explanation-completeness-criterion.md),
+- [Explanation completeness](explanation-completeness-criterion.md),
   a prospective predictive stopping criterion, not a UEF qualification test.
 
 ## Research method and ownership

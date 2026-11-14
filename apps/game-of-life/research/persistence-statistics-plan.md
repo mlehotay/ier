@@ -19,7 +19,7 @@ Specification is ready; implementation remains unstarted. The root unity plan
 owns source assessment and relation definitions; the app research directory owns protocols
 and findings. This does not close or expand the baseline phase. Finish its control
 and exit audits before implementing this extension. The
-[reading list](GoL-Reading-List.md) informs definitions and their limits;
+[reading list](reading-list.md) informs definitions and their limits;
 bibliography annotations are not implemented measurements.
 
 ## Existing implementation

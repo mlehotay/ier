@@ -81,7 +81,7 @@ The literature-led unity reproduction work is allocated in development plan
 - [ ] Add reviewed ON/OFF production and contribution traces and checkpoint provenance comparisons (`gol-0031`).
 - [ ] Reproduce separation, interaction, gun/output and grain comparisons and hand evidence to the dossier (`gol-0032`).
 
-Use the [nineteen-paper list](../research/GoL-Reading-List.md) to inform definitions
+Use the [nineteen-paper list](../research/reading-list.md) to inform definitions
 and controls. Root unity tasks own the physical proposal, case assessment and
 canonical reconciliation. Software output supports a declared relation; it is
 not a membership or experiential-unity verdict.
