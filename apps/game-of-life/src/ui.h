@@ -26,6 +26,7 @@ typedef struct {
 } Layout;
 
 void ui_layout_compute(Layout *L, int term_w, int term_h);
+int ui_message_page_width(const struct App *app);
 
 void ui_draw_frame(const struct App *app);
 void ui_draw_borders(const Layout *L);

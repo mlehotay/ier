@@ -12,6 +12,7 @@ typedef struct {
     int cursor;
     int overflow; /* reject the whole command if editor input exceeded capacity */
     char message[CMD_BUF_CAP];
+    int message_offset; /* horizontal viewport into transient reply text */
 } CommandLine;
 
 void cmd_init(CommandLine *cmd);

@@ -53,6 +53,5 @@ void app_handle_resize(App *app);
 void app_poll_input(App *app);
 void app_handle_key(App *app, int ch);
 void app_update(App *app);
-void app_sleep(const App *app);
 
 #endif

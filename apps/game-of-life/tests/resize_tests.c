@@ -372,20 +372,20 @@ static int command_help(void) {
     Layout layout = app.layout;
     app_handle_key(&app, 'h');
     CHECK(redraw_complete(&app) && memcmp(screen[0], "[PAUSED]", 8) == 0);
-    CHECK(memcmp(screen[1], "q quit", 6) == 0);
+    CHECK(memcmp(screen[1], ":help", 5) == 0);
     app_handle_key(&app, ':');
     app_handle_key(&app, 'h');
     CHECK(app.cmd.active && !strcmp(app.cmd.buf, "h"));
     CHECK(redraw_complete(&app) && memcmp(screen[1], "(h=help):h", 10) == 0);
     app_handle_key(&app, '\n');
     CHECK(!app.cmd.active && strstr(app.cmd.message, "OK: Commands: help/h"));
-    CHECK(redraw_complete(&app) && memcmp(screen[1], "OK: Commands:", 13) == 0);
+    CHECK(redraw_complete(&app) && memcmp(screen[1], "[ ] OK: Commands:", 17) == 0);
     app_handle_key(&app, 'h');
     CHECK(!app.cmd.message[0] && redraw_complete(&app));
-    CHECK(memcmp(screen[1], "q quit", 6) == 0);
+    CHECK(memcmp(screen[1], ":help", 5) == 0);
     app_handle_key(&app, ':');
     app_handle_key(&app, 27);
-    CHECK(redraw_complete(&app) && memcmp(screen[1], "q quit", 6) == 0);
+    CHECK(redraw_complete(&app) && memcmp(screen[1], ":help", 5) == 0);
     CHECK(app.paused && app.generation == 77 && app.startup.delay_ms == 100);
     CHECK(memcmp(&layout, &app.layout, sizeof(layout)) == 0);
     CHECK(memcmp(cells, app.world.cells, sizeof(cells)) == 0);
@@ -400,6 +400,165 @@ static int command_help(void) {
     CHECK(memcmp(cells, app.world.cells, sizeof(cells)) == 0 && app.generation == 77);
     passed = 1;
 cleanup:
+    app_destroy(&app);
+    return passed;
+}
+
+static int reply_navigation(void) {
+    App app = {0};
+    StartupConfig cfg = {.width = 8, .height = 6, .seed = 42, .delay_ms = 100};
+    const int sizes[][2] = {{80,24}, {20,5}, {19,4}, {6,1}, {2,1}, {0,0}};
+    int passed = 0;
+    terminal_w = 80; terminal_h = 24;
+    CHECK(app_init(&app, &cfg) == 0);
+    app.paused = 1;
+    app.generation = 17;
+    uint8_t cells[48], next[48];
+    memcpy(cells, app.world.cells, sizeof(cells));
+    memcpy(next, app.world.next, sizeof(next));
+    StepStats stats = app.last_step;
+    char message[CMD_BUF_CAP];
+    for (int i = 0; i < CMD_BUF_CAP - 1; ++i) message[i] = (char)('a' + i % 26);
+    message[CMD_BUF_CAP - 1] = '\0';
+
+    for (size_t i = 0; i < sizeof(sizes)/sizeof(sizes[0]); ++i) {
+        terminal_w = sizes[i][0]; terminal_h = sizes[i][1];
+        /* Exercise viewport geometry without enacting a world resize. */
+        ui_layout_compute(&app.layout, terminal_w, terminal_h);
+        cmd_set_message(&app.cmd, message);
+        CHECK(app.cmd.message_offset == 0);
+        for (;;) {
+            int offset = app.cmd.message_offset;
+            CHECK(redraw_complete(&app));
+            if (terminal_w && terminal_h) {
+                int row = terminal_h > 1 ? 1 : 0;
+                int safe = terminal_w - (row == terminal_h - 1 ? 1 : 0);
+                int hint = safe >= 12 ? 4 : 0;
+                for (int x = 0; x < safe - hint && offset + x < CMD_BUF_CAP - 1; ++x) {
+                    CHECK(screen[row][hint + x] == message[offset + x]);
+                }
+            }
+            app_handle_key(&app, ']');
+            CHECK(!strcmp(app.cmd.message, message) && !app.cmd.active);
+            if (app.cmd.message_offset == offset) break;
+            CHECK(app.cmd.message_offset > offset && app.cmd.message_offset < CMD_BUF_CAP - 1);
+        }
+        while (app.cmd.message_offset) app_handle_key(&app, '[');
+        app_handle_key(&app, '[');
+        CHECK(app.cmd.message_offset == 0 && redraw_complete(&app));
+        app_handle_key(&app, ']');
+        cmd_set_message(&app.cmd, "new reply");
+        CHECK(!app.cmd.message_offset);
+        app_handle_key(&app, 27);
+        CHECK(!app.cmd.message[0] && !app.cmd.active);
+        CHECK(app.paused && app.running && app.generation == 17 && app.startup.delay_ms == 100);
+        CHECK(!memcmp(cells, app.world.cells, sizeof(cells)) && !memcmp(next, app.world.next, sizeof(next)));
+        CHECK(!memcmp(&stats, &app.last_step, sizeof(stats)));
+    }
+    /* A viewport-size change retains the selected character; subsequent
+       navigation uses the new width and does not touch either world buffer. */
+    terminal_w = 80; terminal_h = 24;
+    ui_layout_compute(&app.layout, terminal_w, terminal_h);
+    cmd_set_message(&app.cmd, message);
+    app_handle_key(&app, ']');
+    int selected = app.cmd.message_offset;
+    terminal_w = 20; terminal_h = 5;
+    ui_layout_compute(&app.layout, terminal_w, terminal_h);
+    CHECK(app.cmd.message_offset == selected && redraw_complete(&app));
+    CHECK(screen[1][4] == message[selected]);
+    app_handle_key(&app, ']');
+    CHECK(app.cmd.message_offset == selected + 16 && redraw_complete(&app));
+    CHECK(!memcmp(cells, app.world.cells, sizeof(cells)) && !memcmp(next, app.world.next, sizeof(next)));
+    /* New command entry resets a reply viewport; brackets edit normally. */
+    cmd_set_message(&app.cmd, message);
+    app_handle_key(&app, ']');
+    app_handle_key(&app, ':');
+    CHECK(app.cmd.active && !app.cmd.message_offset && !app.cmd.message[0]);
+    app_handle_key(&app, '['); app_handle_key(&app, ']');
+    CHECK(!strcmp(app.cmd.buf, "[]"));
+    app_handle_key(&app, 27);
+    passed = 1;
+cleanup:
+    app_destroy(&app);
+    return passed;
+}
+
+static int normal_controls(void) {
+    App app = {0};
+    World reference = {0};
+    StartupConfig cfg = {.width = 8, .height = 6, .seed = 42, .delay_ms = 100};
+    int passed = 0;
+    terminal_w = 80; terminal_h = 24;
+    CHECK(app_init(&app, &cfg) == 0);
+    CHECK(world_init(&reference, 8, 6, 0) == 0);
+    for (int toroidal = 0; toroidal <= 1; ++toroidal) {
+        app.world.toroidal = toroidal;
+        for (int feedback = 0; feedback <= 1; ++feedback) {
+            const char *reply = feedback ? "previous reply" : "";
+            app.paused = 0;
+            cmd_set_message(&app.cmd, reply);
+            app_handle_key(&app, ' ');
+            CHECK(app.paused && !app.cmd.message[0] && app.needs_redraw);
+            world_clear(&app.world);
+            for (int x = 2; x <= 4; ++x) world_set(&app.world, x, 2, 1);
+            world_recompute_stats(&app.world, &app.last_step);
+            app.generation = 9;
+            cmd_set_message(&app.cmd, reply);
+            app_handle_key(&app, 'n');
+            CHECK(app.generation == 10 && stats_match(&app, 10, 2, 2, 4));
+            for (int y = 0; y < 6; ++y) {
+                for (int x = 0; x < 8; ++x) {
+                    CHECK(world_get(&app.world, x, y) == (x == 3 && y >= 1 && y <= 3));
+                }
+            }
+            const int delays[] = {1, 2, 10, 11, INT_MAX};
+            const int faster[] = {1, 1, 1, 1, INT_MAX - 10};
+            for (size_t i = 0; i < sizeof(delays)/sizeof(delays[0]); ++i) {
+                app.startup.delay_ms = delays[i];
+                cmd_set_message(&app.cmd, reply);
+                app_handle_key(&app, '+');
+                CHECK(app.startup.delay_ms == faster[i]);
+            }
+            app.startup.delay_ms = INT_MAX - 5;
+            cmd_set_message(&app.cmd, reply); app_handle_key(&app, '-');
+            CHECK(app.startup.delay_ms == INT_MAX);
+            app_handle_key(&app, '-'); CHECK(app.startup.delay_ms == INT_MAX);
+            app.startup.delay_ms = 1; app_handle_key(&app, '-');
+            CHECK(app.startup.delay_ms == 11);
+            int shown = app.show_stats;
+            cmd_set_message(&app.cmd, reply); app_handle_key(&app, 's');
+            CHECK(app.show_stats != shown && app.generation == 10 && app.last_step.live_cells == 3);
+            cmd_set_message(&app.cmd, reply); app_handle_key(&app, 'r');
+            world_randomize(&reference, cfg.seed);
+            CHECK(!memcmp(reference.cells, app.world.cells, 48) && app.generation == 0);
+            CHECK(stats_match(&app, 0, 0, 0, 0));
+            cmd_set_message(&app.cmd, reply); app_handle_key(&app, 'c');
+            CHECK(!app.generation && !app.last_step.live_cells && stats_match(&app, 0, 0, 0, 0));
+            for (int i = 0; i < 48; ++i) CHECK(!app.world.cells[i] && !app.world.next[i]);
+            cmd_set_message(&app.cmd, reply); app_handle_key(&app, ':');
+            CHECK(app.cmd.active && !app.cmd.message[0]);
+            app_handle_key(&app, 'q'); CHECK(app.running && !strcmp(app.cmd.buf, "q"));
+            app_handle_key(&app, 127); CHECK(!app.cmd.len);
+            app_handle_key(&app, 27); CHECK(!app.cmd.active && app.running);
+            /* Neither automatic running nor blocked/invisible views may be manually stepped. */
+            for (int guard = 0; guard < 4; ++guard) {
+                app.paused = guard != 0;
+                app.terminal_too_small = guard == 1;
+                app.world_resize_pending = guard == 2;
+                term_resize_pending = guard == 3;
+                cmd_set_message(&app.cmd, reply); app_handle_key(&app, 'n');
+                CHECK(!app.generation && !app.last_step.live_cells);
+            }
+            app.terminal_too_small = app.world_resize_pending = term_resize_pending = 0;
+            cmd_set_message(&app.cmd, reply); app_handle_key(&app, 'q');
+            CHECK(!app.running);
+            app.running = 1;
+        }
+    }
+    passed = 1;
+cleanup:
+    term_resize_pending = 0;
+    world_destroy(&reference);
     app_destroy(&app);
     return passed;
 }
@@ -693,6 +852,8 @@ int main(int argc, char **argv) {
     const struct { const char *name; int (*run)(void); } cases[] = {
         {"startup-order", startup_order},
         {"command-help", command_help},
+        {"reply-navigation", reply_navigation},
+        {"normal-controls", normal_controls},
         {"startup-patterns", startup_patterns},
         {"startup-files", startup_files},
         {"startup-failures", startup_failures},

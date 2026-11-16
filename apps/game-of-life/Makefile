@@ -27,15 +27,16 @@ CLI_TEST_BIN := build/tests/cli-tests
 COMMAND_TEST_BIN := build/tests/command-tests
 RLE_TEST_BIN := build/tests/rle-tests
 TEST_CASE ?= all
+RESEARCH_ENGINE := build/research/world.so
 
 gol: $(OBJ)
 	$(CC) $(CFLAGS) -o $@ $(OBJ) $(LDFLAGS)
 
 clean:
 	rm -f $(OBJ) gol $(TEST_BIN) $(UI_TEST_BIN) $(RESIZE_TEST_BIN) \
-		$(CELLS_TEST_BIN) $(PATTERN_TEST_BIN) $(CLI_TEST_BIN) $(COMMAND_TEST_BIN) $(RLE_TEST_BIN) build/tests/resize-world.o build/tests/cells-parser.o build/tests/rle-parser.o
+		$(CELLS_TEST_BIN) $(PATTERN_TEST_BIN) $(CLI_TEST_BIN) $(COMMAND_TEST_BIN) $(RLE_TEST_BIN) build/tests/resize-world.o build/tests/cells-parser.o build/tests/rle-parser.o $(RESEARCH_ENGINE)
 
-.PHONY: test test-unit test-ui test-integration test-cells test-patterns test-cli test-commands test-rle test-startup
+.PHONY: test test-unit test-ui test-integration test-cells test-patterns test-cli test-commands test-rle test-startup test-terminal research-run test-research research-measure test-measures research-production test-production research-cross-cases research-check-cross-cases test-cross-cases
 
 test: test-unit
 	$(MAKE) test-ui TEST_CASE=all
@@ -46,6 +47,11 @@ test: test-unit
 	$(MAKE) test-commands TEST_CASE=all
 	$(MAKE) test-rle TEST_CASE=all
 	$(MAKE) test-startup TEST_CASE=all
+	$(MAKE) test-terminal TEST_CASE=all
+	$(MAKE) test-research TEST_CASE=all
+	$(MAKE) test-measures TEST_CASE=all
+	$(MAKE) test-production TEST_CASE=all
+	$(MAKE) test-cross-cases TEST_CASE=all
 
 test-unit: $(TEST_BIN)
 	./$(TEST_BIN) "$(TEST_CASE)"
@@ -120,6 +126,45 @@ $(RLE_TEST_BIN): tests/rle_tests.c build/tests/rle-parser.o src/cells.c src/patt
 
 test-startup: gol
 	python3 tests/startup_errors.py ./gol "$(TEST_CASE)"
+
+test-terminal: gol
+	python3 tests/terminal_controls.py ./gol "$(TEST_CASE)"
+
+$(RESEARCH_ENGINE): src/world.c src/world.h Makefile
+	mkdir -p $(@D)
+	$(CC) $(CPPFLAGS) $(CFLAGS) -fPIC -shared -o $@ src/world.c $(LDFLAGS) $(LDLIBS)
+
+research-run: $(RESEARCH_ENGINE)
+	@test -n "$(INPUT)" -a -n "$(OUTPUT)"
+	python3 tools/research_run.py "$(INPUT)" "$(OUTPUT)" --engine "$(RESEARCH_ENGINE)"
+
+test-research: $(RESEARCH_ENGINE)
+	python3 tests/research_run_tests.py "$(RESEARCH_ENGINE)" "$(TEST_CASE)"
+
+research-measure:
+	@test -n "$(TRACE)" -a -n "$(OUTPUT)"
+	python3 tools/research_measure.py "$(TRACE)" "$(OUTPUT)" --history-limit "$(or $(HISTORY_LIMIT),64)" $(if $(PAIR),--pair "$(PAIR)")
+
+test-measures: $(RESEARCH_ENGINE)
+	python3 tests/research_measure_tests.py "$(RESEARCH_ENGINE)" "$(TEST_CASE)"
+
+research-production:
+	@test -n "$(TRACE)" -a -n "$(CONTEXT)" -a -n "$(OUTPUT)"
+	python3 tools/research_production.py "$(TRACE)" "$(CONTEXT)" "$(OUTPUT)" $(if $(PAIR),--pair "$(PAIR)")
+
+test-production: $(RESEARCH_ENGINE)
+	python3 tests/research_production_tests.py "$(RESEARCH_ENGINE)" "$(TEST_CASE)"
+
+research-cross-cases: $(RESEARCH_ENGINE)
+	@test -n "$(OUTPUT_DIR)"
+	python3 tools/research_cross_cases.py "$(OUTPUT_DIR)" --engine "$(RESEARCH_ENGINE)" $(if $(PROPOSAL_SHA256),--proposal-sha256 "$(PROPOSAL_SHA256)")
+
+research-check-cross-cases: $(RESEARCH_ENGINE)
+	@test -n "$(RUN_DIR)"
+	python3 tools/research_cross_cases.py "$(RUN_DIR)" --engine "$(RESEARCH_ENGINE)" --check-only
+
+test-cross-cases: $(RESEARCH_ENGINE)
+	python3 tests/research_cross_tests.py "$(RESEARCH_ENGINE)" "$(TEST_CASE)"
 
 check-work:
 	python3 _work/check.py

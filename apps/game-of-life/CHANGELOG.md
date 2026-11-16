@@ -5,10 +5,18 @@ Authority: non-canonical
 
 Simulator versions are independent of IER theory versions. The 0.1.0 and
 0.2.0 entries retrospectively name development stages; they do not assert
-historical release tags or exact release dates. Version 0.3.0 describes the
-current working version and is not yet a published release.
+historical release tags or exact release dates. Version 0.4 describes the
+current working version and is not yet a published release. The 0.3.0 entry
+retains the preceding development snapshot.
 
-## 0.3.0 — Unreleased
+## 0.4 — Unreleased
+
+### Changed
+
+- Updated the simulator version to `0.4`, using major/minor numbering without
+  a patch component, as requested by the author.
+
+## 0.3.0 — Earlier Development Snapshot (Unreleased)
 
 Simulator baseline approaching completion; IER instrumentation planned.
 

@@ -36,6 +36,10 @@ qualification. Shannon state descriptions alone establish neither tension nor
 its absence. The proposed distinction is not an entropy threshold or a
 categorical exclusion of computation.
 
+The v10.12.1 source era closed with its bounded formulation and historical
+explanation accepted. GoL physical membership and qualification remain
+unfinished; source-era closure supplies no experiential attribution.
+
 Read [Experiential Unity](../../IER/IER-unity.md) for the canonical distinctions
 among phenomenal, experiential and regime unity, and the incomplete physical
 formulation under the Specification.

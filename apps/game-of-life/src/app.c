@@ -9,17 +9,6 @@
 #include <stdio.h>
 #include <limits.h>
 #include <string.h>
-#include <time.h>
-#include <unistd.h>
-
-static void sleep_ms(int ms) {
-    if (ms <= 0) return;
-
-    struct timespec ts;
-    ts.tv_sec = ms / 1000;
-    ts.tv_nsec = (long)(ms % 1000) * 1000000L;
-    nanosleep(&ts, NULL);
-}
 
 static int app_grid_world_width(const App *app) {
     if (!app) return 1;
@@ -241,15 +230,23 @@ void app_handle_key(App *app, int ch) {
     }
 
     if (app->cmd.message[0] != '\0') {
-        if (ch == ':') {
-            cmd_enter(&app->cmd);
+        if (ch == '[' || ch == ']') {
+            int width = ui_message_page_width(app);
+            int length = (int)strlen(app->cmd.message);
+            if (ch == '[') {
+                app->cmd.message_offset = app->cmd.message_offset > width ? app->cmd.message_offset - width : 0;
+            } else if (width < length - app->cmd.message_offset) {
+                app->cmd.message_offset += width;
+            }
             app->needs_redraw = 1;
             return;
         }
 
         app->cmd.message[0] = '\0';
+        app->cmd.message_offset = 0;
         app->needs_redraw = 1;
-        return;
+        /* Normal controls also execute on the dismissing press. Esc and
+           unbound keys only dismiss; ':' enters the editor below. */
     }
 
     switch (ch) {
@@ -261,7 +258,7 @@ void app_handle_key(App *app, int ch) {
             app->needs_redraw = 1;
             break;
         case 'n':
-            if (app->paused && !app->world_resize_pending && !term_resize_pending) {
+            if (app->paused && !app->terminal_too_small && !app->world_resize_pending && !term_resize_pending) {
                 world_step(&app->world, &app->last_step);
                 app->generation++;
                 app->needs_redraw = 1;
@@ -280,7 +277,9 @@ void app_handle_key(App *app, int ch) {
             app->needs_redraw = 1;
             break;
         case '+':
-            if (app->startup.delay_ms > 10) app->startup.delay_ms -= 10;
+            if (app->startup.delay_ms > 1) {
+                app->startup.delay_ms = app->startup.delay_ms > 10 ? app->startup.delay_ms - 10 : 1;
+            }
             app->needs_redraw = 1;
             break;
         case '-':
@@ -323,9 +322,4 @@ void app_update(App *app) {
         app->generation++;
         app->needs_redraw = 1;
     }
-}
-
-void app_sleep(const App *app) {
-    if (!app) return;
-    sleep_ms(app->startup.delay_ms);
 }

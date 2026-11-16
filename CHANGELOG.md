@@ -5,9 +5,9 @@ repository. The v10.11.7 entry groups the intervening v10.11 updates; routine
 edits and individual commits are omitted. Dates mark each version's first
 appearance in this repository, rather than the start of its development.
 
-## v10.12.x - Unity refactor
+## v10.12.0–v10.12.1 - Unity refactor and GoL formulation
 
-**Public version update: 11 November 2026. Active development.**
+**Public version update: 11 November 2026. Source era closed: 15 November 2026.**
 
 Reworks the explanation of experiential unity around a continuing physical
 operation and corrects the earlier reliance on successor-support
@@ -26,6 +26,10 @@ non-factorization.
   qualification for the experiential identity claim.
 - Revises the Specification, core explanations, philosophical account and
   public introductions to reflect the correction.
+
+- Clarifies general organizational participation and successor production through GoL, distinguishing them from intrinsic informational tension and full qualification. Shannon state distinctions alone establish neither tension nor its absence.
+- Records bounded native GoL reproduction and case findings, the accepted fourteen-member formulation and revised historical explanation. The simulator is independently versioned as `0.4`; completing software and scoped review does not establish experience.
+- Closes the propagation package with unfinished GoL relations and physical cases explicitly retained for future resumption. The separate core-theory review and publication decisions remain outside that closure.
 
 The physical criterion and constitutive boundary remain incomplete. This
 refactor supplies neither a completed qualification test nor empirical

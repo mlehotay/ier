@@ -57,7 +57,7 @@ def main():
         for option in ("--help", "--version"):
             result = subprocess.run([binary, "--load", str(missing), option],
                                     capture_output=True, timeout=5)
-            expected = (b"IER Game of Life 0.3.0", b"Copyright (c) 2026 Michael Lehotay",
+            expected = (b"IER Game of Life 0.4\n", b"Copyright (c) 2026 Michael Lehotay",
                         b"CC BY-NC 4.0", b"https://creativecommons.org/licenses/by-nc/4.0/",
                         b"https://github.com/mlehotay/ier")
             if (result.returncode or result.stderr or b"\x1b" in result.stdout

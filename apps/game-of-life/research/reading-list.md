@@ -18,7 +18,7 @@ with an arXiv DOI. Open versions are linked where available.
 
 The [follow-up reading list](reading-list-followup.md) records the questions
 sharpened by the first source-reading pass, existing material to revisit, and
-eight targeted additional works. The development repository's dedicated notes
+targeted additional works. The development repository's dedicated notes
 are indexed at `references/references.md`; its cross-source review is
 `_work/unity/review/gol-literature-assessment.md`. Reading coverage varies and
 is recorded in each note; the review is not a completed physical criterion.

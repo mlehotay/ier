@@ -29,8 +29,9 @@ terminal dimensions leaves the world alone. The tiny fallback uses a 1x1 world.
 The current policy is a visible-board world: terminal resizing changes world
 dimensions, preserves the top-left overlap and dead-fills new cells. Full
 world/view independence and panning remain deferred. Help/h commands return
-ordinary transient feedback; there is no separate help-toggle mode. The
-phase-exit audit remains open; this document does not mark it complete.
+ordinary transient feedback, with bracket-key paging and focused topics; there
+is no separate help-toggle mode. The
+baseline phase-exit assessment was accepted by the user at commit 58258b3d.
 See the [current README](../README.md) for executable usage.
 
 ## Purpose
@@ -513,6 +514,12 @@ Expected runtime controls include:
 * `:` enter command mode
 * `s` toggle stats visibility
 
+Replies use `[`/`]` paging and Esc dismissal. A normal control clears a reply
+and executes on that same press. Command mode takes precedence over these
+bindings; see [command behavior](commands.md). Manual stepping is suspended
+for tiny terminals and pending resize, as well as while running. Speed changes
+remain within 1–`INT_MAX` milliseconds.
+
 This is sufficient for the GoL phase.
 
 
@@ -672,22 +679,13 @@ These are sufficient for the GoL phase.
 
 The loop should keep subsystem boundaries explicit.
 
-Representative structure:
-
-```c
-while (app.running) {
-    app_handle_signals(&app);
-    app_handle_resize(&app);
-    app_poll_input(&app);
-    app_update(&app);
-
-    if (app.needs_redraw) {
-        ui_draw_frame(&app);
-    }
-
-    app_sleep(&app);
-}
-```
+The implementation in `src/main.c` processes resize and input before checking
+the next automatic step's monotonic-clock deadline. Quit leaves the loop
+immediately. Redraws and key wakeups do not themselves advance the simulation;
+pause and delay changes reset the next automatic deadline. Polling waits at
+most 20ms, or less when the step deadline is nearer, so a long simulation
+delay cannot prevent command entry or quit. Terminal attributes, cursor and
+alternate-screen state are restored on exit. There is no whole-delay sleep.
 
 ### Responsibilities
 

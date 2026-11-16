@@ -101,6 +101,25 @@ void ui_draw_borders(const Layout *L) {
     }
 }
 
+int ui_message_page_width(const struct App *app) {
+    const Rect *r = &app->layout.cmd;
+    int y = r->y + (r->h >= 2 ? 1 : 0);
+    int width = ui_safe_width(&app->layout, r->x, y, r->w);
+    if (width >= 12 && ((int)strlen(app->cmd.message) > width || app->cmd.message_offset > 0)) width -= 4;
+    return width > 0 ? width : 1;
+}
+
+static void ui_message_line(const struct App *app, const Rect *r, char *line, size_t capacity) {
+    int y = r->y + (r->h >= 2 ? 1 : 0);
+    int width = ui_safe_width(&app->layout, r->x, y, r->w);
+    int length = (int)strlen(app->cmd.message);
+    int offset = app->cmd.message_offset;
+    if (offset < 0) offset = 0;
+    if (offset >= length) offset = length > 0 ? length - 1 : 0;
+    const char *hint = width >= 12 && (length > width || offset > 0) ? "[ ] " : "";
+    snprintf(line, capacity, "%s%s", hint, app->cmd.message + offset);
+}
+
 void ui_draw_command_pane(const struct App *app, const Rect *r) {
     if (!app || !r || r->w <= 0 || r->h <= 0) return;
 
@@ -121,6 +140,8 @@ void ui_draw_command_pane(const struct App *app, const Rect *r) {
     if (r->h == 1 && app->cmd.active) {
         snprintf(line, sizeof(line), "%s%s", CMD_PROMPT, app->cmd.buf);
         if (app->cmd.overflow) snprintf(line, sizeof(line), "Error: command too long; Esc cancels.");
+    } else if (r->h == 1 && app->cmd.message[0]) {
+        ui_message_line(app, r, line, sizeof(line));
     }
     ui_write_padded(&app->layout, r->x, r->y, r->w, line);
 
@@ -130,10 +151,11 @@ void ui_draw_command_pane(const struct App *app, const Rect *r) {
             if (app->cmd.overflow) snprintf(line, sizeof(line), "Error: command too long; Esc cancels.");
             ui_write_padded(&app->layout, r->x, r->y + 1, r->w, line);
         } else if (app->cmd.message[0]) {
-            ui_write_padded(&app->layout, r->x, r->y + 1, r->w, app->cmd.message);
+            ui_message_line(app, r, line, sizeof(line));
+            ui_write_padded(&app->layout, r->x, r->y + 1, r->w, line);
         } else {
             ui_write_padded(&app->layout, r->x, r->y + 1, r->w,
-                            "q quit | space pause | n step | r randomize | c clear | : help");
+                            ":help | q quit | space pause | n step | r randomize | c clear | +/- speed | s stats");
         }
     }
 }

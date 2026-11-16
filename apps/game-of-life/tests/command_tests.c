@@ -125,6 +125,9 @@ static int command_information(void) {
         {"version", "OK: " GOL_NAME " " GOL_VERSION},
         {"license", "OK: " GOL_LICENSE " " GOL_LICENSE_URL},
         {"repo", "OK: " GOL_REPOSITORY_URL},
+        {"help delay", "OK: Usage: delay MS."},
+        {"help pattern", "OK: Usage: pattern NAME [center|X Y]."},
+        {"h load", "OK: Usage: load FILE [center|X Y]."},
     };
     uint8_t cells[48], next[48];
     memcpy(cells, app.world.cells, sizeof(cells));
@@ -272,6 +275,10 @@ static int command_feedback(void) {
         {"pattern block", "OK: Pattern placed at 3,2; 4 live cells."},
         {"pattern block 0 0", "OK: Pattern placed at 0,0; 8 live cells."},
         {"randomize", "OK: World randomized."}, {"help", "OK: Commands: help/h"},
+        {"help keys", "OK: Keys: q quit"}, {"h pattern", "OK: Usage: pattern NAME [center|X Y]."},
+        {"help load", "OK: Usage: load FILE [center|X Y]."},
+        {"help unknown", "Error: Unknown help topic"},
+        {"help keys extra", "Error: Usage: help [keys|COMMAND]."},
     };
     for (size_t i = 0; i < sizeof(cases)/sizeof(cases[0]); ++i) {
         execute(&app, cases[i].input);

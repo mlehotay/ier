@@ -22,10 +22,13 @@ static void reply(CommandLine *cmd, int success, const char *format, ...) {
         if ((unsigned char)*p < 32 || (unsigned char)*p >= 127) *p = '?';
     }
     snprintf(cmd->message, sizeof(cmd->message), "%s%.248s", success ? "OK: " : "Error: ", detail);
+    cmd->message_offset = 0;
 }
 
 static const char *usage(const char *name) {
-    if (!strcmp(name, "help") || !strcmp(name, "h")) return "help";
+    if (!strcmp(name, "help") || !strcmp(name, "h")) return "help [keys|COMMAND]";
+    if (!strcmp(name, "pattern")) return "pattern NAME [center|X Y]";
+    if (!strcmp(name, "load")) return "load FILE [center|X Y]";
     if (!strcmp(name, "version")) return "version";
     if (!strcmp(name, "license")) return "license";
     if (!strcmp(name, "repo")) return "repo";
@@ -55,6 +58,7 @@ void cmd_clear(CommandLine *cmd) {
 void cmd_set_message(CommandLine *cmd, const char *msg) {
     if (!cmd) return;
     snprintf(cmd->message, sizeof(cmd->message), "%s", msg ? msg : "");
+    cmd->message_offset = 0;
 }
 
 void cmd_enter(CommandLine *cmd) {
@@ -62,6 +66,7 @@ void cmd_enter(CommandLine *cmd) {
     cmd->active = 1;
     cmd_clear(cmd);
     cmd->message[0] = '\0';
+    cmd->message_offset = 0;
 }
 
 void cmd_cancel(CommandLine *cmd) {
@@ -187,8 +192,16 @@ void cmd_execute(struct App *app) {
         reply(&app->cmd, 0, "Empty command. Type 'help'.");
     } else if (!strcmp(s, "pattern") || !strcmp(s, "load")) {
         apply_pattern(app, count, args, !strcmp(s, "load"));
-    } else if ((!strcmp(s, "help") || !strcmp(s, "h")) && count == 1) {
-        reply(&app->cmd, 1, "Commands: help/h, version, license, repo, stats on/off, torus on/off, bounded, seed N, delay MS, pattern NAME [center|X Y], load FILE [center|X Y], clear, randomize.");
+    } else if ((!strcmp(s, "help") || !strcmp(s, "h")) && count <= 2) {
+        if (count == 1) {
+            reply(&app->cmd, 1, "Commands: help/h [keys|COMMAND], version, license, repo, stats on/off, torus on/off, bounded, seed N, delay MS, pattern NAME [center|X Y], load FILE [center|X Y], clear, randomize. [ and ] page replies.");
+        } else if (!strcmp(args[1], "keys")) {
+            reply(&app->cmd, 1, "Keys: q quit, space pause/resume, n step while paused, r randomize, c clear, + faster, - slower, s stats, : command. Replies: [ and ] page; Esc dismiss. Control keys also execute.");
+        } else {
+            const char *syntax = usage(args[1]);
+            if (syntax) reply(&app->cmd, 1, "Usage: %s.", syntax);
+            else reply(&app->cmd, 0, "Unknown help topic '%.64s'; use help keys or help COMMAND.", args[1]);
+        }
     } else if (!strcmp(s, "version") && count == 1) {
         reply(&app->cmd, 1, "%s %s", GOL_NAME, GOL_VERSION);
     } else if (!strcmp(s, "license") && count == 1) {

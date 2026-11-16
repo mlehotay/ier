@@ -6,12 +6,25 @@ Status: experimental
 Authority: non-canonical
 
 Run from `apps/game-of-life` with Make, a C11 compiler (`cc` by default), and
-Python 3 for the executable startup-error suite:
+Python 3 for the executable startup-error and POSIX terminal suites:
 
 ```bash
 make test
 make test-unit
 make test-unit TEST_CASE=isolated-cell
+make test-unit TEST_CASE=local-process-partition
+make test-unit TEST_CASE=source-process-networks
+make test-unit TEST_CASE=independent-block-boundaries
+make test-unit TEST_CASE=minimal-sufficient-boundaries
+make test-unit TEST_CASE=minimal-sufficient-components
+make test-unit TEST_CASE=periodic-minimal-components
+make test-unit TEST_CASE=whole-board-minimal-components
+make test-unit TEST_CASE=native-non-null-components
+make test-unit TEST_CASE=paired-toad-components
+make test-unit TEST_CASE=paired-toad-interventions
+make test-unit TEST_CASE=block-support-certificates
+make test-unit TEST_CASE=block-regeneration-products
+make test-unit TEST_CASE=boundary-replay
 make test-unit TEST_CASE=toad-period
 make test-unit TEST_CASE=glider-translation
 make test-unit TEST_CASE=gosper-emission
@@ -25,9 +38,13 @@ make test-patterns TEST_CASE=pattern-registry
 make test-cli TEST_CASE=cli-placement
 make test-cli TEST_CASE=cli-numbers
 make test-startup TEST_CASE=startup-errors
+make test-terminal TEST_CASE=responsive-quit
+make test-research TEST_CASE=replay
 make test-commands TEST_CASE=command-files
 make test-commands TEST_CASE=command-feedback
 make test-integration TEST_CASE=command-help
+make test-integration TEST_CASE=reply-navigation
+make test-integration TEST_CASE=normal-controls
 make test-rle TEST_CASE=rle-valid
 make test-integration TEST_CASE=command-routing
 make test-integration TEST_CASE=startup-order
@@ -38,7 +55,8 @@ make test-integration TEST_CASE=startup-files
 `make test` adopts the aggregate command contract in
 `fley-org/process/fley-testing.md`. It includes the world unit suite, UI
 rendering suite, app-resize integration suite, `.cells` parser suite and built-in
-registry, CLI, runtime command, RLE and executable startup-error suites.
+registry, CLI, runtime command, RLE, executable startup-error, real-terminal
+and fixed-world research-recording suites.
 `make test-unit` runs the world suite, or one exact case
 selected through `TEST_CASE`. The default `all` selects every registered case;
 empty and unknown selections fail. `make test-ui` runs the rendering suite;
@@ -50,7 +68,61 @@ or an exact case name. `make test-cli` selects all CLI cases or an exact case
 name. `make test-commands` selects all runtime command cases or an exact case
 name. `make test-rle` selects all RLE cases or an exact case name. The aggregate
 includes both suites. `make test-startup` builds the real executable and selects
-`startup-errors` or `all`. Other suite targets are not implemented.
+`startup-errors` or `all`. `make test-terminal` selects `responsive-quit` or
+`all`, using Python's standard POSIX PTY interface and the real executable.
+It checks normal/narrow/one-row terminals with an INT_MAX delay: help and pause
+remain responsive, input wakeups do not add automatic ticks, one q exits from
+feedback, and terminal attributes are restored. The suite does not open a GUI
+or alter the user's terminal; it owns its pseudoterminals and child processes.
+Both executable suites are in the aggregate gate.
+
+`make test-research` builds the existing C engine as a shared library and
+qualifies the Python/ctypes recording wrapper. Select `replay`, `inputs`,
+`provenance`, `io-failures` or `all`. Literal 32×32 glider/toad phases and
+native counts are checked at every step under both topologies; empty/block
+controls and fresh-process replay are included. Input tests enforce exact
+coordinates, strict JSON and declared resources. Equal-board install tests
+preserve event/segment distinctions. Injected write/short-write/flush/close,
+fsync, publication-race and allocation/API failures verify visible failure,
+no replacement of completed output and native-world cleanup. No Python Life
+rule is used. Source hashes identify modified code even without a Git checkout.
+Temporary inputs/outputs are isolated and removed after tests; the research
+library is `build/research/world.so`, removed by `make clean`.
+
+`make test-measures` qualifies whole-board analysis without a second Life rule.
+Select `phases`, `limits`, `paired`, `invalid` or `all`. Literal glider/toad
+boards give independent interval, turnover, extent and recurrence expectations.
+Block/empty, truncated history with complete interval sets, dead-margin failure,
+toroidal translation exclusion and equal-board install resets cover boundary
+semantics. Existing near/far block controls run through the C recorder for 32
+steps; paired block removal differs at exactly four complete-board sites.
+Fresh-process and repeated analysis outputs agree. Malformed/incomplete/partial
+traces, mismatched contexts, resource limits, existing files and injected
+write/short-write/flush/close/fsync/publication failures must not publish a new
+completed output. This suite belongs to the aggregate `make test` gate.
+
+`make test-production` qualifies `exact-neighborhood/1`. Select `exhaustive`,
+`geometry`, `interventions`, `failures` or `all`. All 512 interior literal
+input tuples are observed through the C engine under both topologies, with
+independent positional checks and source category totals 56/84/172/199/1.
+Corner wrapping, bounded exterior OFF slots and one-cell torus aliases retain
+the engine's directional-neighbor semantics. Paired controls show why one
+added neighbor can preserve a two-neighbor survivor while two added neighbors
+kill it. Equal-board installs create no update record; subsequent source events
+identify the install. Tests also cover target selection/order, initial-only
+traces, fresh-process replay, context/resource errors, unequal pair schedules,
+incomplete traces, allocation/output failures and no-overwrite publication
+including a concurrent writer. The aggregate gate includes this suite;
+no Python Life rule or actual-cause/membership criterion is added.
+
+`make test-cross-cases` selects `replay`, `rejected` or `all`. It reconstructs
+the declared 21-run matrix through the same C engine and existing recording,
+measurement and production modules, checks literal controls and complete native
+replays, and compares fresh-process artifact bytes. The read-only checker
+recalculates interval sets and verifies saved inputs, production contexts and
+completion metadata. Existing directories, corrupt derived sets and engine
+failure are rejected. These are model/apparatus checks; they do not select or
+accept the root plan's physical-adequacy cases. The suite is in `make test`.
 
 The native runner links `src/world.c` and `src/pattern.c` directly and never initializes the app,
 terminal, UI, or event loop. Tests need no TTY, network, external services,
@@ -60,6 +132,15 @@ worlds. Outputs are console diagnostics and the ignored executable
 The resize runner and its allocation-injection object are
 `build/tests/resize-tests` and `build/tests/resize-world.o`. `make clean`
 removes all test executables and the injection object.
+
+`local-process-partition` exhausts all 512 labeled 3×3 configurations at an
+interior site under both topologies. It checks each central output against
+an explicit B3/S23 truth table and verifies the binomial input multiplicities
+and Beer (2015) Figure 3's five class totals. This is a local-rule source
+reconstruction, not a process-network or membership analysis. The development
+repository retains its bounded evidence at
+`apps/game-of-life/research/investigations/local-process-reconstruction.md`;
+that record is outside the public export.
 
 The parser runner/object are `build/tests/cells-tests` and
 `build/tests/cells-parser.o`, also removed by `make clean`. Only the test object
@@ -136,7 +217,9 @@ builds use the normal allocator. Cases need no TTY or external dependencies:
 | `startup-patterns` | All seven built-ins under both topologies: centered defaults, pane-derived dimensions, explicit coordinates overriding center, exact-size fits, no random cells, zero scratch buffer and fresh generation/stats before the first tick. Seeds do not affect pattern output. |
 | `startup-files` | CLI loading of paths with spaces, normalization of dead margins, centered and explicit boundary fits in both topologies, initial stats, malformed/empty/missing/oversized files and invalid placement cleanup. |
 | `startup-failures` | Unknown pattern/direct invalid mode, negative/extreme coordinates, too-small worlds/tiny terminals and failures of both world allocations produce errors and leave no allocated world. |
-| `command-help` | Command h feedback, ordinary dismissal, editing/cancel, no alternate display mode and simulation/layout/stat preservation. |
+| `command-help` | Command h feedback, normal hint, editing/cancel, no alternate display mode and simulation/layout/stat preservation. |
+| `reply-navigation` | Read all characters of a maximum-length reply at normal, narrow, tiny and one-row sizes; bounded paging, resize-position retention, reset/dismissal and editor precedence without world/stat changes. |
+| `normal-controls` | All normal bindings with/without feedback under both topologies; same-press actions, literal blinker step, seeded randomization, clear, speed limits, editor precedence and step suppression for running/tiny/pending-resize states. |
 | `command-routing` | Commands typed through the app key handler execute on Enter, redraw and preserve pause state; Backspace/Esc and immediate re-entry work. A maximum delay stays safe with normal-mode speed keys. |
 | `stats-lifecycle` | Snapshots match independently counted cells before the first tick, after automatic/manual steps, pause, delay changes, stats toggles, topology commands, clear, seeded randomize and resize. A blinker plus an isolated cell gives known births/deaths/changed counts. Non-step world mutations reset those counts; pause and display toggles retain them. |
 | `resize-transitions` | Shrink/grow, stats-threshold crossings, tiny/zero screens and recovery preserve top-left overlap, dead-fill added space, reset step counts after world mutations, redraw every safe cell and retain topology, generation, pause and command state. Covers evolved boards in both topologies and running/paused modes. |
@@ -175,6 +258,10 @@ success or failure; no downloaded fixtures or external dependencies are needed.
 | `gosper-emission` | Through 124 generations: exact recurring gun core and 1/2/3/4 detached gliders at 30/60/90/120, populations 41/46/51/56, plus glider translations four ticks later. Two origins, both topologies, tick count consistency and stable metadata. |
 | `glider-translation` | Sixteen steps, exact (+1,+1) displacement every four steps, five live cells and exact step counts throughout. Covers bounded/toroidal interior and a toroidal case crossing both seams. |
 | `seeded-repeatability` | Two toroidal 9x7 worlds initialized with seed 42 match initially and through eight steps, including statistics. This checks repeatability within the current C runtime, not a portable board fixture. |
+| `local-process-partition` | All 512 labeled neighborhoods under each topology: every central output, binomial input multiplicities and Beer Figure 3's class totals; no process-network or membership inference. |
+| `source-process-networks` | Literal full-board block/blinker/glider phases and their selected phase/position process construction: 16/84, 30/162 and 88/566 nodes/links under both topologies; no arbitrary-boundary discovery or printed-edge isomorphism claim. |
+| `independent-block-boundaries` | Two separately stable blocks versus their complete-board union over 32 ticks; adjacent OFF rings give raw cross-links while farther masks do not. Adverse control for graph-based membership under both topologies. |
+| `minimal-sufficient-boundaries` | Exhaustive engine-backed truth table and fixed-input mask search: each facing two-neighbor OFF site has a unique seven-OFF sufficient set retaining the reciprocal cross-ring condition. Logical sufficiency only. |
 
 Cases are registered in `world_tests.c`. Failed checks identify the function,
 source line and expression, then print a command to reproduce the case.
@@ -221,3 +308,68 @@ ANSI escapes. Cases cover missing/malformed/conflicting flags, pane size limits,
 missing/read/invalid/empty files and invalid placement. Files live in a temporary
 `/tmp/gol-errors-*` directory and are removed afterward. No TTY or third-party
 Python packages are needed. Native suite targets still require only Make and C11.
+
+`boundary-replay` follows the frozen comparison in the root
+case record at `_work/unity/review/discrimination-cases.md`, section
+“Boundary replay comparison — 15 November 2026” in the containing repository.
+It enumerates 256 neighbor masks with a fixed singleton cut, checking nominal
+exterior replay and searching center-flip perturbations through four ticks in
+both topologies. All transitions use the native engine. Exterior overwrites
+are explicit interventions; agreement or divergence is not a membership verdict.
+
+`minimal-sufficient-components` extends the selected two-block control to both
+any-minimum and every-minimum input graphs. Exhaustive local sufficiency is
+checked against symbolic minima for each local class; complete pairwise strong
+component partitions are checked against independent role/geometry predictions
+for near/far fixtures and both topologies. It keeps the ON-core result separate
+from shared OFF conditions. It supplies no arbitrary-pattern boundary detector.
+
+`periodic-minimal-components` is a root-owned exploratory follow-up after plan
+0002 closure. It checks complete literal phases, local truth-table outputs,
+selected source counts and independent graph traversals for block, blinker,
+toad and glider under both minimal-set edge policies and topologies. It reports
+component size/ON-product censuses. The fixed masks and recurrence quotient
+are supplied, not discovered; the result is not constitutive membership.
+
+`whole-board-minimal-components` repeats the periodic audit on the complete
+12×12 toroidal phase-board, with the glider return translation reduced modulo
+12. It checks literal boards, full-input counts and independent reachability,
+and reports how productive components depend on the analysis mask. Post-audit
+symbolic checks verify the null-background and four-ON-neighbor minima. This
+is a root-owned boundary test; closed plan 0002 remains closed.
+
+`native-non-null-components` scans every coordinate of the native toroidal
+boards, admitting update centers with a nonzero nine-input tuple. An independent
+literal radius-one predicate is checked at every site/phase, as are the earlier
+component censuses. This computes an explicit local process domain without a
+shape recognizer; it does not establish unique organizational grouping or the
+irrelevance of excluded background conditions.
+
+`paired-toad-components` scans ninety relative toad placements per topology,
+retaining only complete-board two-step union histories verified against literal
+isolated phases. It audits both graph policies, ON-product origins and independent
+traversals, with a predeclared far control and a recorded near mixed-component
+witness. The result tests nominal separation rather than independence under all
+perturbations or physical membership. This is root-owned formulation work.
+
+`paired-toad-interventions` tests predicted cross-pattern inhibitory OFF
+conditions against edited isolated sources, nominal union histories and a far
+control. Literal phases and 3/4-neighbor target predictions supply independent
+oracles. Far disjoint input patches verify a sufficient condition for two-step
+composition. This distinguishes nominal superposition from a specified finite
+intervention family, without installing a membership or unity criterion.
+
+`block-support-certificates` checks two declared domains on one block board:
+a four-ON-site core with twelve required exterior OFFs, and a sixteen-site
+extension with sixteen exterior OFFs and four free outer corners. Literal
+next-state expectations, all sixteen corner assignments, distant fill checks
+and a necessity witness for each support literal validate the one-step
+certificates. Locality supplies the remaining-completion argument. These
+certificates account for joint support; they do not select a unique boundary.
+
+`block-regeneration-products` enumerates sixteen initial corner masks and
+256 mask pairs for separated tiles under both topologies. Complete-board
+predictions and native production/destruction counts distinguish one-corner
+repair, undamaged maintenance and decay. The two-block restoration family
+tests the limit of regeneration as a unique-boundary criterion. Equal repaired
+boards do not by themselves establish retained history or full token identity.

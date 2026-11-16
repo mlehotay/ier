@@ -2,7 +2,7 @@
 
 Status: development roadmap summary\
 Authority: non-canonical\
-Last reconciled: 2026-11-14 (simulator 0.3.0)
+Last reconciled: 2026-11-15 (simulator 0.4)
 
 This is the readable simulator backlog. In the development repository, task
 status is owned by `apps/game-of-life/_work/tasks.csv`, expanded definitions by
@@ -10,28 +10,23 @@ status is owned by `apps/game-of-life/_work/tasks.csv`, expanded definitions by
 Those private workflow files are not part of the public projection. This guide
 summarizes them without replacing their execution state.
 
-## Finish the simulator baseline
+## Completed simulator baseline
 
-Do these in dependency order:
+User-approved baseline at 58258b3d:
 
-- [ ] **Improve the controls, UI and command/help discovery (`gol-0015`, ready).**
-  Define clear normal-mode bindings, command entry, help discovery and feedback
-  dismissal. Make the available actions understandable within the pane layout.
-  The previous persistent help toggle was removed; help currently behaves as
-  transient command feedback. Decide how users can read command guidance that
-  exceeds the visible width, including on small terminals. Update usage docs
-  and regression checks with the agreed behavior.
-- [ ] **Audit the resulting controls (`gol-0016`, blocked on `gol-0015`).**
-  Check pause/resume, single-step while paused, clear, randomize, speed,
-  statistics visibility, command editing/cancel/execute and redraw behavior.
-  Confirm which actions dismiss feedback and whether they also execute, and
-  verify that informational commands preserve simulation state. Recheck narrow
-  and tiny terminals after UI changes.
-- [ ] **Run the phase-exit review (`gol-0025`, todo).**
+- [x] **Controls and help rework (`gol-0015`, done).**
+  Transient replies support bracket-key paging; focused help uses :help keys
+  and :help COMMAND. Esc dismisses, while normal controls act on the same
+  dismissing press. The persistent help toggle remains removed.
+- [x] **Control audit (`gol-0016`, done).**
+  Both topologies and feedback states are covered, including command editing,
+  every normal binding, tiny-terminal/resize step guards and positive speed
+  limits. Paging/rendering preserves simulation state.
+- [x] **Phase-exit review (`gol-0025`, done).**
   Check the final behavior against the [design](gol-design.md): startup options,
   commands, built-in patterns, external `.cells` loading, statistics, terminal
-  stability and reproducible tests. Most prerequisites are already done; the
-  control audit remains open. Passing tests alone does not close the plan.
+  stability and reproducible tests. The control audit is complete; the
+  user approved closure at 58258b3d; research apparatus remains separate.
 
 Small-terminal fallback, clipped pane drawing, resize hardening, command/load
 diagnostics and startup ordering are already implemented. Revisit them where
@@ -59,7 +54,7 @@ current phase. Add bounded implementation tasks when taking them up.
 
 ## Release and public distribution
 
-Version 0.3.0, `--version`, runtime `:version` / `:license` / `:repo`, the
+Version 0.4, `--version`, runtime `:version` / `:license` / `:repo`, the
 CC BY-NC 4.0 license and the public IER URL are provided. For each release:
 
 - [ ] Update `src/version.h` and the development/public READMEs together.
@@ -75,9 +70,9 @@ CC BY-NC 4.0 license and the public IER URL are provided. For each release:
 The literature-led unity reproduction work is allocated in development plan
 `0002-gol-unity-relations-reproduction`, tasks `gol-0028`–`gol-0032`:
 
-- [ ] Specify fixed-world inputs, events/snapshots, relation versions and independent expected fixtures (`gol-0028`, ready).
-- [ ] Add a headless runner through the existing C engine and reproducible provenance (`gol-0029`, after specification and baseline phase exit).
-- [ ] Add reviewed persistence and matched-run measurements (`gol-0030`).
+- [x] Specify fixed-world inputs, events/snapshots and independent expected fixtures (`gol-0028`, done; interface v1 is in the statistics document).
+- [x] Add a headless recorder through the existing C engine with reproducible provenance and qualified failures (`gol-0029`, done).
+- [ ] Add reviewed persistence and matched-run measurements (`gol-0030`, ready).
 - [ ] Add reviewed ON/OFF production and contribution traces and checkpoint provenance comparisons (`gol-0031`).
 - [ ] Reproduce separation, interaction, gun/output and grain comparisons and hand evidence to the dossier (`gol-0032`).
 

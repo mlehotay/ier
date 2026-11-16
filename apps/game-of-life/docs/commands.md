@@ -6,7 +6,9 @@ between arguments are accepted. Extra arguments and malformed numbers fail.
 
 | Command | Behavior |
 | --- | --- |
-| `help` or `h` | List command syntax as ordinary transient feedback. |
+| `help` or `h` | List command syntax as transient feedback; use `[` and `]` to page long replies. |
+| `help keys` | List normal controls, reply navigation and dismissal. |
+| `help COMMAND` | Show the selected command's syntax, for example `help load`. |
 | `version` | Show the simulator name and version, independent of IER theory versions. |
 | `license` | Show CC BY-NC 4.0 and its full-terms URL. |
 | `repo` | Show the public IER repository URL: <https://github.com/mlehotay/ier>. |
@@ -24,7 +26,7 @@ Seed accepts decimal digits from 0 to `UINT_MAX`; delay accepts 1 to `INT_MAX`.
 `version`, `license` and `repo` accept no arguments and preserve the world,
 generation, pause state, settings and statistics. `:repo` gives the URL its
 own reply so it is readable in an ordinary 80-column terminal. Feedback is
-still clipped on narrower terminals; `./gol --version` prints all metadata
+readable with `[` and `]` on narrower terminals; `./gol --version` prints all metadata
 without entering terminal mode. URLs are plain text for copying or opening
 with a terminal's link support; the app does not launch a browser.
 
@@ -66,8 +68,22 @@ characters is marked in the editor and rejected as a whole on Enter; Esc cancels
 
 Help is an ordinary command reply from `:help` or `:h`, with the same lifetime
 and rendering as other feedback. It does not create another display mode or
-change layout/simulation state. There is no normal-mode h shortcut. The next
-ordinary key dismisses feedback and is consumed; `:` immediately enters a new
-command. Esc cancels editing and returns to the usual pane contents.
+change layout/simulation state. There is no normal-mode h shortcut. While a
+reply is present, `[` and `]` move backward/forward by the current visible
+text width; an available `[ ]` prefix advertises navigation. Very narrow panes
+omit the prefix to leave room for text. One-row terminals show the reply in
+their only row, preserving the reserved bottom-right cell. Resizing keeps the
+current reply position; a new reply or command resets it.
+
+`Esc` and unbound keys dismiss a reply. Normal control keys clear it and also
+execute on the same press, including `q` and space; `:` enters a new command
+immediately. In the command editor, brackets and control letters are text,
+Backspace deletes, Enter executes and Esc cancels. The normal hint starts
+with `:help`; `:help keys` and `:help COMMAND` provide focused guidance.
+Normal `n` steps only while paused with usable geometry and no pending resize.
+Speed keys change delay by 10ms, clamped to the positive range 1–`INT_MAX`.
+Input stays responsive even at a long delay; receiving a key or redrawing a
+reply does not trigger an extra automatic step. Pause/delay changes establish
+a fresh automatic-step deadline.
 Pattern/file [startup initialization](cli.md) uses the same placement rules on
 a fresh board, while runtime placement adds to the current board.

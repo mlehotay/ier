@@ -52,14 +52,7 @@ explains why a newborn must not affect another calculation in the same turn.
 For a board $x_t$, write $n_t(p)$ for the number of live neighbors of site $p$,
 excluding $p$ itself. A binary birth/survival rule specifies sets $B,S$:
 
-$$
-x_{t+1}(p)=
-\begin{cases}
-1 & x_t(p)=0\ \text{and}\ n_t(p)\in B,\\
-1 & x_t(p)=1\ \text{and}\ n_t(p)\in S,\\
-0 & \text{otherwise}.
-\end{cases}
-$$
+$$ x_{t+1}(p)= \begin{cases} 1 & x_t(p)=0\ \text{and}\ n_t(p)\in B,\\ 1 & x_t(p)=1\ \text{and}\ n_t(p)\in S,\\ 0 & \text{otherwise}. \end{cases} $$
 
 This is **outer-totalistic**: the center's state and the total of its neighbors
 matter, while their arrangement does not. In the unrestricted binary,

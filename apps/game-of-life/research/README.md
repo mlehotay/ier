@@ -24,12 +24,14 @@ and targeted further reading after the nineteen first-pass source notes.
 The development review is `_work/unity/review/gol-literature-assessment.md`;
 its private source notes retain explicit coverage and reproduction limits.
 
-The development unity programme routes source assessment to root `todo-239`,
-candidate definitions to `todo-240`, cases to `todo-237` and justified owner
-reconciliation to `todo-241`. App plan `0002-gol-unity-relations-reproduction`
-and `gol-0028`–`gol-0032` own apparatus specification and later implementation.
-Protocols and eventual results belong in [investigations/](investigations/).
-These are allocated work, not completed formalization or implemented IER metrics.
+The v10.12.1 source review, existing-case assessment, accepted guide and
+bounded owner reconciliation are complete. App plans 0001/0002 and the
+`gol-0028`–`gol-0032` delivery are closed at their software/evidence scopes.
+Unfinished proposal and physical cases remain `todo-240`/`todo-237` in the
+ready development plan `_work/plans/v10.12-gol-relations-resumption.md`.
+New research awaits explicit resumption. Protocols, saved results and their
+limits remain in [investigations/](investigations/); none establishes a complete
+physical membership criterion or a qualified experiential instance.
 
 
 Start with the [Life machine](game-of-life-machine.md), then the worked
@@ -37,7 +39,7 @@ Start with the [Life machine](game-of-life-machine.md), then the worked
 [loaf](worked-examples/loaf.md) examples. The loaf supplies persistence without
 live-site turnover as a contrast to the other two.
 Their starting fixtures are in [worked-examples/fixtures/](worked-examples/fixtures/).
-The [draft statistics plan](persistence-statistics-plan.md) proposes instrumentation.
+The [statistics plan](persistence-statistics-plan.md) specifies implemented recording/whole-board measurements and proposed role instrumentation.
 
 The development repository's canonical GoL account, `IER/IER-game-of-life.md`,
 explains the organizational relations and their limits. The ordinary
@@ -62,6 +64,14 @@ Two separate proposals remain useful:
 
 ## Research method and ownership
 
+In the development repository, the root plan at
+`_work/plans/v10.12.0-unity-fix-canon-propagation.md` supplies the five-phase
+completion sequence; that private workflow file is outside the public export.
+This research directory supplies phase 3 protocols
+and evidence; the app plan owns reproduction software. The simulator baseline
+audit precedes instrumentation implementation; source work and reproduction
+specification can proceed now.
+
 GoL-specific questions, protocols, evidence and conclusions live here. The
 simulator, fixtures and software tests stay in this app; implementation work
 continues through its existing plan and task dashboard.
@@ -74,6 +84,13 @@ Those shared development resources are not part of the public export.
 
 ## Starting investigation
 
+The development-only record at
+`apps/game-of-life/research/investigations/local-process-reconstruction.md`
+documents Beer (2015) local and selected-network checks through the existing
+engine. Its unit cases are in the [test surface](../tests/README.md).
+This bounded source work is separate from the Q1–Q5 protocols below and from
+organizational or experiential verdicts; the record is outside the public export.
+
 This is exploratory/reconstruction work, with no selected confirmatory study
 or accepted investigation result. Source annotations and task allocation do
 not select or complete confirmatory studies. Freeze each actual protocol and
@@ -84,10 +101,30 @@ glider and a toad preserve their measured recurrence while continuously live sit
 over. This is a small reconstruction question with exact board comparisons.
 It can qualify basic measurements before stronger claims are attempted.
 
-The next question separates generated from installed successors. It needs
-event provenance as well as snapshots. The implementation
-[statistics plan](persistence-statistics-plan.md)
-proposes that capability; it is not available yet.
+The fixed-world recorder now supplies complete boards and step/install
+provenance through `make research-run`; its contract is in the
+[statistics document](persistence-statistics-plan.md#fixed-world-reproduction-interface--draft-1).
+The development-only Q1 execution record and raw traces are at
+`apps/game-of-life/research/investigations/q1-recorder-reconstruction.md`
+and its `runs/2026-11-14-q1-recorder/` companion. The stated glider/toad
+boards and native counts match. `make research-measure` now exports interval
+sets, turnover and recurrence from those traces, with matching Q1 results;
+paired-run differences are separately qualified controls. Those model results do not settle membership
+or qualification. Exact-neighborhood records now export all labeled ON/OFF
+conditions at declared target sites through `make research-production`. The
+development-only Q2 record at
+`apps/game-of-life/research/investigations/q2-production-installation.md`
+retains actual computed/installed checkpoint histories: all aligned future
+boards agree, with different recorded source-event kinds. Q3–Q5 remain open;
+no actual-cause or membership classifier is implemented.
+
+The development record at
+`apps/game-of-life/research/investigations/q3-q5-cross-case-reconstruction.md`
+retains 21 later pilot/model reconstructions, with exact inputs and a hash
+index. The author then requested reassessing the discriminating cases before
+section 3 execution. Those pilots remain at their model scope; they are not
+the accepted physical-adequacy suite. Further case selection must identify
+the proposal claim, contrasting predictions and physical interpretation.
 
 ## Proposed sequence of investigations
 
@@ -99,8 +136,9 @@ proposes that capability; it is not available yet.
 | Q4: Collision and successor attribution | Glider and a chosen still life, compared with each alone; full boards and production traces | Similar outgoing shapes and mixed ancestry do not decide token identity |
 | Q5: Joint organization under interventions | Independently justified candidate, cut, grain and perturbation family; compare actual update dependence and substitution behavior | Perturbation ensembles are not a fixed state's successor fibre; factorization is not a unity verdict |
 
-Q1 is the proposed first scope. Q2–Q5 are a question backlog, not scheduled or
-completed studies. Split a question further when its decision rules diverge.
+Q1 and Q2 have bounded reconstruction records in the development repository,
+as described above. Q3–Q5 remain a question backlog, not completed studies.
+Split a question further when its decision rules diverge.
 No aggregate “percentage of the theory mapped” should be assigned.
 
 ## Collision question retained from the discussion

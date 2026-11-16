@@ -2,7 +2,7 @@
 
 An experimental implementation of Conway’s Game of Life with a structured terminal UI.
 
-Simulator version: **0.3.0** (experimental; independent of the IER theory version).
+Simulator version: **0.4** (experimental; independent of the IER theory version).
 Public IER repository: <https://github.com/mlehotay/ier>.
 Use `./gol --version` or runtime commands `:version`, `:license` and `:repo`
 to view this information. See the [development TODO](docs/todo.md) for remaining work.

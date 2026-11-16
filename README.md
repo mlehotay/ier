@@ -2,6 +2,10 @@
 
 **Current citation edition: v10.12.1 · 13 November 2026.**
 
+The v10.12.1 source era closed on 15 November 2026. The bounded formulation
+and historical explanation are accepted; GoL physical relations and qualification
+remain incomplete and deferred to future work.
+
 IER is a physicalist theory of experience. Its central claim is:
 
 > Experience is identical to the operation of a qualifying Unified Experiential Field: a physically individuated operation with intrinsic closure, non-externalizable ownership, constitutive membership, and produced-and-inherited continuity.

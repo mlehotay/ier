@@ -1,7 +1,7 @@
 # GoL follow-up readings: maintenance, boundaries, and continuation
 
 Date: 2026-11-14\
-Status: focused follow-up queue; new works have not received full source reviews\
+Status: F1/F2 acquired and F9 inspected online at targeted scope; other new works remain reading leads\
 Authority: non-canonical research\
 Basis: the [nineteen-paper reading list](reading-list.md) and its source notes
 
@@ -70,11 +70,18 @@ established by those authors or an instruction to reinstate a withdrawn test.
 ## New follow-up queue
 
 F1–F8 are local queue identifiers, separate from the original entries 1–19.
-Links and introductory material were checked on 2026-11-14. The files have
-not been downloaded into the shared collection during this pass. An accessible
-source or abstract is not a completed reading or endorsement.
+Links and introductory material were checked on 2026-11-14. F1 and F2 now
+have local PDFs and targeted source notes in the shared collection. Their
+proposed comparisons remain unperformed; the other six files have not been
+acquired in this pass. An accessible source or abstract is not a completed
+reading or endorsement.
 
 ### F1. Function and constitutive contribution — read first
+
+Targeted assessment completed 2026-11-14: `references/notes/mossio-saborido-moreno-2009-organizational-account-biological-functions.md`
+records §§4–5 and §6.1, the contribution/maintenance distinction and a
+reciprocally supported organizations countercase. A domain-selection rule
+and GoL comparisons remain open.
 
 Mossio, M., Saborido, C., and Moreno, A. (2009). **An Organizational Account
 of Biological Functions.** *The British Journal for the Philosophy of Science*,
@@ -89,6 +96,10 @@ whole in advance. Deliver a proposed relation and at least one countercase;
 do not equate biological function with experiential membership.
 
 ### F2. Physical autonomy beyond formal recurrence — read first
+
+Targeted assessment completed 2026-11-14: `references/notes/ruiz-mirazo-moreno-2004-basic-autonomy.md`
+records the selected material-autonomy passages and a proposed model/host
+comparison. No physical implementation comparison or tension verdict follows.
 
 Ruiz-Mirazo, K., and Moreno, Á. (2004). **Basic Autonomy as a Fundamental
 Step in the Synthesis of Life.** *Artificial Life*, 10(3), 235–259.
@@ -184,6 +195,14 @@ Friston and Parr commentaries and
 [Friston’s direct reply](https://discovery.ucl.ac.uk/id/eprint/10149691/1/Friston_PLR%20comment.pdf).
 Identify the disputed equation and formulation before generalizing a criticism.
 This entry does not declare the wider FEP debate settled.
+
+## F9 — Concrete construction evidence for the maintained-candidate question
+
+Berhanu, Ueda and Kuruma (2019),
+[publisher](https://www.nature.com/articles/s41467-019-09147-4).
+Targeted online assessment is indexed in development `references/references.md`.
+It changes the proposed construction/maintenance distinction; it does not
+supply a complete physical-membership test. No new experimental run is claimed.
 
 ## Reading and stopping rule
 
