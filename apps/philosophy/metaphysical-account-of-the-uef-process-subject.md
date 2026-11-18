@@ -2,15 +2,17 @@
 
 ## Status and role
 
-Status: current philosophical exposition; GoL direction synchronized 13 November 2026
+Status: current philosophical exposition; unity formulation synchronized 17 November 2026
 Authority: non-canonical; canon-constrained
 
 This document explains experience, subject, unity, ownership, membership and
 continuity using the persistence-first order in the maintained core argument,
-`traceability/claims-summary.md` (development repository). It carries forward
-the v10.12.0 canonical relations while developing the author's requested
-v10.12.1 direction: GoL as a testbed for real general organizational relations,
-with intrinsic constraint as a further qualification question.
+`traceability/claims-summary.md` (development repository). It follows the
+current v10.12.2 canonical formulation: GoL investigates general organizational
+relations, while intrinsic constraint and full UEF
+qualification remain further physical questions. The accepted mechanism
+integration completes a bounded relation and evidence assessment; it does
+not complete the physical account or certify this later exposition.
 It develops the author's chosen philosophical approach: experiential unity
 follows from identity with a qualifying continuing operation, rather than
 requiring a further assembly relation. The physical proposal is that the
@@ -111,6 +113,19 @@ must identify the continuing organization and its scope without assuming the
 subject whose unity it is meant to explain. Any additional inseparability
 condition must earn its role through physical and explanatory justification.
 
+Identity is not diagnosable. Operating as one organization is itself a unity
+question, so this explanatory order does not require an independently decisive
+organization classifier from which experiential unity is inferred. That demand
+was withdrawn, not passed. Production, access, compatibility, maintenance and
+actual history remain investigable relations with substantive evidence burdens.
+Their findings do not certify identity or make arbitrary groupings adequate.
+
+The competition/redistribution hypothesis gives a proposed physical explanation
+of changing access and concurrent participation. Its universal necessity and
+sufficiency remain unsettled. Shared scarcity or reciprocal regulation does
+not alone establish one qualifying operation, and molecular availability does
+not redefine experiential organizational margin.
+
 ## Begin with physical persistence
 
 First describe a candidate organization that continues through changing states,
@@ -177,6 +192,22 @@ can be investigated before experiential qualification. When the full qualifying
 operation is established, identity explains experiential oneness without an
 additional assembly relation. The distinction introduces neither a second
 physical layer nor a mechanism turning nonexperience into experience.
+
+## Biological examples at their assessed scope
+
+Animal Rab conversion, plant MON1–CCZ1 activation and plant ALIX/retromer
+retrieval are distinct experimental comparisons. Recruitment, activation,
+conversion and delivery cannot stand in for one another or be merged into a
+single observed maintenance loop. Ran transport and TRAK/Miro regulation
+likewise provide bounded mechanisms of access and activity, rather than a
+universal resource currency or demonstrated constitutive whole.
+
+The [biological correspondence synthesis](../research/investigations/biological-transport.md)
+records the supported relations, adverse cases and unvalidated transfers.
+Regulatory binding is not automatically canonical frontier binding. Continued
+markers and recovered outputs do not establish owned membership, irreversible
+inheritance or full token continuity. These cases give the physical inquiry
+content without attributing or denying experience.
 
 ## Unity's physical work within persistence and qualification
 

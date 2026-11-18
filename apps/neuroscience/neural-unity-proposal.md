@@ -2,10 +2,13 @@
 
 **Status:** exploratory proposal · non-canonical · no experiential diagnostic
 
-Aligned with the v10.12.x persistence-first unity account. The physical criterion
-and constitutive boundary remain incomplete. Support factorization supplies no
+Updated 17 November 2026 against the v10.12.2 persistence-first unity account.
+The physical criterion and constitutive boundary remain incomplete. Support factorization supplies no
 unity or disunity verdict. Resource competition, bilateral influence, physical
-persistence and organizational maintenance alone establish no UEF.
+persistence and organizational maintenance alone establish no UEF. Unity follows
+under the identity proposal, which is not diagnosable. Operating as one
+organization is itself a unity question; a separately decisive organization
+classifier is neither a prerequisite nor a result promised by this programme.
 
 ## Question and scope
 
@@ -87,6 +90,36 @@ established collapse; later ordinary succession can inherit them without
 another welding event. Thus recruitment can change load without being
 identified with collapse or welding.
 
+## Biological leads and the redistribution hypothesis
+
+The stronger affirmative hypothesis is that competition among activities and
+unity of their continuing organization describe the same physical relation at
+different scopes. The proposed focus is the organization governing redistribution
+of access, rather than a count of recruited components. This is a research
+hypothesis: universal necessity and sufficiency remain unsettled. The present
+neural proposal neither proves it nor settles competition as merely optional.
+
+Access can be distributed and several activities can proceed concurrently.
+Earlier activity may change the physical conditions of later recruitment,
+release and redistribution without an independent selector. The model must
+specify those transformations rather than assuming a conserved global pool.
+Changing access does not alone demonstrate renewal of the organization that
+enables it; changing recruitment loci also does not establish membership.
+
+The [biological transport assessment](../research/investigations/biological-transport.md)
+provides concrete leads and adverse cases. Animal Rab conversion, plant
+MON1–CCZ1 activation and plant ALIX/retromer retrieval retain distinct evidence.
+Ran and TRAK/Miro add availability and activation comparisons. None establishes
+a neural resource mechanism, a universal currency of participation, complete
+organizational maintenance or the full membership/continuity conjunction.
+Regulatory binding is not automatically canonical binding, and restored
+localization or output does not prove restoration of the same operation.
+
+GoL remains the available simulator for bounded general-relations comparisons.
+Its compatibility, interface, support and production-history findings do not
+validate these biochemical mechanisms. The neural programme is a conditional
+research agenda, not a claim that new neural experiments have been performed.
+
 ## Why spoons, capacities, and headroom matter
 
 `IER-spoons.md` describes the margin for further participation within an already
@@ -106,8 +139,8 @@ not interchangeable amounts drawn from one reserve. `IER-headroom.md` describes
 how approach to each boundary may be lived *within* an existing UEF. The
 proposed neural mechanism must keep two questions apart:
 
-1. **Constitution:** Do the physical processes form one internally owned,
-   jointly organized, temporally continuing operation with independently justified constitutive scope?
+1. **Constitution:** What physical relations support the proposed constitutive
+   scope, internally borne resolution and continuing organization?
 2. **Load within an operation:** How do support, recruitment, rate, and inherited
    deformation affect its possible continuations?
 
@@ -138,16 +171,18 @@ perturbation could affect several independently continuing operations.
 
 ## What a physical model must specify
 
-Before testing a unity claim, fix the candidate operation, variables, grain,
-interval, physical boundary, intervention family, and meaningful partitions
-without choosing them to secure a desired result. The model then needs the
-following pieces.
+Before testing a physical relation, declare the candidate activities, variables,
+grain, non-zero interval, proposed interface and justified interventions. Compare
+rival scopes where relevant; the final constitutive boundary need not be known
+in advance. Partitions are required when a particular comparison uses them,
+not as a universal all-partitions unity gate. The model needs the following
+pieces without promising a diagnostic of identity or unity.
 
 | Missing piece | Required account |
 | --- | --- |
 | Continuing organization | Identify the occurring activities and the organization they continue through material and state change. A common state vector, anatomical enclosure or retained capacity does not establish one operation. |
 | Physical support | Identify the substances or processes, their delivery and replenishment, and the time and spatial scales on which availability limits continuation. Test whether one or several limits matter. |
-| Coupling rule | Show how changes in one neural process alter the *possible continuations* of others through the proposed support-and-activity loop. Covariation, competition, or a scalar budget alone is insufficient. |
+| Access and redistribution | Show how changes in one neural process alter the *possible continuations* of others through the proposed support-and-activity loop. Covariation, competition, or a scalar budget alone is insufficient. |
 | Closure | Describe which activities jointly transform continuation conditions and which generate or maintain constitutive constraints. Compare responsive supply and interacting organizations; the general boundary criterion remains open. Support calculations supply no unity verdict. |
 | Ownership and membership | Distinguish internal production and bearing of the restriction from indispensable external supply. Assess contribution, global bearing, joint resolution, diachronic uptake, and common physical typing for each proposed participant. |
 | Full continuity | Trace actual successor production and physically effective inheritance between independently individuated stages. Assess continuous owned closure, operation-mediated change and unique qualifying successor and predecessor together. Repeated patterns, records and retained restart capacity cannot bridge a failed relation. |
@@ -193,9 +228,10 @@ closure at another and persistence at a third to manufacture a UEF.
    supplies a completed physical unity criterion or an experiential verdict.
 
 Evidence for supply-sensitive coordination would support a neural mechanism.
-Evidence for an independently individuated, internally borne, continuing operation would
-support a stronger structural reconstruction. Neither result, nor neural
-recordings, behavior, reports, or a perturbation effect, would by itself certify
+Evidence tracing production, maintained constraints, internally borne resolution
+and actual inheritance would constrain a stronger structural reconstruction.
+Neither result, nor neural recordings, behavior, reports, or a perturbation
+effect, would by itself certify
 experience or locate a subject.
 
 ## Relevant boundary cases
@@ -220,10 +256,11 @@ ownership, membership and full continuity. These are distinct obligations;
 neither competition nor a jointly restricted successor set discharges them.
 
 The neural, glial, vascular and wider organism boundaries remain open, as does
-the general physical criterion distinguishing one qualifying operation from
-interacting organizations. Experiential qualification and the defense of
-identity remain further burdens. Under the identity proposal, an independently
-qualifying operation is its differentiated experience, without an additional
-binding mechanism assembling phenomenal parts. This research program has not
+the adequacy of the proposed physical account of scope and joint organization.
+These remain explanatory questions, without an independently decisive
+organization-classifier requirement. Experiential qualification and the
+defense of identity retain their substantive burdens. Under the identity
+proposal, a qualifying operation is its differentiated experience, without an
+additional binding mechanism assembling phenomenal parts. This research program has not
 yet established such an operation or shown that scarce biochemical resources
 explain experiential unity.
