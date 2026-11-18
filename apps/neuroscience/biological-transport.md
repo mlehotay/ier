@@ -4,12 +4,10 @@ Date: 17 November 2026\
 Status: maintained non-canonical synthesis of assessed examples; no new experiment
 
 Biological comparison companion for the neural proposal; these examples are
-not themselves neural evidence. Reading copy prepared 18 November 2026 from the
-maintained development
-synthesis `apps/research/investigations/biological-transport.md` at source
-`2b6f516a`. This copy preserves its substantive assessment and limits, replaces
-development-only evidence links with published-source citations, and supplies no
-new review, experiment or experiential attribution.
+not themselves neural evidence. This is the maintained synthesis for both the
+research and neuroscience reading routes. Its original assessment is preserved
+in Git at `2b6f516a:apps/research/investigations/biological-transport.md`.
+Consolidation here supplies no new review, experiment or experiential attribution.
 
 These examples give physical content to questions of access, recruitment,
 production and changing continuation conditions. They do not diagnose unity.
