@@ -160,7 +160,7 @@ is recorded in each note; the review is not a completed physical criterion.
 
 ## Critical checks on proposed boundaries
 
-19. **Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). The emperor's new Markov blankets.** *Behavioral and Brain Sciences*, 45, e183. [10.1017/S0140525X21002351](https://doi.org/10.1017/S0140525X21002351). [Author-hosted full text with commentaries](https://manuelbaltieri.com/assets/pdf/EmperorMarkovBlanketsPrePublished.pdf).
+19. **Bruineberg, J., Dołęga, K., Dewhurst, J., & Baltieri, M. (2022). The emperor's new Markov blankets.** *Behavioral and Brain Sciences*, 45, e183. [10.1017/S0140525X21002351](https://doi.org/10.1017/S0140525X21002351). [Author-hosted full text with commentaries](https://manuelbaltieri.com/data/pdf/EmperorMarkovBlanketsPrePublished.pdf).
     Distinguishes a statistical modeling boundary from stronger claims about
     physical agent-environment boundaries and challenges unsupported transfers
     between them. Use as adversarial reading for any proposed Life boundary

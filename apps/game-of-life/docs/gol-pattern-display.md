@@ -180,7 +180,7 @@ Use the existing separation of responsibilities:
   figure assets next to the worked example that explains them.
 * `IER/IER-game-of-life.md`: canonical explanation. Adding a figure here is a
   separately reviewed article edit; a new guide does not install it.
-* `assets/`: possible home for shared publication figures used by multiple
+* `data/`: possible home for shared publication figures used by multiple
   articles. Follow the owning publication's existing conventions.
 * `_work/` and `build/`: working reports and generated outputs. Avoid making
   durable article links depend on disposable files there.

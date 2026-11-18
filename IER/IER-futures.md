@@ -414,7 +414,7 @@ Lawful continuation need not contain a fresh collapse, welding, propagation, or 
 
 ## Appendix A - Future Types and Conditional History
 
-![Future types and conditional history](../assets/diagrams/future-types-and-conditional-history.svg)
+![Future types and conditional history](../figures/future-types-and-conditional-history.svg)
 
 Plans and imagination are cognitive organizations, not further physical
 successor sets. Their content can misdescribe reachability; their current
