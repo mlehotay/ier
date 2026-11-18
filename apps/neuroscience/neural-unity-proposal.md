@@ -106,7 +106,7 @@ specify those transformations rather than assuming a conserved global pool.
 Changing access does not alone demonstrate renewal of the organization that
 enables it; changing recruitment loci also does not establish membership.
 
-The [biological transport assessment](../research/investigations/biological-transport.md)
+The [biological transport assessment](biological-transport.md)
 provides concrete leads and adverse cases. Animal Rab conversion, plant
 MON1–CCZ1 activation and plant ALIX/retromer retrieval retain distinct evidence.
 Ran and TRAK/Miro add availability and activation comparisons. None establishes

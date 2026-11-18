@@ -26,6 +26,11 @@ account. It identifies the organization, maintenance, scope, ownership,
 membership and full continuity evidence still needed to assess the resource
 hypothesis. Competition and support factorization supply no unity verdict.
 
+The [biological transport companion](biological-transport.md) supplies non-neural
+comparisons of access, recruitment, maintenance and continuation—the same
+relations sought in the neural programme. It preserves their evidence limits
+and does not treat these examples as neural findings.
+
 ### Visual Duration
 
 [Four Durations, Not One](IER-four-durations-not-one.md) reinterprets Centanino, Fortunato, and Bueti's 2026 study of cortical duration processing.
@@ -72,7 +77,8 @@ apps/neuroscience/
 ├── IER-deep-brain-localization.md
 ├── IER-past-in-the-present.md
 ├── IER-ambien-hypothesis.md
-└── neural-unity-proposal.md
+├── neural-unity-proposal.md
+└── biological-transport.md
 ```
 
 ## Relationship to IER

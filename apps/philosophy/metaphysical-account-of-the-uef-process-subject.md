@@ -202,7 +202,7 @@ single observed maintenance loop. Ran transport and TRAK/Miro regulation
 likewise provide bounded mechanisms of access and activity, rather than a
 universal resource currency or demonstrated constitutive whole.
 
-The [biological correspondence synthesis](../research/investigations/biological-transport.md)
+The [biological correspondence synthesis](../neuroscience/biological-transport.md)
 records the supported relations, adverse cases and unvalidated transfers.
 Regulatory binding is not automatically canonical frontier binding. Continued
 markers and recovered outputs do not establish owned membership, irreversible
