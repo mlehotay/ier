@@ -20,3 +20,5 @@ illustrated instantiate experience.
 - [Interlocking Gears](interlocking-gears.md): why exact coordination does not establish a subject.
 - [The Steady Jet and the Marble](steady-jet-and-marble.md): persistence through material turnover.
 - [The Billowed Sail](billowed-sail.md): ongoing change without continual irreversible rewriting.
+- [A Conversation That Continues](conversation.md): contribution, inherited organization and the limits of treating a social inquiry as a physical subject.
+- [The Air Dancer and Its Fan](air-dancer.md): external supply, rival scopes and the questions of constitutive membership.
