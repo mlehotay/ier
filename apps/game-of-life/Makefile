@@ -52,6 +52,8 @@ test: test-unit
 	$(MAKE) test-measures TEST_CASE=all
 	$(MAKE) test-production TEST_CASE=all
 	$(MAKE) test-cross-cases TEST_CASE=all
+	$(MAKE) test-mechanism TEST_CASE=all
+	$(MAKE) test-relations
 
 test-unit: $(TEST_BIN)
 	./$(TEST_BIN) "$(TEST_CASE)"
@@ -168,3 +170,39 @@ test-cross-cases: $(RESEARCH_ENGINE)
 
 check-work:
 	python3 _work/check.py
+
+.PHONY: research-mechanism research-check-mechanism test-mechanism
+
+research-mechanism: $(RESEARCH_ENGINE)
+	@test -n "$(OUTPUT_DIR)"
+	python3 tools/research_mechanism.py "$(OUTPUT_DIR)" --engine "$(RESEARCH_ENGINE)"
+
+research-check-mechanism: $(RESEARCH_ENGINE)
+	@test -n "$(RUN_DIR)"
+	python3 tools/research_mechanism.py "$(RUN_DIR)" --engine "$(RESEARCH_ENGINE)" --check-only
+
+test-mechanism: $(RESEARCH_ENGINE)
+	python3 tests/research_mechanism_tests.py "$(RESEARCH_ENGINE)" "$(TEST_CASE)"
+
+.PHONY: research-response-aspects research-recurrent-subhistories research-aspect-feedback research-check-aspect-feedback test-relations
+
+research-response-aspects: $(RESEARCH_ENGINE)
+	python3 tools/research_responsive_interface.py
+
+research-recurrent-subhistories: $(RESEARCH_ENGINE)
+	python3 tools/research_recurrent_subhistories.py
+
+research-aspect-feedback: $(RESEARCH_ENGINE)
+	@test -n "$(OUTPUT_DIR)"
+	python3 tools/research_aspect_feedback.py "$(OUTPUT_DIR)"
+
+research-check-aspect-feedback: $(RESEARCH_ENGINE)
+	@test -n "$(RUN_DIR)"
+	python3 tools/research_aspect_feedback.py "$(RUN_DIR)" --check-only
+
+test-relations: $(RESEARCH_ENGINE)
+	python3 tools/research_relations.py --self-test
+
+.PHONY: research-check-relations
+research-check-relations: $(RESEARCH_ENGINE)
+	python3 tools/research_relations.py

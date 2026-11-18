@@ -1,43 +1,43 @@
 # Public Changelog
 
-This changelog summarizes three version milestones in the public IER
-repository. The v10.11.7 entry groups the intervening v10.11 updates; routine
+This changelog summarizes version milestones for the public IER
+source selection. Entries group updates within each version series; routine
 edits and individual commits are omitted. Dates mark each version's first
 appearance in this repository, rather than the start of its development.
 
-## v10.12.0–v10.12.1 - Unity refactor and GoL formulation
+## v10.12.3 - Unity refactor and mechanism formulation
 
-**Public version update: 11 November 2026. Source era closed: 15 November 2026.**
+Public version updates began 11 November 2026. Includes v10.12.0 through
+v10.12.3, whose development era opened 17 November 2026.
 
 Reworks the explanation of experiential unity around a continuing physical
 operation and corrects the earlier reliance on successor-support
 non-factorization.
 
-- Withdraws support non-factorization as a necessary unity criterion. Whether
-  possible successors form a product, including a singleton, does not by itself
-  establish unity or disunity of the operation producing them.
-- Describes present unity through one self-updating organization whose
-  constituent activities jointly transform the conditions of continuation.
-  Keeps ownership, constitutive membership, self-sustenance and full token
-  continuity as distinct obligations.
-- Adds [Experiential Unity](IER/IER-unity.md) and develops the
-  [persistence account](IER/IER-persistence.md). The explanation starts with
-  physical organization persisting through change, then assesses its scope and
-  qualification for the experiential identity claim.
-- Revises the Specification, core explanations, philosophical account and
-  public introductions to reflect the correction.
+- Withdraws support non-factorization as a necessary unity criterion. Product,
+  singleton and non-product successor supports alone establish neither unity
+  nor disunity.
+- Adds [Experiential Unity](IER/IER-unity.md), develops the
+  [persistence account](IER/IER-persistence.md), and revises the Specification
+  and supporting explanations. Keeps ownership, membership, self-sustenance
+  and continuity as distinct obligations.
+- Clarifies the non-diagnostic identity/unity proposal. Separates testable
+  physical relations and organizational participation from intrinsic
+  informational tension, full UEF qualification and experiential attribution.
+- Develops reproducible native Game of Life relation tests covering support
+  upkeep, loss, restoration and intervention-relative response. Model findings
+  retain their bounded scope.
+- Completes the mechanism formulation and canonical propagation, with
+  author-accepted explanation and scoped fourteen-member certification.
+  Opens v10.12.3 after v10.12.2 closure without new commitments at opening.
 
-- Clarifies general organizational participation and successor production through GoL, distinguishing them from intrinsic informational tension and full qualification. Shannon state distinctions alone establish neither tension nor its absence.
-- Records bounded native GoL reproduction and case findings, the accepted fourteen-member formulation and revised historical explanation. The simulator is independently versioned as `0.4`; completing software and scoped review does not establish experience.
-- Closes the propagation package with unfinished GoL relations and physical cases explicitly retained for future resumption. The separate core-theory review and publication decisions remain outside that closure.
-
-The physical criterion and constitutive boundary remain incomplete. This
-refactor supplies neither a completed qualification test nor empirical
-confirmation that a particular system is experiential.
+Empirical UEF qualification and separate current-core review remain independent.
+The formulation and software tests do not establish that a particular system
+is experiential or constitute a new publication edition.
 
 ## v10.11.7 - Process-subject unification and public expansion
 
-**Public version update: 21 October 2026. Includes the preceding v10.11 updates.**
+Public version update: 21 October 2026. Includes the preceding v10.11 updates.
 
 Develops the Seed account into a more explicit theory of the experiential
 subject as a qualifying physical operation continuing through change.
@@ -64,7 +64,7 @@ in v10.12.x. Examples and applications remain exploratory and non-canonical.
 
 ## v10.10.7 - Initial public Seed version
 
-**Public repository initialized: 31 May 2026.**
+Public repository initialized: 31 May 2026.
 
 Establishes the public repository with the selected theory behind the Seed
 edition: experience proposed as identical to a qualifying Unified Experiential

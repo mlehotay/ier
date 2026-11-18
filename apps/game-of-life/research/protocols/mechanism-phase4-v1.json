@@ -1,0 +1,27 @@
+{
+  "schema": "gol-mechanism-audit-protocol/1",
+  "protocol_id": "mechanism-phase4-native-audits/1",
+  "proposal_revision": "0.15",
+  "proposal_source": "091df384:_work/unity/development/gol-relational-proposal.md",
+  "proposal_sha256": "5a24c1873c987b36677d23dd6ef036bd087442328a528f72c764338b46c00560",
+  "rule": "B3/S23",
+  "predictions": {
+    "local_family": "All 512 complete 3x3 torus inputs. If total live count is 3, all outputs ON; if total is 4, output equals input; otherwise all outputs OFF.",
+    "privacy_family": "On a bounded 4x4 board, hold the nine inputs of target (1,1) fixed at each of three declared preparations: empty, center plus two neighbors, three neighbors. Exhaust all 128 assignments to the seven remaining exterior sites. Target outputs are respectively 0,1,1.",
+    "dynamic_breach": "C={3,4}x{3,4}; compare C against C plus (1,3) on 10x10 bounded board. Tick1 cores both C, treated output adds (2,3),(2,4). At tick2 (3,3) dies in treated preparation from five neighbors; control stays C.",
+    "glider": "Four native steps match the four literal standard phases and final translation (1,1); assess input interfaces at each cut without assigning organizational membership.",
+    "toads": "Use the saved phase0 near pair at (6,6)/(10,2) and far at (6,6)/(14,6), both topologies. Left edit (10,6), right edit (9,5) near or (13,9) far. Near receiver targets (11,5)/(8,6) change ON to OFF at tick1 from count3 to count4; far targets (16,6)/(8,6) remain ON. Nominal pairs superpose through tick2.",
+    "block_support": "On 24x24 boards both topologies C={6,7}x{6,7}, target(5,6). With and without C, compare exterior empty, {(4,6)}, and {(4,5),(4,6),(4,7)}. Body effects on OFF target are neutral, promotion, protection; protective case births (5,5), so entire OFF ring not renewed.",
+    "repair": "Each three-corner fragment of a 2x2 block regenerates the full block at one tick; two far fragments regenerate their independent union. Recovery alone cannot select one organization.",
+    "service_audit": "For every complete 3x3 torus input, partition native output sites into center/rest and checkerboard/complement. Each block output can be computed from its own current sites plus the declared cross-boundary neighbor inputs. This universal transition representation is not a continuing-module or renewal certificate.",
+    "checkpoint": "After one native toad step, install the same board and step again. Boards match native succession but event/segment histories distinguish installation.",
+    "qualification": "No board observation, certificate count, graph score or service-factorization finding entails presence or absence of intrinsic tension or UEF qualification. This is an interpretation constraint, not a measured physical quantity."
+  },
+  "limits": [
+    "Finite preparations, observation windows and explicit interventions only",
+    "Installs are external actions, never native renewal",
+    "No full organizational certificate unless all native action/production/renewal/uptake obligations have independently justified definitions",
+    "No positive fixture or subject label supplied by a familiar pattern name",
+    "No biochemical or host-maintenance claim"
+  ]
+}

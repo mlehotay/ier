@@ -1,0 +1,52 @@
+{
+  "all_history_basis": "512 native output/next-class equalities; induction over input words",
+  "center_class_sizes": {
+    "D": 172,
+    "R": 56,
+    "T": 28
+  },
+  "center_response_states": 3,
+  "context": "3x3 torus; arbitrary center input before each step; all exterior preparations",
+  "count_observation_states": 9,
+  "exterior_observation_states": 256,
+  "input_words": [
+    "00",
+    "10"
+  ],
+  "native_intervention_contract": {
+    "action_count": 18,
+    "native_assignments_checked": 4096,
+    "native_held_bit_probes": 2048,
+    "response_classes": 256,
+    "scope": "model-level site edits; no regime-preservation or qualification claim",
+    "single_edit_center_outputs": [
+      0,
+      1
+    ],
+    "step_transitions_reused": 512
+  },
+  "native_storage_contract": {
+    "conserved_input_and_swapped_roles": 2048,
+    "input_boards": 512,
+    "input_effect_center_outputs": [
+      1,
+      0
+    ],
+    "native_calls_checked": 2048,
+    "scope": "C-level byte values and buffer roles; no host maintenance or closure claim",
+    "scratch_policies": 4,
+    "stable_board_active_calls": 508
+  },
+  "native_transitions_checked": 512,
+  "output_words": [
+    "10",
+    "11"
+  ],
+  "sha256": {
+    "build/research/world.so": "94473eb0b935c138baf6c31cb8a284eb35da7169f81a18dbb71048e12898a8b1",
+    "src/world.c": "941c6732cdc03d5a41397989c522f80aaa597ebaa0b5a56293781eb9cd2b6545",
+    "src/world.h": "f6de54ea9a3cfb90764ae01b624681bacde8a13ae613a8bfa02ecc44f5dbfb04",
+    "tools/research_responsive_interface.py": "17fc291dbad02d9d68610e85a4a0c03a82adce5c15e4bde7d5c737c8c1c88a1e",
+    "tools/research_run.py": "3f75c46383c57061e176cb200b5e75850fed6db3cbaea93dc797378c48082332"
+  }
+}

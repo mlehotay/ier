@@ -1,0 +1,47 @@
+{
+  "schema": "gol-run/1",
+  "run_id": "toad-toroidal-far-rl-receiver/1",
+  "protocol_id": "mechanism-phase4-native-audits/1",
+  "proposal_revision": "0.15",
+  "purpose": "confirmatory",
+  "width": 24,
+  "height": 24,
+  "topology": "toroidal",
+  "rule": "B3/S23",
+  "initial_live": [
+    [
+      7,
+      7
+    ],
+    [
+      8,
+      7
+    ],
+    [
+      9,
+      7
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      8
+    ]
+  ],
+  "actions": [
+    {
+      "kind": "step",
+      "count": 2
+    }
+  ],
+  "max_cells": 576,
+  "max_records": 2000,
+  "protocol_sha256": "02b7fda0f04feea1a15e34b68f505cea1218e4026019a7d7cadc92768ce78ecb",
+  "proposal_sha256": "5a24c1873c987b36677d23dd6ef036bd087442328a528f72c764338b46c00560"
+}

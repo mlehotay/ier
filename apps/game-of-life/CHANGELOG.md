@@ -11,6 +11,13 @@ retains the preceding development snapshot.
 
 ## 0.4 — Unreleased
 
+### Added
+
+- Bounded mechanism audit recording and read-only verification through the
+  existing native engine, with independent oracles and replay/corruption tests.
+  The results explicitly leave organizational scope and UEF qualification
+  unassessed; no new Life rule or organizational classifier is implemented.
+
 ### Changed
 
 - Updated the simulator version to `0.4`, using major/minor numbering without

@@ -1,10 +1,14 @@
 # Informational Experiential Realism (IER)
 
-**Current citation edition: v10.12.1 · 13 November 2026.**
+Current development era: v10.12.3; opened 17 November 2026.
 
-The v10.12.1 source era closed on 15 November 2026. The bounded formulation
-and historical explanation are accepted; GoL physical relations and qualification
-remain incomplete and deferred to future work.
+Citation edition: v10.12.3; 17 November 2026, as recorded in [CITATION.cff](CITATION.cff).
+
+The v10.12.2 source era closed on 17 November 2026. The mechanism formulation
+and canonical propagation are author-accepted, with scoped fourteen-member
+certification and reproducible GoL relation tests. Empirical UEF qualification
+and separate current-core review remain independent. The v10.12.3 opening
+introduces no new theoretical commitments or publication edition.
 
 IER is a physicalist theory of experience. Its central claim is:
 
@@ -37,7 +41,7 @@ conditions qualifying and individuating the operation also determine its
 constitutive scope and ownership boundary. Their adequacy remains open; the
 account is a non-canonical exposition, not a completed qualification test.
 
-The v10.12.1 direction uses [Game of Life](apps/game-of-life/research/README.md)
+The direction carried forward from v10.12.1 uses [Game of Life](apps/game-of-life/research/README.md)
 as a testbed for real general organizational membership, boundary change and
 successor production. Intrinsic informational tension is the further
 qualification question. Shannon information updates alone establish neither
@@ -51,7 +55,7 @@ research question.
 - [Theory overview](IER/IER-model-overview.md): an entry point to the selected canonical articles.
 - [Examples](examples/README.md): short, non-canonical illustrations.
 - [Applications](apps/README.md): exploratory projects in philosophy, neuroscience, literature, and toy systems.
-- [Changelog](CHANGELOG.md): public version milestones from the Seed release through the unity refactor.
+- [Changelog](CHANGELOG.md): version milestones from the Seed release through v10.12.3 opening.
 
 ## Project details
 
@@ -59,7 +63,7 @@ IER is an active research project. Physical
 instantiation, empirical attribution of experience, particular qualitative identifications under identity,
 and the abductive defense of identity remain open research questions.
 
-By Michael Lehotay. See [CITATION.cff](CITATION.cff) for the current citation
+By Michael Lehotay. See [CITATION.cff](CITATION.cff) for the citation
 edition. The text is licensed under [CC BY-NC 4.0](LICENSE); see [NOTICE](NOTICE.md)
 for attribution and licensing details.
 

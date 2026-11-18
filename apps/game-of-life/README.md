@@ -2,7 +2,7 @@
 
 An experimental implementation of Conway’s Game of Life with a structured terminal UI.
 
-Simulator version: **0.4** (experimental; independent of the IER theory version).
+Simulator version: 0.4 (experimental; independent of the IER theory version).
 Public IER repository: <https://github.com/mlehotay/ier>.
 Use `./gol --version` or runtime commands `:version`, `:license` and `:repo`
 to view this information. See the [development TODO](docs/todo.md) for remaining work.
@@ -25,7 +25,11 @@ This project serves two roles:
 Status: experimental\
 Authority: non-canonical
 
-The current executable is a simulator baseline, not the completed GoL phase or an implemented IER analysis layer. Runtime commands and random, built-in or file startup initialization are implemented. Non-interactive suites verify block stability, oscillator periods and glider translation; gun emission is verified; the phase-exit audit remains open. See the [design](docs/gol-design.md#implementation-status), [deferred analysis](research/gol-design-addendum.md), and canonical GoL account (`IER/IER-game-of-life.md` in the development repository).
+The simulator baseline and research apparatus are implemented. Runtime controls,
+fixed-world native recording, measurements, production traces and relation tests
+have non-interactive suites. [Reproducing the Life relations](research/relations.md)
+provides public commands, exact definitions and complete evidence. These findings
+do not diagnose identity, unity or experiential qualification.
 
 A standalone [`.cells` parser](docs/cells-format.md) supports startup and runtime
 `load`. A standalone [RLE parser](docs/rle-format.md) is also available; format
@@ -71,7 +75,7 @@ apps/game-of-life/gol --seed 42 --delay 100 --bounded
 Run `make test` inside this directory for the non-interactive world, UI, integration,
 parser, registry, CLI, command and executable startup-error suites, or
 `make test-unit TEST_CASE=isolated-cell` to select a case. Make, a C11 compiler
-and Python 3 (standard library only for executable startup checks) are required. See [test usage and coverage](tests/README.md).
+and Python 3.10 or later (standard library only) are required. See [test usage and coverage](tests/README.md).
 
 The stats pane appears at 60 columns and 14 rows or larger. Below either
 threshold it collapses first; below 20 columns or 5 rows, a compact fallback
@@ -176,7 +180,7 @@ The system is explicitly divided into:
 * world -> simulation state and evolution
 * ui -> rendering and layout
 * stats -> derived quantities
-* analysis (IER) -> future descriptive extension, not present executable code
+* research -> fixed-world recording, measurements and bounded native relation tests
 
 
 ### World vs Viewport
@@ -207,47 +211,22 @@ geometry, and failed allocations retain the existing board until retry succeeds.
 * random startup and `r` use the configured seed; the C library PRNG gives repeatability within a build/runtime, not a portable cross-platform board format
 
 
-## Current IER Research Direction
+## Reproduce the research
 
-GoL is the primary v10.12.1 testbed for proposed real organizational membership,
-boundary change and successor production. Glider and toad examples investigate
-changing participating roles; full experiential qualification remains separate.
-The Shannon-information/informational-tension distinction asks why these
-information updates lack intrinsic tension on the hypothesis. It introduces
-neither an entropy threshold nor an inference that all computation is
-non-experiential. The [research material](research/README.md) states the model
-questions and limits; the simulator does not implement a UEF qualification test.
+From this app directory, with Make, a C11 compiler and Python 3.10 or later:
 
-## IER Integration
+```bash
+make test
+make research-check-relations
+```
 
-This project is part of the IER (Informational Experiential Realism) work.
-
-Its research studies how organization produces its continuation through
-changing participating roles, with controlled comparisons of turnover,
-recurrence, boundary change, and intervention history.
-
-### Current Formal Status
-
-For one complete board the deterministic update has one successor, whose
-same-fibre projections factorize. This does not exclude unity: the canonical
-account withdrew non-factorization as a necessary unity condition. General
-constitutive membership and full UEF qualification remain open questions.
-The simulator computes ordinary step statistics; research recording,
-interval measurements and production traces remain proposed.
-
-The existing IER mathematical register supplies the needed state, transition,
-set and relation vocabulary. No separate GoL math-register extension is needed.
-
-### Relevant Documents
-
-- [Research overview](research/README.md)
-- Canonical GoL account: `IER/IER-game-of-life.md` in the development repository
-- [Life machine](research/game-of-life-machine.md) and worked
-  [glider](research/worked-examples/glider.md) / [toad](research/worked-examples/toad.md) examples
-- [Persistence statistics plan](research/persistence-statistics-plan.md)
-- [Reading list](research/reading-list.md) and [follow-up questions](research/reading-list-followup.md)
-- [Later UI and instrumentation design](research/gol-design-addendum.md)
-- [Explanation-completeness proposal](research/explanation-completeness-criterion.md)
+The [relation reference](research/relations.md) gives fresh-output commands,
+exact action policies, expected findings and their limits. The public checkout
+includes all required tools, protocols and saved evidence; private workflow and
+Git history are unnecessary. The [research overview](research/README.md) links
+the native audit and feedback dossiers, worked examples and recorder contracts.
+Unity follows from identity, which is not diagnosable; operating as one
+organization is a unity question. No relation test supplies a unity classifier.
 
 
 ## Intended Use

@@ -36,7 +36,8 @@ qualification. Shannon state descriptions alone establish neither tension nor
 its absence. The proposed distinction is not an entropy threshold or a
 categorical exclusion of computation.
 
-The v10.12.1 source era closed with its bounded formulation and historical
+The v10.12.2 development era opened on 15 November 2026 without new
+theoretical commitments. The v10.12.1 source era closed with its bounded formulation and historical
 explanation accepted. GoL physical membership and qualification remain
 unfinished; source-era closure supplies no experiential attribution.
 

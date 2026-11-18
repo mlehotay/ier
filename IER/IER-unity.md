@@ -1,5 +1,9 @@
 ---
 ier:
+  aligned_with:
+  - certification: 10.12.2-unity-formulation
+    reviewed_on: '2026-11-17'
+    review: bc6835b49a5d68dd27edbe06854b884f695b3c0e:traceability/reviews/unity-formulation-10.12.2-alignment.md#member-5
   tier: T2
   role: ELABORATION
   layer: dodecagon
@@ -8,14 +12,14 @@ ier:
   category: regimes_closure
   status: canonical
   filename: IER-unity.md
-  version: 10.12.1
+  version: 10.12.2
 ---
 
 # Experiential Unity
 
 ## Regime Unity Without Aggregation
 
-**Informational Experiential Realism (IER v10.12.1)**\
+**Informational Experiential Realism (IER v10.12.2)**\
 *T2 · Structural Clarification · Non-Normative · Canon-Constrained*
 
 
@@ -39,11 +43,12 @@ The structural conditions discussed here remain governed by
 *IER coherence*, *IER intrinsic closure*, and the other canonical
 definition owners.
 
-The explanatory order begins with physical organization and persistence
-through change, assesses constitutive scope and full token continuity, and
-then applies the experiential identity claim. Unity's substantive physical
-work enters the qualification and individuation of that operation. Under
-identity, no further phenomenal assembly is required.
+The explanatory account describes physical organization and persistence
+through change, constitutive scope and full token continuity. Under the identity
+proposal, unity is the oneness of that qualifying operation; no further
+phenomenal assembly is required. Identity is not diagnosable. Operating as one
+organization is itself a unity question, not an independently certified physical
+prerequisite from which experiential unity can be inferred.
 
 
 ## Why Unity Requires Its Own Name
@@ -114,6 +119,23 @@ The former requirement of successor-support non-factorization is withdrawn. For 
 Candidate, variables, grain, interval, restriction and interventions must be physically justified without assuming a subject, an already unified whole or same-token identity. Neither an independent remainder nor two interacting organizations can be absorbed into one field merely by a common description. Whether an additional all-partitions irreducibility condition is justified remains open.
 
 The identity proposal connects experiential and physical descriptions of a qualifying UEF; it does not prove that any proposed organization qualifies.
+
+The physical relations still need content: identify occurring activities,
+which conditions enable their recruitment, which recruitments are jointly
+compatible, what those activities produce, and how the products enter later
+activity. Distinguish persistent structure, externally supplied restoration and
+maintenance through an actual loss regime. These investigations can constrain
+an explanation without providing a positive or negative unity verdict.
+
+The account therefore does not require a separately decisive classifier of
+one organization versus several interacting organizations. That demand would
+restate the unity question. This removes no qualification, ownership, membership
+or continuity clause, and does not make arbitrary groupings equally adequate.
+
+The affirmative competition/redistribution proposal remains a physical research
+hypothesis. Its universal necessity or sufficiency is unsettled. Shared scarcity
+and reciprocal regulation do not by themselves establish a qualifying operation,
+and a molecular count does not redefine experiential organizational margin.
 
 ### General Organization Before Experiential Qualification
 
@@ -275,8 +297,9 @@ container, or binding operation must unify already experiential parts.
 
 There is no further phenomenal assembly after qualification and individuation.
 That does not mean unity has no explanatory work. The physical account must
-explain what makes this one operation, which differentiated activities belong
-to it, and how its organization continues through change. The preceding
+describe the proposed operation, which differentiated activities belong to it,
+and how its organization continues through change. It does not first diagnose
+one organization and then derive experiential unity from that diagnosis. The preceding
 structural account carries this work into qualification and individuation;
 the identity consequence does not discharge it by stipulation. Any additional
 unity condition requires a specific physical and explanatory justification.

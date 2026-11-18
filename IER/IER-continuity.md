@@ -1,5 +1,9 @@
 ---
 ier:
+  aligned_with:
+  - certification: 10.12.2-unity-formulation
+    reviewed_on: '2026-11-17'
+    review: bc6835b49a5d68dd27edbe06854b884f695b3c0e:traceability/reviews/unity-formulation-10.12.2-alignment.md#member-10
   tier: T2
   role: ELABORATION
   provides:

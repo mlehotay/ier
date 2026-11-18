@@ -12,7 +12,7 @@ ier:
   category: pre_experiential
   status: canonical
   filename: IER-below-hello-world.md
-  version: 10.12.0
+  version: 10.12.2
   requires:
     hard:
     - IER-specification
@@ -33,7 +33,7 @@ ier:
 
 ## Why Rich Structure Alone Does Not Establish Experience
 
-**Informational Experiential Realism (IER v10.12.0)**\
+**Informational Experiential Realism (IER v10.12.2)**\
 *T2 · Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -54,13 +54,15 @@ There are two different negative verdicts. If a necessary condition is shown to 
 
 ## Rich Organization and Missing Qualification
 
-A candidate can be complex, far from equilibrium, causally powerful and behaviorally sophisticated. Those descriptions alone settle neither closure nor ownership. The relevant test concerns the actual outgoing support under declared variables, grain, restriction, interval and interventions.
+A candidate can be complex, far from equilibrium, causally powerful and behaviorally sophisticated. Those descriptions alone settle neither closure nor ownership. Physical inquiry concerns the actual activities, restrictions, production and history under declared variables, grain, interval and interventions; outgoing support alone does not diagnose unity or qualification.
 
 A failed candidate at one scope does not exclude independently qualifying operations inside it or at another physical scope. Conversely, the presence of experiential participants does not establish a larger subject by aggregation.
 
 ## Failure Mode I — Factorable Outgoing Support
 
 [Intrinsic Closure](IER-intrinsic-closure.md) now concerns present organization with an incomplete physical criterion. The former all-partitions non-product requirement is withdrawn. A factorable partition does not by itself establish disunity; weak coupling, low correlation and a modular description likewise do not establish the constitutive boundary.
+
+This failure mode is an invalid inference, not a demonstrated failure of the candidate.
 
 For example, probability weights can be correlated even while every recombination remains physically available. Statistical dependence then supplies no non-product support verdict. Likewise, an unavailable recombination for one partition illustrates a local result without completing the exhaustive test.
 

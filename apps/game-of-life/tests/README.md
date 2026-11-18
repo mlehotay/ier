@@ -373,3 +373,26 @@ predictions and native production/destruction counts distinguish one-corner
 repair, undamaged maintenance and decay. The two-block restoration family
 tests the limit of regeneration as a unique-boundary criterion. Equal repaired
 boards do not by themselves establish retained history or full token identity.
+
+## Mechanism audit suite
+
+`make test-mechanism` runs `replay` and `corrupt` (selectable through
+`TEST_CASE`), and is part of `make test`. The suite reproduces all 61 native
+traces twice, verifies read-only replay, compares the predeclared local/literal
+oracles, and rejects forged findings, changed fixture definitions, altered
+production targets, incomplete/extra artifacts and overwriting prior outputs.
+A missing engine cannot produce an aggregate result. These are software and
+bounded-model checks, not organizational or experiential acceptance tests.
+
+## Public relation reproduction
+
+`make test-relations` runs the native finite response/intervention and recurrent
+subhistory/support comparisons, compares their reports and source fingerprints,
+and tests feedback reproducibility, read-only verification, overwrite refusal
+and forged-result rejection. It is included in `make test`.
+
+`make research-check-relations` additionally replays both complete saved native
+trajectory bundles and verifies artifact hashes, fixtures and derived findings.
+See [the relation reference](../research/relations.md) for prerequisites, exact
+definitions, fresh-output commands and interpretation limits. Python 3.10 or
+later is required; no packages beyond its standard library are used.

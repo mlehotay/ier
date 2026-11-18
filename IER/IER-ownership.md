@@ -1,5 +1,9 @@
 ---
 ier:
+  aligned_with:
+  - certification: 10.12.2-unity-formulation
+    reviewed_on: '2026-11-17'
+    review: bc6835b49a5d68dd27edbe06854b884f695b3c0e:traceability/reviews/unity-formulation-10.12.2-alignment.md#member-9
   tier: T2
   role: PROJECTION
   layer: hexad
@@ -28,14 +32,14 @@ ier:
     - IER-nonentailment
     - IER-diagnostics
     - IER-ethics
-  version: 10.12.1
+  version: 10.12.2
 ---
 
 # Ownership
 
 ## Non-Externalizable Burden, Mineness, and Operation-Relative Boundaries
 
-**Informational Experiential Realism (IER v10.12.1)**\
+**Informational Experiential Realism (IER v10.12.2)**\
 *T2 · PROJECTION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -74,7 +78,7 @@ receiving support.
 The comparison must preserve the relevant alternatives and intervention
 context. Replaying one observed input sequence cannot show that the same
 successor-producing organization would remain available. Conversely, an
-interface that reproduces the removed joint dynamics has relocated the
+interface that reproduces the removed joint dynamics may have relocated the
 resolver rather than demonstrated independent support. These comparisons
 explain why an operation-relative boundary differs from anatomical enclosure
 or the full network of its causes.
@@ -83,6 +87,13 @@ Ownership concerns ongoing intrinsic operation, not only atomic collapse.
 Ordinary lawful succession can proceed without fresh foreclosure. A completed
 pipeline episode keeps collapse, incorporation, redistribution, and stabilized
 inheritance distinct; none introduces an owner outside the physical operation.
+
+For a fixed receiver map, equal complete initial receiver states and identical
+full input histories yield equal receiver histories. Matching only a scalar
+supply may omit regulation; matching every input does not make the producing
+mechanisms identical. Neither comparison independently certifies membership,
+external resolution or one organization. The identity/unity consequence is not
+diagnosed by first labelling one side of such a comparison an organization.
 
 ## General Membership and Owned Restriction
 

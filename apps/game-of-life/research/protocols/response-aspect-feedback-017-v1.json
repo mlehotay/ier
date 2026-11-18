@@ -1,0 +1,86 @@
+{
+  "schema": "gol-response-aspect-feedback/1",
+  "protocol_id": "response-aspect-feedback-017/1",
+  "proposal_source": "bded9716:_work/unity/development/gol-relational-proposal.md",
+  "proposal_revision": "0.17",
+  "proposal_sha256": "7d303d087e16b92005dbf76b1df89a9384fb1dc9bf9321e308066317071aadff",
+  "mode": "confirmatory for the following bounded native predictions; no organizational experiment",
+  "world": {
+    "width": 3,
+    "height": 3,
+    "topology": "toroidal",
+    "rule": "B3/S23"
+  },
+  "exterior_order": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      2,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      2
+    ]
+  ],
+  "family": "All 56 exterior masks with exactly three ON sites, enumerated in increasing mask order.",
+  "branches": {
+    "stable": "Center initially ON. Four native steps preserve the complete four-ON board. Aspect/center sequence R1,R1,R1,R1,R1.",
+    "center_removed": "Center initially OFF. First native output is full nine-ON board; second and later outputs are empty. Aspect/center sequence R0,D1,D0,D0,D0.",
+    "externally_restored": "Center initially OFF. After one native step, externally install the original exterior plus ON center, then take three native steps. Sequence R0,D1,install-R1,R1,R1,R1. Full endpoint matches stable; installation is not native renewal."
+  },
+  "congruence_witness": {
+    "initial_exterior_masks": [
+      3,
+      5
+    ],
+    "initial_center": 1,
+    "common_action": "Force exterior bit1 OFF, preserve every other value, then one native step.",
+    "initial_aspects": [
+      "T",
+      "T"
+    ],
+    "post_action_aspects": [
+      "D",
+      "T"
+    ],
+    "next_center_outputs": [
+      0,
+      1
+    ],
+    "expected_boards": [
+      "empty",
+      "all nine ON"
+    ]
+  },
+  "independent_oracle": "On this exact torus every site sees the other eight. Total population3 gives full board; population4 gives unchanged input; population9 gives empty. These literal expectations do not advance recorded worlds.",
+  "limits": [
+    "All transitions must use the existing native recorder and C world_step.",
+    "External preparations, bit editing and restoration must retain install events.",
+    "R/T/D are response aspects, not material components or membership labels.",
+    "No physical action duration, loss-repair self-maintenance, constitutive scope, UEF or token identity is certified.",
+    "The full P3-T4 question remains outside this executable protocol."
+  ]
+}

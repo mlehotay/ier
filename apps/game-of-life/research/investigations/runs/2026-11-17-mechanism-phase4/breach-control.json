@@ -1,0 +1,39 @@
+{
+  "schema": "gol-run/1",
+  "run_id": "breach-control/1",
+  "protocol_id": "mechanism-phase4-native-audits/1",
+  "proposal_revision": "0.15",
+  "purpose": "confirmatory",
+  "width": 10,
+  "height": 10,
+  "topology": "bounded",
+  "rule": "B3/S23",
+  "initial_live": [
+    [
+      3,
+      3
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      4
+    ]
+  ],
+  "actions": [
+    {
+      "kind": "step",
+      "count": 2
+    }
+  ],
+  "max_cells": 100,
+  "max_records": 2000,
+  "protocol_sha256": "02b7fda0f04feea1a15e34b68f505cea1218e4026019a7d7cadc92768ce78ecb",
+  "proposal_sha256": "5a24c1873c987b36677d23dd6ef036bd087442328a528f72c764338b46c00560"
+}

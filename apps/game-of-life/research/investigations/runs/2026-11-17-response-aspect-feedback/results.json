@@ -1,0 +1,128 @@
+{
+  "schema": "gol-aspect-feedback-results/1",
+  "proposal_source": "bded9716:_work/unity/development/gol-relational-proposal.md",
+  "proposal_sha256": "7d303d087e16b92005dbf76b1df89a9384fb1dc9bf9321e308066317071aadff",
+  "protocol_sha256": "0ca0b9fb2c97bf3006d08e99bf8fc0461d772130111ed3fee3367978d4292356",
+  "source_sha256": {
+    "tools/research_aspect_feedback.py": "7c053340bc1160cba00f5faa0b4eeb63ff49f36c2fb4397578b1453c3ef515d7",
+    "tools/research_run.py": "3f75c46383c57061e176cb200b5e75850fed6db3cbaea93dc797378c48082332",
+    "tools/research_measure.py": "f571c29938bf5e965a206f6f2f19ccc1194e0e794767a826cd7ac4b30bbc1300",
+    "src/world.c": "941c6732cdc03d5a41397989c522f80aaa597ebaa0b5a56293781eb9cd2b6545",
+    "src/world.h": "f6de54ea9a3cfb90764ae01b624681bacde8a13ae613a8bfa02ecc44f5dbfb04"
+  },
+  "findings": {
+    "branches": {
+      "stable": {
+        "preparations": 56,
+        "aspect_center_sequence": [
+          [
+            "R",
+            1
+          ],
+          [
+            "R",
+            1
+          ],
+          [
+            "R",
+            1
+          ],
+          [
+            "R",
+            1
+          ],
+          [
+            "R",
+            1
+          ]
+        ]
+      },
+      "center_removed": {
+        "preparations": 56,
+        "aspect_center_sequence": [
+          [
+            "R",
+            0
+          ],
+          [
+            "D",
+            1
+          ],
+          [
+            "D",
+            0
+          ],
+          [
+            "D",
+            0
+          ],
+          [
+            "D",
+            0
+          ]
+        ]
+      },
+      "externally_restored": {
+        "preparations": 56,
+        "aspect_center_sequence": [
+          [
+            "R",
+            0
+          ],
+          [
+            "D",
+            1
+          ],
+          [
+            "R",
+            1
+          ],
+          [
+            "R",
+            1
+          ],
+          [
+            "R",
+            1
+          ],
+          [
+            "R",
+            1
+          ]
+        ]
+      }
+    },
+    "congruence_witness": [
+      {
+        "mask": 3,
+        "aspect_before": "T",
+        "aspect_after_edit": "D",
+        "next_center": 0
+      },
+      {
+        "mask": 5,
+        "aspect_before": "T",
+        "aspect_after_edit": "T",
+        "next_center": 1
+      }
+    ],
+    "matched_restored_endpoints": 56,
+    "equal_first_center_output_despite_different_aspect": 56,
+    "organizational_status": "NOT_ASSESSED",
+    "material_renewal": "NOT_ESTABLISHED",
+    "scope": "native response-aspect upkeep, loss, external restoration and intervention compatibility only"
+  },
+  "artifact_sha256": {
+    "center_removed.json": "2dabc9205b434677af872064caa0d0c52e2e3a37fd46960027f63220efbba98b",
+    "center_removed.jsonl": "b739924dbc255e488aa2452f66d1d308286dbd78e6549e9d411f35fba88d1300",
+    "edit-3.json": "b87ead6e33141c5a1cb0b8b95f7b9fbe40559cd2dc5dcb37e51fbf6eb5ae3a68",
+    "edit-3.jsonl": "94934f80b28260e965dc5d052a668322d50f1d5ec13d0ba5d5da7c2621644ef6",
+    "edit-5.json": "48013729f8ca330c1821d843442b79c28e38908738f5d9c5623b91483b4d19fd",
+    "edit-5.jsonl": "9ecef567b3b97577fba22f964e82a2d1f958532c1e8df4dc0ee6efdb6e3cb0cd",
+    "externally_restored.json": "e7d8e1f92e094625504ec76f84219e881f33bb9cd423351c6b49900205728538",
+    "externally_restored.jsonl": "79e5a6669266b59697f20a37baa00f285b6375dc14e321f67ffd29a6273a2a1f",
+    "protocol.json": "0ca0b9fb2c97bf3006d08e99bf8fc0461d772130111ed3fee3367978d4292356",
+    "stable.json": "6fd6e54d20d8827032cd8e9f1f99471937d38f412de7d85ab5cdb11348a33b63",
+    "stable.jsonl": "10bc298fc62914659b6db9610e62a6cb62a03daf61e301e26cf123871b62d2e6"
+  }
+}

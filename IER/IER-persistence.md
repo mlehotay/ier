@@ -1,5 +1,9 @@
 ---
 ier:
+  aligned_with:
+  - certification: 10.12.2-unity-formulation
+    reviewed_on: '2026-11-17'
+    review: bc6835b49a5d68dd27edbe06854b884f695b3c0e:traceability/reviews/unity-formulation-10.12.2-alignment.md#member-11
   tier: T2
   role: ELABORATION
   layer: pipeline
@@ -8,7 +12,7 @@ ier:
   category: temporal_continuity
   status: canonical
   filename: IER-persistence.md
-  version: 10.12.1
+  version: 10.12.2
   requires:
     hard:
     - IER-specification
@@ -40,7 +44,7 @@ ier:
 
 ## Physical Continuation, Experiential Qualification, and Reorganization
 
-**Informational Experiential Realism (IER v10.12.1)**\
+**Informational Experiential Realism (IER v10.12.2)**\
 *T2 · ELABORATION · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -137,6 +141,13 @@ organization remains physically incomplete under
 [Intrinsic Closure](IER-intrinsic-closure.md). Persistence language cannot fill
 that gap by presupposing an already unified subject.
 
+Available activity, a retained enabling structure, internally renewed structure
+and actual produced or inherited operation are different findings. A maintained
+response condition is not necessarily material repair; externally restoring
+an equal state does not restore the original production history. The
+[Life relation comparisons](../apps/game-of-life/research/relations.md)
+make these distinctions inspectable at their declared model scope.
+
 ## What Must Continue
 
 Numerical persistence is membership in one maximal one-to-one chain under
@@ -181,7 +192,9 @@ boundary. Its adequacy remains open. The proposal does not replace the full
 stage relation or establish a new necessary-and-sufficient physical test.
 
 Under the identity claim, the independently qualifying token operation is its
-total experience and subject. Its contents differentiate that operation;
+total experience and subject. Identity is not diagnosable, and operating as one
+organization is already a unity question. The explanatory order above is not a
+sequence of independently certifiable organization and experience tests. Its contents differentiate that operation;
 there is no further phenomenal assembly after qualification and individuation.
 Unity's substantive physical work concerns the organization, scope and owned
 continuation being assessed. It is carried within those conditions rather

@@ -1,5 +1,9 @@
 ---
 ier:
+  aligned_with:
+  - certification: 10.12.2-unity-formulation
+    reviewed_on: '2026-11-17'
+    review: bc6835b49a5d68dd27edbe06854b884f695b3c0e:traceability/reviews/unity-formulation-10.12.2-alignment.md#member-6
   tier: T2
   role: ELABORATION
   provides:
@@ -26,14 +30,14 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: 10.12.1
+  version: 10.12.2
 ---
 
 # Intrinsic Closure
 
 ## Present Organization and Its Open Physical Criterion
 
-**Informational Experiential Realism (IER v10.12.1)**\
+**Informational Experiential Realism (IER v10.12.2)**\
 *T2 · Structural Clarification · Non-Normative · Canon-Constrained*
 
 ## Reader Notice
@@ -74,6 +78,13 @@ The physical formulation must not presuppose an experiential subject or numerica
 The following support comparisons retain their mathematical meaning. They are not a replacement closure test. For a physically interpreted relation $R$ at a fixed frontier:
 
 $$ A(s)=\{s'\in S\mid(s,s')\in R\}. $$
+
+The incomplete physical account is not a promise of a future unity diagnostic.
+Unity follows under the identity proposal, which is not diagnosable; calling
+an operation one organization is already a unity claim. Specified production,
+access, compatibility, interface and maintenance relations can be investigated
+without converting their conjunction into a separately certified unity verdict.
+The full Specification conditions and the physical questions they pose remain.
 
 ## Organizational Relations and Intrinsic Realization
 

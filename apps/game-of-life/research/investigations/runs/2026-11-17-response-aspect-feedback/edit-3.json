@@ -1,0 +1,48 @@
+{
+  "schema": "gol-run/1",
+  "run_id": "edit-3/1",
+  "protocol_id": "response-aspect-feedback-017/1",
+  "proposal_revision": "0.17",
+  "purpose": "confirmatory",
+  "protocol_sha256": "0ca0b9fb2c97bf3006d08e99bf8fc0461d772130111ed3fee3367978d4292356",
+  "proposal_sha256": "7d303d087e16b92005dbf76b1df89a9384fb1dc9bf9321e308066317071aadff",
+  "width": 3,
+  "height": 3,
+  "topology": "toroidal",
+  "rule": "B3/S23",
+  "initial_live": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "actions": [
+    {
+      "kind": "install",
+      "live": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "kind": "step",
+      "count": 1
+    }
+  ],
+  "max_cells": 9,
+  "max_records": 2000
+}

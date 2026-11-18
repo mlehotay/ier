@@ -1,5 +1,9 @@
 ---
 ier:
+  aligned_with:
+  - certification: 10.12.2-unity-formulation
+    reviewed_on: '2026-11-17'
+    review: bc6835b49a5d68dd27edbe06854b884f695b3c0e:traceability/reviews/unity-formulation-10.12.2-alignment.md#member-8
   tier: T2
   role: ELABORATION
   provides:
@@ -35,13 +39,13 @@ ier:
     guardrails:
     - IER-canon
     - IER-nonentailment
-  version: 10.12.1
+  version: 10.12.2
 ---
 
 # Processes
 ## Constraint Processes and Constitutive Participation
 
-**Informational Experiential Realism (IER v10.12.1)**\
+**Informational Experiential Realism (IER v10.12.2)**\
 *T2 · Explanatory Elaboration · Non-Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -330,6 +334,21 @@ of the proposed general relation, or justify coordinated revisions. General
 participation alone does not establish global bearing, non-externalizable joint
 resolution, experience or full numerical continuity.
 
+The bounded [Life relation reference](../apps/game-of-life/research/relations.md)
+specifies access, joint compatibility, production, response aspects, changing
+input interfaces and recurrent generators. Those are typed model relations,
+not complete constitutive-membership certificates. A response aspect groups
+states by observations under a declared action policy; it is not by itself a
+physical component. A maintenance claim must additionally identify its bearer,
+constraining action, relevant loss and actual renewal mechanism.
+
+The relation account does not promise an independent classifier that first
+diagnoses one organization and thereby diagnoses unity. Unity follows under
+the non-diagnosable identity proposal. This preserves inquiry into physical
+roles and competing explanations, together with the full owned-membership
+clauses below. Biological self-production is not imposed as an unproved
+necessary condition of every general physical organization.
+
 ## Interlocking Is Not Yet Constitutive Membership
 
 Two processes are interlocking in a minimal causal sense when changes in each
@@ -429,7 +448,9 @@ settling its relevant continuation independently.
 A replacement comparison must preserve the relevant alternatives and
 interventions, not merely replay the observed concentration sequence. If an
 interface must reproduce the removed joint resource dynamics to supply those
-alternatives, the resolver has been moved rather than shown unnecessary. If
+alternatives, the resolver may have been moved rather than shown unnecessary.
+Matching the receiving process's complete inputs preserves its responses under
+the same dynamics; it does not by itself establish where resolution occurred. If
 independently completed supply preserves the retained organization without
 that joint resolution, the supplier is external for the tested restriction.
 Generic removal can destroy either support or membership and does not decide

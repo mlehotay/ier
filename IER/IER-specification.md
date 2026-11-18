@@ -1,6 +1,9 @@
 ---
 ier:
   aligned_with:
+  - certification: 10.12.2-unity-formulation
+    reviewed_on: '2026-11-17'
+    review: bc6835b49a5d68dd27edbe06854b884f695b3c0e:traceability/reviews/unity-formulation-10.12.2-alignment.md#member-4
   - certification: 10.11.6-core-theory-r2
     reviewed_on: '2026-10-17'
     review: b8fada6a831d790d66f1c65b33ed8877577575f1:traceability/reviews/philpeople-pubs.md#member-6
@@ -30,7 +33,7 @@ ier:
   - foundations
   category: foundations
   filename: IER-specification.md
-  version: 10.12.1
+  version: 10.12.2
   requires:
     structural:
     - IER-continuity
@@ -41,7 +44,7 @@ ier:
 
 ## Full Normative Specification
 
-**Informational Experiential Realism (IER v10.12.1)**\
+**Informational Experiential Realism (IER v10.12.2)**\
 *Tier 1 · Foundational · Normative · Canon-Constrained*
 
 ## Status, Scope, and Authority
@@ -167,6 +170,13 @@ causal influence and supplied conditions. Its specialization to owned,
 intrinsically constrained membership remains physically incomplete. This
 proposal does not replace the intrinsic-constraint definition, the UEF
 conditions below, or the full numerical-continuity relation.
+
+This research orientation supplies no intervening organization diagnostic.
+Unity follows under experiential identity, which is not diagnosable; describing
+an operation as one organization is already a unity question. Physical relations
+can be specified and tested without treating their outcomes as a certification
+of identity or unity. The intrinsic-constraint definition, all four UEF
+conditions and the inference rules retain their existing force.
 
 ### Informational Slack
 

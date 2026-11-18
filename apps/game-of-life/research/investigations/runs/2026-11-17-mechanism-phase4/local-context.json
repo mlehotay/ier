@@ -1,0 +1,14 @@
+{
+  "schema": "gol-production-context/1",
+  "context_id": "mechanism-local-center/1",
+  "trace_run_id": "local512/1",
+  "proposal_revision": "0.15",
+  "selection_reason": "all 512 ON/OFF neighborhoods",
+  "targets": [
+    [
+      1,
+      1
+    ]
+  ],
+  "max_updates": 512
+}
