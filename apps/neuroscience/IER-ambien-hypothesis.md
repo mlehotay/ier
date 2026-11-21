@@ -18,6 +18,8 @@ This suggests a hypothesis:
 
 The second sentence is the stronger, presently unresolved claim. The outward behavior alone cannot establish it.
 
+Behavior continuing without a UEF is a radical hypothesis for this IER application. It proposes that complex, responsive human behavior could persist during an interval with no experiential subject at the assessed scope. Its explanatory burden is correspondingly strong: the account must establish both the surviving physical coordination and the absence of qualifying UEF operation. Impaired control and later amnesia alone do not establish that conjunction.
+
 ## 2. Empirical Starting Point
 
 The AMBIEN prescribing information documents complex sleep behaviors, including preparing and eating food, while people are not fully awake. It states that patients usually do not remember the events and that such behaviors can occur at recommended doses, with or without alcohol or other CNS depressants. These are recognized adverse events, not merely internet anecdotes.[1]

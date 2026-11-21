@@ -2,87 +2,48 @@
 
 ## Status
 
-Status: experimental
+Status: experimental\
 Authority: non-canonical
+
 The [Specification](../../IER/IER-specification.md) retains theory authority.
 
-## Empirical Case Studies for IER
+These articles connect neuroscience with Informational Experiential Realism
+(IER). They examine how measurements and interventions constrain accounts of
+physical organization, and what further evidence an experiential interpretation
+would require. Mechanistic proposals remain hypotheses; the directory supplies
+no diagnostic test for experience.
 
-**Status:** exploratory application\
-**Authority:** non-canonical
+## Start Here
 
-This directory contains neuroscience-facing applications of Informational Experiential Realism (IER).
+The [Neuroscience Primer](neuroscience-primer.md) bridges experimental vocabulary
+and IER's questions about organization, participation, and continuity. It
+explains how to follow the evidence from preparation and measurement through
+modeling and causal interpretation.
 
-The articles examine what empirical measurements, models, and interventions establish about physical organization without treating neural correlation, causal dependence, or behavioral evidence as automatic evidence of experiential identity.
+## Cases and Research Directions
 
-## Current Case Studies
+The following order moves from interpreting findings to developing physical
+models.
 
-### Neural Unity and Binding
-
-[Neural Unity and Binding: A Conditional Research Program](neural-unity-proposal.md)
-starts with neural organization continuing through change, then investigates
-physical support, participation load and the constraint cycle within that
-account. It identifies the organization, maintenance, scope, ownership,
-membership and full continuity evidence still needed to assess the resource
-hypothesis. Competition and support factorization supply no unity verdict.
-
-The [biological transport companion](biological-transport.md) supplies non-neural
-comparisons of access, recruitment, maintenance and continuation—the same
-relations sought in the neural programme. It preserves their evidence limits
-and does not treat these examples as neural findings.
-
-### Visual Duration
-
-[Four Durations, Not One](IER-four-durations-not-one.md) reinterprets Centanino, Fortunato, and Bueti's 2026 study of cortical duration processing.
-
-It distinguishes:
-
-- physical stimulus duration;
-- modeled cortical preference;
-- behavioral point of subjective equality;
-- experienced duration.
-
-The accompanying [Neuroscience Primer](neuroscience-primer.md) provides the experimental and methodological background.
-
-### Deep Brain and Consciousness
-
-[If Consciousness Is in the Deep Brain, What Exactly Have We Located?](IER-deep-brain-localization.md) examines contemporary research on cortical and subcortical contributions to consciousness.
-
-Its central distinction is between:
-
-- neural causal localization;
-- enabling conditions;
-- constitutive participation;
-- and physical individuation of the experiential subject.
-
-The article uses deep-brain intervention, hydranencephaly, split-brain research, hemispherotomy, and related work to clarify what neuroscience would have to establish before identifying a physical bearer of experience.
-
-### Developmental Memory and Sedimentation
-
-[The Past Is in the Present](IER-past-in-the-present.md) applies IER's concept of sedimentation to Faravelli et al.'s study of long-term human cortical organoids.
-
-It distinguishes developmental history effective in current organization from psychological memory and age markers. Plasticity leaves developmental options responsive to context; it establishes neither indeterministic physics nor numerical subject continuity.
-
-### Zolpidem and Complex Sleep Behaviors
-
-[Ambien and Complex Sleep Behaviors](IER-ambien-hypothesis.md) develops a conditional case hypothesis about preserved behavioral coordination, impaired redirection, amnesia, and possible UEF cessation. Its claim traceability table distinguishes admitted IER inference limits from empirical questions that remain open.
-
-## Files
-
-```text
-apps/neuroscience/
-├── README.md
-├── neuroscience-primer.md
-├── IER-four-durations-not-one.md
-├── IER-deep-brain-localization.md
-├── IER-past-in-the-present.md
-├── IER-ambien-hypothesis.md
-├── neural-unity-proposal.md
-└── biological-transport.md
-```
-
-## Relationship to IER
-
-These are applications of existing IER concepts, not extensions of the theory.
-
-They introduce no new ontology, criteria for experience, neural diagnostics, or canonical mechanisms. Their purpose is to examine what contemporary neuroscience does and does not establish when interpreted through IER.
+1. **Measurement and localization.** [Four Durations, Not One](IER-four-durations-not-one.md)
+   separates stimulus duration, fitted cortical preference, behavioral judgment,
+   and experienced duration. [Deep Brain and Consciousness](IER-deep-brain-localization.md)
+   distinguishes causal localization from identifying the physical bearer of
+   experience.
+2. **History and altered organization.** [The Past Is in the Present](IER-past-in-the-present.md)
+   examines developmental history effective in cortical organoids.
+   [Ambien and Complex Sleep Behaviors](IER-ambien-hypothesis.md) considers
+   coordinated behavior, impaired redirection, and amnesia under competing
+   experiential hypotheses.
+3. **Neural mechanisms.** [Neural Unity and Binding](neural-unity-proposal.md)
+   asks what organization continues through changes in activity and support.
+   [Neurotransmitter Regulation](neurotransmitter-proposal.md) develops a
+   receptor-and-circuit mapping proposal from a mouse hypothalamus study.
+   Its [animal-model companion](neurotransmitter-animal-model.md) examines the
+   procedures, welfare evidence, and imposed burdens behind those findings.
+4. **Non-neural comparisons.** [Biological Transport](biological-transport.md)
+   examines access, recruitment, and maintenance in assessed biological cases.
+   [Distributed Regulation in Plants](plant-model.md) proposes a bounded study
+   of transport gates and growth. These comparisons help formulate relations
+   to investigate without establishing a neural mechanism or attributing
+   experience to the comparison system.

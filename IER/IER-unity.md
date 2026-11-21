@@ -12,14 +12,14 @@ ier:
   category: regimes_closure
   status: canonical
   filename: IER-unity.md
-  version: 10.12.2
+  version: 10.12.3
 ---
 
 # Experiential Unity
 
 ## Regime Unity Without Aggregation
 
-**Informational Experiential Realism (IER v10.12.2)**\
+**Informational Experiential Realism (IER v10.12.3)**\
 *T2 · Structural Clarification · Non-Normative · Canon-Constrained*
 
 
@@ -132,10 +132,21 @@ one organization versus several interacting organizations. That demand would
 restate the unity question. This removes no qualification, ownership, membership
 or continuity clause, and does not make arbitrary groupings equally adequate.
 
-The affirmative competition/redistribution proposal remains a physical research
-hypothesis. Its universal necessity or sufficiency is unsettled. Shared scarcity
-and reciprocal regulation do not by themselves establish a qualifying operation,
-and a molecular count does not redefine experiential organizational margin.
+The competition/redistribution hypothesis concerns competition for the
+conditions enabling activity to continue. It proposes that, within a qualifying
+operation, competition among constituent activities and unity of their
+organization may describe the same physical relation from different explanatory
+perspectives. Competition for a contest outcome or ranking does not by itself
+express this relation. Neither shared scarcity, reciprocal regulation, nor
+molecular binding competition alone establishes constitutive membership or experiential
+qualification. The hypothesis's universal necessity and sufficiency remain
+unsettled, and a molecular count does not redefine experiential organizational
+margin. `IER-competition.md` develops the proposed correspondence;
+`IER-semaphores.md` develops the proposal that physical successor
+indicators gate pathways through site retention and relocation, with their
+coordination described through frontier geometry, bias, and curvature. These
+remain proposed physical aspects of the account. Neither article supplies an
+independent unity diagnostic.
 
 ### General Organization Before Experiential Qualification
 
