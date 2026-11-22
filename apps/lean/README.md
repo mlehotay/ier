@@ -16,6 +16,12 @@ transport and the Stapled Net.
   local Game of Life calculation.
 - [Slack relations](IER-slack.lean): available independent resolution pathways,
   saturation, conditional exclusion results, and finite countermodels.
+- [Vector pickup](vector-pickup-explained.md): two hypothetical histories with
+  the same cradle state and different continuity, using
+  [vector-pickup.lean](vector-pickup.lean).
+- [Epistemic Kettle](epistemic-kettle-explained.md): rival predictions,
+  discriminating trials, and remaining observational equivalence, using
+  [epistemic-kettle.lean](epistemic-kettle.lean).
 - [Explanation](IER-lean-explained.md): the definitions, four results, and their
   application limits.
 - [Formalization plan](IER-lean-plan.md): scope, implementation sequence,
@@ -23,19 +29,26 @@ transport and the Stapled Net.
 
 ## Run the proof of concept
 
-Both files were checked with Lean 4.19.0 and require no Mathlib. From this
+For a minimal command-line setup on Ubuntu in WSL, follow the
+[WSL installation guide](install-wsl.md).
+
+The examples use Lean 4.19.0 and require no Mathlib. From this
 directory, run:
 
 ```sh
 lean IER-unity.lean
 lean IER-slack.lean
+lean epistemic-kettle.lean
+lean -o IER-unity.olean IER-unity.lean
+LEAN_PATH=. lean vector-pickup.lean
 ```
 
 The unity file includes four `#print axioms` commands for inspecting proof
 dependencies. Its physical membership and continuity predicates are parameters;
 applying the lemmas requires evidence for the stated premises.
 
-From the development repository root, `make check-lean` checks both files.
+From the development repository root, `make check-lean` checks all four files
+and puts the unity import artifact in `build/lean/`.
 Use `make check-lean LEAN=/path/to/lean` to select a toolchain explicitly.
 The standalone commands above also work in the public export.
 
