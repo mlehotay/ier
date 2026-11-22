@@ -55,6 +55,7 @@ research question.
 - [Theory overview](IER/IER-model-overview.md): an entry point to the selected canonical articles.
 - [Examples](examples/README.md): short, non-canonical illustrations.
 - [Applications](apps/README.md): exploratory projects in philosophy, neuroscience, literature, and toy systems.
+- [Lean proofs](apps/lean/README.md): a small membership and continuity proof of concept, with a [plan](apps/lean/IER-lean-plan.md) for encoding core relations and checking bounded physical examples.
 - [Changelog](CHANGELOG.md): version milestones from the Seed release through v10.12.3 opening.
 
 ## Project details

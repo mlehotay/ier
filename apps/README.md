@@ -12,6 +12,12 @@ defining criteria.
 | [Abhidharma](abhidharma/README.md) | A comparison with a historical taxonomy of experiential structures and conditioning. |
 | [The Edible Woman](edible-woman/README.md) | A reading of Margaret Atwood's novel, with a reader guide and claims ledger. |
 | [Game of Life](game-of-life/README.md) | Testbed for general organizational membership, successor production and the intrinsic informational-tension question. |
+| [Lean](lean/README.md) | A proof of concept for membership and continuity relations, with a plan for core relations and bounded physical examples. |
+
+The Lean project includes the [proof source](lean/IER-unity.lean) and
+[formalization plan](lean/IER-lean-plan.md). The initial proofs check consequences
+of supplied definitions and a local Life calculation; they do not establish
+physical qualification or experiential attribution.
 
 Each project has its own reading route and research limits. Simulations,
 analogies, and comparisons do not by themselves establish experiential identity.
