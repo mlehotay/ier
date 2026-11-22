@@ -158,6 +158,13 @@ canonical collapse. Treat reset as ending the run, not as a within-run reversal.
 
 ## Checks and completion records
 
+The first slack slice is implemented in [IER-slack.lean](IER-slack.lean):
+parameterized independent resolution pathways, saturation, conditional exclusion
+and finite countermodels. It retains explicit physical and theory premises;
+this does not complete typed physical evidence or core coverage. The development
+repository's `make check-lean` target checks it alongside the preserved unity
+proof of concept.
+
 For each implementation batch, run the owning Lean Make target, reject unfinished
 proofs, inspect axiom dependencies and review both explicit hypotheses and
 commitment structures. Use concrete satisfying models to detect vacuous results.

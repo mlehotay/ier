@@ -14,6 +14,8 @@ transport and the Stapled Net.
 
 - [Proof source](IER-unity.lean): membership and stage-adjacency lemmas, plus a
   local Game of Life calculation.
+- [Slack relations](IER-slack.lean): available independent resolution pathways,
+  saturation, conditional exclusion results, and finite countermodels.
 - [Explanation](IER-lean-explained.md): the definitions, four results, and their
   application limits.
 - [Formalization plan](IER-lean-plan.md): scope, implementation sequence,
@@ -21,16 +23,40 @@ transport and the Stapled Net.
 
 ## Run the proof of concept
 
-The saved proof was checked with Lean 4.19.0 and requires no Mathlib. From this
+Both files were checked with Lean 4.19.0 and require no Mathlib. From this
 directory, run:
 
 ```sh
 lean IER-unity.lean
+lean IER-slack.lean
 ```
 
-The file includes four `#print axioms` commands for inspecting proof
+The unity file includes four `#print axioms` commands for inspecting proof
 dependencies. Its physical membership and continuity predicates are parameters;
 applying the lemmas requires evidence for the stated premises.
+
+From the development repository root, `make check-lean` checks both files.
+Use `make check-lean LEAN=/path/to/lean` to select a toolchain explicitly.
+The standalone commands above also work in the public export.
+
+## Slack formalization
+
+The slack file uses one context for the candidate, restriction, grain, interval,
+and interventions. An available pathway supplies slack only when it preserves
+independence and completes the relevant burden through localization, indefinite
+deferral, or external resolution. Its physical predicates remain parameters;
+finite delay and external supply do not automatically satisfy them.
+
+The code proves that saturation is absence of those resolution pathways. Under
+explicit IER commitments about the necessary features of UEF operation and
+experience requiring a UEF, it proves that slack excludes both at the same
+scope. Those commitments are visible hypotheses, not independently established
+physical tests or a proof of experiential identity.
+
+Finite stipulated models have the same two successors with and without slack.
+A further model satisfies the commitments while having saturation and no UEF.
+These are logical countermodels to sufficiency claims, not biological models.
+The file reports axiom dependencies for its main results.
 
 ## Scope of the checks
 
