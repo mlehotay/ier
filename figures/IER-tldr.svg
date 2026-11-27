@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="740" viewBox="0 0 1000 740" role="img" aria-labelledby="title desc">
+<title id="title">IER: one physical reality, experiential identity, and explanatory reach</title>
+<desc id="desc">Ordinary physical reality includes qualifying physical operations, identical under IER's proposal to total experience and its subject. Relational dynamics describe that operation, supporting multiple explanatory perspectives. Ethical standing follows from experiential subjecthood and IER's ethical commitment.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#536578"/></marker></defs>
+<rect width="1000" height="740" rx="18" fill="#f8fafc"/>
+<g font-family="system-ui, Arial, sans-serif" fill="#172b3d" text-anchor="middle">
+<text x="500" y="42" font-size="25" font-weight="700">IER · Physical identity, relations and explanatory reach</text>
+<rect x="36" y="66" width="928" height="246" rx="14" fill="#eaf0f5" stroke="#a2b3c3"/>
+<text x="500" y="96" font-size="19" font-weight="700">Ordinary physical reality</text>
+<text x="500" y="120" font-size="14" fill="#46596c">Physical law · causal interaction · process persistence</text>
+<rect x="62" y="146" width="370" height="140" rx="10" fill="white" stroke="#74899d"/>
+<text x="247" y="177" font-size="18" font-weight="700">Qualifying physical operation</text>
+<text x="247" y="204" font-size="14">Coherent intrinsic constraint</text><text x="247" y="225" font-size="14">Constitutive membership and ownership</text><text x="247" y="246" font-size="14">Boundary and produced continuity</text>
+<rect x="568" y="146" width="370" height="140" rx="10" fill="#fff" stroke="#74899d"/>
+<text x="753" y="183" font-size="18" font-weight="700">Unified experience</text><text x="753" y="207" font-size="18" font-weight="700">and its subject</text><text x="753" y="242" font-size="14">One operation, differentiated contents</text>
+<text x="500" y="207" font-size="40" fill="#246778">≡</text><text x="500" y="231" font-size="12" fill="#246778" font-weight="600">Identity</text><text x="500" y="247" font-size="12" fill="#246778">proposal</text>
+<path d="M247 286V346" stroke="#536578" stroke-width="2" fill="none" marker-end="url(#arrow)"/><path d="M753 286V346" stroke="#536578" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="36" y="352" width="620" height="136" rx="12" fill="#e2f0f0" stroke="#60949a"/>
+<text x="346" y="381" font-size="19" font-weight="700">Relational and dynamical description</text><text x="346" y="408" font-size="14">Admissible futures · constraint · frontier geometry</text><text x="346" y="430" font-size="14">Conditional resolution pipeline · inherited history</text><text x="346" y="462" font-size="13" fill="#385e65">Describes operation; adds no causal mechanism</text>
+<rect x="678" y="352" width="286" height="136" rx="12" fill="#f2eae0" stroke="#b3a18a"/>
+<text x="821" y="381" font-size="19" font-weight="700">Ethical commitment</text><text x="821" y="408" font-size="14">Categorical moral standing</text><text x="821" y="430" font-size="14">Independent of cognition or agency</text><text x="821" y="462" font-size="13" fill="#695945">Scoped precaution under uncertainty</text>
+<path d="M346 488V524" stroke="#536578" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="36" y="530" width="928" height="150" rx="12" fill="#fff" stroke="#a2b3c3"/>
+<text x="500" y="557" font-size="19" font-weight="700">Explanatory reach</text>
+<g font-size="15" font-weight="500"><rect x="54" y="573" width="284" height="40" rx="7" fill="#edf2f6"/><text x="196" y="598">Phenomenology</text><rect x="358" y="573" width="284" height="40" rx="7" fill="#edf2f6"/><text x="500" y="598">Agency and action</text><rect x="662" y="573" width="284" height="40" rx="7" fill="#edf2f6"/><text x="804" y="598">Cognition and models</text><rect x="54" y="623" width="284" height="40" rx="7" fill="#edf2f6"/><text x="196" y="648">Memory and identity</text><rect x="358" y="623" width="284" height="40" rx="7" fill="#edf2f6"/><text x="500" y="648">Behavior and situations</text><rect x="662" y="623" width="284" height="40" rx="7" fill="#edf2f6"/><text x="804" y="648">Relationships and social stack</text></g>
+<text x="500" y="706" font-size="13" fill="#46596c">Arrows indicate explanatory relationships, not stages of physical production.</text><text x="500" y="725" font-size="12" fill="#46596c">Constitutive relations specify the proposal; concrete attribution requires further evidence.</text>
+</g></svg>
